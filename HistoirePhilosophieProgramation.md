@@ -7,105 +7,100 @@ Comment être une machine ?
 ## Sommaire
 
 1. [Introduction](#Introduction)
-
 2. [Histoire](#Histoire)
+   1. [Préhistoire](#Préhistoire)
+      1. [Abaques](#Abaques)
+      2. [Bulle enveloppe](#Bulle enveloppe)
 
-   1. [Mathématiques](#Mathématiques)
+   2. [Antiquité](#Antiquité)
+      1. [Algèbre](#Algèbre)
+      2. [Mathématiques](#Mathématiques)
+      3. [Géométrie](Géométrie)
+      4. [Quipu](Quipu)
+      5. [Boulier](#Boulier)
+      6. [Algorithmique](#Algorithmique)
+      7. [Encryption](#Encryption)
+      8. [Calculateurs analogiques](#Calculateurs analogiques)
+   3. [Moyen Âge](#Moyen Âge)
+      1. [Fibonnacci](#Fibonnacci)
 
-      1. [Algèbre et Algorithmique](#Algèbre et géométrie)
+   4. [Epoque moderne](#Epoque moderne)
+      1. [Bâtons de Napier](#Bâtons de Napier)
+      2. [Calculateurs](#Calculateurs)
+      3. [Pascaline](#Pascaline)
+      4. [Binaire](#Binaire)
+      5. [Cartes perforées](#Cartes perforées)
+      6. [Dactylographie](#Dactylographie)
+      7. [Arithmomètre](#Arithmomètre)
+      8. [Machine à différence et analytique](#Machine à différence et analytique)
+      9. [Arithmaurel](#Arithmaurel)
+      10. [Programmation](#Programmation)
+      11. [Algèbre de Boole](#Algèbre de Boole)
+      12. [Remington](#Remington)
+      13. [Mécanographie](#Mécanographie)
+      14. [Tube a vide](#Tube a vide)
+      15. Triode (1906 - Eccles)
 
-      2. [Abaques](#Abaques)
-
-         1. [Bulle enveloppe](#Bulle enveloppe)
-
-         1. [Boulier](#Boulier)
-         2. [Calculateurs analogiques](#Calculateurs analogiques)
-         3. [Fibonnacci](#Fibonnacci)
-         4. [Bâtons de Napier](#Bâtons de Napier)
-
-   2. [Machines à calculer](#Machines à calculer)
-
-      1. [Pascaline](#Pascaline)
-      2. [Binaire](#Binaire)
-      3. [Cartes perforées](#Cartes perforées)
-      4. [Dactylographie](#Dactylographie)
-      5. [Arithmomètre](#Arithmomètre)
-      6. [Machine à différence et analytique](#Machine à différence et analytique)
-      7. [Arithmaurel](#Arithmaurel)
-      8. [Programmation](#Programmation)
-      9. [Algèbre de Boole](#Algèbre de Boole)
-      10. [Remington](#Remington)
-      11. [Mécanographie](#Mécanographie)
-      12. [Tube a vide](#Tube a vide)
-      13. Triode (1906 - Eccles)
-      14. Tabulatrices (1920)
-      15. Enigma (1923)
-      16. Moore School (1923)
-      17. Bande magnetique casettes audio (1930)
-      18. IBM 601 (1931)
-      19. Machine de Turing (1936)
-      20. Z1 Zuse Konrad (1936)
-      21. Atanasoff Berry Computer (1937)
-      22. Z2 (1940)
-      23. Z3 (1941)
-      24. Colossus / Harvard Mark 1 Relay Switches (1944)
-      25. Architecture de von Neumann (1945 ENIAC / EDVAC / SSEM / SSEC / Z4)
-      26. IBM 602 / 603 (1946)
-      27. Naissance de la Eckert-Mauchly Computer Corporation (1946)
-      28. Transistor (1947)
-      29. Théorie de l'information (1948 Claude Shannon)
-      30. Manchester Baby (William Tube RAM 1948)
-      31. EDSAC / BINAC VS IBM CPC / 604 (Wilkes - Binaire - premier OS - Leo I : 1949)
-      32. Rachat de Eckert and Mauchly Computer Corporation par Remington Rand (1950)
-      33. Remington Rand UNIVAC I (1951 )
-      34. Premier compilateur (A-0 System Grace Hopper 1951)
-      35. IBM 701 (1952)
-      36. Z5 (1953)
-      37. IBM 650 (1954)
-      38. Remington Racheté par Sperry Corporation qui deviendra Unisys après fusion avec Burroughs
-      39. Flow - Matic (1955 par grace hopper)
-      40. TRADIC premier ordinateur a transistors (1955)
-      41. Premiers languages haux niveau - Structures de contrôle et de donnes
+   5. Après la première guerre mondiale 
+      1. Tabulatrices (1920)
+      2. Enigma (1923)
+      3. Moore School (1923)
+      4. Bande magnetique casettes audio (1930)
+      5. IBM 601 (1931)
+      6. Machine de Turing (1936)
+      7. Z1 Zuse Konrad (1936)
+      8. Atanasoff Berry Computer (1937)
+   6. Seconde guerre mondiale
+      1. Z2 (1940)
+      2. Z3 (1941)
+      3. Colossus / Harvard Mark 1 Relay Switches (1944)
+      4. Architecture de von Neumann (1945 ENIAC / EDVAC / SSEM / SSEC / Z4)
+   7. Guerre froide et course à l'espace
+      1. IBM 602 / 603 (1946)
+      2. Naissance de la Eckert-Mauchly Computer Corporation (1946)
+      3. Transistor (1947)
+      4. Théorie de l'information (1948 Claude Shannon)
+      5. Manchester Baby (William Tube RAM 1948)
+      6. EDSAC / BINAC VS IBM CPC / 604 (Wilkes - Binaire - premier OS - Leo I : 1949)
+      7. Rachat de Eckert and Mauchly Computer Corporation par Remington Rand (1950)
+      8. Remington Rand UNIVAC I (1951 )
+      9. Premier compilateur (A-0 System Grace Hopper 1951)
+      10. IBM 701 (1952)
+      11. Z5 (1953)
+      12. IBM 650 (1954)
+      13. Remington Racheté par Sperry Corporation qui deviendra Unisys après fusion avec Burroughs
+      14. Flow - Matic (1955 par grace hopper)
+      15. TRADIC premier ordinateur a transistors (1955)
+      16. Premiers languages haux niveau - Structures de contrôle et de donnes
           1. plankalkul eniac ssem speedcoding Flow-Matic
           2. fortran 1957 John Backus
           3. lisp 1958 John Mc Carthy
           4. cobol 1959
-      42. Circuit integré (1958)
-      43. Théorie algorithmique de linformation (1960)
-      44. Spacewar! (1962)
-      45. Programma 101 (1965)
-      46. [Dendral](#Dendral)
-      47. Eliza (1966)
-      48. Intel et Moore (1968)
-      49. Arpanet (1969)
-      50. Atari Pong (1972)
-      51. Altair 8800 (1975)
-      52. Mémoire flash et stockage optique Optical Storage (Disc 1980)
 
-   3. Pac Man (1980)
-
-   4. Www (1990 Tim Berners Lee) web semantique Rose Dieng Kuntz
-
-   5. Deep Blue beats Gary Kasparov (1997)
-
-   6. Honda asimo (2000)
-
-   7. Roomba (2002)
-
-   8. Darpa Grand Challenge (2005)
-
-   9. Imagenet (2009)
-
-   10. Watson gagne Joepardy (2011)
-
-   11. First commercial autonomous drone DJI (2013)
-
-   12. Alphago (2015)
-
-   13. Boston Dynamics 
+      17. Circuit integré (1958)
+      18. Théorie algorithmique de linformation (1960)
+      19. Spacewar! (1962)
+      20. Programma 101 (1965)
+      21. [Dendral](#Dendral)
+      22. Eliza (1966)
+      23. Intel et Moore (1968)
+      24. Arpanet (1969)
+      25. Atari Pong (1972)
+      26. Altair 8800 (1975)
+      27. Mémoire flash et stockage optique Optical Storage (Disc 1980)
+      28. Pac Man (1980)
+      29. Www (1990 Tim Berners Lee) web semantique Rose Dieng Kuntz
+      30. Deep Blue beats Gary Kasparov (1997)
+      31. Honda asimo (2000)
+      32. Roomba (2002)
+      33. Darpa Grand Challenge (2005)
+      34. Imagenet (2009)
+      35. Watson gagne Joepardy (2011)
+      36. First commercial autonomous drone DJI (2013)
+      37. Alphago (2015)
+      38. Boston Dynamics 
 
 3. Présent (21e siècle)
-
    1. Concepts
    2. Appareils
       1. Ordinateurs portables
@@ -178,7 +173,6 @@ Comment être une machine ?
          11. Apprentissage par l’erreur, sans elle rien ne serais possible le succès ne s’obtient qu’en résolvant des micro problèmes 
          12. On fait avec ce qu’on a, alors obligé d’accumuler, ça donne des (cf Cadriciels)
       
-
 4. Philosophie
    1. AR / Mixed Reality
    2. Blockchain
@@ -237,9 +231,56 @@ TL-DR :
 
 
 
-### Mathématiques
+### Préhistoire
 
-Commençons par le commencement, les mathématiques.
+Jusqu'a la naissance de l'écriture.
+
+
+
+#### Abaques
+
+Un abaque est un instrument facilitant le calcul. C'est un outil mnémonique utilisant la numération et permettant d'enregistrer un nombre pour se libérer de la mémoire.
+
+Son étymologie est grecque ou hébreuse, elle explique bien sa représentation et son usage, la poussière (de l'hébreu abaq) ou tablette (du grec akos) qui servaient de support pour l'écrit, qui pouvaient en être volontairement recouvertes, et ainsi réécrire à volonté avec du sable, ou autre poudres. 
+
+Le plus vieux système de quantification connu est le bâton de comptage en **-40000**. C'est un système unaire, c'est a dire un système permettant de quantifier des unités représentées par la répétition d'un symbole, généralement un trait, aussi appelé marque de dénombrement. Le plus ancien est l'Os de Lebombo.
+
+Le plus connu est l'ensemble d'Os d'Ishango, qui serait hypothétiquement une des premières preuves de connaissance humaine des mathématiques et de l'arithmétique, dont un sur lequel on aperçoit les 4 nombres premiers entre 10 et 20, soit 11, 13, 17, et 19 ; ou un autre semblant démontrer les additions et les multiplication, notamment la duplication, avec la juxtaposition des nombres 3 et 6 puis 4 et 8.
+
+Cette méthode est restée, a l'époque, un berger pouvait s'assurer que l'intégralité de son troupeau etait rentré en comparant deux comptages, a l'aide de cailloux par example, chacun representant une bête. 
+
+De nos jours elle a été mécanisée pour compter par groupe de dix les manifestants a l'aide de compteurs manuels.
+
+
+
+#### Bulle enveloppe
+
+Il y'a 6000 ans de cela, en Mésopotamie, vers l'an **-3900**, étaient utilisées des sphères d'argile appelées bulles enveloppe, ou bulle comptable; on y stockait en son sein des calculs ou en latin "calculus", signifiant petit cailloux, et on y comptabilisait le contenu. La signature se fesait en déroulant un sceau-cylindre, orné de motifs représentant des dieux ou le pouvoir. Il servait à imprimer les motifs créusés dessus afin de pouvoir les imprimer sur de l'argile. Ce motif indiquait généralement le possesseur à la manière d'une signature. Certains étaient en matériaux plus ou moins précieux, et comportait parfois des écritures cunéiformes. 
+
+
+
+### Antiquité
+
+-3250 -> 450
+
+#### Algèbre
+
+Dès l’Antiquité, les égyptiens et les babyloniens avait déjà rédigés des textes comportant des problèmes, et des manières mathématiques pour les solutionner, tels que le Papyrus Rhind, qui explicite des opérations comme la division, la multiplication et l’arpantage.
+
+
+
+L'algèbre babylonienne vers **-3000**, utilisait un système sexagésimal, potentiellement emprunté aux sumériens, de base 10 et 60, encore utilisé de nos jours pour le temps, ou les angles, avec bien plus de distinctions d'opérations, que l'on peut aujourd'hui retrouver en programmation.
+
+- Deux pour l'addition :
+  - L'empilement qui donne un troisième nombre à partir de deux autres. `a = b + c`
+  - L'ajout par fusion d'un autre nombre, à un premier. `a += b` qui équivaut à l'empilement `a = a + b`
+- Idem pour la soustraction : 
+  -  `a = b - c`
+  -  `a -= b` qui équivaut à `a = a - b`
+
+
+
+#### Mathématiques
 
 Étymologiquement, ce mot signifie en latin « qui aime apprendre », ou en grec, « qui provient d’une leçon », autrement dit : du savoir d’autrui.
 
@@ -253,17 +294,19 @@ Cette abstraction que sont les mathématiques, basée initialement sur des axiom
 
 
 
-400 ans avant J-C, Platon à contribué à cette distinction dans la Grèce Antique, séparant la technique de calcul ; "appropriée pour l’homme d’affaire et de guerre", qui doit quantifier et gérer ses troupes, gains et pertes ; de la théorie des nombre "nécessaire au philosophe pour surplomber la mer des changements et s’emparer de ce qui est véritable".
+**400 ans avant J.-C.**, Platon à contribué à cette distinction dans la Grèce Antique, séparant la technique de calcul ; "appropriée pour l’homme d’affaire et de guerre", qui doit quantifier et gérer ses troupes, gains et pertes ; de la théorie des nombre "nécessaire au philosophe pour surplomber la mer des changements et s’emparer de ce qui est véritable".
 
 
 
 Les mathématiques pures, tendent à la généralité, ou comme on le dirait en langage de mathématicien, vers la factorisation, c’est à dire la simplification d’un concept sous une forme plus courte, et facile à comprendre, et donc à transmettre et réutiliser. Notez que c'est également une notion très utilisée en programmation, la refactorisation. Elle fait parti des bonnes habitudes et de l'amélioration continue.
 
-Ce processus de réécriture syntaxique, trouve ses plus vieilles traces connues a la même période, le langage SMS serait avéré par un Bibliographe du 3è siècle Diogène Laërce, les premières traces remonteraient à 405 avant J-C, date à laquelle Xénophon, élève de Socrates, aurait usé de sténographie pour transcrire les discours de son maître, face au besoin d'écrire rapidement et idéalement à la vitesse de la parole. La sténographie, du grec ancien "écriture courte", est un procédé de tachygraphie soit "écriture rapide".
+Ce processus de réécriture syntaxique, trouve ses plus vieilles traces connues a la même période, le langage SMS serait avéré par un Bibliographe, Diogène Laërce, les premières traces remonteraient ainsi à **405 avant J.-C**., date à laquelle Xénophon, élève de Socrates, aurait usé de *sténographie* pour transcrire les discours de son maître, face au besoin d'écrire rapidement et idéalement à la vitesse de la parole. La sténographie, du grec ancien "écriture courte", est un procédé de tachygraphie soit "écriture rapide".
 
 
 
-Les mathématiques appliquées, quand à elles, utilisent ces concepts sur des domaines très spécifiques, pour exemple, la géométrie, étymologiquement "science de la mesure du terrain", à été développée dans l’Egypte ancienne, à partir du besoin de mesurer la superficie d’un champ, aussi appelée arpentage.
+#### Géométrie
+
+Les mathématiques appliquées, quand à elles, utilisent ces concepts sur des domaines très spécifiques, pour exemple, la géométrie, étymologiquement "science de la mesure du terrain", à été développée dans l’Egypte antique pendant les trois siècles avant J.-C. , à partir du besoin de mesurer la superficie d’un champ, aussi appelée arpentage.
 
 
 
@@ -271,63 +314,11 @@ En définitive, cette discipline que sont les mathématiques est une philosophie
 
 
 
-
-
-
-
-### Abaques
-
-Un abaque est un instrument facilitant le calcul. C'est un outil mnémonique utilisant la numération et permettant d'enregistrer un nombre pour se libérer de la mémoire.
-
-Son étymologie est grecque ou hébreuse, elle explique bien sa représentation et son usage, la poussière (de l'hébreu abaq) ou tablette (du grec akos) qui servaient de support pour l'écrit, qui pouvaient en être volontairement recouvertes, et ainsi réécrire à volonté avec du sable, ou autre poudres. 
-
-Le plus vieux système de quantification connu est le bâton de comptage en -40000. C'est un système unaire, c'est a dire un système permettant de quantifier des unités représentées par la répétition d'un symbole, généralement un trait, aussi appelé marque de dénombrement. Le plus ancien est l'Os de Lebombo.
-
-Le plus connu est l'ensemble d'Os d'Ishango, qui serait hypothétiquement une des premières preuves de connaissance humaine des mathématiques et de l'arithmétique, dont un sur lequel on aperçoit les 4 nombres premiers entre 10 et 20, soit 11, 13, 17, et 19 ; ou un autre semblant démontrer les additions et les multiplication, notamment la duplication, avec la juxtaposition des nombres 3 et 6 puis 4 et 8.
-
-Cette méthode est restée, a l'époque, un berger pouvait s'assurer que l'intégralité de son troupeau etait rentré en comparant deux comptages, a l'aide de cailloux par example, chacun representant une bête. 
-
-De nos jours elle a été mécanisée pour compter par groupe de dix les manifestants a l'aide de compteurs manuels.
-
-
-
-### Bulle enveloppe
-
-Il y'a 6000 ans de cela, en Mésopotamie, vers l'an -4000, étaient utilisées des sphères d'argile appelées bulles enveloppe, ou bulle comptable; on y stockait en son sein des calculs ou en latin "calculus", signifiant petit cailloux, et on y comptabilisait le contenu. La signature se fesait en déroulant un sceau-cylindre, orné de motifs représentant des dieux ou le pouvoir. Il servait à imprimer les motifs créusés dessus afin de pouvoir les imprimer sur de l'argile. Ce motif indiquait généralement le possesseur à la manière d'une signature. Certains étaient en matérieux plus ou moins précieux, et comportait parfois des écritures cunéiformes. 
-
-
-
-### Algèbre, Algorithmes et géométrie
-
-Dès l’Antiquité, les égyptiens et les babyloniens avait déjà rédigés des textes comportant des problèmes, et des manières mathématiques pour les solutionner, tels que le Papyrus Rhind, qui explicite des opérations comme la division, la multiplication et l’arpantage.
-
-
-
-L'algèbre babylonienne vers -3000, utilisait un système sexagésimal, potentiellement emprunté aux sumériens, de base 10 et 60, encore utilisé de nos jours pour le temps, ou les angles, avec bien plus de distinctions d'opérations, que l'on peut aujourd'hui retrouver en programmation.
-
-- Deux pour l'addition :
-  - L'empilement qui donne un troisième nombre à partir de deux autres. `a = b + c`
-  - L'ajout par fusion d'un autre nombre, à un premier. `a += b` qui équivaut à l'empilement `a = a + b`
-- Idem pour la soustraction : 
-  -  `a = b - c`
-  -  `a -= b` qui équivaut à `a = a - b`
-
-
-
-
-L'algorithme le plus ancien connu est la recette de cuisine. Les premières recettes « publiées » datent de l'époque babylonienne : trois tablettes, conservées à l'université Yale et datant d'environ 1 600 ans av. J.-C. ; elles comportent de manière plus ou moins précise une série de recettes.
-
-Il a fallu cependant attendre le 9e siècle, vers l'an 800, pour que al-khwarizmi définisse l’algèbre, qui signifie réparer une fracture, et sert par définition à la résolution d’un problème ; démocratise le concept d’équation, égalité entre deux expressions mathématiques, ainsi que sa manière de les rédiger en langage mathématiques, permettant la traduction d’un problème en une formule courte, avec la solution représentée en tant que variable inconnue.
-
-La résolution de l’équation passe par une suite d’opération, résultant idéalement en un ensemble ou système d'équations de la forme `variable_inconnue = [résultat_numéraire]`
-
-
-
-### Quipu
+#### Quipu
 
 Cet outil utilisé par les incas signifie "nœud" ou "compte" en quechua, il est en effet possible de faire un nœud simple avec plusieurs boucles, permettant ainsi d'enregistrer un chiffre, et donc des nombres, en base 10.
 
-Le plus ancien connu à été retrouvé sur le site archéologique de Caral, au Pérou, il est daté vers l'an -2500; le climat chaud et sec à permis sa bonne conservation.
+Le plus ancien connu à été retrouvé sur le site archéologique de Caral, au Pérou, il est daté vers l'an **-2500**; le climat chaud et sec à permis sa bonne conservation.
 
 L'empire Inca ayant été constitué de plus de 12 millions d'individus, cet outil à été au cœur de son administration et à permis de recenser la population et gérer l'économie. Les experts du quipu se sont même rendus compte que plus d'un tiers comportaient des informations autres que des chiffres, aussi appelées informations qualitatives, en opposition aux informations quantitatives. Cet outil à donc également servi à transmettre des messages, composé d'un vocabulaire créé à partir de différentes couleurs, types de fils, de nœuds, ainsi que leurs positions et orientations.
 
@@ -335,41 +326,60 @@ En mathématique il y'a une branche très intéressante appelée une théorie de
 
 
 
-### Boulier
+#### Boulier
 
-Le boulier ayant été utilisé par de nombreux peuples séparé, il voit le jour possiblement vers l'an -2000, utilisant le système de numération décimale (10), ou en base alternée (5, 2) pour certains modèles. Il permet un calcul rapide ; même récemment il arrive en tête de compétitions contre un opérateur électronique.
+Le boulier ayant été utilisé par de nombreux peuples séparé, il voit le jour possiblement vers l'an **-2000**, utilisant le système de numération décimale (10), ou en base alternée (5, 2) pour certains modèles. Il permet un calcul rapide ; même récemment il arrive en tête de compétitions contre un opérateur électronique.
 
 Par la suite, Romains, chinois, japonais, russes, mexicains, français, et bien d'autres, utilisent l'outil, et l'enseignent.
 
 
 
-### Calculateurs analogiques
-
-Le plus ancien calculateur analogique attesté est l'Anticythère en -150, c'est le plus vieux mécanisme à engrenage connu. Réalisé en bronze, il servait à prédire les éclipses solaires et lunaires.  Il est constitué notamment d'un cadran de 233 positions correspondant au nombre de mois espaçant deux éclipses, soit un cycle nommé Saros ; d'un cadran métonique pour indiquer le mois et l'année; et d'un cadran de 365 positions, correspondant au nombre de jours d'une année civile du calendrier Egyptien, décrit dans le Papyrus Rhind. Ainsi, en actionnant les engrenages à l'aide d'une potentielle manivelle non retrouvée sur l'Ancythère, on pouvait retrouver les différentes dates des éclipses.
+#### Algorithme
 
 
+L'algorithme le plus ancien connu est la recette de cuisine. Les premières recettes « publiées » datent de l'époque babylonienne : trois tablettes, conservées à l'université Yale et datant d'environ **1 600 ans avant J.-C.** ; elles comportent de manière plus ou moins précise une série de recettes.
 
-### Encryption
+Il a fallu cependant attendre le IX siècle, vers l'an **800**, pour que Al-Khwarizmi définisse l’algèbre, qui signifie réparer une fracture, et sert par définition à la résolution d’un problème ; démocratise le concept d’équation, égalité entre deux expressions mathématiques, ainsi que sa manière de les rédiger en langage mathématiques, permettant la traduction d’un problème en une formule courte, avec la solution représentée en tant que variable inconnue.
+
+La résolution de l’équation passe par une suite d’opération, résultant idéalement en un ensemble ou système d'équations de la forme `variable_inconnue = [résultat_numéraire]`
+
+
+
+#### Encryption
 
 Depuis longtemps, les humains ont eu besoin de communiquer, à de longues distances, des messages, sans qu'ils ne se fasse intercepter, et encore moins décodés et lus voire pire, compris.
 
-Le plus ancien système d'encryption connu est la scytale spartiate vers -600. Utilisé pour transmettre des messages chiffrés par transposition sur un bande, généralement une ceinture en cuir portée pendant le transport, que l'on enroule autour d'un bâton pour l'écriture et la lecture. Le diamètre du bâton étant ainsi la clé d'encryption. Les lettres correspondait encore à leur propre valeur, et leur ordre dans le mot était conservé, malgré la présence de lettre entre chacune d'entres elles. Ces dernières étaient simplement mélangées et l'enroulage permettait de les réaligner afin d'en permettre la lecture.
+Le plus ancien système d'encryption connu est la scytale spartiate vers **-600**. Utilisé pour transmettre des messages chiffrés par transposition sur un bande, généralement une ceinture en cuir portée pendant le transport, que l'on enroule autour d'un bâton pour l'écriture et la lecture. Le diamètre du bâton étant ainsi la clé d'encryption. Les lettres correspondait encore à leur propre valeur, et leur ordre dans le mot était conservé, malgré la présence de lettre entre chacune d'entres elles. Ces dernières étaient simplement mélangées et l'enroulage permettait de les réaligner afin d'en permettre la lecture.
 
 C'est ainsi que quelques années avant Jésus Christ, Jules César encodait ses messages en utilisant un code éponyme. Cette encryptions simple utilisait un décalage d'un certain nombre de lettres de l'alphabet. A vaut D, B vaut E, Z vaut C, etc...
 
 
 
-### Fibonnacci
+#### Calculateurs analogiques
 
-Ayant vécu de 1170 à 1250, Leonardo Fibonnacci est le "chainon manquant", qui aurait importer la notation indo-arabe aux mathématiques occidentales. Il a en effet été éduqué à Béjaïa en actuelle Algérie, et aurait ramené entre autre cette notation à Pise, où son père était marchant et notaire public des douanes.
-
-Il est également connu pour sa fameuse suite, connue des Indiens depuis le 6è siècle, et lié au nombre d'or, proportion que l'on retrouve dans beaucoup de choses y compris des structures produites par la nature, qui n'a pas été évoquée par Fibonnacci. Ce concept à été repris par Luca Pacioli, à la fin du 15è siècle dans un livre illustré par Leonard de Vinci. Pacioli est d'ailleurs le fondateur de la comptabilité par partie double que l'on utilise aujourd'hui dans en entreprises.
+Le plus ancien calculateur analogique attesté est l'Anticythère en **-150**, c'est le plus vieux mécanisme à engrenage connu. Réalisé en bronze, il servait à prédire les éclipses solaires et lunaires.  Il est constitué notamment d'un cadran de 233 positions correspondant au nombre de mois espaçant deux éclipses, soit un cycle nommé Saros ; d'un cadran métonique pour indiquer le mois et l'année; et d'un cadran de 365 positions, correspondant au nombre de jours d'une année civile du calendrier Egyptien, décrit dans le Papyrus Rhind. Ainsi, en actionnant les engrenages à l'aide d'une potentielle manivelle non retrouvée sur l'Ancythère, on pouvait retrouver les différentes dates des éclipses.
 
 
 
-### Bâtons de Napier
+### Moyen Âge
 
-Pour clôturer cette section sur les abaques, en 1617 nous avons plus récemment eu la naissance d'un nouveau venu, nommé Bâtons de Napier. Il facilite le calcul des produits, quotients, puissances et racines. John Napier est un mathématicien écossais qui à notamment donner son nom au logarithme népérien.
+450 -> 1492
+
+#### Fibonnacci
+
+Ayant vécu de **1170** à **1250**, Leonardo Fibonnacci est le "chainon manquant", qui aurait importer la notation indo-arabe aux mathématiques occidentales. Il a en effet été éduqué à Béjaïa en actuelle Algérie, et aurait ramené entre autre cette notation à Pise, où son père était marchant et notaire public des douanes.
+
+Il est également connu pour sa fameuse suite, connue des Indiens depuis le 6e siècle, et lié au nombre d'or, proportion que l'on retrouve dans beaucoup de choses y compris des structures produites par la nature, qui n'a pas été évoquée par Fibonnacci. Ce concept à été repris par Luca Pacioli, à la fin du 15è siècle dans un livre illustré par Leonard de Vinci. Pacioli est d'ailleurs le fondateur de la comptabilité par partie double que l'on utilise aujourd'hui dans en entreprises.
+
+
+
+### Epoque moderne
+
+1492 -> 1792
+
+#### Bâtons de Napier
+
+Pour clôturer cette section sur les abaques, en **1617** nous avons plus récemment eu la naissance d'un nouveau venu, nommé Bâtons de Napier. Il facilite le calcul des produits, quotients, puissances et racines. John Napier est un mathématicien écossais qui à notamment donner son nom au logarithme népérien.
 
 Cet outil permet à l'aide d'un tableau ayant pour lignes les chiffres de 1 à 9, et pour colonnes les chiffres du nombre sur lequel on désire faire une opération, la valeur des différentes lignes de cette colonnes étant inscrites le résultat de l'opération pour chaque ligne donc chiffre de la base 10.
 
@@ -377,21 +387,21 @@ Cet outil permet à l'aide d'un tableau ayant pour lignes les chiffres de 1 à 9
 
 [Retour](#Sommaire)
 
-## Machines à calculer
+#### Calculateurs
 
 A l'époque les ordinateurs étaient des gens, qui calculaient et rédigeai des tables de calcul (logarithmiques, trigonométriques, etc...) Afin de pouvoir avoir la réponse à un calcul de manière (0^1). 
 
 
 
-### Pascaline
+#### Pascaline
 
-En 1650, Blaise Pascal invente ce qui est considéré aujourd'hui comme la première machine à calculer. Dans la volonté de soulager le travail de son père, nommé premier président à la Cour des aides de Normandie à Rouen, cette machine a permit de réaliser additions, soustractions, et multiplication, ainsi que divisions, par répétitions.
+En **1650**, Blaise Pascal invente ce qui est considéré aujourd'hui comme la première machine à calculer. Dans la volonté de soulager le travail de son père, nommé premier président à la Cour des aides de Normandie à Rouen, cette machine a permit de réaliser additions, soustractions, et multiplication, ainsi que divisions, par répétitions.
 
 C'était la seule machine à calculer fonctionnelle au 18è siècle, elle marque le début d'une période de développement de machines à calculer de plus en plus sophistiquées, qui seront présentées dans la suite de cet ouvrage.
 
 
 
-Blaise Pascal, né en 1623 à Clermont-Ferrand, était ce que l'on appelle un esprit *polymathe*, c'est à dire qu'il connaissait un grand nombre de sujets; certes variés, mais notamment dans le champ des arts et des sciences, comme Leonard De Vinci qui eu conçu lui aussi plusieurs machines, pour le théâtre mais aussi hydrauliques, volantes, textiles, et de guerre. Ce genre de personnalités historiques sont considérés comme esprits universels.
+Blaise Pascal, né en **1623** à Clermont-Ferrand, était ce que l'on appelle un esprit *polymathe*, c'est à dire qu'il connaissait un grand nombre de sujets; certes variés, mais notamment dans le champ des arts et des sciences, comme Leonard De Vinci qui eu conçu lui aussi plusieurs machines, pour le théâtre mais aussi hydrauliques, volantes, textiles, et de guerre. Ce genre de personnalités historiques sont considérés comme esprits universels.
 
 Essentiellement mathématicien, il publie un traité de géométrie projective à 16 ans et invente la première machine à calculer à 19.
 
@@ -401,23 +411,37 @@ hexagrammes mystique de Pascal
 
 #### Binaire
 
-Le binaire est pratiqué depuis l'an -750, mais le concept et ses opérations tel qu'on les utilise aujourd'hui, n'ont étés formalisées qu'en 1690 par Leibniz Wilhelm Gottfried. Grand polymathe allemand, il a populariser ce système en démontrant sa facilité d'écriture et d'usage, notamment pour la division qui était à ce moment compliquée à automatiser, et il a projeter son utilisation future en émettant l'idée que des machines plus élaborées puissent en tirer pleinement profit. Ces travaux ont permis a d'autres chercheurs de décrypter les codes binaires utilisés par les hexagrammes en -750.
+Le binaire est pratiqué depuis l'an -750, mais le concept et ses opérations tel qu'on les utilise aujourd'hui, n'ont étés formalisées qu'en **1690** par Leibniz Wilhelm Gottfried. Grand polymathe allemand, il a populariser ce système en démontrant sa facilité d'écriture et d'usage, notamment pour la division qui était à ce moment compliquée à automatiser, et il a projeter son utilisation future en émettant l'idée que des machines plus élaborées puissent en tirer pleinement profit. Ces travaux ont permis a d'autres chercheurs de décrypter les codes binaires utilisés par les hexagrammes en -750.
 
 
 
-Leibniz était rationnaliste, par définition il était opposé à l'empirisme, cette philosophie, qui est également celle de Réné Descartes et Baruch Spinoza
+Leibniz était rationaliste, par définition il était opposé à l'empirisme, cette philosophie, qui est également celle de Réné Descartes et Baruch Spinoza
 
 
 
 #### Cartes perforées
 
-Métier Jacquard, Falcon, Bouchon 1700 -> 1800)
+Ce sont des morceau de papiers rigide dont la présence ou absence de trou corresponds à une information binaire.
+
+La plus ancienne utilisation des cartes perforée est avérée dès 1502 avec la première orgue de Barbarie, ancêtre de la boite à musique.
+
+A partir du 16e siècle, que des automates sont réalisés avec.
+
+En 1725, le lyonnais Basile Bouchon, met au point le premier système de programmation d’un métier à tisser à l'aide d'un ruban perforé. En 1728, son assistant nommé Jean-Baptiste Falcon, à l'idée de remplacer le ruban par une série de cartes perforées reliées entre elles.
+
+Jacques de Vaucanson, célèbre Grenoblois inventeur d'automates musicaux et à objectif de divertir, réutilise ce concept en remplaçant ruban et cartes perforées par un cylindre métallique à pointes.
+
+Enfin Joseph Marie Jacquard à mis en œuvre les procédés déjà existants pour réaliser un métier à tisser éponyme en 1801, date à partir de laquelle il passe une bonne dizaine d'année à démocratiser et perfectionner la machine programmable.
 
 
+
+### Epoque contemporaine
+
+###  
 
 #### Dactylographie
 
-(1800)
+Son étymologie grecque signifie écrire avec les doigts, (1800)
 
 
 
