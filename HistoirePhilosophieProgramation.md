@@ -175,7 +175,7 @@ Comment être une machine ?
          10. Intelligence, Ambiguïtés et apprentissage : Nous sommes tous des IAs
          11. Apprentissage par l’erreur, sans elle rien ne serais possible le succès ne s’obtient qu’en résolvant des micro problèmes 
          12. On fait avec ce qu’on a, alors obligé d’accumuler, ça donne des (cf Cadriciels)
-      
+   
 4. Philosophie
    1. AR / Mixed Reality
    2. Blockchain
@@ -188,14 +188,6 @@ Comment être une machine ?
 
 
 ## Introduction
-
-La première manière pour un être vivant de marquer l'histoire est universelle, c’est celle des fossiles et des dinosaures, celle d’avoir d’existé et laisser une trace une information, stockée sur un support physique de notre Terre.
-
-La deuxième est l’art de sculpter des outils, actuellement estimé 3 millions d’années avant notre ère.
-
-La troisième est la peinture, dont les plus anciennes preuves sont rupestres et âgées de 65 millénaires.
-
-Relativement aux dates précédentes, l’écriture ne vient que récemment, elle a été attestée en Mésopotamie il y’a 5 millénaires.
 
 La transmission d'information s'est donc fiabilisée au fil des époques, avec l'usage d'outils physique, notamment des tablettes, plaques permettant de dessiner, d'écrire, lire, compter. Jusqu'à pouvoir plus récemment, automatiser son traitement et son stockage, à l'aide de l'informatique, dont l'histoire commence au début du 16e siècle. De nos jours, nous interagissons quotidiennement avec des machines, que ce soit à l'aide de la programmation, ou des interfaces qui en sont issues.
 
@@ -232,11 +224,19 @@ TL-DR :
 
 ## Histoire
 
+La première manière pour un être vivant de marquer l'histoire est universelle, c’est celle des fossiles et des dinosaures, celle d’avoir d’existé et laisser une trace une information, stockée sur un support physique de notre Terre.
+
+La deuxième est l’art de sculpter des outils, actuellement estimé 3 millions d’années avant notre ère.
+
+La troisième est la peinture, dont les plus anciennes preuves sont rupestres et âgées de 65 millénaires.
+
+Relativement aux dates précédentes, l’écriture ne vient que récemment, elle a été attestée en Mésopotamie il y’a 5 millénaires.
+
 
 
 ### Préhistoire
 
-Jusqu'a la naissance de l'écriture.
+Avant même la naissance de l'écriture qui marque la fin de la préhistoire, les humains avait déjà besoin de compter et d'effectuer des calculs. Le premier réflexe à sûrement été de compter sur ses doigts, raison pour laquelle la base 10 est si présente dans l'histoire, pour des nombres plus importants, il a fallu inventer d'autres stratagèmes et outils.
 
 
 
@@ -256,6 +256,10 @@ De nos jours elle a été mécanisée pour compter par groupe de dix les manifes
 
 
 
+J'ai également eu l'opportunité de visiter la grotte de Thaïs, où à été retrouvé un os de quelques centimètres aux multiples gravures daté en -12 500, il a été nommé Os coché. En 1991,  l’archéologue américain Alexander Marschack, démontra qu’il ne s’agit pas comme on le pensait alors, d’une représentation décorative, mais d’un système d’enregistrement du temps, possiblement un calendrier basé sur des observations astronomiques. Cette hypothèse est actuellement en 2023 le sujet d'une étude européenne menée  par un groupe de chercheur à l'université de Bordeaux.
+
+
+
 #### Bulle enveloppe
 
 Il y'a 6000 ans de cela, en Mésopotamie, vers l'an **-3900**, étaient utilisées des sphères d'argile appelées bulles enveloppe, ou bulle comptable; on y stockait en son sein des calculs ou en latin "calculus", signifiant petit cailloux, et on y comptabilisait le contenu. La signature se fesait en déroulant un sceau-cylindre, orné de motifs représentant des dieux ou le pouvoir. Il servait à imprimer les motifs créusés dessus afin de pouvoir les imprimer sur de l'argile. Ce motif indiquait généralement le possesseur à la manière d'une signature. Certains étaient en matériaux plus ou moins précieux, et comportait parfois des écritures cunéiformes. 
@@ -264,7 +268,9 @@ Il y'a 6000 ans de cela, en Mésopotamie, vers l'an **-3900**, étaient utilisé
 
 ### Antiquité
 
--3250 -> 450
+Marquée par l'invention de l'écriture en -3250 dans la régoin de la mésopotamie et finie en 450.
+
+
 
 #### Algèbre
 
@@ -355,6 +361,14 @@ C'est ainsi que quelques années avant Jésus Christ, Jules César encodait ses 
 
 
 
+#### Archimède
+
+Archimède de Syracuse est né en -287, on lui doit le fameux théorème de la poussée du même nom et l'explication du principe du levier, mais aussi la vis d'Archimède ou le palan. Considéré comme le plus grand mathématicien de l'Antiquité, il a apporter beaucoup à la géométrie pour laquelle il a étudier et rédigé des traité sur les cônes, spirales, cylindres, paraboles, et cercles ; mais aussi la mécanique
+
+On lui doit également le fameux Eureka ! Signifiant "j'ai trouvé" 
+
+
+
 #### Calculateurs analogiques
 
 Le plus ancien calculateur analogique attesté est l'Anticythère en **-150**, c'est le plus vieux mécanisme à engrenage connu. Réalisé en bronze, il servait à prédire les éclipses solaires et lunaires.  Il est constitué notamment d'un cadran de 233 positions correspondant au nombre de mois espaçant deux éclipses, soit un cycle nommé Saros ; d'un cadran métonique pour indiquer le mois et l'année; et d'un cadran de 365 positions, correspondant au nombre de jours d'une année civile du calendrier Egyptien, décrit dans le Papyrus Rhind. Ainsi, en actionnant les engrenages à l'aide d'une potentielle manivelle non retrouvée sur l'Ancythère, on pouvait retrouver les différentes dates des éclipses.
@@ -363,11 +377,19 @@ Le plus ancien calculateur analogique attesté est l'Anticythère en **-150**, c
 
 #### Routes de la soie
 
--130
+A partir de -130 se développe l'une des voie de transport et d'échange de marchandises les plus importantes de l'histoire, elles seront cruciales jusqu'en 1450 et ont également permis des échanges culturels et scientifiques. Ce réseau passant par l'Europe, le Moyen-Orient, l'Asie et l'Afrique de l'est
 
 
 
-#### Ptolemee
+#### Aristote Platon et Socrates
+
+La science de la biologie serait née d'Aristote et Théophraste, respectivement en charge de documenter la faune et la flore. Aristote à également défendu l'idée d'une terre sphérique, justifiée par la courbure des éclipses de lunes et 
+
+
+
+#### Ptolémée
+
+Claude Ptolémée, est un astronome, astrologue, mathématicien, et géographe grec né vers l'an 100, tout comme Aristote, il pensait que nous étions dans un système géocentrique, ou les planètes et le soleil tournerait autour de la Terre. Malgré cela, il eu rédiger des tables mathématiques très utilisés à l'époque car elle permettait de calculer avec une précision la position des astres et les éclipses de manière suffisante.  
 
 
 
@@ -592,6 +614,8 @@ Créée en **1842** par Timoleon Maurel, avec Arithmomètre et le cylindre de Le
 
 #### Programmation
 
+Un programme est une prévision écrite, c'est l'ordre du jour, c'est ce qui permet de répondre a la question quoi faire quand ? 
+
 Le tout premier programme informatique à été imaginé par Ada Lovelace en **1842**, à 27 ans. 10 ans auparavant, elle rencontre Charles Babbage, avec qui elle travailla, notamment sur la machine analytique, pour laquelle elle conçu ce dit programme.
 
 
@@ -762,17 +786,35 @@ Relay Switches **1944**
 
 
 
+#### Spoutnik 1
+
+1957
+
+
+
 #### Souris
 
 1965
 
-#### 
+
 
 #### Dendral
 
 Ce programme créé en **1965** par deux informaticiens, 1 médecin et 1 chimiste, permet d'identifier des structures moléculaires en se basant sur les connaissances d'expert et des techniques d'analyses telles que la spectrométrie de masse. C'est le premier programme considéré comme "système expert".
 
 Il a par la suite été utilisé comme outil d'aide à la décision. Pour des molécules complexes, le nombre de possibilité étant plus grand, il permet d'obtenir rapidement les différentes combinaisons réalisable selon les règles de la chimie et la masse moléculaire donnée.
+
+
+
+#### Arpanet
+
+1969
+
+
+
+#### Apollo 11
+
+1969
 
 
 
@@ -896,7 +938,7 @@ Comment reproduire le problème ? => Cypress test
 
 
 
-# Bibliographie
+## Bibliographie
 
 
 
