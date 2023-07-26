@@ -14,34 +14,37 @@ Comment être une machine ?
 
    2. [Antiquité](#Antiquité)
       1. [Algèbre](#Algèbre)
-      2. [Mathématiques](#Mathématiques)
-      3. [Géométrie](Géométrie)
-      4. [Quipu](Quipu)
-      5. [Boulier](#Boulier)
-      6. [Algorithmique](#Algorithmique)
-      7. [Encryption](#Encryption)
-      8. [Calculateurs analogiques](#Calculateurs analogiques)
+      2. [Quipu](Quipu)
+      3. [Boulier](#Boulier)
+      4. [Mathématiques](#Mathématiques)
+      5. [Géométrie](Géométrie)
+      6. [Encryption](#Encryption)
+      7. [Calculateurs analogiques](#Calculateurs analogiques)
    3. [Moyen Âge](#Moyen Âge)
-      1. [Fibonnacci](#Fibonnacci)
+      1. [Algorithme](#Algorithme)
+      2. [Fibonnacci](#Fibonnacci)
 
    4. [Epoque moderne](#Epoque moderne)
-      1. [Bâtons de Napier](#Bâtons de Napier)
+      1. [Wilhelm Schikard](#Wilhelm Schikard)
       2. [Calculateurs](#Calculateurs)
-      3. [Pascaline](#Pascaline)
-      4. [Binaire](#Binaire)
-      5. [Cartes perforées](#Cartes perforées)
-      6. [Dactylographie](#Dactylographie)
-      7. [Arithmomètre](#Arithmomètre)
-      8. [Machine à différence et analytique](#Machine à différence et analytique)
-      9. [Arithmaurel](#Arithmaurel)
-      10. [Programmation](#Programmation)
-      11. [Algèbre de Boole](#Algèbre de Boole)
-      12. [Remington](#Remington)
-      13. [Mécanographie](#Mécanographie)
-      14. [Tube a vide](#Tube a vide)
-      15. Triode (1906 - Eccles)
+      3. [Bâtons de Napier](#Bâtons de Napier)
+      4. [Règle coulissante à calculer](#Règle coulissante à calculer)
+      5. [Pascaline](#Pascaline)
+      6. [Binaire](#Binaire)
+      7. [Cartes perforées](#Cartes perforées)
 
-   5. Après la première guerre mondiale 
+   5. [Epoque comtemporaine](#Epoque comtemporaine)
+      1. [Dactylographie](#Dactylographie)
+      2. [Arithmomètre](#Arithmomètre)
+      3. [Machine à différence et analytique](#Machine à différence et analytique)
+      4. [Arithmaurel](#Arithmaurel)
+      5. [Programmation](#Programmation)
+      6. [Algèbre de Boole](#Algèbre de Boole)
+      7. [Remington](#Remington)
+      8. [Mécanographie](#Mécanographie)
+      9. [Tube a vide](#Tube a vide)
+      10. [Triode](#Triode)
+   6. [Après la première guerre mondiale](#Après la première guerre mondiale)
       1. Tabulatrices (1920)
       2. Enigma (1923)
       3. Moore School (1923)
@@ -50,12 +53,12 @@ Comment être une machine ?
       6. Machine de Turing (1936)
       7. Z1 Zuse Konrad (1936)
       8. Atanasoff Berry Computer (1937)
-   6. Seconde guerre mondiale
+   7. [Seconde guerre mondiale](#Seconde guerre mondiale)
       1. Z2 (1940)
       2. Z3 (1941)
       3. Colossus / Harvard Mark 1 Relay Switches (1944)
       4. Architecture de von Neumann (1945 ENIAC / EDVAC / SSEM / SSEC / Z4)
-   7. Guerre froide et course à l'espace
+   8. Guerre froide et course à l'espace
       1. IBM 602 / 603 (1946)
       2. Naissance de la Eckert-Mauchly Computer Corporation (1946)
       3. Transistor (1947)
@@ -280,6 +283,34 @@ L'algèbre babylonienne vers **-3000**, utilisait un système sexagésimal, pote
 
 
 
+
+
+#### Quipu
+
+Cet outil utilisé par les incas signifie "nœud" ou "compte" en quechua, il est en effet possible de faire un nœud simple avec plusieurs boucles, permettant ainsi d'enregistrer un chiffre, et donc des nombres, en base 10.
+
+Le plus ancien connu à été retrouvé sur le site archéologique de Caral, au Pérou, il est daté vers l'an **-2500**; le climat chaud et sec à permis sa bonne conservation.
+
+L'empire Inca ayant été constitué de plus de 12 millions d'individus, cet outil à été au cœur de son administration et à permis de recenser la population et gérer l'économie. Les experts du quipu se sont même rendus compte que plus d'un tiers comportaient des informations autres que des chiffres, aussi appelées informations qualitatives, en opposition aux informations quantitatives. Cet outil à donc également servi à transmettre des messages, composé d'un vocabulaire créé à partir de différentes couleurs, types de fils, de nœuds, ainsi que leurs positions et orientations.
+
+En mathématique il y'a une branche très intéressante appelée une théorie des nœuds, elle fait partie de la sous branche de la topologie, c'est à dire l'étude de la déformation d'un objet sans arrachage ni recollage.   
+
+
+
+#### Boulier
+
+Le boulier ayant été utilisé par de nombreux peuples séparé, il voit le jour possiblement vers l'an **-2000**, utilisant le système de numération décimale (10), ou en base alternée (5, 2) pour certains modèles. Il permet un calcul rapide ; même récemment il arrive en tête de compétitions contre un opérateur électronique.
+
+Par la suite, Romains, chinois, japonais, russes, mexicains, français, et bien d'autres, utilisent l'outil, et l'enseignent.
+
+
+
+#### Code de Hammurabi
+
+Ce texte babylonien daté vers **-1750**, démontre l'existence de lois, notament concernant les salaires, indiquant qu'il existait des corps de métiers bien définis.
+
+
+
 #### Mathématiques
 
 Étymologiquement, ce mot signifie en latin « qui aime apprendre », ou en grec, « qui provient d’une leçon », autrement dit : du savoir d’autrui.
@@ -306,42 +337,11 @@ Ce processus de réécriture syntaxique, trouve ses plus vieilles traces connues
 
 #### Géométrie
 
-Les mathématiques appliquées, quand à elles, utilisent ces concepts sur des domaines très spécifiques, pour exemple, la géométrie, étymologiquement "science de la mesure du terrain", à été développée dans l’Egypte antique pendant les trois siècles avant J.-C. , à partir du besoin de mesurer la superficie d’un champ, aussi appelée arpentage.
+Les mathématiques appliquées, quand à elles, utilisent ces concepts sur des domaines très spécifiques, pour exemple, la géométrie, étymologiquement "science de la mesure du terrain", à été développée dans l’Egypte antique pendant **les trois siècles avant J.-C.** , à partir du besoin de mesurer la superficie d’un champ, aussi appelée arpentage.
 
 
 
 En définitive, cette discipline que sont les mathématiques est une philosophie en soit, c'est a dire un système d'idées permettant de conceptualiser et visualiser le monde tout en le quantifiant. Même étymologiquement on remarque une proximité entre les deux mots pour le savoir, par le partage de connaissance dont on profite lors d'une leçon d'autrui.
-
-
-
-#### Quipu
-
-Cet outil utilisé par les incas signifie "nœud" ou "compte" en quechua, il est en effet possible de faire un nœud simple avec plusieurs boucles, permettant ainsi d'enregistrer un chiffre, et donc des nombres, en base 10.
-
-Le plus ancien connu à été retrouvé sur le site archéologique de Caral, au Pérou, il est daté vers l'an **-2500**; le climat chaud et sec à permis sa bonne conservation.
-
-L'empire Inca ayant été constitué de plus de 12 millions d'individus, cet outil à été au cœur de son administration et à permis de recenser la population et gérer l'économie. Les experts du quipu se sont même rendus compte que plus d'un tiers comportaient des informations autres que des chiffres, aussi appelées informations qualitatives, en opposition aux informations quantitatives. Cet outil à donc également servi à transmettre des messages, composé d'un vocabulaire créé à partir de différentes couleurs, types de fils, de nœuds, ainsi que leurs positions et orientations.
-
-En mathématique il y'a une branche très intéressante appelée une théorie des nœuds, elle fait partie de la sous branche de la topologie, c'est à dire l'étude de la déformation d'un objet sans arrachage ni recollage.   
-
-
-
-#### Boulier
-
-Le boulier ayant été utilisé par de nombreux peuples séparé, il voit le jour possiblement vers l'an **-2000**, utilisant le système de numération décimale (10), ou en base alternée (5, 2) pour certains modèles. Il permet un calcul rapide ; même récemment il arrive en tête de compétitions contre un opérateur électronique.
-
-Par la suite, Romains, chinois, japonais, russes, mexicains, français, et bien d'autres, utilisent l'outil, et l'enseignent.
-
-
-
-#### Algorithme
-
-
-L'algorithme le plus ancien connu est la recette de cuisine. Les premières recettes « publiées » datent de l'époque babylonienne : trois tablettes, conservées à l'université Yale et datant d'environ **1 600 ans avant J.-C.** ; elles comportent de manière plus ou moins précise une série de recettes.
-
-Il a fallu cependant attendre le IX siècle, vers l'an **800**, pour que Al-Khwarizmi définisse l’algèbre, qui signifie réparer une fracture, et sert par définition à la résolution d’un problème ; démocratise le concept d’équation, égalité entre deux expressions mathématiques, ainsi que sa manière de les rédiger en langage mathématiques, permettant la traduction d’un problème en une formule courte, avec la solution représentée en tant que variable inconnue.
-
-La résolution de l’équation passe par une suite d’opération, résultant idéalement en un ensemble ou système d'équations de la forme `variable_inconnue = [résultat_numéraire]`
 
 
 
@@ -361,9 +361,74 @@ Le plus ancien calculateur analogique attesté est l'Anticythère en **-150**, c
 
 
 
+#### Routes de la soie
+
+-130
+
+
+
+#### Ptolemee
+
+
+
+#### Menelaos d'alexandrie
+
+
+
+[Retour](#Sommaire)
+
 ### Moyen Âge
 
 450 -> 1492
+
+
+
+#### Aryabhata
+
+ne en 476
+
+
+
+#### Algorithme
+
+
+L'algorithme le plus ancien connu est la recette de cuisine. Les premières recettes « publiées » datent de l'époque babylonienne : trois tablettes, conservées à l'université Yale et datant d'environ 1 600 ans avant J.-C. ; elles comportent de manière plus ou moins précise une série de recettes.
+
+Il a fallu cependant attendre le IX siècle, vers l'an **800**, pour que Al-Khawarizmi définisse l’algèbre, qui signifie réparer une fracture, et sert par définition à la résolution d’un problème ; démocratise le concept d’équation, égalité entre deux expressions mathématiques, ainsi que sa manière de les rédiger en langage mathématiques, permettant la traduction d’un problème en une formule courte, avec la solution représentée en tant que variable inconnue.
+
+La résolution de l’équation passe par une suite d’opération, résultant idéalement en un ensemble ou système d'équations de la forme `variable_inconnue = [résultat_numéraire]`
+
+
+
+#### Al-Battani
+
+850 > 930
+
+
+
+#### Gerbert d'Aurillac
+
+Aussi connu sous le nom de Sulvestre II ne en **950** et mort en 1003, il aurait demander a l'astronome Lupitus de Barcelone, un traite sur l'astrolabe et l'écriture décimale positionnelle. on ne sait pas si elle lui est parvenue mais il a introduit des concepts de la science arabe en Occident 
+
+
+
+#### Hermann Contract 
+
+ne en **1013** et mort en 1054, il aboutit les travaux de Gerbert sur l'Astrolabe 
+
+
+
+#### Al Zarqali
+
+1027 > 1087
+
+
+
+#### Abraham bar Hiyya Hanassi
+
+1070 > 1140
+
+
 
 #### Fibonnacci
 
@@ -373,23 +438,39 @@ Il est également connu pour sa fameuse suite, connue des Indiens depuis le 6e s
 
 
 
+[Retour](#Sommaire)
+
 ### Epoque moderne
 
 1492 -> 1792
 
+
+
+#### Wilhelm Schickard
+
+Il inventa au début du 17e siècle, une horloge a calculer avec l'aide des travaux de Napier a qui il dédia un éphéméride, malheureusement lors de sa conception un incendie vint détruire ses avancés et une reproduction fonctionnelle montra qu'il manquait certains moyens technique pour finaliser son œuvre et la rendre fonctionnelle.
+
+
+
+#### Calculateurs
+
+Le terme "computer" à été écrit pour la première fois par le poète Richard Brathwaite dans le livre The Yong Mans Gleanings en **1613**, sauf que le terme ne faisait pas référence à une machine car à l'époque, les ordinateurs étaient des gens, qui calculaient et rédigeai des tables de calcul (logarithmiques, trigonométriques, etc...), et ce à fin de pouvoir avoir la réponse à un calcul de manière directe (avec une complexité en O^1). 
+
+
+
 #### Bâtons de Napier
 
-Pour clôturer cette section sur les abaques, en **1617** nous avons plus récemment eu la naissance d'un nouveau venu, nommé Bâtons de Napier. Il facilite le calcul des produits, quotients, puissances et racines. John Napier est un mathématicien écossais qui à notamment donner son nom au logarithme népérien.
+En **1617** nommé Bâtons de Napier. Il facilite le calcul des produits, quotients, puissances et racines. John Napier est un mathématicien écossais qui à notamment donner son nom au logarithme népérien.
 
 Cet outil permet à l'aide d'un tableau ayant pour lignes les chiffres de 1 à 9, et pour colonnes les chiffres du nombre sur lequel on désire faire une opération, la valeur des différentes lignes de cette colonnes étant inscrites le résultat de l'opération pour chaque ligne donc chiffre de la base 10.
 
 
 
-[Retour](#Sommaire)
+#### Règle coulissante à calculer
 
-#### Calculateurs
+Pour clôturer la présentation d'abaques, en **1621** William Oughtred à qui on doit la notation "x" pour la multiplication, se base sur les travaux de Napier et invente une règle coulissante destinée à calculer des multiplications, divisions et également des exponentielles, racines, puissances et calculs trigonométriques, laissant l'addition et la soustraction à de plus simples abaques.
 
-A l'époque les ordinateurs étaient des gens, qui calculaient et rédigeai des tables de calcul (logarithmiques, trigonométriques, etc...) Afin de pouvoir avoir la réponse à un calcul de manière (0^1). 
+Aujourd'hui obsolètes, elles ont pendant longtemps été, à la manière des tables de calcul était une solution suffisamment précise, abordable et facile à créer.
 
 
 
@@ -427,17 +508,37 @@ La plus ancienne utilisation des cartes perforée est avérée dès 1502 avec la
 
 A partir du 16e siècle, que des automates sont réalisés avec.
 
-En 1725, le lyonnais Basile Bouchon, met au point le premier système de programmation d’un métier à tisser à l'aide d'un ruban perforé. En 1728, son assistant nommé Jean-Baptiste Falcon, à l'idée de remplacer le ruban par une série de cartes perforées reliées entre elles.
+En **1725**, le lyonnais Basile Bouchon, met au point le premier système de programmation d’un métier à tisser à l'aide d'un ruban perforé. En 1728, son assistant nommé Jean-Baptiste Falcon, à l'idée de remplacer le ruban par une série de cartes perforées reliées entre elles.
 
 Jacques de Vaucanson, célèbre Grenoblois inventeur d'automates musicaux et à objectif de divertir, réutilise ce concept en remplaçant ruban et cartes perforées par un cylindre métallique à pointes.
 
-Enfin Joseph Marie Jacquard à mis en œuvre les procédés déjà existants pour réaliser un métier à tisser éponyme en 1801, date à partir de laquelle il passe une bonne dizaine d'année à démocratiser et perfectionner la machine programmable.
+Enfin Joseph Marie Jacquard à mis en œuvre les procédés déjà existants pour réaliser un métier à tisser éponyme en **1801**, date à partir de laquelle il passe une bonne dizaine d'année à démocratiser et perfectionner la machine programmable.
+
+
+
+#### Comète de Halley
+
+En **1757**, trois français, Alexis Clairaut, Jérôme Lalande, et Nicole Lepaute aboutissent le travail d'un polymathe Anglais, Edmond Halley, qui expliqua dans un livre que ce que l'on croyait être des comètes distinctes n'en sont en réalité qu'une seule avec une périodicité de 76 ans pour effectuer une révolution autour du soleil.
+
+Ce travail conjoint à permis l'abandon de la théorie des tourbillons de Descartes au profit de la mécanique Newtonienne.
 
 
 
 ### Epoque contemporaine
 
-###  
+Le début en est marqué par la révolution industrielle qui a commencer en 1760 au Royaume-Unis, le besoin de calcul, de gestion et d'automatisation est grandissant.
+
+
+
+#### Almanach nautique
+
+Depuis **1766**, cette bible du marin est éditée chaque année, c'est le premier projet de table permanent.
+
+Avant d'être automatisée, elle était calculée par deux personnes différentes et validée par un dernier qui comparait les résultats.
+
+Lorsque deux des auteurs principaux, les astronomes Malachy Hitchins et Nevil Maskelyne meurent respectivement en 1809 et 1811, l'ouvrage sombre pendant 20 ans, croulant sous les erreurs. 
+
+
 
 #### Dactylographie
 
@@ -447,7 +548,9 @@ Son étymologie grecque signifie écrire avec les doigts, (1800)
 
 #### Arithmomètre
 
- (1820)
+ C'est la première machine à addition commercialisée, elle fût développée par Thomas de Colmar en 1820. Cependant elle n'a jamais été produite en grande quantité car elle était réalisé à la main à raison d'un ou deux exemplaires par mois. De plus, le procédé de calcul était très lent, la plupart des utilisateur ni voyait pas de gain de temps lors de petit calculs, rendant son utilisation quasiment exclusive aux assurances et ingénieurs, qui utilisent des calculs mettant en œuvre des grand nombres supérieur au million.
+
+Malgré son bas coût de 150$, la demande pour ce produit resta donc faible.
 
 
 
@@ -455,19 +558,25 @@ Son étymologie grecque signifie écrire avec les doigts, (1800)
 
 La première personne à avoir automatiser l'édition de tables de calcul est Charles Babbage, qui a initialement travaillé avec des calculateurs humains, "computers"  en anglais. La conception de telles tables étaient fastidieuses à superviser et encore plus à calculer et réaliser. Il a œuvré à développer une machine basée sur les méthodes de calcul de l'époque, réalisées par des gens qui étaient coiffeurs, ayant perdu leur travail suite à la révolution française, période après laquelle la coiffure étant vue comme symbole de l'aristocratie, à été délaissé.
 
-Ils effectuaient essentiellement des additions et des soustraction, sous la supervision de mathématiciens qui leurs prépareraient les formules d'après la méthode des différences finies. D'où le nom de la machine qu'il a inventé en 1834, la machine a différences.  Ayant l'expérience du milieu, il voulait réaliser un système fiable, résilient a l'erreur. Cette dernière pouvait provenir du calcul, mais arrivant le plus souvent lors de l'impression, il à donc fait en sorte, dès la phase de design, que sa machine prépare directement le texte en résultant pour l'impression.
+Ils effectuaient essentiellement des additions et des soustraction, sous la supervision de mathématiciens qui leurs prépareraient les formules d'après la méthode des différences finies. D'où le nom de la machine qu'il a inventé en **1834**, la machine a différences.  Ayant l'expérience du milieu, il voulait réaliser un système fiable, résilient a l'erreur. Cette dernière pouvait provenir du calcul, mais arrivant le plus souvent lors de l'impression, il à donc fait en sorte, dès la phase de design, que sa machine prépare directement le texte en résultant pour l'impression.
 
 C'est une approche très intéressante réduisant les intermédiaires et automatisant toute la chaine de création, que je reprendrais plus tard. On remarque déjà que la machine est un outil qui peut nous guider et réduire nos erreurs, ce qui à l'époque était crucial, notamment en mer ou une erreur de calcul ou d'impression sur l'almanach du navigateur pouvait mener a la perte de tout un navire et de son équipage. 
 
+De 1820 à 1830 il à visiter beaucoup d'usines en Europe dans le but de trouver des idée pour sa machine à différences, il n'en trouva pas beaucoup mais cela lui a permit de devenir un économiste des machines industrielles à son époque.
+
+A peine eu t'il conçu la machine à différence, qu'il eu oublier la finalité de base : réaliser des tables de calcul, et embrassa l'idée d'une machine capable de calculer tout ce qu'un humain pourrait lui demander, la Machine Analytique.
+
+De son vivant, seul le concept existait, elle ne vu le jour que grâce à son fils, qui après une tentative infructueuse en 1888, revint à la charge et réalisa en 1906 une machine fonctionnelle qu'il eu présenté devant l'académie royale anglaise d'astronomie, après quoi il en fit don au musée des sciences de Londres en 1910.
 
 
-##### Maison d'échanges
+
+#### Maison d'échanges
 
 L'informatique et la gestion bancaire et une vieille histoire d'amour. Avant que l'ordinateur n'apparaisse, des gens œuvraient à sa tâche, chaque banque avait son messager qui rapportait les différents chèques et espèces, vers les autres banques, valant pour échange.
 
 
 
-##### Télégraphe
+#### Télégraphe
 
 Au 18è siècle, apparaissent les télégraphes permettant émettre et de recevoir des messages sur de longues distances  à l'aide de codes pour une transmission rapide et fiable. Notamment le morse.
 
@@ -477,19 +586,19 @@ Au 19e siècle, 3 télégraphistes sur 4 étaient des femmes.
 
 #### Arithmaurel
 
-Créée en 1842 par Timoleon Maurel, avec Arithmomètre et le cylindre de Leibneiz pour inspiration, cette machine à calculer permettait en renseignant simplement les valeurs (opérandes) et les opérateurs. C'est une grande avancée en termes d'expérience utilisateur, cependant sa conception à grande échelle n'as pas été possible à cause des limitations techniques de l'époques. La division quand à elle reste fastidieuse et demande à l'utilisateur d'effectuer un ensemble de soustraction avec beaucoup d'attention.
+Créée en **1842** par Timoleon Maurel, avec Arithmomètre et le cylindre de Leibneiz pour inspiration, cette machine à calculer permettait en renseignant simplement les valeurs (opérandes) et les opérateurs. C'est une grande avancée en termes d'expérience utilisateur, cependant sa conception à grande échelle n'as pas été possible à cause des limitations techniques de l'époques. La division quand à elle reste fastidieuse et demande à l'utilisateur d'effectuer un ensemble de soustraction avec beaucoup d'attention.
 
 
 
 #### Programmation
 
-Le tout premier programme informatique à été imaginé par Ada Lovelace en 1842, à 27 ans. 10 ans auparavant, elle rencontre Charles Babbage, avec qui elle travailla, notamment sur la machine analytique, pour laquelle elle conçu ce dit programme.
+Le tout premier programme informatique à été imaginé par Ada Lovelace en **1842**, à 27 ans. 10 ans auparavant, elle rencontre Charles Babbage, avec qui elle travailla, notamment sur la machine analytique, pour laquelle elle conçu ce dit programme.
 
 
 
 #### Algèbre booléen
 
-En 1847 George Boole, invente un algèbre binaire éponyme. Basé sur vrai et faux, 1 et 0, il formule et démocratise les tables de vérités des différantes portes et fonctions logiques.
+En **1847** George Boole, invente un algèbre binaire éponyme. Basé sur vrai et faux, 1 et 0, il formule et démocratise les tables de vérités des différantes portes et fonctions logiques.
 
 
 
@@ -509,7 +618,37 @@ La Remington de 1874 nous à apporter les claviers QWERTYUIOP, et la suite alpha
 
 
 
-##### Mécanographie
+#### Téléphone
+
+En 1876 Alexander Graham Bell, réalise le premier appel téléphonique.
+
+
+
+#### NCR
+
+La Nationnal Cash Register à été créée en 1884
+
+
+
+#### Burroughs Corporation
+
+Créer en 1886, devint Unisys après sa fusion en 1986 avec Sperry Univac, anciennement Remington.
+
+
+
+#### Calculatrices à crosses 
+
+En 1889, le mécanisme des calculatrices à crosse est breveté par le Français Louis Troncet, sous le nom d'Arithmographe
+
+
+
+#### Comptomètre
+
+Inventé aux États-Unis par Dorr E. Felt en 1887, le comptomètre reprend l'idée du clavier à touche de l'arithmomètre. Le principe de l'addition reste aussi simple que celui de la Pascaline. Par contre, la soustraction est différente et procède par addition du complément à 9 qui est inscrit en minuscule sur chaque touche du clavier.
+
+
+
+#### Mécanographie
 
 Hermann Hollerith est l'inventeur de la mécanographie, c'est un ingénieur américain qui a été recruté en tant que statisticien au Bureau de recensement des États Unis.
 
@@ -519,7 +658,7 @@ Avec la méthode automatisée par cartes perforées d'Hermann Hollerith en **189
 
 Il a construit une machine à statistiques à cartes perforées qui exploite des cartes 12x6cm regroupant les 210 cases nécessaires pour recevoir toutes les informations nécessaires. Son invention à permis d'effectuer le recensement, auparavant manuel en seulement six ans. Par la suite il a améliorer le fonctionnement de cette machine en utilisant un métier à tisser Jacquard, pour mécaniser la lecture des fiches de recensement et améliorer son efficacité sur une idée de l'un de ses collègues.
 
-Enfin, il finit par quitter l'administration et fonde la Tabulating Machine Company en 1896 qui deviendra plus tard l'International Business Machines Corporation, IBM.
+Enfin, il finit par quitter l'administration et fonde la Tabulating Machine Company en 1896 qui fusionnera en 1911 avec 3 autres entreprise pour fonder la Computing-Tabulating-Recording Company (CTR), qui deviendra plus tard l'International Business Machines Corporation, IBM.
 
 
 
@@ -529,15 +668,111 @@ Enfin, il finit par quitter l'administration et fonde la Tabulating Machine Comp
 
 
 
+#### Triode
+
+(1906 - Eccles)
+
+
+
+### Après la première guerre mondiale
+
+#### Tabulatrices
+
+**1920**
+
+
+
+#### Enigma
+
+**1923**
+
+
+
+#### Moore School
+
+**1923**
+
+
+
+#### Bande magnétique casettes audio 
+
+**1930**
+
+
+
+#### IBM 601 
+
+**1931**
+
+
+
+#### Machine de Turing 
+
+**1936**
+
+
+
+#### Z1 Zuse Konrad
+
+**1936**
+
+
+
+#### Atanasoff Berry Computer 
+
+**1937**
+
+
+
+### Seconde guerre mondiale
+
+
+
+#### Z2
+
+**1940**
+
+
+
+#### Z3
+
+**1941**
+
+
+
+#### Colossus / Harvard Mark 1
+
+Relay Switches **1944**
+
+
+
+#### Architecture de von Neumann
+
+**1945** ENIAC / EDVAC / SSEM / SSEC / Z4
+
+
+
+### Guerre froide et course a l'espace
+
+
+
+#### Trackball
+
+1946
+
+
+
+#### Souris
+
+1965
+
+#### 
+
 #### Dendral
 
-Ce programme créé en 1965 par deux informaticiens, 1 médecin et 1 chimiste, permet d'identifier des structures moléculaires en se basant sur les connaissances d'expert et des techniques d'analyses telles que la spectrométrie de masse. C'est le premier programme considéré comme "système expert".
+Ce programme créé en **1965** par deux informaticiens, 1 médecin et 1 chimiste, permet d'identifier des structures moléculaires en se basant sur les connaissances d'expert et des techniques d'analyses telles que la spectrométrie de masse. C'est le premier programme considéré comme "système expert".
 
 Il a par la suite été utilisé comme outil d'aide à la décision. Pour des molécules complexes, le nombre de possibilité étant plus grand, il permet d'obtenir rapidement les différentes combinaisons réalisable selon les règles de la chimie et la masse moléculaire donnée.
-
-
-
-
 
 
 
@@ -601,7 +836,11 @@ En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une 
 
 
 
+#### Division du travail
 
+Maisons d'échanges, Babbage était fasciné par la division mentale du travail qui s'y opérait, comme De Prony s'étant inspiré d'Adam Smith
+
+https://fr.wikipedia.org/wiki/Division_du_travail
 
 
 
@@ -635,11 +874,25 @@ Le formulaire de création de fonction et son interface dédiées indiqueront le
 
 La mode n'est que passagère, il n'y a que les habitudes de vies et s'en tenir à un plan structuré et cohérent qui reste dans l'histoire.
 
-Comment est ce que je pense, imagine et souhaide aider a creer un avenir de la programation ?
+Comment est ce que je pense, imagine et souhaite aider a créer un avenir de la programmation ?
 
 A travers ma philosophie, a l'aide de l'intelligence et la . 
 
+Actuellement, malgré les bonnes pratiques prônées, peu sont mises en application et beaucoup de fois je me retrouve a effectuer des copier coller avec une légère modification alors que ma philosophie est que chaque copier coller devrait etre une fonction reutilisable avec pour parametre les variables amenées a changer ou être configurable.
 
+
+
+Peut on le faire et doit on le faire ?
+
+On peut dire oui on peut dire non, mais pour moi
+
+C'est mauvais de ne pas connaitre si on peut connaitre, c'est mauvais de ne pas savoir ce que l'on peut savoir, Ce veut dire qu'il faut préparer tout les engins toutes les techniques ou pratiques que la science permette
+
+C'est très difficile pour le chercheur qui fait la découverte, de savoir et de peser immédiatement, les possibilitées ultérieures. On le remarque dans le jeu de la vie 
+
+
+
+Comment reproduire le problème ? => Cypress test
 
 
 
@@ -647,7 +900,7 @@ A travers ma philosophie, a l'aide de l'intelligence et la .
 
 
 
-https://www.physique.usherbrooke.ca/~afaribau/essai/#:~:text=Les%20tables%20de%20calcul%20furent,aux%20cailloux%20selon%20leur%20position
+https://www.physique.usherbro,oke.ca/~afaribau/essai/#:~:text=Les%20tables%20de%20calcul%20furent,aux%20cailloux%20selon%20leur%20position
 
 
 
