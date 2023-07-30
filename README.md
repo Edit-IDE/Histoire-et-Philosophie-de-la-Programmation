@@ -4,6 +4,10 @@ Mémoire de fin d’année de 2e année de Mastère d’architecture des systèm
 
 
 
+## [Lire](./HistoirePhilosophieProgramation.md)
+
+
+
 ## Auteur
 
 Dorian Blanchard, CV : http://github.io/cv_a_faire
@@ -12,7 +16,7 @@ Dorian Blanchard, CV : http://github.io/cv_a_faire
 
 ## Hello world
 
-Dans ce dépôt [Git](https://git-scm.com/) je stocke mes notes et le PDF généré par l'éditeur Markdown [Typora](https://typora.io/) pour la réalisation de mon mémoire de dernière année de Mastère d’architecture des systèmes d’information à l’Ecole Hexagone.
+Dans ce dépôt [Git](https://git-scm.com/) je stocke mes notes et le PDF généré par l'éditeur Markdown [Typora](https://typora.io/) pour la réalisation de mon mémoire de dernière année de Mastère.
 
 
 

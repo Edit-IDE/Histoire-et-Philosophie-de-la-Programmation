@@ -88,21 +88,22 @@ Comment être une machine ?
       22. Eliza (1966)
       23. Intel et Moore (1968)
       24. Arpanet (1969)
-      25. Atari Pong (1972)
-      26. Altair 8800 (1975)
-      27. Mémoire flash et stockage optique Optical Storage (Disc 1980)
-      28. Pac Man (1980)
-      29. Www (1990 Tim Berners Lee) web semantique Rose Dieng Kuntz
-      30. Deep Blue beats Gary Kasparov (1997)
-      31. Honda asimo (2000)
-      32. Roomba (2002)
-      33. Darpa Grand Challenge (2005)
-      34. Imagenet (2009)
-      35. Watson gagne Joepardy (2011)
-      36. First commercial autonomous drone DJI (2013)
-      37. Alphago (2015)
-      38. Boston Dynamics 
-
+   9. [Popularisation et Mondialisation](#Popularisation et Mondialisation)
+      1. Atari Pong (1972)
+      2. [Altair 8800](#Altair 8800)
+      3. Mémoire flash et stockage optique Optical Storage (Disc 1980)
+      4. Pac Man (1980)
+      5. Www (1990 Tim Berners Lee) web semantique Rose Dieng Kuntz
+      6. Deep Blue beats Gary Kasparov (1997)
+      7. Honda asimo (2000)
+      8. Roomba (2002)
+      9. Darpa Grand Challenge (2005)
+      10. Imagenet (2009)
+      11. Watson gagne Joepardy (2011)
+      12. First commercial autonomous drone DJI (2013)
+      13. Alphago (2015)
+      14. Boston Dynamics 
+   
 3. Présent (21e siècle)
    1. Concepts
    2. Appareils
@@ -189,7 +190,7 @@ Comment être une machine ?
 
 ## Introduction
 
-La transmission d'information s'est donc fiabilisée au fil des époques, avec l'usage d'outils physique, notamment des tablettes, plaques permettant de dessiner, d'écrire, lire, compter. Jusqu'à pouvoir plus récemment, automatiser son traitement et son stockage, à l'aide de l'informatique, dont l'histoire commence au début du 16e siècle. De nos jours, nous interagissons quotidiennement avec des machines, que ce soit à l'aide de la programmation, ou des interfaces qui en sont issues.
+La transmission d'information s'est fiabilisée au fil des époques, avec l'usage d'outils physique, notamment des tablettes, plaques permettant de dessiner, d'écrire, lire, compter. Jusqu'à pouvoir plus récemment, automatiser son traitement et son stockage, à l'aide de l'informatique, dont l'histoire commence au début du 16e siècle. De nos jours, nous interagissons quotidiennement avec des machines, que ce soit à l'aide de la programmation, ou des interfaces qui en sont issues.
 
 
 
@@ -207,12 +208,9 @@ Enfin, à l’aide de l’étude précédente, je dresserai ma projection en tan
 
 Notes : 
 
-- L’histoire se souvient rarement de la première occurrence d’une invention, ce qui reste est généralement sa démocratisation. Il est évident que tout les concepts scientifiques ne sont que des formulations écrites de théories issues de la raison, qui était elles mêmes déjà connues de tout temps de manière empirique.
-- L'ordinateur a remplacer le greffier et le calculateur, 
-
-
-
-TL-DR :
+- L’histoire se souvient rarement de la première occurrence d’une invention, ce qui reste est généralement sa démocratisation.
+- Il est évident que tout les concepts scientifiques ne sont que des formulations écrites de théories issues de la raison, qui était elles mêmes déjà connues de tout temps de manière empirique.
+- L'ordinateur a remplacer le greffier et le calculateur.
 
 - Les paroles s’envolent les écrits restent, c'est pourquoi la littérature est importante.
 
@@ -224,7 +222,7 @@ TL-DR :
 
 ## Histoire
 
-La première manière pour un être vivant de marquer l'histoire est universelle, c’est celle des fossiles et des dinosaures, celle d’avoir d’existé et laisser une trace une information, stockée sur un support physique de notre Terre.
+La première manière pour un être vivant de marquer l'histoire est universelle, c’est celle des fossiles et des dinosaures, celle d’avoir d’existé et laisser une trace, une information, stockée sur un support physique, sur notre Terre.
 
 La deuxième est l’art de sculpter des outils, actuellement estimé 3 millions d’années avant notre ère.
 
@@ -256,7 +254,9 @@ De nos jours elle a été mécanisée pour compter par groupe de dix les manifes
 
 
 
-J'ai également eu l'opportunité de visiter la grotte de Thaïs, où à été retrouvé un os de quelques centimètres aux multiples gravures daté en -12 500, il a été nommé Os coché. En 1991,  l’archéologue américain Alexander Marschack, démontra qu’il ne s’agit pas comme on le pensait alors, d’une représentation décorative, mais d’un système d’enregistrement du temps, possiblement un calendrier basé sur des observations astronomiques. Cette hypothèse est actuellement en 2023 le sujet d'une étude européenne menée  par un groupe de chercheur à l'université de Bordeaux.
+J'ai également eu l'opportunité de visiter la grotte de Thaïs, où à été retrouvé un os de quelques centimètres aux multiples gravures, daté en -12 500, il a été nommé Os coché.
+
+En 1991,  l’archéologue américain Alexander Marschack, démontra qu’il ne s’agit pas comme on le pensait alors, d’une représentation décorative, mais d’un système d’enregistrement du temps, possiblement un calendrier basé sur des observations astronomiques. Cette hypothèse est actuellement en 2023 le sujet d'une étude européenne menée par un groupe de chercheur à l'université de Bordeaux.
 
 
 
@@ -268,7 +268,7 @@ Il y'a 6000 ans de cela, en Mésopotamie, vers l'an **-3900**, étaient utilisé
 
 ### Antiquité
 
-Marquée par l'invention de l'écriture en -3250 dans la régoin de la mésopotamie et finie en 450.
+Marquée par l'invention de l'écriture en -3250 dans la région de la Mésopotamie, cela a permis une transmission d'information complexes sur un support théoriquement permanent et finie en 450.
 
 
 
@@ -317,6 +317,16 @@ Ce texte babylonien daté vers **-1750**, démontre l'existence de lois, notamen
 
 
 
+#### Encryption
+
+Depuis longtemps, les humains ont eu besoin de communiquer, à de longues distances, des messages, sans qu'ils ne se fasse intercepter, et encore moins décodés et lus voire pire, compris.
+
+Le plus ancien système d'encryption connu est la scytale spartiate vers **-600**. Utilisé pour transmettre des messages chiffrés par transposition sur un bande, généralement une ceinture en cuir portée pendant le transport, que l'on enroule autour d'un bâton pour l'écriture et la lecture. Le diamètre du bâton étant ainsi la clé d'encryption. Les lettres correspondait encore à leur propre valeur, et leur ordre dans le mot était conservé, malgré la présence de lettre entre chacune d'entres elles. Ces dernières étaient simplement mélangées et l'enroulage permettait de les réaligner afin d'en permettre la lecture.
+
+C'est ainsi que quelques années avant Jésus Christ, Jules César encodait ses messages en utilisant un code éponyme. Cette encryptions simple utilisait un décalage d'un certain nombre de lettres de l'alphabet. A vaut D, B vaut E, Z vaut C, etc...
+
+
+
 #### Mathématiques
 
 Étymologiquement, ce mot signifie en latin « qui aime apprendre », ou en grec, « qui provient d’une leçon », autrement dit : du savoir d’autrui.
@@ -324,6 +334,8 @@ Ce texte babylonien daté vers **-1750**, démontre l'existence de lois, notamen
 
 
 Sa définition moderne, présente dans le Larousse, comme sur Wikipédia, vient corroborer cette étymologie, indiquant que c’est un ensemble de connaissances abstraites résultant de raisonnements logiques, appliqués à des objets tangibles, telles que les formes physiques, les structures qu’elles constituent, et leurs transformations possibles à l’aide des relations existantes entres ces objets.
+
+
 
 Ces connaissances abstraites, ce sont les nombres, ainsi que les opérations, formules et théorèmes qui nous permettent de les utiliser.
 
@@ -351,19 +363,101 @@ En définitive, cette discipline que sont les mathématiques est une philosophie
 
 
 
-#### Encryption
+#### Thalès
 
-Depuis longtemps, les humains ont eu besoin de communiquer, à de longues distances, des messages, sans qu'ils ne se fasse intercepter, et encore moins décodés et lus voire pire, compris.
+Né vers l'an **-620**, Thales fut un philosophe et mathématicien grec si important que tous furent d'accord pour dire qu'un était l'un des plus grands sages de la Grèce antique. Il eu vécu et étudier en Egypte où il détermina la hauteur de pyramides, prédit des éclipses, et théorise les crues du Nil. Il exporta la science de la géométrie en Grèce et on lui doit deux des plus vieux théorèmes géométrique qui portent son nom, encore étudiés aujourd'hui, bien que leurs démonstration n'est été avérée que plus tard.
 
-Le plus ancien système d'encryption connu est la scytale spartiate vers **-600**. Utilisé pour transmettre des messages chiffrés par transposition sur un bande, généralement une ceinture en cuir portée pendant le transport, que l'on enroule autour d'un bâton pour l'écriture et la lecture. Le diamètre du bâton étant ainsi la clé d'encryption. Les lettres correspondait encore à leur propre valeur, et leur ordre dans le mot était conservé, malgré la présence de lettre entre chacune d'entres elles. Ces dernières étaient simplement mélangées et l'enroulage permettait de les réaligner afin d'en permettre la lecture.
+Il est aussi l'un des fondateurs de astronomie, il travailla sur des éphémérides grâce auxquelles il a conseillé à des marins de se guider à l'aide de la petite ourse.
 
-C'est ainsi que quelques années avant Jésus Christ, Jules César encodait ses messages en utilisant un code éponyme. Cette encryptions simple utilisait un décalage d'un certain nombre de lettres de l'alphabet. A vaut D, B vaut E, Z vaut C, etc...
+Par ailleurs, il est le premier à avoir découvert qu'une année, qui à l'époque était pensée comme une révolution du soleil autour la Terre, ne prenait pas 365 jours mais 365 jours et un quart, d'où les années bissextiles. Mais aussi le premier à avoir prix connaissance de électricité grâce à l'ambre qui attire un tissus ou les propriété d'aimantation de l'oxyde de fer, ce qui lui valu d'être également considéré comme le premier physicien.
+
+Enfin, il fonda l'école milésienne qui inspirera les personnalités qui suivent ce récit.
+
+
+
+#### Pythagore
+
+Né vers l'an **-580**, Pythagore, fonda lui aussi un établissement d'enseignement, l'école Pythagoricienne, qui deviendra progressivement une confrérie, à la fois religieuse et scientifique où les femmes et les étrangers était admis, sous réserve de passer de multiples paliers.
+
+On y étudier notament 4 matières, l'arithmétique, la musique, la géométrie, et l'astronomie.
+
+Il aurait été le premier à dire que la Terre était ronde, à découvrir les lois harmoniques en musique, et même le premier adepte du végétarisme, qu'il associait à une volonté de ne pas consommer la vie animale, que l'on doit ôter avec abomination, pour "qu'un corps s’engraisse d’un autre corps".
+
+
+
+#### Philosophie antique
+
+
+
+##### Dialectique et rhétorique
+
+La Dialectique est étymologiquement l'art de parler en conservant et distinguant sa parole de celle de son interlocuteur. Elle repose sur un dialogue ou les deux participants tentent de ce convaincre mutuellement dans le but de se rapprocher de la vérité. La première personne connue à l'avoir mis en évidence est le philosophe présocratique Zénon d'Élée. 
+
+C'est devenue une technique classique de raisonnement au Moyen Âge, qui se structure généralement en une thèse, une antithèse, et une synthèse qui tends généralement vers un compromis ou du moins un dépassement du manichéisme et de ses stéréotypes. C'est une structure philosophique basique, que l'on enseigne encore aujourd'hui.
+
+
+
+J'apprécie personnellement la définition de Platon dans sa vision de l'usage du dialogue, il décrit la dialectique comme reposant sur la confrontation de plusieurs positions de manière à dépasser l'opinion afin que chacun se rapproche un peu de la vérité
+
+
+
+##### Académie et Lycée 
+
+Ce sont respectivement les écoles de philosophie de Platon et Aristote
+
+
+
+Platon faisait la distinction entre le monde intelligible et sensible.
+
+Aristote, confiant en la sensation, qui permet la perception et la cognition du monde réel, qui ne nécessite pas un scepticisme constant. pour lui c'est une première ouverture vers le savoir, qui faut mélanger avec le savoir d'autrui, de gens serieux expert du domaine sans prendre ce qui est dit pour véridique mais pour tester leur capacite a se rapprocher du réel et de la vérité commune.
+
+théorie des formes et des idées et archétypes
+
+Vers l'an 407 Platon fut introduit à Socrates.  
+
+Socrates, fils d'une sage-femme, est le créateur de la maïeutique, l'art de faire accoucher les âmes, en questionnant un sujet, il pouvait lui faire prendre conscience d'une connaissance enfouie en lui. Il est également le père d'une méthode de réfutation nommée elenchos, consistant à challenger la thèse de son adversaire en la poussant à l'absurde, dans le but d'y révéler son côté irréel.
+
+
+
+La science de la biologie serait née d'Aristote et Théophraste, respectivement en charge de documenter la faune et la flore. Aristote à également défendu l'idée d'une terre sphérique, justifiée par la courbure des éclipses de lunes et la force centripète.
+
+
+
+Aristote éthique, bien, reves (lucide)
+
+
+
+##### Rhétorique
+
+La rhétorique quand à elle est l'art d'impacter les esprits par son discours, son but est l'efficacité, voire la persuation. Intimement liée à l'éloquence, elle à d'abord été pratiquée à l'oral, mais elle est plus généralement pratiquée en trouvant des mots et arguments mémorisables ordonnés et transcris à autrui.
+
+Elle s'est détâchée de la persuation pour devenir pour plus globalement l'art de bien dire et de l'argumentation.
+
+
+
+#### Atomisme
+
+A cette période né la pensée d'une unité indivisable, l'atome.
+
+Le philosophe présocratique Leucippe, élève de Zénon d'Élée et influencé par Pythagore, invente la philosophie atomiste, Démocrite puis Épicure et Lavoisier vont par la suite participer à l'évolution ce mouvement dont la réalité ne serait formée que de plein, de vide et de mouvement.
+
+Cette pensée émane à un moment où les mythes, fables et religions sont doucement mises en doute. Plusieurs philosophes dont Socrates, seront jugés pour impiété, cette période marqua donc la naissance d'un courant de pensé qui se lia rapidement avec l'apprentissage de la mort (que l'on retrouve dans le stoïcisme et l'épicurisme) et son rôle dans l'être réel.
+
+Pour Zénon de Kition, qui fonda le stoïcisme en l'an 301, considérai la *mort* comme une indifférence, qui n'est ni un *mal*, ni un *bien*, ces trois choses formant le monde selon lui l'existence du monde réel.
+
+marc aurele 
+
+Philip Kindred Dick : "La réalité, c'est ce qui continue d'exister lorsque l'on cesse d'y croire"
+
+
+
+##### Sophistes et Sophismes 
 
 
 
 #### Archimède
 
-Archimède de Syracuse est né en -287, on lui doit le fameux théorème de la poussée du même nom et l'explication du principe du levier, mais aussi la vis d'Archimède ou le palan. Considéré comme le plus grand mathématicien de l'Antiquité, il a apporter beaucoup à la géométrie pour laquelle il a étudier et rédigé des traité sur les cônes, spirales, cylindres, paraboles, et cercles ; mais aussi la mécanique
+Archimède de Syracuse est né en **-287**, on lui doit le fameux théorème de la poussée du même nom et l'explication du principe du levier, mais aussi la vis d'Archimède ou le palan. Considéré comme le plus grand mathématicien de l'Antiquité, il a apporté beaucoup à la géométrie pour laquelle il a étudier et rédigé des traité sur les cônes, spirales, cylindres, paraboles, et cercles ; mais aussi la mécanique
 
 On lui doit également le fameux Eureka ! Signifiant "j'ai trouvé" 
 
@@ -377,19 +471,13 @@ Le plus ancien calculateur analogique attesté est l'Anticythère en **-150**, c
 
 #### Routes de la soie
 
-A partir de -130 se développe l'une des voie de transport et d'échange de marchandises les plus importantes de l'histoire, elles seront cruciales jusqu'en 1450 et ont également permis des échanges culturels et scientifiques. Ce réseau passant par l'Europe, le Moyen-Orient, l'Asie et l'Afrique de l'est
-
-
-
-#### Aristote Platon et Socrates
-
-La science de la biologie serait née d'Aristote et Théophraste, respectivement en charge de documenter la faune et la flore. Aristote à également défendu l'idée d'une terre sphérique, justifiée par la courbure des éclipses de lunes et 
+A partir de **-130** se développe l'une des voie de transport et d'échange de marchandises les plus importantes de l'histoire, elles seront cruciales jusqu'en 1450 et ont également permis des échanges culturels et scientifiques. Ce réseau passant par l'Europe, le Moyen-Orient, l'Asie et l'Afrique de l'est
 
 
 
 #### Ptolémée
 
-Claude Ptolémée, est un astronome, astrologue, mathématicien, et géographe grec né vers l'an 100, tout comme Aristote, il pensait que nous étions dans un système géocentrique, ou les planètes et le soleil tournerait autour de la Terre. Malgré cela, il eu rédiger des tables mathématiques très utilisés à l'époque car elle permettait de calculer avec une précision la position des astres et les éclipses de manière suffisante.  
+Claude Ptolémée, est un astronome, astrologue, mathématicien, et géographe grec né vers l'an **100**, tout comme Aristote, il pensait que nous étions dans un système géocentrique, ou les planètes et le soleil tournerait autour de la Terre. Malgré cela, il eu rédiger des tables mathématiques très utilisés à l'époque car elle permettait de calculer avec une précision la position des astres et les éclipses de manière suffisante.  
 
 
 
@@ -508,6 +596,8 @@ Blaise Pascal, né en **1623** à Clermont-Ferrand, était ce que l'on appelle u
 
 Essentiellement mathématicien, il publie un traité de géométrie projective à 16 ans et invente la première machine à calculer à 19.
 
+C'est la première fois que l'on remarque un impact de l'automatisation notable sur l'emploi et la société, associée à une technophobie, bien que de nombreuses peurs ai eu étées justifiées par la création de machines de guerres par le passé.
+
 hexagrammes mystique de Pascal
 
 
@@ -536,6 +626,8 @@ Jacques de Vaucanson, célèbre Grenoblois inventeur d'automates musicaux et à 
 
 Enfin Joseph Marie Jacquard à mis en œuvre les procédés déjà existants pour réaliser un métier à tisser éponyme en **1801**, date à partir de laquelle il passe une bonne dizaine d'année à démocratiser et perfectionner la machine programmable.
 
+Programmer avec des cartes perforees demandais deja une rigeur importante car l'ordre des cartes etait tres importantes et qu'un simple coup de vent ou inadvertance pouvait mettre des jours de travail a la poubelle.
+
 
 
 #### Comète de Halley
@@ -548,7 +640,7 @@ Ce travail conjoint à permis l'abandon de la théorie des tourbillons de Descar
 
 ### Epoque contemporaine
 
-Le début en est marqué par la révolution industrielle qui a commencer en 1760 au Royaume-Unis, le besoin de calcul, de gestion et d'automatisation est grandissant.
+Le début en est marqué par la révolution industrielle qui a commencer en 1760 au Royaume-Unis, le besoin de calcul, de gestion et d'automatisation est alors grandissant.
 
 
 
@@ -710,6 +802,8 @@ Enfin, il finit par quitter l'administration et fonde la Tabulating Machine Comp
 
 **1923**
 
+Alan turing decoda avec la Turingery 
+
 
 
 #### Moore School
@@ -748,6 +842,12 @@ Enfin, il finit par quitter l'administration et fonde la Tabulating Machine Comp
 
 
 
+#### Hewlett Packard
+
+01/01/1939
+
+
+
 ### Seconde guerre mondiale
 
 
@@ -776,7 +876,19 @@ Relay Switches **1944**
 
 
 
+Même si il a été pensé par 2 hommes, l'ENIAC à été programmé par 6 femmes, qui ont du documenter, coder et brancher des millions de cables
+
+
+
+Elisabeth Findler Jake, nom de domaines, whois nom de domaine (page jaunes) Alors que la silicon vallait est encore loin.
+
+
+
 ### Guerre froide et course a l'espace
+
+#### As we may think
+
+1945
 
 
 
@@ -798,11 +910,23 @@ Relay Switches **1944**
 
 
 
+#### Apollo 1 
+
+1967 al lune parait de nouveau innaccessible aux américains, sous Kennedy.
+
+
+
 #### Dendral
 
 Ce programme créé en **1965** par deux informaticiens, 1 médecin et 1 chimiste, permet d'identifier des structures moléculaires en se basant sur les connaissances d'expert et des techniques d'analyses telles que la spectrométrie de masse. C'est le premier programme considéré comme "système expert".
 
 Il a par la suite été utilisé comme outil d'aide à la décision. Pour des molécules complexes, le nombre de possibilité étant plus grand, il permet d'obtenir rapidement les différentes combinaisons réalisable selon les règles de la chimie et la masse moléculaire donnée.
+
+
+
+#### Microprocesseur
+
+En 1969, le microprocesseur est inventé par Federico Faggin, et Marcian Hoff, un ingénieur et physicien d'Intel, 
 
 
 
@@ -814,7 +938,7 @@ Il a par la suite été utilisé comme outil d'aide à la décision. Pour des mo
 
 #### Apollo 11
 
-1969
+Apollo Guidance Computer en 1969, Margaret Hamilton
 
 
 
@@ -848,23 +972,50 @@ CSS a permi de diversifier l'apparence des sites webs, les frameworks et themes 
 
 
 
+### Popularisation et Mondialisation
+
+
+
+#### Atari pong 
+
+1972
+
+
+
+#### Altair 8800
+
+1975
+
+
+
+#### Osborne 1
+
+1981
+
+
+
+
+
 [Retour](#Sommaire)
 
 ## Présent
 
-À l’heure où j’écris ça, le monde est plongé dans la mode des Intelligences Artificielles, technologie qui se base sur quelquechose de très général (réseaux de neurones et système pondéré), pour accumuler des informations très spécifiques, afin de pouvoir répondre à des questions.
+À l’heure où j’écris ça, le monde est plongé dans la mode des Intelligences Artificielles, technologie qui se base sur quelquechose de très général (réseaux de neurones et systèmes pondérés), pour accumuler des informations très spécifiques, afin de pouvoir répondre à des questions les concernants.
+
+[...]
+
+Pourquoi la programmation est-elle aussi peu démocratisée ?
+
+[...]
+
+Pourquoi un outil censé résoudre un problème en cause parfois des bloquants ?
+
+[...]
+Il y’a un manque d’experts, de personnes compétentes et qualifiées, les années que nous vivons sont saturés d'informations, et l'accumulation de bad news déprime les uns, la ou les tsunamis de fakes news et canulars font rire et haïr les autres. La vérité finisant presque par ironiquement nous consoler.
 
 
 
-Pourquoi la programmation est-elle aussi peu démocratisée ? Pourquoi un outil censé résoudre un problème en cause parfois des bloquants ?
-
-
-
-Il y’a un manque d’experts, de personnes compétentes et qualifiées 
-
-
-
-Et un réel décalage entre offre et demande a cause des modes et signaux forts comme ceux autour de la blockchain 
+Et un réel décalage entre offre et demande, nous observons des signaux forts comme ceux autour de la blockchain, technologie ayant un réel intérêt et pouvant jouer un rôle important dans les systèmes administrant nos sociétés mondialement interconnectées, mais qui présente cependant un effet Duning Kruger assez important ces derniers temps.
 
 
 
@@ -874,7 +1025,7 @@ Plus un projet a d'intermédiaires, plus il y'a de risques d'erreurs. Babbage l'
 
 De nos jours j'ai souvent entendu parler de philosophie d'entreprise. L'entreprise étant une entité morale, elle se compose d'un groupe de personnes physiques réunies pour accomplir quelque chose en commun. Ce groupe peut aussi réunir des personnes physiques et des personnes morales. Le terme secte est, comme beaucoup de mots, poly-sémantique, il possède plusieurs définitions et connotations, il y'a autant de ressentis différents accordées aux mots que d'expérience vivantes. D'un point de vue étymologique, il provient du latin "secta", signifiant "voie que l'on suit, parti, cause, doctrine". Or quand on travaille en groupe avec d'autres personnes, on suit tous, ensemble, une même voie, pendant une période définie de travail, qu'un salarié vends a son employeur.
 
-En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une même cause, est comme internet, la rue ou tout autre environnement dans lequel nous évoluons, ce n'est ni bien, ni mal, cela dépends de ce que l'on en fait et à qu'elles fins. Nous devons tous un jour faire face au fait que nous sommes influencés et conditionnés par notre environnement et notre histoire, nos habitudes, et les groups d'humains dans lesquels nous avons évolués. Le réel problèmes sont les dérives, et les heurts qui nous sont propres.
+En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une même cause, est comme internet, la rue ou tout autre environnement dans lequel nous évoluons, c'est une indifférence, ce n'est ni bien, ni mal, cela dépends de ce que l'on en fait et à qu'elles fins. Nous devons tous un jour faire face au fait que nous sommes influencés et conditionnés par notre environnement et notre histoire, nos habitudes, et les groups d'humains dans lesquels nous avons évolués. Le réel problèmes sont les dérives, et les heurts qui nous sont propres. Pour le reste, la vie bats son plein et continue de parcourir le temps en fesant ce qu'elle a à faire, vivre.
 
 
 
@@ -883,14 +1034,6 @@ En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une 
 Maisons d'échanges, Babbage était fasciné par la division mentale du travail qui s'y opérait, comme De Prony s'étant inspiré d'Adam Smith
 
 https://fr.wikipedia.org/wiki/Division_du_travail
-
-
-
-### Cadriciel
-
-Symfony ne permet pas d'overide l'attribut "name" d'un champ de formulaire, le retrait de requêtes expires ne marche pas...
-
-
 
 
 
@@ -905,6 +1048,50 @@ Dans EditIDE, je souhaite qu'il n'y ai pas besoin de renseigner ses informations
 Le formulaire de création de fonction et son interface dédiées indiqueront les champs obligatoires ou recommandés non renseignés. Recommandations gérées par ESLint.
 
 
+
+### Cadriciel et Open Source
+
+Symfony ne permet pas d'overide l'attribut "name" d'un champ de formulaire, le retrait de requêtes expires ne marche pas... L'instalation d'un de leurs logiciel, m'a récement causer default. J'ai eu, par la force des choses, à contacter la personne chargée de la documentation de Symphony. https://github.com/weaverryan est "Symfony docs lead, writer at SymfonyCasts, Symfony evangelist", ce fût une expérience riche ou j'ai découvert un environnement qui m'est familier, bien que je n'ai pas souvent réaliser de l'open source avant. Une pipeline qui sors des erreurs à des lignes qui n'existent pas sur ma version, qui malgré ça permet d'assurer la qualité de la documentation, avec des tests de compilation, les documents étant rédigés en RST ou DOCtor-RST.
+
+
+
+### ChatGPT
+
+Oui, j'ai utilisé ChatGPT pour écrire cet ouvrage, mais aucun texte n'en est extrait. Pourquoi ? Je tenais à rédiger moi même, comme je vous l'aurais expliqué à l'oral. Le passage sur Richard Stallman à vu le jour grâce au modèle de génération de texte qu'est ChatGPT. J'ai voulu retrouver qui à prononcer une phrase dans le reportage : "Révoltes et révolutions technologiques | La Californie ! | ARTE"
+
+Voici le dialogue qui en est à l'origine :
+
+
+
+![](D:\Texte\Cours\Histoire-et-Philosophie-de-la-Programmation\assets\ChatGPTRichardStallman.png)
+
+
+
+J'ai donc découvert que OpenAI n'aurais évidement pas été racheté par Microsoft s'il avait été sous licence GNU. Et que le homebrew club à été autant fier que déçu qu'IBM lance un ordinateur commercial, utilisant leur code.
+
+Aujourd'hui des entreprises utilisent du code Open Source dans leur business, certains utilisent à tors des logiciels GPL sans savoir que cette licence est contaminante et peut faire que leur logiciel devrait légalement être libre de facto. D'autres licences permettent aux entreprises d'utiliser des librairies pour un usage commercial. Certains projets Open Sources comme Symfony ont donné naissances à multitudes de Business à commencer par le leur, SensioLabs, qui fournissent des conférences et formations payantes, et sponsorise certaines entreprises experts dans cette technologie.
+
+
+
+Richard stallman annonce le projet GNU le 27 Septembre **1983**, en 1985 il fonde le FSF, la Free Software Foundation. Ou Free ne signifie par gratuit dans le sens de prix mais dans le sens de liberté. Le language C est alors grandement utilisé.
+
+ Il invente également en 1989 la licence GNU General Public Licence, plus connu sous le nom de GPL.
+
+
+
+EN 1987 Andrew S. Tanenbaum invente Minix a UNIX like OS with a 16 bit architecture. Linus à donc voulu créer **Linux en 1991**, avec un nouveau Kernel, lineage, sous licence GPL. Leur coopération donnera GNU/Linux qui est une suite embarquée d'éditeurs comme bash, emac, la GNU C Library et le compilateur GCC, et pleins d'autres 
+
+### Opensource
+
+
+
+### Logiciel libre
+
+Le free software 
+
+
+
+**Git** est un logiciel de gestion de versions décentralisé. C'est un logiciel libre et gratuit, créé en 2005 par Linus Torvalds le créateur de Linux,
 
 
 
@@ -936,9 +1123,35 @@ C'est très difficile pour le chercheur qui fait la découverte, de savoir et de
 
 Comment reproduire le problème ? => Cypress test
 
+Complexité du problème à résoudre
+
+Gestion des erreurs et des bogues
+
+Gestion de la maintenance et des mises à jour
+
+Compatibilité et interopérabilité
+
+Performance et optimisation
+
+Sécurité
+
+Contraintes de temps et de budget
+
+Évolution rapide des technologies
+
+Collaboration et travail d'équipe : Dans de nombreux projets, plusieurs développeurs doivent collaborer et travailler ensemble sur le même code, ce qui peut entraîner des conflits de version, des problèmes d'intégration et de coordination.
+
+
+
+1976 homebrew exhibits par homebrew computer club
+
 
 
 ## Bibliographie
+
+
+
+https://www.youtube.com/watch?v=9EjZVEGlk_I
 
 
 
@@ -967,3 +1180,7 @@ https://en.wikipedia.org/wiki/History_of_the_graphical_user_interface
 
 
 https://www.physique.usherbrooke.ca/~afaribau/essai/#:~:text=Les%20tables%20de%20calcul%20furent,aux%20cailloux%20selon%20leur%20position.
+
+https://www.youtube.com/watch?v=7XTHdcmjenI
+
+https://www.youtube.com/watch?v=Ag1AKIl_2GM
