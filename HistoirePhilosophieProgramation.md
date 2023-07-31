@@ -192,23 +192,19 @@ Comment être une machine ?
 
 La transmission d'information s'est fiabilisée au fil des époques, avec l'usage d'outils physique, notamment des tablettes, plaques permettant de dessiner, d'écrire, lire, compter. Jusqu'à pouvoir plus récemment, automatiser son traitement et son stockage, à l'aide de l'informatique, dont l'histoire commence au début du 16e siècle. De nos jours, nous interagissons quotidiennement avec des machines, que ce soit à l'aide de la programmation, ou des interfaces qui en sont issues.
 
-
-
 La programmation est l'art de mettre en texte des étapes a suivre pour obtenir un résultat a partir de données d'entrée.
 
 Dans cet ouvrage, je vais revenir à ses racines, et au vocabulaire du champ lexical qui y sont liés ou en découlent, ainsi que leurs étymologies et leur histoire.
 
-
-
 Je ferais ensuite un bilan de l’état actuel de ce domaine, de son marché, et une étude de sa pratique moderne, et ce afin d'en identifier les problèmes que l'on y rencontre en tant que développeur, ainsi que des solutions possibles.
 
-Enfin, à l’aide de l’étude précédente, je dresserai ma projection en tant qu'acteur et éditeur de logiciels, pour le futur de cette discipline, plus notamment la pratique que je souhaite en avoir en tant que créateur de services et contenu webs.
+Enfin, à l’aide de l’étude précédente, je dresserai ma projection subjective en tant qu'acteur et éditeur de logiciels, pour le futur de cette discipline, plus notamment la pratique que je souhaite en avoir en tant que créateur de services et contenu web.
 
 
 
 Notes : 
 
-- L’histoire se souvient rarement de la première occurrence d’une invention, ce qui reste est généralement sa démocratisation.
+- L’histoire se souvient rarement de la première occurrence d’une invention, ce qu'il en reste est généralement sa démocratisation.
 - Il est évident que tout les concepts scientifiques ne sont que des formulations écrites de théories issues de la raison, qui était elles mêmes déjà connues de tout temps de manière empirique.
 - L'ordinateur a remplacer le greffier et le calculateur.
 
@@ -218,13 +214,19 @@ Notes :
 
 
 
+## Remerciements
+
+Je ne remercierai jamais assez mes parents et grand parents, qui ont eu la chance d'être propriétaires d'ordinateurs dès ma naissance, et qui ont eu la merveilleuse idée de me mettre sur un ordinateur avec des logiciels éducatifs qui m'ont appris à lire. 
+
+
+
 [Retour](#Sommaire)
 
 ## Histoire
 
-La première manière pour un être vivant de marquer l'histoire est universelle, c’est celle des fossiles et des dinosaures, celle d’avoir d’existé et laisser une trace, une information, stockée sur un support physique, sur notre Terre.
+La première manière pour un être vivant de marquer l'histoire est universelle, c’est celle des fossiles et des dinosaures, celle d’avoir existé et laisser une trace, une information, stockée sur un support physique, sur notre Terre.
 
-La deuxième est l’art de sculpter des outils, actuellement estimé 3 millions d’années avant notre ère.
+La deuxième est l’art de sculpter des outils, actuellement estimé 3 millions d’années avant notre ère.  
 
 La troisième est la peinture, dont les plus anciennes preuves sont rupestres et âgées de 65 millénaires.
 
@@ -268,13 +270,13 @@ Il y'a 6000 ans de cela, en Mésopotamie, vers l'an **-3900**, étaient utilisé
 
 ### Antiquité
 
-Marquée par l'invention de l'écriture en -3250 dans la région de la Mésopotamie, cela a permis une transmission d'information complexes sur un support théoriquement permanent et finie en 450.
+Marquée par l'invention la plus importante de notre histoire, en -3250 dans la région de la Mésopotamie, la naissance de l'écriture à permis une transmission d'information complexes sur un support théoriquement permanent. Cette période se finira en 450 par la chute de l'Empire Romain.
 
 
 
-#### Algèbre
+#### Prémices de l'Algèbre
 
-Dès l’Antiquité, les égyptiens et les babyloniens avait déjà rédigés des textes comportant des problèmes, et des manières mathématiques pour les solutionner, tels que le Papyrus Rhind, qui explicite des opérations comme la division, la multiplication et l’arpantage.
+Dès l’Antiquité, les égyptiens et les babyloniens avait déjà rédigés des textes comportant des problèmes, et des manières mathématiques pour les solutionner, tels que le Papyrus Rhind, qui explicite des opérations comme la division, la multiplication et l’arpentage.
 
 
 
@@ -287,7 +289,7 @@ L'algèbre babylonienne vers **-3000**, utilisait un système sexagésimal, pote
   -  `a = b - c`
   -  `a -= b` qui équivaut à `a = a - b`
 
-
+Cette discipline est à ce moment de l'histoire avérée n'était pas encore nommée, du moins pas en tant que tel, il faudra attendre le moyen âge pour cela.
 
 
 
@@ -499,14 +501,30 @@ ne en 476
 
 
 
-#### Algorithme
+#### Algèbre et Algorithme
+
+L'algèbre est l'ensemble de règles qui permet d'écrire des formules et équations mathématiques afin de structurer un problème en un système calculable.
+
+Un algorithme est une suite finie et claire de tâches à réaliser pour résoudre un problème.
 
 
-L'algorithme le plus ancien connu est la recette de cuisine. Les premières recettes « publiées » datent de l'époque babylonienne : trois tablettes, conservées à l'université Yale et datant d'environ 1 600 ans avant J.-C. ; elles comportent de manière plus ou moins précise une série de recettes.
+Le le plus ancien connu est la recette de cuisine. Les premières recettes « publiées » datent de l'époque babylonienne : trois tablettes, conservées à l'université Yale et datant d'environ 1 600 ans avant J.-C. ; elles comportent de manière plus ou moins précise une série de recettes. Les mathématiques de l'époque ont également détaillé des procédures permettant de résoudre des problèmes étapes par étapes.
 
-Il a fallu cependant attendre le IX siècle, vers l'an **800**, pour que Al-Khawarizmi définisse l’algèbre, qui signifie réparer une fracture, et sert par définition à la résolution d’un problème ; démocratise le concept d’équation, égalité entre deux expressions mathématiques, ainsi que sa manière de les rédiger en langage mathématiques, permettant la traduction d’un problème en une formule courte, avec la solution représentée en tant que variable inconnue.
+Il a fallu cependant attendre le IX siècle, vers l'an **800**, pour que Al-Khwarizmi définisse l’algèbre, qui signifie réparer une fracture, et sert par définition à la résolution d’un problème ; Le livre qu'il a écrit, "Abrégé du calcul par la restauration et la comparaison" avait pour vocation d'apporter des solutions à l’héritage, l'arpentage, et les échanges commerciaux.
 
-La résolution de l’équation passe par une suite d’opération, résultant idéalement en un ensemble ou système d'équations de la forme `variable_inconnue = [résultat_numéraire]`
+Il a également démocratiser le concept d’équation, égalité entre deux expressions mathématiques, ainsi que sa manière de les rédiger en langage mathématiques, permettant la traduction d’un problème en une formule courte, avec la solution représentée en tant que variable inconnue.
+
+La résolution de l’équation passe par une suite d’opération, résultant idéalement en un ensemble ou système d'équations de la forme `variable_inconnue = [résultat_numéraire]`.
+
+Le mot Algorithme est né d'une longue déformation du nom "Al-Khwarizmi" par les traducteurs latin en "Algoritmi" au 12e siècle. Ensuite, avec l'influence grecque "arithmos", signifiant "nombre", on aurait obtenu "algorithmus".
+
+Suivre les règles de l'Algèbre sera alors la pratique de l'algoriste qui algorisme.
+
+Banū Mūsā brothers
+
+
+
+#### Hindu–Arabic numeral system
 
 
 
@@ -518,7 +536,7 @@ La résolution de l’équation passe par une suite d’opération, résultant i
 
 #### Gerbert d'Aurillac
 
-Aussi connu sous le nom de Sulvestre II ne en **950** et mort en 1003, il aurait demander a l'astronome Lupitus de Barcelone, un traite sur l'astrolabe et l'écriture décimale positionnelle. on ne sait pas si elle lui est parvenue mais il a introduit des concepts de la science arabe en Occident 
+Aussi connu sous le nom de Sylvestre II ne en **950** et mort en 1003, il aurait demander a l'astronome Lupitus de Barcelone, un traite sur l'astrolabe et l'écriture décimale positionnelle. on ne sait pas si elle lui est parvenue mais il a introduit des concepts de la science arabe en Occident 
 
 
 
@@ -578,7 +596,7 @@ Cet outil permet à l'aide d'un tableau ayant pour lignes les chiffres de 1 à 9
 
 #### Règle coulissante à calculer
 
-Pour clôturer la présentation d'abaques, en **1621** William Oughtred à qui on doit la notation "x" pour la multiplication, se base sur les travaux de Napier et invente une règle coulissante destinée à calculer des multiplications, divisions et également des exponentielles, racines, puissances et calculs trigonométriques, laissant l'addition et la soustraction à de plus simples abaques.
+Pour clôturer la présentation d'abaques, en **1621** William Oughtred, à qui on doit la notation "x" pour la multiplication, se base sur les travaux de Napier et invente une règle coulissante destinée à calculer des multiplications, divisions et également des exponentielles, racines, puissances et calculs trigonométriques, laissant l'addition et la soustraction à de plus simples abaques.
 
 Aujourd'hui obsolètes, elles ont pendant longtemps été, à la manière des tables de calcul était une solution suffisamment précise, abordable et facile à créer.
 
@@ -1115,9 +1133,17 @@ Peut on le faire et doit on le faire ?
 
 On peut dire oui on peut dire non, mais pour moi
 
-C'est mauvais de ne pas connaitre si on peut connaitre, c'est mauvais de ne pas savoir ce que l'on peut savoir, Ce veut dire qu'il faut préparer tout les engins toutes les techniques ou pratiques que la science permette
+C'est mauvais de ne pas connaître si on peut connaître, c'est mauvais de ne pas savoir ce que l'on peut savoir, Ce veut dire qu'il faut préparer tout les engins toutes les techniques ou pratiques que la science permette.
 
-C'est très difficile pour le chercheur qui fait la découverte, de savoir et de peser immédiatement, les possibilitées ultérieures. On le remarque dans le jeu de la vie 
+C'est très difficile pour le chercheur qui fait la découverte, de savoir et de peser immédiatement, les possibilités ultérieures. On le remarque dans le jeu de la vie 
+
+
+
+Un ludiciel doit être vivant, animé, utilisé, collaboratif
+
+
+
+WYSYWYG, Xerox Bravo
 
 
 
