@@ -1,6 +1,8 @@
 # EditIDE - Histoire et philosophie de la programmation
 
-Comment être une machine ?
+
+
+Dorian Blanchard
 
 
 
@@ -190,9 +192,15 @@ Comment être une machine ?
 
 ## Introduction
 
-La transmission d'information s'est fiabilisée au fil des époques, avec l'usage d'outils physique, notamment des tablettes, plaques permettant de dessiner, d'écrire, lire, compter. Jusqu'à pouvoir plus récemment, automatiser son traitement et son stockage, à l'aide de l'informatique, dont l'histoire commence au début du 16e siècle. De nos jours, nous interagissons quotidiennement avec des machines, que ce soit à l'aide de la programmation, ou des interfaces qui en sont issues.
+La transmission d'information s'est fiabilisée au fil des époques, avec l'usage d'outils physique, notamment des tablettes, plaques permettant de dessiner, d'écrire, lire, compter. Jusqu'à pouvoir automatiser son traitement et son stockage, à l'aide de l'informatique, dont l'histoire commence au début du 16e siècle.
 
-La programmation est l'art de mettre en texte des étapes a suivre pour obtenir un résultat a partir de données d'entrée.
+De nos jours, nous interagissons quotidiennement avec des ordinateurs, que ce soit à l'aide de la programmation, ou des interfaces qui en sont issues. Pourtant, la grande majorité des utilisateurs, et j'oserai même dire des codeurs, ne connaît pas le tiers des événements majeurs de son histoire. J'ai donc décider de me documenter et de rédiger un format accessible avec ce qui m'a semblé être nécessaire pour comprendre le sujet.
+
+Pour la rédaction de cet ouvrage, j'ai acquis 3 livres : la 4e édition de "Computer, A History of the Information Machine" de Martin Campbell-Kelly, "The history of the computer : people, inventions, and technology that changed our world" de Rachel Ignotofsky et "Histoire illustrée de l'informatique" d'Emmanuel Lazard et Pierre Mounier-Kuhn.
+
+Tous ces livres ont leurs avantages grâce à une approche différente d'un même sujet, sur lequel je m'attendais à trouver plus d'ouvrages. Ma plus-value est une approche plus globale que l'informatique et l'ordinateur, qui est sont des concepts très récent. J'ai voulu ajouter de la philosophie ainsi que mon humble analyse subjective, parce que l'apprentissage des mathématiques et de l'informatique a changer ma manière de concevoir le monde.
+
+Enfin, le sujet central, la programmation, n'est pas forcement liée à l'informatique, c'est l'art de planifier et mettre en œuvre des étapes a suivre pour obtenir un résultat.
 
 Dans cet ouvrage, je vais revenir à ses racines, et au vocabulaire du champ lexical qui y sont liés ou en découlent, ainsi que leurs étymologies et leur histoire.
 
@@ -206,17 +214,25 @@ Notes :
 
 - L’histoire se souvient rarement de la première occurrence d’une invention, ce qu'il en reste est généralement sa démocratisation.
 - Il est évident que tout les concepts scientifiques ne sont que des formulations écrites de théories issues de la raison, qui était elles mêmes déjà connues de tout temps de manière empirique.
-- L'ordinateur a remplacer le greffier et le calculateur.
-
+- La majorité des mots sont poly-sémantiques, ils n'ont pas de signification unique.
 - Les paroles s’envolent les écrits restent, c'est pourquoi la littérature est importante.
 
 - Le savoir est magie pour les idiots, et secret de polichinelle pour les érudits.
 
 
 
+
+
+
 ## Remerciements
 
-Je ne remercierai jamais assez mes parents et grand parents, qui ont eu la chance d'être propriétaires d'ordinateurs dès ma naissance, et qui ont eu la merveilleuse idée de me mettre sur un ordinateur avec des logiciels éducatifs qui m'ont appris à lire. 
+Je ne remercierai jamais assez mes parents et grand parents, qui ont eu la chance d'être propriétaires d'ordinateurs et d'internet avant ma naissance en 1999, et qui ont eu la merveilleuse idée de me mettre sur un ordinateur avec des logiciels éducatifs qui m'ont permis de savoir lire à l'âge de 2 ans.
+
+Merci à toutes les personnes et enseignants qui m'ont appris ce que je sais aujourd'hui dans ma scolarité.
+
+Merci aux logiciels libres, à l'open source, à Wikipédia et à tout leurs contributeurs.
+
+
 
 
 
@@ -230,7 +246,7 @@ La deuxième est l’art de sculpter des outils, actuellement estimé 3 millions
 
 La troisième est la peinture, dont les plus anciennes preuves sont rupestres et âgées de 65 millénaires.
 
-Relativement aux dates précédentes, l’écriture ne vient que récemment, elle a été attestée en Mésopotamie il y’a 5 millénaires.
+Relativement aux dates précédentes, l’écriture ne vient que récemment, elle a été attestée en Mésopotamie il y a 5 millénaires.
 
 
 
@@ -704,7 +720,7 @@ De son vivant, seul le concept existait, elle ne vu le jour que grâce à son fi
 
 #### Maison d'échanges
 
-L'informatique et la gestion bancaire et une vieille histoire d'amour. Avant que l'ordinateur n'apparaisse, des gens œuvraient à sa tâche, chaque banque avait son messager qui rapportait les différents chèques et espèces, vers les autres banques, valant pour échange.
+L'informatique et la gestion bancaire est une vieille histoire d'amour. Babbage fut intéressé par ce domaine, il eu le privilège de pouvoir en visiter une et d'en relater ce qu'il s'y passe. Avant que l'ordinateur n'apparaisse, des gens œuvraient à réaliser cette tâche, chaque banque avait son messager qui rapportait les différents chèques et espèces, vers les autres banques, valant pour échange.  
 
 
 
@@ -788,7 +804,7 @@ Hermann Hollerith est l'inventeur de la mécanographie, c'est un ingénieur amé
 
 Dans la fin du 18è siècle, en 1790, le premier recensement estimait la population des États-Unis à 3.9 millions d'individus. En 1840, 28 greffiers ont travailler à la réalisation d'une estimation de 17.1 millions. Enfin, le recensement de 1880 avec 1495 greffiers qui devait scrupuleusement pointer avec une couleur d'encre particulière pour chaque statistique effectuée. 
 
-Avec la méthode automatisée par cartes perforées d'Hermann Hollerith en **1890**, la création d'un tableau statistique à été accélérée de 10 fois par rapport à ses concurrents.
+Avec la méthode automatisée par cartes perforées d'Hermann Hollerith en **1890**, la création d'un tableau statistique à été accélérée de 10 fois par rapport à ses concurrents, remplaçant bon nombre de greffiers.
 
 Il a construit une machine à statistiques à cartes perforées qui exploite des cartes 12x6cm regroupant les 210 cases nécessaires pour recevoir toutes les informations nécessaires. Son invention à permis d'effectuer le recensement, auparavant manuel en seulement six ans. Par la suite il a améliorer le fonctionnement de cette machine en utilisant un métier à tisser Jacquard, pour mécaniser la lecture des fiches de recensement et améliorer son efficacité sur une idée de l'un de ses collègues.
 
@@ -892,6 +908,8 @@ Relay Switches **1944**
 
 **1945** ENIAC / EDVAC / SSEM / SSEC / Z4
 
+Cette architecture à permis à permis au stockage de tenir les instuctions du program et la donnée à traiter sur le même support, permettant également aux instructions du programme d'être également traité comme de la donnée, et donc de pouvoir être lu et réécrite.
+
 
 
 Même si il a été pensé par 2 hommes, l'ENIAC à été programmé par 6 femmes, qui ont du documenter, coder et brancher des millions de cables
@@ -910,9 +928,27 @@ Elisabeth Findler Jake, nom de domaines, whois nom de domaine (page jaunes) Alor
 
 
 
+#### Naissance de la Eckert-Mauchly Computer Corporation
+
+1946
+
+
+
+La mort de leur investisseur principal lors d'un trajet en avion les poussera à revendre leur entreprise à Remington par la suite.
+
+
+
 #### Trackball
 
 1946
+
+
+
+#### UNIVAC 1
+
+MAGNETIC TAPE STORAGE start and stop tape rapidement avec des servomoteurs, plastic -> déforme -----> metal résistant, travail pour écrire et lire dessus
+
+1951
 
 
 
