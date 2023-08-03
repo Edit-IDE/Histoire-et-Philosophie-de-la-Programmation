@@ -840,6 +840,8 @@ Alan turing decoda avec la Turingery
 
 
 
+
+
 #### Moore School
 
 **1923**
@@ -855,6 +857,12 @@ Alan turing decoda avec la Turingery
 #### IBM 601 
 
 **1931**
+
+
+
+#### Mémoire tambour
+
+En **1932**, l'ingénieur Gustav Tauschek, invente une nouvelle méthode de mémoire vive magnétique, le concept sera réutilisé dans le Manchester Mark I, l'ENIAC, l'IBM 650 et 701, l'UNIVAC 1103
 
 
 
@@ -882,6 +890,8 @@ Alan turing decoda avec la Turingery
 
 
 
+
+
 ### Seconde guerre mondiale
 
 
@@ -900,7 +910,9 @@ Alan turing decoda avec la Turingery
 
 #### Colossus / Harvard Mark 1
 
-Relay Switches **1944**
+IBM ASCC (Automatic Sequence Controlled Calculator, Relay Switches **1944**
+
+https://www.youtube.com/watch?v=MOUg25dJM4c
 
 
 
@@ -924,7 +936,9 @@ Elisabeth Findler Jake, nom de domaines, whois nom de domaine (page jaunes) Alor
 
 #### As we may think
 
-1945
+Vannevar Bush électrotechnique du MIT, analyseur différentiel, Comparator, Rapid Selector, 1940, projet manhattan 1945
+
+memex, www, hypertexte
 
 
 
@@ -975,6 +989,12 @@ MAGNETIC TAPE STORAGE start and stop tape rapidement avec des servomoteurs, plas
 Ce programme créé en **1965** par deux informaticiens, 1 médecin et 1 chimiste, permet d'identifier des structures moléculaires en se basant sur les connaissances d'expert et des techniques d'analyses telles que la spectrométrie de masse. C'est le premier programme considéré comme "système expert".
 
 Il a par la suite été utilisé comme outil d'aide à la décision. Pour des molécules complexes, le nombre de possibilité étant plus grand, il permet d'obtenir rapidement les différentes combinaisons réalisable selon les règles de la chimie et la masse moléculaire donnée.
+
+
+
+#### Amstrad
+
+1968
 
 
 
@@ -1056,6 +1076,12 @@ CSS a permi de diversifier l'apparence des sites webs, les frameworks et themes 
 
 À l’heure où j’écris ça, le monde est plongé dans la mode des Intelligences Artificielles, technologie qui se base sur quelquechose de très général (réseaux de neurones et systèmes pondérés), pour accumuler des informations très spécifiques, afin de pouvoir répondre à des questions les concernants.
 
+L'intelligence est la capacité à proposer une solution à un problème.
+
+ChatGPT n'est pas capable de raisonnement mais il fourni une solution mathématique probabiliste à un énoncé textuel.
+
+
+
 [...]
 
 Pourquoi la programmation est-elle aussi peu démocratisée ?
@@ -1079,15 +1105,33 @@ Plus un projet a d'intermédiaires, plus il y'a de risques d'erreurs. Babbage l'
 
 De nos jours j'ai souvent entendu parler de philosophie d'entreprise. L'entreprise étant une entité morale, elle se compose d'un groupe de personnes physiques réunies pour accomplir quelque chose en commun. Ce groupe peut aussi réunir des personnes physiques et des personnes morales. Le terme secte est, comme beaucoup de mots, poly-sémantique, il possède plusieurs définitions et connotations, il y'a autant de ressentis différents accordées aux mots que d'expérience vivantes. D'un point de vue étymologique, il provient du latin "secta", signifiant "voie que l'on suit, parti, cause, doctrine". Or quand on travaille en groupe avec d'autres personnes, on suit tous, ensemble, une même voie, pendant une période définie de travail, qu'un salarié vends a son employeur.
 
-En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une même cause, est comme internet, la rue ou tout autre environnement dans lequel nous évoluons, c'est une indifférence, ce n'est ni bien, ni mal, cela dépends de ce que l'on en fait et à qu'elles fins. Nous devons tous un jour faire face au fait que nous sommes influencés et conditionnés par notre environnement et notre histoire, nos habitudes, et les groups d'humains dans lesquels nous avons évolués. Le réel problèmes sont les dérives, et les heurts qui nous sont propres. Pour le reste, la vie bats son plein et continue de parcourir le temps en fesant ce qu'elle a à faire, vivre.
+En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une même cause, est comme internet, la rue ou tout autre environnement dans lequel nous évoluons, c'est une indifférence, ce n'est ni bien, ni mal, cela dépends de ce que l'on en fait et à qu'elles fins. Nous devons tous un jour faire face au fait que nous sommes influencés et conditionnés par notre environnement et notre histoire, nos habitudes, et les groupes d'humains dans lesquels nous avons évolués. Le réel problèmes sont les dérives, et les heurts qui nous sont propres. Pour le reste, la vie bats son plein et continue de parcourir le temps en faisant ce qu'elle a à faire, vivre.
 
 
 
-#### Division du travail
+### Division du travail
 
 Maisons d'échanges, Babbage était fasciné par la division mentale du travail qui s'y opérait, comme De Prony s'étant inspiré d'Adam Smith
 
 https://fr.wikipedia.org/wiki/Division_du_travail
+
+
+
+### Rigueur et retravail
+
+
+
+
+
+### Contexte et vérité
+
+Absolue / relatif
+
+
+
+### Metagame
+
+Intelligence économique, politique et théorie des jeux. 
 
 
 
@@ -1175,11 +1219,13 @@ C'est très difficile pour le chercheur qui fait la découverte, de savoir et de
 
 
 
-Un ludiciel doit être vivant, animé, utilisé, collaboratif
+Un ludiciel doit être vivant, animé, utilisé, collaboratif.
 
 
 
 WYSYWYG, Xerox Bravo
+
+NO MORE CLI NO MORE BLOCNOTE
 
 
 
@@ -1213,17 +1259,9 @@ Collaboration et travail d'équipe : Dans de nombreux projets, plusieurs dévelo
 
 
 
-https://www.youtube.com/watch?v=9EjZVEGlk_I
-
-
-
 https://www.physique.usherbro,oke.ca/~afaribau/essai/#:~:text=Les%20tables%20de%20calcul%20furent,aux%20cailloux%20selon%20leur%20position
 
-
-
 https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/25874/Parent_Simon_2021_these.pdf?sequence=2&isAllowed=y
-
-
 
 https://theses.hal.science/tel-00125472/document
 
@@ -1231,17 +1269,39 @@ https://theses.hal.science/tel-00125472/document
 
 https://www.amazon.fr/Computer-History-Information-Machine-Technology-ebook/dp/B07CNDC344/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2MCJSC0Q0UNWO&keywords=Computer%3A+A+History+of+the+Information+Machine&qid=1683623797&sprefix=computer+a+history+of+the+information+machine%2Caps%2C74&sr=8-1&asin=0813345901&revisionId=&format=4&depth=2
 
+https://www.physique.usherbrooke.ca/~afaribau/essai/#:~:text=Les%20tables%20de%20calcul%20furent,aux%20cailloux%20selon%20leur%20position
+
 
 
 https://en.wikipedia.org/wiki/Timeline_of_computing
-
-
 
 https://en.wikipedia.org/wiki/History_of_the_graphical_user_interface
 
 
 
-https://www.physique.usherbrooke.ca/~afaribau/essai/#:~:text=Les%20tables%20de%20calcul%20furent,aux%20cailloux%20selon%20leur%20position.
+https://www.youtube.com/watch?v=8KHuSw0W6OA
+
+https://www.youtube.com/watch?v=FlfChYGv3Z4
+
+https://www.youtube.com/watch?v=eMy4vSZ-J_I
+
+https://www.youtube.com/watch?v=MQzpLLhN0fY
+
+https://www.youtube.com/watch?v=YBnBAzrWeF0
+
+https://www.youtube.com/watch?v=2dKG21u2aSo
+
+https://www.youtube.com/watch?v=Yc945sNB0uA
+
+https://www.youtube.com/watch?v=YyxGIbtMS9E
+
+https://www.youtube.com/watch?v=9EjZVEGlk_I
+
+https://www.youtube.com/watch?v=6TRfy70DqD8
+
+https://www.youtube.com/watch?v=h9H6WkUeuUY
+
+https://www.youtube.com/watch?v=eIpoA7Ir9p8
 
 https://www.youtube.com/watch?v=7XTHdcmjenI
 
