@@ -105,7 +105,7 @@ Dorian Blanchard
       12. First commercial autonomous drone DJI (2013)
       13. Alphago (2015)
       14. Boston Dynamics 
-   
+
 3. Présent (21e siècle)
    1. Concepts
    2. Appareils
@@ -178,7 +178,7 @@ Dorian Blanchard
          10. Intelligence, Ambiguïtés et apprentissage : Nous sommes tous des IAs
          11. Apprentissage par l’erreur, sans elle rien ne serais possible le succès ne s’obtient qu’en résolvant des micro problèmes 
          12. On fait avec ce qu’on a, alors obligé d’accumuler, ça donne des (cf Cadriciels)
-   
+
 4. Philosophie
    1. AR / Mixed Reality
    2. Blockchain
@@ -187,6 +187,13 @@ Dorian Blanchard
    5. Solid Principles
    6. Code Golf
    7. Quine
+5. Conclusion
+6. Annexes
+   1. Webographie
+   2. Lexique
+   3. Table des illustrations
+   4. Page d'évalutation
+
 
 
 
@@ -1179,6 +1186,8 @@ Richard stallman annonce le projet GNU le 27 Septembre **1983**, en 1985 il fond
 
 EN 1987 Andrew S. Tanenbaum invente Minix a UNIX like OS with a 16 bit architecture. Linus à donc voulu créer **Linux en 1991**, avec un nouveau Kernel, lineage, sous licence GPL. Leur coopération donnera GNU/Linux qui est une suite embarquée d'éditeurs comme bash, emac, la GNU C Library et le compilateur GCC, et pleins d'autres 
 
+
+
 ### Opensource
 
 
@@ -1251,15 +1260,29 @@ Collaboration et travail d'équipe : Dans de nombreux projets, plusieurs dévelo
 
 
 
+##### Philosophie
+
+One thing at a time
+
+Where AM I ?
+
+WYSIWYG
+
+Accessibility
+
+
+
 1976 homebrew exhibits par homebrew computer club
 
 
 
-## Bibliographie
+## Annexes
 
 
 
-https://www.physique.usherbro,oke.ca/~afaribau/essai/#:~:text=Les%20tables%20de%20calcul%20furent,aux%20cailloux%20selon%20leur%20position
+#### Webographie
+
+https://www.physique.usherbrooke.ca/~afaribau/essai/#:~:text=Les%20tables%20de%20calcul%20furent,aux%20cailloux%20selon%20leur%20position
 
 https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/25874/Parent_Simon_2021_these.pdf?sequence=2&isAllowed=y
 
