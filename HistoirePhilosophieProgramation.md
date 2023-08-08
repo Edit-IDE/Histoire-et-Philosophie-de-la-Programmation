@@ -438,9 +438,28 @@ Aristote, confiant en la sensation, qui permet la perception et la cognition du 
 
 théorie des formes et des idées et archétypes
 
-Vers l'an 407 Platon fut introduit à Socrates.  
+Vers l'an 407 Platon fut introduit à Socrates.
 
 Socrates, fils d'une sage-femme, est le créateur de la maïeutique, l'art de faire accoucher les âmes, en questionnant un sujet, il pouvait lui faire prendre conscience d'une connaissance enfouie en lui. Il est également le père d'une méthode de réfutation nommée elenchos, consistant à challenger la thèse de son adversaire en la poussant à l'absurde, dans le but d'y révéler son côté irréel.
+
+marcheur parleur, n'a jamais écrit, ses dires ont été relatés par ses disciples.
+avant étude nature, maintenant humain,
+il a recentrer la pensée sur l'homme, qui doit s'étudier lui même tel un anthropologue
+
+
+"Socrate le premier invita la philosophie à descendre du ciel, l'installa dans les villes, l'introduisit jusque dans les foyers, et lui imposa l'étude de la vie, des moeurs, des choses bonnes et mauvaises" Ciceron
+
+Les sages sont en fait des gens qui pensent l'être, ils s'imaginent des connaissances et ignorent ce qu'ils ne savent point.
+
+(In)Conscience
+Bien et mal, sens fort de la justice, à déja défendu des généraux accusés de ne pas avoir récupérer des corps de leurs soldats mort, à cause d'une tempete, et ce seul contre l'opinion publique en faveur de la justice.
+
+Longtemps accusé d'avoir des croyances différantes et déviantes de la religion de l'époque, il finira par accepter son jugement d'impiété et de corruption de la jeunesse plutot que de se battre dans l'injustice, socrate accusé à tord, fesa preuve d'une arrogance qui causera sa perte, il contreplaida à la peine de mort en disant qu'il devrait manger gratuitement jusqu'a la fin de ses jours et cela n'a vraisemblablement pas plu au jury qui 
+
+La légende dit même qu'il aurait pu s'évader mais préfréré accepter l'injustice que de la commetre.
+"La démocratie n'accorde pas assez d'importance au savoir et à ceux qui la détiennent"
+
+https://www.youtube.com/watch?v=yp_UUPR6gfg
 
 
 
