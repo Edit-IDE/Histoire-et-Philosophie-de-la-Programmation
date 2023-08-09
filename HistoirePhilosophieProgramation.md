@@ -876,6 +876,8 @@ Enfin, il finit par quitter l'administration et fonde la Tabulating Machine Comp
 
 #### Tube a vide
 
+1883 Thomas Edison puis John Ambrose Fleming
+
 
 
 #### Séparation de l'État et de l'Église
@@ -1258,6 +1260,26 @@ Le free software
 
 
 **Git** est un logiciel de gestion de versions décentralisé. C'est un logiciel libre et gratuit, créé en 2005 par Linus Torvalds le créateur de Linux,
+
+
+
+#### Pédagogie moderne
+
+Philosophie de l'éducation et axiologie
+
+ReaderRabbit
+
+Pédagogie active
+
+Scratch
+
+FlexboxFroggy
+
+CodingGame
+
+Logo
+
+Montessorri
 
 
 
