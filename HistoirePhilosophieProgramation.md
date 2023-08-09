@@ -199,7 +199,7 @@ Dorian Blanchard
 
 ## Introduction
 
-La transmission d'information s'est fiabilisée au fil des époques, avec l'usage d'outils physique, notamment des tablettes, plaques permettant de dessiner, d'écrire, lire, compter. Jusqu'à pouvoir automatiser son traitement et son stockage, à l'aide de l'informatique, dont l'histoire commence au début du 16e siècle.
+La transmission d'information s'est fiabilisée au fil des époques, avec l'usage d'outils physique ; notamment des tablettes, plaques permettant de dessiner, d'écrire, lire, compter. Jusqu'à pouvoir automatiser son traitement et son stockage, à l'aide de l'informatique, dont l'histoire commence au début du 16e siècle.
 
 De nos jours, nous interagissons quotidiennement avec des ordinateurs, que ce soit à l'aide de la programmation, ou des interfaces qui en sont issues. Pourtant, la grande majorité des utilisateurs, et j'oserai même dire des codeurs, ne connaît pas le tiers des événements majeurs de son histoire. J'ai donc décider de me documenter et de rédiger un format accessible avec ce qui m'a semblé être nécessaire pour comprendre le sujet.
 
@@ -378,9 +378,13 @@ Ce processus de réécriture syntaxique, trouve ses plus vieilles traces connues
 
 
 
-#### Géométrie
+#### Géométrie Euclidienne
 
 Les mathématiques appliquées, quand à elles, utilisent ces concepts sur des domaines très spécifiques, pour exemple, la géométrie, étymologiquement "science de la mesure du terrain", à été développée dans l’Egypte antique pendant **les trois siècles avant J.-C.** , à partir du besoin de mesurer la superficie d’un champ, aussi appelée arpentage.
+
+
+
+C'est d'ailleurs vers -300 qu'Euclide rédige *Éléments*, un traité de mathématique sur la géométrie et l’arithmétique, qui à façonner ces discipline dans les pays orientaux. Cet ouvrage à été réédité de multiples fois et traduit par de nombreux savants, dont certains cités quelques paragraphes plus loin. On lui doit la méthode de calcul du PGCD qui est nommée algorithme d'Euclide, la division Euclidienne, et bien sur sa géométrie.
 
 
 
@@ -406,7 +410,7 @@ Né vers l'an **-580**, Pythagore, fonda lui aussi un établissement d'enseignem
 
 On y étudier notament 4 matières, l'arithmétique, la musique, la géométrie, et l'astronomie.
 
-Il aurait été le premier à dire que la Terre était ronde, à découvrir les lois harmoniques en musique, et même le premier adepte du végétarisme, qu'il associait à une volonté de ne pas consommer la vie animale, que l'on doit ôter avec abomination, pour "qu'un corps s’engraisse d’un autre corps".
+Il aurait été le premier à dire que la Terre était ronde, à découvrir les lois harmoniques en musique, et même la première personnalité connue adepte du végétarisme, qu'il associait à une volonté de ne pas consommer la vie animale, que l'on doit ôter avec abomination, pour "qu'un corps s’engraisse d’un autre corps".
 
 
 
@@ -602,9 +606,29 @@ ne en **1013** et mort en 1054, il aboutit les travaux de Gerbert sur l'Astrolab
 
 #### Fibonnacci
 
-Ayant vécu de **1170** à **1250**, Leonardo Fibonnacci est le "chainon manquant", qui aurait importer la notation indo-arabe aux mathématiques occidentales. Il a en effet été éduqué à Béjaïa en actuelle Algérie, et aurait ramené entre autre cette notation à Pise, où son père était marchant et notaire public des douanes.
+Ayant vécu de **1170** à **1250**, Leonardo Fibonnacci est le "chainon manquant", qui aurait importé la notation indo-arabe aux mathématiques occidentales. Il a en effet été éduqué à Béjaïa en actuelle Algérie, et aurait ramené entre autre cette fameuse notation à Pise, où son père était marchant et notaire public des douanes.
 
-Il est également connu pour sa fameuse suite, connue des Indiens depuis le 6e siècle, et lié au nombre d'or, proportion que l'on retrouve dans beaucoup de choses y compris des structures produites par la nature, qui n'a pas été évoquée par Fibonnacci. Ce concept à été repris par Luca Pacioli, à la fin du 15è siècle dans un livre illustré par Leonard de Vinci. Pacioli est d'ailleurs le fondateur de la comptabilité par partie double que l'on utilise aujourd'hui dans en entreprises.
+Il est également réputé pour sa fameuse suite, bien que connue des Indiens depuis le 6e siècle, et liée au nombre d'or, proportion qui n'a pas été évoquée par Fibonacci et que l'on retrouve dans beaucoup de choses y compris des structures produites par la nature.
+
+
+
+
+
+#### Leon Battista Alberti
+
+Il est considéré par certains comme le père de la cryptographie occidentale, il a en effet étudier et inventer un système de chiffrement par substitution, le cadran chiffrant, et rédigé un texte prouvant que l'analyse de fréquence des lettres dans les textes en permet le déchiffrement. Il finira donc logiquement par inventer le sur-chiffrement codique, l'innovation cryptographique la plus significative depuis la période de César. Cette méthode consiste à utiliser plusieurs alphabets désordonnés en alternant entre eux lors du chiffrement.
+
+Il était également architecte, ayant planifier des constructions à Florence et surtout le précurseur de l'imagerie numérique
+
+Il aurait également imaginé le premier anémomètre permettant d'évaluer précisément la force du vent. 
+
+Il finira par décéder en **1472** à Rome
+
+
+
+#### Luca Pacioli
+
+A la fin du 15è siècle, il reprends le concept de nombre d'or dans un livre illustré par Leonard de Vinci, "De divina proportione" participant au mythe qui lui est lié. Pacioli est d'ailleurs le fondateur de la comptabilité par partie double que l'on utilise aujourd'hui dans en entreprises. Il a également traduits Éléments d'Euclide en Latin, et publier un résumé d’arithmétique, de proportion et de géométrie à Venise en 1492.
 
 
 
@@ -613,6 +637,16 @@ Il est également connu pour sa fameuse suite, connue des Indiens depuis le 6e s
 ### Epoque moderne
 
 1492 -> 1792
+
+
+
+#### Giambattista della Porta
+
+Fasciné par l'ésotérisme derrière les miracles et mystères de la nature, il œuvra à les opposer au divinatoire, et à convertir des croyances en savoirs scientifique. Comme beaucoup de philosophes et esprits polymathes, sa pensée est dirigée par les principes préscientifiques de la *théorie des analogies et de la correspondance*. Il eu étudier l'optique et le magnétisme, les lentilles et l'attraction du fer sur un aimant, ainsi que la propriété de nombreux métaux.
+
+Cryptographe, il rédigea en **1563** un ouvrage détaillé résumant les connaissances de cryptanalyses connues à l'époque, traitant du chiffrement et déchiffrement de messages, avec quelques ajouts de sa part, comme le système littéral à double clef qui sera longtemps utilisé, et dont il est potentiellement l'inventeur. Il a également aider à aboutir les travaux d'Alberti pour en faire un système complet. 
+
+Il s'intéressa également à la psychologie et notamment la mémoire, domaine qu'il étudia jusqu'a concevoir des astuces mnémoniques utilisées par les acteurs de théatre pour mémoriser leurs textes.
 
 
 
@@ -841,6 +875,12 @@ Enfin, il finit par quitter l'administration et fonde la Tabulating Machine Comp
 
 
 #### Tube a vide
+
+
+
+#### Séparation de l'État et de l'Église
+
+En 9 décembre 1905, l'abrogation du régime concordataire de 1802 met fin à l'affrontement violent qui a opposé deux conceptions de la place des Églises dans la société française pendant environ vingt-cinq ans.
 
 
 
@@ -1157,7 +1197,7 @@ Absolue / relatif
 
 ### Metagame
 
-Intelligence économique, politique et théorie des jeux. 
+Intelligence économique, politique et théorie des jeux.
 
 
 
@@ -1175,7 +1215,7 @@ Le formulaire de création de fonction et son interface dédiées indiqueront le
 
 ### Cadriciel et Open Source
 
-Symfony ne permet pas d'overide l'attribut "name" d'un champ de formulaire, le retrait de requêtes expires ne marche pas... L'instalation d'un de leurs logiciel, m'a récement causer default. J'ai eu, par la force des choses, à contacter la personne chargée de la documentation de Symphony. https://github.com/weaverryan est "Symfony docs lead, writer at SymfonyCasts, Symfony evangelist", ce fût une expérience riche ou j'ai découvert un environnement qui m'est familier, bien que je n'ai pas souvent réaliser de l'open source avant. Une pipeline qui sors des erreurs à des lignes qui n'existent pas sur ma version, qui malgré ça permet d'assurer la qualité de la documentation, avec des tests de compilation, les documents étant rédigés en RST ou DOCtor-RST.
+Symfony ne permet pas d'overide l'attribut "name" d'un champ de formulaire, le retrait de requêtes expires ne marche pas... L'instalation d'un de leurs plugin React m'a récement causer default. J'ai eu, par la force des choses, à contacter la personne chargée de la documentation de Symphony. Un certaun [Ryan](https://github.com/weaverryan), qui est "Symfony docs lead, writer at SymfonyCasts", ce fût une expérience riche ou j'ai découvert un environnement qui m'est familier, bien que je n'ai pas souvent réaliser de l'open source avant. Une pipeline qui sors des erreurs à des lignes qui n'existent pas sur ma version, et qui malgré ça permet d'assurer la qualité de la documentation rédigée en RST ou DOCtor-RST, à l'aide de tests de compilation.
 
 
 
@@ -1187,7 +1227,7 @@ Voici le dialogue qui en est à l'origine :
 
 
 
-![](D:\Texte\Cours\Histoire-et-Philosophie-de-la-Programmation\assets\ChatGPTRichardStallman.png)
+![](assets\ChatGPTRichardStallman.png)
 
 
 
@@ -1318,6 +1358,8 @@ https://www.physique.usherbrooke.ca/~afaribau/essai/#:~:text=Les%20tables%20de%2
 https://en.wikipedia.org/wiki/Timeline_of_computing
 
 https://en.wikipedia.org/wiki/History_of_the_graphical_user_interface
+
+https://fr.wikipedia.org/wiki/Analogies_et_correspondances
 
 
 
