@@ -53,14 +53,16 @@ Dorian Blanchard
       9. [Tube a vide](#Tube a vide)
       10. [Triode](#Triode)
    6. [Après la première guerre mondiale](#Après la première guerre mondiale)
-      1. Tabulatrices (1920)
-      2. Enigma (1923)
-      3. Moore School (1923)
-      4. Bande magnetique casettes audio (1930)
-      5. IBM 601 (1931)
-      6. Machine de Turing (1936)
-      7. Z1 Zuse Konrad (1936)
-      8. Atanasoff Berry Computer (1937)
+      1. [Tabulatrices](#Tabulatrices)
+      2. [Enigma](#Enigma)
+      3. [Moore School](#Moore School)
+      4. [Bande magnétique cassettes audio](#Bande magnétique cassettes audio )
+      5. [IBM 601](#IBM 601)
+      6. [Mémoire tambour](#Mémoire tambour)
+      7. [Machine de Turing](#Machine de Turing)
+      8. [Z1 Zuse Konrad](#Z1 Zuse Konrad)
+      9. [Atanasoff Berry Computer](#Atanasoff Berry Computer)
+      10. [Hewlett Packard](#Hewlett Packard)
    7. [Seconde guerre mondiale](#Seconde guerre mondiale)
       1. Z2 (1940)
       2. Z3 (1941)
@@ -203,19 +205,19 @@ Dorian Blanchard
 
 ## Introduction
 
-La transmission d'information s'est fiabilisée au fil des époques, avec l'usage d'outils physique ; notamment des tablettes, plaques permettant de dessiner, d'écrire, lire, compter. Jusqu'à pouvoir automatiser son traitement et son stockage, à l'aide de l'informatique, dont l'histoire commence au début du 16e siècle.
+La transmission d'information s'est fiabilisée au fil des époques, avec l'usage d'outils physique ; notamment des tablettes, plaques permettant de dessiner, d'écrire, lire, compter. Jusqu'à pouvoir automatiser son traitement et son stockage, à l'aide de l'informatique, dont l'histoire ne commence qu'au début du 16e siècle.
 
 De nos jours, nous interagissons quotidiennement avec des ordinateurs, que ce soit à l'aide de la programmation, ou des interfaces qui en sont issues. Pourtant, la grande majorité des utilisateurs, et j'oserai même dire des codeurs, ne connaît pas le tiers des événements majeurs de son histoire. J'ai donc décider de me documenter et de rédiger un format accessible avec ce qui m'a semblé être nécessaire pour comprendre le sujet.
 
 Pour la rédaction de cet ouvrage, j'ai acquis 3 livres : la 4e édition de "Computer, A History of the Information Machine" de Martin Campbell-Kelly, "The history of the computer : people, inventions, and technology that changed our world" de Rachel Ignotofsky et "Histoire illustrée de l'informatique" d'Emmanuel Lazard et Pierre Mounier-Kuhn.
 
-Tous ces livres ont leurs avantages grâce à une approche différente d'un même sujet, sur lequel je m'attendais à trouver plus d'ouvrages. Ma plus-value est une approche plus globale que l'informatique et l'ordinateur, qui est sont des concepts très récent. J'ai voulu ajouter de la philosophie ainsi que mon humble analyse subjective, parce que l'apprentissage des mathématiques et de l'informatique a changer ma manière de concevoir le monde.
+Tous ces livres ont leurs avantages grâce à une approche différente d'un même sujet, sur lequel je m'attendais à trouver plus d'ouvrages. J'ai essayé d'avoir une approche plus globale que l'informatique et l'ordinateur, qui est sont des concepts très récent. Et ce en y ajoutant de la philosophie, ainsi que mon humble analyse subjective, parce que l'apprentissage des mathématiques et de l'informatique ont changé ma manière de concevoir le monde dans lequel nous vivons.
 
-Enfin, le sujet central, la programmation, n'est pas forcement liée à l'informatique, c'est l'art de planifier et mettre en œuvre des étapes a suivre pour obtenir un résultat.
+Enfin, le sujet central, la programmation, n'est pas forcement liée à l'informatique, c'est l'art de planifier et mettre en œuvre des étapes à suivre pour obtenir un résultat.
 
-Dans cet ouvrage, je vais revenir à ses racines, et au vocabulaire du champ lexical qui y sont liés ou en découlent, ainsi que leurs étymologies et leur histoire.
+Dans cet ouvrage, je vais revenir à ses racines les plus ancestrales, et au vocabulaire du champ lexical qui y sont liés ou en découle, ainsi que leurs étymologies et leur histoire.
 
-Je ferais ensuite un bilan de l’état actuel de ce domaine, de son marché, et une étude de sa pratique moderne, et ce afin d'en identifier les problèmes que l'on y rencontre en tant que développeur, ainsi que des solutions possibles.
+Je dresserai ensuite un bilan de l’état actuel de ce domaine, de son marché, et une étude de sa pratique moderne, et ce afin d'en identifier les problèmes que l'on y rencontre en tant que développeur, ainsi que des solutions possibles.
 
 Enfin, à l’aide de l’étude précédente, je dresserai ma projection subjective en tant qu'acteur et éditeur de logiciels, pour le futur de cette discipline, plus notamment la pratique que je souhaite en avoir en tant que créateur de services et contenu web.
 
@@ -224,7 +226,7 @@ Enfin, à l’aide de l’étude précédente, je dresserai ma projection subjec
 Notes : 
 
 - L’histoire se souvient rarement de la première occurrence d’une invention, ce qu'il en reste est généralement sa démocratisation.
-- Il est évident que tout les concepts scientifiques ne sont que des formulations écrites de théories issues de la raison, qui était elles mêmes déjà connues de tout temps de manière empirique.
+- Il est évident que tout les concepts scientifiques ne sont que des formulations écrites de théories issues de la raison, qui étaient déjà connues par certaines personnes de manière empirique.
 - La majorité des mots sont poly-sémantiques, ils n'ont pas de signification unique.
 - Les paroles s’envolent les écrits restent, c'est pourquoi la littérature est importante. Ecrire permet de faire naître une information et potentiellement de la rendre éternelle
 
@@ -237,11 +239,13 @@ Notes :
 
 Je ne remercierai jamais assez mes parents et grand parents, qui ont eu la chance d'être propriétaires d'ordinateurs et d'internet avant ma naissance en 1999, et qui ont eu la merveilleuse idée de me mettre sur un ordinateur avec des logiciels éducatifs qui m'ont permis de savoir lire à l'âge de 2 ans.
 
-Merci à toutes les personnes et enseignants qui m'ont appris ce que je sais aujourd'hui dans ma scolarité.
+Merci à toutes les personnes et enseignants qui lors de ma longue scolarité m'ont appris tout ce que je sais aujourd'hui.
 
 Merci aux logiciels libres, à l'open source, à Wikipédia et à tout leurs contributeurs.
 
+Merci à toutes et tous, car nos métiers et inventions ne sont que rarement le fruit d'un génie isolé, mais bien d'une collaboration et de l'amélioration d'idées antérieures.
 
+Enfin, merci à toute personne qui lit actuellement ce texte.
 
 
 
@@ -269,11 +273,11 @@ Avant même la naissance de l'écriture qui marque la fin de la préhistoire, le
 
 Un abaque est un instrument facilitant le calcul. C'est un outil mnémonique utilisant la numération et permettant d'enregistrer un nombre pour se libérer de la mémoire.
 
-Son étymologie est grecque ou hébreuse, elle explique bien sa représentation et son usage, la poussière (de l'hébreu abaq) ou tablette (du grec akos) qui servaient de support pour l'écrit, qui pouvaient en être volontairement recouvertes, et ainsi réécrire à volonté avec du sable, ou autre poudres. 
+Son étymologie est grecque ou hébreuse, elle explique bien sa représentation et son usage, la poussière (de l'hébreu abaq), ou tablette (du grec akos) qui servaient de support pour l'écrit, et pouvaient en être volontairement recouvertes, et ainsi réécrites à volonté avec du sable, ou toute autre poudres.
 
 Le plus vieux système de quantification connu est le bâton de comptage en **-40000**. C'est un système unaire, c'est a dire un système permettant de quantifier des unités représentées par la répétition d'un symbole, généralement un trait, aussi appelé marque de dénombrement. Le plus ancien est l'Os de Lebombo.
 
-Le plus connu est l'ensemble d'Os d'Ishango, qui serait hypothétiquement une des premières preuves de connaissance humaine des mathématiques et de l'arithmétique, dont un sur lequel on aperçoit les 4 nombres premiers entre 10 et 20, soit 11, 13, 17, et 19 ; ou un autre semblant démontrer les additions et les multiplication, notamment la duplication, avec la juxtaposition des nombres 3 et 6 puis 4 et 8.
+Cependant l'ensemble d'Os d'Ishango et le plus connu, qui serait hypothétiquement une des premières preuves de connaissance humaine des mathématiques et de l'arithmétique, dont un sur lequel on aperçoit les 4 nombres premiers entre 10 et 20, soit 11, 13, 17, et 19 ; ou un autre semblant démontrer les additions et les multiplication, notamment la duplication, avec la juxtaposition des nombres 3 et 6 puis 4 et 8.
 
 Cette méthode est restée, a l'époque, un berger pouvait s'assurer que l'intégralité de son troupeau etait rentré en comparant deux comptages, a l'aide de cailloux par example, chacun representant une bête. 
 
@@ -281,21 +285,23 @@ De nos jours elle a été mécanisée pour compter par groupe de dix les manifes
 
 
 
-J'ai également eu l'opportunité de visiter la grotte de Thaïs, où à été retrouvé un os de quelques centimètres aux multiples gravures, daté en -12 500, il a été nommé Os coché.
+J'ai également eu l'opportunité de visiter la grotte de Thaïs, où à été retrouvé un os de quelques centimètres aux multiples gravures, daté en **-12 500**, il a été nommé Os coché.
 
 En 1991,  l’archéologue américain Alexander Marschack, démontra qu’il ne s’agit pas comme on le pensait alors, d’une représentation décorative, mais d’un système d’enregistrement du temps, possiblement un calendrier basé sur des observations astronomiques. Cette hypothèse est actuellement en 2023 le sujet d'une étude européenne menée par un groupe de chercheur à l'université de Bordeaux.
+
+L'homme préhistorique avait donc sûrement déjà des systèmes de comptage des unités et du temps.
 
 
 
 #### Bulle enveloppe
 
-Il y'a 6000 ans de cela, en Mésopotamie, vers l'an **-3900**, étaient utilisées des sphères d'argile appelées bulles enveloppe, ou bulle comptable; on y stockait en son sein des calculs ou en latin "calculus", signifiant petit cailloux, et on y comptabilisait le contenu. La signature se fesait en déroulant un sceau-cylindre, orné de motifs représentant des dieux ou le pouvoir. Il servait à imprimer les motifs créusés dessus afin de pouvoir les imprimer sur de l'argile. Ce motif indiquait généralement le possesseur à la manière d'une signature. Certains étaient en matériaux plus ou moins précieux, et comportait parfois des écritures cunéiformes. 
+Il y'a 6000 ans de cela, en Mésopotamie, vers l'an **-3900**, étaient utilisées des sphères d'argile appelées bulles enveloppe, ou bulle comptable ; on y stockait en son sein des calculs ou en latin "calculus", signifiant petit cailloux, et on y comptabilisait le contenu. La signature se faisait en déroulant un sceau-cylindre, orné de motifs représentant des dieux ou le pouvoir. Il servait à imprimer les motifs creusés dessus afin de pouvoir les imprimer sur de l'argile. Ce motif indiquait généralement le possesseur à la manière d'une signature. Certains étaient en matériaux plus ou moins précieux, et comportait parfois des écritures cunéiformes.
 
 
 
 ### Antiquité
 
-Marquée par l'invention la plus importante de notre histoire, en -3250 dans la région de la Mésopotamie, la naissance de l'écriture à permis une transmission d'information complexes sur un support théoriquement permanent. Cette période se finira en 450 par la chute de l'Empire Romain.
+Marquée par l'invention la plus importante de notre histoire, en **-3250** dans la région de la Mésopotamie, la naissance de l'écriture à permis une transmission d'information complexes sur un support théoriquement permanent. Cette période se finira en 450 par la chute de l'Empire Romain.
 
 
 
@@ -830,33 +836,53 @@ La Remington de 1874 nous à apporter les claviers QWERTYUIOP, et la suite alpha
 
 
 
+#### Diode
+
+Le principe du semiconducteur à été découvert par Karl Ferdinand Braun en **1874** qui s'est rendu compte que l'on pouvait faire passer un courant électrique dans une direction donnée, à l'aide d'un fin fil de métal et d'un crystal de galène. Cette découverte sera réutilisée plus tard dans les tubes à vides, permettant d'avoir des bascules allumée / éteinte avec un signal directionnel.
+
+
+
 #### Téléphone
 
-En 1876 Alexander Graham Bell, réalise le premier appel téléphonique.
+En **1876** Alexander Graham Bell, réalise le premier appel téléphonique.
+
+
+
+#### Edison
+
+En **1879** il récupère le brevet pour la lampe à filament, qu'il n'a pas inventé mais démocratisée et améliorée, devenant le pionnier dans les lampes électriques. Il était donc essentiellement un homme d'affaire, il est considéré comme l'inventeur le plus prolifique, on lui doit également la naissance des premiers bureaux de recherches industriels, ainsi que les films vidéos.
 
 
 
 #### NCR
 
-La Nationnal Cash Register à été créée en 1884
+La Nationnal Cash Register à été créée en **1884**
 
 
 
 #### Burroughs Corporation
 
-Créer en 1886, devint Unisys après sa fusion en 1986 avec Sperry Univac, anciennement Remington.
-
-
-
-#### Calculatrices à crosses 
-
-En 1889, le mécanisme des calculatrices à crosse est breveté par le Français Louis Troncet, sous le nom d'Arithmographe
+Créée en **1886**, devint Unisys après sa fusion en 1986 avec Sperry Univac, anciennement Remington.
 
 
 
 #### Comptomètre
 
-Inventé aux États-Unis par Dorr E. Felt en 1887, le comptomètre reprend l'idée du clavier à touche de l'arithmomètre. Le principe de l'addition reste aussi simple que celui de la Pascaline. Par contre, la soustraction est différente et procède par addition du complément à 9 qui est inscrit en minuscule sur chaque touche du clavier.
+Inventé aux États-Unis par Dorr E. Felt en **1887**, le comptomètre reprend l'idée du clavier à touche de l'arithmomètre. Le principe de l'addition reste aussi simple que celui de la Pascaline. Par contre, la soustraction est différente et procède par addition du complément à 9 qui est inscrit en minuscule sur chaque touche du clavier.
+
+
+
+#### Calculatrices à crosses 
+
+En **1889**, le mécanisme des calculatrices à crosse est breveté par le Français Louis Troncet, sous le nom d'Arithmographe
+
+
+
+#### Oscilloscope
+
+En **1893**, André Blondel, ingénieur français polytechnique invente l'oscillographe bifilaire, une machine électromécanique permettant d'étudier des courants alternatifs à l'aide de graphiques, et maintenant plus largement toute évolution d'un signal électronique dans le temps.
+
+Il inventera de nombreux autres dispositifs de mesures électriques comme un hystérésimètre et un wattmètre, il est également à l'origine avec l'aide de deux autres ingénieurs du barrage de Génissiat. Par la suite, l'outil se perfectionnera avec l'ajout d'un écran cathodique, puis sa numérisation par LeCroy, Phillips et Tektronix
 
 
 
@@ -874,25 +900,37 @@ Enfin, il finit par quitter l'administration et fonde la Tabulating Machine Comp
 
 
 
-
-
 #### Tube a vide
 
-1883 Thomas Edison puis John Ambrose Fleming
+En **1904** John Ambrose Fleming, se base sur des travaux de Thomas Edison de 1883 et de Frederick Guthrie en 1873, mais c'est lui qui à appliqué cette technologie pour remplacer les détecteurs magnétique des radio et permettre d'amplifier leurs signaux.
 
 
 
 #### Séparation de l'État et de l'Église
 
-En 9 décembre 1905, l'abrogation du régime concordataire de 1802 met fin à l'affrontement violent qui a opposé deux conceptions de la place des Églises dans la société française pendant environ vingt-cinq ans.
+En 9 décembre **1905**, l'abrogation du régime concordataire de 1802 met fin à l'affrontement violent qui a opposé deux conceptions de la place des Églises dans la société française pendant environ vingt-cinq ans.
 
 
 
 #### Triode
 
-(1906 - Eccles)
+Lee De Forest invente l'Audion en **1906** avec l'ajout d'une électrode intermédiaire permettant de convertir une variation de courant en variation de tension et de puissance, permettant ainsi l'amplification d'un signal. William Eccles renommera cette invention triode en 1919.
+
+Tout deux ont contribuer pour beaucoup dans le développement des circuits électroniques et de la transmission sans fil avec la naissance de la radio.
 
 
+
+#### Tube cathodique
+
+Boris Rosing est un scientifique russe d'origines néerlandaises ayant inventer les tubes cathodiques en **1907**, avec l'aide des travaux de Ferdinand Braun. Il à par la suite déposer des brevets et démontrer le principe de fonctionnement en détail à l'aide de schémas expliquant l'hystérésis magnétique.
+
+Ces tubes ont longtemps fait partis de nos écrans de télévisions qui affichaient une image à l'aide d'une cellule photoélectrique, dont le faisceau était dévié augmentant ou diminuant le nombre d'électrons qui passait et faisant ainsi varier la luminosité du faisceau avant qu'il atteigne l'écran projetant une image en noir et blanc.
+
+Ces travaux ont par la suite étés démocratisés par un de ses élèves et assistant de travail nommé Vladimir Zvorykine, qui à inventer l'iconoscope permettant de capter les images qui seront retransmises sur ces écrans et qui devint rapidement pionnier de la télévision aux États-Unis et en Allemagne, bien que rapidement concurrencé par Philo Farnsworth qui fut le premier à réaliser une chaîne de télévision avec émission-réception.
+
+
+
+[Retour](#Sommaire)
 
 ### Après la première guerre mondiale
 
@@ -910,15 +948,13 @@ Alan turing decoda avec la Turingery
 
 
 
-
-
 #### Moore School
 
 **1923**
 
 
 
-#### Bande magnétique casettes audio 
+#### Bande magnétique cassettes audio 
 
 **1930**
 
@@ -950,7 +986,7 @@ En **1932**, l'ingénieur Gustav Tauschek, invente une nouvelle méthode de mém
 
 #### Atanasoff Berry Computer 
 
-**1937**
+**1937**, première utilisation des tubes à vides
 
 
 
@@ -980,7 +1016,7 @@ En **1932**, l'ingénieur Gustav Tauschek, invente une nouvelle méthode de mém
 
 #### Colossus / Harvard Mark 1
 
-IBM ASCC (Automatic Sequence Controlled Calculator, Relay Switches **1944**
+IBM ASCC (Automatic Sequence Controlled Calculator, Relay Switches qui pouvaient casser **1944**
 
 https://www.youtube.com/watch?v=MOUg25dJM4c
 
@@ -1138,6 +1174,18 @@ CSS a permi de diversifier l'apparence des sites webs, les frameworks et themes 
 
 
 
+#### Xerox Star
+
+1981
+
+
+
+#### IBM PC 5150
+
+1981
+
+
+
 
 
 [Retour](#Sommaire)
@@ -1247,7 +1295,7 @@ Richard stallman annonce le projet GNU le 27 Septembre **1983**, en 1985 il fond
 
 
 
-EN 1987 Andrew S. Tanenbaum invente Minix a UNIX like OS with a 16 bit architecture. Linus à donc voulu créer **Linux en 1991**, avec un nouveau Kernel, lineage, sous licence GPL. Leur coopération donnera GNU/Linux qui est une suite embarquée d'éditeurs comme bash, emac, la GNU C Library et le compilateur GCC, et pleins d'autres 
+En 1987 Andrew S. Tanenbaum invente Minix un système d'exploitation UNIX avec une architecture 16 bit. Inspiré par Minix, Linus à donc créer **Linux en 1991**, avec un nouveau Kernel, lineage, sous licence GPL. Leur coopération donnera GNU/Linux qui est une suite embarquée d'éditeurs comme bash, emac, la GNU C Library et le compilateur GCC, et pleins d'autres 
 
 
 
@@ -1261,7 +1309,7 @@ Le free software
 
 
 
-**Git** est un logiciel de gestion de versions décentralisé. C'est un logiciel libre et gratuit, créé en 2005 par Linus Torvalds le créateur de Linux,
+**Git** est un logiciel de gestion de versions décentralisé sous licence GNU GPL. C'est un logiciel libre et gratuit, initié en 2005 par Linus Torvalds le créateur de Linux lors de la création de son noyau. Linus ne voulait pas réaliser ce projet seul et à rapidement compris que la qualité d'un logiciel viendrai des débats houleux entre ses collaborateurs et l'implémentation de la meilleure idée à la fin.
 
 
 
@@ -1282,6 +1330,12 @@ CodingGame
 Logo
 
 Montessorri
+
+
+
+### Prestation vs édition de logiciel
+
+
 
 
 
@@ -1380,6 +1434,12 @@ https://theses.hal.science/tel-00125472/document
 https://www.amazon.fr/Computer-History-Information-Machine-Technology-ebook/dp/B07CNDC344/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2MCJSC0Q0UNWO&keywords=Computer%3A+A+History+of+the+Information+Machine&qid=1683623797&sprefix=computer+a+history+of+the+information+machine%2Caps%2C74&sr=8-1&asin=0813345901&revisionId=&format=4&depth=2
 
 https://www.physique.usherbrooke.ca/~afaribau/essai/#:~:text=Les%20tables%20de%20calcul%20furent,aux%20cailloux%20selon%20leur%20position
+
+
+
+https://aosabook.org
+
+http://waterbearlang.com
 
 
 
