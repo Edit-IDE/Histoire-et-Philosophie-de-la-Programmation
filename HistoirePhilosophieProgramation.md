@@ -13,19 +13,26 @@ Dorian Blanchard
    1. [Préhistoire](#Préhistoire)
       1. [Abaques](#Abaques)
       2. [Bulle enveloppe](#Bulle enveloppe)
-
    2. [Antiquité](#Antiquité)
-      1. [Algèbre](#Algèbre)
+      1. [Prémices de l'Algèbre](#Prémices de l'Algèbre)
       2. [Quipu](Quipu)
       3. [Boulier](#Boulier)
-      4. [Mathématiques](#Mathématiques)
-      5. [Géométrie](Géométrie)
-      6. [Encryption](#Encryption)
-      7. [Calculateurs analogiques](#Calculateurs analogiques)
+      4. [Code de Hammurabi](#Code de Hammurabi)
+      5. [Encryption](#Encryption)
+      6. [Mathématiques](#Mathématiques)
+      7. [Géométrie Euclidienne](#Géométrie Euclidienne)
+      8. [Thalès](#Thalès)
+      9. [Pythagore](#Pythagore)
+      10. [Philosophie antique](#Philosophie antique)
+          1. [Dialectique](#Dialectique)
+          2. [Académie et Lycée](#Académie et Lycée)
+          3. [Rhétorique](#Rhétorique)
+          4. [Atomisme](#Atomisme)
+          5. [Sophistes et Sophismes](#Sophistes et Sophismes)
+      11. [Calculateurs analogiques](#Calculateurs analogiques)
    3. [Moyen Âge](#Moyen Âge)
       1. [Algorithme](#Algorithme)
       2. [Fibonnacci](#Fibonnacci)
-
    4. [Epoque moderne](#Epoque moderne)
       1. [Wilhelm Schikard](#Wilhelm Schikard)
       2. [Calculateurs](#Calculateurs)
@@ -34,7 +41,6 @@ Dorian Blanchard
       5. [Pascaline](#Pascaline)
       6. [Binaire](#Binaire)
       7. [Cartes perforées](#Cartes perforées)
-
    5. [Epoque comtemporaine](#Epoque comtemporaine)
       1. [Dactylographie](#Dactylographie)
       2. [Arithmomètre](#Arithmomètre)
@@ -81,7 +87,7 @@ Dorian Blanchard
           2. fortran 1957 John Backus
           3. lisp 1958 John Mc Carthy
           4. cobol 1959
-
+   
       17. Circuit integré (1958)
       18. Théorie algorithmique de linformation (1960)
       19. Spacewar! (1962)
@@ -105,7 +111,6 @@ Dorian Blanchard
       12. First commercial autonomous drone DJI (2013)
       13. Alphago (2015)
       14. Boston Dynamics 
-
 3. Présent (21e siècle)
    1. Concepts
    2. Appareils
@@ -178,7 +183,6 @@ Dorian Blanchard
          10. Intelligence, Ambiguïtés et apprentissage : Nous sommes tous des IAs
          11. Apprentissage par l’erreur, sans elle rien ne serais possible le succès ne s’obtient qu’en résolvant des micro problèmes 
          12. On fait avec ce qu’on a, alors obligé d’accumuler, ça donne des (cf Cadriciels)
-
 4. Philosophie
    1. AR / Mixed Reality
    2. Blockchain
@@ -222,11 +226,9 @@ Notes :
 - L’histoire se souvient rarement de la première occurrence d’une invention, ce qu'il en reste est généralement sa démocratisation.
 - Il est évident que tout les concepts scientifiques ne sont que des formulations écrites de théories issues de la raison, qui était elles mêmes déjà connues de tout temps de manière empirique.
 - La majorité des mots sont poly-sémantiques, ils n'ont pas de signification unique.
-- Les paroles s’envolent les écrits restent, c'est pourquoi la littérature est importante.
+- Les paroles s’envolent les écrits restent, c'est pourquoi la littérature est importante. Ecrire permet de faire naître une information et potentiellement de la rendre éternelle
 
 - Le savoir est magie pour les idiots, et secret de polichinelle pour les érudits.
-
-
 
 
 
@@ -416,15 +418,15 @@ Il aurait été le premier à dire que la Terre était ronde, à découvrir les 
 
 #### Philosophie antique
 
+La philosophie est réellement née avec Socrates, qui a réellement définit le début d'une période, dont les philosophes antérieurs à lui sont appellés pré-socratiques.
 
 
-##### Dialectique et rhétorique
+
+##### Dialectique
 
 La Dialectique est étymologiquement l'art de parler en conservant et distinguant sa parole de celle de son interlocuteur. Elle repose sur un dialogue ou les deux participants tentent de ce convaincre mutuellement dans le but de se rapprocher de la vérité. La première personne connue à l'avoir mis en évidence est le philosophe présocratique Zénon d'Élée. 
 
 C'est devenue une technique classique de raisonnement au Moyen Âge, qui se structure généralement en une thèse, une antithèse, et une synthèse qui tends généralement vers un compromis ou du moins un dépassement du manichéisme et de ses stéréotypes. C'est une structure philosophique basique, que l'on enseigne encore aujourd'hui.
-
-
 
 J'apprécie personnellement la définition de Platon dans sa vision de l'usage du dialogue, il décrit la dialectique comme reposant sur la confrontation de plusieurs positions de manière à dépasser l'opinion afin que chacun se rapproche un peu de la vérité
 
@@ -1284,6 +1286,10 @@ On peut dire oui on peut dire non, mais pour moi
 C'est mauvais de ne pas connaître si on peut connaître, c'est mauvais de ne pas savoir ce que l'on peut savoir, Ce veut dire qu'il faut préparer tout les engins toutes les techniques ou pratiques que la science permette.
 
 C'est très difficile pour le chercheur qui fait la découverte, de savoir et de peser immédiatement, les possibilités ultérieures. On le remarque dans le jeu de la vie 
+
+
+
+Doit on avoir moins de fonctionnalité sur mobile ? Non, c'est l'interface qui doit changer et s'adapter à l'utilisateur.
 
 
 
