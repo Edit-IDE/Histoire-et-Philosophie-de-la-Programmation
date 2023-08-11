@@ -213,9 +213,9 @@ Pour la rédaction de cet ouvrage, j'ai acquis 3 livres : la 4e édition de "Com
 
 Tous ces livres ont leurs avantages grâce à une approche différente d'un même sujet, sur lequel je m'attendais à trouver plus d'ouvrages. J'ai essayé d'avoir une approche plus globale que l'informatique et l'ordinateur, qui est sont des concepts très récent. Et ce en y ajoutant de la philosophie, ainsi que mon humble analyse subjective, parce que l'apprentissage des mathématiques et de l'informatique ont changé ma manière de concevoir le monde dans lequel nous vivons.
 
-Enfin, le sujet central, la programmation, n'est pas forcement liée à l'informatique, c'est l'art de planifier et mettre en œuvre des étapes à suivre pour obtenir un résultat.
+Enfin, le sujet central, la programmation, n'est pas forcement liée à l'informatique, c'est l'art de planifier et mettre en œuvre des étapes à suivre pour obtenir un résultat. Elle passe inévitablement par de la gestion de l'information, à l'aide d'écriture, lecture, chiffrement, déchiffrement, émission, et réception.
 
-Dans cet ouvrage, je vais revenir à ses racines les plus ancestrales, et au vocabulaire du champ lexical qui y sont liés ou en découle, ainsi que leurs étymologies et leur histoire.
+Dans cet ouvrage, je vais revenir à ses racines les plus ancestrales, et au vocabulaire du champ lexical qui y sont liés ou en découle, ainsi que leurs étymologies à travers leur Histoire qui représente toute la première partie de ce livre.
 
 Je dresserai ensuite un bilan de l’état actuel de ce domaine, de son marché, et une étude de sa pratique moderne, et ce afin d'en identifier les problèmes que l'on y rencontre en tant que développeur, ainsi que des solutions possibles.
 
@@ -346,17 +346,115 @@ Par la suite, Romains, chinois, japonais, russes, mexicains, français, et bien 
 
 #### Code de Hammurabi
 
-Ce texte babylonien daté vers **-1750**, démontre l'existence de lois, notament concernant les salaires, indiquant qu'il existait des corps de métiers bien définis.
+Ce texte babylonien daté vers **-1750**, démontre l'existence de lois, notamment concernant les salaires, indiquant qu'il existait des corps de métiers bien définis.
+
+
+
+#### Thalès
+
+Né vers l'an **-620**, Thales fut un philosophe et mathématicien grec si important, que tous furent d'accord pour dire qu'il était l'un des plus grands sages de la Grèce antique. Il eu vécu et étudié en Égypte où il détermina la hauteur de pyramides, prédit des éclipses, et théorisa les crues du Nil. Il exporta la science de la géométrie en Grèce et on lui doit deux des plus vieux théorèmes géométrique qui portent son nom, encore étudiés aujourd'hui, bien que leurs démonstration n'est été avérée que plus tard.
+
+Il est aussi l'un des fondateurs de astronomie, il travailla sur des éphémérides grâce auxquelles il a conseillé à des marins de se guider à l'aide de la petite ourse.
+
+Par ailleurs, il est le premier à avoir découvert qu'une année, qui à l'époque était pensée comme une révolution du soleil autour la Terre, ne prenait pas 365 jours mais 365 jours et un quart, d'où les années bissextiles. Mais aussi le premier à avoir prix connaissance de électricité grâce à l'ambre qui attire un tissus ou les propriété d'aimantation de l'oxyde de fer, ce qui lui valu d'être également considéré comme le premier physicien.
+
+Enfin, il fonda l'école milésienne qui inspirera les personnalités qui suivent ce récit.
 
 
 
 #### Encryption
 
-Depuis longtemps, les humains ont eu besoin de communiquer, à de longues distances, des messages, sans qu'ils ne se fasse intercepter, et encore moins décodés et lus voire pire, compris.
+Depuis longtemps, les humains ont eu besoin de communiquer des message à de longues distances, sans qu'ils ne se fassent intercepter, et encore moins décoder et lus voire pire, compris.
 
 Le plus ancien système d'encryption connu est la scytale spartiate vers **-600**. Utilisé pour transmettre des messages chiffrés par transposition sur un bande, généralement une ceinture en cuir portée pendant le transport, que l'on enroule autour d'un bâton pour l'écriture et la lecture. Le diamètre du bâton étant ainsi la clé d'encryption. Les lettres correspondait encore à leur propre valeur, et leur ordre dans le mot était conservé, malgré la présence de lettre entre chacune d'entres elles. Ces dernières étaient simplement mélangées et l'enroulage permettait de les réaligner afin d'en permettre la lecture.
 
 C'est ainsi que quelques années avant Jésus Christ, Jules César encodait ses messages en utilisant un code éponyme. Cette encryptions simple utilisait un décalage d'un certain nombre de lettres de l'alphabet. A vaut D, B vaut E, Z vaut C, etc...
+
+On remarque que l’encryption était dès le début utilisée pour transmettre des messages sensibles, notamment liés à la guerre. Cet outil à d'ailleurs été considéré comme arme de guerre jusqu’à récemment, où la plupart des techniques de cryptographies issues du domaine militaire sont devenues publiques. Malgré cela, encore aujourd'hui les gouvernements appellent à retirer l'anonymat sur internet ou à avoir des portes dérobées dans les chiffrements afin d'en permette la lecture par une autorité en cas de besoin.
+
+
+
+#### Pythagore
+
+Né vers l'an **-580**, Pythagore, fonda lui aussi un établissement d'enseignement, l'école Pythagoricienne, qui deviendra progressivement une confrérie, à la fois religieuse et scientifique où les femmes et les étrangers était admis, sous réserve de passer de multiples paliers.
+
+On y étudier notament 4 matières, l'arithmétique, la musique, la géométrie, et l'astronomie.
+
+Il aurait été le premier à dire que la Terre était ronde, à découvrir les lois harmoniques en musique, et même la première personnalité connue adepte du végétarisme, qu'il associait à une volonté de ne pas consommer la vie animale, que l'on doit ôter avec abomination, pour "qu'un corps s’engraisse d’un autre corps".
+
+
+
+#### Dialectique
+
+La Dialectique est étymologiquement l'art de parler en conservant et distinguant sa parole de celle de son interlocuteur. Elle repose sur un dialogue ou les deux participants tentent de ce convaincre mutuellement dans le but de se rapprocher de la vérité. La première personne connue à l'avoir mis en évidence est le philosophe présocratique Zénon d'Élée né en **-490**. 
+
+C'est devenue une technique classique de raisonnement au Moyen Âge, qui se structure généralement en une thèse, une antithèse, et une synthèse qui tends généralement vers un compromis ou du moins un dépassement du manichéisme et de ses stéréotypes. C'est une structure philosophique basique, que l'on enseigne encore aujourd'hui.
+
+J'apprécie personnellement la définition de Platon dans sa vision de l'usage du dialogue, il décrit la dialectique comme reposant sur la confrontation de plusieurs positions de manière à dépasser l'opinion afin que chacun se rapproche un peu de la vérité
+
+
+
+#### Rhétorique
+
+La rhétorique quand à elle est l'art d'impacter les esprits par son discours, son but est l'efficacité, voire la persuasion. Intimement liée à l'éloquence, elle à d'abord été pratiquée à l'oral, mais elle est plus généralement pratiquée en trouvant des mots et arguments mémorisables, ordonnés, et transcris à autrui.
+
+Elle s'est ensuite détachée de la persuasion pour devenir pour plus globalement l'art de bien dire et de l'argumentation, ayant malgré tout pour objectif le vraisemblable plus que la vérité.
+
+
+
+#### Sophistes et Sophismes 
+
+Né en **-490**, Protagoras est un philosophe pré-socratique considéré comme sophiste, qui ont été une opposition forte car vas y ils chassent le clout et la thune, en plus d'utiliser des raisonnements fallacieux.
+
+
+
+#### Socrate
+
+Socrate, né vers **-470** était fils d'une sage-femme, est le créateur de la maïeutique, l'art de faire accoucher les âmes, en questionnant un sujet, il pouvait lui faire prendre conscience d'une connaissance enfouie en lui. Il est également le père d'une méthode de réfutation nommée elenchos, consistant à challenger la thèse de son adversaire en la poussant à l'absurde, dans le but d'y révéler son côté irréel.
+
+marcheur parleur, n'a jamais écrit, ses dires ont été relatés par ses disciples.
+avant étude nature, maintenant humain,
+il a recentrer la pensée sur l'homme, qui doit s'étudier lui même tel un anthropologue
+
+
+"Socrate le premier invita la philosophie à descendre du ciel, l'installa dans les villes, l'introduisit jusque dans les foyers, et lui imposa l'étude de la vie, des moeurs, des choses bonnes et mauvaises" Ciceron
+
+Les sages sont en fait des gens qui pensent l'être, ils s'imaginent des connaissances et ignorent ce qu'ils ne savent point.
+
+(In)Conscience
+
+Bien et mal, sens fort de la justice, à déja défendu des généraux accusés de ne pas avoir récupérer des corps de leurs soldats mort, à cause d'une tempete, et ce seul contre l'opinion publique en faveur de la justice.
+
+Longtemps accusé d'avoir des croyances différantes et déviantes de la religion de l'époque, il finira par accepter son jugement d'impiété et de corruption de la jeunesse plutot que de se battre dans l'injustice, socrate accusé à tord, fesa preuve d'une arrogance qui causera sa perte, il contreplaida à la peine de mort en disant qu'il devrait manger gratuitement jusqu'a la fin de ses jours et cela n'a vraisemblablement pas plu au jury qui 
+
+La légende dit même qu'il aurait pu s'évader mais préfréré accepter l'injustice que de la commetre.
+"La démocratie n'accorde pas assez d'importance au savoir et à ceux qui la détiennent"
+
+https://www.youtube.com/watch?v=yp_UUPR6gfg
+
+
+
+#### Atomisme
+
+A cette période né la pensée d'une unité indivisible, l'atome.
+
+Le philosophe présocratique Leucippe, élève de Zénon d'Élée et influencé par Pythagore, invente vers **-440** la philosophie atomiste, Démocrite puis Épicure et Lavoisier vont par la suite participer à l'évolution ce mouvement dont la réalité ne serait formée que de plein, de vide et de mouvement.
+
+Cette pensée émane à un moment où les mythes, fables et religions sont doucement mises en doute. Plusieurs philosophes dont Socrates, seront jugés pour impiété, cette période marqua donc la naissance d'un courant de pensé qui se lia rapidement avec l'apprentissage de la mort (que l'on retrouve dans le stoïcisme et l'épicurisme) et son rôle dans l'être réel.
+
+Pour Zénon de Kition, qui fonda le stoïcisme en l'an 301, considérai la *mort* comme une indifférence, qui n'est ni un *mal*, ni un *bien*, ces trois choses formant le monde selon lui l'existence du monde réel.
+
+marc aurele 
+
+Philip Kindred Dick : "La réalité, c'est ce qui continue d'exister lorsque l'on cesse d'y croire"
+
+
+
+#### Platon
+
+Né vers -**428**, Platon faisait la distinction entre le monde intelligible et sensible. Il fonda l'Academie, qui forma nombre de philosophes.
+
+Vers l'an -407 il fut introduit à Socrate.
 
 
 
@@ -386,128 +484,31 @@ Ce processus de réécriture syntaxique, trouve ses plus vieilles traces connues
 
 
 
+#### Aristote
+
+Né en **-384**, il étudia 20 ans à l’Académie de Platon, et fondu par la suite le Lycée.
+
+Il était confiant en la sensation, qui permet la perception et la cognition du monde réel, qui ne nécessite pas un scepticisme constant. Pour lui c'est une première ouverture vers le savoir, qui faut mélanger avec le savoir d'autrui, de gens sérieux, expert du domaine, et sans prendre ce qui est dit pour véridique mais pour tester leur capacité a se rapprocher du réel et d'une vérité universelle.
+
+théorie des formes et des idées et archétypes
+
+La science de la biologie serait née d'Aristote et Théophraste, respectivement en charge de documenter la faune et la flore. Aristote à également défendu l'idée d'une terre sphérique, justifiée par la courbure des éclipses de lunes et la force centripète.
+
+Aristote éthique, bien, reves (lucide)
+
+
+
 #### Géométrie Euclidienne
 
 Les mathématiques appliquées, quand à elles, utilisent ces concepts sur des domaines très spécifiques, pour exemple, la géométrie, étymologiquement "science de la mesure du terrain", à été développée dans l’Egypte antique pendant **les trois siècles avant J.-C.** , à partir du besoin de mesurer la superficie d’un champ, aussi appelée arpentage.
 
 
 
-C'est d'ailleurs vers -300 qu'Euclide rédige *Éléments*, un traité de mathématique sur la géométrie et l’arithmétique, qui à façonner ces discipline dans les pays orientaux. Cet ouvrage à été réédité de multiples fois et traduit par de nombreux savants, dont certains cités quelques paragraphes plus loin. On lui doit la méthode de calcul du PGCD qui est nommée algorithme d'Euclide, la division Euclidienne, et bien sur sa géométrie.
+C'est d'ailleurs vers **-300** qu'Euclide rédige *Éléments*, un traité de mathématique sur la géométrie et l’arithmétique, qui à façonner ces discipline dans les pays orientaux. Cet ouvrage à été réédité de multiples fois et traduit par de nombreux savants, dont certains cités quelques paragraphes plus loin. On lui doit la méthode de calcul du PGCD qui est nommée algorithme d'Euclide, la division Euclidienne, et bien sur sa géométrie.
 
 
 
 En définitive, cette discipline que sont les mathématiques est une philosophie en soit, c'est a dire un système d'idées permettant de conceptualiser et visualiser le monde tout en le quantifiant. Même étymologiquement on remarque une proximité entre les deux mots pour le savoir, par le partage de connaissance dont on profite lors d'une leçon d'autrui.
-
-
-
-#### Thalès
-
-Né vers l'an **-620**, Thales fut un philosophe et mathématicien grec si important que tous furent d'accord pour dire qu'un était l'un des plus grands sages de la Grèce antique. Il eu vécu et étudier en Egypte où il détermina la hauteur de pyramides, prédit des éclipses, et théorise les crues du Nil. Il exporta la science de la géométrie en Grèce et on lui doit deux des plus vieux théorèmes géométrique qui portent son nom, encore étudiés aujourd'hui, bien que leurs démonstration n'est été avérée que plus tard.
-
-Il est aussi l'un des fondateurs de astronomie, il travailla sur des éphémérides grâce auxquelles il a conseillé à des marins de se guider à l'aide de la petite ourse.
-
-Par ailleurs, il est le premier à avoir découvert qu'une année, qui à l'époque était pensée comme une révolution du soleil autour la Terre, ne prenait pas 365 jours mais 365 jours et un quart, d'où les années bissextiles. Mais aussi le premier à avoir prix connaissance de électricité grâce à l'ambre qui attire un tissus ou les propriété d'aimantation de l'oxyde de fer, ce qui lui valu d'être également considéré comme le premier physicien.
-
-Enfin, il fonda l'école milésienne qui inspirera les personnalités qui suivent ce récit.
-
-
-
-#### Pythagore
-
-Né vers l'an **-580**, Pythagore, fonda lui aussi un établissement d'enseignement, l'école Pythagoricienne, qui deviendra progressivement une confrérie, à la fois religieuse et scientifique où les femmes et les étrangers était admis, sous réserve de passer de multiples paliers.
-
-On y étudier notament 4 matières, l'arithmétique, la musique, la géométrie, et l'astronomie.
-
-Il aurait été le premier à dire que la Terre était ronde, à découvrir les lois harmoniques en musique, et même la première personnalité connue adepte du végétarisme, qu'il associait à une volonté de ne pas consommer la vie animale, que l'on doit ôter avec abomination, pour "qu'un corps s’engraisse d’un autre corps".
-
-
-
-#### Philosophie antique
-
-La philosophie est réellement née avec Socrates, qui a réellement définit le début d'une période, dont les philosophes antérieurs à lui sont appellés pré-socratiques.
-
-
-
-##### Dialectique
-
-La Dialectique est étymologiquement l'art de parler en conservant et distinguant sa parole de celle de son interlocuteur. Elle repose sur un dialogue ou les deux participants tentent de ce convaincre mutuellement dans le but de se rapprocher de la vérité. La première personne connue à l'avoir mis en évidence est le philosophe présocratique Zénon d'Élée. 
-
-C'est devenue une technique classique de raisonnement au Moyen Âge, qui se structure généralement en une thèse, une antithèse, et une synthèse qui tends généralement vers un compromis ou du moins un dépassement du manichéisme et de ses stéréotypes. C'est une structure philosophique basique, que l'on enseigne encore aujourd'hui.
-
-J'apprécie personnellement la définition de Platon dans sa vision de l'usage du dialogue, il décrit la dialectique comme reposant sur la confrontation de plusieurs positions de manière à dépasser l'opinion afin que chacun se rapproche un peu de la vérité
-
-
-
-##### Académie et Lycée 
-
-Ce sont respectivement les écoles de philosophie de Platon et Aristote
-
-
-
-Platon faisait la distinction entre le monde intelligible et sensible.
-
-Aristote, confiant en la sensation, qui permet la perception et la cognition du monde réel, qui ne nécessite pas un scepticisme constant. pour lui c'est une première ouverture vers le savoir, qui faut mélanger avec le savoir d'autrui, de gens serieux expert du domaine sans prendre ce qui est dit pour véridique mais pour tester leur capacite a se rapprocher du réel et de la vérité commune.
-
-théorie des formes et des idées et archétypes
-
-Vers l'an 407 Platon fut introduit à Socrates.
-
-Socrates, fils d'une sage-femme, est le créateur de la maïeutique, l'art de faire accoucher les âmes, en questionnant un sujet, il pouvait lui faire prendre conscience d'une connaissance enfouie en lui. Il est également le père d'une méthode de réfutation nommée elenchos, consistant à challenger la thèse de son adversaire en la poussant à l'absurde, dans le but d'y révéler son côté irréel.
-
-marcheur parleur, n'a jamais écrit, ses dires ont été relatés par ses disciples.
-avant étude nature, maintenant humain,
-il a recentrer la pensée sur l'homme, qui doit s'étudier lui même tel un anthropologue
-
-
-"Socrate le premier invita la philosophie à descendre du ciel, l'installa dans les villes, l'introduisit jusque dans les foyers, et lui imposa l'étude de la vie, des moeurs, des choses bonnes et mauvaises" Ciceron
-
-Les sages sont en fait des gens qui pensent l'être, ils s'imaginent des connaissances et ignorent ce qu'ils ne savent point.
-
-(In)Conscience
-Bien et mal, sens fort de la justice, à déja défendu des généraux accusés de ne pas avoir récupérer des corps de leurs soldats mort, à cause d'une tempete, et ce seul contre l'opinion publique en faveur de la justice.
-
-Longtemps accusé d'avoir des croyances différantes et déviantes de la religion de l'époque, il finira par accepter son jugement d'impiété et de corruption de la jeunesse plutot que de se battre dans l'injustice, socrate accusé à tord, fesa preuve d'une arrogance qui causera sa perte, il contreplaida à la peine de mort en disant qu'il devrait manger gratuitement jusqu'a la fin de ses jours et cela n'a vraisemblablement pas plu au jury qui 
-
-La légende dit même qu'il aurait pu s'évader mais préfréré accepter l'injustice que de la commetre.
-"La démocratie n'accorde pas assez d'importance au savoir et à ceux qui la détiennent"
-
-https://www.youtube.com/watch?v=yp_UUPR6gfg
-
-
-
-La science de la biologie serait née d'Aristote et Théophraste, respectivement en charge de documenter la faune et la flore. Aristote à également défendu l'idée d'une terre sphérique, justifiée par la courbure des éclipses de lunes et la force centripète.
-
-
-
-Aristote éthique, bien, reves (lucide)
-
-
-
-##### Rhétorique
-
-La rhétorique quand à elle est l'art d'impacter les esprits par son discours, son but est l'efficacité, voire la persuation. Intimement liée à l'éloquence, elle à d'abord été pratiquée à l'oral, mais elle est plus généralement pratiquée en trouvant des mots et arguments mémorisables ordonnés et transcris à autrui.
-
-Elle s'est détâchée de la persuation pour devenir pour plus globalement l'art de bien dire et de l'argumentation.
-
-
-
-#### Atomisme
-
-A cette période né la pensée d'une unité indivisable, l'atome.
-
-Le philosophe présocratique Leucippe, élève de Zénon d'Élée et influencé par Pythagore, invente la philosophie atomiste, Démocrite puis Épicure et Lavoisier vont par la suite participer à l'évolution ce mouvement dont la réalité ne serait formée que de plein, de vide et de mouvement.
-
-Cette pensée émane à un moment où les mythes, fables et religions sont doucement mises en doute. Plusieurs philosophes dont Socrates, seront jugés pour impiété, cette période marqua donc la naissance d'un courant de pensé qui se lia rapidement avec l'apprentissage de la mort (que l'on retrouve dans le stoïcisme et l'épicurisme) et son rôle dans l'être réel.
-
-Pour Zénon de Kition, qui fonda le stoïcisme en l'an 301, considérai la *mort* comme une indifférence, qui n'est ni un *mal*, ni un *bien*, ces trois choses formant le monde selon lui l'existence du monde réel.
-
-marc aurele 
-
-Philip Kindred Dick : "La réalité, c'est ce qui continue d'exister lorsque l'on cesse d'y croire"
-
-
-
-##### Sophistes et Sophismes 
 
 
 
@@ -1154,7 +1155,7 @@ CSS a permi de diversifier l'apparence des sites webs, les frameworks et themes 
 
 ### Popularisation et Mondialisation
 
-
+Jusqu'alors, l'informatique était essentiellement réservé aux domaines privés comme le militaire, le spatial et l'administration des États. A partir des années 70, l'informatique va commencer à arriver dans le quotidien des particulier les plus aisés et finir par être dans une grande majorité des foyers.
 
 #### Atari pong 
 
@@ -1165,6 +1166,12 @@ CSS a permi de diversifier l'apparence des sites webs, les frameworks et themes 
 #### Altair 8800
 
 1975
+
+
+
+#### Homebrew computer club
+
+1976 homebrew exhibits
 
 
 
@@ -1190,13 +1197,13 @@ CSS a permi de diversifier l'apparence des sites webs, les frameworks et themes 
 
 [Retour](#Sommaire)
 
-## Présent
+## Pratiques actuelles
 
-À l’heure où j’écris ça, le monde est plongé dans la mode des Intelligences Artificielles, technologie qui se base sur quelquechose de très général (réseaux de neurones et systèmes pondérés), pour accumuler des informations très spécifiques, afin de pouvoir répondre à des questions les concernants.
+À l’heure où j’écris ça, le monde est plongé dans la mode des Intelligences Artificielles, technologie qui se base sur quelque chose de très général (réseaux de neurones et systèmes pondérés), pour accumuler des informations très spécifiques, afin de pouvoir répondre à des questions les concernant.
 
-L'intelligence est la capacité à proposer une solution à un problème.
+L'intelligence est la capacité d'utiliser ses connaissances et sa compréhension pour proposer une solution à un problème.
 
-ChatGPT n'est pas capable de raisonnement mais il fourni une solution mathématique probabiliste à un énoncé textuel.
+ChatGPT n'est pas capable de raisonnement mais il fourni une solution mathématique probabiliste à un énoncé textuel. Il connais les mots qui le compose, sait qu'il y'a tant de probabilité qu'ils y soient liés et les assemble de manière à proposer une réponse elle même textuelle.
 
 
 
@@ -1217,10 +1224,6 @@ Et un réel décalage entre offre et demande, nous observons des signaux forts c
 
 
 
-Plus un projet a d'intermédiaires, plus il y'a de risques d'erreurs. Babbage l'avait compris et sa machine faisait à la fois le calcul et l'impression car beaucoup d'erreur arrivait lors de l'impression
-
-
-
 De nos jours j'ai souvent entendu parler de philosophie d'entreprise. L'entreprise étant une entité morale, elle se compose d'un groupe de personnes physiques réunies pour accomplir quelque chose en commun. Ce groupe peut aussi réunir des personnes physiques et des personnes morales. Le terme secte est, comme beaucoup de mots, poly-sémantique, il possède plusieurs définitions et connotations, il y'a autant de ressentis différents accordées aux mots que d'expérience vivantes. D'un point de vue étymologique, il provient du latin "secta", signifiant "voie que l'on suit, parti, cause, doctrine". Or quand on travaille en groupe avec d'autres personnes, on suit tous, ensemble, une même voie, pendant une période définie de travail, qu'un salarié vends a son employeur.
 
 En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une même cause, est comme internet, la rue ou tout autre environnement dans lequel nous évoluons, c'est une indifférence, ce n'est ni bien, ni mal, cela dépends de ce que l'on en fait et à qu'elles fins. Nous devons tous un jour faire face au fait que nous sommes influencés et conditionnés par notre environnement et notre histoire, nos habitudes, et les groupes d'humains dans lesquels nous avons évolués. Le réel problèmes sont les dérives, et les heurts qui nous sont propres. Pour le reste, la vie bats son plein et continue de parcourir le temps en faisant ce qu'elle a à faire, vivre.
@@ -1235,9 +1238,9 @@ https://fr.wikipedia.org/wiki/Division_du_travail
 
 
 
-### Rigueur et retravail
+### Anticipation
 
-
+example avec la compiltion rust qui empeche les top 10 des erreurs
 
 
 
@@ -1247,21 +1250,131 @@ Absolue / relatif
 
 
 
+### Pédagogie moderne
+
+Philosophie de l'éducation et axiologie
+
+ReaderRabbit
+
+Pédagogie active
+
+Scratch
+
+FlexboxFroggy
+
+CodingGame
+
+Logo
+
+Montessorri
+
+
+
+### Méthodes d'aide à la structuration d'information 
+
+Le management moderne à eu besoin de pouvoir former et guider efficacement ses employés et pour cela il à fallu 
+
+
+
+#### Décision
+
+Prendre une décision est parfois très compliqué, on n'arrive pas toujours à mesurer les tenants et aboutissants de nos choix, c'est pourquoi il est important de prendre du recul, de poser sur la table les différentes possibilités, et acteurs de la situation afin de mettre le plus de chance de son côté, dans l'objectif d'atteindre le résultat attendu. 
+
+##### Analyse PESTEL
+
+PESTEL est un acronyme pour (Politique, Économique, Socioculturel, Technologique, Écologique, Légal)
+
+##### SWOT
+
+Strenght Weakness Opportunity Threat
+
+##### Matrice multicritère
+
+Avec des amis on l'utilise pour choisir dans quel airbnb on va partir, on y renseigne une note pour le prix, l'emplacement, la qualité du logement, et on obtient un score moyen permettant de déterminer ou on partira en vacances.
+
+##### 5 Why
+
+Permet de retrouver la cause d'un problème
+
+##### La matrice d'Eisenhower
+
+Très proche des matrices de faisabilité et de priorisation, elle permet de déterminer de différencier les tâches importante, urgente, celles qui ne le sont pas, et quoi en faire.
+
+##### Diagramme d'Ishikawa
+
+Il permet de schématiser les différentes causes possible d'un événement ou effet. Inspiré des quatres causes d'Aristote, il est généralement construit en analysant les 5 M : Matière première constituante, Matériel utilisé, Méthode employée, Main-d’œuvre intervenant, et Milieu dans lequel l’événement apparaît.
+
+##### Analyse des parties prenantes
+
+##### Carte heuristique
+
+Née de l'arbre de porphyre, un philosophe néoplatonicien du 3è siècle, et aussi appelée carte mentale ; elle représente visuellement le cheminement de la pensée et l’interconnections des idées afin d'en extraire les toutes les informations importantes.
+
+
+
+
+
+#### Conception
+
+##### Design thinking
+
+##### Lean Startup
+
+MVP, itération, stop de toute la chaine de production si problème pour éviter de contaminer le reste
+
+
+
+#### Gestion de projets 
+
+##### Roadmap
+
+##### Project charter
+
+##### GANTT
+
+##### Business Model
+
+##### Scrum
+
+
+
+#### Développement
+
+##### Extreme programming
+
+##### TDD FDD MDD
+
+##### Code review
+
+##### Technique du canard en plastique
+
+##### 
+
+
+
+### Développement personnel
+
+#### Rigueur et retravail
+
+Démarche itérative avec demande de feed-back à chaque changement, besoin de ne pas renvoyer la balle mais de demander conseil sur le moment si possible pour encore plus d'agilité
+
+#### Amélioration continue
+
+Doute constant et remise en question en sont la clé.
+
+#### Do it now
+
+Dès que l'on constate un problème, reflexe de réaliser la tâche dans la foulée ou de la plannifier pour ne pas que l'information se perde
+
+
+
 ### Metagame
 
 Intelligence économique, politique et théorie des jeux.
 
 
 
-### Documentation
-
-Les API étants une boite noire, il est essentiel de les documenter, pour ce faire, le meilleur outil actuellement est swagger, il permet de regrouper des ressources web (url) dans des groupes et d'indiquer quels sont les paramètres que l'on peut y passer, et la ou les réponse attendue possibles.
-
-
-
-Dans EditIDE, je souhaite qu'il n'y ai pas besoin de renseigner ses informations, que l'on a en théorie déjà lors de la conception et que l'on doit répéter dans swagger, généralement en utilisant un format qui plus est légèrement différant. De plus les documentations étant rarement mises à jours, elles seraient ainsi automatiquement toujours représentatives de la réalité car fortement liées.
-
-Le formulaire de création de fonction et son interface dédiées indiqueront les champs obligatoires ou recommandés non renseignés. Recommandations gérées par ESLint.
+### Prestation vs édition de logiciel
 
 
 
@@ -1313,37 +1426,9 @@ Le free software
 
 
 
-#### Pédagogie moderne
-
-Philosophie de l'éducation et axiologie
-
-ReaderRabbit
-
-Pédagogie active
-
-Scratch
-
-FlexboxFroggy
-
-CodingGame
-
-Logo
-
-Montessorri
 
 
-
-### Prestation vs édition de logiciel
-
-
-
-
-
-## Futur
-
-
-
-#### EditIDE
+## EditIDE
 
 La mode n'est que passagère, il n'y a que les habitudes de vies et s'en tenir à un plan structuré et cohérent qui reste dans l'histoire.
 
@@ -1401,7 +1486,7 @@ Collaboration et travail d'équipe : Dans de nombreux projets, plusieurs dévelo
 
 
 
-##### Philosophie
+#### Philosophie
 
 One thing at a time
 
@@ -1413,7 +1498,41 @@ Accessibility
 
 
 
-1976 homebrew exhibits par homebrew computer club
+##### All in one 
+
+Plus un projet a d'intermédiaires, plus il y'a de risques d'erreurs. Babbage l'avait compris et sa machine faisait à la fois le calcul et l'impression car beaucoup d'erreur arrivait lors de l'impression.
+
+En informatique, beaucoup d'erreurs ont lié par manque d'information ou de clarté, le client exprime parfois mal son besoin, voire à un problème et ne sais pas ce dont il aurait besoin pour y palier. Les équipes faisant l'intermédiaire entre le client et l'équipe de production se retrouvent souvent entre deux eaux et doivent s'adapter et apprendre deux vocabulaires très différents.
+
+Idéalement ce genre de personnes devrait avoir été ou du moins être capable de se mettre à la place des deux partis dont il fait l'intermédiaire afin de mieux les comprendre et pouvoir efficacement communiquer dans le but de trouver la meilleure solution.
+
+Certains problèmes arrivent également lors de l'échange entre l'équipe design et l'équipe technique.
+
+Il arrive que des design soient validés alors qu'ils ne sont tout bonnement pas réalisable en terme de code, généralement due à des limitations CSS, ou des problèmes dues à des cas qui n'ont pas étés pensés, comme le changement de sens de lecture et d'écriture dans certains langages comme l'arabe ou le mandarin.
+
+Tout ses problèmes arrivent car rien n'est centralisé, à une heure ou la collaboration est mise en avant comme jamais. 
+
+Dans EditIDE, tout ce ferait sur le site lui même. Le design et l'intégration ne ferait désormais plus qu'un, les développeurs front ne seraient chargés que de dynamiser les design déjà intégrés avec les appels API du back qui seraient autogénérés.
+
+
+
+##### Documentation
+
+Les API étants une boite noire, il est essentiel de les documenter, pour ce faire, le meilleur outil actuellement est swagger, il permet de regrouper des ressources web (url) dans des groupes et d'indiquer quels sont les paramètres que l'on peut y passer, et la ou les réponse attendue possibles.
+
+
+
+Dans EditIDE, je souhaite qu'il n'y ai pas besoin de renseigner ses informations, que l'on a en théorie déjà lors de la conception et que l'on doit répéter dans swagger, généralement en utilisant un format qui plus est légèrement différant. De plus les documentations étant rarement mises à jours, elles seraient ainsi automatiquement toujours représentatives de la réalité car fortement liées.
+
+Le formulaire de création de fonction et son interface dédiées indiqueront les champs obligatoires ou recommandés non renseignés. Recommandations gérées par ESLint.
+
+
+
+##### Visualisation
+
+Les sucres syntaxiques devrait être des éléments d'interface graphique. Quand j'arrive dans un fichier, je veux savoir directement le nom des variables et fonctions qui le constitue, je me fiche d'avoir le contenu le détail ou d'entre elles, ni même leurs paramètres ou leur type de retour, bien que je doit pouvoir rechercher en fonction de ses derniers.
+
+De la même manière, quand je travaille sur une fonction je ne désire voir que ce qui concerne cette fonction.
 
 
 
@@ -1446,6 +1565,8 @@ http://waterbearlang.com
 https://en.wikipedia.org/wiki/Timeline_of_computing
 
 https://en.wikipedia.org/wiki/History_of_the_graphical_user_interface
+
+https://fr.wikipedia.org/wiki/Histoire_de_la_cryptologie
 
 https://fr.wikipedia.org/wiki/Analogies_et_correspondances
 
