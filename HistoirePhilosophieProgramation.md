@@ -1348,8 +1348,6 @@ MVP, itération, stop de toute la chaine de production si problème pour éviter
 
 ##### Technique du canard en plastique
 
-##### 
-
 
 
 ### Développement personnel
