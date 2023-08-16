@@ -649,6 +649,12 @@ A la fin du 15è siècle, il reprends le concept de nombre d'or dans un livre il
 
 
 
+#### Nicolas Copernic
+
+Aristarque de Samos fut vers -280 le premier à envisager que la Terre tourne autour du soleil mais c'est Copernic qui vers **1513** proposa un modèle héliocentrique, amélioré par la suite par Kepler, et confirmé par Galilée qui réalisa les observations et rédigea les premiers principes mécaniques permettant de justifier ce système.
+
+
+
 #### Giambattista della Porta
 
 Fasciné par l'ésotérisme derrière les miracles et mystères de la nature, il œuvra à les opposer au divinatoire, et à convertir des croyances en savoirs scientifique. Comme beaucoup de philosophes et esprits polymathes, sa pensée est dirigée par les principes préscientifiques de la *théorie des analogies et de la correspondance*. Il eu étudier l'optique et le magnétisme, les lentilles et l'attraction du fer sur un aimant, ainsi que la propriété de nombreux métaux.
@@ -1250,13 +1256,141 @@ Absolue / relatif
 
 
 
+### Montaigne
+
+Né le 28 février **1533**
+
+
+
+### Rabelais
+
+Né le 9 avril 1553
+
+
+
+### Francis Bacon
+
+Né le 22 janvier **1561** 
+
+
+
+### Thomas Hobbes
+
+Né le 5 avril **1588** 
+
+
+
+### John Locke
+
+Né le 29 août **1632**
+
+
+
+### Voltaire
+
+Né le 21 novembre **1694**
+
+
+
+### Jean-Jacques Rousseau
+
+Né en 1712 Rousseau était orphelin et errant, persécuté par l'Église et la république de Genève. Il était également autodidacte, et appris à l'aide de lectures de Descartes, Lockes, Malebranche, Leibniz, et bien d'autres. Sa pensée philosophique repose sur l'idée que l'Homme est naturellement bon et que la société et les règles qui en émanent viennent nous corrompre, renonçant à notre liberté naturelle au profit de la liberté civile. 
+
+Malgré cela il affirme que le peuple est souverain, et qu'il doit converger vers l’intérêt commun, qu'il appella *volonté générale*. Il traitera également des rapports de forces et de la place de l'autorité, déclarant que la "force ne fait pas droit, et qu'on n'est obligés d'obéir qu'aux puissances légitimes".
+
+En effet, depuis la sédentarisation, l'Homme apprends de plus de pairs différents et doit collaborer afin de trouver des solutions communes, généralement en mettant ses sentiments de côté et en trouvant des "jeux" qui conviennent à la majorité.
+
+"le travail ne rend pas l'homme heureux mais fait sa dignité"
+
+En devenant adulte, l'enfant "devient son propre maître", à l'inverse, un individu peut aliéner sa liberté et se rendre esclave d'un tiers, même de nos jours, une personne décidant de se salarié dans un travail dit alimentaire pour survivre se "vends" en échange de sa subsistance. Pour autant, c'est lui qui par son travail, assure les revenus du patron, et indirectement des autres salariés. Cette démarche n'est donc néfaste que si malgré la fin qui justifie les moyens, l'individu ne s'engage à rien envers son supérieur. Un contrat sans échange équivalent entraînant la perte de sens et sa propre nullité par l'injustice.
+
+Rapport étroit Famille et Gouvernement, domination du faible par les plus forts.
+
+Inversion de cette tendance, salut scout le fort protège le faible.
+
+Levi Strauss déclarera qu'il est le fondateur de l'anthropologie, étude de l'être humain et de ses groupes sous tous leurs aspects qu'ils soient physiques ou culturels.
+
+
+
+
+
+### Kant
+
+Né en 1724, il est le fondateur du criticisme et de l'idéalisme transcendantal. Il a été une grande influence pour la philosophie moderne et la pensée critique. Grand adepte de la connaissance pratique et esthétique, il axa sa philosophie sur la capacité à savoir et quoi faire ou espéré en fonction de cette dernière. Il invite donc à être raisonnable, tout en faisant preuve de rigueur et ainsi n'accepter que la connaissance que l'on peut démontrer et résistante à la critique. Il a également affirmer que la connaissance trouve son origine dans le sujet humain et non pas dans l'objet étudié. C'est à dire que la construction de la réalité ne sera jamais pleinement représentative de l'objet étudié, mais un long apprentissage itératif de l'humain afin de s'en rapprocher assez pour le connaître. Il traitera également beaucoup la question du dogme, indiquant que l'athéisme est une croyance au même titre que les autres, et qu'il faut malgré tout savoir limité son savoir pour laisser une place à la croyance, sans laquelle, on ne peut concevoir le monde.
+
+
+
 ### Pédagogie moderne
 
-Philosophie de l'éducation et axiologie
+Né en 1746, Johann Heinrich Pestalozzi, est un pionnier de la pédagogie moderne, pédagogue éducateur et penseur suisse, tout comme Rousseau dont il a été inspiré, il dédia sa vie à l'éducation des enfants pauvres et fonda des orphelinats.
 
-ReaderRabbit
 
-Pédagogie active
+
+Philosophie de l'éducation et axiologie, qu'elle est la valeur de l'éducation et de l'enseignement aujourd'hui ? On sait désormais que l'apprentissage se fait mieux par la récompense que la punition. Il est plus productif d'encourager un bon comportement que de réprimander un mauvais, bien que cela est parfois nécessaire, il faut toujours mieux orienter sa pédagogie de manière positive.
+
+
+
+livre transmission
+
+
+
+### Friedrich Fröbel
+
+Né le 21 avril 1782
+
+
+
+### John Dewey
+
+Né le 20 octobre 1859
+
+
+
+### Maria Montessori
+
+Née le 31 août **1870**
+
+
+
+### Adolphe Ferrière
+
+Né le 30 août **1879**
+
+
+
+### Célestion Freinet
+
+Né le 15 octobre **1896**
+
+
+
+### Pédagogie active
+
+Cette méthode de pédagogie, qui trouve ses fondements dans "l'Émile ou De l'éducation" de Rousseau, est relativement récente, donc fait l’œuvre de nombreuses études.
+
+Elle permet à l'élève d'être acteur de son apprentissage, il choisit ce qu’il désire apprendre, quand, et comment ; bien que cela passe souvent par le jeu dirigé puis libre. La motivation de l'étudiant devient intrinsèque au fur et à mesure qu'on lui donne de la liberté, ce qui favorise l'autonomie, la retenue, la prise de décision, et la gestion des conflits. L'adulte ou le mentor devient médiateur entre l'élève et le savoir, un guide d'apprentissage.
+
+Le jeu développe les compétences sociales et cognitives de l'apprenti, qui n'est plus passif face à un cours qui lui est dispensé par une autorité qui sanctionne et récompense, mais découvre et s'approprie la connaissance par lui même.
+
+Bien que le jeu libre est bien d'avantages, le jeu dirigé permet de structurer l'apprentissage par un mentor favorisant l'acquisition de compétences, que le pédagogue transmet à ses disciples.
+
+Ce cadre réside dans l'analyse des difficultés et problèmes de l'étudiant, par la recherche des notions manquantes pour y palier, et l'élaboration d'un plan classique permettant d'y arriver, composé de cours, d'exercices, et enfin d'un contrôle. 
+
+La pratique à toujours été présente dans nos enseignements, elle est nécessaire à la validation de la théorie, le réel changement réside dans l'apprentissage de cette théorie ainsi que dans la manière d'aborder la pratique et l'évaluation de ses compétences, qui reste encore difficile compte tenu du manque de graduation hiérarchisé par niveaux, de prérequis pour l'admission, ou de programme non reconnu par le système éducatif national.
+
+Cette méthode présentant malgré tout de nombreux avantages, on remarque également qu'elle peut potentiellement accroître les inégalités en termes d'apprentissage, notamment du à la difficulté d'accès à ce genre d'enseignement et aux ressources payantes comme les logiciels éducatifs, ou même de l'idée et la culture qui y est liée, propre aux pays riches bien que marginale en son sein. Et je ne peut que confirmer cela, ayant été le seul de ma classe de petite section à savoir lire et ce grâce au ludiciel "Reader Rabbit, Learn to read with phonics", qui m'a fait sauter deux classes.
+
+
+
+
+
+On retrouve cette notion d'apprentissage actif "Learning by doing" dans les languages de programation comme avec les Rustlings ou Rust by example.
+
+
+
+
+
+On remarque récemment le développement de l'apprentissage et les écoles adoptant la pédagogie Montesorri.
 
 Scratch
 
@@ -1267,6 +1401,12 @@ CodingGame
 Logo
 
 Montessorri
+
+
+
+### Claude Lévi-Strauss
+
+Né en 1908
 
 
 
@@ -1552,6 +1692,8 @@ https://www.amazon.fr/Computer-History-Information-Machine-Technology-ebook/dp/B
 
 https://www.physique.usherbrooke.ca/~afaribau/essai/#:~:text=Les%20tables%20de%20calcul%20furent,aux%20cailloux%20selon%20leur%20position
 
+https://www.enfant-encyclopedie.com/pdf/synthese/apprentissage-par-le-jeu
+
 
 
 https://aosabook.org
@@ -1597,3 +1739,23 @@ https://www.youtube.com/watch?v=eIpoA7Ir9p8
 https://www.youtube.com/watch?v=7XTHdcmjenI
 
 https://www.youtube.com/watch?v=Ag1AKIl_2GM
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.amazon.fr/Building-Blocks-Teaching-Preschoolers-Special/dp/1557669678
