@@ -215,6 +215,8 @@ Tous ces livres ont leurs avantages grâce à une approche différente d'un mêm
 
 Enfin, le sujet central, la programmation, n'est pas forcement liée à l'informatique, c'est l'art de planifier et mettre en œuvre des étapes à suivre pour obtenir un résultat. Elle passe inévitablement par de la gestion de l'information, à l'aide d'écriture, lecture, chiffrement, déchiffrement, émission, et réception.
 
+C'est également pourquoi je m’intéresserai de très près à l'apprentissage, très présent dans les technologies comme l'intelligence artificielle, qui représente l’acquisition et l'assimilation d'une information ou d'un système ; ainsi qu'à la pédagogie, propre à l'humain, animal social émotionnel ; et au rapport maître / élève.
+
 Dans cet ouvrage, je vais revenir à ses racines les plus ancestrales, et au vocabulaire du champ lexical qui y sont liés ou en découle, ainsi que leurs étymologies à travers leur Histoire qui représente toute la première partie de ce livre.
 
 Je dresserai ensuite un bilan de l’état actuel de ce domaine, de son marché, et une étude de sa pratique moderne, et ce afin d'en identifier les problèmes que l'on y rencontre en tant que développeur, ainsi que des solutions possibles.
@@ -1385,6 +1387,8 @@ Cette méthode présentant malgré tout de nombreux avantages, on remarque égal
 
 
 On retrouve cette notion d'apprentissage actif "Learning by doing" dans les languages de programation comme avec les Rustlings ou Rust by example.
+
+Un vrai maître est un éternel étudiant.
 
 
 
