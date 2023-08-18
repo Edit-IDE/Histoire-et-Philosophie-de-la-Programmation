@@ -1,4 +1,4 @@
-# EditIDE - Histoire et philosophie de la programmation
+# EditIDE - Histoire et philosophie de l'information
 
 
 
@@ -64,40 +64,42 @@ Dorian Blanchard
       9. [Atanasoff Berry Computer](#Atanasoff Berry Computer)
       10. [Hewlett Packard](#Hewlett Packard)
    7. [Seconde guerre mondiale](#Seconde guerre mondiale)
-      1. Z2 (1940)
-      2. Z3 (1941)
-      3. Colossus / Harvard Mark 1 Relay Switches (1944)
-      4. Architecture de von Neumann (1945 ENIAC / EDVAC / SSEM / SSEC / Z4)
-   8. Guerre froide et course à l'espace
-      1. IBM 602 / 603 (1946)
-      2. Naissance de la Eckert-Mauchly Computer Corporation (1946)
-      3. Transistor (1947)
-      4. Théorie de l'information (1948 Claude Shannon)
-      5. Manchester Baby (William Tube RAM 1948)
-      6. EDSAC / BINAC VS IBM CPC / 604 (Wilkes - Binaire - premier OS - Leo I : 1949)
-      7. Rachat de Eckert and Mauchly Computer Corporation par Remington Rand (1950)
-      8. Remington Rand UNIVAC I (1951 )
-      9. Premier compilateur (A-0 System Grace Hopper 1951)
-      10. IBM 701 (1952)
-      11. Z5 (1953)
-      12. IBM 650 (1954)
-      13. Remington Racheté par Sperry Corporation qui deviendra Unisys après fusion avec Burroughs
-      14. Flow - Matic (1955 par grace hopper)
-      15. TRADIC premier ordinateur a transistors (1955)
-      16. Premiers languages haux niveau - Structures de contrôle et de donnes
+      1. [Z2](#Z2)
+      2. [Z2](#Z3)
+      3. [Colossus / Harvard Mark 1](#Colossus / Harvard Mark 1)
+      4. [Architecture de von Neumann](#Architecture de von Neumann)
+   8. [Guerre froide et course à l'espace](#Guerre froide et course a l'espace)
+      1. [As we may think](#As we may think)
+      2. [IBM 602 & 603](#IBM 602 & 603)
+      3. [Naissance de la Eckert-Mauchly Computer Corporation](#Naissance de la Eckert-Mauchly Computer Corporation)
+      4. [Trackball](#Trackball)
+      5. [Transistor](#Transistor) (1947)
+      6. [Théorie de l'information](#Théorie de l'information)
+      7. Manchester Baby (William Tube RAM 1948)
+      8. EDSAC / BINAC VS IBM CPC / 604 (Wilkes - Binaire - premier OS - Leo I : 1949)
+      9. Rachat de Eckert and Mauchly Computer Corporation par Remington Rand (1950)
+      10. Remington Rand UNIVAC I (1951 )
+      11. Premier compilateur (A-0 System Grace Hopper 1951)
+      12. [IBM 701](#IBM 701)
+      13. Z5 (1953)
+      14. IBM 650 (1954)
+      15. Remington Racheté par Sperry Corporation qui deviendra Unisys après fusion avec Burroughs
+      16. Flow - Matic (1955 par grace hopper)
+      17. TRADIC premier ordinateur a transistors (1955)
+      18. Premiers languages haux niveau - Structures de contrôle et de donnes
           1. plankalkul eniac ssem speedcoding Flow-Matic
           2. fortran 1957 John Backus
           3. lisp 1958 John Mc Carthy
           4. cobol 1959
-   
-      17. Circuit integré (1958)
-      18. Théorie algorithmique de linformation (1960)
-      19. Spacewar! (1962)
-      20. Programma 101 (1965)
-      21. [Dendral](#Dendral)
-      22. Eliza (1966)
-      23. Intel et Moore (1968)
-      24. Arpanet (1969)
+
+      19. Circuit integré (1958)
+      20. Théorie algorithmique de linformation (1960)
+      21. Spacewar! (1962)
+      22. Programma 101 (1965)
+      23. [Dendral](#Dendral)
+      24. Eliza (1966)
+      25. Intel et Moore (1968)
+      26. Arpanet (1969)
    9. [Popularisation et Mondialisation](#Popularisation et Mondialisation)
       1. Atari Pong (1972)
       2. [Altair 8800](#Altair 8800)
@@ -205,21 +207,23 @@ Dorian Blanchard
 
 ## Introduction
 
-La transmission d'information s'est fiabilisée au fil des époques, avec l'usage d'outils physique ; notamment des tablettes, plaques permettant de dessiner, d'écrire, lire, compter. Jusqu'à pouvoir automatiser son traitement et son stockage, à l'aide de l'informatique, dont l'histoire ne commence qu'au début du 16e siècle.
+La transmission d'information s'est fiabilisée au fil des époques, avec l'usage d'outils physique ; notamment des tablettes, plaques permettant de dessiner, d'écrire, lire, compter. Et ce jusqu'à pouvoir automatiser son traitement et son stockage, à l'aide de l'informatique, dont l'histoire ne commence qu'à la fin du 19e siècle.
 
-De nos jours, nous interagissons quotidiennement avec des ordinateurs, que ce soit à l'aide de la programmation, ou des interfaces qui en sont issues. Pourtant, la grande majorité des utilisateurs, et j'oserai même dire des codeurs, ne connaît pas le tiers des événements majeurs de son histoire. J'ai donc décider de me documenter et de rédiger un format accessible avec ce qui m'a semblé être nécessaire pour comprendre le sujet.
+De nos jours, nous interagissons quotidiennement avec des ordinateurs, que ce soit à l'aide de la programmation, ou des interfaces qui en sont issues. Pourtant, la grande majorité des utilisateurs, et j'oserai même dire des personnes travaillant dans le domaine des Technologies de l'Information et de la Communication (TIC), ne connaissent pas le tiers des événements majeurs de son histoire. J'ai donc décider de me documenter et de rédiger un format accessible avec ce qui m'a semblé être nécessaire pour comprendre le sujet, et ainsi vous le partager à vous, lecteurs de cet ouvrage.
 
-Pour la rédaction de cet ouvrage, j'ai acquis 3 livres : la 4e édition de "Computer, A History of the Information Machine" de Martin Campbell-Kelly, "The history of the computer : people, inventions, and technology that changed our world" de Rachel Ignotofsky et "Histoire illustrée de l'informatique" d'Emmanuel Lazard et Pierre Mounier-Kuhn.
+Pour la rédaction de ce dernier, j'ai acquis 3 livres : la 4e édition de "Computer, A History of the Information Machine" de Martin Campbell-Kelly ; "The history of the computer : people, inventions, and technology that changed our world" de Rachel Ignotofsky, et "Histoire illustrée de l'informatique" d'Emmanuel Lazard et Pierre Mounier-Kuhn.
 
-Tous ces livres ont leurs avantages grâce à une approche différente d'un même sujet, sur lequel je m'attendais à trouver plus d'ouvrages. J'ai essayé d'avoir une approche plus globale que l'informatique et l'ordinateur, qui est sont des concepts très récent. Et ce en y ajoutant de la philosophie, ainsi que mon humble analyse subjective, parce que l'apprentissage des mathématiques et de l'informatique ont changé ma manière de concevoir le monde dans lequel nous vivons.
+Tous ces livres ont leurs avantages grâce à une approche différente d'un même sujet, sur lequel je m'attendais à trouver plus de bibliographie. J'ai essayé d'avoir une démarche plus globale que l'informatique et l'ordinateur, qui est sont des concepts très récent. Et ce en abordant le thème global qu'est l'information et en y ajoutant de la philosophie, ainsi que mon humble analyse subjective, parce que l'apprentissage des mathématiques et de l'informatique ont changé ma manière de concevoir le monde dans lequel nous vivons.
 
-Enfin, le sujet central, la programmation, n'est pas forcement liée à l'informatique, c'est l'art de planifier et mettre en œuvre des étapes à suivre pour obtenir un résultat. Elle passe inévitablement par de la gestion de l'information, à l'aide d'écriture, lecture, chiffrement, déchiffrement, émission, et réception.
+
+
+Dans ce mémoire, je vais revenir aux racines les plus ancestrales de la gestion de l'information, au vocabulaire du champ lexical qui y sont liés ou en découle, ainsi que leurs étymologies à travers leur Histoire qui représente toute la première partie de ce livre.
+
+J'aborderai aussi un sujet qui m'est cher, la programmation. Elle n'est pas forcement liée à l'informatique, c'est l'art de planifier et mettre en œuvre des étapes à suivre pour obtenir un résultat. Cela dit elle passe inévitablement par de la gestion de l'information, à l'aide d'écriture, lecture, chiffrement, déchiffrement, émission, et réception.
 
 C'est également pourquoi je m’intéresserai de très près à l'apprentissage, très présent dans les technologies comme l'intelligence artificielle, qui représente l’acquisition et l'assimilation d'une information ou d'un système ; ainsi qu'à la pédagogie, propre à l'humain, animal social émotionnel ; et au rapport maître / élève.
 
-Dans cet ouvrage, je vais revenir à ses racines les plus ancestrales, et au vocabulaire du champ lexical qui y sont liés ou en découle, ainsi que leurs étymologies à travers leur Histoire qui représente toute la première partie de ce livre.
-
-Je dresserai ensuite un bilan de l’état actuel de ce domaine, de son marché, et une étude de sa pratique moderne, et ce afin d'en identifier les problèmes que l'on y rencontre en tant que développeur, ainsi que des solutions possibles.
+Je dresserai ensuite un bilan de l’état actuel de l'informatique, de son marché, et une étude de sa pratique moderne, et ce afin d'en identifier les problèmes que l'on y rencontre en tant que développeur, ainsi que des solutions possibles.
 
 Enfin, à l’aide de l’étude précédente, je dresserai ma projection subjective en tant qu'acteur et éditeur de logiciels, pour le futur de cette discipline, plus notamment la pratique que je souhaite en avoir en tant que créateur de services et contenu web.
 
@@ -977,7 +981,7 @@ Alan turing decoda avec la Turingery
 
 #### Mémoire tambour
 
-En **1932**, l'ingénieur Gustav Tauschek, invente une nouvelle méthode de mémoire vive magnétique, le concept sera réutilisé dans le Manchester Mark I, l'ENIAC, l'IBM 650 et 701, l'UNIVAC 1103
+En **1932**, l'ingénieur Gustav Tauschek, invente une nouvelle méthode de mémoire vive magnétique, le concept sera réutilisé dans le Manchester Mark I, l'ENIAC, l'IBM 650 et 701, l'UNIVAC 1103 (version scientifique)
 
 
 
@@ -1047,6 +1051,8 @@ Elisabeth Findler Jake, nom de domaines, whois nom de domaine (page jaunes) Alor
 
 
 
+[Retour](#Sommaire)
+
 ### Guerre froide et course a l'espace
 
 #### As we may think
@@ -1057,11 +1063,15 @@ memex, www, hypertexte
 
 
 
+#### IBM 602 & 603
+
+IBM 602 & 603 **1946**
+
+
+
 #### Naissance de la Eckert-Mauchly Computer Corporation
 
 1946
-
-
 
 La mort de leur investisseur principal lors d'un trajet en avion les poussera à revendre leur entreprise à Remington par la suite.
 
@@ -1073,11 +1083,71 @@ La mort de leur investisseur principal lors d'un trajet en avion les poussera à
 
 
 
+#### Transistor
+
+1947
+
+
+
+#### SSEM
+
+Le tube de Williams-Kilburn, développé en 1946 ou 1947 par Frederic Calland Williams et Tom Kilburn, utilise les tubes cathodiques de Boris Rosing pour enregistrer des données binaires. La Small-Scale Experimental Machine, premier ordinateur à architecture de von Neumann les utilisait pour sa mémoire vive. Le test de cette nouvelle technologie de étant concluant, la production d'un autre ordinateur à été lancé.
+
+
+
+#### Manchester Mark I
+
+En 1948 les travaux commence pour voir le jour en 1949, décrit comme un cerveau électronique par la presse, des neuroscientifiques s'y intéréssent rapidement, à une période ou naît la cybernétique.
+
+
+
+#### Théorie de l'information
+
+1948 Claude Shannon
+
+**Warren Weaver**, né le 17 juillet 1894 est principalement connu comme un des pionniers de la traduction automatique, il a également assister Shannon dans le développement de la théorie de l'information
+
+
+
+#### Ferranti Mark I
+
+Le Ferranti Mark 1, aussi connu comme le Manchester Electronic Computer, est le premier ordinateur électronique généraliste commercialisé du monde et le second au monde après l’ordinateur électromécanique Z4. Il a été créé en **1951**.
+
+
+
 #### UNIVAC 1
 
-MAGNETIC TAPE STORAGE start and stop tape rapidement avec des servomoteurs, plastic -> déforme -----> metal résistant, travail pour écrire et lire dessus
+Sorti en **1951** MAGNETIC TAPE STORAGE start and stop tape rapidement avec des servomoteurs, plastic -> déforme -----> métal résistant, travail pour écrire et lire dessus
 
-1951
+
+
+#### IBM 701
+
+Aussi connu sous le nom de Defense Calculator l'IBM 701 est sorti en **1952**, rival du UNIVAC qui a fait grandement peur à IBM qui craignait de perdre une bonne partie du marché civil, bien que cela ne fut pas le cas comme décrit précédement. Il possédait une mémoire tambour.
+
+
+
+#### IBM 702
+
+Construit en réponse à l'UNIVAC 1, c'est le premier ordinateur muni de dérouleur de bandes magnétiques, il était moins puissant que le 701 ou le ERA 1103 mais avait contrairement à eux, les civils pour cible commerciale. Contrairement à l'UNIVAC, sa mémoire n'était pas constituée de ligne à retard analogiques, mais elle était électrostatique en utilisant des tubes de William, deux fois plus rapide et plus fiable. De plus, contrairement au monolithe qu'était l'UNIVAC, son design étant modulaire et composé de boites reliées entre elles, l'ordinateur pouvait être transporté dans la majorité des ascenseurs.
+
+Après son annonce en septembre **1953**, IBM arrive à réaliser 50 commandes en 10 mois.
+
+
+
+#### Mémoire à tores magnétiques
+
+La même année, en **1953**, est développer la mémoire à tores magnétique qui a révolutionné pendant une vingtaine d'année la mémoire vive. Constitué d'anneaux de ferrite polarisés, correspondant à un bit de 0 ou 1 en fonction du sens du champ magnétique, tous traversés par des fils conducteurs.
+
+Se basant sur l'hystérésis, faire passer un courant dans un fil permettait de lire, ou d'écrire si le courant est assez élevé, la valeur des tores.
+
+Cette technologie à poussé IBM a rééditer ses modèles 701 et 702 avec ce type de mémoire, en plus de la création de nouveau modèles l'utilisant comme le 650, 704 et 705 EDPM.
+
+
+
+#### IBM 650
+
+Créé en **1954** c'est le modèle le plus populaire des années 50, et pour cause, il coûtait seulement un quart du prix d'un 701, et a été vendu à de nombreuses universités, créant toute une génération de programmeur. Faisant de lui le premier ordinateur produit en masse dans le monde et la première machine d'IBM à réaliser un profit significatif.
 
 
 
@@ -1161,9 +1231,15 @@ CSS a permi de diversifier l'apparence des sites webs, les frameworks et themes 
 
 
 
+
+
+
+
 ### Popularisation et Mondialisation
 
 Jusqu'alors, l'informatique était essentiellement réservé aux domaines privés comme le militaire, le spatial et l'administration des États. A partir des années 70, l'informatique va commencer à arriver dans le quotidien des particulier les plus aisés et finir par être dans une grande majorité des foyers.
+
+
 
 #### Atari pong 
 
@@ -1318,7 +1394,11 @@ Levi Strauss déclarera qu'il est le fondateur de l'anthropologie, étude de l'�
 
 ### Kant
 
-Né en 1724, il est le fondateur du criticisme et de l'idéalisme transcendantal. Il a été une grande influence pour la philosophie moderne et la pensée critique. Grand adepte de la connaissance pratique et esthétique, il axa sa philosophie sur la capacité à savoir et quoi faire ou espéré en fonction de cette dernière. Il invite donc à être raisonnable, tout en faisant preuve de rigueur et ainsi n'accepter que la connaissance que l'on peut démontrer et résistante à la critique. Il a également affirmer que la connaissance trouve son origine dans le sujet humain et non pas dans l'objet étudié. C'est à dire que la construction de la réalité ne sera jamais pleinement représentative de l'objet étudié, mais un long apprentissage itératif de l'humain afin de s'en rapprocher assez pour le connaître. Il traitera également beaucoup la question du dogme, indiquant que l'athéisme est une croyance au même titre que les autres, et qu'il faut malgré tout savoir limité son savoir pour laisser une place à la croyance, sans laquelle, on ne peut concevoir le monde.
+Né en 1724, il est le fondateur du criticisme et de l'idéalisme transcendantal. Il a été une grande influence pour la philosophie moderne et la pensée critique. Grand adepte de la connaissance pratique et esthétique, il axa sa philosophie sur la capacité à savoir et quoi faire ou espéré en fonction de cette dernière. Il invite donc à être raisonnable, tout en faisant preuve de rigueur et ainsi n'accepter que la connaissance que l'on peut démontrer et résistante à la critique.
+
+Il a également affirmer que la connaissance trouve son origine dans le sujet humain et non pas dans l'objet étudié. C'est à dire que la construction de la réalité ne sera jamais pleinement représentative de l'objet étudié, mais un long apprentissage itératif de l'humain afin de s'en rapprocher assez pour le connaître.
+
+Il traitera également beaucoup la question du dogme, indiquant que l'athéisme est une croyance au même titre que les autres, et qu'il faut malgré tout savoir limité son savoir pour laisser une place à la croyance, sans laquelle, on ne peut concevoir le monde.
 
 
 
@@ -1333,6 +1413,12 @@ Philosophie de l'éducation et axiologie, qu'elle est la valeur de l'éducation 
 
 
 livre transmission
+
+
+
+### Georg Wilhelm Friedrich Hegel
+
+Né en 1770 dialectique du maître et de l'esclave. Travailler pour un maître fait acquérir de plus  en plus de compétences à l’esclave, et le maître à force de se faire servir perd de ses compétence, l’esclave à alors l'opportunité de devenir maître à son tour voire effectuer une inversion de contrôle. Le travail serait donc un facteur d'émancipation et de libération, et un vrai maître doit continuer d'apprendre et ne pas se reposer sur ses sous-fifres, en plus de faire preuve d'une reconnaissance sincère nécessaire à la sanité de leur relation. 
 
 
 
@@ -1363,6 +1449,14 @@ Né le 30 août **1879**
 ### Célestion Freinet
 
 Né le 15 octobre **1896**
+
+
+
+### Théorie générale des systèmes
+
+Aussi appellée Systémique
+
+https://fr.wikipedia.org/wiki/Th%C3%A9orie_g%C3%A9n%C3%A9rale_des_syst%C3%A8mes
 
 
 
@@ -1411,6 +1505,24 @@ Montessorri
 ### Claude Lévi-Strauss
 
 Né en 1908
+
+
+
+### Norbert Wiener
+
+En **1947** par le mathématicien Norbert Wiener décrit la **cybernétique**, l'étude des mécanismes d'information des systèmes complexes et leur analogies entre les organismes vivants et les machines. Ils mettent en avant la rétroaction, et la téléologie très présente dans ce domaine. La cybernétique trouve son origine étymologique du grec kubernêtikê qui signifir gouverner dans le sens de diriger un navire. 
+
+L'une des premières machines pourvues de rétroaction est le régulateur à boules de James Watt en 1788 qui permettait de réguler la vitesse de rotation d'une vachine à vapeur.
+
+https://fr.wikipedia.org/wiki/Auto-organisation
+
+Le mouvement cybernétique ralliera de nombreux mathématicien dont John Von Neumann.
+
+
+
+### Luciano Floridi
+
+Né à Rome le 16 novembre **1964**, ce philosophe est l'un des plus important théoriciens de la Philosophie de l'information et de l'éthique de l'informatique. Il a fonder et dirige plusieurs groupes de recherche dans ces domaines.
 
 
 
@@ -1630,6 +1742,8 @@ Collaboration et travail d'équipe : Dans de nombreux projets, plusieurs dévelo
 
 #### Philosophie
 
+https://fr.wikipedia.org/wiki/Philosophie_de_l%27information
+
 One thing at a time
 
 Where AM I ?
@@ -1664,7 +1778,7 @@ Les API étants une boite noire, il est essentiel de les documenter, pour ce fai
 
 
 
-Dans EditIDE, je souhaite qu'il n'y ai pas besoin de renseigner ses informations, que l'on a en théorie déjà lors de la conception et que l'on doit répéter dans swagger, généralement en utilisant un format qui plus est légèrement différant. De plus les documentations étant rarement mises à jours, elles seraient ainsi automatiquement toujours représentatives de la réalité car fortement liées.
+Dans EditIDE, je souhaite qu'il n'y ai pas besoin de renseigner ces informations, que l'on a en théorie déjà lors de la conception et que l'on doit répéter dans swagger, généralement en utilisant un format qui plus est légèrement différant. De plus les documentations étant rarement mises à jours, elles seraient ainsi automatiquement toujours représentatives de la réalité car fortement liées.
 
 Le formulaire de création de fonction et son interface dédiées indiqueront les champs obligatoires ou recommandés non renseignés. Recommandations gérées par ESLint.
 
@@ -1692,6 +1806,10 @@ https://theses.hal.science/tel-00125472/document
 
 
 
+https://monoskop.org/images/b/b0/Floridi_Luciano_Philosophy_and_Computing_An_Introduction_1999.pdf
+
+
+
 https://www.amazon.fr/Computer-History-Information-Machine-Technology-ebook/dp/B07CNDC344/ref=sr_1_1?__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2MCJSC0Q0UNWO&keywords=Computer%3A+A+History+of+the+Information+Machine&qid=1683623797&sprefix=computer+a+history+of+the+information+machine%2Caps%2C74&sr=8-1&asin=0813345901&revisionId=&format=4&depth=2
 
 https://www.physique.usherbrooke.ca/~afaribau/essai/#:~:text=Les%20tables%20de%20calcul%20furent,aux%20cailloux%20selon%20leur%20position
@@ -1713,6 +1831,12 @@ https://en.wikipedia.org/wiki/History_of_the_graphical_user_interface
 https://fr.wikipedia.org/wiki/Histoire_de_la_cryptologie
 
 https://fr.wikipedia.org/wiki/Analogies_et_correspondances
+
+https://fr.wikipedia.org/wiki/Philosophie_de_l%27information
+
+https://fr.wikipedia.org/wiki/%C3%89pist%C3%A9mologie
+
+https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_la_connaissance
 
 
 
