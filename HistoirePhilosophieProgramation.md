@@ -1089,6 +1089,12 @@ La mort de leur investisseur principal lors d'un trajet en avion les poussera à
 
 
 
+#### IBM 407
+
+1949 imrpimante 150 lignes par minutes
+
+
+
 #### SSEM
 
 Le tube de Williams-Kilburn, développé en 1946 ou 1947 par Frederic Calland Williams et Tom Kilburn, utilise les tubes cathodiques de Boris Rosing pour enregistrer des données binaires. La Small-Scale Experimental Machine, premier ordinateur à architecture de von Neumann les utilisait pour sa mémoire vive. Le test de cette nouvelle technologie de étant concluant, la production d'un autre ordinateur à été lancé.
@@ -1147,13 +1153,21 @@ Cette technologie à poussé IBM a rééditer ses modèles 701 et 702 avec ce ty
 
 #### IBM 650
 
-Créé en **1954** c'est le modèle le plus populaire des années 50, et pour cause, il coûtait seulement un quart du prix d'un 701, et a été vendu à de nombreuses universités, créant toute une génération de programmeur. Faisant de lui le premier ordinateur produit en masse dans le monde et la première machine d'IBM à réaliser un profit significatif.
+Créé en **1954** c'est le modèle le plus populaire des années 50, et pour cause, il coûtait seulement un quart du prix d'un 701, et a été vendu à de nombreuses universités, créant toute une génération de programmeur. Faisant de lui le premier ordinateur produit en masse dans le monde et la première machine d'IBM à réaliser un profit significatif. Cependant, le modèle 650 n'était guère plus qu'une machine à carte perforée glorifiée, moins fiable qu'une machine électromécanique à cause des tubes à vides, et dont la programmation nécessitait des experts, qu'IBM ne fournissait pas encore à l'époque. Cela restait donc, comme beaucoup d'ordinateurs de l'époque, un luxe que seuls des personnes ou organisations aisées pouvait s'offrir. Le modèle électromécanique IBM 407 restant encore la machine de comptabilité la plus produite jusqu’à la fin des années 50.
 
 
 
 #### Spoutnik 1
 
 1957
+
+
+
+#### IBM 1401
+
+Fabriqué entre 1959 et 1965, il a été l'ordinateur à transistor le plus vendu, notamment grâce à la politique marketing d'IBM qui a adopter une vision globale, dans l'objectif de prendre en compte le maximum d'utilisateurs et donc clients potentiels, politique qui avait déjà fait ses preuves avec le modèle 650. IBM à ainsi créer plus qu'un ordinateur, un système complet, avec une imprimante pouvant imprimer 600 lignes par minutes, principale raison d'achat ayant fait son succès. 
+
+Par la même occasion, IBM invente le Report Program Generator (RPG), un langage de programmation haut niveau facile à comprendre, permettant aux comptables et techniciens de tabulatrices de se "reconvertir", en utilisant des concepts qu'ils connaissent et utilisaient déjà sur les panneaux de contrôles, où ils branchaient des câbles pour implémenter les entrées, calculs, et sorties. Ils pouvaient ainsi programmer sans apprendre toutes les arcanes de l'assembleur, du COBOL, ou encore du FORTRAN. Malgré cela, beaucoup de client préféraient demander les logiciels directement à IBM, qui avait un monopole si important qu'ils pouvaient se permettre de les livrer "gratuitement" avec les machines qu'ils louaient.
 
 
 
@@ -1165,7 +1179,7 @@ Créé en **1954** c'est le modèle le plus populaire des années 50, et pour ca
 
 #### Apollo 1 
 
-1967 al lune parait de nouveau innaccessible aux américains, sous Kennedy.
+En 1967 la lune parait de nouveau inaccessible aux américains, sous Kennedy.
 
 
 
