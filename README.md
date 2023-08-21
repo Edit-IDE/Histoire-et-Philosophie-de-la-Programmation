@@ -1,4 +1,4 @@
-# Histoire et Philosophie de la Programmation
+# Histoire et Philosophie de l'information
 
 Mémoire de fin d’année de 2e année de Mastère d’architecture des systèmes d’information à l’Ecole Hexagone.
 
