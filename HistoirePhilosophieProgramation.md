@@ -249,6 +249,8 @@ Merci à toutes les personnes et enseignants qui lors de ma longue scolarité m'
 
 Merci aux logiciels libres, à l'open source, à Wikipédia et à tout leurs contributeurs.
 
+Merci aux établissements aux entreprises dans lesquels j'ai travaillé et évoluer grâce a des processes amélioration continue.
+
 Merci à toutes et tous, car nos métiers et inventions ne sont que rarement le fruit d'un génie isolé, mais bien d'une collaboration et de l'amélioration d'idées antérieures.
 
 Enfin, merci à toute personne qui lit actuellement ce texte.
@@ -627,7 +629,9 @@ Il est également réputé pour sa fameuse suite, bien que connue des Indiens de
 
 
 
+Le mot *typographie* se compose de « type » qui signifie « empreinte », et de « graphie » qui signifie « écriture ».
 
+La typographie est à l’origine l’art d’assembler des caractères mobiles afin de créer des mots et des phrases et de les imprimer]. Cette technique a été mise au point vers 1440 par Gutenberg, qui n’a pas inventé l’imprimerie à caractères mobiles mais un ensemble de techniques conjointes : les caractères mobiles en plomb et leur principe de fabrication, la presse typographique (inconnue des Orientaux), et l’encre grasse nécessaire à cet usage.
 
 #### Leon Battista Alberti
 
@@ -1324,7 +1328,7 @@ Et un réel décalage entre offre et demande, nous observons des signaux forts c
 
 De nos jours j'ai souvent entendu parler de philosophie d'entreprise. L'entreprise étant une entité morale, elle se compose d'un groupe de personnes physiques réunies pour accomplir quelque chose en commun. Ce groupe peut aussi réunir des personnes physiques et des personnes morales. Le terme secte est, comme beaucoup de mots, poly-sémantique, il possède plusieurs définitions et connotations, il y'a autant de ressentis différents accordées aux mots que d'expérience vivantes. D'un point de vue étymologique, il provient du latin "secta", signifiant "voie que l'on suit, parti, cause, doctrine". Or quand on travaille en groupe avec d'autres personnes, on suit tous, ensemble, une même voie, pendant une période définie de travail, qu'un salarié vends a son employeur.
 
-En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une même cause, est comme internet, la rue ou tout autre environnement dans lequel nous évoluons, c'est une indifférence, ce n'est ni bien, ni mal, cela dépends de ce que l'on en fait et à qu'elles fins. Nous devons tous un jour faire face au fait que nous sommes influencés et conditionnés par notre environnement et notre histoire, nos habitudes, et les groupes d'humains dans lesquels nous avons évolués. Le réel problèmes sont les dérives, et les heurts qui nous sont propres. Pour le reste, la vie bats son plein et continue de parcourir le temps en faisant ce qu'elle a à faire, vivre.
+En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une même cause, est comme internet, la rue ou tout autre environnement dans lequel nous évoluons, c'est une indifférence, ce n'est ni bien, ni mal, cela ne dépends de ce que l'on en fait et à qu'elles fins. Nous devons tous un jour faire face au fait que nous sommes influencés et conditionnés par notre environnement et notre histoire, nos habitudes, et les groupes d'humains dans lesquels nous avons évolués. Le réel problèmes sont les dérives, et les heurts qui nous sont propres. Pour le reste, la vie bats son plein et continue de parcourir le temps en faisant ce qu'elle a à faire, vivre.
 
 
 
@@ -1542,7 +1546,7 @@ Né à Rome le 16 novembre **1964**, ce philosophe est l'un des plus important t
 
 ### Méthodes d'aide à la structuration d'information 
 
-Le management moderne à eu besoin de pouvoir former et guider efficacement ses employés et pour cela il à fallu 
+Le management moderne à eu besoin de pouvoir former et guider efficacement ses employés et pour cela il à fallu trouver des outils et moyens mnemotechniques pour facilement analyser les 
 
 
 
@@ -1618,6 +1622,8 @@ MVP, itération, stop de toute la chaine de production si problème pour éviter
 
 ##### Technique du canard en plastique
 
+Lorsque l'on travaille seul, on a parfois la tête dans le guidon,  
+
 
 
 ### Développement personnel
@@ -1632,7 +1638,19 @@ Doute constant et remise en question en sont la clé.
 
 #### Do it now
 
-Dès que l'on constate un problème, reflexe de réaliser la tâche dans la foulée ou de la plannifier pour ne pas que l'information se perde
+Dès que l'on constate un problème, reflexe de réaliser la tâche dans la foulée ou de la planifier pour ne pas que l'information se perde
+
+
+
+#### Justification
+
+Lorsque je commet une erreur, j'en assume la responsabilité, mais je me justifie souvent. Cela permet d'identifier les causes du problème. Dans le livre Lean Startup il est mentionné une phrase qui m'a marquée. L'idée est que lorsqu'une erreur survient, il est de notre responsabilité d'avoir rendue la faute si facile à commettre. Autrement dit, lorsqu'une personne faillit à sa tâche, il ne faut pas se remettre en question sa responsabilité ou sa compétence, mais se demander pourquoi l'environnement n'a pas permit la réussite de l'action et rendu la situation d'échec si probable qu'elle c'est produite.
+
+
+
+#### Critique
+
+Selon loi la ceitique consteuctive st positive pour le maitre et l'apprenant des lors quelle s'effectue avec une communication positive tout en analysant les defauts et planifiant un programme pour les corriger. 
 
 
 
@@ -1642,13 +1660,17 @@ Intelligence économique, politique et théorie des jeux.
 
 
 
+Choix et Theorie des jeux
+
+
+
 ### Prestation vs édition de logiciel
 
 
 
 ### Cadriciel et Open Source
 
-Symfony ne permet pas d'overide l'attribut "name" d'un champ de formulaire, le retrait de requêtes expires ne marche pas... L'instalation d'un de leurs plugin React m'a récement causer default. J'ai eu, par la force des choses, à contacter la personne chargée de la documentation de Symphony. Un certaun [Ryan](https://github.com/weaverryan), qui est "Symfony docs lead, writer at SymfonyCasts", ce fût une expérience riche ou j'ai découvert un environnement qui m'est familier, bien que je n'ai pas souvent réaliser de l'open source avant. Une pipeline qui sors des erreurs à des lignes qui n'existent pas sur ma version, et qui malgré ça permet d'assurer la qualité de la documentation rédigée en RST ou DOCtor-RST, à l'aide de tests de compilation.
+Symfony ne permet pas de surcharger l'attribut "name" d'un champ de formulaire, le retrait de requêtes expires ne marche pas... L'installation d'un de leurs plugin React m'a récemment causer default. J'ai eu, par la force des choses, à contacter la personne chargée de la documentation de Symphony. Un certain [Ryan](https://github.com/weaverryan), qui est "Symfony docs lead, writer at SymfonyCasts", ce fût une expérience riche ou j'ai découvert un environnement qui m'est familier, bien que je n'ai pas souvent réaliser de l'open source avant. Une pipeline qui sors des erreurs à des lignes qui n'existent pas sur ma version, et qui malgré ça permet d'assurer la qualité de la documentation rédigée en RST ou DOCtor-RST, à l'aide de tests de compilation.
 
 
 
@@ -1690,6 +1712,8 @@ Le free software
 
 
 
+### Git
+
 **Git** est un logiciel de gestion de versions décentralisé sous licence GNU GPL. C'est un logiciel libre et gratuit, initié en 2005 par Linus Torvalds le créateur de Linux lors de la création de son noyau. Linus ne voulait pas réaliser ce projet seul et à rapidement compris que la qualité d'un logiciel viendrai des débats houleux entre ses collaborateurs et l'implémentation de la meilleure idée à la fin.
 
 
@@ -1698,13 +1722,15 @@ Le free software
 
 ## EditIDE
 
+En arrivant en DUT informatique en 2016, je n'avait programmé qu'en BASIC sur une calculatrice Texas Instrument, je ne m'attendais pas à autant de complexité.
+
 La mode n'est que passagère, il n'y a que les habitudes de vies et s'en tenir à un plan structuré et cohérent qui reste dans l'histoire.
 
 Comment est ce que je pense, imagine et souhaite aider a créer un avenir de la programmation ?
 
-A travers ma philosophie, a l'aide de l'intelligence et la . 
+A travers ma philosophie, à l'aide de l'intelligence et la . 
 
-Actuellement, malgré les bonnes pratiques prônées, peu sont mises en application et beaucoup de fois je me retrouve a effectuer des copier coller avec une légère modification alors que ma philosophie est que chaque copier coller devrait etre une fonction reutilisable avec pour parametre les variables amenées a changer ou être configurable.
+Actuellement, malgré les bonnes pratiques prônées, peu sont mises en application et beaucoup de fois je me retrouve a effectuer des copier coller avec une légère modification alors que ma philosophie est que chaque copier coller devrait etre une fonction réutilisable avec pour paramètre les variables amenées a changer ou être configurable.
 
 
 
@@ -1758,19 +1784,27 @@ Collaboration et travail d'équipe : Dans de nombreux projets, plusieurs dévelo
 
 https://fr.wikipedia.org/wiki/Philosophie_de_l%27information
 
-One thing at a time
+##### One thing at a time
 
 Where AM I ?
 
-WYSIWYG
+##### WYSIWYG
 
-Accessibility
+Elementor
+
+Typora
+
+Python Notebook
+
+
+
+##### Accessibility
 
 
 
 ##### All in one 
 
-Plus un projet a d'intermédiaires, plus il y'a de risques d'erreurs. Babbage l'avait compris et sa machine faisait à la fois le calcul et l'impression car beaucoup d'erreur arrivait lors de l'impression.
+Plus un projet a d'intermédiaires, plus il y'a de risques d'erreurs. Dès le fondement de l'informatique, Charles Babbage l'avait déjà compris et sa machine faisait à la fois le calcul et l'impression car beaucoup d'erreur arrivait lors de l'impression.
 
 En informatique, beaucoup d'erreurs ont lié par manque d'information ou de clarté, le client exprime parfois mal son besoin, voire à un problème et ne sais pas ce dont il aurait besoin pour y palier. Les équipes faisant l'intermédiaire entre le client et l'équipe de production se retrouvent souvent entre deux eaux et doivent s'adapter et apprendre deux vocabulaires très différents.
 
@@ -1804,7 +1838,10 @@ Les sucres syntaxiques devrait être des éléments d'interface graphique. Quand
 
 De la même manière, quand je travaille sur une fonction je ne désire voir que ce qui concerne cette fonction.
 
-
+#### Rêves lucides
+Conscience
+metacognition
+mémoire onirique
 
 ## Annexes
 
