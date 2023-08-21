@@ -819,6 +819,7 @@ Au 19e siècle, 3 télégraphistes sur 4 étaient des femmes.
 
 #### Arithmaurel
 
+
 Créée en **1842** par Timoleon Maurel, avec Arithmomètre et le cylindre de Leibneiz pour inspiration, cette machine à calculer permettait en renseignant simplement les valeurs (opérandes) et les opérateurs. C'est une grande avancée en termes d'expérience utilisateur, cependant sa conception à grande échelle n'as pas été possible à cause des limitations techniques de l'époques. La division quand à elle reste fastidieuse et demande à l'utilisateur d'effectuer un ensemble de soustraction avec beaucoup d'attention.
 
 
