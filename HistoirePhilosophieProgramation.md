@@ -1824,7 +1824,10 @@ Les sucres syntaxiques devrait être des éléments d'interface graphique. Quand
 
 De la même manière, quand je travaille sur une fonction je ne désire voir que ce qui concerne cette fonction.
 
-
+#### Rêves lucides
+Conscience
+metacognition
+mémoire onirique
 
 ## Annexes
 
