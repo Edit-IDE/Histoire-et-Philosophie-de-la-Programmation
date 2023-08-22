@@ -6,7 +6,7 @@ Dorian Blanchard
 
 
 
-## Sommaire
+## Ebauche sommaire
 
 1. [Introduction](#Introduction)
 2. [Histoire](#Histoire)
@@ -204,6 +204,210 @@ Dorian Blanchard
 
 
 
+## Sommaire
+
+- [EditIDE - Histoire et philosophie de l'information](#editide---histoire-et-philosophie-de-linformation)
+  - [Sommaire](#sommaire)
+  - [Introduction](#introduction)
+  - [Remerciements](#remerciements)
+  - [Histoire](#histoire)
+    - [Préhistoire](#préhistoire)
+      - [Abaques](#abaques)
+      - [Bulle enveloppe](#bulle-enveloppe)
+    - [Antiquité](#antiquité)
+      - [Prémices de l'Algèbre](#prémices-de-lalgèbre)
+      - [Quipu](#quipu)
+      - [Boulier](#boulier)
+      - [Code de Hammurabi](#code-de-hammurabi)
+      - [Thalès](#thalès)
+      - [Encryption](#encryption)
+      - [Pythagore](#pythagore)
+      - [Dialectique](#dialectique)
+      - [Rhétorique](#rhétorique)
+      - [Sophistes et Sophismes](#sophistes-et-sophismes)
+      - [Socrate](#socrate)
+      - [Atomisme](#atomisme)
+      - [Platon](#platon)
+      - [Mathématiques](#mathématiques)
+      - [Aristote](#aristote)
+      - [Géométrie Euclidienne](#géométrie-euclidienne)
+      - [Archimède](#archimède)
+      - [Calculateurs analogiques](#calculateurs-analogiques)
+      - [Routes de la soie](#routes-de-la-soie)
+      - [Vitruve](#vitruve)
+      - [Héron](#héron)
+      - [Ménélaos](#ménélaos)
+      - [Ptolémée](#ptolémée)
+    - [Moyen Âge](#moyen-âge)
+      - [Aryabhata](#aryabhata)
+      - [Algèbre et Algorithme](#algèbre-et-algorithme)
+      - [Hindu–Arabic numeral system](#hinduarabic-numeral-system)
+      - [Al-Battani](#al-battani)
+      - [Gerbert d'Aurillac](#gerbert-daurillac)
+      - [Hermann Contract](#hermann-contract)
+      - [Al Zarqali](#al-zarqali)
+      - [Abraham bar Hiyya Hanassi](#abraham-bar-hiyya-hanassi)
+      - [Fibonnacci](#fibonnacci)
+      - [Leon Battista Alberti](#leon-battista-alberti)
+      - [Luca Pacioli](#luca-pacioli)
+    - [Epoque moderne](#epoque-moderne)
+      - [Nicolas Copernic](#nicolas-copernic)
+      - [Giambattista della Porta](#giambattista-della-porta)
+      - [Wilhelm Schickard](#wilhelm-schickard)
+      - [Calculateurs](#calculateurs)
+      - [Bâtons de Napier](#bâtons-de-napier)
+      - [Règle coulissante à calculer](#règle-coulissante-à-calculer)
+      - [Pascaline](#pascaline)
+      - [Binaire](#binaire)
+      - [Cartes perforées](#cartes-perforées)
+      - [Comète de Halley](#comète-de-halley)
+    - [Epoque contemporaine](#epoque-contemporaine)
+      - [Almanach nautique](#almanach-nautique)
+      - [Dactylographie](#dactylographie)
+      - [Arithmomètre](#arithmomètre)
+      - [Machine à différence et analytique](#machine-à-différence-et-analytique)
+      - [Maison d'échanges](#maison-déchanges)
+      - [Télégraphe](#télégraphe)
+      - [Arithmaurel](#arithmaurel)
+      - [Programmation](#programmation)
+      - [Algèbre booléen](#algèbre-booléen)
+      - [Remington](#remington)
+      - [Diode](#diode)
+      - [Téléphone](#téléphone)
+      - [Edison](#edison)
+      - [NCR](#ncr)
+      - [Burroughs Corporation](#burroughs-corporation)
+      - [Comptomètre](#comptomètre)
+      - [Calculatrices à crosses](#calculatrices-à-crosses)
+      - [Oscilloscope](#oscilloscope)
+      - [Mécanographie](#mécanographie)
+      - [Tube a vide](#tube-a-vide)
+      - [Séparation de l'État et de l'Église](#séparation-de-létat-et-de-léglise)
+      - [Triode](#triode)
+      - [Tube cathodique](#tube-cathodique)
+    - [Après la première guerre mondiale](#après-la-première-guerre-mondiale)
+      - [Tabulatrices](#tabulatrices)
+      - [Enigma](#enigma)
+      - [Moore School](#moore-school)
+      - [Bande magnétique cassettes audio](#bande-magnétique-cassettes-audio)
+      - [IBM 601](#ibm-601)
+      - [Mémoire tambour](#mémoire-tambour)
+      - [Machine de Turing](#machine-de-turing)
+      - [Z1 Zuse Konrad](#z1-zuse-konrad)
+      - [Atanasoff Berry Computer](#atanasoff-berry-computer)
+      - [Hewlett Packard](#hewlett-packard)
+    - [Seconde guerre mondiale](#seconde-guerre-mondiale)
+      - [Z2](#z2)
+      - [Z3](#z3)
+      - [Colossus / Harvard Mark 1](#colossus--harvard-mark-1)
+      - [Architecture de von Neumann](#architecture-de-von-neumann)
+    - [Guerre froide et course a l'espace](#guerre-froide-et-course-a-lespace)
+      - [As we may think](#as-we-may-think)
+      - [IBM 602 \& 603](#ibm-602--603)
+      - [Naissance de la Eckert-Mauchly Computer Corporation](#naissance-de-la-eckert-mauchly-computer-corporation)
+      - [Trackball](#trackball)
+      - [Transistor](#transistor)
+      - [IBM 407](#ibm-407)
+      - [SSEM](#ssem)
+      - [Manchester Mark I](#manchester-mark-i)
+      - [Théorie de l'information](#théorie-de-linformation)
+      - [Ferranti Mark I](#ferranti-mark-i)
+      - [UNIVAC 1](#univac-1)
+      - [IBM 701](#ibm-701)
+      - [IBM 702](#ibm-702)
+      - [Mémoire à tores magnétiques](#mémoire-à-tores-magnétiques)
+      - [IBM 650](#ibm-650)
+      - [Spoutnik 1](#spoutnik-1)
+      - [IBM 1401](#ibm-1401)
+      - [Souris](#souris)
+      - [Apollo 1](#apollo-1)
+      - [Dendral](#dendral)
+      - [Amstrad](#amstrad)
+      - [Microprocesseur](#microprocesseur)
+      - [Arpanet](#arpanet)
+      - [Apollo 11](#apollo-11)
+    - [Popularisation et Mondialisation](#popularisation-et-mondialisation)
+      - [Atari pong](#atari-pong)
+      - [Altair 8800](#altair-8800)
+      - [Homebrew computer club](#homebrew-computer-club)
+      - [Osborne 1](#osborne-1)
+      - [Xerox Star](#xerox-star)
+      - [IBM PC 5150](#ibm-pc-5150)
+  - [Pratiques actuelles](#pratiques-actuelles)
+    - [Division du travail](#division-du-travail)
+    - [Anticipation](#anticipation)
+    - [Contexte et vérité](#contexte-et-vérité)
+    - [Montaigne](#montaigne)
+    - [Rabelais](#rabelais)
+    - [Francis Bacon](#francis-bacon)
+    - [Thomas Hobbes](#thomas-hobbes)
+    - [John Locke](#john-locke)
+    - [Voltaire](#voltaire)
+    - [Jean-Jacques Rousseau](#jean-jacques-rousseau)
+    - [Kant](#kant)
+    - [Pédagogie moderne](#pédagogie-moderne)
+    - [Georg Wilhelm Friedrich Hegel](#georg-wilhelm-friedrich-hegel)
+    - [Friedrich Fröbel](#friedrich-fröbel)
+    - [John Dewey](#john-dewey)
+    - [Maria Montessori](#maria-montessori)
+    - [Adolphe Ferrière](#adolphe-ferrière)
+    - [Célestion Freinet](#célestion-freinet)
+    - [Théorie générale des systèmes](#théorie-générale-des-systèmes)
+    - [Pédagogie active](#pédagogie-active)
+    - [Claude Lévi-Strauss](#claude-lévi-strauss)
+    - [Norbert Wiener](#norbert-wiener)
+    - [Luciano Floridi](#luciano-floridi)
+    - [Méthodes d'aide à la structuration d'information](#méthodes-daide-à-la-structuration-dinformation)
+      - [Décision](#décision)
+        - [Analyse PESTEL](#analyse-pestel)
+        - [SWOT](#swot)
+        - [Matrice multicritère](#matrice-multicritère)
+        - [5 Why](#5-why)
+        - [La matrice d'Eisenhower](#la-matrice-deisenhower)
+        - [Diagramme d'Ishikawa](#diagramme-dishikawa)
+        - [Analyse des parties prenantes](#analyse-des-parties-prenantes)
+        - [Carte heuristique](#carte-heuristique)
+      - [Conception](#conception)
+        - [Design thinking](#design-thinking)
+        - [Lean Startup](#lean-startup)
+      - [Gestion de projets](#gestion-de-projets)
+        - [Roadmap](#roadmap)
+        - [Project charter](#project-charter)
+        - [GANTT](#gantt)
+        - [Business Model](#business-model)
+        - [Scrum](#scrum)
+      - [Développement](#développement)
+        - [Extreme programming](#extreme-programming)
+        - [TDD FDD MDD](#tdd-fdd-mdd)
+        - [Code review](#code-review)
+        - [Technique du canard en plastique](#technique-du-canard-en-plastique)
+    - [Développement personnel](#développement-personnel)
+      - [Rigueur et retravail](#rigueur-et-retravail)
+      - [Amélioration continue](#amélioration-continue)
+      - [Do it now](#do-it-now)
+      - [Justification](#justification)
+      - [Critique](#critique)
+    - [Metagame](#metagame)
+    - [Prestation vs édition de logiciel](#prestation-vs-édition-de-logiciel)
+    - [Cadriciel et Open Source](#cadriciel-et-open-source)
+    - [ChatGPT](#chatgpt)
+    - [Opensource](#opensource)
+    - [Logiciel libre](#logiciel-libre)
+    - [Git](#git)
+  - [EditIDE](#editide)
+      - [Philosophie](#philosophie)
+        - [One thing at a time](#one-thing-at-a-time)
+        - [WYSIWYG](#wysiwyg)
+        - [Accessibility](#accessibility)
+        - [All in one](#all-in-one)
+        - [Documentation](#documentation)
+        - [Visualisation](#visualisation)
+      - [Rêves lucides](#rêves-lucides)
+  - [Annexes](#annexes)
+      - [Webographie](#webographie)
+
+
+
 
 ## Introduction
 
@@ -273,7 +477,7 @@ Relativement aux dates précédentes, l’écriture ne vient que récemment, ell
 
 ### Préhistoire
 
-Avant même la naissance de l'écriture qui marque la fin de la préhistoire, les humains avait déjà besoin de compter et d'effectuer des calculs. Le premier réflexe à sûrement été de compter sur ses doigts, raison pour laquelle la base 10 est si présente dans l'histoire, pour des nombres plus importants, il a fallu inventer d'autres stratagèmes et outils.
+Avant même la naissance de l'écriture qui marque la fin de la préhistoire, les humains avait déjà besoin de compter et d'effectuer des calculs. Le premier réflexe à sûrement été de compter sur ses doigts, raison pour laquelle la base 10 est si présente dans l'histoire. Pour des nombres plus importants, il a fallu inventer d'autres stratagèmes et outils.
 
 
 
@@ -309,7 +513,9 @@ Il y'a 6000 ans de cela, en Mésopotamie, vers l'an **-3900**, étaient utilisé
 
 ### Antiquité
 
-Marquée par l'invention la plus importante de notre histoire, en **-3250** dans la région de la Mésopotamie, la naissance de l'écriture à permis une transmission d'information complexes sur un support théoriquement permanent. Cette période se finira en 450 par la chute de l'Empire Romain.
+Marquée par l'invention la plus importante de notre histoire, en **-3250** dans la région de la Mésopotamie, la naissance de l'écriture à permis une transmission d'information complexes sur un support théoriquement permanent. Des lois, qu'elles soient juridiques, mathématiques, ou autres, ont alors pu être rédigées et transmises de manière plus fiable que par la transmission orale, pratiquée jusque là.
+
+Cette période se finira en 450 par la chute de l'Empire Romain.
 
 
 
@@ -327,8 +533,14 @@ L'algèbre babylonienne vers **-3000**, utilisait un système sexagésimal, pote
 - Idem pour la soustraction : 
   -  `a = b - c`
   -  `a -= b` qui équivaut à `a = a - b`
+  -  avec en plus la notion de comparaison et d'équation
+     -  si après la soustraction `a - b` il reste `c` , alors `a > b` car `a = b + c`
 
-Cette discipline est à ce moment de l'histoire avérée n'était pas encore nommée, du moins pas en tant que tel, il faudra attendre le moyen âge pour cela.
+La division se pratiquait avec la multiplication par l'inverse, on a retrouver de multiples tables d'inverse en Mésopotamie.
+
+La racine carrée était obtenue grâce aux tables de carrés, pour celles manquante, on pratiquait une approximation par interpolation linéaire.
+
+Cette discipline qu'est l'Algèbre est à ce moment de l'histoire avérée mais pas encore nommée, du moins pas en tant que tel, il faudra attendre le moyen âge pour cela.
 
 
 
@@ -374,7 +586,7 @@ Enfin, il fonda l'école milésienne qui inspirera les personnalités qui suiven
 
 Depuis longtemps, les humains ont eu besoin de communiquer des message à de longues distances, sans qu'ils ne se fassent intercepter, et encore moins décoder et lus voire pire, compris.
 
-Le plus ancien système d'encryption connu est la scytale spartiate vers **-600**. Utilisé pour transmettre des messages chiffrés par transposition sur un bande, généralement une ceinture en cuir portée pendant le transport, que l'on enroule autour d'un bâton pour l'écriture et la lecture. Le diamètre du bâton étant ainsi la clé d'encryption. Les lettres correspondait encore à leur propre valeur, et leur ordre dans le mot était conservé, malgré la présence de lettre entre chacune d'entres elles. Ces dernières étaient simplement mélangées et l'enroulage permettait de les réaligner afin d'en permettre la lecture.
+Le plus ancien système d'encryption connu est la scytale spartiate vers **-600**. Utilisée pour transmettre des messages chiffrés par transposition sur un bande, généralement une ceinture en cuir portée pendant le transport, que l'on enroule autour d'un bâton pour l'écriture et la lecture. Le diamètre du bâton étant ainsi la clé d'encryption. Les lettres correspondait encore à leur propre valeur, et leur ordre dans le mot était conservé, malgré la présence de lettre entre chacune d’entre elles. Ces dernières étaient simplement mélangées et l'enroulage permettait de les réaligner afin d'en permettre la lecture.
 
 C'est ainsi que quelques années avant Jésus Christ, Jules César encodait ses messages en utilisant un code éponyme. Cette encryptions simple utilisait un décalage d'un certain nombre de lettres de l'alphabet. A vaut D, B vaut E, Z vaut C, etc...
 
@@ -522,9 +734,11 @@ En définitive, cette discipline que sont les mathématiques est une philosophie
 
 #### Archimède
 
-Archimède de Syracuse est né en **-287**, on lui doit le fameux théorème de la poussée du même nom et l'explication du principe du levier, mais aussi la vis d'Archimède ou le palan. Considéré comme le plus grand mathématicien de l'Antiquité, il a apporté beaucoup à la géométrie pour laquelle il a étudier et rédigé des traité sur les cônes, spirales, cylindres, paraboles, et cercles ; mais aussi la mécanique
+Archimède de Syracuse est né en **-287**, il fut élève d'Euclide. On lui doit le fameux théorème de la poussée du même nom et l'explication du principe du levier, mais aussi la vis d'Archimède ou le palan qui permet de soulever des charges à l'aide d'un double système de poulies.
 
-On lui doit également le fameux Eureka ! Signifiant "j'ai trouvé" 
+Considéré comme le plus grand mathématicien de l'Antiquité, il a apporté beaucoup à la géométrie pour laquelle il a étudier et rédigé des traité sur les cônes, spirales, cylindres, paraboles, et cercles ; mais aussi à la mécanique.
+
+On lui doit également le fameux "Eureka !" signifiant "J'ai trouvé !" 
 
 
 
@@ -540,13 +754,41 @@ A partir de **-130** se développe l'une des voie de transport et d'échange de 
 
 
 
+#### Vitruve
+
+Marcus Vitruvius Pollio est un architecte romain qui à œuvrer pendant le **1er siècle avant J.-C.**
+
+Il nous a transmis beaucoup de choses liées à Archimède, il aurait rapporté l'anecdote où ce dernier détecte une supercherie dans la composition d'une couronne royale prétendument en or massif, en la comparant avec une masse d'or identique en immersion dans un volume d'eau, afin d'en comparer le rapport avec le volume. Il a également décrit comment construire une vis d'Archimède, qui était très utilisée pour drainer de l'eau.
+
+Vitruve eu également décrit multitudes de machines utilisées de son temps pour la construction, telles que les palans, grues, et poulies qui on vues le jour grâce aux travaux d'Archimède, mais aussi des machines de guerres, comme la catapulte, la baliste, et bien d'autres comme les prémices d'une machine à vapeur.
+
+Son travail sur les aqueducs à été décrits avec une grande précision, détaillant les siphons et la pression importante qui en résultait. Faisant de lui une référence pour les hauts placés de l'Empire Romain comme Frontin, un général qui fut chargé d'administrer les aqueducs de Rome.
+
+Il a longtemps milité pour ne pas transporter l'eau à l'aide de tuyaux en plomb, prônant l'utilisation de la terre, après avoir remarqué que les ouvriers de fonderies de plomb était souvent malades.
+
+Toujours en rapport avec la construction et l'eau, il décrira le chorobate, un niveau à eau utilisé pour s'assurer que les aqueducs aient la bonne inclinaison et véhicule correctement l'eau, ainsi que l'agencement idéal de bains chaud à côté de bains tièdes suivi par les bains froids afin d'avoir une meilleure efficacité thermique, avec l'aide de ventilations manuelles. Il a également développer l'un des premiers odomètre permettant un comptage kilométrique, et des roues à aubes. Enfin il eu décrit des constructions marines telles que les brise-lame, les jetées et les quais.
+
+D'un point de vue de l'information, Vitruve à réaliser un travail de recherche et de retransmission très efficace dans le domaine de la construction liée à l'eau. Son livre "De architectura" est le seul qui nous reste sur l’architecture de l’Antiquité classique, malgré ses quelques innovations il a surtout poser les code de l'architecture et de la construction devant être solide, utile et belle. 
+
+Les six principes théoriques qui les régissent étant l'ordonnance, la disposition, l'harmonie, la symétrie, la convenance, et la distribution. En effet pour mener de telles réalisations architecturales a bien, il fallait naturellement que la création soit bien disposée dans son environnement, afin d'avoir une certaine harmonie et un design symétrique autant par praticité que pour la beauté et imitation de la nature ; et enfin l'ordonnance la convenance et la distribution sont nécessaire pour gérer les équipes travaillant sur le projet et que tout le monde y trouve son compte dans la réalisation du projet.
+
+
+
+#### Héron
+
+Originaire d'Alexandrie, il serait né et aurait vécu pendant le **premier siècle après J.-C**. On lui attribut la création de la première machine à vapeur, l'Éolipyle, qui servait uniquement à distraire ses utilisateurs, l'énergie dégagée étant négligée. Pour autant, Vitruve aurait déjà eu mentionné de telles machines à l'époque, et il s'est avéré par la suite qu'Héron était postérieur à ce dernier qui décéda en -20, il a donc potentiellement abouti ou juste démocratiser cette machine, grâce à laquelle il 
+
+
+
+#### Ménélaos
+
+Né vers l'an 70, également dans la ville d'Alexandrie, Ménélaos était un mathématicien et astronome à qui on doit des notions de géométries, notamment concernant les sphères, comme la géodésique, qui représente une ligne droite sur une surface courbe, qui dans le cas d'une sphère représente un trait droit suivant la courbure de la sphère, jusqu’à retourner à son origine, formant une droite correspondant à un grand cercle. Cette ligne est très liée à la distance minimale entre deux points d'une surface, qui est toujours une ligne droite, correspondant à la géodésique.
+
+
+
 #### Ptolémée
 
-Claude Ptolémée, est un astronome, astrologue, mathématicien, et géographe grec né vers l'an **100**, tout comme Aristote, il pensait que nous étions dans un système géocentrique, ou les planètes et le soleil tournerait autour de la Terre. Malgré cela, il eu rédiger des tables mathématiques très utilisés à l'époque car elle permettait de calculer avec une précision la position des astres et les éclipses de manière suffisante.  
-
-
-
-#### Menelaos d'alexandrie
+Claude Ptolémée, est un astronome, astrologue, mathématicien, et géographe grec né vers l'an **100**, tout comme Aristote, il pensait que nous étions dans un système géocentrique, ou les planètes et le soleil tournerait autour de la Terre. Malgré cela, il eu rédiger des tables mathématiques très utilisés à l'époque car elle permettait de calculer avec une précision la position des astres et les éclipses de manière suffisante.
 
 
 
@@ -560,7 +802,9 @@ Claude Ptolémée, est un astronome, astrologue, mathématicien, et géographe g
 
 #### Aryabhata
 
-ne en 476
+Premier mathématicien et célèbre astronome indien né en 476. Contrairement à Aristote, Ptolémée, et aux autres philosophes de l'époque précédente, pensants être dans un système géocentrique où la terre serait immobile ; Aryabhata quand à lui, affirma la rotation de la Terre.
+
+Dans son traité de mathématiques Aryabhatiya, il explicite des algorithmes permettant de trouver la racine carrée et cubique, découvert par Héron auparavant. Il serait aussi le premier à avoir utilisé la demi-corde, ancêtre du sinus, pour le calcul d'angles dans un triangle, calculs grâces auxquelles il format une table de calcul trigonométriques précise de 0 à 90 degré.
 
 
 
@@ -697,7 +941,7 @@ Cet outil permet à l'aide d'un tableau ayant pour lignes les chiffres de 1 à 9
 
 #### Règle coulissante à calculer
 
-Pour clôturer la présentation d'abaques, en **1621** William Oughtred, à qui on doit la notation "x" pour la multiplication, se base sur les travaux de Napier et invente une règle coulissante destinée à calculer des multiplications, divisions et également des exponentielles, racines, puissances et calculs trigonométriques, laissant l'addition et la soustraction à de plus simples abaques.
+Pour clôturer la présentation d'abaques, en **1621** William Oughtred, à qui on doit la notation de π et "x" pour la multiplication, se base sur les travaux de Napier et invente une règle coulissante destinée à calculer des multiplications, divisions et également des exponentielles, racines, puissances et calculs trigonométriques, laissant l'addition et la soustraction à de plus simples abaques.
 
 Aujourd'hui obsolètes, elles ont pendant longtemps été, à la manière des tables de calcul était une solution suffisamment précise, abordable et facile à créer.
 
@@ -818,7 +1062,6 @@ Au 19e siècle, 3 télégraphistes sur 4 étaient des femmes.
 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/International_Morse_Code-fr.svg/1200px-International_Morse_Code-fr.svg.png)
 
 #### Arithmaurel
-
 
 Créée en **1842** par Timoleon Maurel, avec Arithmomètre et le cylindre de Leibneiz pour inspiration, cette machine à calculer permettait en renseignant simplement les valeurs (opérandes) et les opérateurs. C'est une grande avancée en termes d'expérience utilisateur, cependant sa conception à grande échelle n'as pas été possible à cause des limitations techniques de l'époques. La division quand à elle reste fastidieuse et demande à l'utilisateur d'effectuer un ensemble de soustraction avec beaucoup d'attention.
 
@@ -1856,6 +2099,8 @@ https://papyrus.bib.umontreal.ca/xmlui/bitstream/handle/1866/25874/Parent_Simon_
 
 https://theses.hal.science/tel-00125472/document
 
+http://serge.mehl.free.fr/
+
 
 
 https://monoskop.org/images/b/b0/Floridi_Luciano_Philosophy_and_Computing_An_Introduction_1999.pdf
@@ -1867,6 +2112,8 @@ https://www.amazon.fr/Computer-History-Information-Machine-Technology-ebook/dp/B
 https://www.physique.usherbrooke.ca/~afaribau/essai/#:~:text=Les%20tables%20de%20calcul%20furent,aux%20cailloux%20selon%20leur%20position
 
 https://www.enfant-encyclopedie.com/pdf/synthese/apprentissage-par-le-jeu
+
+http://remacle.org/bloodwolf/erudits/Vitruve/livre1.htm
 
 
 
