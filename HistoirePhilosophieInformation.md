@@ -18,21 +18,29 @@ Dorian Blanchard
       2. [Quipu](Quipu)
       3. [Boulier](#Boulier)
       4. [Code de Hammurabi](#Code de Hammurabi)
-      5. [Encryption](#Encryption)
-      6. [Mathématiques](#Mathématiques)
-      7. [Géométrie Euclidienne](#Géométrie Euclidienne)
-      8. [Thalès](#Thalès)
-      9. [Pythagore](#Pythagore)
-      10. [Philosophie antique](#Philosophie antique)
-          1. [Dialectique](#Dialectique)
-          2. [Académie et Lycée](#Académie et Lycée)
-          3. [Rhétorique](#Rhétorique)
-          4. [Atomisme](#Atomisme)
-          5. [Sophistes et Sophismes](#Sophistes et Sophismes)
-      11. [Calculateurs analogiques](#Calculateurs analogiques)
+      5. [Thalès](#Thalès)
+      6. [Encryption](#Encryption)
+      7. [Pythagore](#Pythagore)
+      8. [Dialectique](#Dialectique)
+      9. [Rhétorique](#Rhétorique)
+      10. [Sophistes et Sophismes](#Sophistes et Sophismes)
+      11. [Socrate](#Socrate)
+      12. [Atomisme](#Atomisme)
+      13. [Platon](#Platon)
+      14. [Mathématiques](#Mathématiques)
+      15. [Aristote](#Aristote)
+      16. [Géométrie Euclidienne](#Géométrie Euclidienne)
+      17. [Archimède](#Archimède)
+      18. [Calculateurs analogiques](#Calculateurs analogiques)
+      19. [Routes de la soie](#Routes-de-la-soie)
+      20. [Vitruve](#Vitruve)
+      21. [Héron](#Héron)
+      22. [Ménélaos](#Ménélaos)
+      23. [Ptolémée](#Ptolémée)
    3. [Moyen Âge](#Moyen Âge)
-      1. [Algorithme](#Algorithme)
-      2. [Fibonnacci](#Fibonnacci)
+      1. [Aryabhata](#Aryabhata)
+      2. [Algèbre et Algorithme](#Algèbre-et-Algorithme)
+      3. [Fibonnacci](#Fibonnacci)
    4. [Epoque moderne](#Epoque moderne)
       1. [Wilhelm Schikard](#Wilhelm Schikard)
       2. [Calculateurs](#Calculateurs)
@@ -73,33 +81,42 @@ Dorian Blanchard
       2. [IBM 602 & 603](#IBM 602 & 603)
       3. [Naissance de la Eckert-Mauchly Computer Corporation](#Naissance de la Eckert-Mauchly Computer Corporation)
       4. [Trackball](#Trackball)
-      5. [Transistor](#Transistor) (1947)
+      5. [Transistor](#Transistor)
       6. [Théorie de l'information](#Théorie de l'information)
-      7. Manchester Baby (William Tube RAM 1948)
-      8. EDSAC / BINAC VS IBM CPC / 604 (Wilkes - Binaire - premier OS - Leo I : 1949)
-      9. Rachat de Eckert and Mauchly Computer Corporation par Remington Rand (1950)
-      10. Remington Rand UNIVAC I (1951 )
-      11. Premier compilateur (A-0 System Grace Hopper 1951)
-      12. [IBM 701](#IBM 701)
-      13. Z5 (1953)
-      14. IBM 650 (1954)
-      15. Remington Racheté par Sperry Corporation qui deviendra Unisys après fusion avec Burroughs
-      16. Flow - Matic (1955 par grace hopper)
-      17. TRADIC premier ordinateur a transistors (1955)
-      18. Premiers languages haux niveau - Structures de contrôle et de donnes
+      7. [SSEM](#SSEM)
+      8. [Manchester Mark I](#Manchester-Mark-I)
+      9. [IBM 604](#IBM-604)
+      10. [IBM 407](#IBM-407)
+      11. [EDSAC & BINAC](#EDSAC & BINAC)
+      12. [IBM CPC](#IBM-CPC)
+      13. [Ferranti Mark I](#Ferranti-Mark-I)
+      14. [UNIVAC 1](#UNIVAC-1)
+      15. [IBM-701](#IBM-701)
+      16. [IBM-702](#IBM-702)
+      17. [Mémoire à tores magnétiques](#Mémoire-à-tores-magnétiques)
+      18. [IBM 650](#IBM-650)
+      19. Rachat de Eckert and Mauchly Computer Corporation par Remington Rand (1950)
+      20. Remington Rand UNIVAC I (1951 )
+      21. Premier compilateur (A-0 System Grace Hopper 1951)
+      22. [IBM 701](#IBM 701)
+      23. Z5 (1953)
+      24. IBM 650 (1954)
+      25. Remington Racheté par Sperry Corporation qui deviendra Unisys après fusion avec Burroughs
+      26. Flow - Matic (1955 par grace hopper)
+      27. TRADIC premier ordinateur a transistors (1955)
+      28. Premiers languages haux niveau - Structures de contrôle et de donnes
           1. plankalkul eniac ssem speedcoding Flow-Matic
           2. fortran 1957 John Backus
           3. lisp 1958 John Mc Carthy
           4. cobol 1959
-
-      19. Circuit integré (1958)
-      20. Théorie algorithmique de linformation (1960)
-      21. Spacewar! (1962)
-      22. Programma 101 (1965)
-      23. [Dendral](#Dendral)
-      24. Eliza (1966)
-      25. Intel et Moore (1968)
-      26. Arpanet (1969)
+      29. Circuit integré (1958)
+      30. Théorie algorithmique de linformation (1960)
+      31. Spacewar! (1962)
+      32. Programma 101 (1965)
+      33. [Dendral](#Dendral)
+      34. Eliza (1966)
+      35. Intel et Moore (1968)
+      36. Arpanet (1969)
    9. [Popularisation et Mondialisation](#Popularisation et Mondialisation)
       1. Atari Pong (1972)
       2. [Altair 8800](#Altair 8800)
@@ -157,7 +174,7 @@ Dorian Blanchard
       3. Habitudes de programmation
          1. Language naturel, formel, informatique, et construites
          2. Syntaxe, vocabulaire et Grammaire
-         3. Code parlé + Lojban
+         3. Pseudo Code parlé & Lojban
          4. Ligne de commande
          5. Commentaires et documentation
          6. Interfaces logicielles avancées
@@ -1233,6 +1250,12 @@ En **1932**, l'ingénieur Gustav Tauschek, invente une nouvelle méthode de mém
 
 
 
+#### RADAR
+
+**1934**
+
+
+
 #### Machine de Turing 
 
 **1936**
@@ -1253,11 +1276,13 @@ En **1932**, l'ingénieur Gustav Tauschek, invente une nouvelle méthode de mém
 
 #### Hewlett Packard
 
-01/01/1939
+01/01/**1939**
 
 
 
 
+
+[Retour](#Sommaire)
 
 ### Seconde guerre mondiale
 
@@ -1285,15 +1310,13 @@ https://www.youtube.com/watch?v=MOUg25dJM4c
 
 #### Architecture de von Neumann
 
-**1945** ENIAC / EDVAC / SSEM / SSEC / Z4
+Beaucoup d'ordinateurs ont été réalisés en **1945** dont l'EDVAC l'ENIAC, le SSEC, et le Z4. Von Neumann lors de ses travaux sur l'EDVAC, à décrit cette architecture qui sera réutilisée par Turing, Mauchly et Eckert pour l'ENIAC, ainsi que sur tout les ordinateurs à partir de cette date.
 
-Cette architecture à permis à permis au stockage de tenir les instuctions du program et la donnée à traiter sur le même support, permettant également aux instructions du programme d'être également traité comme de la donnée, et donc de pouvoir être lu et réécrite.
+Cette architecture à permis à permis au stockage de posséder les instructions du programme et la donnée à traiter sur le même support, permettant également aux instructions du programme d'être également traités comme de la donnée, et donc de pouvoir être lu et réécrite.
 
 
 
 Même si il a été pensé par 2 hommes, l'ENIAC à été programmé par 6 femmes, qui ont du documenter, coder et brancher des millions de cables
-
-
 
 Elisabeth Findler Jake, nom de domaines, whois nom de domaine (page jaunes) Alors que la silicon vallait est encore loin.
 
@@ -1302,6 +1325,28 @@ Elisabeth Findler Jake, nom de domaines, whois nom de domaine (page jaunes) Alor
 [Retour](#Sommaire)
 
 ### Guerre froide et course a l'espace
+
+Dans l'après guerre (WW2)
+
+Besoins de calculs grandissants, aéronefs, nucléaire civil et militaire, gestion de l'énergie
+
+Nécessite du calcul, de la simulation, du controle.
+
+Traitement de l'information pour gérer les grandes stuctures, Militaire, Ferroviaire, Aérien.
+
+
+
+ 
+
+Aptitude à gérer de grands projets complexes en faisant travailler ensemble des spécialistes de domaines différents.
+
+Von Newmann, Base de l'architecture moderne des ordinateurs avec mémoire vive et de masse, entrées - sorties (IO), et unité de traitement et de contrêle.
+
+Languages de programmations et linguistique, languages construits, etc...
+
+
+
+
 
 #### As we may think
 
@@ -1337,21 +1382,15 @@ La mort de leur investisseur principal lors d'un trajet en avion les poussera à
 
 
 
-#### IBM 407
-
-1949 imrpimante 150 lignes par minutes
-
-
-
 #### SSEM
 
-Le tube de Williams-Kilburn, développé en 1946 ou 1947 par Frederic Calland Williams et Tom Kilburn, utilise les tubes cathodiques de Boris Rosing pour enregistrer des données binaires. La Small-Scale Experimental Machine, premier ordinateur à architecture de von Neumann les utilisait pour sa mémoire vive. Le test de cette nouvelle technologie de étant concluant, la production d'un autre ordinateur à été lancé.
+Le tube de Williams-Kilburn, développé en 1946 ou 1947 par Frederic Calland Williams et Tom Kilburn, utilise les tubes cathodiques de Boris Rosing pour enregistrer des données binaires. La Small-Scale Experimental Machine, premier ordinateur à architecture de von Neumann les utilisait pour sa mémoire vive. Le test de cette nouvelle technologie sur le SSEM, aussi appelé Manchester Baby étant concluant en **1948**, la production d'un autre ordinateur à été lancé.
 
 
 
 #### Manchester Mark I
 
-En 1948 les travaux commence pour voir le jour en 1949, décrit comme un cerveau électronique par la presse, des neuroscientifiques s'y intéréssent rapidement, à une période ou naît la cybernétique.
+En 1948 les travaux commencent pour voir le jour en 1949, décrit comme un cerveau électronique par la presse, des neuro-scientifiques s'y intéressent rapidement, à une période ou naît la cybernétique.
 
 
 
@@ -1360,6 +1399,30 @@ En 1948 les travaux commence pour voir le jour en 1949, décrit comme un cerveau
 1948 Claude Shannon
 
 **Warren Weaver**, né le 17 juillet 1894 est principalement connu comme un des pionniers de la traduction automatique, il a également assister Shannon dans le développement de la théorie de l'information
+
+
+
+#### IBM 604
+
+1948
+
+
+
+#### IBM 407
+
+1949 imprimante 150 lignes par minutes
+
+
+
+#### EDSAC & BINAC
+
+En **1949**, le Electronic Delay Storage Automatic Calculator, et le Binary Automatic Computer.
+
+
+
+#### IBM CPC
+
+Rival de l'EDSAC et du BINAC, il fait son apparition la même année en **1949**, fait à partir du IBM 604 et du IBM 402
 
 
 
@@ -1372,6 +1435,27 @@ Le Ferranti Mark 1, aussi connu comme le Manchester Electronic Computer, est le 
 #### UNIVAC 1
 
 Sorti en **1951** MAGNETIC TAPE STORAGE start and stop tape rapidement avec des servomoteurs, plastic -> déforme -----> métal résistant, travail pour écrire et lire dessus
+
+
+
+#### Leo I
+
+Descendant de l'EDSAC créé par Maurice Wilkes, le Lyons Electronic Office est créé en **1951**. Il est le premier ordinateur utilisé pour des opérations commerciales.
+
+J'ai pu lire que le LEO I était le premier ordinateur à avoir un système d'exploitation, mais il n’est avéré que pour le LEO III en 1961 pour en avoir un et ainsi pouvoir ouvrir plusieurs programmes en même temps à l'aide du multitasking. Il est cependant possible que le LEO I avait un système d'exploitation lui permettant de faciliter l'accès aux ressources, voire faire du traitement par lots. Cet ordinateur pouvait calculer et imprimer 40 fiches de paie en une heure, soit un peu moins d'une par minute.
+
+
+
+La première occurrence que j'ai trouvée dans une archive du MIT de Douglas T. Ross, est la suivante, qui a sûrement été utilisée pour l'UNIVAC 1103 réalisé en 1953. 
+
+>  Another innovation triggered by my needs was the
+> creation of the Director Tape utility program
+> [WWJQ54p7] -- the first real Operating System
+> command language system (to use present-day
+> terms) to eliminate the computer operator
+> function for my elaborate, multi-tape runs.
+
+
 
 
 
@@ -1451,9 +1535,9 @@ En 1969, le microprocesseur est inventé par Federico Faggin, et Marcian Hoff, u
 
 
 
-#### Arpanet
+#### Arpanet et Cyclades
 
-1969
+1969 et 1972 (Louis Pouzin)
 
 
 
@@ -1463,23 +1547,9 @@ Apollo Guidance Computer en 1969, Margaret Hamilton
 
 
 
-Dans l'après guerre (WW2)
-
-Besoins de calculs grandissants, aéronefs, nucléaire civil et militaire, gestion de l'énergie
-
-Nécessite du calcul, de la simulation, du controle.
-
-Traitement de l'information pour gérer les grandes stuctures, Militaire, Ferroviaire, Aérien.
 
 
 
- 
-
-Aptitude à gérer de grands projets complexes en faisant travailler ensemble des spécialistes de domaines différents.
-
-Von Newmann, Base de l'architecture moderne des ordinateurs avec mémoire vive et de masse, entrées - sorties (IO), et unité de traitement et de contrêle.
-
-Languages de programmations et linguistique, languages construits, etc...
 
 
 
@@ -1499,7 +1569,7 @@ CSS a permi de diversifier l'apparence des sites webs, les frameworks et themes 
 
 ### Popularisation et Mondialisation
 
-Jusqu'alors, l'informatique était essentiellement réservé aux domaines privés comme le militaire, le spatial et l'administration des États. A partir des années 70, l'informatique va commencer à arriver dans le quotidien des particulier les plus aisés et finir par être dans une grande majorité des foyers.
+Jusqu'alors, l'informatique était essentiellement réservé aux domaines privés comme le militaire, le spatial et l'administration des États. A partir des années 70, l'informatique va commencer à arriver dans le quotidien des particulier les plus aisés et finir par être dans une grande majorité des foyers. Internet commence à se developper petit à petit
 
 
 
@@ -1518,6 +1588,12 @@ Jusqu'alors, l'informatique était essentiellement réservé aux domaines privé
 #### Homebrew computer club
 
 1976 homebrew exhibits
+
+
+
+#### Minitel
+
+Présenté en 1978 mais sorti en **1980**, le Minitel est un ordinateur connecté à un réseau et donc appellé Terminal. Il utilisait le réseau Transpac pour faire tourner le sien, "Télétel" auxquel il se connectait à l'aide d'un modem. Il possédait une mémoire de 8,25 ko, et un processseur Intel 8052
 
 
 
@@ -2114,6 +2190,8 @@ https://www.physique.usherbrooke.ca/~afaribau/essai/#:~:text=Les%20tables%20de%2
 https://www.enfant-encyclopedie.com/pdf/synthese/apprentissage-par-le-jeu
 
 http://remacle.org/bloodwolf/erudits/Vitruve/livre1.htm
+
+**https://dl.acm.org/doi/10.1145/12178.12180**
 
 
 
