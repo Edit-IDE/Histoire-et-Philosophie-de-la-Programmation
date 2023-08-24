@@ -819,7 +819,6 @@ Au 19e siècle, 3 télégraphistes sur 4 étaient des femmes.
 
 #### Arithmaurel
 
-
 Créée en **1842** par Timoleon Maurel, avec Arithmomètre et le cylindre de Leibneiz pour inspiration, cette machine à calculer permettait en renseignant simplement les valeurs (opérandes) et les opérateurs. C'est une grande avancée en termes d'expérience utilisateur, cependant sa conception à grande échelle n'as pas été possible à cause des limitations techniques de l'époques. La division quand à elle reste fastidieuse et demande à l'utilisateur d'effectuer un ensemble de soustraction avec beaucoup d'attention.
 
 
@@ -1158,7 +1157,7 @@ Cette technologie à poussé IBM a rééditer ses modèles 701 et 702 avec ce ty
 
 #### IBM 650
 
-Créé en **1954** c'est le modèle le plus populaire des années 50, et pour cause, il coûtait seulement un quart du prix d'un 701, et a été vendu à de nombreuses universités, créant toute une génération de programmeur. Faisant de lui le premier ordinateur produit en masse dans le monde et la première machine d'IBM à réaliser un profit significatif. Cependant, le modèle 650 n'était guère plus qu'une machine à carte perforée glorifiée, moins fiable qu'une machine électromécanique à cause des tubes à vides, et dont la programmation nécessitait des experts, qu'IBM ne fournissait pas encore à l'époque. Cela restait donc, comme beaucoup d'ordinateurs de l'époque, un luxe que seuls des personnes ou organisations aisées pouvait s'offrir. Le modèle électromécanique IBM 407 restant encore la machine de comptabilité la plus produite jusqu’à la fin des années 50.
+Créé en **1954** c'est le modèle le plus populaire des années 50, et pour cause, il coûtait seulement un quart du prix d'un 701, et a été vendu à de nombreuses universités, créant toute une génération de programmeur. Faisant de lui le premier ordinateur produit en masse dans le monde et la première machine d'IBM à réaliser un profit significatif.
 
 
 
@@ -1296,6 +1295,10 @@ Jusqu'alors, l'informatique était essentiellement réservé aux domaines privé
 
 
 
+### Bilan passé
+
+
+
 
 
 [Retour](#Sommaire)
@@ -1307,6 +1310,10 @@ Jusqu'alors, l'informatique était essentiellement réservé aux domaines privé
 L'intelligence est la capacité d'utiliser ses connaissances et sa compréhension pour proposer une solution à un problème.
 
 ChatGPT n'est pas capable de raisonnement mais il fourni une solution mathématique probabiliste à un énoncé textuel. Il connais les mots qui le compose, sait qu'il y'a tant de probabilité qu'ils y soient liés et les assemble de manière à proposer une réponse elle même textuelle.
+
+
+
+Touches modifieur sur clavier, selection lultiple, effets, validation, suppression 
 
 
 
@@ -1625,25 +1632,33 @@ MVP, itération, stop de toute la chaine de production si problème pour éviter
 
 Lorsque l'on travaille seul, on a parfois la tête dans le guidon,  
 
+### Travail Personnel
 
+#### Developpement informatique
 
-### Développement personnel
+##### Moteur de jeu 2
 
-#### Rigueur et retravail
+Base sur Monogame, héritier de Microsoft XNA, j'ai développer toute une API qui s'avere exister aujourd'hui, je ne sais pas si elle existait a époque.
+
+Le theoreme de pythagore et la teigonometrie m'on ete tres utile
+
+#### Développement personnel
+
+##### Rigueur et retravail
 
 Démarche itérative avec demande de feed-back à chaque changement, besoin de ne pas renvoyer la balle mais de demander conseil sur le moment si possible pour encore plus d'agilité
 
-#### Amélioration continue
+##### Amélioration continue
 
 Doute constant et remise en question en sont la clé.
 
-#### Do it now
+##### Do it now
 
 Dès que l'on constate un problème, reflexe de réaliser la tâche dans la foulée ou de la planifier pour ne pas que l'information se perde
 
 
 
-#### Justification
+##### Justification
 
 Lorsque je commet une erreur, j'en assume la responsabilité, mais je me justifie souvent. Cela permet d'identifier les causes du problème. Dans le livre Lean Startup il est mentionné une phrase qui m'a marquée. L'idée est que lorsqu'une erreur survient, il est de notre responsabilité d'avoir rendue la faute si facile à commettre. Autrement dit, lorsqu'une personne faillit à sa tâche, il ne faut pas se remettre en question sa responsabilité ou sa compétence, mais se demander pourquoi l'environnement n'a pas permit la réussite de l'action et rendu la situation d'échec si probable qu'elle c'est produite.
 
@@ -1757,7 +1772,9 @@ WYSYWYG, Xerox Bravo
 
 NO MORE CLI NO MORE BLOCNOTE
 
+plus besoin d'alt tab entre votre ide et le navigateur 
 
+file drop upload on paths 
 
 Comment reproduire le problème ? => Cypress test
 
