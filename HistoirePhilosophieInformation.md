@@ -430,7 +430,9 @@ Dorian Blanchard
 
 La transmission d'information s'est fiabilisée au fil des époques, avec l'usage d'outils physique ; notamment des tablettes, plaques permettant de dessiner, d'écrire, lire, compter. Et ce jusqu'à pouvoir automatiser son traitement et son stockage, à l'aide de l'informatique, dont l'histoire ne commence qu'à la fin du 19e siècle.
 
-De nos jours, nous interagissons quotidiennement avec des ordinateurs, que ce soit à l'aide de la programmation, ou des interfaces qui en sont issues. Pourtant, la grande majorité des utilisateurs, et j'oserai même dire des personnes travaillant dans le domaine des Technologies de l'Information et de la Communication (TIC), ne connaissent pas le tiers des événements majeurs de son histoire. J'ai donc décider de me documenter et de rédiger un format accessible avec ce qui m'a semblé être nécessaire pour comprendre le sujet, et ainsi vous le partager à vous, lecteurs de cet ouvrage.
+De nos jours, nous interagissons quotidiennement avec des ordinateurs, que ce soit à l'aide de la programmation, ou des interfaces qui en sont issues. Pourtant, la grande majorité des utilisateurs, et même des personnes travaillant dans le domaine des Technologies de l'Information et de la Communication (TIC), ne connaissent pas la plupart des événements majeurs de son histoire.
+
+Moi même n'ayant pas cette connaissance lorsque j'ai entrepris la rédaction de ce mémoire, j'ai décidé de me documenter et de rédiger un format accessible, avec ce qui m'a semblé être nécessaire pour comprendre le sujet, et ainsi vous le partager à vous, lecteurs de cet ouvrage.
 
 Pour la rédaction de ce dernier, j'ai acquis 3 livres : la 4e édition de "Computer, A History of the Information Machine" de Martin Campbell-Kelly ; "The history of the computer : people, inventions, and technology that changed our world" de Rachel Ignotofsky, et "Histoire illustrée de l'informatique" d'Emmanuel Lazard et Pierre Mounier-Kuhn.
 
@@ -440,7 +442,7 @@ Tous ces livres ont leurs avantages grâce à une approche différente d'un mêm
 
 Dans ce mémoire, je vais revenir aux racines les plus ancestrales de la gestion de l'information, au vocabulaire du champ lexical qui y sont liés ou en découle, ainsi que leurs étymologies à travers leur Histoire qui représente toute la première partie de ce livre.
 
-J'aborderai aussi un sujet qui m'est cher, la programmation. Elle n'est pas forcement liée à l'informatique, c'est l'art de planifier et mettre en œuvre des étapes à suivre pour obtenir un résultat. Cela dit elle passe inévitablement par de la gestion de l'information, à l'aide d'écriture, lecture, chiffrement, déchiffrement, émission, et réception.
+J'aborderai aussi un sujet qui m'est cher, la programmation. Elle n'est pas forcement liée à l'informatique, c'est l'art de planifier et mettre en œuvre des étapes à suivre pour obtenir un résultat. Cela dit, elle passe inévitablement par de la gestion de l'information, à l'aide d'écriture, lecture, chiffrement, déchiffrement, émission, et réception.
 
 C'est également pourquoi je m’intéresserai de très près à l'apprentissage, très présent dans les technologies comme l'intelligence artificielle, qui représente l’acquisition et l'assimilation d'une information ou d'un système ; ainsi qu'à la pédagogie, propre à l'humain, animal social émotionnel ; et au rapport maître / élève.
 
@@ -504,11 +506,11 @@ Un abaque est un instrument facilitant le calcul. C'est un outil mnémonique uti
 
 Son étymologie est grecque ou hébreuse, elle explique bien sa représentation et son usage, la poussière (de l'hébreu abaq), ou tablette (du grec akos) qui servaient de support pour l'écrit, et pouvaient en être volontairement recouvertes, et ainsi réécrites à volonté avec du sable, ou toute autre poudres.
 
-Le plus vieux système de quantification connu est le bâton de comptage en **-40000**. C'est un système unaire, c'est a dire un système permettant de quantifier des unités représentées par la répétition d'un symbole, généralement un trait, aussi appelé marque de dénombrement. Le plus ancien est l'Os de Lebombo.
+Le plus vieux système de quantification connu est le bâton de comptage en **-40000**. C'est un système unaire, c'est à dire un système permettant de quantifier des unités, représentées par la répétition d'un symbole, généralement un trait, aussi appelé marque de dénombrement. Le plus ancien est l'Os de Lebombo.
 
-Cependant l'ensemble d'Os d'Ishango et le plus connu, qui serait hypothétiquement une des premières preuves de connaissance humaine des mathématiques et de l'arithmétique, dont un sur lequel on aperçoit les 4 nombres premiers entre 10 et 20, soit 11, 13, 17, et 19 ; ou un autre semblant démontrer les additions et les multiplication, notamment la duplication, avec la juxtaposition des nombres 3 et 6 puis 4 et 8.
+L'ensemble d'Os d'Ishango est cependant plus connu. Il serait hypothétiquement une des premières preuves de connaissance humaine des mathématiques et de l'arithmétique. Sur un des os, on aperçoit les 4 nombres premiers entre 10 et 20, soit 11, 13, 17, et 19 ; un autre semble démontrer les additions et les multiplication, notamment la duplication, avec la juxtaposition des nombres 3 et 6 puis 4 et 8.
 
-Cette méthode est restée, a l'époque, un berger pouvait s'assurer que l'intégralité de son troupeau etait rentré en comparant deux comptages, a l'aide de cailloux par example, chacun representant une bête. 
+Cette méthode est restée, à l'époque, un berger pouvait s'assurer que l'intégralité de son troupeau etait rentré en comparant deux comptages, a l'aide de cailloux par exemple, chacun représentant une bête. 
 
 De nos jours elle a été mécanisée pour compter par groupe de dix les manifestants a l'aide de compteurs manuels.
 
@@ -557,25 +559,27 @@ La division se pratiquait avec la multiplication par l'inverse, on a retrouver d
 
 La racine carrée était obtenue grâce aux tables de carrés, pour celles manquante, on pratiquait une approximation par interpolation linéaire.
 
-Cette discipline qu'est l'Algèbre est à ce moment de l'histoire avérée mais pas encore nommée, du moins pas en tant que tel, il faudra attendre le moyen âge pour cela.
+Cette discipline qu'est l'Algèbre est à ce moment de l'histoire avérée, mais pas encore nommée, du moins pas en tant que tel, il faudra attendre le moyen âge pour cela.
 
 
 
 #### Quipu
 
-Cet outil utilisé par les incas signifie "nœud" ou "compte" en quechua, il est en effet possible de faire un nœud simple avec plusieurs boucles, permettant ainsi d'enregistrer un chiffre, et donc des nombres, en base 10.
+Cet outil utilisé par les incas signifie "nœud", ou "compte" en quechua, il est en effet possible de faire un nœud simple avec plusieurs boucles, permettant ainsi d'enregistrer un chiffre, et donc des nombres, en base 10.
 
-Le plus ancien connu à été retrouvé sur le site archéologique de Caral, au Pérou, il est daté vers l'an **-2500**; le climat chaud et sec à permis sa bonne conservation.
+Le plus ancien connu à été retrouvé sur le site archéologique de Caral, au Pérou, il est daté vers l'an **-2500** ; le climat chaud et sec à permis sa bonne conservation.
 
-L'empire Inca ayant été constitué de plus de 12 millions d'individus, cet outil à été au cœur de son administration et à permis de recenser la population et gérer l'économie. Les experts du quipu se sont même rendus compte que plus d'un tiers comportaient des informations autres que des chiffres, aussi appelées informations qualitatives, en opposition aux informations quantitatives. Cet outil à donc également servi à transmettre des messages, composé d'un vocabulaire créé à partir de différentes couleurs, types de fils, de nœuds, ainsi que leurs positions et orientations.
+L'empire Inca ayant été constitué de plus de 12 millions d'individus, cet outil à été au cœur de son administration et à permis de recenser la population et gérer l'économie. Les experts du quipu se sont même rendus compte que plus d'un tiers comportaient des informations autres que des chiffres, aussi appelées informations qualitatives, en opposition aux informations quantitatives.
 
-En mathématique il y'a une branche très intéressante appelée une théorie des nœuds, elle fait partie de la sous branche de la topologie, c'est à dire l'étude de la déformation d'un objet sans arrachage ni recollage.   
+Cet outil à donc également servi à transmettre des messages, composé d'un vocabulaire créé à partir de différentes couleurs, types de fils, de nœuds, ainsi que leurs positions et orientations.
+
+En mathématique il existe une branche très intéressante appelée une théorie des nœuds, elle fait partie de la sous branche de la topologie, c'est à dire l'étude de la déformation d'un objet sans arrachage ni recollage.
 
 
 
 #### Boulier
 
-Le boulier ayant été utilisé par de nombreux peuples séparé, il voit le jour possiblement vers l'an **-2000**, utilisant le système de numération décimale (10), ou en base alternée (5, 2) pour certains modèles. Il permet un calcul rapide ; même récemment il arrive en tête de compétitions contre un opérateur électronique.
+Le boulier ayant été utilisé par de nombreux peuples séparés, il voit le jour possiblement vers l'an **-2000**, utilisant le système de numération décimale (10), ou en base alternée (5, 2) pour certains modèles. Il permet un calcul rapide, même récemment. Bien utilisé, il arrive en tête de compétitions contre des opérateurs électroniques.
 
 Par la suite, Romains, chinois, japonais, russes, mexicains, français, et bien d'autres, utilisent l'outil, et l'enseignent.
 
@@ -583,19 +587,23 @@ Par la suite, Romains, chinois, japonais, russes, mexicains, français, et bien 
 
 #### Code de Hammurabi
 
-Ce texte babylonien daté vers **-1750**, démontre l'existence de lois, notamment concernant les salaires, indiquant qu'il existait des corps de métiers bien définis.
+Ce texte babylonien daté vers **-1750**, est le plus complet connu à ce jour de la Mésopotamie Antique. Il démontre l'existence de lois, notamment concernant les salaires, indiquant qu'il existait des corps de métiers bien définis ; mais aussi sur le droit de la famille, la propriété, le système judiciaire, et bien d'autres.
+
+Ces lois décrivent des situation problématique auxquelles elles proposent des solution, ont dit qu'elle sont casuistique.
+
+À l'époque où Hammurabi succède à son père, il possède un petit territoire comportant tout de même des grandes villes, mais il est entouré de puissants royaumes, qu'il finira par vaincre et annexer, pour finir par dominer la région et fonder le royaume babylonien telle qu'on la connaît en tant que puissance culte du Proche Orient. La politique rédigée à sa gloire à l'aide ce code à donc certainement eu un rôle dans le développement de la société babylonienne jusqu’à son apogée, lui donnant à l'époque l'image d'un roi guerrier de justice, manifestation d'un dieu soleil sur terre.
 
 
 
 #### Thalès
 
-Né vers l'an **-620**, Thales fut un philosophe et mathématicien grec si important, que tous furent d'accord pour dire qu'il était l'un des plus grands sages de la Grèce antique. Il eu vécu et étudié en Égypte où il détermina la hauteur de pyramides, prédit des éclipses, et théorisa les crues du Nil. Il exporta la science de la géométrie en Grèce et on lui doit deux des plus vieux théorèmes géométrique qui portent son nom, encore étudiés aujourd'hui, bien que leurs démonstration n'est été avérée que plus tard.
+Né vers l'an **-620**, Thalès fut un philosophe et mathématicien grec si important, que tous furent d'accord pour dire qu'il était l'un des plus grands sages de la Grèce antique. Il eu vécu et étudié en Égypte où il détermina la hauteur de pyramides, prédit des éclipses, et théorisa les crues du Nil. Il exporta la science de la géométrie en Grèce et on lui doit deux des plus vieux théorèmes géométrique qui portent son nom, encore étudiés aujourd'hui, bien que leurs démonstration n'est été avérée que plus tard.
 
-Il est aussi l'un des fondateurs de astronomie, il travailla sur des éphémérides grâce auxquelles il a conseillé à des marins de se guider à l'aide de la petite ourse.
+Il est aussi l'un des fondateurs de astronomie, il travailla sur des éphémérides grâce auxquelles il a conseillé à des marins de se guider à l'aide de la petite ourse. Les tables de navigations encore utilisées de nos jours trouvent donc leurs racines dans l'Antiquité, sûrement même avant Thalès.
 
-Par ailleurs, il est le premier à avoir découvert qu'une année, qui à l'époque était pensée comme une révolution du soleil autour la Terre, ne prenait pas 365 jours mais 365 jours et un quart, d'où les années bissextiles. Mais aussi le premier à avoir prix connaissance de électricité grâce à l'ambre qui attire un tissus ou les propriété d'aimantation de l'oxyde de fer, ce qui lui valu d'être également considéré comme le premier physicien.
+Par ailleurs, il est le premier à avoir découvert qu'une année, qui à l'époque était pensée comme une révolution du soleil autour la Terre, ne prenait pas 365 jours mais 365 jours et un quart, d'où les années bissextiles. Il est également le premier à avoir pris connaissance de l'électricité, grâce à l'ambre qui attire un tissu ou les propriété d'aimantation de l'oxyde de fer, ce qui lui vaut d’ailleurs d'être considéré comme le premier physicien.
 
-Enfin, il fonda l'école milésienne qui inspirera les personnalités qui suivent ce récit.
+Enfin, il fonda l'école milésienne qui inspirera les personnalités antiques qui suivent ce récit.
 
 
 
@@ -603,9 +611,9 @@ Enfin, il fonda l'école milésienne qui inspirera les personnalités qui suiven
 
 Depuis longtemps, les humains ont eu besoin de communiquer des message à de longues distances, sans qu'ils ne se fassent intercepter, et encore moins décoder et lus voire pire, compris.
 
-Le plus ancien système d'encryption connu est la scytale spartiate vers **-600**. Utilisée pour transmettre des messages chiffrés par transposition sur un bande, généralement une ceinture en cuir portée pendant le transport, que l'on enroule autour d'un bâton pour l'écriture et la lecture. Le diamètre du bâton étant ainsi la clé d'encryption. Les lettres correspondait encore à leur propre valeur, et leur ordre dans le mot était conservé, malgré la présence de lettre entre chacune d’entre elles. Ces dernières étaient simplement mélangées et l'enroulage permettait de les réaligner afin d'en permettre la lecture.
+Le plus ancien système d'encryption connu est la scytale spartiate vers **-600**. Utilisée pour transmettre des messages chiffrés par transposition sur un bande, généralement une ceinture en cuir portée pendant le transport, que l'on enroule autour d'un bâton pour l'écriture et la lecture. Le diamètre du bâton étant ainsi la clé d'encryption. Les lettres correspondait encore à leur propre valeur, et leur ordre dans le mot était conservé, malgré la présence de lettre entre chacune d’entre elles. Ces dernières étaient simplement mélangées, et l'enroulage permettait de les réaligner afin d'en permettre la lecture.
 
-C'est ainsi que quelques années avant Jésus Christ, Jules César encodait ses messages en utilisant un code éponyme. Cette encryptions simple utilisait un décalage d'un certain nombre de lettres de l'alphabet. A vaut D, B vaut E, Z vaut C, etc...
+Quelques années avant Jésus Christ, Jules César encodait ses messages en utilisant un code éponyme. Cette encryption simple utilisait un décalage d'un certain nombre de lettres de l'alphabet. A vaut D, B vaut E, Z vaut C, etc...
 
 On remarque que l’encryption était dès le début utilisée pour transmettre des messages sensibles, notamment liés à la guerre. Cet outil à d'ailleurs été considéré comme arme de guerre jusqu’à récemment, où la plupart des techniques de cryptographies issues du domaine militaire sont devenues publiques. Malgré cela, encore aujourd'hui les gouvernements appellent à retirer l'anonymat sur internet ou à avoir des portes dérobées dans les chiffrements afin d'en permette la lecture par une autorité en cas de besoin.
 
@@ -613,11 +621,13 @@ On remarque que l’encryption était dès le début utilisée pour transmettre 
 
 #### Pythagore
 
-Né vers l'an **-580**, Pythagore, fonda lui aussi un établissement d'enseignement, l'école Pythagoricienne, qui deviendra progressivement une confrérie, à la fois religieuse et scientifique où les femmes et les étrangers était admis, sous réserve de passer de multiples paliers.
+Né vers l'an **-580**, Pythagore, fonda lui aussi un établissement d'enseignement, l'école Pythagoricienne, qui deviendra progressivement une confrérie, à la fois religieuse et scientifique où les femmes et les étrangers auraient étaient admis, sous réserve de passer de multiples paliers.
 
-On y étudier notament 4 matières, l'arithmétique, la musique, la géométrie, et l'astronomie.
+On y étudiait notamment 4 matières, l'arithmétique, la musique, la géométrie, et l'astronomie.
 
 Il aurait été le premier à dire que la Terre était ronde, à découvrir les lois harmoniques en musique, et même la première personnalité connue adepte du végétarisme, qu'il associait à une volonté de ne pas consommer la vie animale, que l'on doit ôter avec abomination, pour "qu'un corps s’engraisse d’un autre corps".
+
+Le théorème de Pythagore, bien qu'il porte son nom, était déjà connu du temps de la Mésopotamie, plus d'un millénaire avant lui. Il l'a malgré tout sûrement popularisé et fait entré dans les communautés scientifique de l'époque, et de celles qui suivent. Euclide en fera la plus ancienne démonstration connue, trois siècles après.
 
 
 
@@ -1718,9 +1728,9 @@ Né le 21 novembre **1694**
 
 ### Jean-Jacques Rousseau
 
-Né en 1712 Rousseau était orphelin et errant, persécuté par l'Église et la république de Genève. Il était également autodidacte, et appris à l'aide de lectures de Descartes, Lockes, Malebranche, Leibniz, et bien d'autres. Sa pensée philosophique repose sur l'idée que l'Homme est naturellement bon et que la société et les règles qui en émanent viennent nous corrompre, renonçant à notre liberté naturelle au profit de la liberté civile. 
+Né en **1712** Rousseau était orphelin et errant, persécuté par l'Église et la république de Genève. Il était également autodidacte, et appris à l'aide de lectures de Descartes, Lockes, Malebranche, Leibniz, et bien d'autres. Sa pensée philosophique repose sur l'idée que l'Homme est naturellement bon et que la société et les règles qui en émanent viennent nous corrompre, renonçant à notre liberté naturelle au profit de la liberté civile. 
 
-Malgré cela il affirme que le peuple est souverain, et qu'il doit converger vers l’intérêt commun, qu'il appella *volonté générale*. Il traitera également des rapports de forces et de la place de l'autorité, déclarant que la "force ne fait pas droit, et qu'on n'est obligés d'obéir qu'aux puissances légitimes".
+Malgré cela il affirme que le peuple est souverain, et qu'il doit converger vers l’intérêt commun, qu'il appela *volonté générale*. Il traitera également des rapports de forces et de la place de l'autorité, déclarant que la "force ne fait pas droit, et qu'on n'est obligés d'obéir qu'aux puissances légitimes".
 
 En effet, depuis la sédentarisation, l'Homme apprends de plus de pairs différents et doit collaborer afin de trouver des solutions communes, généralement en mettant ses sentiments de côté et en trouvant des "jeux" qui conviennent à la majorité.
 
@@ -1742,23 +1752,19 @@ Levi Strauss déclarera qu'il est le fondateur de l'anthropologie, étude de l'�
 
 Né en 1724, il est le fondateur du criticisme et de l'idéalisme transcendantal. Il a été une grande influence pour la philosophie moderne et la pensée critique. Grand adepte de la connaissance pratique et esthétique, il axa sa philosophie sur la capacité à savoir et quoi faire ou espéré en fonction de cette dernière. Il invite donc à être raisonnable, tout en faisant preuve de rigueur et ainsi n'accepter que la connaissance que l'on peut démontrer et résistante à la critique.
 
-Il a également affirmer que la connaissance trouve son origine dans le sujet humain et non pas dans l'objet étudié. C'est à dire que la construction de la réalité ne sera jamais pleinement représentative de l'objet étudié, mais un long apprentissage itératif de l'humain afin de s'en rapprocher assez pour le connaître.
+Il a également affirmé que la connaissance trouve son origine dans le sujet humain et non pas dans l'objet étudié. C'est à dire que la construction de la réalité ne sera jamais pleinement représentative de l'objet étudié, mais un long apprentissage itératif de l'humain afin de s'en rapprocher assez pour le connaître.
 
-Il traitera également beaucoup la question du dogme, indiquant que l'athéisme est une croyance au même titre que les autres, et qu'il faut malgré tout savoir limité son savoir pour laisser une place à la croyance, sans laquelle, on ne peut concevoir le monde.
+Il traitera également beaucoup la question du dogme, indiquant que l'athéisme est une croyance au même titre que les autres, et qu'il faut malgré tout savoir limiter son savoir pour laisser une place à la croyance, sans laquelle, on ne peut concevoir le monde et emettre des hypothèses.
 
 
 
 ### Pédagogie moderne
 
-Né en 1746, Johann Heinrich Pestalozzi, est un pionnier de la pédagogie moderne, pédagogue éducateur et penseur suisse, tout comme Rousseau dont il a été inspiré, il dédia sa vie à l'éducation des enfants pauvres et fonda des orphelinats.
+Né en **1746**, Johann Heinrich Pestalozzi, est un pionnier de la pédagogie moderne, pédagogue éducateur et penseur suisse, tout comme Rousseau dont il a été inspiré, il dédia sa vie à l'éducation des enfants pauvres et fonda des orphelinats.
 
 
 
 Philosophie de l'éducation et axiologie, qu'elle est la valeur de l'éducation et de l'enseignement aujourd'hui ? On sait désormais que l'apprentissage se fait mieux par la récompense que la punition. Il est plus productif d'encourager un bon comportement que de réprimander un mauvais, bien que cela est parfois nécessaire, il faut toujours mieux orienter sa pédagogie de manière positive.
-
-
-
-livre transmission
 
 
 
@@ -1795,6 +1801,26 @@ Né le 30 août **1879**
 ### Célestion Freinet
 
 Né le 15 octobre **1896**
+
+
+
+### Claude Lévi-Strauss
+
+Né en 1908
+
+
+
+### Norbert Wiener
+
+En **1947** par le mathématicien Norbert Wiener décrit la **cybernétique**, l'étude des mécanismes d'information des systèmes complexes et leur analogies entre les organismes vivants et les machines. Ils mettent en avant la rétroaction, et la téléologie très présente dans ce domaine. La cybernétique trouve son origine étymologique du grec kubernêtikê qui signifir gouverner dans le sens de diriger un navire. 
+
+L'une des premières machines pourvues de rétroaction est le régulateur à boules de James Watt en 1788 qui permettait de réguler la vitesse de rotation d'une vachine à vapeur.
+
+https://fr.wikipedia.org/wiki/Auto-organisation
+
+Le mouvement cybernétique ralliera de nombreux mathématicien dont John Von Neumann.
+
+
 
 
 
@@ -1847,22 +1873,6 @@ Logo
 Montessorri
 
 
-
-### Claude Lévi-Strauss
-
-Né en 1908
-
-
-
-### Norbert Wiener
-
-En **1947** par le mathématicien Norbert Wiener décrit la **cybernétique**, l'étude des mécanismes d'information des systèmes complexes et leur analogies entre les organismes vivants et les machines. Ils mettent en avant la rétroaction, et la téléologie très présente dans ce domaine. La cybernétique trouve son origine étymologique du grec kubernêtikê qui signifir gouverner dans le sens de diriger un navire. 
-
-L'une des premières machines pourvues de rétroaction est le régulateur à boules de James Watt en 1788 qui permettait de réguler la vitesse de rotation d'une vachine à vapeur.
-
-https://fr.wikipedia.org/wiki/Auto-organisation
-
-Le mouvement cybernétique ralliera de nombreux mathématicien dont John Von Neumann.
 
 
 
@@ -2181,7 +2191,15 @@ Conscience
 metacognition
 mémoire onirique
 
+
+
 ## Annexes
+
+
+
+#### Bibliographie
+
+Transmette - Christophe André
 
 
 
@@ -2262,18 +2280,6 @@ https://www.youtube.com/watch?v=eIpoA7Ir9p8
 https://www.youtube.com/watch?v=7XTHdcmjenI
 
 https://www.youtube.com/watch?v=Ag1AKIl_2GM
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
