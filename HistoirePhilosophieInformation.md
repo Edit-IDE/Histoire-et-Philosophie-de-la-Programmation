@@ -91,32 +91,33 @@ Dorian Blanchard
       12. [IBM CPC](#IBM-CPC)
       13. [Ferranti Mark I](#Ferranti-Mark-I)
       14. [UNIVAC 1](#UNIVAC-1)
-      15. [IBM-701](#IBM-701)
-      16. [IBM-702](#IBM-702)
-      17. [Mémoire à tores magnétiques](#Mémoire-à-tores-magnétiques)
-      18. [IBM 650](#IBM-650)
-      19. Rachat de Eckert and Mauchly Computer Corporation par Remington Rand (1950)
-      20. Remington Rand UNIVAC I (1951 )
-      21. Premier compilateur (A-0 System Grace Hopper 1951)
-      22. [IBM 701](#IBM 701)
-      23. Z5 (1953)
-      24. IBM 650 (1954)
-      25. Remington Racheté par Sperry Corporation qui deviendra Unisys après fusion avec Burroughs
-      26. Flow - Matic (1955 par grace hopper)
-      27. TRADIC premier ordinateur a transistors (1955)
-      28. Premiers languages haux niveau - Structures de contrôle et de donnes
+      15. [A-0 System](#A-0-System)
+      16. [IBM-701](#IBM-701)
+      17. [IBM-702](#IBM-702)
+      18. [Mémoire à tores magnétiques](#Mémoire-à-tores-magnétiques)
+      19. [IBM 650](#IBM-650)
+      20. [IBM 701](#IBM 701)
+      21. [IBM 702](#IBM 702)
+      22. [Mémoire à tores magnétiques](#Mémoire-à-tores-magnétiques)
+      23. [Z5](#Z5)
+      24. [IBM 650](#IBM-650)
+      25. [TRADIC](#TRADIC)
+      26. [Spoutnik 1](#Spoutnik-1)
+      27. [IBM 1401](#IBM-1401)
+      28. Premiers langages haut niveau - Structures de contrôle et de donnes
           1. plankalkul eniac ssem speedcoding Flow-Matic
           2. fortran 1957 John Backus
           3. lisp 1958 John Mc Carthy
           4. cobol 1959
       29. Circuit integré (1958)
-      30. Théorie algorithmique de linformation (1960)
+      30. Théorie algorithmique de l'information (1960)
       31. Spacewar! (1962)
       32. Programma 101 (1965)
-      33. [Dendral](#Dendral)
-      34. Eliza (1966)
-      35. Intel et Moore (1968)
-      36. Arpanet (1969)
+      33. [Souris](#Souris)
+      34. [Dendral](#Dendral)
+      35. Eliza (1966)
+      36. Intel et Moore (1968)
+      37. Arpanet (1969)
    9. [Popularisation et Mondialisation](#Popularisation et Mondialisation)
       1. Atari Pong (1972)
       2. [Altair 8800](#Altair 8800)
@@ -1378,6 +1379,8 @@ IBM 602 & 603 **1946**
 
 La mort de leur investisseur principal lors d'un trajet en avion les poussera à revendre leur entreprise à Remington par la suite.
 
+Remington Racheté par Sperry Corporation qui deviendra Unisys après fusion avec Burroughs
+
 
 
 #### Trackball
@@ -1436,6 +1439,10 @@ Rival de l'EDSAC et du BINAC, il fait son apparition la même année en **1949**
 
 
 
+Premier compilateur (A-0 System Grace Hopper 1951)
+
+
+
 #### Ferranti Mark I
 
 Le Ferranti Mark 1, aussi connu comme le Manchester Electronic Computer, est le premier ordinateur électronique généraliste commercialisé du monde et le second au monde après l’ordinateur électromécanique Z4. Il a été créé en **1951**.
@@ -1444,7 +1451,13 @@ Le Ferranti Mark 1, aussi connu comme le Manchester Electronic Computer, est le 
 
 #### UNIVAC 1
 
-Sorti en **1951** MAGNETIC TAPE STORAGE start and stop tape rapidement avec des servomoteurs, plastic -> déforme -----> métal résistant, travail pour écrire et lire dessus
+Sorti en **1951** par Remington Rand, MAGNETIC TAPE STORAGE start and stop tape rapidement avec des servomoteurs, plastic -> déforme -----> métal résistant, travail pour écrire et lire dessus
+
+
+
+#### A-0 System
+
+Grace Hopper, docteur en mathématiques, officier de la marine, et informaticienne américaine ; a créé en **1951** le Arithmetic Language, qui est le premier compilateur. Il aura plusieurs version jusqu’à arriver au B-0 Flow-matic qui est à l'origine du COBOL. Comme tout les compilateurs, il prends un code et le converti en code machine exécutable, ce que le A-0 réalisait en établissant des liens entre les programmes et sous-programmes ainsi que leurs paramètres.
 
 
 
@@ -1493,35 +1506,59 @@ Cette technologie à poussé IBM a rééditer ses modèles 701 et 702 avec ce ty
 
 
 
+#### Z4
+
+en 1953
+
+
+
 #### IBM 650
 
 Créé en **1954** c'est le modèle le plus populaire des années 50, et pour cause, il coûtait seulement un quart du prix d'un 701, et a été vendu à de nombreuses universités, créant toute une génération de programmeur. Faisant de lui le premier ordinateur produit en masse dans le monde et la première machine d'IBM à réaliser un profit significatif.
 
 
 
+#### TRADIC
+
+Créé aux États-Unis en **1955**, le TRAnsistor DIgital Computer a été premier ordinateur à transistors.
+
+
+
 #### Spoutnik 1
 
-1957
+**1957**
 
 
 
 #### IBM 1401
 
-Fabriqué entre 1959 et 1965, il a été l'ordinateur à transistor le plus vendu, notamment grâce à la politique marketing d'IBM qui a adopter une vision globale, dans l'objectif de prendre en compte le maximum d'utilisateurs et donc clients potentiels, politique qui avait déjà fait ses preuves avec le modèle 650. IBM à ainsi créer plus qu'un ordinateur, un système complet, avec une imprimante pouvant imprimer 600 lignes par minutes, principale raison d'achat ayant fait son succès. 
+Fabriqué entre **1959** et 1965, il a été l'ordinateur à transistor le plus vendu, notamment grâce à la politique marketing d'IBM qui a adopter une vision globale, dans l'objectif de prendre en compte le maximum d'utilisateurs et donc clients potentiels, politique qui avait déjà fait ses preuves avec le modèle 650. IBM à ainsi créer plus qu'un ordinateur, un système complet, avec une imprimante pouvant imprimer 600 lignes par minutes, principale raison d'achat ayant fait son succès. 
 
 Par la même occasion, IBM invente le Report Program Generator (RPG), un langage de programmation haut niveau facile à comprendre, permettant aux comptables et techniciens de tabulatrices de se "reconvertir", en utilisant des concepts qu'ils connaissent et utilisaient déjà sur les panneaux de contrôles, où ils branchaient des câbles pour implémenter les entrées, calculs, et sorties. Ils pouvaient ainsi programmer sans apprendre toutes les arcanes de l'assembleur, du COBOL, ou encore du FORTRAN. Malgré cela, beaucoup de client préféraient demander les logiciels directement à IBM, qui avait un monopole si important qu'ils pouvaient se permettre de les livrer "gratuitement" avec les machines qu'ils louaient.
 
 
 
+#### Computionnalisme
+
+**1961**
+
+
+
 #### Souris
 
-1965
+**1965**
 
 
 
-#### Apollo 1 
-
-En 1967 la lune parait de nouveau inaccessible aux américains, sous Kennedy.
+1. Premiers languages haux niveau - Structures de contrôle et de donnes
+   1. plankalkul eniac ssem speedcoding Flow-Matic
+   2. fortran 1957 John Backus
+   3. lisp 1958 John Mc Carthy
+   4. cobol 1959
+2. Circuit integré (1958)
+3. Théorie algorithmique de l'information (1960)
+4. Spacewar! (1962)
+5. Programma 101 (1965)
 
 
 
@@ -1533,27 +1570,45 @@ Il a par la suite été utilisé comme outil d'aide à la décision. Pour des mo
 
 
 
+#### Eliza
+
+C'est une intelligence artificielle conversationnelle créée **1966** dans le but de simuler un psychothérapeute, notamment en tournant des affirmations de l'utilisateur en questions.
+
+
+
+#### Apollo 1 
+
+En **1967** la lune parait de nouveau inaccessible aux américains, sous Kennedy.
+
+
+
+#### Intel et Moore
+
+**1968**
+
+
+
 #### Amstrad
 
-1968
+**1968**
 
 
 
 #### Microprocesseur
 
-En 1969, le microprocesseur est inventé par Federico Faggin, et Marcian Hoff, un ingénieur et physicien d'Intel, 
+En **1969**, le microprocesseur est inventé par Federico Faggin, et Marcian Hoff, un ingénieur et physicien d'Intel, 
 
 
 
 #### Arpanet et Cyclades
 
-1969 et 1972 (Louis Pouzin)
+**1969** et 1972 (Louis Pouzin)
 
 
 
 #### Apollo 11
 
-Apollo Guidance Computer en 1969, Margaret Hamilton
+Apollo Guidance Computer en **1969**, Margaret Hamilton
 
 
 
@@ -1603,7 +1658,19 @@ Jusqu'alors, l'informatique était essentiellement réservé aux domaines privé
 
 #### Minitel
 
-Présenté en 1978 mais sorti en **1980**, le Minitel est un ordinateur connecté à un réseau et donc appellé Terminal. Il utilisait le réseau Transpac pour faire tourner le sien, "Télétel" auxquel il se connectait à l'aide d'un modem. Il possédait une mémoire de 8,25 ko, et un processseur Intel 8052
+Présenté en 1978 mais sorti en **1980**, le Minitel est un ordinateur connecté à un réseau et donc appelé Terminal. Il utilisait le réseau Transpac pour faire tourner le sien, "Télétel" auquel il se connectait à l'aide d'un modem. Il possédait une mémoire de 8,25 ko, et un processeur Intel 8052
+
+
+
+#### La chambre chinoise
+
+Cette expérience de pensée à été imaginée par un philosophe américain nommé John Searle vers **1980**. Alors qu'il lit un livre sur l'intelligence artificielle et la manière dont la machine interprète et créer du texte, il se demanda alors si un programme informatique pouvait recréer un esprit numérique.
+
+Il énonce alors une situation ou un humain n'ayant aucune connaissance du chinois est enfermé dans une pièce, avec une table de questions et réponse à des phrases chinoises. Un examinateur extérieur parlant réellement chinois (sinophone) lui pose alors des questions, le programme humain se repose alors sur la syntaxe des phrases, retrouvant la réponse correspondante et l'appliquant, produisant des réponses. Du point de vue de l'examinateur sinophone les réponses qu'il obtient correspondent bien à celles d'un de ses semblables. Pour autant, elle sont produites par quelqu'un qui ne parle pas un mot de chinois, et ne comprends sûrement pas le sens des phrases qu'il reçoit ou émet. 
+
+Il démontra qu'une intelligence artificielle ne peut actuellement que simuler un esprit ou une pensée, et qu'elle est dans l'incapacité de recréer une réelle conscience ou intentionnalité. Cela démontre aussi que le test de Turing est insuffisant pour déterminer si ses caractéristiques sont présentes chez une IA, en effet, dans son expérience, les réponses du programme humain ne sont pas différentes de celle d'un sinophone, puisqu'elles proviennent de tables de correspondances, et que l'examinateur ne peut malgré tout pas faire la différence avec un natif car cela se base sur de l'écrit. Pour autant, bien qu'il finisse par maîtriser la manipulation des symboles pour reconnaître des schémas et former des réponses cohérentes, il ne connaîtra et comprendra toujours pas un traître mot ou signification derrière les symboles qu'il utilise.
+
+Cela à permis de redéfinir plus précisément l'intentionnalité, à la fois comme la capacité de l'esprit, émanent du cerveau, de rendre l'organisme conscient de son environnement grâce à sa perception subjective, et en dérivé de lui permettre d'être un locuteur qui doit en plus de ce qui est dit avant, formuler dans son esprit, la phrase qu'il va prononcer. Autrement dit, c'est parce l'humain est conscient qu'il peut penser et parler intentionnellement. Un locuteur humain a conscience de ce que signifient ses dires à travers la sémantique qu'il accorde aux mots qu'il utilise, et au fond de son discours.
 
 
 
