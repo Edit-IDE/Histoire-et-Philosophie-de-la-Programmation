@@ -38,28 +38,53 @@ Dorian Blanchard
       22. [Ménélaos](#Ménélaos)
       23. [Ptolémée](#Ptolémée)
    3. [Moyen Âge](#Moyen Âge)
-      1. [Aryabhata](#Aryabhata)
-      2. [Algèbre et Algorithme](#Algèbre-et-Algorithme)
-      3. [Fibonnacci](#Fibonnacci)
-   4. [Epoque moderne](#Epoque moderne)
-      1. [Wilhelm Schikard](#Wilhelm Schikard)
-      2. [Calculateurs](#Calculateurs)
-      3. [Bâtons de Napier](#Bâtons de Napier)
-      4. [Règle coulissante à calculer](#Règle coulissante à calculer)
-      5. [Pascaline](#Pascaline)
-      6. [Binaire](#Binaire)
-      7. [Cartes perforées](#Cartes perforées)
-   5. [Epoque comtemporaine](#Epoque comtemporaine)
-      1. [Dactylographie](#Dactylographie)
-      2. [Arithmomètre](#Arithmomètre)
-      3. [Machine à différence et analytique](#Machine à différence et analytique)
-      4. [Arithmaurel](#Arithmaurel)
-      5. [Programmation](#Programmation)
-      6. [Algèbre de Boole](#Algèbre de Boole)
-      7. [Remington](#Remington)
-      8. [Mécanographie](#Mécanographie)
-      9. [Tube a vide](#Tube a vide)
-      10. [Triode](#Triode)
+      1. [Aryabhata](#aryabhata)
+      2. [Algèbre et Algorithme](#algèbre-et-algorithme)
+      3. [Hindu–Arabic numeral system](#hinduarabic-numeral-system)
+      4. [Al-Battani](#al-battani)
+      5. [Gerbert d'Aurillac](#gerbert-daurillac)
+      6. [Hermann Contract](#hermann-contract)
+      7. [Al Zarqali](#al-zarqali)
+      8. [Abraham bar Hiyya Hanassi](#abraham-bar-hiyya-hanassi)
+      9. [Fibonacci](#fibonnacci)
+      10. [Typographie](#Typographie)
+      11. [Leon Battista Alberti](#leon-battista-alberti)
+      12. [Luca Pacioli](#luca-pacioli)
+   4. [Époque moderne](#Epoque moderne)
+      1. [Nicolas Copernic](#nicolas-copernic)
+      2. [Giambattista della Porta](#giambattista-della-porta)
+      3. [Wilhelm Schickard](#wilhelm-schickard)
+      4. [Calculateurs](#calculateurs)
+      5. [Bâtons de Napier](#bâtons-de-napier)
+      6. [Règle coulissante à calculer](#règle-coulissante-à-calculer)
+      7. [Pascaline](#pascaline)
+      8. [Binaire](#binaire)
+      9. [Cartes perforées](#cartes-perforées)
+      10. [Comète de Halley](#comète-de-halley)
+   5. [Époque contemporaine](#Époque-contemporaine)
+      1. [Almanach nautique](#almanach-nautique)
+      2. [Dactylographie](#dactylographie)
+      3. [Arithmomètre](#arithmomètre)
+      4. [Machine à différence et analytique](#machine-à-différence-et-analytique)
+      5. [Maison d'échanges](#maison-déchanges)
+      6. [Télégraphe](#télégraphe)
+      7. [Arithmaurel](#arithmaurel)
+      8. [Programmation](#programmation)
+      9. [Algèbre booléen](#algèbre-booléen)
+      10. [Remington](#remington)
+      11. [Diode](#diode)
+      12. [Téléphone](#téléphone)
+      13. [Edison](#edison)
+      14. [NCR](#ncr)
+      15. [Burroughs Corporation](#burroughs-corporation)
+      16. [Comptomètre](#comptomètre)
+      17. [Calculatrices à crosses](#calculatrices-à-crosses)
+      18. [Oscilloscope](#oscilloscope)
+      19. [Mécanographie](#mécanographie)
+      20. [Tube a vide](#tube-a-vide)
+      21. [Séparation de l'État et de l'Église](#séparation-de-létat-et-de-léglise)
+      22. [Triode](#triode)
+      23. [Tube cathodique](#tube-cathodique)
    6. [Après la première guerre mondiale](#Après la première guerre mondiale)
       1. [Tabulatrices](#Tabulatrices)
       2. [Enigma](#Enigma)
@@ -67,10 +92,11 @@ Dorian Blanchard
       4. [Bande magnétique cassettes audio](#Bande magnétique cassettes audio )
       5. [IBM 601](#IBM 601)
       6. [Mémoire tambour](#Mémoire tambour)
-      7. [Machine de Turing](#Machine de Turing)
-      8. [Z1 Zuse Konrad](#Z1 Zuse Konrad)
-      9. [Atanasoff Berry Computer](#Atanasoff Berry Computer)
-      10. [Hewlett Packard](#Hewlett Packard)
+      7. [RADAR](#RADAR)
+      8. [Machine de Turing](#Machine de Turing)
+      9. [Z1 Zuse Konrad](#Z1 Zuse Konrad)
+      10. [Atanasoff Berry Computer](#Atanasoff Berry Computer)
+      11. [Hewlett Packard](#Hewlett Packard)
    7. [Seconde guerre mondiale](#Seconde guerre mondiale)
       1. [Z2](#Z2)
       2. [Z2](#Z3)
@@ -82,57 +108,68 @@ Dorian Blanchard
       3. [Naissance de la Eckert-Mauchly Computer Corporation](#Naissance de la Eckert-Mauchly Computer Corporation)
       4. [Trackball](#Trackball)
       5. [Transistor](#Transistor)
-      6. [Théorie de l'information](#Théorie de l'information)
-      7. [SSEM](#SSEM)
-      8. [Manchester Mark I](#Manchester-Mark-I)
+      6. [SSEM](#SSEM)
+      7. [Manchester Mark I](#Manchester-Mark-I)
+      8. [Théorie de l'information](#Théorie de l'information)
       9. [IBM 604](#IBM-604)
       10. [IBM 407](#IBM-407)
       11. [EDSAC & BINAC](#EDSAC & BINAC)
       12. [IBM CPC](#IBM-CPC)
       13. [Ferranti Mark I](#Ferranti-Mark-I)
       14. [UNIVAC 1](#UNIVAC-1)
-      15. [IBM-701](#IBM-701)
-      16. [IBM-702](#IBM-702)
-      17. [Mémoire à tores magnétiques](#Mémoire-à-tores-magnétiques)
-      18. [IBM 650](#IBM-650)
-      19. Rachat de Eckert and Mauchly Computer Corporation par Remington Rand (1950)
-      20. Remington Rand UNIVAC I (1951 )
-      21. Premier compilateur (A-0 System Grace Hopper 1951)
-      22. [IBM 701](#IBM 701)
-      23. Z5 (1953)
-      24. IBM 650 (1954)
-      25. Remington Racheté par Sperry Corporation qui deviendra Unisys après fusion avec Burroughs
-      26. Flow - Matic (1955 par grace hopper)
-      27. TRADIC premier ordinateur a transistors (1955)
-      28. Premiers languages haux niveau - Structures de contrôle et de donnes
+      15. [A-0 System](#A-0-System)
+      16. [LEO I](#LEO-I)
+      17. [IBM 701](#IBM-701)
+      18. [IBM 702](#IBM-702)
+      19. [Mémoire à tores magnétiques](#Mémoire-à-tores-magnétiques)
+      20. [Z4](#Z4)
+      21. [IBM 650](#IBM-650)
+      22. [Z5](#Z5)
+      23. [TRADIC](#TRADIC)
+      24. [Spoutnik 1](#Spoutnik-1)
+      25. [Premiers langages haut niveau - Structures de contrôle et de données](#Premiers langages haut niveau - Structures de contrôle et de données)
           1. plankalkul eniac ssem speedcoding Flow-Matic
-          2. fortran 1957 John Backus
-          3. lisp 1958 John Mc Carthy
-          4. cobol 1959
-      29. Circuit integré (1958)
-      30. Théorie algorithmique de linformation (1960)
-      31. Spacewar! (1962)
-      32. Programma 101 (1965)
+          2. [Fortran](#Fortran)
+          3. [Lisp](#Lisp)
+          4. [Cobol](#Cobol)
+      26. [Circuit integré](#Circuit integré)
+      27. [IBM 1401](#IBM-1401)
+      28. [Théorie algorithmique de l'information](#Théorie-algorithmique-de-l'information)
+      29. [Computationnalisme](#Computationnalisme)
+      30. [Spacewar!](#Spacewar!)
+      31. [Programma 101](#Programma-101)
+      32. [Souris](#Souris)
       33. [Dendral](#Dendral)
-      34. Eliza (1966)
-      35. Intel et Moore (1968)
-      36. Arpanet (1969)
+      34. [Eliza](#Eliza)
+      35. [Apollo 1](#Apollo-1)
+      36. [Intel et Moore](#Intel-et-Moore)
+      37. [Amstrad](#Amstrad)
+      38. [Microprocesseur](#Microprocesseur)
+      39. [Arpanet et Cyclades](#Arpanet-et-Cyclades)
+      40. [Apollo 11](#Apollo-11)
    9. [Popularisation et Mondialisation](#Popularisation et Mondialisation)
-      1. Atari Pong (1972)
+      1. [Atari Pong](#Atari-Pong)
       2. [Altair 8800](#Altair 8800)
-      3. Mémoire flash et stockage optique Optical Storage (Disc 1980)
-      4. Pac Man (1980)
-      5. Www (1990 Tim Berners Lee) web semantique Rose Dieng Kuntz
-      6. Deep Blue beats Gary Kasparov (1997)
-      7. Honda asimo (2000)
-      8. Roomba (2002)
-      9. Darpa Grand Challenge (2005)
-      10. Imagenet (2009)
-      11. Watson gagne Joepardy (2011)
-      12. First commercial autonomous drone DJI (2013)
-      13. Alphago (2015)
-      14. Boston Dynamics 
-3. Présent (21e siècle)
+      3. [Homebrew computer club](#Homebrew-computer-club)
+      4. [Minitel](#Minitel)
+      5. [Chambre chinoise](#Chambre-chinoise)
+      6. [Mémoire flash et stockage optique](#Mémoire-flash-et-stockage-optique)
+      7. [Pac Man](#Pac-Man)
+      8. [Osborne 1](#Osborne-1)
+      9. [Xerox Star](#Xerox-Star)
+      10. [IBM PC 5150](#IBM PC 5150)
+      11. [World Wide Web](#World-Wide-Web)
+      12. [Deep Blue](#Deep-Blue)
+      13. [Honda asimo](#Honda asimo)
+      14. [Roomba](#Roomba)
+      15. [Darpa Grand Challenge](#Darpa-Grand-Challenge)
+      16. [Imagenet](#Imagenet)
+      17. [Watson gagne Joepardy](#Watson gagne Joepardy)
+      18. [Premier drone commercial autonome](#Premier-drone-commercial-autonome)
+      19. [Alphago](#Alphago)
+      20. [Boston Dynamics](#Boston-Dynamics)
+   10. [Bilan passé](#Bilan-passé)
+3. Présent
    1. Concepts
    2. Appareils
       1. Ordinateurs portables
@@ -267,7 +304,7 @@ Dorian Blanchard
       - [Fibonnacci](#fibonnacci)
       - [Leon Battista Alberti](#leon-battista-alberti)
       - [Luca Pacioli](#luca-pacioli)
-    - [Epoque moderne](#epoque-moderne)
+    - [Époque moderne](#Époque-moderne)
       - [Nicolas Copernic](#nicolas-copernic)
       - [Giambattista della Porta](#giambattista-della-porta)
       - [Wilhelm Schickard](#wilhelm-schickard)
@@ -621,7 +658,7 @@ On remarque que l’encryption était dès le début utilisée pour transmettre 
 
 #### Pythagore
 
-Né vers l'an **-580**, Pythagore, fonda lui aussi un établissement d'enseignement, l'école Pythagoricienne, qui deviendra progressivement une confrérie, à la fois religieuse et scientifique où les femmes et les étrangers auraient étaient admis, sous réserve de passer de multiples paliers.
+Né vers l'an **-580**, Pythagore, fonda lui aussi un établissement d'enseignement, l'école Pythagoricienne, qui deviendra progressivement une confrérie, voire une sorte de secte, à la fois religieuse et scientifique, où les femmes et les étrangers auraient étaient admis, sous réserve de passer de multiples paliers.
 
 On y étudiait notamment 4 matières, l'arithmétique, la musique, la géométrie, et l'astronomie.
 
@@ -629,21 +666,23 @@ Il aurait été le premier à dire que la Terre était ronde, à découvrir les 
 
 Le théorème de Pythagore, bien qu'il porte son nom, était déjà connu du temps de la Mésopotamie, plus d'un millénaire avant lui. Il l'a malgré tout sûrement popularisé et fait entré dans les communautés scientifique de l'époque, et de celles qui suivent. Euclide en fera la plus ancienne démonstration connue, trois siècles après.
 
+Il est le premier à avoir, à travers sa philosophie et son enseignement, conçu le monde à l'aide des mathématiques, pour lui, toute chose est nombre. La quantification à permis à l’humanitée de comprendre et expliquer le monde qui l'entoure.
+
 
 
 #### Dialectique
 
-La Dialectique est étymologiquement l'art de parler en conservant et distinguant sa parole de celle de son interlocuteur. Elle repose sur un dialogue ou les deux participants tentent de ce convaincre mutuellement dans le but de se rapprocher de la vérité. La première personne connue à l'avoir mis en évidence est le philosophe présocratique Zénon d'Élée né en **-490**. 
+La Dialectique est étymologiquement l'art de parler en conservant et distinguant sa parole de celle de son interlocuteur. Elle repose sur un dialogue où les deux participants tentent de se convaincre mutuellement dans le but de se rapprocher de la vérité. La première personne connue à l'avoir mis en évidence est le philosophe présocratique Zénon d'Élée, né en **-490**. 
 
-C'est devenue une technique classique de raisonnement au Moyen Âge, qui se structure généralement en une thèse, une antithèse, et une synthèse qui tends généralement vers un compromis ou du moins un dépassement du manichéisme et de ses stéréotypes. C'est une structure philosophique basique, que l'on enseigne encore aujourd'hui.
+C'est devenu une technique classique de raisonnement au Moyen Âge, qui se structure généralement en une thèse, une antithèse, et une synthèse, qui tends généralement vers un compromis, ou du moins un dépassement du manichéisme et de ses stéréotypes. C'est une structure philosophique basique, que l'on enseigne encore aujourd'hui.
 
-J'apprécie personnellement la définition de Platon dans sa vision de l'usage du dialogue, il décrit la dialectique comme reposant sur la confrontation de plusieurs positions de manière à dépasser l'opinion afin que chacun se rapproche un peu de la vérité
+J'apprécie personnellement la définition de Platon dans sa vision de l'usage du dialogue, il décrit la dialectique comme reposant sur la confrontation de plusieurs positions de manière à dépasser l'opinion afin que chacun se rapproche un peu de la vérité.
 
 
 
 #### Rhétorique
 
-La rhétorique quand à elle est l'art d'impacter les esprits par son discours, son but est l'efficacité, voire la persuasion. Intimement liée à l'éloquence, elle à d'abord été pratiquée à l'oral, mais elle est plus généralement pratiquée en trouvant des mots et arguments mémorisables, ordonnés, et transcris à autrui.
+La rhétorique quand à elle est l'art d'impacter les esprits par son discours, son but est l'efficacité, voire la persuasion. Intimement liée à l'éloquence, elle a d'abord été pratiquée à l'oral, mais elle est plus généralement pratiquée en trouvant des mots et arguments mémorisables, ordonnés, et transmit à autrui.
 
 Elle s'est ensuite détachée de la persuasion pour devenir pour plus globalement l'art de bien dire et de l'argumentation, ayant malgré tout pour objectif le vraisemblable plus que la vérité.
 
@@ -651,31 +690,34 @@ Elle s'est ensuite détachée de la persuasion pour devenir pour plus globalemen
 
 #### Sophistes et Sophismes 
 
-Né en **-490**, Protagoras est un philosophe pré-socratique considéré comme sophiste, qui ont été une opposition forte car vas y ils chassent le clout et la thune, en plus d'utiliser des raisonnements fallacieux.
+Né en **-490**, Protagoras est un philosophe pré-socratique considéré comme sophiste, qui ont été une opposition forte aux philosophes de la suite de ce récit. Les raisons les plus probables sont qu'il était une personnalité forte, célèbre et critiquée du fait qu'il était un enseignant itinérant, cherchant un salaire ainsi qu'un statut toujours plus élevé contre son enseignement, alors que monnayer son savoir était à l'époque interdit. Il serait également à l'origine de l'éristique, l'art de la discorde, de la dispute et plus globalement du débat; variante proche de la rhétorique qu'il a également enseignée.
+
+Les sophistes ont par conséquent étés perçus comme des gens avides, prêts à tout pour monnayer leur savoir à des prix toujours plus fous, au détriment même de la vérité, usant de la rhétorique de manière perverse et fallacieuse, ce qui à donner naissance au mot et a la pratique qu'est le *sophisme*. Tout raisonnement, même si la finalité est véridique, peut être considéré comme tel dès lors qu'il n'est pas logique, valide, s'appuie sur un biais, ou use de stratagème visant à prouver la véridicité de ses dires en jouant sur la crédibilité ou les émotions (ethos et pathos), plus que sur le discours en lui même (logos).
+
+Pour beaucoup de personnalités de temps aussi éloignés, il est compliqué de démêler le vrai du faux, il aurait commencer sa vie comme modeste porteur de fardeau, bien qu'ayant potentiellement de la famille ou des proches aisés et dont il s'est visiblement rapproché au fil du temps.
+
+Il est entre autre connu pour avoir été agnostique, disant des dieux, qu'il "ne savais ni s'ils sont ni s'ils ne sont pas", ce qui lui aurait potentiellement valu, comme beaucoup d'autres à cette période, une condamnation pour impiété.
+
+Il a également déclaré que "l'homme est la mesure de toute chose", introduisant le principe fondamental du relativisme, soit le fait qu'une vérité énoncée n'est jamais objective, donc biaisée et conçue qu'au travers de la subjectivité et de la perception de celui qui l'affirme.
 
 
 
 #### Socrate
 
-Socrate, né vers **-470** était fils d'une sage-femme, est le créateur de la maïeutique, l'art de faire accoucher les âmes, en questionnant un sujet, il pouvait lui faire prendre conscience d'une connaissance enfouie en lui. Il est également le père d'une méthode de réfutation nommée elenchos, consistant à challenger la thèse de son adversaire en la poussant à l'absurde, dans le but d'y révéler son côté irréel.
+Socrate, né vers **-470** était fils d'une sage-femme, est le créateur de la maïeutique, l'art de faire accoucher les âmes, en questionnant un sujet, il pouvait lui faire prendre conscience d'une connaissance enfouie en lui. Il est également le père d'une méthode de réfutation nommée *elenchos*, consistant à challenger la thèse de son adversaire en la poussant à l'absurde, dans le but d'y révéler son côté irréel.
 
-marcheur parleur, n'a jamais écrit, ses dires ont été relatés par ses disciples.
-avant étude nature, maintenant humain,
-il a recentrer la pensée sur l'homme, qui doit s'étudier lui même tel un anthropologue
+Marcheur parleur, il n'a jamais écrit, ses dires ont été relatés par ses disciples, il a étudier la nature, puis sa pensée s'est concentrée sur l'homme, qui doit selon lui s'étudier lui même tel un anthropologue.
 
 
-"Socrate le premier invita la philosophie à descendre du ciel, l'installa dans les villes, l'introduisit jusque dans les foyers, et lui imposa l'étude de la vie, des moeurs, des choses bonnes et mauvaises" Ciceron
+Cicéron dira que "Socrate le premier invita la philosophie à descendre du ciel, l'installa dans les villes, l'introduisit jusque dans les foyers, et lui imposa l'étude de la vie, des mœurs, des choses bonnes et mauvaises". En effet, c'est la plus ancienne des personnalité philosophique connues à avoir eu une influence si importante grâce à un enseignement public gratuit.
 
-Les sages sont en fait des gens qui pensent l'être, ils s'imaginent des connaissances et ignorent ce qu'ils ne savent point.
+Selon lui : "Les sages sont en fait des gens qui pensent l'être, ils s'imaginent des connaissances et ignorent ce qu'ils ne savent point", cela rejoint à la fois la maïeutique et son opposition avec son ancien maître Protagoras.
 
-(In)Conscience
+Il avait un sens exacerbé du bien et mal, de la justice. Il à défendu des généraux accusés de ne pas avoir récupérer des corps de leurs soldats mort, à cause d'une tempête, et ce seul contre l'opinion publique en faveur de ce qui lui paraissait juste. Il était également contre la loi du talion, insistant sur le fait que l'on ne doit pas répondre à l'injustice par l'injustice, et au mal par le mal.
 
-Bien et mal, sens fort de la justice, à déja défendu des généraux accusés de ne pas avoir récupérer des corps de leurs soldats mort, à cause d'une tempete, et ce seul contre l'opinion publique en faveur de la justice.
+Longtemps accusé d'avoir des croyances différentes et déviantes de la religion de l'époque, il fut condamné à l'impiété et de corruption de la jeunesse plutot que de se battre dans l'injustice. Accusé à tord, il fit malgré tout preuve d'une arrogance qui causera sa perte, contre-plaidant à la peine de mort en disant qu'il devrait manger gratuitement jusqu’à la fin de ses jours, et cela n'a vraisemblablement pas plu au jury qui le condamna à la ciguë, alors poison d'état, qu'il finira par boire acceptant pleinement son jugement bien qu'injuste. 
 
-Longtemps accusé d'avoir des croyances différantes et déviantes de la religion de l'époque, il finira par accepter son jugement d'impiété et de corruption de la jeunesse plutot que de se battre dans l'injustice, socrate accusé à tord, fesa preuve d'une arrogance qui causera sa perte, il contreplaida à la peine de mort en disant qu'il devrait manger gratuitement jusqu'a la fin de ses jours et cela n'a vraisemblablement pas plu au jury qui 
-
-La légende dit même qu'il aurait pu s'évader mais préfréré accepter l'injustice que de la commetre.
-"La démocratie n'accorde pas assez d'importance au savoir et à ceux qui la détiennent"
+La légende dit même qu'il aurait pu s'évader mais qu'il a préféré accepter l'injustice que de la commettre. Il aurait également été contre la démocratie, qui "n'accorde pas assez d'importance au savoir et à ceux qui la détiennent", en effet, la majorité bien qu'elle permet souvent de se rapprocher de la vérité, peut aussi avoir tord, notamment sur des sujets précis nécessitant la connaissances d'experts.
 
 https://www.youtube.com/watch?v=yp_UUPR6gfg
 
@@ -687,13 +729,7 @@ A cette période né la pensée d'une unité indivisible, l'atome.
 
 Le philosophe présocratique Leucippe, élève de Zénon d'Élée et influencé par Pythagore, invente vers **-440** la philosophie atomiste, Démocrite puis Épicure et Lavoisier vont par la suite participer à l'évolution ce mouvement dont la réalité ne serait formée que de plein, de vide et de mouvement.
 
-Cette pensée émane à un moment où les mythes, fables et religions sont doucement mises en doute. Plusieurs philosophes dont Socrates, seront jugés pour impiété, cette période marqua donc la naissance d'un courant de pensé qui se lia rapidement avec l'apprentissage de la mort (que l'on retrouve dans le stoïcisme et l'épicurisme) et son rôle dans l'être réel.
-
-Pour Zénon de Kition, qui fonda le stoïcisme en l'an 301, considérai la *mort* comme une indifférence, qui n'est ni un *mal*, ni un *bien*, ces trois choses formant le monde selon lui l'existence du monde réel.
-
-marc aurele 
-
-Philip Kindred Dick : "La réalité, c'est ce qui continue d'exister lorsque l'on cesse d'y croire"
+Cette pensée émane à un moment où les mythes, fables et religions sont doucement mises en doute. Plusieurs philosophes dont Socrate, seront jugés pour impiété, cette période marqua donc la naissance d'un courant de pensé qui se lia rapidement avec l'apprentissage de la mort, que l'on retrouvera dans le stoïcisme et l'épicurisme et son rôle dans la vie de l'être réel.
 
 
 
@@ -742,6 +778,16 @@ théorie des formes et des idées et archétypes
 La science de la biologie serait née d'Aristote et Théophraste, respectivement en charge de documenter la faune et la flore. Aristote à également défendu l'idée d'une terre sphérique, justifiée par la courbure des éclipses de lunes et la force centripète.
 
 Aristote éthique, bien, reves (lucide)
+
+
+
+#### Stoïcisme
+
+Pour Zénon de Kition, qui fonda le stoïcisme en l'an **-301**, la mort est une *indifférence*, qui n'est ni un *mal*, ni un *bien*, ces trois choses formant le monde selon lui l'existence du monde réel.
+
+Marc aurele 
+
+Philip Kindred Dick : "La réalité, c'est ce qui continue d'exister lorsque l'on cesse d'y croire"
 
 
 
@@ -892,17 +938,21 @@ ne en **1013** et mort en 1054, il aboutit les travaux de Gerbert sur l'Astrolab
 
 
 
-#### Fibonnacci
+#### Fibonacci
 
-Ayant vécu de **1170** à **1250**, Leonardo Fibonnacci est le "chainon manquant", qui aurait importé la notation indo-arabe aux mathématiques occidentales. Il a en effet été éduqué à Béjaïa en actuelle Algérie, et aurait ramené entre autre cette fameuse notation à Pise, où son père était marchant et notaire public des douanes.
+Ayant vécu de **1170** à **1250**, Leonardo Fibonacci est le "chaînon manquant", qui aurait importé la notation indo-arabe aux mathématiques occidentales. Il a en effet été éduqué à Béjaïa en actuelle Algérie, et aurait ramené entre autre cette fameuse notation à Pise, où son père était marchant et notaire public des douanes.
 
 Il est également réputé pour sa fameuse suite, bien que connue des Indiens depuis le 6e siècle, et liée au nombre d'or, proportion qui n'a pas été évoquée par Fibonacci et que l'on retrouve dans beaucoup de choses y compris des structures produites par la nature.
 
 
 
+#### Typographie
+
 Le mot *typographie* se compose de « type » qui signifie « empreinte », et de « graphie » qui signifie « écriture ».
 
-La typographie est à l’origine l’art d’assembler des caractères mobiles afin de créer des mots et des phrases et de les imprimer]. Cette technique a été mise au point vers 1440 par Gutenberg, qui n’a pas inventé l’imprimerie à caractères mobiles mais un ensemble de techniques conjointes : les caractères mobiles en plomb et leur principe de fabrication, la presse typographique (inconnue des Orientaux), et l’encre grasse nécessaire à cet usage.
+La typographie est à l’origine l’art d’assembler des caractères mobiles afin de créer des mots et des phrases et de les imprimer]. Cette technique a été mise au point vers **1440** par Gutenberg, qui n’a pas inventé l’imprimerie à caractères mobiles mais un ensemble de techniques conjointes : les caractères mobiles en plomb et leur principe de fabrication, la presse typographique (inconnue des Orientaux), et l’encre grasse nécessaire à cet usage.
+
+
 
 #### Leon Battista Alberti
 
@@ -924,7 +974,7 @@ A la fin du 15è siècle, il reprends le concept de nombre d'or dans un livre il
 
 [Retour](#Sommaire)
 
-### Epoque moderne
+### Époque moderne
 
 1492 -> 1792
 
@@ -936,13 +986,43 @@ Aristarque de Samos fut vers -280 le premier à envisager que la Terre tourne au
 
 
 
+#### Montaigne
+
+Né le 28 février **1533**
+
+
+
+#### Rabelais
+
+Né le 9 avril 1553
+
+
+
+#### Francis Bacon
+
+Né le 22 janvier **1561** 
+
+
+
 #### Giambattista della Porta
 
 Fasciné par l'ésotérisme derrière les miracles et mystères de la nature, il œuvra à les opposer au divinatoire, et à convertir des croyances en savoirs scientifique. Comme beaucoup de philosophes et esprits polymathes, sa pensée est dirigée par les principes préscientifiques de la *théorie des analogies et de la correspondance*. Il eu étudier l'optique et le magnétisme, les lentilles et l'attraction du fer sur un aimant, ainsi que la propriété de nombreux métaux.
 
 Cryptographe, il rédigea en **1563** un ouvrage détaillé résumant les connaissances de cryptanalyses connues à l'époque, traitant du chiffrement et déchiffrement de messages, avec quelques ajouts de sa part, comme le système littéral à double clef qui sera longtemps utilisé, et dont il est potentiellement l'inventeur. Il a également aider à aboutir les travaux d'Alberti pour en faire un système complet. 
 
-Il s'intéressa également à la psychologie et notamment la mémoire, domaine qu'il étudia jusqu'a concevoir des astuces mnémoniques utilisées par les acteurs de théatre pour mémoriser leurs textes.
+Il s'intéressa également à la psychologie et notamment la mémoire, domaine qu'il étudia jusqu’à concevoir des astuces mnémoniques utilisées par les acteurs de théâtre pour mémoriser leurs textes.
+
+
+
+#### Thomas Hobbes
+
+Né le 5 avril **1588** 
+
+
+
+#### Galilée
+
+**1600**
 
 
 
@@ -974,6 +1054,14 @@ Aujourd'hui obsolètes, elles ont pendant longtemps été, à la manière des ta
 
 
 
+
+
+#### John Locke
+
+Né le 29 août **1632**
+
+
+
 #### Pascaline
 
 En **1650**, Blaise Pascal invente ce qui est considéré aujourd'hui comme la première machine à calculer. Dans la volonté de soulager le travail de son père, nommé premier président à la Cour des aides de Normandie à Rouen, cette machine a permit de réaliser additions, soustractions, et multiplication, ainsi que divisions, par répétitions.
@@ -992,6 +1080,14 @@ hexagrammes mystique de Pascal
 
 
 
+#### Baruch Spinoza
+
+Selon lui il n'existe dans la nature qu'une seule substance et que c'est Dieu.
+
+**1632** -> 1677
+
+
+
 #### Binaire
 
 Le binaire est pratiqué depuis l'an -750, mais le concept et ses opérations tel qu'on les utilise aujourd'hui, n'ont étés formalisées qu'en **1690** par Leibniz Wilhelm Gottfried. Grand polymathe allemand, il a populariser ce système en démontrant sa facilité d'écriture et d'usage, notamment pour la division qui était à ce moment compliquée à automatiser, et il a projeter son utilisation future en émettant l'idée que des machines plus élaborées puissent en tirer pleinement profit. Ces travaux ont permis a d'autres chercheurs de décrypter les codes binaires utilisés par les hexagrammes en -750.
@@ -999,6 +1095,48 @@ Le binaire est pratiqué depuis l'an -750, mais le concept et ses opérations te
 
 
 Leibniz était rationaliste, par définition il était opposé à l'empirisme, cette philosophie, qui est également celle de Réné Descartes et Baruch Spinoza
+
+
+
+
+
+#### Voltaire
+
+Né le 21 novembre **1694**
+
+
+
+#### Jean-Jacques Rousseau
+
+Né en **1712** Rousseau était orphelin et errant, persécuté par l'Église et la république de Genève. Il était également autodidacte, et appris à l'aide de lectures de Descartes, Lockes, Malebranche, Leibniz, et bien d'autres. Sa pensée philosophique repose sur l'idée que l'Homme est naturellement bon et que la société et les règles qui en émanent viennent nous corrompre, renonçant à notre liberté naturelle au profit de la liberté civile. 
+
+Malgré cela il affirme que le peuple est souverain, et qu'il doit converger vers l’intérêt commun, qu'il appela *volonté générale*. Il traitera également des rapports de forces et de la place de l'autorité, déclarant que la "force ne fait pas droit, et qu'on n'est obligés d'obéir qu'aux puissances légitimes".
+
+En effet, depuis la sédentarisation, l'Homme apprends de plus de pairs différents et doit collaborer afin de trouver des solutions communes, généralement en mettant ses sentiments de côté et en trouvant des "jeux" qui conviennent à la majorité.
+
+"le travail ne rend pas l'homme heureux mais fait sa dignité"
+
+En devenant adulte, l'enfant "devient son propre maître", à l'inverse, un individu peut aliéner sa liberté et se rendre esclave d'un tiers, même de nos jours, une personne décidant de se salarié dans un travail dit alimentaire pour survivre se "vends" en échange de sa subsistance. Pour autant, c'est lui qui par son travail, assure les revenus du patron, et indirectement des autres salariés. Cette démarche n'est donc néfaste que si malgré la fin qui justifie les moyens, l'individu ne s'engage à rien envers son supérieur. Un contrat sans échange équivalent entraînant la perte de sens et sa propre nullité par l'injustice.
+
+Rapport étroit Famille et Gouvernement, domination du faible par les plus forts.
+
+Inversion de cette tendance, salut scout le fort protège le faible.
+
+Levi Strauss déclarera qu'il est le fondateur de l'anthropologie, étude de l'être humain et de ses groupes sous tous leurs aspects qu'ils soient physiques ou culturels.
+
+
+
+
+
+#### Kant
+
+Né en 1724, il est le fondateur du criticisme et de l'idéalisme transcendantal. Il a été une grande influence pour la philosophie moderne et la pensée critique. Grand adepte de la connaissance pratique et esthétique, il axa sa philosophie sur la capacité à savoir et quoi faire ou espéré en fonction de cette dernière. Il invite donc à être raisonnable, tout en faisant preuve de rigueur et ainsi n'accepter que la connaissance que l'on peut démontrer et résistante à la critique.
+
+Il a également affirmé que la connaissance trouve son origine dans le sujet humain et non pas dans l'objet étudié. C'est à dire que la construction de la réalité ne sera jamais pleinement représentative de l'objet étudié, mais un long apprentissage itératif de l'humain afin de s'en rapprocher assez pour le connaître.
+
+Il traitera également beaucoup la question du dogme, indiquant que l'athéisme est une croyance au même titre que les autres, et qu'il faut malgré tout savoir limiter son savoir pour laisser une place à la croyance, sans laquelle, on ne peut concevoir le monde et emettre des hypothèses.
+
+
 
 
 
@@ -1016,7 +1154,17 @@ Jacques de Vaucanson, célèbre Grenoblois inventeur d'automates musicaux et à 
 
 Enfin Joseph Marie Jacquard à mis en œuvre les procédés déjà existants pour réaliser un métier à tisser éponyme en **1801**, date à partir de laquelle il passe une bonne dizaine d'année à démocratiser et perfectionner la machine programmable.
 
-Programmer avec des cartes perforees demandais deja une rigeur importante car l'ordre des cartes etait tres importantes et qu'un simple coup de vent ou inadvertance pouvait mettre des jours de travail a la poubelle.
+Programmer avec des cartes perforees demandais déjà une rigeur importante car l'ordre des cartes etait tres importantes et qu'un simple coup de vent ou inadvertance pouvait mettre des jours de travail a la poubelle.
+
+
+
+#### Pédagogie moderne
+
+Né en **1746**, Johann Heinrich Pestalozzi, est un pionnier de la pédagogie moderne, pédagogue éducateur et penseur suisse, tout comme Rousseau dont il a été inspiré, il dédia sa vie à l'éducation des enfants pauvres et fonda des orphelinats.
+
+
+
+Philosophie de l'éducation et axiologie, qu'elle est la valeur de l'éducation et de l'enseignement aujourd'hui ? On sait désormais que l'apprentissage se fait mieux par la récompense que la punition. Il est plus productif d'encourager un bon comportement que de réprimander un mauvais, bien que cela est parfois nécessaire, il faut toujours mieux orienter sa pédagogie de manière positive.
 
 
 
@@ -1028,7 +1176,11 @@ Ce travail conjoint à permis l'abandon de la théorie des tourbillons de Descar
 
 
 
-### Epoque contemporaine
+
+
+
+
+### Époque contemporaine
 
 Le début en est marqué par la révolution industrielle qui a commencer en 1760 au Royaume-Unis, le besoin de calcul, de gestion et d'automatisation est alors grandissant.
 
@@ -1044,15 +1196,27 @@ Lorsque deux des auteurs principaux, les astronomes Malachy Hitchins et Nevil Ma
 
 
 
+#### Georg Wilhelm Friedrich Hegel
+
+Né en **1770**, dialectique du maître et de l'esclave. Travailler pour un maître fait acquérir de plus  en plus de compétences à l’esclave, et le maître à force de se faire servir perd de ses compétence, l’esclave à alors l'opportunité de devenir maître à son tour voire effectuer une inversion de contrôle. Le travail serait donc un facteur d'émancipation et de libération, et un vrai maître doit continuer d'apprendre et ne pas se reposer sur ses sous-fifres, en plus de faire preuve d'une reconnaissance sincère nécessaire à la sanité de leur relation. 
+
+
+
+#### Friedrich Fröbel
+
+Né le 21 avril **1782**
+
+
+
 #### Dactylographie
 
-Son étymologie grecque signifie écrire avec les doigts, (1800)
+Son étymologie grecque signifie écrire avec les doigts, (**1800**)
 
 
 
 #### Arithmomètre
 
- C'est la première machine à addition commercialisée, elle fût développée par Thomas de Colmar en 1820. Cependant elle n'a jamais été produite en grande quantité car elle était réalisé à la main à raison d'un ou deux exemplaires par mois. De plus, le procédé de calcul était très lent, la plupart des utilisateur ni voyait pas de gain de temps lors de petit calculs, rendant son utilisation quasiment exclusive aux assurances et ingénieurs, qui utilisent des calculs mettant en œuvre des grand nombres supérieur au million.
+ C'est la première machine à addition commercialisée, elle fût développée par Thomas de Colmar en **1820**. Cependant elle n'a jamais été produite en grande quantité car elle était réalisé à la main à raison d'un ou deux exemplaires par mois. De plus, le procédé de calcul était très lent, la plupart des utilisateur ni voyait pas de gain de temps lors de petit calculs, rendant son utilisation quasiment exclusive aux assurances et ingénieurs, qui utilisent des calculs mettant en œuvre des grand nombres supérieur au million.
 
 Malgré son bas coût de 150$, la demande pour ce produit resta donc faible.
 
@@ -1110,6 +1274,18 @@ En **1847** George Boole, invente un algèbre binaire éponyme. Basé sur vrai e
 
 
 
+#### John Dewey
+
+Né le 20 octobre **1859**
+
+
+
+#### Maria Montessori
+
+Née le 31 août **1870**
+
+
+
 #### Remington
 
 Henry Mill en 1714 breveta la machine à écrire.
@@ -1139,6 +1315,12 @@ En **1876** Alexander Graham Bell, réalise le premier appel téléphonique.
 #### Edison
 
 En **1879** il récupère le brevet pour la lampe à filament, qu'il n'a pas inventé mais démocratisée et améliorée, devenant le pionnier dans les lampes électriques. Il était donc essentiellement un homme d'affaire, il est considéré comme l'inventeur le plus prolifique, on lui doit également la naissance des premiers bureaux de recherches industriels, ainsi que les films vidéos.
+
+
+
+#### Adolphe Ferrière
+
+Né le 30 août **1879**
 
 
 
@@ -1174,6 +1356,8 @@ Il inventera de nombreux autres dispositifs de mesures électriques comme un hys
 
 
 
+
+
 #### Mécanographie
 
 Hermann Hollerith est l'inventeur de la mécanographie, c'est un ingénieur américain qui a été recruté en tant que statisticien au Bureau de recensement des États Unis.
@@ -1185,6 +1369,12 @@ Avec la méthode automatisée par cartes perforées d'Hermann Hollerith en **189
 Il a construit une machine à statistiques à cartes perforées qui exploite des cartes 12x6cm regroupant les 210 cases nécessaires pour recevoir toutes les informations nécessaires. Son invention à permis d'effectuer le recensement, auparavant manuel en seulement six ans. Par la suite il a améliorer le fonctionnement de cette machine en utilisant un métier à tisser Jacquard, pour mécaniser la lecture des fiches de recensement et améliorer son efficacité sur une idée de l'un de ses collègues.
 
 Enfin, il finit par quitter l'administration et fonde la Tabulating Machine Company en 1896 qui fusionnera en 1911 avec 3 autres entreprise pour fonder la Computing-Tabulating-Recording Company (CTR), qui deviendra plus tard l'International Business Machines Corporation, IBM.
+
+
+
+#### Célestion Freinet
+
+Né le 15 octobre **1896**
 
 
 
@@ -1215,6 +1405,14 @@ Boris Rosing est un scientifique russe d'origines néerlandaises ayant inventer 
 Ces tubes ont longtemps fait partis de nos écrans de télévisions qui affichaient une image à l'aide d'une cellule photoélectrique, dont le faisceau était dévié augmentant ou diminuant le nombre d'électrons qui passait et faisant ainsi varier la luminosité du faisceau avant qu'il atteigne l'écran projetant une image en noir et blanc.
 
 Ces travaux ont par la suite étés démocratisés par un de ses élèves et assistant de travail nommé Vladimir Zvorykine, qui à inventer l'iconoscope permettant de capter les images qui seront retransmises sur ces écrans et qui devint rapidement pionnier de la télévision aux États-Unis et en Allemagne, bien que rapidement concurrencé par Philo Farnsworth qui fut le premier à réaliser une chaîne de télévision avec émission-réception.
+
+
+
+#### Claude Lévi-Strauss
+
+Né en 1908
+
+
 
 
 
@@ -1372,17 +1570,33 @@ IBM 602 & 603 **1946**
 
 
 
+
+
 #### Naissance de la Eckert-Mauchly Computer Corporation
 
 1946
 
 La mort de leur investisseur principal lors d'un trajet en avion les poussera à revendre leur entreprise à Remington par la suite.
 
+Remington Racheté par Sperry Corporation qui deviendra Unisys après fusion avec Burroughs
+
 
 
 #### Trackball
 
 1946
+
+
+
+#### Norbert Wiener
+
+En **1947** par le mathématicien Norbert Wiener décrit la **cybernétique**, l'étude des mécanismes d'information des systèmes complexes et leur analogies entre les organismes vivants et les machines. Ils mettent en avant la rétroaction, et la téléologie très présente dans ce domaine. La cybernétique trouve son origine étymologique du grec kubernêtikê qui signifie gouverner dans le sens de diriger un navire. 
+
+L'une des premières machines pourvues de rétroaction est le régulateur à boules de James Watt en 1788 qui permettait de réguler la vitesse de rotation d'une vachine à vapeur.
+
+https://fr.wikipedia.org/wiki/Auto-organisation
+
+Le mouvement cybernétique ralliera de nombreux mathématicien dont John Von Neumann.
 
 
 
@@ -1436,6 +1650,10 @@ Rival de l'EDSAC et du BINAC, il fait son apparition la même année en **1949**
 
 
 
+Premier compilateur (A-0 System Grace Hopper 1951)
+
+
+
 #### Ferranti Mark I
 
 Le Ferranti Mark 1, aussi connu comme le Manchester Electronic Computer, est le premier ordinateur électronique généraliste commercialisé du monde et le second au monde après l’ordinateur électromécanique Z4. Il a été créé en **1951**.
@@ -1444,7 +1662,13 @@ Le Ferranti Mark 1, aussi connu comme le Manchester Electronic Computer, est le 
 
 #### UNIVAC 1
 
-Sorti en **1951** MAGNETIC TAPE STORAGE start and stop tape rapidement avec des servomoteurs, plastic -> déforme -----> métal résistant, travail pour écrire et lire dessus
+Sorti en **1951** par Remington Rand, MAGNETIC TAPE STORAGE start and stop tape rapidement avec des servomoteurs, plastic -> déforme -----> métal résistant, travail pour écrire et lire dessus
+
+
+
+#### A-0 System
+
+Grace Hopper, docteur en mathématiques, officier de la marine, et informaticienne américaine ; a créé en **1951** le Arithmetic Language, qui est le premier compilateur. Il aura plusieurs version jusqu’à arriver au B-0 Flow-matic qui est à l'origine du COBOL. Comme tout les compilateurs, il prends un code et le converti en code machine exécutable, ce que le A-0 réalisait en établissant des liens entre les programmes et sous-programmes ainsi que leurs paramètres.
 
 
 
@@ -1493,35 +1717,103 @@ Cette technologie à poussé IBM a rééditer ses modèles 701 et 702 avec ce ty
 
 
 
+#### Z4
+
+en **1953**
+
+
+
 #### IBM 650
 
 Créé en **1954** c'est le modèle le plus populaire des années 50, et pour cause, il coûtait seulement un quart du prix d'un 701, et a été vendu à de nombreuses universités, créant toute une génération de programmeur. Faisant de lui le premier ordinateur produit en masse dans le monde et la première machine d'IBM à réaliser un profit significatif.
 
 
 
+#### TRADIC
+
+Créé aux États-Unis en **1955**, le TRAnsistor DIgital Computer a été premier ordinateur à transistors.
+
+
+
 #### Spoutnik 1
 
-1957
+**1957**
+
+
+
+#### Premiers langages haut niveau - Structures de contrôle et de données
+
+
+
+##### plankalkul eniac ssem speedcoding Flow-Matic
+
+
+
+##### Fortran
+
+**1957** John Backus
+
+
+
+##### Lisp
+
+**1958** John Mc Carthy
+
+
+
+##### Cobol
+
+**1959**
+
+
+
+#### Circuit intégré
+
+**1958**
 
 
 
 #### IBM 1401
 
-Fabriqué entre 1959 et 1965, il a été l'ordinateur à transistor le plus vendu, notamment grâce à la politique marketing d'IBM qui a adopter une vision globale, dans l'objectif de prendre en compte le maximum d'utilisateurs et donc clients potentiels, politique qui avait déjà fait ses preuves avec le modèle 650. IBM à ainsi créer plus qu'un ordinateur, un système complet, avec une imprimante pouvant imprimer 600 lignes par minutes, principale raison d'achat ayant fait son succès. 
+Fabriqué entre **1959** et 1965, il a été l'ordinateur à transistor le plus vendu, notamment grâce à la politique marketing d'IBM qui a adopter une vision globale, dans l'objectif de prendre en compte le maximum d'utilisateurs et donc clients potentiels, politique qui avait déjà fait ses preuves avec le modèle 650. IBM à ainsi créer plus qu'un ordinateur, un système complet, avec une imprimante pouvant imprimer 600 lignes par minutes, principale raison d'achat ayant fait son succès. 
 
 Par la même occasion, IBM invente le Report Program Generator (RPG), un langage de programmation haut niveau facile à comprendre, permettant aux comptables et techniciens de tabulatrices de se "reconvertir", en utilisant des concepts qu'ils connaissent et utilisaient déjà sur les panneaux de contrôles, où ils branchaient des câbles pour implémenter les entrées, calculs, et sorties. Ils pouvaient ainsi programmer sans apprendre toutes les arcanes de l'assembleur, du COBOL, ou encore du FORTRAN. Malgré cela, beaucoup de client préféraient demander les logiciels directement à IBM, qui avait un monopole si important qu'ils pouvaient se permettre de les livrer "gratuitement" avec les machines qu'ils louaient.
 
 
 
+#### Théorie algorithmique de l'information
+
+**1960**
+
+
+
+#### Computionnalisme
+
+**1961**
+
+
+
+#### Spacewar!
+
+**1962**
+
+
+
+#### Luciano Floridi
+
+Né à Rome le 16 novembre **1964**, ce philosophe est l'un des plus important théoriciens de la Philosophie de l'information et de l'éthique de l'informatique. Il a fonder et dirige plusieurs groupes de recherche dans ces domaines.
+
+
+
+#### Programma 101
+
+**1965**
+
+
+
 #### Souris
 
-1965
-
-
-
-#### Apollo 1 
-
-En 1967 la lune parait de nouveau inaccessible aux américains, sous Kennedy.
+**1965**
 
 
 
@@ -1533,27 +1825,45 @@ Il a par la suite été utilisé comme outil d'aide à la décision. Pour des mo
 
 
 
+#### Eliza
+
+C'est une intelligence artificielle conversationnelle créée **1966** dans le but de simuler un psychothérapeute, notamment en tournant des affirmations de l'utilisateur en questions.
+
+
+
+#### Apollo 1 
+
+En **1967** la lune parait de nouveau inaccessible aux américains, sous Kennedy.
+
+
+
+#### Intel et Moore
+
+**1968**
+
+
+
 #### Amstrad
 
-1968
+**1968**
 
 
 
 #### Microprocesseur
 
-En 1969, le microprocesseur est inventé par Federico Faggin, et Marcian Hoff, un ingénieur et physicien d'Intel, 
+En **1969**, le microprocesseur est inventé par Federico Faggin, et Marcian Hoff, un ingénieur et physicien d'Intel, 
 
 
 
 #### Arpanet et Cyclades
 
-1969 et 1972 (Louis Pouzin)
+**1969** et 1972 (Louis Pouzin)
 
 
 
 #### Apollo 11
 
-Apollo Guidance Computer en 1969, Margaret Hamilton
+Le programme Apollo Guidance Computer réalisé en **1969** par Margaret Hamilton a été numérisé et rendu disponible sur [Github](https://github.com/chrislgarry/Apollo-11). Écrit en Assembly
 
 
 
@@ -1575,7 +1885,7 @@ CSS a permi de diversifier l'apparence des sites webs, les frameworks et themes 
 
 
 
-
+[Retour](#Sommaire)
 
 ### Popularisation et Mondialisation
 
@@ -1603,29 +1913,71 @@ Jusqu'alors, l'informatique était essentiellement réservé aux domaines privé
 
 #### Minitel
 
-Présenté en 1978 mais sorti en **1980**, le Minitel est un ordinateur connecté à un réseau et donc appellé Terminal. Il utilisait le réseau Transpac pour faire tourner le sien, "Télétel" auxquel il se connectait à l'aide d'un modem. Il possédait une mémoire de 8,25 ko, et un processseur Intel 8052
+Présenté en 1978 mais sorti en **1980**, le Minitel est un ordinateur connecté à un réseau et donc appelé Terminal. Il utilisait le réseau Transpac pour faire tourner le sien, "Télétel" auquel il se connectait à l'aide d'un modem. Il possédait une mémoire de 8,25 ko, et un processeur Intel 8052
+
+
+
+#### La chambre chinoise
+
+Cette expérience de pensée à été imaginée par un philosophe américain nommé John Searle vers **1980**. Alors qu'il lit un livre sur l'intelligence artificielle et la manière dont la machine interprète et créer du texte, il se demanda alors si un programme informatique pouvait recréer un esprit numérique.
+
+Il énonce alors une situation ou un humain n'ayant aucune connaissance du chinois est enfermé dans une pièce, avec une table de questions et réponse à des phrases chinoises. Un examinateur extérieur parlant réellement chinois (sinophone) lui pose alors des questions, le programme humain se repose alors sur la syntaxe des phrases, retrouvant la réponse correspondante et l'appliquant, produisant des réponses. Du point de vue de l'examinateur sinophone les réponses qu'il obtient correspondent bien à celles d'un de ses semblables. Pour autant, elle sont produites par quelqu'un qui ne parle pas un mot de chinois, et ne comprends sûrement pas le sens des phrases qu'il reçoit ou émet. 
+
+Il démontra qu'une intelligence artificielle ne peut actuellement que simuler un esprit ou une pensée, et qu'elle est dans l'incapacité de recréer une réelle conscience ou intentionnalité. Cela démontre aussi que le test de Turing est insuffisant pour déterminer si ses caractéristiques sont présentes chez une IA, en effet, dans son expérience, les réponses du programme humain ne sont pas différentes de celle d'un sinophone, puisqu'elles proviennent de tables de correspondances, et que l'examinateur ne peut malgré tout pas faire la différence avec un natif car cela se base sur de l'écrit. Pour autant, bien qu'il finisse par maîtriser la manipulation des symboles pour reconnaître des schémas et former des réponses cohérentes, il ne connaîtra et comprendra toujours pas un traître mot ou signification derrière les symboles qu'il utilise.
+
+Cela à permis de redéfinir plus précisément l'intentionnalité, à la fois comme la capacité de l'esprit, émanent du cerveau, de rendre l'organisme conscient de son environnement grâce à sa perception subjective, et en dérivé de lui permettre d'être un locuteur qui doit en plus de ce qui est dit avant, formuler dans son esprit, la phrase qu'il va prononcer. Autrement dit, c'est parce l'humain est conscient qu'il peut penser et parler intentionnellement. Un locuteur humain a conscience de ce que signifient ses dires à travers la sémantique qu'il accorde aux mots qu'il utilise, et au fond de son discours.
+
+
+
+#### Mémoire flash et stockage optique
+
+Optical Storage Disc **1980**
+
+
+
+#### Pac Man 
+
+**1980**
 
 
 
 #### Osborne 1
 
-1981
+**1981**
 
 
 
 #### Xerox Star
 
-1981
+**1981**
 
 
 
 #### IBM PC 5150
 
-1981
+**1981**
+
+
+
+#### World Wide Web
+
+(**1990** Tim Berners Lee) web semantique Rose Dieng Kuntz
+
+
+
+#### Deep Blue 
+
+beats Gary Kasparov  in **1997**
+
+
 
 
 
 ### Bilan passé
+
+Bien que les prémices de l'informatique viennent de l'Époque moderne au 17 ème siècle, période avec un besoin grandissant de calcul ; elle naquit après la révolution industrielle au 19&nbsp;ème siècle lors de l'Époque contemporaine, et commence à réellement émerger après la seconde guerre mondiale qui marque le début d'une nouvelle ère de progrès technologiques, ainsi qu'une forte augmentation de la démographie mondiale causée par le baby boom.
+
+
 
 
 
@@ -1635,15 +1987,87 @@ Présenté en 1978 mais sorti en **1980**, le Minitel est un ordinateur connect�
 
 ## Pratiques actuelles
 
+
+
+#### Théorie générale des systèmes
+
+Aussi appelée Systémique, la première personnalitée connue à parler de ce domaine d'étude des ensembles complexe d'interactions entre des sous groupes est Sébastien Le Prestre dans *Système*, plus connu sous le nom de Vauban dont il était le marquis. Cela a ensuite été décrit par Étienne Bonnot de Condillac qui définit les prémices de l'approche systémique dans son *Traité des Systèmes* en **1749**, repris par la suite par  Pareto qui l'appliqua à l'économie politique
+
+https://fr.wikipedia.org/wiki/Th%C3%A9orie_g%C3%A9n%C3%A9rale_des_syst%C3%A8mes
+
+
+
+#### Honda asimo
+
+2000
+
+
+
+#### Roomba
+
+**2002**
+
+
+
+#### Darpa Grand Challenge
+
+**2005**
+
+
+
+#### Imagenet
+
+**2009**
+
+
+
+#### Watson gagne Joepardy
+
+**2011**
+
+
+
+#### Premier drone commercial autonome
+
+DJI **2013**
+
+
+
+#### Alphago
+
+**2015**
+
+
+
+#### VSCode
+
+Suite à Atom publié par GitHub le 26 février 2014, bien avant son rachat en 2018 par Microsoft, qui l'a refait en mieux, en sortant le 29 avril **2015** l'IDE le plus utilisé à ce jour Visual Studio Code.
+
+
+
+#### Boston Dynamics 
+
+
+
+### Essai
+
+En arrivant en DUT informatique en 2016, je n'avait programmé qu'en BASIC sur une calculatrice Texas Instrument, je ne m'attendais pas à autant de complexité.
+
+La mode n'est que passagère, il n'y a que les habitudes de vies et s'en tenir à un plan structuré et cohérent qui reste dans l'histoire.
+
+Actuellement, malgré les bonnes pratiques prônées, peu sont mises en application et beaucoup de fois je me retrouve a effectuer des copier coller avec une légère modification, alors que ma philosophie est que chaque copier coller devrait etre une fonction réutilisable avec pour paramètre les variables amenées a changer ou être configurable.
+
+
+
 À l’heure où j’écris ça, le monde est plongé dans la mode des Intelligences Artificielles, technologie qui se base sur quelque chose de très général (réseaux de neurones et systèmes pondérés), pour accumuler des informations très spécifiques, afin de pouvoir répondre à des questions les concernant.
 
-L'intelligence est la capacité d'utiliser ses connaissances et sa compréhension pour proposer une solution à un problème.
+L'intelligence est selon moi la capacité d'utiliser ses connaissances et sa compréhension pour proposer une solution à un problème.
 
-ChatGPT n'est pas capable de raisonnement mais il fourni une solution mathématique probabiliste à un énoncé textuel. Il connais les mots qui le compose, sait qu'il y'a tant de probabilité qu'ils y soient liés et les assemble de manière à proposer une réponse elle même textuelle.
+ChatGPT n'est pas capable de raisonnement mais il fourni une solution mathématique probabiliste à un énoncé textuel. Il connais les mots qui le compose, sait qu'il y a tant de probabilité qu'ils y soient liés et les assemble de manière à proposer une réponse elle même textuelle.
 
 
 
-Touches modifieur sur clavier, selection lultiple, effets, validation, suppression 
+Touches modifier sur clavier, sélection multiple, effets, validation, suppression 
 
 
 
@@ -1656,21 +2080,23 @@ Pourquoi la programmation est-elle aussi peu démocratisée ?
 Pourquoi un outil censé résoudre un problème en cause parfois des bloquants ?
 
 [...]
-Il y’a un manque d’experts, de personnes compétentes et qualifiées, les années que nous vivons sont saturés d'informations, et l'accumulation de bad news déprime les uns, la ou les tsunamis de fakes news et canulars font rire et haïr les autres. La vérité finisant presque par ironiquement nous consoler.
+Il y’a un manque d’experts, de personnes compétentes et qualifiées, les années que nous vivons sont saturées d'informations, et l'accumulation de mauvaises nouvelles déprime les uns, là où les tsunamis de désinformation et canulars font rire et haïr les autres. La vérité finissant presque par ironiquement nous consoler.
 
 
 
-Et un réel décalage entre offre et demande, nous observons des signaux forts comme ceux autour de la blockchain, technologie ayant un réel intérêt et pouvant jouer un rôle important dans les systèmes administrant nos sociétés mondialement interconnectées, mais qui présente cependant un effet Duning Kruger assez important ces derniers temps.
+Et un réel décalage entre offre et demande, nous observons des signaux forts comme ceux autour de la blockchain, technologie ayant un réel intérêt et pouvant jouer un rôle important, notamment dans les systèmes administrant nos sociétés mondialement interconnectées, mais qui présentent cependant un effet Duning Kruger assez important ces derniers temps.
 
 
 
-De nos jours j'ai souvent entendu parler de philosophie d'entreprise. L'entreprise étant une entité morale, elle se compose d'un groupe de personnes physiques réunies pour accomplir quelque chose en commun. Ce groupe peut aussi réunir des personnes physiques et des personnes morales. Le terme secte est, comme beaucoup de mots, poly-sémantique, il possède plusieurs définitions et connotations, il y'a autant de ressentis différents accordées aux mots que d'expérience vivantes. D'un point de vue étymologique, il provient du latin "secta", signifiant "voie que l'on suit, parti, cause, doctrine". Or quand on travaille en groupe avec d'autres personnes, on suit tous, ensemble, une même voie, pendant une période définie de travail, qu'un salarié vends a son employeur.
+#### Sectes et philosophie d'entreprise
 
-En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une même cause, est comme internet, la rue ou tout autre environnement dans lequel nous évoluons, c'est une indifférence, ce n'est ni bien, ni mal, cela ne dépends de ce que l'on en fait et à qu'elles fins. Nous devons tous un jour faire face au fait que nous sommes influencés et conditionnés par notre environnement et notre histoire, nos habitudes, et les groupes d'humains dans lesquels nous avons évolués. Le réel problèmes sont les dérives, et les heurts qui nous sont propres. Pour le reste, la vie bats son plein et continue de parcourir le temps en faisant ce qu'elle a à faire, vivre.
+De nos jours j'ai souvent entendu parler de philosophie d'entreprise. L'entreprise étant une entité morale, elle se compose d'un groupe de personnes physiques réunies pour accomplir quelque chose en commun. Ce groupe peut aussi réunir des personnes physiques et des personnes morales. Cela corresponds à une secte qui est un terme mal vu mais qui, comme beaucoup de mots, est poly-sémantique, il possède plusieurs définitions et connotations, il y a autant de ressentis différents accordées aux mots que d'expérience vivantes. D'un point de vue étymologique, il provient du latin "secta", signifiant "voie que l'on suit, parti, cause, doctrine". Or quand on travaille en groupe avec d'autres personnes, on suit tous, ensemble, une même voie, pendant une période définie de travail, qu'un salarié vends a son employeur.
+
+En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une même cause, est comme internet, la rue ou tout autre environnement dans lequel nous évoluons, c'est une indifférence, ce n'est ni bien, ni mal, cela ne dépends de ce que l'on en fait et à qu'elles fins. Nous devons tous un jour faire face au fait que nous sommes influencés et conditionnés par notre environnement et notre histoire, nos habitudes, et les groupes d'humains dans lesquels nous avons évolués. Le réel problèmes sont les dérives, notamment le fait de vénérer une autorité austère qu'on ne peut discuter, mais aussi tout les heurts qui nous sont propres. Pour le reste, la vie bats son plein et continue de parcourir le temps en faisant ce qu'elle a à faire, vivre.
 
 
 
-### Division du travail
+#### Division du travail
 
 Maisons d'échanges, Babbage était fasciné par la division mentale du travail qui s'y opérait, comme De Prony s'étant inspiré d'Adam Smith
 
@@ -1678,161 +2104,23 @@ https://fr.wikipedia.org/wiki/Division_du_travail
 
 
 
-### Anticipation
+#### Anticipation
 
 example avec la compiltion rust qui empeche les top 10 des erreurs
 
 
 
-### Contexte et vérité
+#### Contexte et vérité
 
 Absolue / relatif
 
 
 
-### Montaigne
+Il est futile de vouloir avoir raison, la mauvaise foi est l’ennemie de l'amélioration personnelle. Seule la vérité compte, quand je débat avec quelqu'un ce n'est pas dans le but de faire briller mon savoir ou répandre ma version de la vérité mais la challenger pour l'améliorer voire l'invalider à l'aide des antithèses d'autrui. Il n'y a rien à gagner à avoir raison, on instruit, on apprends et on avance ensemble.
 
-Né le 28 février **1533**
 
 
-
-### Rabelais
-
-Né le 9 avril 1553
-
-
-
-### Francis Bacon
-
-Né le 22 janvier **1561** 
-
-
-
-### Thomas Hobbes
-
-Né le 5 avril **1588** 
-
-
-
-### John Locke
-
-Né le 29 août **1632**
-
-
-
-### Voltaire
-
-Né le 21 novembre **1694**
-
-
-
-### Jean-Jacques Rousseau
-
-Né en **1712** Rousseau était orphelin et errant, persécuté par l'Église et la république de Genève. Il était également autodidacte, et appris à l'aide de lectures de Descartes, Lockes, Malebranche, Leibniz, et bien d'autres. Sa pensée philosophique repose sur l'idée que l'Homme est naturellement bon et que la société et les règles qui en émanent viennent nous corrompre, renonçant à notre liberté naturelle au profit de la liberté civile. 
-
-Malgré cela il affirme que le peuple est souverain, et qu'il doit converger vers l’intérêt commun, qu'il appela *volonté générale*. Il traitera également des rapports de forces et de la place de l'autorité, déclarant que la "force ne fait pas droit, et qu'on n'est obligés d'obéir qu'aux puissances légitimes".
-
-En effet, depuis la sédentarisation, l'Homme apprends de plus de pairs différents et doit collaborer afin de trouver des solutions communes, généralement en mettant ses sentiments de côté et en trouvant des "jeux" qui conviennent à la majorité.
-
-"le travail ne rend pas l'homme heureux mais fait sa dignité"
-
-En devenant adulte, l'enfant "devient son propre maître", à l'inverse, un individu peut aliéner sa liberté et se rendre esclave d'un tiers, même de nos jours, une personne décidant de se salarié dans un travail dit alimentaire pour survivre se "vends" en échange de sa subsistance. Pour autant, c'est lui qui par son travail, assure les revenus du patron, et indirectement des autres salariés. Cette démarche n'est donc néfaste que si malgré la fin qui justifie les moyens, l'individu ne s'engage à rien envers son supérieur. Un contrat sans échange équivalent entraînant la perte de sens et sa propre nullité par l'injustice.
-
-Rapport étroit Famille et Gouvernement, domination du faible par les plus forts.
-
-Inversion de cette tendance, salut scout le fort protège le faible.
-
-Levi Strauss déclarera qu'il est le fondateur de l'anthropologie, étude de l'être humain et de ses groupes sous tous leurs aspects qu'ils soient physiques ou culturels.
-
-
-
-
-
-### Kant
-
-Né en 1724, il est le fondateur du criticisme et de l'idéalisme transcendantal. Il a été une grande influence pour la philosophie moderne et la pensée critique. Grand adepte de la connaissance pratique et esthétique, il axa sa philosophie sur la capacité à savoir et quoi faire ou espéré en fonction de cette dernière. Il invite donc à être raisonnable, tout en faisant preuve de rigueur et ainsi n'accepter que la connaissance que l'on peut démontrer et résistante à la critique.
-
-Il a également affirmé que la connaissance trouve son origine dans le sujet humain et non pas dans l'objet étudié. C'est à dire que la construction de la réalité ne sera jamais pleinement représentative de l'objet étudié, mais un long apprentissage itératif de l'humain afin de s'en rapprocher assez pour le connaître.
-
-Il traitera également beaucoup la question du dogme, indiquant que l'athéisme est une croyance au même titre que les autres, et qu'il faut malgré tout savoir limiter son savoir pour laisser une place à la croyance, sans laquelle, on ne peut concevoir le monde et emettre des hypothèses.
-
-
-
-### Pédagogie moderne
-
-Né en **1746**, Johann Heinrich Pestalozzi, est un pionnier de la pédagogie moderne, pédagogue éducateur et penseur suisse, tout comme Rousseau dont il a été inspiré, il dédia sa vie à l'éducation des enfants pauvres et fonda des orphelinats.
-
-
-
-Philosophie de l'éducation et axiologie, qu'elle est la valeur de l'éducation et de l'enseignement aujourd'hui ? On sait désormais que l'apprentissage se fait mieux par la récompense que la punition. Il est plus productif d'encourager un bon comportement que de réprimander un mauvais, bien que cela est parfois nécessaire, il faut toujours mieux orienter sa pédagogie de manière positive.
-
-
-
-### Georg Wilhelm Friedrich Hegel
-
-Né en 1770 dialectique du maître et de l'esclave. Travailler pour un maître fait acquérir de plus  en plus de compétences à l’esclave, et le maître à force de se faire servir perd de ses compétence, l’esclave à alors l'opportunité de devenir maître à son tour voire effectuer une inversion de contrôle. Le travail serait donc un facteur d'émancipation et de libération, et un vrai maître doit continuer d'apprendre et ne pas se reposer sur ses sous-fifres, en plus de faire preuve d'une reconnaissance sincère nécessaire à la sanité de leur relation. 
-
-
-
-### Friedrich Fröbel
-
-Né le 21 avril 1782
-
-
-
-### John Dewey
-
-Né le 20 octobre 1859
-
-
-
-### Maria Montessori
-
-Née le 31 août **1870**
-
-
-
-### Adolphe Ferrière
-
-Né le 30 août **1879**
-
-
-
-### Célestion Freinet
-
-Né le 15 octobre **1896**
-
-
-
-### Claude Lévi-Strauss
-
-Né en 1908
-
-
-
-### Norbert Wiener
-
-En **1947** par le mathématicien Norbert Wiener décrit la **cybernétique**, l'étude des mécanismes d'information des systèmes complexes et leur analogies entre les organismes vivants et les machines. Ils mettent en avant la rétroaction, et la téléologie très présente dans ce domaine. La cybernétique trouve son origine étymologique du grec kubernêtikê qui signifir gouverner dans le sens de diriger un navire. 
-
-L'une des premières machines pourvues de rétroaction est le régulateur à boules de James Watt en 1788 qui permettait de réguler la vitesse de rotation d'une vachine à vapeur.
-
-https://fr.wikipedia.org/wiki/Auto-organisation
-
-Le mouvement cybernétique ralliera de nombreux mathématicien dont John Von Neumann.
-
-
-
-
-
-### Théorie générale des systèmes
-
-Aussi appellée Systémique
-
-https://fr.wikipedia.org/wiki/Th%C3%A9orie_g%C3%A9n%C3%A9rale_des_syst%C3%A8mes
-
-
-
-### Pédagogie active
+#### Pédagogie active
 
 Cette méthode de pédagogie, qui trouve ses fondements dans "l'Émile ou De l'éducation" de Rousseau, est relativement récente, donc fait l’œuvre de nombreuses études.
 
@@ -1870,37 +2158,27 @@ CodingGame
 
 Logo
 
-Montessorri
 
 
-
-
-
-### Luciano Floridi
-
-Né à Rome le 16 novembre **1964**, ce philosophe est l'un des plus important théoriciens de la Philosophie de l'information et de l'éthique de l'informatique. Il a fonder et dirige plusieurs groupes de recherche dans ces domaines.
-
-
-
-### Méthodes d'aide à la structuration d'information 
+#### Méthodes d'aide à la structuration d'information 
 
 Le management moderne à eu besoin de pouvoir former et guider efficacement ses employés et pour cela il à fallu trouver des outils et moyens mnemotechniques pour facilement analyser les 
 
 
 
-#### Décision
+##### Décision
 
 Prendre une décision est parfois très compliqué, on n'arrive pas toujours à mesurer les tenants et aboutissants de nos choix, c'est pourquoi il est important de prendre du recul, de poser sur la table les différentes possibilités, et acteurs de la situation afin de mettre le plus de chance de son côté, dans l'objectif d'atteindre le résultat attendu. 
 
-##### Analyse PESTEL
+###### Analyse PESTEL
 
 PESTEL est un acronyme pour (Politique, Économique, Socioculturel, Technologique, Écologique, Légal)
 
-##### SWOT
+###### SWOT
 
 Strenght Weakness Opportunity Threat
 
-##### Matrice multicritère
+###### Matrice multicritère
 
 Avec des amis on l'utilise pour choisir dans quel airbnb on va partir, on y renseigne une note pour le prix, l'emplacement, la qualité du logement, et on obtient un score moyen permettant de déterminer ou on partira en vacances.
 
@@ -1908,17 +2186,17 @@ Avec des amis on l'utilise pour choisir dans quel airbnb on va partir, on y rens
 
 Permet de retrouver la cause d'un problème
 
-##### La matrice d'Eisenhower
+###### La matrice d'Eisenhower
 
 Très proche des matrices de faisabilité et de priorisation, elle permet de déterminer de différencier les tâches importante, urgente, celles qui ne le sont pas, et quoi en faire.
 
-##### Diagramme d'Ishikawa
+###### Diagramme d'Ishikawa
 
 Il permet de schématiser les différentes causes possible d'un événement ou effet. Inspiré des quatres causes d'Aristote, il est généralement construit en analysant les 5 M : Matière première constituante, Matériel utilisé, Méthode employée, Main-d’œuvre intervenant, et Milieu dans lequel l’événement apparaît.
 
-##### Analyse des parties prenantes
+###### Analyse des parties prenantes
 
-##### Carte heuristique
+###### Carte heuristique
 
 Née de l'arbre de porphyre, un philosophe néoplatonicien du 3è siècle, et aussi appelée carte mentale ; elle représente visuellement le cheminement de la pensée et l’interconnections des idées afin d'en extraire les toutes les informations importantes.
 
@@ -1926,63 +2204,73 @@ Née de l'arbre de porphyre, un philosophe néoplatonicien du 3è siècle, et au
 
 
 
-#### Conception
+##### Conception
 
-##### Design thinking
+###### Design thinking
 
-##### Lean Startup
+###### Lean Startup
 
 MVP, itération, stop de toute la chaine de production si problème pour éviter de contaminer le reste
 
 
 
-#### Gestion de projets 
+##### Gestion de projets 
 
-##### Roadmap
+###### Roadmap
 
-##### Project charter
+###### Project charter
 
-##### GANTT
+###### GANTT
 
-##### Business Model
+###### Business Model
 
-##### Scrum
+###### Scrum
 
 
 
-#### Développement
+##### Développement
 
-##### Extreme programming
+###### Extreme programming
 
-##### TDD FDD MDD
+###### TDD FDD MDD
 
-##### Code review
+###### Code review
 
-##### Technique du canard en plastique
+###### Technique du canard en plastique
 
 Lorsque l'on travaille seul, on a parfois la tête dans le guidon,  
 
-### Travail Personnel
 
-#### Developpement informatique
 
-##### Moteur de jeu 2
+#### Travail Personnel
+
+
+
+##### Developpement informatique
+
+
+
+###### Moteur de jeu
 
 Base sur Monogame, héritier de Microsoft XNA, j'ai développer toute une API qui s'avere exister aujourd'hui, je ne sais pas si elle existait a époque.
 
 Le theoreme de pythagore et la teigonometrie m'on ete tres utile
 
-#### Développement personnel
 
-##### Rigueur et retravail
+
+
+
+##### Développement personnel
+
+###### Rigueur et retravail
 
 Démarche itérative avec demande de feed-back à chaque changement, besoin de ne pas renvoyer la balle mais de demander conseil sur le moment si possible pour encore plus d'agilité
 
-##### Amélioration continue
+###### Amélioration continue
 
 Doute constant et remise en question en sont la clé.
 
-##### Do it now
+###### Do it now
 
 Dès que l'on constate un problème, reflexe de réaliser la tâche dans la foulée ou de la planifier pour ne pas que l'information se perde
 
@@ -1994,13 +2282,13 @@ Lorsque je commet une erreur, j'en assume la responsabilité, mais je me justifi
 
 
 
-#### Critique
+##### Critique
 
 Selon loi la ceitique consteuctive st positive pour le maitre et l'apprenant des lors quelle s'effectue avec une communication positive tout en analysant les defauts et planifiant un programme pour les corriger. 
 
 
 
-### Metagame
+#### Metagame
 
 Intelligence économique, politique et théorie des jeux.
 
@@ -2010,17 +2298,17 @@ Choix et Theorie des jeux
 
 
 
-### Prestation vs édition de logiciel
+#### Prestation vs édition de logiciel
 
 
 
-### Cadriciel et Open Source
+#### Cadriciel et Open Source
 
 Symfony ne permet pas de surcharger l'attribut "name" d'un champ de formulaire, le retrait de requêtes expires ne marche pas... L'installation d'un de leurs plugin React m'a récemment causer default. J'ai eu, par la force des choses, à contacter la personne chargée de la documentation de Symphony. Un certain [Ryan](https://github.com/weaverryan), qui est "Symfony docs lead, writer at SymfonyCasts", ce fût une expérience riche ou j'ai découvert un environnement qui m'est familier, bien que je n'ai pas souvent réaliser de l'open source avant. Une pipeline qui sors des erreurs à des lignes qui n'existent pas sur ma version, et qui malgré ça permet d'assurer la qualité de la documentation rédigée en RST ou DOCtor-RST, à l'aide de tests de compilation.
 
 
 
-### ChatGPT
+#### ChatGPT
 
 Oui, j'ai utilisé ChatGPT pour écrire cet ouvrage, mais aucun texte n'en est extrait. Pourquoi ? Je tenais à rédiger moi même, comme je vous l'aurais expliqué à l'oral. Le passage sur Richard Stallman à vu le jour grâce au modèle de génération de texte qu'est ChatGPT. J'ai voulu retrouver qui à prononcer une phrase dans le reportage : "Révoltes et révolutions technologiques | La Californie ! | ARTE"
 
@@ -2048,17 +2336,17 @@ En 1987 Andrew S. Tanenbaum invente Minix un système d'exploitation UNIX avec u
 
 
 
-### Opensource
+#### Opensource
 
 
 
-### Logiciel libre
+#### Logiciel libre
 
 Le free software 
 
 
 
-### Git
+#### Git
 
 **Git** est un logiciel de gestion de versions décentralisé sous licence GNU GPL. C'est un logiciel libre et gratuit, initié en 2005 par Linus Torvalds le créateur de Linux lors de la création de son noyau. Linus ne voulait pas réaliser ce projet seul et à rapidement compris que la qualité d'un logiciel viendrai des débats houleux entre ses collaborateurs et l'implémentation de la meilleure idée à la fin.
 
@@ -2066,19 +2354,13 @@ Le free software
 
 
 
-## EditIDE
+### EditIDE
 
-En arrivant en DUT informatique en 2016, je n'avait programmé qu'en BASIC sur une calculatrice Texas Instrument, je ne m'attendais pas à autant de complexité.
 
-La mode n'est que passagère, il n'y a que les habitudes de vies et s'en tenir à un plan structuré et cohérent qui reste dans l'histoire.
 
 Comment est ce que je pense, imagine et souhaite aider a créer un avenir de la programmation ?
 
 A travers ma philosophie, à l'aide de l'intelligence et la . 
-
-Actuellement, malgré les bonnes pratiques prônées, peu sont mises en application et beaucoup de fois je me retrouve a effectuer des copier coller avec une légère modification alors que ma philosophie est que chaque copier coller devrait etre une fonction réutilisable avec pour paramètre les variables amenées a changer ou être configurable.
-
-
 
 Peut on le faire et doit on le faire ?
 
