@@ -4,13 +4,13 @@ Mémoire de fin d’année de 2e année de Mastère d’architecture des systèm
 
 
 
-## [Lire](./HistoirePhilosophieProgramation.md)
+## [Lire](./HistoirePhilosophieInformation.md)
 
 
 
 ## Auteur
 
-Dorian Blanchard, CV : http://github.io/cv_a_faire
+Dorian Blanchard, CV : https://hedocode.github.io
 
 
 
