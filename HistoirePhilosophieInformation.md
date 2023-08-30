@@ -160,18 +160,18 @@ Dorian Blanchard
       10. [IBM PC 5150](#IBM PC 5150)
       11. [World Wide Web](#World-Wide-Web)
       12. [Deep Blue](#Deep-Blue)
-      13. [Honda asimo](#Honda asimo)
-      14. [Roomba](#Roomba)
-      15. [Darpa Grand Challenge](#Darpa-Grand-Challenge)
-      16. [Imagenet](#Imagenet)
-      17. [Watson gagne Joepardy](#Watson gagne Joepardy)
-      18. [Premier drone commercial autonome](#Premier-drone-commercial-autonome)
-      19. [Alphago](#Alphago)
-      20. [Boston Dynamics](#Boston-Dynamics)
    10. [Bilan passé](#Bilan-passé)
 3. Présent
-   1. Concepts
-   2. Appareils
+   1. [Honda asimo](#Honda asimo)
+   2. [Roomba](#Roomba)
+   3. [Darpa Grand Challenge](#Darpa-Grand-Challenge)
+   4. [Imagenet](#Imagenet)
+   5. [Watson gagne Joepardy](#Watson gagne Joepardy)
+   6. [Premier drone commercial autonome](#Premier-drone-commercial-autonome)
+   7. [Alphago](#Alphago)
+   8. [Boston Dynamics](#Boston-Dynamics)
+   9. Concepts
+   10. Appareils
       1. Ordinateurs portables
 
       2. Mobiles
@@ -181,66 +181,67 @@ Dorian Blanchard
       4. Réalité virtuelle 
 
       5. MMO
-      
-   3. Industrie du logiciel
-      1. Progiciel
-         1. Jeux vidéos
-            1. Educatif
 
-      2. Concepts de programmation moderne
-         1. Vecteurs
-         2. Matrices
+   11. Industrie du logiciel
+       1. Progiciel
+          1. Jeux vidéos
+             1. Educatif
 
-         3. Parallélisation
+       2. Concepts de programmation moderne
+          1. Vecteurs
+          2. Matrices
 
-         4. Pointeurs mémoires
+          3. Parallélisation
 
-         5. Calculs distribués
+          4. Pointeurs mémoires
 
-         6. 2SIG
-            1. Structure
+          5. Calculs distribués
 
-            2. Style
+          6. 2SIG
+             1. Structure
 
-            3. Interaction
+             2. Style
 
-            4. Gestion de la donnée 
+             3. Interaction
 
-         7. Pop SMTP
+             4. Gestion de la donnée 
 
-      3. Habitudes de programmation
-         1. Language naturel, formel, informatique, et construites
-         2. Syntaxe, vocabulaire et Grammaire
-         3. Pseudo Code parlé & Lojban
-         4. Ligne de commande
-         5. Commentaires et documentation
-         6. Interfaces logicielles avancées
-         7. Interopérabilité instantanée inter-appareils
-         8. Gestionnaires de version 
-         9. Programation Orientée Objet 
-         10. Cadriciels
-         11. API
-         12. Cloud
-         13. Tests et Vérification
-         14. CI / CD
-         15. Microservices
+          7. Pop SMTP
 
-      4. Philosophie personnelle
-         1. Réalisation de projets WMD (WYSIWYG meta dogfood)
-            1. Markdown
-            2. 
-         2. Informatique et cuisine
-         3. Faits, Vérité et doute. (biais de confirmations, multifactoriel)
-         4. La magie c'est de défaire et savoir refaire
-         5. LA DONNEE (collecte, emplacement géographique, valeur)
-         6. Un programme est un contrat.
-            1. Qu'il , soit moral ou non
-         7. Biais humain, machine, et réalité de la donnée (illusions de captation, interprétation, context)
-         8. Choix et Theorie des jeux
-         9. Sécurité, permissions, et contraintes.
-         10. Intelligence, Ambiguïtés et apprentissage : Nous sommes tous des IAs
-         11. Apprentissage par l’erreur, sans elle rien ne serais possible le succès ne s’obtient qu’en résolvant des micro problèmes 
-         12. On fait avec ce qu’on a, alors obligé d’accumuler, ça donne des (cf Cadriciels)
+       3. Habitudes de programmation
+          1. Language naturel, formel, informatique, et construites
+          2. Syntaxe, vocabulaire et Grammaire
+          3. Pseudo Code parlé & Lojban
+          4. Ligne de commande
+          5. Commentaires et documentation
+          6. Interfaces logicielles avancées
+          7. Interopérabilité instantanée inter-appareils
+          8. Gestionnaires de version 
+          9. Programation Orientée Objet 
+          10. Cadriciels
+          11. API
+          12. Cloud
+          13. Tests et Vérification
+          14. CI / CD
+          15. Microservices
+
+       4. Philosophie personnelle
+          1. Réalisation de projets WMD (WYSIWYG meta dogfood)
+             1. Markdown
+             2. 
+          2. Informatique et cuisine
+          3. Faits, Vérité et doute. (biais de confirmations, multifactoriel)
+          4. La magie c'est de défaire et savoir refaire
+          5. LA DONNEE (collecte, emplacement géographique, valeur)
+          6. Un programme est un contrat.
+             1. Qu'il , soit moral ou non
+          7. Biais humain, machine, et réalité de la donnée (illusions de captation, interprétation, context)
+          8. Choix et Theorie des jeux
+          9. Sécurité, permissions, et contraintes.
+          10. Intelligence, Ambiguïtés et apprentissage : Nous sommes tous des IAs
+          11. Apprentissage par l’erreur, sans elle rien ne serais possible le succès ne s’obtient qu’en résolvant des micro problèmes 
+          12. On fait avec ce qu’on a, alors obligé d’accumuler, ça donne des (cf Cadriciels)
+
 4. Philosophie
    1. AR / Mixed Reality
    2. Blockchain
@@ -250,11 +251,11 @@ Dorian Blanchard
    6. Code Golf
    7. Quine
 5. Conclusion
-6. Annexes
-   1. Webographie
-   2. Lexique
-   3. Table des illustrations
-   4. Page d'évalutation
+6. [Annexes](#Annexes)
+   1. [Webographie](#Webographie)
+   2. [Lexique](#Lexique)
+   3. [Table des illustrations](#Table des illustrations)
+   4. [Page d’évaluation](#Page d’évaluation)
 
 
 
@@ -704,7 +705,7 @@ Il a également déclaré que "l'homme est la mesure de toute chose", introduisa
 
 #### Socrate
 
-Socrate, né vers **-470** était fils d'une sage-femme, est le créateur de la maïeutique, l'art de faire accoucher les âmes, en questionnant un sujet, il pouvait lui faire prendre conscience d'une connaissance enfouie en lui. Il est également le père d'une méthode de réfutation nommée *elenchos*, consistant à challenger la thèse de son adversaire en la poussant à l'absurde, dans le but d'y révéler son côté irréel.
+Socrate, né vers **-470**, fils d'une sage-femme, est le créateur de la maïeutique, l'art de faire accoucher les âmes. En questionnant un sujet, il pouvait lui faire prendre conscience d'une connaissance enfouie en lui. Il est également le père d'une méthode de réfutation nommée *elenchos*, consistant à challenger la thèse de son adversaire en la poussant à l'absurde, dans le but d'y révéler son côté irréel.
 
 Marcheur parleur, il n'a jamais écrit, ses dires ont été relatés par ses disciples, il a étudier la nature, puis sa pensée s'est concentrée sur l'homme, qui doit selon lui s'étudier lui même tel un anthropologue.
 
@@ -715,7 +716,7 @@ Selon lui : "Les sages sont en fait des gens qui pensent l'être, ils s'imaginen
 
 Il avait un sens exacerbé du bien et mal, de la justice. Il à défendu des généraux accusés de ne pas avoir récupérer des corps de leurs soldats mort, à cause d'une tempête, et ce seul contre l'opinion publique en faveur de ce qui lui paraissait juste. Il était également contre la loi du talion, insistant sur le fait que l'on ne doit pas répondre à l'injustice par l'injustice, et au mal par le mal.
 
-Longtemps accusé d'avoir des croyances différentes et déviantes de la religion de l'époque, il fut condamné à l'impiété et de corruption de la jeunesse plutot que de se battre dans l'injustice. Accusé à tord, il fit malgré tout preuve d'une arrogance qui causera sa perte, contre-plaidant à la peine de mort en disant qu'il devrait manger gratuitement jusqu’à la fin de ses jours, et cela n'a vraisemblablement pas plu au jury qui le condamna à la ciguë, alors poison d'état, qu'il finira par boire acceptant pleinement son jugement bien qu'injuste. 
+Longtemps accusé d'avoir des croyances différentes et déviantes de la religion de l'époque, il fut condamné à l'impiété et de corruption de la jeunesse. Accusé à tord, il fit malgré tout preuve d'une arrogance qui causera sa perte, contre-plaidant à la peine de mort en disant qu'il devrait manger gratuitement jusqu’à la fin de ses jours, et cela n'a vraisemblablement pas plu au jury qui le condamna à la ciguë, alors poison d'état, qu'il finira par boire, acceptant pleinement son jugement, bien qu'injuste. 
 
 La légende dit même qu'il aurait pu s'évader mais qu'il a préféré accepter l'injustice que de la commettre. Il aurait également été contre la démocratie, qui "n'accorde pas assez d'importance au savoir et à ceux qui la détiennent", en effet, la majorité bien qu'elle permet souvent de se rapprocher de la vérité, peut aussi avoir tord, notamment sur des sujets précis nécessitant la connaissances d'experts.
 
@@ -735,9 +736,15 @@ Cette pensée émane à un moment où les mythes, fables et religions sont douce
 
 #### Platon
 
-Né vers -**428**, Platon faisait la distinction entre le monde intelligible et sensible. Il fonda l'Academie, qui forma nombre de philosophes.
+Né vers -**428**, Platon faisait la distinction entre le monde intelligible et sensible, il est pour cela parfois considéré comme idéaliste. Ce mouvement est caractérisé par l'axiome que toute réalité est liée à une idée, ou états d'esprit des observateurs, sans lequel le monde n'existe pas de manière autonome, n'étant qu'une représentation que l'on en fait. Plaçant la pensée au dessus et comme plus importante que le monde matériel, à l'inverse du matérialisme formulé bien plus tard au 18 ème siècle, prônant que l'esprit et la conscience ne sont le résultat d’interactions matérielles.
 
-Vers l'an -407 il fut introduit à Socrate.
+Cependant Platon déclare que les deux mondes forment une dualité, dans la théorie des formes et des idées qu'il formula, il soutient que l'esprit forme des abstractions intelligibles de ce que nous percevons du réel à travers notre sensibilité, des modèles, ou archétypes, permettant d’assimiler une information, et ainsi de la reconnaître, voire la comprendre. Les idées existent donc au delà de la pensée, elles sont immuables et universelles.
+
+Il fonda l’Académie, qui forma nombre de philosophes.
+
+Vers l'an -407 il fut introduit à Socrate, avec qui il partages bien d'idées, notamment concernant la démocratie, déclarant qu'un dirigeant doit être philosophe, avoir conscience de ses actes et du monde qu'il entoure, du bien et du mal. Il fut d'ailleurs impliqué en politique avant de la fuir lorsque le gouvernement despotique des Trente tyrans commit nombre d’exécutions et actes injustes.
+
+Simone Weil à dans son livre *La Source grecque* rapporter de lui qu'il affirmait et répétait ne rien avoir inventé, ne suivant qu'une tradition et s'inspirant des autres penseurs le précédent, notamment les Pythagoriciens.
 
 
 
@@ -2088,6 +2095,10 @@ Et un réel décalage entre offre et demande, nous observons des signaux forts c
 
 
 
+A la manière de Platon, je n'ai rien inventé, les idées sont immuables et universelles, elle appartiennent à personne.
+
+
+
 #### Sectes et philosophie d'entreprise
 
 De nos jours j'ai souvent entendu parler de philosophie d'entreprise. L'entreprise étant une entité morale, elle se compose d'un groupe de personnes physiques réunies pour accomplir quelque chose en commun. Ce groupe peut aussi réunir des personnes physiques et des personnes morales. Cela corresponds à une secte qui est un terme mal vu mais qui, comme beaucoup de mots, est poly-sémantique, il possède plusieurs définitions et connotations, il y a autant de ressentis différents accordées aux mots que d'expérience vivantes. D'un point de vue étymologique, il provient du latin "secta", signifiant "voie que l'on suit, parti, cause, doctrine". Or quand on travaille en groupe avec d'autres personnes, on suit tous, ensemble, une même voie, pendant une période définie de travail, qu'un salarié vends a son employeur.
@@ -2159,6 +2170,8 @@ CodingGame
 Logo
 
 
+
+Planning poker, reu tech, mais pas d'analyse commune -> reqwork extrm prog
 
 #### Méthodes d'aide à la structuration d'information 
 
@@ -2252,7 +2265,7 @@ Lorsque l'on travaille seul, on a parfois la tête dans le guidon,
 
 ###### Moteur de jeu
 
-Base sur Monogame, héritier de Microsoft XNA, j'ai développer toute une API qui s'avere exister aujourd'hui, je ne sais pas si elle existait a époque.
+Base sur Monogame, héritier de Microsoft XNA, j'ai développer toute une API qui s’avère exister aujourd'hui, je ne sais pas si elle existait a époque.
 
 Le theoreme de pythagore et la teigonometrie m'on ete tres utile
 
@@ -2570,3 +2583,13 @@ https://www.youtube.com/watch?v=Ag1AKIl_2GM
 
 
 https://www.amazon.fr/Building-Blocks-Teaching-Preschoolers-Special/dp/1557669678
+
+#### Lexique
+
+
+
+#### Table des illustrations
+
+
+
+#### Page d’évaluation
