@@ -570,7 +570,9 @@ Il y'a 6000 ans de cela, en Mésopotamie, vers l'an **-3900**, étaient utilisé
 
 ### Antiquité
 
-Marquée par l'invention la plus importante de notre histoire, en **-3250** dans la région de la Mésopotamie, la naissance de l'écriture à permis une transmission d'information complexes sur un support théoriquement permanent. Des lois, qu'elles soient juridiques, mathématiques, ou autres, ont alors pu être rédigées et transmises de manière plus fiable que par la transmission orale, pratiquée jusque là.
+Marquée par l'invention la plus importante de notre histoire, en **-3250** dans la région de la Mésopotamie, la naissance de l'écriture à permit une transmission d'information complexes sur un support théoriquement permanent. Des lois, qu'elles soient juridiques, mathématiques, ou autres, ont alors pu être rédigées et transmises de manière plus fiable que par la transmission orale, pratiquée jusque là en plus du dessin.
+
+Malgré cela, beaucoup de penseurs n'ont jamais rien écrit de leur vivant, et même si certaines personnes l'ont fait, comment peut on être sûr que les informations de leurs discours n'ont pas été déformés par des siècles de copies et réécriture, de ragots et légendes. Pour autant, ce qu'il en reste est une facette de la réalité, c'est ce qui a persisté jusque là grâce à ce que les personnes ont jugés important de transmettre.
 
 Cette période se finira en 450 par la chute de l'Empire Romain.
 
@@ -710,7 +712,7 @@ Socrate, né vers **-470**, fils d'une sage-femme, est le créateur de la maïeu
 Marcheur parleur, il n'a jamais écrit, ses dires ont été relatés par ses disciples, il a étudier la nature, puis sa pensée s'est concentrée sur l'homme, qui doit selon lui s'étudier lui même tel un anthropologue.
 
 
-Cicéron dira que "Socrate le premier invita la philosophie à descendre du ciel, l'installa dans les villes, l'introduisit jusque dans les foyers, et lui imposa l'étude de la vie, des mœurs, des choses bonnes et mauvaises". En effet, c'est la plus ancienne des personnalité philosophique connues à avoir eu une influence si importante grâce à un enseignement public gratuit.
+Cicéron dira que "Socrate le premier invita la philosophie à descendre du ciel, l'installa dans les villes, l'introduisit jusque dans les foyers, et lui imposa l'étude de la vie, des mœurs, des choses bonnes et mauvaises". En effet, après Pythagore qui n'enseignait pas la philosophie, c'est la plus ancienne des personnalité connues à avoir eu une influence si importante grâce à un enseignement public et gratuit de cette discipline.
 
 Selon lui : "Les sages sont en fait des gens qui pensent l'être, ils s'imaginent des connaissances et ignorent ce qu'ils ne savent point", cela rejoint à la fois la maïeutique et son opposition avec son ancien maître Protagoras.
 
@@ -726,11 +728,11 @@ https://www.youtube.com/watch?v=yp_UUPR6gfg
 
 #### Atomisme
 
-A cette période né la pensée d'une unité indivisible, l'atome.
+À cette période né la pensée d'une unité indivisible, l'atome, élément microscopique que l'on pensait insécable, composant la matière.
 
 Le philosophe présocratique Leucippe, élève de Zénon d'Élée et influencé par Pythagore, invente vers **-440** la philosophie atomiste, Démocrite puis Épicure et Lavoisier vont par la suite participer à l'évolution ce mouvement dont la réalité ne serait formée que de plein, de vide et de mouvement.
 
-Cette pensée émane à un moment où les mythes, fables et religions sont doucement mises en doute. Plusieurs philosophes dont Socrate, seront jugés pour impiété, cette période marqua donc la naissance d'un courant de pensé qui se lia rapidement avec l'apprentissage de la mort, que l'on retrouvera dans le stoïcisme et l'épicurisme et son rôle dans la vie de l'être réel.
+Cette pensée émane à un moment où les mythes, fables et religions sont doucement mises en doute. Plusieurs philosophes dont Socrate, seront jugés pour impiété, cette période marqua donc la naissance d'un courant de pensé qui se lia rapidement avec l'apprentissage de la mort et son rôle dans la vie de l'être réel, que l'on retrouvera dans le stoïcisme et l'épicurisme.
 
 
 
@@ -740,7 +742,7 @@ Né vers -**428**, Platon faisait la distinction entre le monde intelligible et 
 
 Cependant Platon déclare que les deux mondes forment une dualité, dans la théorie des formes et des idées qu'il formula, il soutient que l'esprit forme des abstractions intelligibles de ce que nous percevons du réel à travers notre sensibilité, des modèles, ou archétypes, permettant d’assimiler une information, et ainsi de la reconnaître, voire la comprendre. Les idées existent donc au delà de la pensée, elles sont immuables et universelles.
 
-Il fonda l’Académie, qui forma nombre de philosophes.
+Il fonda l’Académie, à Athènes, basée sur l'école Pythagoricienne, qui forma nombre de philosophes jusqu’à l'an **-86**.
 
 Vers l'an -407 il fut introduit à Socrate, avec qui il partages bien d'idées, notamment concernant la démocratie, déclarant qu'un dirigeant doit être philosophe, avoir conscience de ses actes et du monde qu'il entoure, du bien et du mal. Il fut d'ailleurs impliqué en politique avant de la fuir lorsque le gouvernement despotique des Trente tyrans commit nombre d’exécutions et actes injustes.
 
@@ -752,33 +754,25 @@ Simone Weil à dans son livre *La Source grecque* rapporter de lui qu'il affirma
 
 Étymologiquement, ce mot signifie en latin « qui aime apprendre », ou en grec, « qui provient d’une leçon », autrement dit : du savoir d’autrui.
 
-
-
 Sa définition moderne, présente dans le Larousse, comme sur Wikipédia, vient corroborer cette étymologie, indiquant que c’est un ensemble de connaissances abstraites résultant de raisonnements logiques, appliqués à des objets tangibles, telles que les formes physiques, les structures qu’elles constituent, et leurs transformations possibles à l’aide des relations existantes entres ces objets.
-
-
 
 Ces connaissances abstraites, ce sont les nombres, ainsi que les opérations, formules et théorèmes qui nous permettent de les utiliser.
 
 Cette abstraction que sont les mathématiques, basée initialement sur des axiomes tangibles, règles que l'on admet comme vraies, s’est petit à petit détachée de toute contrainte physique, et à ainsi donner naissances à deux disciplines, les mathématiques appliquées, et les mathématiques pures. 
 
-
-
 **400 ans avant J.-C.**, Platon à contribué à cette distinction dans la Grèce Antique, séparant la technique de calcul ; "appropriée pour l’homme d’affaire et de guerre", qui doit quantifier et gérer ses troupes, gains et pertes ; de la théorie des nombre "nécessaire au philosophe pour surplomber la mer des changements et s’emparer de ce qui est véritable".
-
-
 
 Les mathématiques pures, tendent à la généralité, ou comme on le dirait en langage de mathématicien, vers la factorisation, c’est à dire la simplification d’un concept sous une forme plus courte, et facile à comprendre, et donc à transmettre et réutiliser. Notez que c'est également une notion très utilisée en programmation, la refactorisation. Elle fait parti des bonnes habitudes et de l'amélioration continue.
 
-Ce processus de réécriture syntaxique, trouve ses plus vieilles traces connues a la même période, le langage SMS serait avéré par un Bibliographe, Diogène Laërce, les premières traces remonteraient ainsi à **405 avant J.-C**., date à laquelle Xénophon, élève de Socrates, aurait usé de *sténographie* pour transcrire les discours de son maître, face au besoin d'écrire rapidement et idéalement à la vitesse de la parole. La sténographie, du grec ancien "écriture courte", est un procédé de tachygraphie soit "écriture rapide".
+Ce processus de réécriture syntaxique, trouve ses plus vieilles traces connues a la même période, le langage SMS serait avéré par un Bibliographe, Diogène Laërce, les premières traces remonteraient ainsi à **405 avant J.-C**., date à laquelle Xénophon, élève de Socrate, aurait usé de *sténographie* pour transcrire les discours de son maître, face au besoin d'écrire rapidement et idéalement à la vitesse de la parole. La sténographie, du grec ancien "écriture courte", est un procédé de tachygraphie signifiant "écriture rapide".
 
 
 
 #### Aristote
 
-Né en **-384**, il étudia 20 ans à l’Académie de Platon, et fondu par la suite le Lycée.
+Né en **-384**, il étudia 20 ans à l’Académie de Platon, et fonda par la suite le Lycée.
 
-Il était confiant en la sensation, qui permet la perception et la cognition du monde réel, qui ne nécessite pas un scepticisme constant. Pour lui c'est une première ouverture vers le savoir, qui faut mélanger avec le savoir d'autrui, de gens sérieux, expert du domaine, et sans prendre ce qui est dit pour véridique mais pour tester leur capacité a se rapprocher du réel et d'une vérité universelle.
+Il était confiant en la sensation, qui permet la perception et la cognition du monde réel, qui ne nécessite selon lui pas un scepticisme constant. Il nuança son propos en disant que c'est une première ouverture vers le savoir, qu'il faut mélanger avec le savoir d'autrui, de gens sérieux, expert du domaine, et sans prendre ce qui est dit pour véridique mais pour tester leur capacité a se rapprocher du réel et d'une vérité universelle.
 
 théorie des formes et des idées et archétypes
 
@@ -850,7 +844,7 @@ Toujours en rapport avec la construction et l'eau, il décrira le chorobate, un 
 
 D'un point de vue de l'information, Vitruve à réaliser un travail de recherche et de retransmission très efficace dans le domaine de la construction liée à l'eau. Son livre "De architectura" est le seul qui nous reste sur l’architecture de l’Antiquité classique, malgré ses quelques innovations il a surtout poser les code de l'architecture et de la construction devant être solide, utile et belle. 
 
-Les six principes théoriques qui les régissent étant l'ordonnance, la disposition, l'harmonie, la symétrie, la convenance, et la distribution. En effet pour mener de telles réalisations architecturales a bien, il fallait naturellement que la création soit bien disposée dans son environnement, afin d'avoir une certaine harmonie et un design symétrique autant par praticité que pour la beauté et imitation de la nature ; et enfin l'ordonnance la convenance et la distribution sont nécessaire pour gérer les équipes travaillant sur le projet et que tout le monde y trouve son compte dans la réalisation du projet.
+Les six principes théoriques qui les régissent étant l'ordonnance, la disposition, l'harmonie, la symétrie, la convenance, et la distribution. En effet pour mener de telles réalisations architecturales a bien, il fallait naturellement que la création soit bien disposée dans son environnement, afin d'avoir une certaine harmonie et un design symétrique autant par praticité que pour la beauté et imitation de la nature. Enfin, l'ordonnance, la convenance, et la distribution, sont nécessaire pour gérer les équipes travaillant sur un projet, afin que tout le monde y trouve son compte dans sa réalisation.
 
 
 
@@ -862,7 +856,7 @@ Originaire d'Alexandrie, il serait né et aurait vécu pendant le **premier siè
 
 #### Ménélaos
 
-Né vers l'an 70, également dans la ville d'Alexandrie, Ménélaos était un mathématicien et astronome à qui on doit des notions de géométries, notamment concernant les sphères, comme la géodésique, qui représente une ligne droite sur une surface courbe, qui dans le cas d'une sphère représente un trait droit suivant la courbure de la sphère, jusqu’à retourner à son origine, formant une droite correspondant à un grand cercle. Cette ligne est très liée à la distance minimale entre deux points d'une surface, qui est toujours une ligne droite, correspondant à la géodésique.
+Né vers l'an **70**, également dans la ville d'Alexandrie, Ménélaos était un mathématicien et astronome à qui on doit des notions de géométries, notamment concernant les sphères, comme la géodésique, qui représente une ligne droite sur une surface courbe, qui dans le cas d'une sphère représente un trait droit suivant la courbure de la sphère, jusqu’à retourner à son origine, formant une droite correspondant à un grand cercle. Cette ligne est très liée à la distance minimale entre deux points d'une surface, qui est toujours une ligne droite, correspondant à la géodésique.
 
 
 
@@ -1077,7 +1071,7 @@ C'était la seule machine à calculer fonctionnelle au 18è siècle, elle marque
 
 
 
-Blaise Pascal, né en **1623** à Clermont-Ferrand, était ce que l'on appelle un esprit *polymathe*, c'est à dire qu'il connaissait un grand nombre de sujets; certes variés, mais notamment dans le champ des arts et des sciences, comme Leonard De Vinci qui eu conçu lui aussi plusieurs machines, pour le théâtre mais aussi hydrauliques, volantes, textiles, et de guerre. Ce genre de personnalités historiques sont considérés comme esprits universels.
+Blaise Pascal, né en 1623 à Clermont-Ferrand, était ce que l'on appelle un esprit *polymathe*, c'est à dire qu'il connaissait un grand nombre de sujets; certes variés, mais notamment dans le champ des arts et des sciences, comme Leonard De Vinci qui eu conçu lui aussi plusieurs machines, pour le théâtre mais aussi hydrauliques, volantes, textiles, et de guerre. Ce genre de personnalités historiques sont considérés comme esprits universels.
 
 Essentiellement mathématicien, il publie un traité de géométrie projective à 16 ans et invente la première machine à calculer à 19.
 
@@ -1089,7 +1083,7 @@ hexagrammes mystique de Pascal
 
 #### Baruch Spinoza
 
-Selon lui il n'existe dans la nature qu'une seule substance et que c'est Dieu.
+Très inspiré par le Stoïcisme, selon lui il n'existe dans la nature qu'une seule substance et que c'est Dieu.
 
 **1632** -> 1677
 
@@ -1782,9 +1776,13 @@ Créé aux États-Unis en **1955**, le TRAnsistor DIgital Computer a été premi
 
 #### IBM 1401
 
-Fabriqué entre **1959** et 1965, il a été l'ordinateur à transistor le plus vendu, notamment grâce à la politique marketing d'IBM qui a adopter une vision globale, dans l'objectif de prendre en compte le maximum d'utilisateurs et donc clients potentiels, politique qui avait déjà fait ses preuves avec le modèle 650. IBM à ainsi créer plus qu'un ordinateur, un système complet, avec une imprimante pouvant imprimer 600 lignes par minutes, principale raison d'achat ayant fait son succès. 
+Fabriqué entre **1959** et 1965, il a été l'ordinateur à transistor le plus vendu, notamment grâce à la politique marketing d'IBM qui a adopter une vision globale, dans l'objectif de prendre en compte le maximum d'utilisateurs et donc clients potentiels, politique qui avait déjà fait ses preuves avec le modèle 650. IBM à ainsi créer plus qu'un ordinateur, un système complet, avec une imprimante pouvant imprimer 600 lignes par minutes, principale raison d'achat ayant fait son succès. En plus de cela, étant muni de transistors bien plus fiables que les tubes à vide, il a rendu obsolète les ordinateurs en étant munis en même temps que les machines électromécaniques qui était encore utilisées par soucis monétaires.
 
 Par la même occasion, IBM invente le Report Program Generator (RPG), un langage de programmation haut niveau facile à comprendre, permettant aux comptables et techniciens de tabulatrices de se "reconvertir", en utilisant des concepts qu'ils connaissent et utilisaient déjà sur les panneaux de contrôles, où ils branchaient des câbles pour implémenter les entrées, calculs, et sorties. Ils pouvaient ainsi programmer sans apprendre toutes les arcanes de l'assembleur, du COBOL, ou encore du FORTRAN. Malgré cela, beaucoup de client préféraient demander les logiciels directement à IBM, qui avait un monopole si important qu'ils pouvaient se permettre de les livrer "gratuitement" avec les machines qu'ils louaient.
+
+
+
+
 
 
 
@@ -1809,6 +1807,28 @@ Par la même occasion, IBM invente le Report Program Generator (RPG), un langage
 #### Luciano Floridi
 
 Né à Rome le 16 novembre **1964**, ce philosophe est l'un des plus important théoriciens de la Philosophie de l'information et de l'éthique de l'informatique. Il a fonder et dirige plusieurs groupes de recherche dans ces domaines.
+
+
+
+#### IBM System 360
+
+Alors que Control Data Corporation (CDC) s'attaque au marché scientifique, fournissant des ordinateurs avec un meilleur rapport performance / prix, les plaçant 3 ème derrière UNIVAC et le leader IBM ; que General Electric annonce 3 ordinateurs bas, moyen et haut de gamme ; que la Radio Corporation of America (RCA) et Honeywell décident de réaliser un ordinateur compatible avec le 1401 et d'autres machines IBM ; cette dernière se rends compte que ses concurrents ont déceler une opportunité et qu'ils doivent réagir à cette menace mettant en danger leur domination sur la marché.
+
+IBM lance alors une gamme d'ordinateurs compatibles entre eux, ayant la même architecture, et capable d’exécuter les mêmes logiciels ; ce qui n'était à ce moment pas le cas, posant problème autant à ses clients qu'à IBM même, ces machines alors très spécialisées n'offrait pas une grande interopérabilité ou possibilité de changements de logiciel comme de matériel et périphériques, voire chaîne de production, nécessitant des experts de la machine en question.
+
+Contrairement aux machine à cartes perforées, les ordinateurs n'avait donc à ce moment pas de normes et standards, nécessitant parfois de recoder un même programme sur X machines différentes, un processus très onéreux.
+
+IBM décide alors de concevoir le System/360 en 1962, il n'a pas été économe pour autant, 5 billion de dollars, c'est plus que le budget du projet Manhattan. Cela a provoqué des différent monumentaux dans leurs équipes, ils ont été obligés d'isoler celle en charge du 360.
+
+Niveau marketing ils aurait pu tout anoncer d'un coup mais ont décider d'anoncer machine par machine permettant une adoption progressive comme cela avait été le cas pour le passage des machines electromécaniques aux ordinateurs dans les années 50.
+
+Alors qu'Honeywell lance en 1963 le modèle 200 compatible IBM 1401, qu'IBM décida de rendre progressivement obsolète, et lance en **1964** la communication du System/360 dans 63 villes des États Unis et 14 pays étrangers, 6 ordinateurs et 44 périphériques.
+
+S'en suit plus de 5 billions de chiffre d'affaire, 30 ans de croissance, "l'ordinateur a été fait par IBM et a fait IBM".
+
+Cet ordinateur avait pourtant bien des défauts, il ne supportait pas le temps partagé, permettant d'être utilisé par plusieurs utilisateurs en même temps.
+
+
 
 
 
@@ -2390,6 +2410,8 @@ Doit on avoir moins de fonctionnalité sur mobile ? Non, c'est l'interface qui d
 
 
 Un ludiciel doit être vivant, animé, utilisé, collaboratif.
+
+Les developpeurs sont les cordoniers les plus mals chaussés, on parle souvent d'expérience utilisateur, mais l'expérience développeur reste à désirer, voire archaïque. On est selon moi encore au moyen âge de l'informatique.
 
 
 
