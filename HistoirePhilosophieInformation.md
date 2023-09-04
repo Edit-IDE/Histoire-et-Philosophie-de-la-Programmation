@@ -786,9 +786,21 @@ Aristote éthique, bien, reves (lucide)
 
 Pour Zénon de Kition, qui fonda le stoïcisme en l'an **-301**, la mort est une *indifférence*, qui n'est ni un *mal*, ni un *bien*, ces trois choses formant le monde selon lui l'existence du monde réel.
 
-Marc aurele 
+Il existe cependant des indifférences préférables, mais ce qui compte est la vertu,
+
+"exerce ta volonté à renoncer a tout ce que tu craint de perdre un jour". Les jedis sont stoiciens
+
+Nos désirs et nos craintes sont causés par nos représentations, lesquelles peuvent être changées, pour autant, le stoïcisme n'appelle pas à se gazligher, mais à prendre en compte les choses telles qu'elle sont et s'en détacher, afin de se rapprocher de la vertu et s'éloigner des émotions, surtout négatives.
+
+Dieu est tout, mais pas dans le sens d'une divinité qui aurait un impact sur le monde. Sénèque dira même que "La nature ne peut pas plus exister sans Dieu, que Dieu sans la nature. L'un et l'autre sont une même chose", Spinoza reprendra ce concept.
+
+Marc aurele
+
+Cinisme
 
 Philip Kindred Dick : "La réalité, c'est ce qui continue d'exister lorsque l'on cesse d'y croire"
+
+https://www.youtube.com/watch?v=iE08wLRGPcQ
 
 
 
@@ -809,6 +821,8 @@ En définitive, cette discipline que sont les mathématiques est une philosophie
 #### Archimède
 
 Archimède de Syracuse est né en **-287**, il fut élève d'Euclide. On lui doit le fameux théorème de la poussée du même nom et l'explication du principe du levier, mais aussi la vis d'Archimède ou le palan qui permet de soulever des charges à l'aide d'un double système de poulies.
+
+donner moi un bon point dappui et je souleverai le monde
 
 Considéré comme le plus grand mathématicien de l'Antiquité, il a apporté beaucoup à la géométrie pour laquelle il a étudier et rédigé des traité sur les cônes, spirales, cylindres, paraboles, et cercles ; mais aussi à la mécanique.
 
@@ -2191,6 +2205,19 @@ Logo
 
 
 
+Apprentissage
+
+L'apprentissage commence généralement avec de la mémorisation, s'ensuit une compréhension qui permet la résolutions de problèmes et enfin s'y ajoute la créativité que l'on débloque lorsque l'on à le savoir et le savoir faire. La mémorisation étant le terreau du savoir, il est important de comprendre que scientifiquement on sait aujourd'hui que les humains ont tout comme les machines une mémoire de travail et une mémoire à long terme. On peut comparer ses deux mémoires à la RAM et les stockages de masse. Le cerveau possède même un mécanisme d'encodage de l'information vers la mémoire à long terme et de récupération vers la mémoire de travail, les informations les plus importantes possèdent plus d'amorces, permettant de les retrouver et s'en souvenir plus facilement, et avec bien sur certaines informations dont le signal se perd, dans l'oubli, nécessaire à trier et jeter ou archiver ce qui l'est moins, dans le cas de la mémoire à long terme, cela se produit en perdant des amorces au fur et a mesure du temps.
+
+
+
+A l'aide de schémas mentaux, nous associons un ensemble de concepts ou d'idées liées, permettant de formuler facilement des phrases compréhensibles et retransmissibles. L'humain à la chance d'être multimodal et d'avoir plusieurs "périphériques" biologiques. Une fois qu'il a capté une information grâce à un d'entre eux, il doit la revoir ou se la répéter à intervalles réguliers et assez courts afin de le mémoriser. D'après ce que l'on a vu précédemment cela fait sens, la répétition de la perception de cette information par l'esprit va lui permettre de créer plus d'amorces et constituer des schémas mentaux. La reformulation sous forme de questions que l'on peut se poser pour tester ses connaissance permet un apprentissage plus rapide, reformuler dans le but de réexpliquer permet également de diversifier son apprentissage [^1]
+
+
+
+[^1]: https://www.youtube.com/watch?v=RVB3PBPxMWg
+
+
 Planning poker, reu tech, mais pas d'analyse commune -> reqwork extrm prog
 
 #### Méthodes d'aide à la structuration d'information 
@@ -2294,6 +2321,10 @@ Le theoreme de pythagore et la teigonometrie m'on ete tres utile
 
 
 ##### Développement personnel
+
+
+
+on invente rien en realite, on decouvre le monde, on essaye de comprendre ses regles et les utiliser chacun a notre maniere avec notre perception, sensibilite et connaissances 
 
 ###### Rigueur et retravail
 
