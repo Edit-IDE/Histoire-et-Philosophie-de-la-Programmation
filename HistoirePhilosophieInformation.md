@@ -161,7 +161,7 @@ Dorian Blanchard
       11. [World Wide Web](#World-Wide-Web)
       12. [Deep Blue](#Deep-Blue)
    10. [Bilan passé](#Bilan-passé)
-3. Présent
+3. [Pratiques actuelles](#Pratiques-actuelles)
    1. [Honda asimo](#Honda asimo)
    2. [Roomba](#Roomba)
    3. [Darpa Grand Challenge](#Darpa-Grand-Challenge)
@@ -466,15 +466,20 @@ Dorian Blanchard
 
 ## Introduction
 
-La transmission d'information s'est fiabilisée au fil des époques, avec l'usage d'outils physique ; notamment des tablettes, plaques permettant de dessiner, d'écrire, lire, compter. Et ce jusqu'à pouvoir automatiser son traitement et son stockage, à l'aide de l'informatique, dont l'histoire ne commence qu'à la fin du 19e siècle.
+La transmission d'information s'est fiabilisée au fil des époques, avec l'usage d'outils physique ; notamment des tablettes, plaques permettant de dessiner, d'écrire, lire, compter. Et ce jusqu'à pouvoir automatiser son traitement et son stockage, à l'aide de l'informatique, dont l'histoire ne commence qu'à la fin du 19 ème siècle.
 
 De nos jours, nous interagissons quotidiennement avec des ordinateurs, que ce soit à l'aide de la programmation, ou des interfaces qui en sont issues. Pourtant, la grande majorité des utilisateurs, et même des personnes travaillant dans le domaine des Technologies de l'Information et de la Communication (TIC), ne connaissent pas la plupart des événements majeurs de son histoire.
 
 Moi même n'ayant pas cette connaissance lorsque j'ai entrepris la rédaction de ce mémoire, j'ai décidé de me documenter et de rédiger un format accessible, avec ce qui m'a semblé être nécessaire pour comprendre le sujet, et ainsi vous le partager à vous, lecteurs de cet ouvrage.
 
-Pour la rédaction de ce dernier, j'ai acquis 3 livres : la 4e édition de "Computer, A History of the Information Machine" de Martin Campbell-Kelly ; "The history of the computer : people, inventions, and technology that changed our world" de Rachel Ignotofsky, et "Histoire illustrée de l'informatique" d'Emmanuel Lazard et Pierre Mounier-Kuhn.
+Pour la rédaction de ce dernier, j'ai acquis 3 livres : 
 
-Tous ces livres ont leurs avantages grâce à une approche différente d'un même sujet, sur lequel je m'attendais à trouver plus de bibliographie. J'ai essayé d'avoir une démarche plus globale que l'informatique et l'ordinateur, qui est sont des concepts très récent. Et ce en abordant le thème global qu'est l'information et en y ajoutant de la philosophie, ainsi que mon humble analyse subjective, parce que l'apprentissage des mathématiques et de l'informatique ont changé ma manière de concevoir le monde dans lequel nous vivons.
+- la 4e édition de "Computer, A History of the Information Machine" de Martin Campbell-Kelly professeur émérite britannique spécialisé dans l'histoire de l'informatique; réédition coécrite avec William F.Aspray, Jeffrey R. Yost, Honghong Tinn, et Gerardo Con Diaz.
+- "The history of the computer : people, inventions, and technology that changed our world" de Rachel Ignotofsky
+- "Histoire illustrée de l'informatique" d'Emmanuel Lazard et Pierre Mounier-Kuhn.
+- "Transmettre" de Christophe André, Céline Alvarez, Catherine Gueguen, Matthieu Ricard, Frédéric Lenoir, Ilios Kotsou, Caroline Lesire
+
+Tous ces livres ont leurs avantages grâce à une approche différente d'un même sujet, sur lequel je m'attendais à trouver plus de bibliographie. J'ai essayé d'avoir une démarche plus globale que l'informatique et l'ordinateur, qui sont des concepts très récent. Et ce en abordant le thème global qu'est l'information et en y ajoutant de la philosophie, ainsi que mon humble analyse subjective, parce que l'apprentissage des mathématiques et de l'informatique ont changé ma manière de concevoir le monde dans lequel nous vivons.
 
 
 
@@ -2482,7 +2487,7 @@ https://fr.wikipedia.org/wiki/Philosophie_de_l%27information
 
 ##### One thing at a time
 
-Where AM I ?
+Where AM I ? (Path)
 
 ##### WYSIWYG
 
@@ -2530,11 +2535,14 @@ Le formulaire de création de fonction et son interface dédiées indiqueront le
 
 ##### Visualisation
 
-Les sucres syntaxiques devrait être des éléments d'interface graphique. Quand j'arrive dans un fichier, je veux savoir directement le nom des variables et fonctions qui le constitue, je me fiche d'avoir le contenu le détail ou d'entre elles, ni même leurs paramètres ou leur type de retour, bien que je doit pouvoir rechercher en fonction de ses derniers.
+Les sucres syntaxiques devrait être des éléments d'interface graphique.
 
-De la même manière, quand je travaille sur une fonction je ne désire voir que ce qui concerne cette fonction.
+Quand j'arrive dans un fichier, je veux savoir directement le nom des variables et fonctions qui le constitue, je me fiche d'avoir le contenu le détail ou d'entre elles, ni même leurs paramètres ou leur type de retour, bien que je doit pouvoir rechercher en fonction de ses derniers. De la même manière, quand je travaille sur une fonction je ne désire voir que ce qui concerne cette fonction.
+
+
 
 #### Rêves lucides
+
 Conscience
 metacognition
 mémoire onirique
