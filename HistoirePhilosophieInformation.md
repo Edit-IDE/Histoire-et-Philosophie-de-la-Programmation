@@ -2210,7 +2210,7 @@ Logo
 
 
 
-Apprentissage
+#### Apprentissage
 
 L'apprentissage commence généralement avec de la mémorisation, s'ensuit une compréhension qui permet la résolutions de problèmes et enfin s'y ajoute la créativité que l'on débloque lorsque l'on à le savoir et le savoir faire. La mémorisation étant le terreau du savoir, il est important de comprendre que scientifiquement on sait aujourd'hui que les humains ont tout comme les machines une mémoire de travail et une mémoire à long terme. On peut comparer ses deux mémoires à la RAM et les stockages de masse. Le cerveau possède même un mécanisme d'encodage de l'information vers la mémoire à long terme et de récupération vers la mémoire de travail, les informations les plus importantes possèdent plus d'amorces, permettant de les retrouver et s'en souvenir plus facilement, et avec bien sur certaines informations dont le signal se perd, dans l'oubli, nécessaire à trier et jeter ou archiver ce qui l'est moins, dans le cas de la mémoire à long terme, cela se produit en perdant des amorces au fur et a mesure du temps.
 
@@ -2342,6 +2342,28 @@ Doute constant et remise en question en sont la clé.
 ###### Do it now
 
 Dès que l'on constate un problème, reflexe de réaliser la tâche dans la foulée ou de la planifier pour ne pas que l'information se perde
+
+
+
+###### Aide
+
+Il n'y a jamais de mal à demander de l'aide, on vit dans un monde ou cela demande pourtant beaucoup d'effort, hors quand on est en difficulté, c'est l'aide qui devrait venir à nous, pas l'inverse.
+
+Je me suis toujours efforcé de venir en aide ceux qui en avait vraiment besoin, pendant la période Covid j'ai héberger deux amis qui se sont retrouvés à la rue. C'était une période difficile mais je suis content d'avoir pu leur fournir un endroit neutre, avec le stricte nécessaire, du temps pour se reposer, et une oreille pour les écouter.
+
+J'ai même parfois aider des gens qui m'avait fait des crasses à nettoyer les leurs, et je ne regrette pas, peut être que grâce à ça ils se sont rendu compte qu'ils ont agis injustement, et que la bonté transcende les mauvais actes ; et même si ce n'est pas le cas, j'ai agis, et agirais toujours selon ma morale et ce qui me semble bien.
+
+Ce qui fait la force de l'humanité, c'est l'amitié et l'entraide, sans cela on n'aurais jamais réussi à aller aussi loin dans l'histoire. Seul on va plus vite, ensemble, on va plus loin.
+
+
+
+##### STOP
+
+Dans le monde du travail, comme personnel, il est important de prendre soin de soi avant tout, cependant, quelqu'un qui bloque sur un problème n'avance plus et peut retarder les autre également.
+
+On entends souvent parler de Lean Startup comme livre de référence, et il y a une notion dedans qui est rarement reprise mais que je trouve très importante, lorsqu'il y a un problème dans une chaîne de production, il est mieux de tout arrêter pour éviter qu'il n'impacte le reste. Cela permet également de trouver une solution ensemble et que tout le monde ai connaissance du problème, et ce dans un but informatif et préventif.
+
+Les confinements comme celui que l'on a eu lors de la période du Covid nous le confirme également. Il vaut parfois mieux tout mettre en pause pour éviter de foncer dans le mur et mieux repartir par la suite.
 
 
 
