@@ -466,7 +466,7 @@ Dorian Blanchard
 
 ## Introduction
 
-La transmission d'information s'est fiabilisée au fil des époques, avec l'usage d'outils physique ; notamment des tablettes, plaques permettant de dessiner, d'écrire, lire, compter. Et ce jusqu'à pouvoir automatiser son traitement et son stockage, à l'aide de l'informatique, dont l'histoire ne commence qu'à la fin du 19 ème siècle.
+La transmission d'information s'est fiabilisée au fil des époques, avec l'usage d'outils physique ; notamment des tablettes, plaques permettant de dessiner, d'écrire, lire, compter ; et ce jusqu'à pouvoir automatiser son traitement et son stockage, à l'aide de l'informatique, dont l'histoire ne commence qu'à la fin du 19 ème siècle.
 
 De nos jours, nous interagissons quotidiennement avec des ordinateurs, que ce soit à l'aide de la programmation, ou des interfaces qui en sont issues. Pourtant, la grande majorité des utilisateurs, et même des personnes travaillant dans le domaine des Technologies de l'Information et de la Communication (TIC), ne connaissent pas la plupart des événements majeurs de son histoire.
 
@@ -474,33 +474,33 @@ Moi même n'ayant pas cette connaissance lorsque j'ai entrepris la rédaction de
 
 Pour la rédaction de ce dernier, j'ai acquis 3 livres : 
 
-- la 4e édition de "Computer, A History of the Information Machine" de Martin Campbell-Kelly professeur émérite britannique spécialisé dans l'histoire de l'informatique; réédition coécrite avec William F.Aspray, Jeffrey R. Yost, Honghong Tinn, et Gerardo Con Diaz.
+- la 4e édition de "Computer, A History of the Information Machine" de Martin Campbell-Kelly, professeur émérite britannique, spécialisé dans l'histoire de l'informatique. C'est une réédition coécrite avec William F.Aspray, Jeffrey R. Yost, Honghong Tinn, et Gerardo Con Diaz.
 - "The history of the computer : people, inventions, and technology that changed our world" de Rachel Ignotofsky
 - "Histoire illustrée de l'informatique" d'Emmanuel Lazard et Pierre Mounier-Kuhn.
 - "Transmettre" de Christophe André, Céline Alvarez, Catherine Gueguen, Matthieu Ricard, Frédéric Lenoir, Ilios Kotsou, Caroline Lesire
 
-Tous ces livres ont leurs avantages grâce à une approche différente d'un même sujet, sur lequel je m'attendais à trouver plus de bibliographie. J'ai essayé d'avoir une démarche plus globale que l'informatique et l'ordinateur, qui sont des concepts très récent. Et ce en abordant le thème global qu'est l'information et en y ajoutant de la philosophie, ainsi que mon humble analyse subjective, parce que l'apprentissage des mathématiques et de l'informatique ont changé ma manière de concevoir le monde dans lequel nous vivons.
+Les trois premiers livres ont chacun leurs avantages grâce à une approche différente d'un même sujet, sur lequel je m'attendais à trouver plus de bibliographie. Contrairement à ceux-ci, j'ai essayé d'avoir une démarche plus globale que l'informatique et l'ordinateur, qui sont des concepts très récent. Et ce en abordant le thème global qu'est l'information, tout en y ajoutant de la philosophie, ainsi que mon humble analyse subjective, parce que l'apprentissage des mathématiques et de l'informatique ont changé ma manière de concevoir le monde dans lequel nous vivons.
 
 
 
-Dans ce mémoire, je vais revenir aux racines les plus ancestrales de la gestion de l'information, au vocabulaire du champ lexical qui y sont liés ou en découle, ainsi que leurs étymologies à travers leur Histoire qui représente toute la première partie de ce livre.
+Dans ce mémoire, je vais donc revenir aux racines les plus ancestrales de la gestion de l'information, au vocabulaire et champ lexical qui y sont liés ou en découle, ainsi que leurs étymologies à travers leur Histoire, qui représente toute la première partie de ce livre.
 
 J'aborderai aussi un sujet qui m'est cher, la programmation. Elle n'est pas forcement liée à l'informatique, c'est l'art de planifier et mettre en œuvre des étapes à suivre pour obtenir un résultat. Cela dit, elle passe inévitablement par de la gestion de l'information, à l'aide d'écriture, lecture, chiffrement, déchiffrement, émission, et réception.
 
-C'est également pourquoi je m’intéresserai de très près à l'apprentissage, très présent dans les technologies comme l'intelligence artificielle, qui représente l’acquisition et l'assimilation d'une information ou d'un système ; ainsi qu'à la pédagogie, propre à l'humain, animal social émotionnel ; et au rapport maître / élève.
+C'est pourquoi je m’intéresserai également à l'apprentissage, très présent dans les technologies comme l'intelligence artificielle, qui représente l’acquisition et l'assimilation d'une information ou d'un système ; ainsi qu'à la pédagogie, propre à l'humain, animal social émotionnel ; et au rapport maître / élève.
 
-Je dresserai ensuite un bilan de l’état actuel de l'informatique, de son marché, et une étude de sa pratique moderne, et ce afin d'en identifier les problèmes que l'on y rencontre en tant que développeur, ainsi que des solutions possibles.
+Je dresserai ensuite un bilan de l’état actuel de l'informatique, de son marché, ainsi qu'une étude de sa pratique moderne ; et ce afin d'en identifier les problèmes que l'on y rencontre en tant que développeur, pour finir par en dégager de possibles solutions.
 
-Enfin, à l’aide de l’étude précédente, je dresserai ma projection subjective en tant qu'acteur et éditeur de logiciels, pour le futur de cette discipline, plus notamment la pratique que je souhaite en avoir en tant que créateur de services et contenu web.
+Enfin, à l’aide de l’étude précédente, je dresserai ma projection subjective en tant qu'acteur et éditeur de logiciels, pour le futur de cette discipline, plus particulièrement la pratique que je souhaite en avoir en tant que créateur de services et contenu web.
 
 
 
 Notes : 
 
-- L’histoire se souvient rarement de la première occurrence d’une invention, ce qu'il en reste est généralement sa démocratisation.
+- L’Histoire ne se souvient que rarement de la première occurrence d’une invention, ce qu'il en reste est généralement sa démocratisation.
 - Il est évident que tout les concepts scientifiques ne sont que des formulations écrites de théories issues de la raison, qui étaient déjà connues par certaines personnes de manière empirique.
 - La majorité des mots sont poly-sémantiques, ils n'ont pas de signification unique.
-- Les paroles s’envolent les écrits restent, c'est pourquoi la littérature est importante. Ecrire permet de faire naître une information et potentiellement de la rendre éternelle
+- Les paroles s’envolent les écrits restent, c'est pourquoi la littérature est importante. Écrire permet de faire naître une information et potentiellement de la rendre éternelle.
 
 - Le savoir est magie pour les idiots, et secret de polichinelle pour les érudits.
 
@@ -509,13 +509,13 @@ Notes :
 
 ## Remerciements
 
-Je ne remercierai jamais assez mes parents et grand parents, qui ont eu la chance d'être propriétaires d'ordinateurs et d'internet avant ma naissance en 1999, et qui ont eu la merveilleuse idée de me mettre sur un ordinateur avec des logiciels éducatifs qui m'ont permis de savoir lire à l'âge de 2 ans.
+Je ne remercierai jamais assez mes parents et grand parents, qui ont eu la chance d'être propriétaires d'ordinateurs, et d'une connexion d'internet, avant ma naissance en 1999. Grâce à cela il ont eu la merveilleuse idée de me mettre devant un écran, avec des logiciels éducatifs qui m'ont permis de savoir lire à l'âge de 2 ans.
 
-Merci à toutes les personnes et enseignants qui lors de ma longue scolarité m'ont appris tout ce que je sais aujourd'hui.
+Merci à toutes les personnes et enseignants qui m'ont, lors de ma longue scolarité, transmis tout ce que je sais aujourd'hui.
 
 Merci aux logiciels libres, à l'open source, à Wikipédia et à tout leurs contributeurs.
 
-Merci aux établissements aux entreprises dans lesquels j'ai travaillé et évoluer grâce a des processes amélioration continue.
+Merci aux établissements et entreprises, dans lesquels j'ai travaillé et évoluer grâce à des processus d'amélioration continue.
 
 Merci à toutes et tous, car nos métiers et inventions ne sont que rarement le fruit d'un génie isolé, mais bien d'une collaboration et de l'amélioration d'idées antérieures.
 
@@ -527,13 +527,13 @@ Enfin, merci à toute personne qui lit actuellement ce texte.
 
 ## Histoire
 
-La première manière pour un être vivant de marquer l'histoire est universelle, c’est celle des fossiles et des dinosaures, celle d’avoir existé et laisser une trace, une information, stockée sur un support physique, sur notre Terre.
+La première manière pour un être vivant de marquer l'histoire est universelle, c’est celle des fossiles et des dinosaures, celle d’avoir existé et laissé une trace, une information, stockée sur un support physique, sur notre Terre.
 
 La deuxième est l’art de sculpter des outils, actuellement estimé 3 millions d’années avant notre ère.  
 
-La troisième est la peinture, dont les plus anciennes preuves sont rupestres et âgées de 65 millénaires.
+La troisième est la peinture, dont les plus anciennes preuves sont rupestres, et âgées de 65 millénaires.
 
-Relativement aux dates précédentes, l’écriture ne vient que récemment, elle a été attestée en Mésopotamie il y a 5 millénaires.
+Relativement aux dates précédentes, l’écriture ne vient que récemment, elle a été attestée en Mésopotamie il y a 5 millénaires. Pourtant, c'est elle qui nous permettra à nous, humains, d'écrire notre Histoire.
 
 
 
@@ -547,37 +547,39 @@ Avant même la naissance de l'écriture qui marque la fin de la préhistoire, le
 
 Un abaque est un instrument facilitant le calcul. C'est un outil mnémonique utilisant la numération et permettant d'enregistrer un nombre pour se libérer de la mémoire.
 
-Son étymologie est grecque ou hébreuse, elle explique bien sa représentation et son usage, la poussière (de l'hébreu abaq), ou tablette (du grec akos) qui servaient de support pour l'écrit, et pouvaient en être volontairement recouvertes, et ainsi réécrites à volonté avec du sable, ou toute autre poudres.
+Son étymologie est un mélange de grec et d'hébreu, elle explique bien sa représentation et son usage. La poussière (de l'hébreu abaq), et la tablette (du grec akos), servaient de support pour l'écrit. Même sans dépôt de poussière naturelle, on peut volontairement recouvrir une tablette, et ainsi réécrire à volonté avec du sable, ou toute autre poudres.
 
-Le plus vieux système de quantification connu est le bâton de comptage en **-40000**. C'est un système unaire, c'est à dire un système permettant de quantifier des unités, représentées par la répétition d'un symbole, généralement un trait, aussi appelé marque de dénombrement. Le plus ancien est l'Os de Lebombo.
+Le plus vieux système de quantification connu est le bâton de comptage, daté à **-40000**. C'est un système unaire, c'est à dire un système permettant de quantifier des unités, représentées par la répétition d'un symbole, généralement un trait, aussi appelé marque de dénombrement. Le plus ancien est l'Os de Lebombo.
 
 L'ensemble d'Os d'Ishango est cependant plus connu. Il serait hypothétiquement une des premières preuves de connaissance humaine des mathématiques et de l'arithmétique. Sur un des os, on aperçoit les 4 nombres premiers entre 10 et 20, soit 11, 13, 17, et 19 ; un autre semble démontrer les additions et les multiplication, notamment la duplication, avec la juxtaposition des nombres 3 et 6 puis 4 et 8.
 
-Cette méthode est restée, à l'époque, un berger pouvait s'assurer que l'intégralité de son troupeau etait rentré en comparant deux comptages, a l'aide de cailloux par exemple, chacun représentant une bête. 
+Cette méthode est restée, à l'époque, un berger pouvait s'assurer que l'intégralité de son troupeau était rentré en comparant deux comptages, à l'aide de cailloux par exemple, chacun représentant une bête. 
 
-De nos jours elle a été mécanisée pour compter par groupe de dix les manifestants a l'aide de compteurs manuels.
+De nos jours elle à été mécanisée pour compter par groupe de dix les manifestants a l'aide de compteurs manuels.
 
 
 
-J'ai également eu l'opportunité de visiter la grotte de Thaïs, où à été retrouvé un os de quelques centimètres aux multiples gravures, daté en **-12 500**, il a été nommé Os coché.
+J'ai également eu l'opportunité de visiter la grotte de Thaïs, où a été retrouvé un os de quelques centimètres aux multiples gravures. Daté en **-12 500**, il a été nommé Os coché.
 
-En 1991,  l’archéologue américain Alexander Marschack, démontra qu’il ne s’agit pas comme on le pensait alors, d’une représentation décorative, mais d’un système d’enregistrement du temps, possiblement un calendrier basé sur des observations astronomiques. Cette hypothèse est actuellement en 2023 le sujet d'une étude européenne menée par un groupe de chercheur à l'université de Bordeaux.
+En 1991,  l’archéologue américain Alexander Marschack, démontra qu’il ne s’agit pas comme on le pensait alors, d’une représentation décorative, mais d’un système d’enregistrement du temps, possiblement un calendrier basé sur des observations astronomiques. Cette hypothèse est actuellement, en 2024, le sujet d'une étude européenne menée par un groupe de chercheur à l'université de Bordeaux.
 
-L'homme préhistorique avait donc sûrement déjà des systèmes de comptage des unités et du temps.
+L'homme préhistorique avait donc sûrement déjà des systèmes de comptage des unités et du temps, bien qu'il ne nous en reste que peu de traces, ne permettant donc pas d'affirmer cela avec certitude.
 
 
 
 #### Bulle enveloppe
 
-Il y'a 6000 ans de cela, en Mésopotamie, vers l'an **-3900**, étaient utilisées des sphères d'argile appelées bulles enveloppe, ou bulle comptable ; on y stockait en son sein des calculs ou en latin "calculus", signifiant petit cailloux, et on y comptabilisait le contenu. La signature se faisait en déroulant un sceau-cylindre, orné de motifs représentant des dieux ou le pouvoir. Il servait à imprimer les motifs creusés dessus afin de pouvoir les imprimer sur de l'argile. Ce motif indiquait généralement le possesseur à la manière d'une signature. Certains étaient en matériaux plus ou moins précieux, et comportait parfois des écritures cunéiformes.
+Il y'a 6000 ans de cela, en Mésopotamie, vers l'an **-3900**, étaient utilisées des sphères d'argile appelées bulles enveloppe, ou bulle comptable. On y stockait en son sein des calculs, du latin "calculus", signifiant petit cailloux, et on y comptabilisait le contenu. La signature se faisait en déroulant un sceau-cylindre, orné de motifs représentant des dieux ou le pouvoir. Il servait à imprimer les motifs creusés dessus afin de pouvoir les imprimer sur de l'argile. Ce motif indiquait généralement le possesseur à la manière d'une signature. Certains étaient en matériaux plus ou moins précieux, et comportait parfois des écritures cunéiformes.
+
+L'humain avait donc à ce moment inventer un système permettant de garantir le transport et l'échange de marchandise par un transporteur, tout en garantissant sa provenance et la quantité de marchandise. En effet, un destinataire pouvait ainsi faire confiance à un transporteur concernant la provenance, grâce à la signature, et la quantité, en comparant le nombre de marchandises au nombre d'unités présente dans la bulle après l'avoir cassé. Si elle l'était avant sa livraison, alors celle ci pouvait alors être invalidée.
 
 
 
 ### Antiquité
 
-Marquée par l'invention la plus importante de notre histoire, en **-3250** dans la région de la Mésopotamie, la naissance de l'écriture à permit une transmission d'information complexes sur un support théoriquement permanent. Des lois, qu'elles soient juridiques, mathématiques, ou autres, ont alors pu être rédigées et transmises de manière plus fiable que par la transmission orale, pratiquée jusque là en plus du dessin.
+Marquée par l'invention la plus importante de notre histoire, en **-3250** dans la région de la Mésopotamie ; la naissance de l'écriture a permis une transmission d'informations complexes sur un support théoriquement permanent. Des lois, qu'elles soient juridiques, mathématiques, ou autres, ont alors pu être rédigées et transmises de manière plus fiable que par la transmission orale, pratiquée jusque là en plus du dessin.
 
-Malgré cela, beaucoup de penseurs n'ont jamais rien écrit de leur vivant, et même si certaines personnes l'ont fait, comment peut on être sûr que les informations de leurs discours n'ont pas été déformés par des siècles de copies et réécriture, de ragots et légendes. Pour autant, ce qu'il en reste est une facette de la réalité, c'est ce qui a persisté jusque là grâce à ce que les personnes ont jugés important de transmettre.
+Malgré cela, beaucoup de penseurs ont transmis leurs savoir exclusivement à l'oral, n'ayant donc jamais rien écrit de leur vivant. Bien que des gens l'aient fait pour eux, comment peut on être sûrs que les informations de leurs discours n'ont pas été déformés, par des siècles de copies et réécriture, de ragots et légendes. Pour autant, ce qu'il en reste est une facette de la réalité, c'est ce qui a persisté jusque là grâce à ce que les personnes ont jugés important de transmettre.
 
 Cette période se finira en 450 par la chute de l'Empire Romain.
 
@@ -585,11 +587,9 @@ Cette période se finira en 450 par la chute de l'Empire Romain.
 
 #### Prémices de l'Algèbre
 
-Dès l’Antiquité, les égyptiens et les babyloniens avait déjà rédigés des textes comportant des problèmes, et des manières mathématiques pour les solutionner, tels que le Papyrus Rhind, qui explicite des opérations comme la division, la multiplication et l’arpentage.
+Dès l’Antiquité, les égyptiens et les babyloniens avait déjà rédigés des textes comportant des problèmes, et des manières mathématiques pour les solutionner, tels que le Papyrus Rhind, qui explicite notamment des opérations comme la division, la multiplication.
 
-
-
-L'algèbre babylonienne vers **-3000**, utilisait un système sexagésimal, potentiellement emprunté aux sumériens, de base 10 et 60, encore utilisé de nos jours pour le temps, ou les angles, avec bien plus de distinctions d'opérations, que l'on peut aujourd'hui retrouver en programmation.
+L'algèbre babylonienne vers **-3000**, utilisait un système sexagésimal, potentiellement emprunté aux sumériens, de base 10 et 60. Encore utilisé de nos jours pour le temps, ou les angles, avec bien plus de distinctions d'opérations, que l'on peut aujourd'hui retrouver en programmation.
 
 - Deux pour l'addition :
   - L'empilement qui donne un troisième nombre à partir de deux autres. `a = b + c`
@@ -612,9 +612,9 @@ Cette discipline qu'est l'Algèbre est à ce moment de l'histoire avérée, mais
 
 Cet outil utilisé par les incas signifie "nœud", ou "compte" en quechua, il est en effet possible de faire un nœud simple avec plusieurs boucles, permettant ainsi d'enregistrer un chiffre, et donc des nombres, en base 10.
 
-Le plus ancien connu à été retrouvé sur le site archéologique de Caral, au Pérou, il est daté vers l'an **-2500** ; le climat chaud et sec à permis sa bonne conservation.
+Le plus ancien connu à été retrouvé sur le site archéologique de Caral, au Pérou, il est daté vers l'an **-2500** ; le climat chaud et sec a contribuer sa bonne conservation.
 
-L'empire Inca ayant été constitué de plus de 12 millions d'individus, cet outil à été au cœur de son administration et à permis de recenser la population et gérer l'économie. Les experts du quipu se sont même rendus compte que plus d'un tiers comportaient des informations autres que des chiffres, aussi appelées informations qualitatives, en opposition aux informations quantitatives.
+L'empire Inca ayant été constitué de plus de 12 millions d'individus, cet outil a été au cœur de son administration et a permis de recenser la population et gérer l'économie. Les experts du quipu se sont même rendus compte que plus d'un tiers comportaient des informations autres que des chiffres, aussi appelées informations qualitatives, en opposition aux informations quantitatives.
 
 Cet outil à donc également servi à transmettre des messages, composé d'un vocabulaire créé à partir de différentes couleurs, types de fils, de nœuds, ainsi que leurs positions et orientations.
 
@@ -626,7 +626,7 @@ En mathématique il existe une branche très intéressante appelée une théorie
 
 Le boulier ayant été utilisé par de nombreux peuples séparés, il voit le jour possiblement vers l'an **-2000**, utilisant le système de numération décimale (10), ou en base alternée (5, 2) pour certains modèles. Il permet un calcul rapide, même récemment. Bien utilisé, il arrive en tête de compétitions contre des opérateurs électroniques.
 
-Par la suite, Romains, chinois, japonais, russes, mexicains, français, et bien d'autres, utilisent l'outil, et l'enseignent.
+Par la suite, romains, chinois, japonais, russes, mexicains, français, et autres peuples, l'utilisent, et l'enseignent.
 
 
 
@@ -636,31 +636,31 @@ Ce texte babylonien daté vers **-1750**, est le plus complet connu à ce jour d
 
 Ces lois décrivent des situation problématique auxquelles elles proposent des solution, ont dit qu'elle sont casuistique.
 
-À l'époque où Hammurabi succède à son père, il possède un petit territoire comportant tout de même des grandes villes, mais il est entouré de puissants royaumes, qu'il finira par vaincre et annexer, pour finir par dominer la région et fonder le royaume babylonien telle qu'on la connaît en tant que puissance culte du Proche Orient. La politique rédigée à sa gloire à l'aide ce code à donc certainement eu un rôle dans le développement de la société babylonienne jusqu’à son apogée, lui donnant à l'époque l'image d'un roi guerrier de justice, manifestation d'un dieu soleil sur terre.
+À l'époque où Hammurabi succède à son père, il possède un petit territoire comportant tout de même des grandes villes, mais il est entouré de puissants royaumes, qu'il finira par vaincre et annexer, pour finir par dominer la région et fonder le royaume babylonien tel qu'on le connaît en tant que puissance culte du Proche Orient. La politique rédigée à sa gloire à l'aide ce code à donc certainement eu un rôle dans le développement de la société babylonienne jusqu’à son apogée, lui donnant à l'époque l'image d'un roi guerrier de justice, manifestation d'un dieu soleil sur terre.
 
 
 
 #### Thalès
 
-Né vers l'an **-620**, Thalès fut un philosophe et mathématicien grec si important, que tous furent d'accord pour dire qu'il était l'un des plus grands sages de la Grèce antique. Il eu vécu et étudié en Égypte où il détermina la hauteur de pyramides, prédit des éclipses, et théorisa les crues du Nil. Il exporta la science de la géométrie en Grèce et on lui doit deux des plus vieux théorèmes géométrique qui portent son nom, encore étudiés aujourd'hui, bien que leurs démonstration n'est été avérée que plus tard.
+Né vers l'an **-620**, Thalès fut un philosophe et mathématicien grec si important, que tous furent d'accord pour dire qu'il était l'un des plus grands sages de la Grèce antique. Il eu vécu et étudié en Égypte où il détermina la hauteur de pyramides, prédit des éclipses, et théorisa les crues du Nil. Il exporta la science de la géométrie en Grèce et on lui doit deux des plus vieux théorèmes géométrique qui portent son nom, encore étudiés aujourd'hui, bien que leurs démonstration n'ai été avérée que plus tard.
 
 Il est aussi l'un des fondateurs de astronomie, il travailla sur des éphémérides grâce auxquelles il a conseillé à des marins de se guider à l'aide de la petite ourse. Les tables de navigations encore utilisées de nos jours trouvent donc leurs racines dans l'Antiquité, sûrement même avant Thalès.
 
-Par ailleurs, il est le premier à avoir découvert qu'une année, qui à l'époque était pensée comme une révolution du soleil autour la Terre, ne prenait pas 365 jours mais 365 jours et un quart, d'où les années bissextiles. Il est également le premier à avoir pris connaissance de l'électricité, grâce à l'ambre qui attire un tissu ou les propriété d'aimantation de l'oxyde de fer, ce qui lui vaut d’ailleurs d'être considéré comme le premier physicien.
+Par ailleurs, il est le premier à avoir découvert qu'une année, qui à l'époque était pensée comme une révolution du soleil autour la Terre, ne prenait pas 365 jours mais 365 jours et un quart, d'où les années bissextiles. Il est également le premier à avoir pris connaissance de l'électricité, grâce à l'ambre qui attire un tissu, ou les propriété d'aimantation de l'oxyde de fer ; ce qui lui vaut d’ailleurs d'être considéré comme le premier physicien.
 
-Enfin, il fonda l'école milésienne qui inspirera les personnalités antiques qui suivent ce récit.
+Enfin, il fonda l'école milésienne, qui inspirera les personnalités antiques qui suivent ce récit.
 
 
 
 #### Encryption
 
-Depuis longtemps, les humains ont eu besoin de communiquer des message à de longues distances, sans qu'ils ne se fassent intercepter, et encore moins décoder et lus voire pire, compris.
+Depuis longtemps, les humains ont eu besoin de communiquer des message à de longues distances, sans qu'ils ne se fassent intercepter, et encore moins décoder et lus, voire pire, compris.
 
 Le plus ancien système d'encryption connu est la scytale spartiate vers **-600**. Utilisée pour transmettre des messages chiffrés par transposition sur un bande, généralement une ceinture en cuir portée pendant le transport, que l'on enroule autour d'un bâton pour l'écriture et la lecture. Le diamètre du bâton étant ainsi la clé d'encryption. Les lettres correspondait encore à leur propre valeur, et leur ordre dans le mot était conservé, malgré la présence de lettre entre chacune d’entre elles. Ces dernières étaient simplement mélangées, et l'enroulage permettait de les réaligner afin d'en permettre la lecture.
 
 Quelques années avant Jésus Christ, Jules César encodait ses messages en utilisant un code éponyme. Cette encryption simple utilisait un décalage d'un certain nombre de lettres de l'alphabet. A vaut D, B vaut E, Z vaut C, etc...
 
-On remarque que l’encryption était dès le début utilisée pour transmettre des messages sensibles, notamment liés à la guerre. Cet outil à d'ailleurs été considéré comme arme de guerre jusqu’à récemment, où la plupart des techniques de cryptographies issues du domaine militaire sont devenues publiques. Malgré cela, encore aujourd'hui les gouvernements appellent à retirer l'anonymat sur internet ou à avoir des portes dérobées dans les chiffrements afin d'en permette la lecture par une autorité en cas de besoin.
+On remarque que l’encryption était dès le début utilisée pour transmettre des messages sensibles, notamment liés à la guerre. Cet outil a d'ailleurs été considéré comme arme de guerre jusqu’à récemment, où la plupart des techniques de cryptographies issues du domaine militaire sont devenues publiques. Malgré cela, encore aujourd'hui, les gouvernements appellent à retirer l'anonymat sur internet ou à avoir des portes dérobées dans les chiffrements afin d'en permette la lecture par une autorité en cas de besoin.
 
 
 
@@ -668,13 +668,13 @@ On remarque que l’encryption était dès le début utilisée pour transmettre 
 
 Né vers l'an **-580**, Pythagore, fonda lui aussi un établissement d'enseignement, l'école Pythagoricienne, qui deviendra progressivement une confrérie, voire une sorte de secte, à la fois religieuse et scientifique, où les femmes et les étrangers auraient étaient admis, sous réserve de passer de multiples paliers.
 
-On y étudiait notamment 4 matières, l'arithmétique, la musique, la géométrie, et l'astronomie.
+On y étudiait notamment 4 matières : l'arithmétique, la musique, la géométrie, et l'astronomie.
 
 Il aurait été le premier à dire que la Terre était ronde, à découvrir les lois harmoniques en musique, et même la première personnalité connue adepte du végétarisme, qu'il associait à une volonté de ne pas consommer la vie animale, que l'on doit ôter avec abomination, pour "qu'un corps s’engraisse d’un autre corps".
 
 Le théorème de Pythagore, bien qu'il porte son nom, était déjà connu du temps de la Mésopotamie, plus d'un millénaire avant lui. Il l'a malgré tout sûrement popularisé et fait entré dans les communautés scientifique de l'époque, et de celles qui suivent. Euclide en fera la plus ancienne démonstration connue, trois siècles après.
 
-Il est le premier à avoir, à travers sa philosophie et son enseignement, conçu le monde à l'aide des mathématiques, pour lui, toute chose est nombre. La quantification à permis à l’humanitée de comprendre et expliquer le monde qui l'entoure.
+Il est le premier à avoir, à travers sa philosophie et son enseignement, conçu le monde à l'aide des mathématiques, pour lui, toute chose est nombre. La quantification a en effet permis à l’humanité de comprendre et expliquer le monde qui l'entoure.
 
 
 
@@ -684,13 +684,13 @@ La Dialectique est étymologiquement l'art de parler en conservant et distinguan
 
 C'est devenu une technique classique de raisonnement au Moyen Âge, qui se structure généralement en une thèse, une antithèse, et une synthèse, qui tends généralement vers un compromis, ou du moins un dépassement du manichéisme et de ses stéréotypes. C'est une structure philosophique basique, que l'on enseigne encore aujourd'hui.
 
-J'apprécie personnellement la définition de Platon dans sa vision de l'usage du dialogue, il décrit la dialectique comme reposant sur la confrontation de plusieurs positions de manière à dépasser l'opinion afin que chacun se rapproche un peu de la vérité.
+J'apprécie personnellement la définition de Platon, qui résume bien la chose dans sa vision de l'usage du dialogue, il décrit la dialectique comme reposant sur la confrontation de plusieurs positions de manière à dépasser l'opinion, afin que chacun se rapproche un peu de la vérité.
 
 
 
 #### Rhétorique
 
-La rhétorique quand à elle est l'art d'impacter les esprits par son discours, son but est l'efficacité, voire la persuasion. Intimement liée à l'éloquence, elle a d'abord été pratiquée à l'oral, mais elle est plus généralement pratiquée en trouvant des mots et arguments mémorisables, ordonnés, et transmit à autrui.
+La rhétorique quand à elle, est l'art d'impacter les esprits par son discours, son but est l'efficacité, voire la persuasion. Intimement liée à l'éloquence, elle a d'abord été pratiquée à l'oral, mais elle est plus généralement pratiquée en trouvant des mots et arguments mémorisables, ordonnés, et transmit à autrui.
 
 Elle s'est ensuite détachée de la persuasion pour devenir pour plus globalement l'art de bien dire et de l'argumentation, ayant malgré tout pour objectif le vraisemblable plus que la vérité.
 
@@ -698,11 +698,11 @@ Elle s'est ensuite détachée de la persuasion pour devenir pour plus globalemen
 
 #### Sophistes et Sophismes 
 
-Né en **-490**, Protagoras est un philosophe pré-socratique considéré comme sophiste, qui ont été une opposition forte aux philosophes de la suite de ce récit. Les raisons les plus probables sont qu'il était une personnalité forte, célèbre et critiquée du fait qu'il était un enseignant itinérant, cherchant un salaire ainsi qu'un statut toujours plus élevé contre son enseignement, alors que monnayer son savoir était à l'époque interdit. Il serait également à l'origine de l'éristique, l'art de la discorde, de la dispute et plus globalement du débat; variante proche de la rhétorique qu'il a également enseignée.
+Né en **-490**, Protagoras est un philosophe pré-socratique considéré comme sophiste, qui ont été une opposition forte aux philosophes de la suite de ce récit. Les raisons les plus probables sont qu'il était une personnalité forte, célèbre et critiquée du fait qu'il était un enseignant itinérant, cherchant un salaire ainsi qu'un statut toujours plus élevé contre son enseignement, alors que monnayer son savoir était à l'époque interdit. Il serait également à l'origine de l'éristique, l'art de la discorde, de la dispute et plus globalement du débat ; variante proche de la rhétorique, qu'il a également enseigné.
 
-Les sophistes ont par conséquent étés perçus comme des gens avides, prêts à tout pour monnayer leur savoir à des prix toujours plus fous, au détriment même de la vérité, usant de la rhétorique de manière perverse et fallacieuse, ce qui à donner naissance au mot et a la pratique qu'est le *sophisme*. Tout raisonnement, même si la finalité est véridique, peut être considéré comme tel dès lors qu'il n'est pas logique, valide, s'appuie sur un biais, ou use de stratagème visant à prouver la véridicité de ses dires en jouant sur la crédibilité ou les émotions (ethos et pathos), plus que sur le discours en lui même (logos).
+Les sophistes ont par conséquent étés perçus comme des gens avides, prêts à tout pour monnayer leur savoir à des prix toujours plus fous, au détriment même de la vérité, usant de la rhétorique de manière perverse et fallacieuse, ce qui à donné naissance au mot et à la pratique qu'est le *sophisme*. Tout raisonnement, même si la finalité est véridique, peut être considéré comme tel dès lors qu'il n'est pas logique, valide, s'appuie sur un biais, ou use de stratagème visant à prouver la véridicité de ses dires, en jouant sur la crédibilité ou les émotions (ethos et pathos), plus que sur le discours en lui même (logos).
 
-Pour beaucoup de personnalités de temps aussi éloignés, il est compliqué de démêler le vrai du faux, il aurait commencer sa vie comme modeste porteur de fardeau, bien qu'ayant potentiellement de la famille ou des proches aisés et dont il s'est visiblement rapproché au fil du temps.
+Pour beaucoup de personnalités de temps aussi éloignés, il est compliqué de démêler le vrai du faux, il aurait commencé sa vie comme modeste porteur de fardeau, bien qu'ayant potentiellement de la famille ou des proches aisés et dont il s'est visiblement rapproché au fil du temps.
 
 Il est entre autre connu pour avoir été agnostique, disant des dieux, qu'il "ne savais ni s'ils sont ni s'ils ne sont pas", ce qui lui aurait potentiellement valu, comme beaucoup d'autres à cette période, une condamnation pour impiété.
 
@@ -714,26 +714,28 @@ Il a également déclaré que "l'homme est la mesure de toute chose", introduisa
 
 Socrate, né vers **-470**, fils d'une sage-femme, est le créateur de la maïeutique, l'art de faire accoucher les âmes. En questionnant un sujet, il pouvait lui faire prendre conscience d'une connaissance enfouie en lui. Il est également le père d'une méthode de réfutation nommée *elenchos*, consistant à challenger la thèse de son adversaire en la poussant à l'absurde, dans le but d'y révéler son côté irréel.
 
-Marcheur parleur, il n'a jamais écrit, ses dires ont été relatés par ses disciples, il a étudier la nature, puis sa pensée s'est concentrée sur l'homme, qui doit selon lui s'étudier lui même tel un anthropologue.
+Marcheur parleur, il n'a jamais écrit, ses dires ont été relatés par ses disciples. Il a étudié la nature, puis sa pensée s'est concentrée sur l'homme, qui doit selon lui s'étudier lui même tel un anthropologue.
 
 
 Cicéron dira que "Socrate le premier invita la philosophie à descendre du ciel, l'installa dans les villes, l'introduisit jusque dans les foyers, et lui imposa l'étude de la vie, des mœurs, des choses bonnes et mauvaises". En effet, après Pythagore qui n'enseignait pas la philosophie, c'est la plus ancienne des personnalité connues à avoir eu une influence si importante grâce à un enseignement public et gratuit de cette discipline.
 
-Selon lui : "Les sages sont en fait des gens qui pensent l'être, ils s'imaginent des connaissances et ignorent ce qu'ils ne savent point", cela rejoint à la fois la maïeutique et son opposition avec son ancien maître Protagoras.
+Selon lui : "Les sages sont en fait des gens qui pensent l'être, ils s'imaginent des connaissances et ignorent ce qu'ils ne savent point", cela rejoint à la fois la maïeutique et son opposition avec les sophistes, dont son ancien maître Protagoras.
 
-Il avait un sens exacerbé du bien et mal, de la justice. Il à défendu des généraux accusés de ne pas avoir récupérer des corps de leurs soldats mort, à cause d'une tempête, et ce seul contre l'opinion publique en faveur de ce qui lui paraissait juste. Il était également contre la loi du talion, insistant sur le fait que l'on ne doit pas répondre à l'injustice par l'injustice, et au mal par le mal.
+Il avait un sens exacerbé du bien et mal, de la justice. Il a défendu des généraux accusés de ne pas avoir récupéré des corps de leurs soldats mort, à cause d'une tempête, et ce seul contre l'opinion publique en faveur de ce qui lui paraissait juste. Il était également contre la loi du talion, insistant sur le fait que l'on ne doit pas répondre à l'injustice par l'injustice, et au mal par le mal.
 
-Longtemps accusé d'avoir des croyances différentes et déviantes de la religion de l'époque, il fut condamné à l'impiété et de corruption de la jeunesse. Accusé à tord, il fit malgré tout preuve d'une arrogance qui causera sa perte, contre-plaidant à la peine de mort en disant qu'il devrait manger gratuitement jusqu’à la fin de ses jours, et cela n'a vraisemblablement pas plu au jury qui le condamna à la ciguë, alors poison d'état, qu'il finira par boire, acceptant pleinement son jugement, bien qu'injuste. 
+Longtemps accusé d'avoir des croyances différentes et déviantes de la religion de l'époque, il fut condamné pour l'impiété et corruption de la jeunesse. Accusé à tord, il fit malgré tout preuve d'une arrogance qui causera sa perte, contre-plaidant à la peine de mort en disant qu'il devrait manger gratuitement jusqu’à la fin de ses jours. Cela n'a vraisemblablement pas plu au jury, qui le condamna à la ciguë, alors poison d'état, qu'il finira par boire, acceptant pleinement son jugement, bien qu'injuste. 
 
-La légende dit même qu'il aurait pu s'évader mais qu'il a préféré accepter l'injustice que de la commettre. Il aurait également été contre la démocratie, qui "n'accorde pas assez d'importance au savoir et à ceux qui la détiennent", en effet, la majorité bien qu'elle permet souvent de se rapprocher de la vérité, peut aussi avoir tord, notamment sur des sujets précis nécessitant la connaissances d'experts.
+La légende dit même qu'il aurait pu s'évader mais qu'il a préféré accepter l'injustice que de la commettre. Il aurait également été contre la démocratie, qui "n'accorde pas assez d'importance au savoir et à ceux qui la détiennent". En effet, la majorité bien qu'elle permet souvent de se rapprocher de la vérité, peut aussi avoir tord, notamment sur des sujets précis nécessitant la connaissances d'experts.
 
 https://www.youtube.com/watch?v=yp_UUPR6gfg
+
+https://www.youtube.com/watch?v=xqqzMjfFa10
 
 
 
 #### Atomisme
 
-À cette période né la pensée d'une unité indivisible, l'atome, élément microscopique que l'on pensait insécable, composant la matière.
+À cette période né la pensée d'une unité indivisible avec l'atome, élément microscopique que l'on pensait insécable, composant la matière.
 
 Le philosophe présocratique Leucippe, élève de Zénon d'Élée et influencé par Pythagore, invente vers **-440** la philosophie atomiste, Démocrite puis Épicure et Lavoisier vont par la suite participer à l'évolution ce mouvement dont la réalité ne serait formée que de plein, de vide et de mouvement.
 
@@ -770,6 +772,8 @@ Cette abstraction que sont les mathématiques, basée initialement sur des axiom
 Les mathématiques pures, tendent à la généralité, ou comme on le dirait en langage de mathématicien, vers la factorisation, c’est à dire la simplification d’un concept sous une forme plus courte, et facile à comprendre, et donc à transmettre et réutiliser. Notez que c'est également une notion très utilisée en programmation, la refactorisation. Elle fait parti des bonnes habitudes et de l'amélioration continue.
 
 Ce processus de réécriture syntaxique, trouve ses plus vieilles traces connues a la même période, le langage SMS serait avéré par un Bibliographe, Diogène Laërce, les premières traces remonteraient ainsi à **405 avant J.-C**., date à laquelle Xénophon, élève de Socrate, aurait usé de *sténographie* pour transcrire les discours de son maître, face au besoin d'écrire rapidement et idéalement à la vitesse de la parole. La sténographie, du grec ancien "écriture courte", est un procédé de tachygraphie signifiant "écriture rapide".
+
+Les mathématiques appliquées, quand à elles, utilisent ces concepts sur des domaines très spécifiques, pour exemple, la géométrie, étymologiquement "science de la mesure du terrain", à été développée dans l’Égypte antique pendant **les trois siècles avant J.-C.** , à partir du besoin de mesurer la superficie d’un champ, aussi appelée arpentage.
 
 
 
@@ -811,11 +815,7 @@ https://www.youtube.com/watch?v=iE08wLRGPcQ
 
 #### Géométrie Euclidienne
 
-Les mathématiques appliquées, quand à elles, utilisent ces concepts sur des domaines très spécifiques, pour exemple, la géométrie, étymologiquement "science de la mesure du terrain", à été développée dans l’Egypte antique pendant **les trois siècles avant J.-C.** , à partir du besoin de mesurer la superficie d’un champ, aussi appelée arpentage.
-
-
-
-C'est d'ailleurs vers **-300** qu'Euclide rédige *Éléments*, un traité de mathématique sur la géométrie et l’arithmétique, qui à façonner ces discipline dans les pays orientaux. Cet ouvrage à été réédité de multiples fois et traduit par de nombreux savants, dont certains cités quelques paragraphes plus loin. On lui doit la méthode de calcul du PGCD qui est nommée algorithme d'Euclide, la division Euclidienne, et bien sur sa géométrie.
+C'est vers **-300** qu'Euclide rédige *Éléments*, un traité de mathématique sur la géométrie et l’arithmétique, qui à façonner ces discipline dans les pays orientaux. Cet ouvrage à été réédité de multiples fois et traduit par de nombreux savants, dont certains cités quelques paragraphes plus loin. On lui doit la méthode de calcul du PGCD qui est nommée algorithme d'Euclide, la division Euclidienne, et bien sur sa géométrie.
 
 
 
@@ -1084,7 +1084,7 @@ Né le 29 août **1632**
 
 #### Pascaline
 
-En **1650**, Blaise Pascal invente ce qui est considéré aujourd'hui comme la première machine à calculer. Dans la volonté de soulager le travail de son père, nommé premier président à la Cour des aides de Normandie à Rouen, cette machine a permit de réaliser additions, soustractions, et multiplication, ainsi que divisions, par répétitions.
+En **1650**, Blaise Pascal invente ce qui est considéré aujourd'hui comme la première machine à calculer. Dans la volonté de soulager le travail de son père, nommé premier président à la Cour des aides de Normandie à Rouen, cette machine a permis de réaliser additions, soustractions, et multiplication, ainsi que divisions, par répétitions.
 
 C'était la seule machine à calculer fonctionnelle au 18è siècle, elle marque le début d'une période de développement de machines à calculer de plus en plus sophistiquées, qui seront présentées dans la suite de cet ouvrage.
 
@@ -1250,7 +1250,7 @@ Ils effectuaient essentiellement des additions et des soustraction, sous la supe
 
 C'est une approche très intéressante réduisant les intermédiaires et automatisant toute la chaine de création, que je reprendrais plus tard. On remarque déjà que la machine est un outil qui peut nous guider et réduire nos erreurs, ce qui à l'époque était crucial, notamment en mer ou une erreur de calcul ou d'impression sur l'almanach du navigateur pouvait mener a la perte de tout un navire et de son équipage. 
 
-De 1820 à 1830 il à visiter beaucoup d'usines en Europe dans le but de trouver des idée pour sa machine à différences, il n'en trouva pas beaucoup mais cela lui a permit de devenir un économiste des machines industrielles à son époque.
+De 1820 à 1830 il à visiter beaucoup d'usines en Europe dans le but de trouver des idée pour sa machine à différences, il n'en trouva pas beaucoup mais cela lui a permis de devenir un économiste des machines industrielles à son époque.
 
 A peine eu t'il conçu la machine à différence, qu'il eu oublier la finalité de base : réaliser des tables de calcul, et embrassa l'idée d'une machine capable de calculer tout ce qu'un humain pourrait lui demander, la Machine Analytique.
 
@@ -2369,7 +2369,7 @@ Les confinements comme celui que l'on a eu lors de la période du Covid nous le 
 
 ##### Justification
 
-Lorsque je commet une erreur, j'en assume la responsabilité, mais je me justifie souvent. Cela permet d'identifier les causes du problème. Dans le livre Lean Startup il est mentionné une phrase qui m'a marquée. L'idée est que lorsqu'une erreur survient, il est de notre responsabilité d'avoir rendue la faute si facile à commettre. Autrement dit, lorsqu'une personne faillit à sa tâche, il ne faut pas se remettre en question sa responsabilité ou sa compétence, mais se demander pourquoi l'environnement n'a pas permit la réussite de l'action et rendu la situation d'échec si probable qu'elle c'est produite.
+Lorsque je commet une erreur, j'en assume la responsabilité, mais je me justifie souvent. Cela permet d'identifier les causes du problème. Dans le livre Lean Startup il est mentionné une phrase qui m'a marquée. L'idée est que lorsqu'une erreur survient, il est de notre responsabilité d'avoir rendue la faute si facile à commettre. Autrement dit, lorsqu'une personne faillit à sa tâche, il ne faut pas se remettre en question sa responsabilité ou sa compétence, mais se demander pourquoi l'environnement n'a pas permis la réussite de l'action et rendu la situation d'échec si probable qu'elle c'est produite.
 
 
 
