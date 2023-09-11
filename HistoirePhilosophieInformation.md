@@ -567,9 +567,25 @@ L'homme préhistorique avait donc sûrement déjà des systèmes de comptage des
 
 
 
+#### Premières villes et sociétés
+
+Jusqu'alors, l'humain était un chasseur-cueilleur nomade, et contrairement à ce que l'on pourrait croire, il aurait rarement chercher des poux à ses congénères lorsqu'il les croise, ayant déjà bien assez de problèmes avec la nature.
+
+La sédentarisation prends place en **-9000**, l'agriculture apparaît à la même période avec par conséquent un besoin de stockage grandissant, auquel répondra la démocratisation de la vannerie, du tissage et surtout de la poterie, alors que la terre cuite était utilisée principalement pour des figurines décoratives.
+
+Fleurirons alors villes et cités comme Urkesh, Ninive, ou Assur ; capitale Assyrienne, et Guzana capitale du royaume autagoniste Araméen, à partir de **-7000**. Suivis par Uruk et Lagash vers **-5000**, puis Ur vers **-4000**.
+
+Les premières civilisation apparaîtrons plus tard comme celle de Sumer vers **-3500**, ou celle de la vallée de l'Indus, à qui on doit les égouts, vers **-2600**, bien que son développement ai commencé à l'apparition des premières villes et cités.
+
+L'arrivé du stockage de biens a causé l’apparition des premiers  conflits d'envergure. Avant cela, les humains avait une densité de population trop faible pour que cela n'arrive, le rapport gain / perte n'en valant que rarement le coût.
+
+L'humanité à donc du, suite à la sédentarisation, trouver des moyen de réguler le jeu de la vie, et trouver des systèmes composés de règles, permettant de conserver l'ordre et éviter la discorde.
+
+
+
 #### Bulle enveloppe
 
-Il y'a 6000 ans de cela, en Mésopotamie, vers l'an **-3900**, étaient utilisées des sphères d'argile appelées bulles enveloppe, ou bulle comptable. On y stockait en son sein des calculs, du latin "calculus", signifiant petit cailloux, et on y comptabilisait le contenu. La signature se faisait en déroulant un sceau-cylindre, orné de motifs représentant des dieux ou le pouvoir. Il servait à imprimer les motifs creusés dessus afin de pouvoir les imprimer sur de l'argile. Ce motif indiquait généralement le possesseur à la manière d'une signature. Certains étaient en matériaux plus ou moins précieux, et comportait parfois des écritures cunéiformes.
+Il y a 6000 ans de cela, en Mésopotamie, vers l'an **-3900**, étaient utilisées des sphères d'argile appelées bulles enveloppe, ou bulle comptable. On y stockait en son sein des calculs, du latin "calculus", signifiant petit cailloux, et on y comptabilisait le contenu. La signature se faisait en déroulant un sceau-cylindre, orné de motifs représentant des dieux ou le pouvoir. Il servait à imprimer les motifs creusés dessus afin de pouvoir les imprimer sur de l'argile. Ce motif indiquait généralement le possesseur à la manière d'une signature. Certains étaient en matériaux plus ou moins précieux, et comportait parfois des écritures cunéiformes.
 
 L'humain avait donc à ce moment inventer un système permettant de garantir le transport et l'échange de marchandise par un transporteur, tout en garantissant sa provenance et la quantité de marchandise. En effet, un destinataire pouvait ainsi faire confiance à un transporteur concernant la provenance, grâce à la signature, et la quantité, en comparant le nombre de marchandises au nombre d'unités présente dans la bulle après l'avoir cassé. Si elle l'était avant sa livraison, alors celle ci pouvait alors être invalidée.
 
@@ -735,11 +751,11 @@ https://www.youtube.com/watch?v=xqqzMjfFa10
 
 #### Atomisme
 
-À cette période né la pensée d'une unité indivisible avec l'atome, élément microscopique que l'on pensait insécable, composant la matière.
+À cette période né la pensée d'une unité indivisible avec le concept d'atome, élément microscopique que l'on pensait insécable, composant la matière.
 
-Le philosophe présocratique Leucippe, élève de Zénon d'Élée et influencé par Pythagore, invente vers **-440** la philosophie atomiste, Démocrite puis Épicure et Lavoisier vont par la suite participer à l'évolution ce mouvement dont la réalité ne serait formée que de plein, de vide et de mouvement.
+Le philosophe présocratique Leucippe, élève de Zénon d'Élée et influencé par Pythagore, invente donc la philosophie atomiste vers **-440**, Démocrite puis Épicure et Lavoisier vont par la suite participer à l'évolution ce mouvement, dont la réalité ne serait formée que de plein, de vide et de mouvement.
 
-Cette pensée émane à un moment où les mythes, fables et religions sont doucement mises en doute. Plusieurs philosophes dont Socrate, seront jugés pour impiété, cette période marqua donc la naissance d'un courant de pensé qui se lia rapidement avec l'apprentissage de la mort et son rôle dans la vie de l'être réel, que l'on retrouvera dans le stoïcisme et l'épicurisme.
+Cette pensée émane à un moment où les mythes, fables et religions sont doucement mises en doute. Plusieurs philosophes dont Socrate, seront jugés pour impiété, cette période marqua donc la naissance d'un courant de pensé qui se lia rapidement avec l'apprentissage de la mort, et son rôle dans la vie de l'être réel, que l'on retrouvera dans le stoïcisme et l'épicurisme.
 
 
 
@@ -827,17 +843,15 @@ En définitive, cette discipline que sont les mathématiques est une philosophie
 
 Archimède de Syracuse est né en **-287**, il fut élève d'Euclide. On lui doit le fameux théorème de la poussée du même nom et l'explication du principe du levier, mais aussi la vis d'Archimède ou le palan qui permet de soulever des charges à l'aide d'un double système de poulies.
 
-donner moi un bon point dappui et je souleverai le monde
-
 Considéré comme le plus grand mathématicien de l'Antiquité, il a apporté beaucoup à la géométrie pour laquelle il a étudier et rédigé des traité sur les cônes, spirales, cylindres, paraboles, et cercles ; mais aussi à la mécanique.
 
-On lui doit également le fameux "Eureka !" signifiant "J'ai trouvé !" 
+On lui doit également le fameux "Eureka !" signifiant "J'ai trouvé !" ou le "Donnez-moi un levier, un point fixe, et je soulèverai la Terre."
 
 
 
 #### Calculateurs analogiques
 
-Le plus ancien calculateur analogique attesté est l'Anticythère en **-150**, c'est le plus vieux mécanisme à engrenage connu. Réalisé en bronze, il servait à prédire les éclipses solaires et lunaires.  Il est constitué notamment d'un cadran de 233 positions correspondant au nombre de mois espaçant deux éclipses, soit un cycle nommé Saros ; d'un cadran métonique pour indiquer le mois et l'année; et d'un cadran de 365 positions, correspondant au nombre de jours d'une année civile du calendrier Egyptien, décrit dans le Papyrus Rhind. Ainsi, en actionnant les engrenages à l'aide d'une potentielle manivelle non retrouvée sur l'Ancythère, on pouvait retrouver les différentes dates des éclipses.
+Le plus ancien calculateur analogique attesté est l'Anticythère en **-150**, c'est le plus vieux mécanisme à engrenage connu. Réalisé en bronze, il servait à prédire les éclipses solaires et lunaires.  Il est constitué notamment d'un cadran de 233 positions correspondant au nombre de mois espaçant deux éclipses, soit un cycle nommé Saros ; d'un cadran métonique pour indiquer le mois et l'année ; et d'un cadran de 365 positions, correspondant au nombre de jours d'une année civile du calendrier Egyptien, décrit dans le Papyrus Rhind. Ainsi, en actionnant les engrenages à l'aide d'une potentielle manivelle non retrouvée sur l'Anticythère, on pouvait retrouver les différentes dates des éclipses.
 
 
 
@@ -851,25 +865,25 @@ A partir de **-130** se développe l'une des voie de transport et d'échange de 
 
 Marcus Vitruvius Pollio est un architecte romain qui à œuvrer pendant le **1er siècle avant J.-C.**
 
-Il nous a transmis beaucoup de choses liées à Archimède, il aurait rapporté l'anecdote où ce dernier détecte une supercherie dans la composition d'une couronne royale prétendument en or massif, en la comparant avec une masse d'or identique en immersion dans un volume d'eau, afin d'en comparer le rapport avec le volume. Il a également décrit comment construire une vis d'Archimède, qui était très utilisée pour drainer de l'eau.
+Il nous a transmis beaucoup de choses liées à Archimède, il aurait rapporté l'anecdote où ce dernier détecte une supercherie dans la composition d'une couronne royale prétendument en or massif, en la comparant avec une masse d'or identique en immersion dans un volume d'eau, afin d'en comparer le rapport avec le volume. Il a également décrit comment construire une vis d'Archimède, qui était très utile pour drainer de l'eau.
 
 Vitruve eu également décrit multitudes de machines utilisées de son temps pour la construction, telles que les palans, grues, et poulies qui on vues le jour grâce aux travaux d'Archimède, mais aussi des machines de guerres, comme la catapulte, la baliste, et bien d'autres comme les prémices d'une machine à vapeur.
 
-Son travail sur les aqueducs à été décrits avec une grande précision, détaillant les siphons et la pression importante qui en résultait. Faisant de lui une référence pour les hauts placés de l'Empire Romain comme Frontin, un général qui fut chargé d'administrer les aqueducs de Rome.
+Son travail sur les aqueducs a été décrit avec une grande précision, détaillant les siphons et la pression importante qui en résultait. Faisant de lui une référence pour les hauts placés de l'Empire Romain comme Frontin, un général qui fut chargé d'administrer les aqueducs de Rome.
 
-Il a longtemps milité pour ne pas transporter l'eau à l'aide de tuyaux en plomb, prônant l'utilisation de la terre, après avoir remarqué que les ouvriers de fonderies de plomb était souvent malades.
+Il a longtemps milité pour ne pas transporter l'eau à l'aide de tuyaux en plomb, prônant l'utilisation de la terre, après avoir remarqué que les ouvriers de fonderies de plomb étaient souvent malades.
 
-Toujours en rapport avec la construction et l'eau, il décrira le chorobate, un niveau à eau utilisé pour s'assurer que les aqueducs aient la bonne inclinaison et véhicule correctement l'eau, ainsi que l'agencement idéal de bains chaud à côté de bains tièdes suivi par les bains froids afin d'avoir une meilleure efficacité thermique, avec l'aide de ventilations manuelles. Il a également développer l'un des premiers odomètre permettant un comptage kilométrique, et des roues à aubes. Enfin il eu décrit des constructions marines telles que les brise-lame, les jetées et les quais.
+Toujours en rapport avec la construction et l'eau, il décrira le chorobate, un niveau à eau utilisé pour s'assurer que les aqueducs aient la bonne inclinaison et véhiculent correctement l'eau, ainsi que l'agencement idéal de bains chaud à côté de bains tièdes, suivis par les bains froids, afin d'avoir une meilleure efficacité thermique, avec l'aide de ventilations manuelles. Il a également développé l'un des premiers odomètre permettant un comptage kilométrique, et des roues à aubes. Enfin il eu décrit des constructions marines telles que les brise-lame, les jetées et les quais.
 
-D'un point de vue de l'information, Vitruve à réaliser un travail de recherche et de retransmission très efficace dans le domaine de la construction liée à l'eau. Son livre "De architectura" est le seul qui nous reste sur l’architecture de l’Antiquité classique, malgré ses quelques innovations il a surtout poser les code de l'architecture et de la construction devant être solide, utile et belle. 
+D'un point de vue de l'information, Vitruve à réaliser un travail de recherche et de retransmission très efficace dans le domaine de la construction liée à l'eau. Son livre "De architectura" est le seul qui nous reste sur l’architecture de l’Antiquité classique. Malgré ses quelques innovations il a surtout posé les codes de l'architecture et de la construction, devant être solide, utile et belle. 
 
-Les six principes théoriques qui les régissent étant l'ordonnance, la disposition, l'harmonie, la symétrie, la convenance, et la distribution. En effet pour mener de telles réalisations architecturales a bien, il fallait naturellement que la création soit bien disposée dans son environnement, afin d'avoir une certaine harmonie et un design symétrique autant par praticité que pour la beauté et imitation de la nature. Enfin, l'ordonnance, la convenance, et la distribution, sont nécessaire pour gérer les équipes travaillant sur un projet, afin que tout le monde y trouve son compte dans sa réalisation.
+Les six principes théoriques qui les régissent étant l'ordonnance, la disposition, l'harmonie, la symétrie, la convenance, et la distribution. En effet pour mener de telles réalisations architecturales à bien, il fallait naturellement que la création soit bien disposée dans son environnement, afin d'avoir une certaine harmonie et un design symétrique, autant par praticité que pour la beauté et imitation de la nature. Enfin, l'ordonnance, la convenance, et la distribution, sont nécessaires pour gérer les équipes travaillant sur un projet, afin que tout le monde y trouve son compte dans sa réalisation.
 
 
 
 #### Héron
 
-Originaire d'Alexandrie, il serait né et aurait vécu pendant le **premier siècle après J.-C**. On lui attribut la création de la première machine à vapeur, l'Éolipyle, qui servait uniquement à distraire ses utilisateurs, l'énergie dégagée étant négligée. Pour autant, Vitruve aurait déjà eu mentionné de telles machines à l'époque, et il s'est avéré par la suite qu'Héron était postérieur à ce dernier qui décéda en -20, il a donc potentiellement abouti ou juste démocratiser cette machine, grâce à laquelle il 
+Originaire d'Alexandrie, il serait né et aurait vécu pendant le **premier siècle après J.-C**. On lui attribut la création de la première machine à vapeur, l'Éolipyle, qui servait uniquement à distraire ses utilisateurs, l'énergie dégagée étant négligée. Pour autant, Vitruve aurait déjà eu mentionné de telles machines à l'époque, et il s'est avéré par la suite qu'Héron était postérieur à ce dernier qui décéda en -20, il a donc potentiellement abouti ou juste démocratiser cette machine.
 
 
 
@@ -2135,6 +2149,10 @@ Et un réel décalage entre offre et demande, nous observons des signaux forts c
 
 
 A la manière de Platon, je n'ai rien inventé, les idées sont immuables et universelles, elle appartiennent à personne.
+
+
+
+Tout est temps, c'est l’écoulement des choses, l'itération des actions qui s'écrivent et se succèdent.
 
 
 
