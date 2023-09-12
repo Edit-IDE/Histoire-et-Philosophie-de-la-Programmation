@@ -2109,7 +2109,7 @@ Suite à Atom publié par GitHub le 26 février 2014, bien avant son rachat en 2
 
 
 
-### Essai
+## Essai
 
 En arrivant en DUT informatique en 2016, je n'avait programmé qu'en BASIC sur une calculatrice Texas Instrument, je ne m'attendais pas à autant de complexité.
 
@@ -2156,7 +2156,7 @@ Tout est temps, c'est l’écoulement des choses, l'itération des actions qui s
 
 
 
-#### Sectes et philosophie d'entreprise
+### Sectes et philosophie d'entreprise
 
 De nos jours j'ai souvent entendu parler de philosophie d'entreprise. L'entreprise étant une entité morale, elle se compose d'un groupe de personnes physiques réunies pour accomplir quelque chose en commun. Ce groupe peut aussi réunir des personnes physiques et des personnes morales. Cela corresponds à une secte qui est un terme mal vu mais qui, comme beaucoup de mots, est poly-sémantique, il possède plusieurs définitions et connotations, il y a autant de ressentis différents accordées aux mots que d'expérience vivantes. D'un point de vue étymologique, il provient du latin "secta", signifiant "voie que l'on suit, parti, cause, doctrine". Or quand on travaille en groupe avec d'autres personnes, on suit tous, ensemble, une même voie, pendant une période définie de travail, qu'un salarié vends a son employeur.
 
@@ -2164,7 +2164,19 @@ En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une 
 
 
 
-#### Division du travail
+Je veut créer des indiférences
+
+
+
+### Communication
+
+#### Politesse
+
+#### Respect
+
+
+
+### Division du travail
 
 Maisons d'échanges, Babbage était fasciné par la division mentale du travail qui s'y opérait, comme De Prony s'étant inspiré d'Adam Smith
 
@@ -2172,13 +2184,13 @@ https://fr.wikipedia.org/wiki/Division_du_travail
 
 
 
-#### Anticipation
+### Anticipation
 
 example avec la compiltion rust qui empeche les top 10 des erreurs
 
 
 
-#### Contexte et vérité
+### Contexte et vérité
 
 Absolue / relatif
 
@@ -2188,7 +2200,7 @@ Il est futile de vouloir avoir raison, la mauvaise foi est l’ennemie de l'amé
 
 
 
-#### Pédagogie active
+### Pédagogie active
 
 Cette méthode de pédagogie, qui trouve ses fondements dans "l'Émile ou De l'éducation" de Rousseau, est relativement récente, donc fait l’œuvre de nombreuses études.
 
@@ -2228,7 +2240,7 @@ Logo
 
 
 
-#### Apprentissage
+### Apprentissage
 
 L'apprentissage commence généralement avec de la mémorisation, s'ensuit une compréhension qui permet la résolutions de problèmes et enfin s'y ajoute la créativité que l'on débloque lorsque l'on à le savoir et le savoir faire. La mémorisation étant le terreau du savoir, il est important de comprendre que scientifiquement on sait aujourd'hui que les humains ont tout comme les machines une mémoire de travail et une mémoire à long terme. On peut comparer ses deux mémoires à la RAM et les stockages de masse. Le cerveau possède même un mécanisme d'encodage de l'information vers la mémoire à long terme et de récupération vers la mémoire de travail, les informations les plus importantes possèdent plus d'amorces, permettant de les retrouver et s'en souvenir plus facilement, et avec bien sur certaines informations dont le signal se perd, dans l'oubli, nécessaire à trier et jeter ou archiver ce qui l'est moins, dans le cas de la mémoire à long terme, cela se produit en perdant des amorces au fur et a mesure du temps.
 
@@ -2240,28 +2252,29 @@ A l'aide de schémas mentaux, nous associons un ensemble de concepts ou d'idées
 
 [^1]: https://www.youtube.com/watch?v=RVB3PBPxMWg
 
-
 Planning poker, reu tech, mais pas d'analyse commune -> reqwork extrm prog
 
-#### Méthodes d'aide à la structuration d'information 
+
+
+### Méthodes d'aide à la structuration d'information 
 
 Le management moderne à eu besoin de pouvoir former et guider efficacement ses employés et pour cela il à fallu trouver des outils et moyens mnemotechniques pour facilement analyser les 
 
 
 
-##### Décision
+#### Décision
 
 Prendre une décision est parfois très compliqué, on n'arrive pas toujours à mesurer les tenants et aboutissants de nos choix, c'est pourquoi il est important de prendre du recul, de poser sur la table les différentes possibilités, et acteurs de la situation afin de mettre le plus de chance de son côté, dans l'objectif d'atteindre le résultat attendu. 
 
-###### Analyse PESTEL
+##### Analyse PESTEL
 
 PESTEL est un acronyme pour (Politique, Économique, Socioculturel, Technologique, Écologique, Légal)
 
-###### SWOT
+##### SWOT
 
 Strenght Weakness Opportunity Threat
 
-###### Matrice multicritère
+##### Matrice multicritère
 
 Avec des amis on l'utilise pour choisir dans quel airbnb on va partir, on y renseigne une note pour le prix, l'emplacement, la qualité du logement, et on obtient un score moyen permettant de déterminer ou on partira en vacances.
 
@@ -2269,17 +2282,17 @@ Avec des amis on l'utilise pour choisir dans quel airbnb on va partir, on y rens
 
 Permet de retrouver la cause d'un problème
 
-###### La matrice d'Eisenhower
+##### La matrice d'Eisenhower
 
 Très proche des matrices de faisabilité et de priorisation, elle permet de déterminer de différencier les tâches importante, urgente, celles qui ne le sont pas, et quoi en faire.
 
-###### Diagramme d'Ishikawa
+##### Diagramme d'Ishikawa
 
 Il permet de schématiser les différentes causes possible d'un événement ou effet. Inspiré des quatres causes d'Aristote, il est généralement construit en analysant les 5 M : Matière première constituante, Matériel utilisé, Méthode employée, Main-d’œuvre intervenant, et Milieu dans lequel l’événement apparaît.
 
-###### Analyse des parties prenantes
+##### Analyse des parties prenantes
 
-###### Carte heuristique
+##### Carte heuristique
 
 Née de l'arbre de porphyre, un philosophe néoplatonicien du 3è siècle, et aussi appelée carte mentale ; elle représente visuellement le cheminement de la pensée et l’interconnections des idées afin d'en extraire les toutes les informations importantes.
 
@@ -2287,39 +2300,41 @@ Née de l'arbre de porphyre, un philosophe néoplatonicien du 3è siècle, et au
 
 
 
-##### Conception
+#### Conception
 
-###### Design thinking
+#### Design thinking
 
-###### Lean Startup
+#### Lean Startup
 
-MVP, itération, stop de toute la chaine de production si problème pour éviter de contaminer le reste
+#### MVP
 
-
-
-##### Gestion de projets 
-
-###### Roadmap
-
-###### Project charter
-
-###### GANTT
-
-###### Business Model
-
-###### Scrum
+itération, stop de toute la chaine de production si problème pour éviter de contaminer le reste
 
 
 
-##### Développement
+#### Gestion de projets 
 
-###### Extreme programming
+#### Roadmap
 
-###### TDD FDD MDD
+#### Project charter
 
-###### Code review
+#### GANTT
 
-###### Technique du canard en plastique
+#### Business Model
+
+#### Scrum
+
+
+
+### Développement
+
+#### Extreme programming
+
+#### TDD FDD MDD
+
+#### Code review
+
+#### Technique du canard en plastique
 
 Lorsque l'on travaille seul, on a parfois la tête dans le guidon,  
 
