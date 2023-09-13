@@ -1779,7 +1779,21 @@ Créé aux États-Unis en **1955**, le TRAnsistor DIgital Computer a été premi
 
 
 
-##### plankalkul eniac ssem speedcoding Flow-Matic
+##### Plankalkul
+
+Premier langage de haut niveau, réalisé par Konrad Zuse, réalisé entre 1942 et 1946, il ne sera révélé qu'en 1948 et implémenté qu'en 1975. Le premier compilateur supportant ce langage ne sera abouti qu'en 2000.
+
+
+
+##### Speedcoding
+
+Révélé en **1953**, cela a été le premier langage de programmation de haut niveau créé pour un ordinateur IBM, il a été développé par John Backus et lui a fortement inspiré le Fortran. Ce langage a permis la prise en charge des nombres à virgule flottante sur les ordinateurs IBM 701
+
+
+
+##### Flow-Matic
+
+Développé pour l'UNIVAC I par Grace Hopper entre **1955** et 1959, il est à l'origine du COBOL
 
 
 
@@ -1949,7 +1963,7 @@ CSS a permi de diversifier l'apparence des sites webs, les frameworks et themes 
 
 ### Popularisation et Mondialisation
 
-Jusqu'alors, l'informatique était essentiellement réservé aux domaines privés comme le militaire, le spatial et l'administration des États. A partir des années 70, l'informatique va commencer à arriver dans le quotidien des particulier les plus aisés et finir par être dans une grande majorité des foyers. Internet commence à se developper petit à petit
+Jusqu'alors, l'informatique était essentiellement réservé aux domaines privés comme le militaire, le spatial et l'administration des États. À partir des années 70, l'informatique va commencer à arriver dans le quotidien des particulier les plus aisés et finir par être dans une grande majorité des foyers. Internet commence à se développer petit à petit.
 
 
 
@@ -2009,13 +2023,19 @@ Optical Storage Disc **1980**
 
 #### Xerox Star
 
-**1981**
+**1981** premier ordinateur commercial avec une interface utilisateur graphique
 
 
 
 #### IBM PC 5150
 
 **1981**
+
+
+
+#### Macintoch 128K
+
+Sorti en **1984**, avec des icônes en skeuomorphisme 
 
 
 
