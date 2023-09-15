@@ -1029,17 +1029,17 @@ Il a découvert le mouvement de l'apogée du Soleil, recenser plus de 500 étoil
 
 
 
-
-
 #### Gerbert d'Aurillac
 
-Aussi connu sous le nom de Sylvestre II, né en **950** et mort en 1003. Il aurait demandé un traité sur l'astrolabe et l'écriture décimale positionnelle à l'astronome Lupitus de Barcelone. On ne sait pas si elle lui est parvenue mais il a introduit des concepts de la science arabe en Occident.
+Aussi connu sous le nom de Sylvestre II, né en **950** et mort en 1003. Il aurait demandé à l'astronome Lupitus de Barcelone, un traité sur un calculateur analogique permettant de mesurer la hauteur des étoiles nommé astrolabe. On ne sait pas si elle lui est parvenue mais il a introduit des concepts de la science arabe en Occident.
+
+Lors d'un séjour de 3 ans en Catalogne, il aurait en effet consulté des manuscrits traduits de l'arabe, dans lesquels il aurait pu avoir pris connaissances des chiffres indo-arabes, ainsi que l'écriture décimale positionnelle. Il a inventé un abaque, fonctionnant de la même manière que l'on poserai une addition sur papier, dont une version pourrait avoir été réalisé avec cette notation des chiffres.
 
 
 
 #### Hermann Contract 
 
-ne en **1013** et mort en 1054, il aboutit les travaux de Gerbert sur l'Astrolabe 
+Né en **1013** et mort en 1054, il aboutit les travaux de Gerbert sur l'Astrolabe et en conçoit un. Malgré une paraplégie spastique familiale, handicap de naissance affectant sa parole et sa lecture tout en l'empêchant de marcher, il a permis, à l'instar de Vitruve, la transmission de beaucoup d'informations concernant autant la musique, que l'histoire, les mathématiques, l'astronomie et la poésie.
 
 
 
