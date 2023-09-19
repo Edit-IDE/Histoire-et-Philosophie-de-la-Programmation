@@ -822,7 +822,7 @@ Cette pensée émane à un moment où les mythes, fables et religions sont douce
 
 #### Antisthène
 
-Né en -440 à Athènes, il fut sophiste avant de suivre l'enseignement de Socrate et finir par fonder l'école cynique vers -390. Les cyniques enseignaient la désinvolture et l'humilité, l'étymologie signifiant chien ce mode de pensée revient à se considérer comme un simple animal domestique vivant en société. Diogène de Sinope, un des cyniques les plus connus, aurait même déclaré vouloir être "enterré comme un chien", montrant ainsi son désintérêt pour les funérailles, et indirectement pour sa propre personne.
+Né en -440 à Athènes, il fut sophiste avant de suivre l'enseignement de Socrate et finir par fonder l'école cynique vers -390. Les cyniques enseignaient la désinvolture et l'humilité, l'étymologie signifiant chien ce mode de pensée revient à se considérer comme un simple animal domestique vivant en société. Diogène de Sinope, un des cyniques les plus connus, aurait même déclaré vouloir être "enterré comme un chien", montrant ainsi son désintérêt pour la sépulture ou les funérailles, et indirectement pour sa propre personne.
 
 Ce genre de comportements et mode de pensée inspirera beaucoup les stoïciens par la suite, notamment dans la rapport à la mort et aux événements marquants.
 
