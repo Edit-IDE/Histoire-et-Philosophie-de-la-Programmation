@@ -820,6 +820,16 @@ Cette pensée émane à un moment où les mythes, fables et religions sont douce
 
 
 
+#### Antisthène
+
+Né en -440 à Athènes, il fut sophiste avant de suivre l'enseignement de Socrate et finir par fonder l'école cynique vers -390. Les cyniques enseignaient la désinvolture et l'humilité, l'étymologie signifiant chien ce mode de pensée revient à se considérer comme un simple animal domestique vivant en société. Diogène de Sinope, un des cyniques les plus connus, aurait même déclaré vouloir être "enterré comme un chien", montrant ainsi son désintérêt pour les funérailles, et indirectement pour sa propre personne.
+
+Ce genre de comportements et mode de pensée inspirera beaucoup les stoïciens par la suite, notamment dans la rapport à la mort et aux événements marquants.
+
+Pour eux la matière prévaut sur les idées, faisant d'eux des matérialistes anticonformistes en opposition avec les idéalistes de l'époque. Ils pratiquent notamment la contestation et l'ironie, dans le but de démontrer que les règles sociales et les interdits ne sont pas essentiels, pour eux, seul l'éthique naturelle et universelle qu'est la vertu importe.
+
+
+
 #### Platon
 
 Né vers -**428**, Platon faisait la distinction entre le monde intelligible et sensible, il est pour cela parfois considéré comme idéaliste. Ce mouvement est caractérisé par l'axiome que toute réalité est liée à une idée, ou états d'esprit des observateurs, sans lequel le monde n'existe pas de manière autonome, n'étant qu'une représentation que l'on en fait. Plaçant la pensée au dessus et comme plus importante que le monde matériel, à l'inverse du matérialisme formulé bien plus tard au 18 ème siècle, prônant que l'esprit et la conscience ne sont le résultat d’interactions matérielles.
@@ -848,7 +858,7 @@ Cette abstraction que sont les mathématiques, basée initialement sur des axiom
 
 Les mathématiques pures, tendent à la généralité, ou comme on le dirait en langage de mathématicien, vers la factorisation, c’est à dire la simplification d’un concept sous une forme plus courte, et facile à comprendre, et donc à transmettre et réutiliser. Notez que c'est également une notion très utilisée en programmation, la refactorisation. Elle fait parti des bonnes habitudes et de l'amélioration continue.
 
-Ce processus de réécriture syntaxique, trouve ses plus vieilles traces connues a la même période, le langage SMS serait avéré par un Bibliographe, Diogène Laërce, les premières traces remonteraient ainsi à **405 avant J.-C**., date à laquelle Xénophon, élève de Socrate, aurait usé de *sténographie* pour transcrire les discours de son maître, face au besoin d'écrire rapidement et idéalement à la vitesse de la parole. La sténographie, du grec ancien "écriture courte", est un procédé de tachygraphie signifiant "écriture rapide".
+Ce processus de réécriture syntaxique, trouve ses plus vieilles traces connues a la même période, le langage SMS serait avéré par le bibliographe et doxographe, Diogène Laërce, les premières traces remonteraient ainsi à **405 avant J.-C**., date à laquelle Xénophon, élève de Socrate, aurait usé de *sténographie* pour transcrire les discours de son maître, face au besoin d'écrire rapidement et idéalement à la vitesse de la parole. La sténographie, du grec ancien "écriture courte", est un procédé de tachygraphie signifiant "écriture rapide".
 
 Les mathématiques appliquées, quand à elles, utilisent ces concepts sur des domaines très spécifiques, pour exemple, la géométrie, étymologiquement "science de la mesure du terrain", à été développée dans l’Égypte antique pendant **les trois siècles avant J.-C.** , à partir du besoin de mesurer la superficie d’un champ, aussi appelée arpentage.
 
@@ -1045,19 +1055,21 @@ Né en **1013** et mort en 1054, il aboutit les travaux de Gerbert sur l'Astrola
 
 #### Al Zarqali
 
-1027 > 1087
+Apprenti forgeron né à Tolède en **1027** et mort en 1087 à Cordoue, il finit par graver des astrolabes et s'intéresser à l'astrologie. Il effectue alors des observations du ciel de Tolède et réalise des tables sur le mouvement des planètes nommées Tables Tolédanes, la précision de ses tables permettait la prédiction d'éclipses. Il aurait également repris les travaux de Ptolémée et Al Khawarizmi et corriger leurs résultats en montrant que la largeur de Méditerranée est de 42 degrés au lieu de 62.
+
+200 ans après sa mort, Alphonse X de Castille ordonnera la traduction de toutes ses œuvres littéraires et commandita la réalisation de tables alphonsines permettant le calcul de la position des astres tels que le Soleil, la Lune et les planètes. Ces travaux seront également repris par Copernic.
 
 
 
 #### Abraham bar Hiyya Hanassi
 
-1070 > 1140
+Probablement né en **1070**, il vécu jusqu'au début du 12 ème siècle où il s'éteindra vers l'an 1140. Rabbin, mathématicien, astronome et philosophe, il est parfois considéré comme le véritable pionnier des sciences mathématiques en Europe. Il a traduit l'*Algèbre* d'Al Khawarizmi en latin, avec l'aide de Platon de Tivoli, dans une œuvre nommée *Liber embadorum*, qui servira à Fibonacci.
 
 
 
 #### Fibonacci
 
-Ayant vécu de **1170** à **1250**, Leonardo Fibonacci est le "chaînon manquant", qui aurait importé la notation indo-arabe aux mathématiques occidentales. Il a en effet été éduqué à Béjaïa en actuelle Algérie, et aurait ramené entre autre cette fameuse notation à Pise, où son père était marchant et notaire public des douanes.
+Ayant vécu de **1170** à **1250**, Leonardo Fibonacci est le "chaînon manquant", qui aurait importé la notation indo-arabe aux mathématiques occidentales à une période où les chiffres romains prédominent. Il a en effet été éduqué à Béjaïa en actuelle Algérie, et aurait ramené entre autre cette fameuse notation à Pise, où son père était marchant et notaire public des douanes.
 
 Il est également réputé pour sa fameuse suite, bien que connue des Indiens depuis le 6e siècle, et liée au nombre d'or, proportion qui n'a pas été évoquée par Fibonacci et que l'on retrouve dans beaucoup de choses y compris des structures produites par la nature.
 
@@ -1067,7 +1079,11 @@ Il est également réputé pour sa fameuse suite, bien que connue des Indiens de
 
 Le mot *typographie* se compose de « type » qui signifie « empreinte », et de « graphie » qui signifie « écriture ».
 
-La typographie est l’art d’assembler des caractères mobiles afin de créer des mots, des phrases, et de les imprimer. Cette technique a été détaillée vers **1440** par Gutenberg, qui n’a pas inventé l’imprimerie en soit mais l'a populariser avec l'ensemble des techniques qui y sont liées.
+La typographie est l’art d’assembler des caractères mobiles afin de créer des mots, des phrases, et de les imprimer. Cette technique a été détaillée vers **1440** par Gutenberg, qui n’a pas inventé l’imprimerie en soit mais l'a popularisée avec l'ensemble des techniques mécaniques qui y sont liées.
+
+En effet, les caractères mobiles existait déjà car inventés en 1040 par un inventeur chinois nommé Bi Sheng ; et la xylographie permettait déjà bien avant cela, l'impression à l'aide de gravures sur bois, malgré son usure après plusieurs utilisations.
+
+L'imprimerie à permis l'automatisation d'une transmission écrire qui était alors manuelle, baissant les coûts et améliorant la vitesse de production et de diffusion des informations. La lecture qui était alors un privilège réservé aux plus riches devient alors accessible, la transmission orale ne prévaut plus et chacun peut avoir un libre examen des œuvres littéraires.
 
 
 
@@ -1075,7 +1091,7 @@ La typographie est l’art d’assembler des caractères mobiles afin de créer 
 
 Il est considéré par certains comme le père de la cryptographie occidentale, il a en effet étudier et inventer un système de chiffrement par substitution, le cadran chiffrant, et rédigé un texte prouvant que l'analyse de fréquence des lettres dans les textes en permet le déchiffrement. Il finira donc logiquement par inventer le sur-chiffrement codique, l'innovation cryptographique la plus significative depuis la période de César. Cette méthode consiste à utiliser plusieurs alphabets désordonnés en alternant entre eux lors du chiffrement.
 
-Il était également architecte, ayant planifier des constructions à Florence et surtout le précurseur de l'imagerie numérique
+Il était également architecte, ayant planifier des constructions à Florence et surtout le précurseur de l'imagerie numérique.
 
 Il aurait également imaginé le premier anémomètre permettant d'évaluer précisément la force du vent. 
 
@@ -1085,7 +1101,7 @@ Il finira par décéder en **1472** à Rome
 
 #### Luca Pacioli
 
-A la fin du 15è siècle, il reprends le concept de nombre d'or dans un livre illustré par Leonard de Vinci, "De divina proportione" participant au mythe qui lui est lié. Pacioli est d'ailleurs le fondateur de la comptabilité par partie double que l'on utilise aujourd'hui dans en entreprises. Il a également traduits Éléments d'Euclide en Latin, et publier un résumé d’arithmétique, de proportion et de géométrie à Venise en 1492.
+A la fin du 15 ème siècle, il reprends le concept de nombre d'or dans un livre illustré par Leonard de Vinci, "De divina proportione" participant au mythe qui lui est lié. Pacioli est d'ailleurs le fondateur de la comptabilité par partie double que l'on utilise aujourd'hui dans en entreprises. Il a également traduits Éléments d'Euclide en Latin, et publier un résumé d’arithmétique, de proportion et de géométrie à Venise en 1492.
 
 
 
@@ -1115,25 +1131,25 @@ Ce mouvement a donné lieu au siècle des Lumières, qui a vu émerger beaucoup 
 
 #### Montaigne
 
-Né le 28 février **1533**
+Né le 28 février **1533**, épicurien sceptique
 
 
 
 #### Rabelais
 
-Né le 9 avril 1553
+Né le 9 avril **1553**, ce bon vivant connu pour ses banquets est également passionné par le gigantisme, on lui doit Pantaguel ou Gargantua. Naturellement épicurien, mais aussi influencé par le stoïcisme, le scepticisme et le cynisme.
 
 
 
 #### Francis Bacon
 
-Né le 22 janvier **1561** 
+Né le 22 janvier **1561**, 
 
 
 
 #### Giambattista della Porta
 
-Fasciné par l'ésotérisme derrière les miracles et mystères de la nature, il œuvra à les opposer au divinatoire, et à convertir des croyances en savoirs scientifique. Comme beaucoup de philosophes et esprits polymathes, sa pensée est dirigée par les principes préscientifiques de la *théorie des analogies et de la correspondance*. Il eu étudier l'optique et le magnétisme, les lentilles et l'attraction du fer sur un aimant, ainsi que la propriété de nombreux métaux.
+Fasciné par l'ésotérisme derrière les miracles et mystères de la nature, il œuvra à les opposer au divinatoire, et à convertir des croyances en savoirs scientifique. Comme beaucoup de philosophes et esprits polymathes, sa pensée est dirigée par les principes préscientifiques de la *théorie des analogies et de la correspondance*. Il eu étudié l'optique et le magnétisme, les lentilles et l'attraction du fer sur un aimant, ainsi que la propriété de nombreux métaux.
 
 Cryptographe, il rédigea en **1563** un ouvrage détaillé résumant les connaissances de cryptanalyses connues à l'époque, traitant du chiffrement et déchiffrement de messages, avec quelques ajouts de sa part, comme le système littéral à double clef qui sera longtemps utilisé, et dont il est potentiellement l'inventeur. Il a également aidé à aboutir les travaux d'Alberti pour en faire un système complet. 
 
