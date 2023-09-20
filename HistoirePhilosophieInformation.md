@@ -479,11 +479,11 @@ Pour la rédaction de ce dernier, j'ai acquis 3 livres :
 - "Histoire illustrée de l'informatique" d'Emmanuel Lazard et Pierre Mounier-Kuhn.
 - "Transmettre" de Christophe André, Céline Alvarez, Catherine Gueguen, Matthieu Ricard, Frédéric Lenoir, Ilios Kotsou, Caroline Lesire
 
-Les trois premiers livres ont chacun leurs avantages grâce à une approche différente d'un même sujet, sur lequel je m'attendais à trouver plus de bibliographie. Contrairement à ceux-ci, j'ai essayé d'avoir une démarche plus globale que l'informatique et l'ordinateur, qui sont des concepts très récent. Et ce en abordant le thème global qu'est l'information, tout en y ajoutant de la philosophie, ainsi que mon humble analyse subjective, parce que l'apprentissage des mathématiques et de l'informatique ont changé ma manière de concevoir le monde dans lequel nous vivons.
+Les trois premiers livres ont chacun leurs avantages grâce à une approche différente d'un même sujet, sur lequel je m'attendais à trouver plus de bibliographie. Contrairement à ceux-ci, j'ai essayé d'avoir une démarche plus globale que l'informatique et l'ordinateur, qui sont des concepts très récent. Et ce en abordant le thème global qu'est l'information, tout en y ajoutant de la philosophie ainsi que mon humble analyse subjective, parce que l'apprentissage des mathématiques et de l'informatique ont changé ma manière de concevoir le monde dans lequel nous vivons.
 
 
 
-Dans ce mémoire, je vais donc revenir aux racines les plus ancestrales de la gestion de l'information, au vocabulaire et champ lexical qui y sont liés ou en découle, ainsi que leurs étymologies à travers leur Histoire, qui représente toute la première partie de ce livre.
+Dans ce mémoire, je vais donc revenir aux racines les plus ancestrales de la gestion de l'information, au vocabulaire et champ lexical qui y sont liés ou en découlent, ainsi que leurs étymologies à travers leur Histoire, qui représente toute la première partie de ce livre.
 
 J'aborderai aussi un sujet qui m'est cher, la programmation. Elle n'est pas forcement liée à l'informatique, c'est l'art de planifier et mettre en œuvre des étapes à suivre pour obtenir un résultat. Cela dit, elle passe inévitablement par de la gestion de l'information, à l'aide d'écriture, lecture, chiffrement, déchiffrement, émission, et réception.
 
@@ -515,7 +515,7 @@ Merci à toutes les personnes et enseignants qui m'ont, lors de ma longue scolar
 
 Merci aux logiciels libres, à l'open source, à Wikipédia et à tout leurs contributeurs.
 
-Merci aux établissements et entreprises, dans lesquels j'ai travaillé et évoluer grâce à des processus d'amélioration continue.
+Merci aux établissements d'enseignement et entreprises, dans lesquels j'ai travaillé et évoluer grâce à des processus d'amélioration continue.
 
 Merci à toutes et tous, car nos métiers et inventions ne sont que rarement le fruit d'un génie isolé, mais bien d'une collaboration et de l'amélioration d'idées antérieures.
 
@@ -534,6 +534,8 @@ La deuxième est l’art de sculpter des outils, actuellement estimé 3 millions
 La troisième est la peinture, dont les plus anciennes preuves sont rupestres, et âgées de 65 millénaires.
 
 Relativement aux dates précédentes, l’écriture ne vient que récemment, elle a été attestée en Mésopotamie il y a 5 millénaires. Pourtant, c'est elle qui nous permettra à nous, humains, d'écrire notre Histoire.
+
+D'un point de vue Historique, notre génération laissera toujours une trace. Que ce soit sur un disque dur quelque part dans un grenier, dans un datacenter ou une web archive. Et même si tout disparaissait, il y aurait une preuve immuable et indestructible a échelle de la Terre. Les isotopes lourds que nous avons créés avec l'apparition des industries nucléaire seraient, même dans le cas d'un retour à l'Age de pierre causant un rude hiver civilisationnel, la preuve de l'existence de la nôtre.
 
 
 
@@ -799,9 +801,11 @@ Né en **-384**, il étudia 20 ans à l’Académie de Platon, et fonda par la s
 
 Il était confiant en la sensation, qui permet la perception et la cognition du monde réel, qui ne nécessite selon lui pas un scepticisme constant. Il nuança son propos en disant que c'est une première ouverture vers le savoir, qu'il faut mélanger avec le savoir d'autrui, de gens sérieux, expert du domaine, et sans prendre ce qui est dit pour véridique mais pour tester leur capacité a se rapprocher du réel et d'une vérité universelle.
 
-théorie des formes et des idées et archétypes
+Il rejoindra Platon sur la théorie des formes et des idées et archétypes ainsi que son alégorie de la caverne.
 
-La science de la biologie serait née d'Aristote et Théophraste, respectivement en charge de documenter la faune et la flore. Aristote à également défendu l'idée d'une terre sphérique, justifiée par la courbure des éclipses de lunes et la force centripète.
+La science de la biologie serait née d'Aristote et Théophraste, respectivement en charge de documenter la faune et la flore. Aristote à également défendu l'idée d'une terre sphérique, justifiée par la courbure des éclipses de lunes et la force centripète. Dans l'usage il se considérait au même titre que les autres philosophes, comme doxographe, restranscrivant les opinions soutenus par d'autres ou le plus grand nombre, Le philosphe doit faire preuve de metacognition pour se rendre compte des informations qu'il à sa disposition et qu'elles déductions en tirer, toujours dans l'idée d'accumuler du savoiret de s'élever tel un érudit vertueux.p
+
+Il a également inventé le terme de doxographie, signifiant opinion écrite.
 
 Aristote éthique, bien, reves (lucide)
 
@@ -1690,7 +1694,7 @@ Premier compilateur (A-0 System Grace Hopper 1951)
 
 #### Ferranti Mark I
 
-Le Ferranti Mark 1, aussi connu comme le Manchester Electronic Computer, est le premier ordinateur électronique généraliste commercialisé du monde et le second au monde après l’ordinateur électromécanique Z4. Il a été créé en **1951**.
+Le Ferranti Mark 1, aussi connu comme le Manchester Electronic Computer, est le premier ordinateur électronique généraliste commercialisé du monde et le second au monde après l’ordinateur électromécanique Z4. Il a été créé en **1951**. Alan Turing l'a utilisé pour modéliser des processus de morphogenèse, devenant pionnier de la bio-informatique. On l'a aussi employer pour jouer de la musique ou aux échecs. Il ne sera vendu qu'a raison de 7 exemplaires avant d'être succédé par le Ferranti Mercury
 
 
 
@@ -2173,6 +2177,10 @@ Je veut créer des indiférences
 #### Politesse
 
 #### Respect
+
+####  Bienveillance
+
+Veiller a bien faire et bien communiquer, bien travailler, bien apprendre et retransmettre, a être tout les jour un peu meilleur que la veille.
 
 
 
