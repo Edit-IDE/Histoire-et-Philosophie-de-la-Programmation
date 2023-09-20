@@ -2112,6 +2112,16 @@ Jusqu'alors, l'informatique était essentiellement réservé aux domaines privé
 
 
 
+#### Cerveau Chinois
+
+C'est une expérience de pensée considérant que si chaque membre de la nation chinoise était invité à simuler l'action d'un neurone constitué d'axones et de dendrites en utilisant des émetteurs bidirectionnels et ce afin de reconstrituer un cerveau, alors un tel système aurait-il un esprit ou une conscience ? 
+
+Cette idée imaginée en 1961 et reprise en 1974 par Lawrence Davis et **1978** par Ned Block qui déclarera qu'un tel cerveau n'aurait pas d'esprit, sera reprises mainte fois, comme par exemple lorsque l'on a affirmer que Google avait plus de connexion que le cerveau humain et que les gens craignent alors qu'internet qui en ai encore plus puisse développer une conscience.
+
+Par ailleurs cela pose la question du bateau de Thésée, si l'on était capable de remplacer des neurones par des neurones artificielles, jusqu'à substituer totalement au neurones "naturels", l'individu serait il le même ?
+
+
+
 #### Minitel
 
 Présenté en 1978 mais sorti en **1980**, le Minitel est un ordinateur connecté à un réseau et donc appelé Terminal. Il utilisait le réseau Transpac pour faire tourner le sien, "Télétel" auquel il se connectait à l'aide d'un modem. Il possédait une mémoire de 8,25 ko, et un processeur Intel 8052
