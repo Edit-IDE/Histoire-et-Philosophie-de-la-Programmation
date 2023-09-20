@@ -262,12 +262,14 @@ Dorian Blanchard
 ## Sommaire
 
 - [EditIDE - Histoire et philosophie de l'information](#editide---histoire-et-philosophie-de-linformation)
+  - [Ebauche sommaire](#ebauche-sommaire)
   - [Sommaire](#sommaire)
   - [Introduction](#introduction)
   - [Remerciements](#remerciements)
   - [Histoire](#histoire)
     - [Préhistoire](#préhistoire)
       - [Abaques](#abaques)
+      - [Premières villes et sociétés](#premières-villes-et-sociétés)
       - [Bulle enveloppe](#bulle-enveloppe)
     - [Antiquité](#antiquité)
       - [Prémices de l'Algèbre](#prémices-de-lalgèbre)
@@ -285,6 +287,7 @@ Dorian Blanchard
       - [Platon](#platon)
       - [Mathématiques](#mathématiques)
       - [Aristote](#aristote)
+      - [Stoïcisme](#stoïcisme)
       - [Géométrie Euclidienne](#géométrie-euclidienne)
       - [Archimède](#archimède)
       - [Calculateurs analogiques](#calculateurs-analogiques)
@@ -296,28 +299,46 @@ Dorian Blanchard
     - [Moyen Âge](#moyen-âge)
       - [Aryabhata](#aryabhata)
       - [Algèbre et Algorithme](#algèbre-et-algorithme)
-      - [Hindu–Arabic numeral system](#hinduarabic-numeral-system)
+      - [Système de numération indo-arabe](#système-de-numération-indo-arabe)
       - [Al-Battani](#al-battani)
       - [Gerbert d'Aurillac](#gerbert-daurillac)
       - [Hermann Contract](#hermann-contract)
       - [Al Zarqali](#al-zarqali)
       - [Abraham bar Hiyya Hanassi](#abraham-bar-hiyya-hanassi)
-      - [Fibonnacci](#fibonnacci)
+      - [Fibonacci](#fibonacci)
+      - [Typographie](#typographie)
       - [Leon Battista Alberti](#leon-battista-alberti)
       - [Luca Pacioli](#luca-pacioli)
-    - [Époque moderne](#Époque-moderne)
+    - [Époque moderne](#époque-moderne)
       - [Nicolas Copernic](#nicolas-copernic)
+      - [Montaigne](#montaigne)
+      - [Rabelais](#rabelais)
+      - [Francis Bacon](#francis-bacon)
       - [Giambattista della Porta](#giambattista-della-porta)
+      - [Johannes Kepler](#johannes-kepler)
+      - [Thomas Hobbes](#thomas-hobbes)
+      - [René Descartes](#rené-descartes)
+      - [Galilée](#galilée)
       - [Wilhelm Schickard](#wilhelm-schickard)
       - [Calculateurs](#calculateurs)
       - [Bâtons de Napier](#bâtons-de-napier)
       - [Règle coulissante à calculer](#règle-coulissante-à-calculer)
+      - [John Locke](#john-locke)
+      - [Isaac Newton](#isaac-newton)
       - [Pascaline](#pascaline)
+      - [Baruch Spinoza](#baruch-spinoza)
       - [Binaire](#binaire)
+      - [Voltaire](#voltaire)
+      - [Jean-Jacques Rousseau](#jean-jacques-rousseau)
+      - [Kant](#kant)
       - [Cartes perforées](#cartes-perforées)
+      - [Pédagogie moderne](#pédagogie-moderne)
+      - [Théorie générale des systèmes](#théorie-générale-des-systèmes)
       - [Comète de Halley](#comète-de-halley)
-    - [Epoque contemporaine](#epoque-contemporaine)
+    - [Époque contemporaine](#époque-contemporaine)
       - [Almanach nautique](#almanach-nautique)
+      - [Georg Wilhelm Friedrich Hegel](#georg-wilhelm-friedrich-hegel)
+      - [Friedrich Fröbel](#friedrich-fröbel)
       - [Dactylographie](#dactylographie)
       - [Arithmomètre](#arithmomètre)
       - [Machine à différence et analytique](#machine-à-différence-et-analytique)
@@ -326,20 +347,25 @@ Dorian Blanchard
       - [Arithmaurel](#arithmaurel)
       - [Programmation](#programmation)
       - [Algèbre booléen](#algèbre-booléen)
+      - [John Dewey](#john-dewey)
+      - [Maria Montessori](#maria-montessori)
       - [Remington](#remington)
       - [Diode](#diode)
       - [Téléphone](#téléphone)
       - [Edison](#edison)
+      - [Adolphe Ferrière](#adolphe-ferrière)
       - [NCR](#ncr)
       - [Burroughs Corporation](#burroughs-corporation)
       - [Comptomètre](#comptomètre)
       - [Calculatrices à crosses](#calculatrices-à-crosses)
       - [Oscilloscope](#oscilloscope)
       - [Mécanographie](#mécanographie)
+      - [Célestion Freinet](#célestion-freinet)
       - [Tube a vide](#tube-a-vide)
       - [Séparation de l'État et de l'Église](#séparation-de-létat-et-de-léglise)
       - [Triode](#triode)
       - [Tube cathodique](#tube-cathodique)
+      - [Claude Lévi-Strauss](#claude-lévi-strauss)
     - [Après la première guerre mondiale](#après-la-première-guerre-mondiale)
       - [Tabulatrices](#tabulatrices)
       - [Enigma](#enigma)
@@ -347,6 +373,7 @@ Dorian Blanchard
       - [Bande magnétique cassettes audio](#bande-magnétique-cassettes-audio)
       - [IBM 601](#ibm-601)
       - [Mémoire tambour](#mémoire-tambour)
+      - [RADAR](#radar)
       - [Machine de Turing](#machine-de-turing)
       - [Z1 Zuse Konrad](#z1-zuse-konrad)
       - [Atanasoff Berry Computer](#atanasoff-berry-computer)
@@ -361,95 +388,125 @@ Dorian Blanchard
       - [IBM 602 \& 603](#ibm-602--603)
       - [Naissance de la Eckert-Mauchly Computer Corporation](#naissance-de-la-eckert-mauchly-computer-corporation)
       - [Trackball](#trackball)
+      - [Norbert Wiener](#norbert-wiener)
       - [Transistor](#transistor)
-      - [IBM 407](#ibm-407)
       - [SSEM](#ssem)
       - [Manchester Mark I](#manchester-mark-i)
       - [Théorie de l'information](#théorie-de-linformation)
+      - [IBM 604](#ibm-604)
+      - [IBM 407](#ibm-407)
+      - [EDSAC \& BINAC](#edsac--binac)
+      - [IBM CPC](#ibm-cpc)
       - [Ferranti Mark I](#ferranti-mark-i)
       - [UNIVAC 1](#univac-1)
+      - [A-0 System](#a-0-system)
+      - [Leo I](#leo-i)
       - [IBM 701](#ibm-701)
       - [IBM 702](#ibm-702)
       - [Mémoire à tores magnétiques](#mémoire-à-tores-magnétiques)
+      - [Z4](#z4)
       - [IBM 650](#ibm-650)
+      - [TRADIC](#tradic)
       - [Spoutnik 1](#spoutnik-1)
+      - [Premiers langages haut niveau - Structures de contrôle et de données](#premiers-langages-haut-niveau---structures-de-contrôle-et-de-données)
+        - [Plankalkul](#plankalkul)
+        - [Speedcoding](#speedcoding)
+        - [Flow-Matic](#flow-matic)
+        - [Fortran](#fortran)
+        - [Lisp](#lisp)
+        - [Cobol](#cobol)
+      - [Circuit intégré](#circuit-intégré)
       - [IBM 1401](#ibm-1401)
+      - [Théorie algorithmique de l'information](#théorie-algorithmique-de-linformation)
+      - [Computionnalisme](#computionnalisme)
+      - [Spacewar!](#spacewar)
+      - [Luciano Floridi](#luciano-floridi)
+      - [IBM System 360](#ibm-system-360)
+      - [Programma 101](#programma-101)
       - [Souris](#souris)
-      - [Apollo 1](#apollo-1)
       - [Dendral](#dendral)
+      - [Eliza](#eliza)
+      - [Apollo 1](#apollo-1)
+      - [Intel et Moore](#intel-et-moore)
       - [Amstrad](#amstrad)
       - [Microprocesseur](#microprocesseur)
-      - [Arpanet](#arpanet)
+      - [Arpanet et Cyclades](#arpanet-et-cyclades)
       - [Apollo 11](#apollo-11)
     - [Popularisation et Mondialisation](#popularisation-et-mondialisation)
       - [Atari pong](#atari-pong)
       - [Altair 8800](#altair-8800)
       - [Homebrew computer club](#homebrew-computer-club)
+      - [Minitel](#minitel)
+      - [La chambre chinoise](#la-chambre-chinoise)
+      - [Mémoire flash et stockage optique](#mémoire-flash-et-stockage-optique)
+      - [Pac Man](#pac-man)
       - [Osborne 1](#osborne-1)
       - [Xerox Star](#xerox-star)
       - [IBM PC 5150](#ibm-pc-5150)
+      - [Macintoch 128K](#macintoch-128k)
+      - [World Wide Web](#world-wide-web)
+      - [Deep Blue](#deep-blue)
+    - [Bilan passé](#bilan-passé)
   - [Pratiques actuelles](#pratiques-actuelles)
-    - [Division du travail](#division-du-travail)
-    - [Anticipation](#anticipation)
-    - [Contexte et vérité](#contexte-et-vérité)
-    - [Montaigne](#montaigne)
-    - [Rabelais](#rabelais)
-    - [Francis Bacon](#francis-bacon)
-    - [Thomas Hobbes](#thomas-hobbes)
-    - [John Locke](#john-locke)
-    - [Voltaire](#voltaire)
-    - [Jean-Jacques Rousseau](#jean-jacques-rousseau)
-    - [Kant](#kant)
-    - [Pédagogie moderne](#pédagogie-moderne)
-    - [Georg Wilhelm Friedrich Hegel](#georg-wilhelm-friedrich-hegel)
-    - [Friedrich Fröbel](#friedrich-fröbel)
-    - [John Dewey](#john-dewey)
-    - [Maria Montessori](#maria-montessori)
-    - [Adolphe Ferrière](#adolphe-ferrière)
-    - [Célestion Freinet](#célestion-freinet)
-    - [Théorie générale des systèmes](#théorie-générale-des-systèmes)
-    - [Pédagogie active](#pédagogie-active)
-    - [Claude Lévi-Strauss](#claude-lévi-strauss)
-    - [Norbert Wiener](#norbert-wiener)
-    - [Luciano Floridi](#luciano-floridi)
-    - [Méthodes d'aide à la structuration d'information](#méthodes-daide-à-la-structuration-dinformation)
-      - [Décision](#décision)
-        - [Analyse PESTEL](#analyse-pestel)
-        - [SWOT](#swot)
-        - [Matrice multicritère](#matrice-multicritère)
+      - [Honda asimo](#honda-asimo)
+      - [Roomba](#roomba)
+      - [Darpa Grand Challenge](#darpa-grand-challenge)
+      - [Imagenet](#imagenet)
+      - [Watson gagne Joepardy](#watson-gagne-joepardy)
+      - [Premier drone commercial autonome](#premier-drone-commercial-autonome)
+      - [Alphago](#alphago)
+      - [VSCode](#vscode)
+      - [Boston Dynamics](#boston-dynamics)
+    - [Essai](#essai)
+      - [Sectes et philosophie d'entreprise](#sectes-et-philosophie-dentreprise)
+      - [Division du travail](#division-du-travail)
+      - [Anticipation](#anticipation)
+      - [Contexte et vérité](#contexte-et-vérité)
+      - [Pédagogie active](#pédagogie-active)
+      - [Apprentissage](#apprentissage)
+      - [Méthodes d'aide à la structuration d'information](#méthodes-daide-à-la-structuration-dinformation)
+        - [Décision](#décision)
+          - [Analyse PESTEL](#analyse-pestel)
+          - [SWOT](#swot)
+          - [Matrice multicritère](#matrice-multicritère)
         - [5 Why](#5-why)
-        - [La matrice d'Eisenhower](#la-matrice-deisenhower)
-        - [Diagramme d'Ishikawa](#diagramme-dishikawa)
-        - [Analyse des parties prenantes](#analyse-des-parties-prenantes)
-        - [Carte heuristique](#carte-heuristique)
-      - [Conception](#conception)
-        - [Design thinking](#design-thinking)
-        - [Lean Startup](#lean-startup)
-      - [Gestion de projets](#gestion-de-projets)
-        - [Roadmap](#roadmap)
-        - [Project charter](#project-charter)
-        - [GANTT](#gantt)
-        - [Business Model](#business-model)
-        - [Scrum](#scrum)
-      - [Développement](#développement)
-        - [Extreme programming](#extreme-programming)
-        - [TDD FDD MDD](#tdd-fdd-mdd)
-        - [Code review](#code-review)
-        - [Technique du canard en plastique](#technique-du-canard-en-plastique)
-    - [Développement personnel](#développement-personnel)
-      - [Rigueur et retravail](#rigueur-et-retravail)
-      - [Amélioration continue](#amélioration-continue)
-      - [Do it now](#do-it-now)
-      - [Justification](#justification)
-      - [Critique](#critique)
-    - [Metagame](#metagame)
-    - [Prestation vs édition de logiciel](#prestation-vs-édition-de-logiciel)
-    - [Cadriciel et Open Source](#cadriciel-et-open-source)
-    - [ChatGPT](#chatgpt)
-    - [Opensource](#opensource)
-    - [Logiciel libre](#logiciel-libre)
-    - [Git](#git)
-  - [EditIDE](#editide)
+          - [La matrice d'Eisenhower](#la-matrice-deisenhower)
+          - [Diagramme d'Ishikawa](#diagramme-dishikawa)
+          - [Analyse des parties prenantes](#analyse-des-parties-prenantes)
+          - [Carte heuristique](#carte-heuristique)
+        - [Conception](#conception)
+          - [Design thinking](#design-thinking)
+          - [Lean Startup](#lean-startup)
+        - [Gestion de projets](#gestion-de-projets)
+          - [Roadmap](#roadmap)
+          - [Project charter](#project-charter)
+          - [GANTT](#gantt)
+          - [Business Model](#business-model)
+          - [Scrum](#scrum)
+        - [Développement](#développement)
+          - [Extreme programming](#extreme-programming)
+          - [TDD FDD MDD](#tdd-fdd-mdd)
+          - [Code review](#code-review)
+          - [Technique du canard en plastique](#technique-du-canard-en-plastique)
+      - [Travail Personnel](#travail-personnel)
+        - [Developpement informatique](#developpement-informatique)
+          - [Moteur de jeu](#moteur-de-jeu)
+        - [Développement personnel](#développement-personnel)
+          - [Rigueur et retravail](#rigueur-et-retravail)
+          - [Amélioration continue](#amélioration-continue)
+          - [Do it now](#do-it-now)
+          - [Aide](#aide)
+        - [STOP](#stop)
+        - [Justification](#justification)
+        - [Critique](#critique)
+      - [Metagame](#metagame)
+      - [Prestation vs édition de logiciel](#prestation-vs-édition-de-logiciel)
+      - [Cadriciel et Open Source](#cadriciel-et-open-source)
+      - [ChatGPT](#chatgpt)
+      - [Opensource](#opensource)
+      - [Logiciel libre](#logiciel-libre)
+      - [Git](#git)
+    - [EditIDE](#editide)
       - [Philosophie](#philosophie)
         - [One thing at a time](#one-thing-at-a-time)
         - [WYSIWYG](#wysiwyg)
@@ -459,7 +516,11 @@ Dorian Blanchard
         - [Visualisation](#visualisation)
       - [Rêves lucides](#rêves-lucides)
   - [Annexes](#annexes)
+      - [Bibliographie](#bibliographie)
       - [Webographie](#webographie)
+      - [Lexique](#lexique)
+      - [Table des illustrations](#table-des-illustrations)
+      - [Page d’évaluation](#page-dévaluation)
 
 
 
@@ -761,6 +822,18 @@ Cette pensée émane à un moment où les mythes, fables et religions sont douce
 
 
 
+#### Cynisme
+
+Né en -440 à Athènes, Antisthène fut sophiste avant de suivre l'enseignement de Socrate et finir par fonder l'école cynique vers -390. Les cyniques enseignaient la désinvolture et l'humilité, l'étymologie signifiant chien ce mode de pensée revient à se considérer comme un simple animal domestique vivant en société.
+
+Diogène de Sinope, un des cyniques les plus connus, aurait même déclaré vouloir être "enterré comme un chien", montrant ainsi son désintérêt pour la sépulture ou les funérailles, et indirectement pour sa propre personne. A l'instar de Socrate, il se considérait citoyen du monde, à cet effet il forgea l'usage du mot cosmopolite.
+
+Ce genre de comportements et mode de pensée inspirera beaucoup les stoïciens par la suite, notamment dans la rapport à la mort et aux événements marquants.
+
+Pour eux la matière prévaut sur les idées, faisant d'eux des matérialistes anticonformistes en opposition avec les idéalistes de l'époque. Ils pratiquent notamment la contestation et l'ironie, dans le but de démontrer que les règles sociales et les interdits ne sont pas essentiels, pour eux, seul l'éthique naturelle et universelle qu'est la vertu importe.
+
+
+
 #### Platon
 
 Né vers -**428**, Platon faisait la distinction entre le monde intelligible et sensible, il est pour cela parfois considéré comme idéaliste. Ce mouvement est caractérisé par l'axiome que toute réalité est liée à une idée, ou états d'esprit des observateurs, sans lequel le monde n'existe pas de manière autonome, n'étant qu'une représentation que l'on en fait. Plaçant la pensée au dessus et comme plus importante que le monde matériel, à l'inverse du matérialisme formulé bien plus tard au 18 ème siècle, prônant que l'esprit et la conscience ne sont le résultat d’interactions matérielles.
@@ -789,7 +862,7 @@ Cette abstraction que sont les mathématiques, basée initialement sur des axiom
 
 Les mathématiques pures, tendent à la généralité, ou comme on le dirait en langage de mathématicien, vers la factorisation, c’est à dire la simplification d’un concept sous une forme plus courte, et facile à comprendre, et donc à transmettre et réutiliser. Notez que c'est également une notion très utilisée en programmation, la refactorisation. Elle fait parti des bonnes habitudes et de l'amélioration continue.
 
-Ce processus de réécriture syntaxique, trouve ses plus vieilles traces connues a la même période, le langage SMS serait avéré par un Bibliographe, Diogène Laërce, les premières traces remonteraient ainsi à **405 avant J.-C**., date à laquelle Xénophon, élève de Socrate, aurait usé de *sténographie* pour transcrire les discours de son maître, face au besoin d'écrire rapidement et idéalement à la vitesse de la parole. La sténographie, du grec ancien "écriture courte", est un procédé de tachygraphie signifiant "écriture rapide".
+Ce processus de réécriture syntaxique, trouve ses plus vieilles traces connues a la même période, le langage SMS serait avéré par le bibliographe et doxographe, Diogène Laërce, les premières traces remonteraient ainsi à **405 avant J.-C**., date à laquelle Xénophon, élève de Socrate, aurait usé de *sténographie* pour transcrire les discours de son maître, face au besoin d'écrire rapidement et idéalement à la vitesse de la parole. La sténographie, du grec ancien "écriture courte", est un procédé de tachygraphie signifiant "écriture rapide".
 
 Les mathématiques appliquées, quand à elles, utilisent ces concepts sur des domaines très spécifiques, pour exemple, la géométrie, étymologiquement "science de la mesure du terrain", à été développée dans l’Égypte antique pendant **les trois siècles avant J.-C.** , à partir du besoin de mesurer la superficie d’un champ, aussi appelée arpentage.
 
@@ -907,13 +980,27 @@ Claude Ptolémée, est un astronome, astrologue, mathématicien, et géographe g
 
 ### Moyen Âge
 
-450 -> 1492
+Bien que le début de cette période soit marquée par un déclin avec la chute de l'Empire romain en 450, il se passera bien des choses dans le domaine des mathématiques, de la cryptographie et de l'imprimerie.
+
+D'un point de vue social et économique, l'humanité a connue une forte croissance démographique à cette période, avec un doublement de la population passant de 35 à 80 millions d'individus entre l'an 1000 et  1350, malgré la grande famine de 1316 et la peste noire de 1347. Ce développement a été en grande partie du à un climat plus favorable et à l'agrandissement des surfaces cultivés, qui a été accompagné par le développement des techniques agricoles comme la rotation des cultures ou l'apparition de la charrue.
+
+Des moutons à laine longue seront de plus en plus élevés et l'introduction en Europe du rouet inventé en Chine lors du premier siècle, et des boutons existants depuis l'apparition des premières villes permettront la réalisation de textiles de meilleure qualité.
+
+Les moulins à vents et à eau ont proliférer pendant cette période, permettant une automatisation et la réduction de l'utilisation de force manuelle au profit des forces hydrauliques, thermiques, éoliennes et animales.
+
+Les techniques navales vont également se développer avec les coques bordées en clin à la manière des tuiles d'un toit, puis à franc bord ou les planches sont jointes, formant une courbe plus droite ; mais aussi avec la popularisation des voiles latines triangulaires et des gouvernails d'étambot articulés.
+
+La réalisation de cathédrales et de châteaux va accélérer le développement des techniques de construction, des armures, et des armes, notamment de siège.
+
+Les hauts fourneaux permettant une meilleure production et qualité de fer apparaîtra en Suède, un peu avant la poudre à canon et les armes à feu qui arriveront vers la fin du 13 ème siècle.
+
+Le passage à l'époque moderne se fera en 1492, année de la découverte occidentale des Amériques par Christophe Colomb.
 
 
 
 #### Aryabhata
 
-Premier mathématicien et célèbre astronome indien né en 476. Contrairement à Aristote, Ptolémée, et aux autres philosophes de l'époque précédente, pensants être dans un système géocentrique où la terre serait immobile ; Aryabhata quand à lui, affirma la rotation de la Terre.
+Premier mathématicien et célèbre astronome indien né en **476**. Contrairement à Aristote, Ptolémée, et aux autres philosophes de l'époque précédente, pensants être dans un système géocentrique où la terre serait immobile ; Aryabhata quand à lui, affirma la rotation de la Terre.
 
 Dans son traité de mathématiques Aryabhatiya, il explicite des algorithmes permettant de trouver la racine carrée et cubique, découvert par Héron auparavant. Il serait aussi le premier à avoir utilisé la demi-corde, ancêtre du sinus, pour le calcul d'angles dans un triangle, calculs grâces auxquelles il format une table de calcul trigonométriques précise de 0 à 90 degré.
 
@@ -942,43 +1029,53 @@ Banū Mūsā brothers
 
 
 
-#### Hindu–Arabic numeral system
+#### Système de numération indo-arabe
+
+Les chiffres tels qu'on les connaît aujourd'hui proviennent du monde Arabe oriental, qui à partir de la fin du 7 ème siècle, entreprends un mécénat scientifique s’intéressant principalement aux sciences indiennes. Des bibliothèques se forment alors, et beaucoup de textes anciens sont alors traduits. Parmi eux, des tables de calculs, astronomiques, et même celles d'Aryabhata. Al-Khwarizmi aurait à cette occasion réécrit un système de symbole représentant les 10 chiffres, ressemblant fortement à ceux utilisés de nos jours.
 
 
 
 #### Al-Battani
 
-850 > 930
+Né vers **850** et mort en 930, c'était un astronome et mathématicien Arabe souvent considéré comme le Ptolémée des Arabes. Il a en effet repris ses travaux qu'il a complété pour constituer des tables de calculs pour le Soleil et la Lune, et ce en usant de la trigonométrie à l'instar d'Aryabhata, dont il est peu probable qu'il ai connu les travaux.
+
+Ses tables ont longtemps été utilisées et ont influencé l'astronomie européenne, y compris les travaux de Kepler, Copernic et Galilée.
+
+Il a découvert le mouvement de l'apogée du Soleil, recenser plus de 500 étoiles, calculer les équinoxes et l'inclinaison de l'axe terrestre. Il a également démontré que la distance entre le Soleil et la Terre varie lors d'une révolution, et affiner les calculs de Thalès en montrant qu'une année est constituée de 365 jours, 5 heures, 48 minutes, et 24 secondes.
 
 
 
 #### Gerbert d'Aurillac
 
-Aussi connu sous le nom de Sylvestre II ne en **950** et mort en 1003, il aurait demander a l'astronome Lupitus de Barcelone, un traite sur l'astrolabe et l'écriture décimale positionnelle. on ne sait pas si elle lui est parvenue mais il a introduit des concepts de la science arabe en Occident 
+Aussi connu sous le nom de Sylvestre II, né en **950** et mort en 1003. Il aurait demandé à l'astronome Lupitus de Barcelone, un traité sur un calculateur analogique permettant de mesurer la hauteur des étoiles nommé astrolabe. On ne sait pas si elle lui est parvenue mais il a introduit des concepts de la science arabe en Occident.
+
+Lors d'un séjour de 3 ans en Catalogne, il aurait en effet consulté des manuscrits traduits de l'arabe, dans lesquels il aurait pu avoir pris connaissances des chiffres indo-arabes, ainsi que l'écriture décimale positionnelle. Il a inventé un abaque, fonctionnant de la même manière que l'on poserai une addition sur papier, dont une version pourrait avoir été réalisé avec cette notation des chiffres.
 
 
 
 #### Hermann Contract 
 
-ne en **1013** et mort en 1054, il aboutit les travaux de Gerbert sur l'Astrolabe 
+Né en **1013** et mort en 1054, il aboutit les travaux de Gerbert sur l'Astrolabe et en conçoit un. Malgré une paraplégie spastique familiale, handicap de naissance affectant sa parole et sa lecture tout en l'empêchant de marcher, il a permis, à l'instar de Vitruve, la transmission de beaucoup d'informations concernant autant la musique, que l'histoire, les mathématiques, l'astronomie et la poésie.
 
 
 
 #### Al Zarqali
 
-1027 > 1087
+Apprenti forgeron né à Tolède en **1027** et mort en 1087 à Cordoue, il finit par graver des astrolabes et s'intéresser à l'astrologie. Il effectue alors des observations du ciel de Tolède et réalise des tables sur le mouvement des planètes nommées Tables Tolédanes, la précision de ses tables permettait la prédiction d'éclipses. Il aurait également repris les travaux de Ptolémée et Al Khawarizmi et corriger leurs résultats en montrant que la largeur de Méditerranée est de 42 degrés au lieu de 62.
+
+200 ans après sa mort, Alphonse X de Castille ordonnera la traduction de toutes ses œuvres littéraires et commandita la réalisation de tables alphonsines permettant le calcul de la position des astres tels que le Soleil, la Lune et les planètes. Ces travaux seront également repris par Copernic.
 
 
 
 #### Abraham bar Hiyya Hanassi
 
-1070 > 1140
+Probablement né en **1070**, il vécu jusqu'au début du 12 ème siècle où il s'éteindra vers l'an 1140. Rabbin, mathématicien, astronome et philosophe, il est parfois considéré comme le véritable pionnier des sciences mathématiques en Europe. Il a traduit l'*Algèbre* d'Al Khawarizmi en latin, avec l'aide de Platon de Tivoli, dans une œuvre nommée *Liber embadorum*, qui servira à Fibonacci.
 
 
 
 #### Fibonacci
 
-Ayant vécu de **1170** à **1250**, Leonardo Fibonacci est le "chaînon manquant", qui aurait importé la notation indo-arabe aux mathématiques occidentales. Il a en effet été éduqué à Béjaïa en actuelle Algérie, et aurait ramené entre autre cette fameuse notation à Pise, où son père était marchant et notaire public des douanes.
+Ayant vécu de **1170** à **1250**, Leonardo Fibonacci est le "chaînon manquant", qui aurait importé la notation indo-arabe aux mathématiques occidentales à une période où les chiffres romains prédominent. Il a en effet été éduqué à Béjaïa en actuelle Algérie, et aurait ramené entre autre cette fameuse notation à Pise, où son père était marchant et notaire public des douanes.
 
 Il est également réputé pour sa fameuse suite, bien que connue des Indiens depuis le 6e siècle, et liée au nombre d'or, proportion qui n'a pas été évoquée par Fibonacci et que l'on retrouve dans beaucoup de choses y compris des structures produites par la nature.
 
@@ -988,7 +1085,11 @@ Il est également réputé pour sa fameuse suite, bien que connue des Indiens de
 
 Le mot *typographie* se compose de « type » qui signifie « empreinte », et de « graphie » qui signifie « écriture ».
 
-La typographie est à l’origine l’art d’assembler des caractères mobiles afin de créer des mots et des phrases et de les imprimer]. Cette technique a été mise au point vers **1440** par Gutenberg, qui n’a pas inventé l’imprimerie à caractères mobiles mais un ensemble de techniques conjointes : les caractères mobiles en plomb et leur principe de fabrication, la presse typographique (inconnue des Orientaux), et l’encre grasse nécessaire à cet usage.
+La typographie est l’art d’assembler des caractères mobiles afin de créer des mots, des phrases, et de les imprimer. Cette technique a été détaillée vers **1440** par Gutenberg, qui n’a pas inventé l’imprimerie en soit mais l'a popularisée avec l'ensemble des techniques mécaniques qui y sont liées.
+
+En effet, les caractères mobiles existait déjà car inventés en 1040 par un inventeur chinois nommé Bi Sheng ; et la xylographie permettait déjà bien avant cela, l'impression à l'aide de gravures sur bois, malgré son usure après plusieurs utilisations.
+
+L'imprimerie à permis l'automatisation d'une transmission écrire qui était alors manuelle, baissant les coûts et améliorant la vitesse de production et de diffusion des informations. La lecture qui était alors un privilège réservé aux plus riches devient alors accessible, la transmission orale ne prévaut plus et chacun peut avoir un libre examen des œuvres littéraires.
 
 
 
@@ -996,7 +1097,7 @@ La typographie est à l’origine l’art d’assembler des caractères mobiles 
 
 Il est considéré par certains comme le père de la cryptographie occidentale, il a en effet étudier et inventer un système de chiffrement par substitution, le cadran chiffrant, et rédigé un texte prouvant que l'analyse de fréquence des lettres dans les textes en permet le déchiffrement. Il finira donc logiquement par inventer le sur-chiffrement codique, l'innovation cryptographique la plus significative depuis la période de César. Cette méthode consiste à utiliser plusieurs alphabets désordonnés en alternant entre eux lors du chiffrement.
 
-Il était également architecte, ayant planifier des constructions à Florence et surtout le précurseur de l'imagerie numérique
+Il était également architecte, ayant planifier des constructions à Florence et surtout le précurseur de l'imagerie numérique.
 
 Il aurait également imaginé le premier anémomètre permettant d'évaluer précisément la force du vent. 
 
@@ -1006,7 +1107,7 @@ Il finira par décéder en **1472** à Rome
 
 #### Luca Pacioli
 
-A la fin du 15è siècle, il reprends le concept de nombre d'or dans un livre illustré par Leonard de Vinci, "De divina proportione" participant au mythe qui lui est lié. Pacioli est d'ailleurs le fondateur de la comptabilité par partie double que l'on utilise aujourd'hui dans en entreprises. Il a également traduits Éléments d'Euclide en Latin, et publier un résumé d’arithmétique, de proportion et de géométrie à Venise en 1492.
+A la fin du 15 ème siècle, il reprends le concept de nombre d'or dans un livre illustré par Leonard de Vinci, "De divina proportione" participant au mythe qui lui est lié. Pacioli est d'ailleurs le fondateur de la comptabilité par partie double que l'on utilise aujourd'hui dans en entreprises. Il a également traduits Éléments d'Euclide en Latin, et publier un résumé d’arithmétique, de proportion et de géométrie à Venise en 1492.
 
 
 
@@ -1014,47 +1115,69 @@ A la fin du 15è siècle, il reprends le concept de nombre d'or dans un livre il
 
 ### Époque moderne
 
-1492 -> 1792
+Le début en étant marqué par la découverte occidentale d'un nouveau continent en **1492**, cette période sera notamment celle du développement des empires coloniaux et des grandes découvertes maritimes, permis par les développement technologiques du moyen âge, notamment concernant la navigation, la cartographie, l'imprimerie et les techniques agricoles. L'import de la pomme de terre américaine permettra d’atténuer le problème des famines. 
+
+Dans cette période s'amorce un changement social, avec le très lent déclin des monarchies, du clergé et de la noblesse, au profit de la bourgeoisie qui développa le commerce, notamment dans les villes et leurs abords, causant une urbanisation progressive. L'Église perd de son pouvoir et ses biens entrent progressivement dans le domaine public grâce à la sécularisation.
+
+Les États-Unis finiront par déclarer leur indépendance en 1776
+
+L'époque contemporaine la suivra en 1792 à partir de la révolution française.
 
 
 
 #### Nicolas Copernic
 
-Aristarque de Samos fut vers -280 le premier à envisager que la Terre tourne autour du soleil mais c'est Copernic qui vers **1513** proposa un modèle héliocentrique, amélioré par la suite par Kepler, et confirmé par Galilée qui réalisa les observations et rédigea les premiers principes mécaniques permettant de justifier ce système.
+Aristarque de Samos fut vers -280 le premier à envisager que la Terre tourne autour du soleil mais c'est Copernic qui vers **1513** proposa un modèle héliocentrique, amélioré par la suite par Kepler, et confirmé a posteriori par Galilée qui réalisa les observations et rédigea les premiers principes mécaniques permettant de justifier ce système.
+
+Il est à l'origine du mouvement philosophique des Lumières, dont feront parti la plupart les philosophes lui succédant comme Descartes, Spinoza, Locke, Newton, etc...
+
+Ce mouvement a donné lieu au siècle des Lumières, qui a vu émerger beaucoup d'innovations technologiques, avec un détachement de la croyance et des superstitions au profit de la raison. 
 
 
 
 #### Montaigne
 
-Né le 28 février **1533**
+Né le 28 février **1533**, épicurien sceptique
 
 
 
 #### Rabelais
 
-Né le 9 avril 1553
+Né le 9 avril **1553**, ce bon vivant connu pour ses banquets est également passionné par le gigantisme, on lui doit Pantaguel ou Gargantua. Naturellement épicurien, mais aussi influencé par le stoïcisme, le scepticisme et le cynisme.
 
 
 
 #### Francis Bacon
 
-Né le 22 janvier **1561** 
+Né le 22 janvier **1561**, 
 
 
 
 #### Giambattista della Porta
 
-Fasciné par l'ésotérisme derrière les miracles et mystères de la nature, il œuvra à les opposer au divinatoire, et à convertir des croyances en savoirs scientifique. Comme beaucoup de philosophes et esprits polymathes, sa pensée est dirigée par les principes préscientifiques de la *théorie des analogies et de la correspondance*. Il eu étudier l'optique et le magnétisme, les lentilles et l'attraction du fer sur un aimant, ainsi que la propriété de nombreux métaux.
+Fasciné par l'ésotérisme derrière les miracles et mystères de la nature, il œuvra à les opposer au divinatoire, et à convertir des croyances en savoirs scientifique. Comme beaucoup de philosophes et esprits polymathes, sa pensée est dirigée par les principes préscientifiques de la *théorie des analogies et de la correspondance*. Il eu étudié l'optique et le magnétisme, les lentilles et l'attraction du fer sur un aimant, ainsi que la propriété de nombreux métaux.
 
-Cryptographe, il rédigea en **1563** un ouvrage détaillé résumant les connaissances de cryptanalyses connues à l'époque, traitant du chiffrement et déchiffrement de messages, avec quelques ajouts de sa part, comme le système littéral à double clef qui sera longtemps utilisé, et dont il est potentiellement l'inventeur. Il a également aider à aboutir les travaux d'Alberti pour en faire un système complet. 
+Cryptographe, il rédigea en **1563** un ouvrage détaillé résumant les connaissances de cryptanalyses connues à l'époque, traitant du chiffrement et déchiffrement de messages, avec quelques ajouts de sa part, comme le système littéral à double clef qui sera longtemps utilisé, et dont il est potentiellement l'inventeur. Il a également aidé à aboutir les travaux d'Alberti pour en faire un système complet. 
 
 Il s'intéressa également à la psychologie et notamment la mémoire, domaine qu'il étudia jusqu’à concevoir des astuces mnémoniques utilisées par les acteurs de théâtre pour mémoriser leurs textes.
+
+
+
+#### Johannes Kepler
+
+Né en **1571**
 
 
 
 #### Thomas Hobbes
 
 Né le 5 avril **1588** 
+
+
+
+#### René Descartes
+
+**1596**
 
 
 
@@ -1100,6 +1223,12 @@ Né le 29 août **1632**
 
 
 
+#### Isaac Newton
+
+Né en **1642**
+
+
+
 #### Pascaline
 
 En **1650**, Blaise Pascal invente ce qui est considéré aujourd'hui comme la première machine à calculer. Dans la volonté de soulager le travail de son père, nommé premier président à la Cour des aides de Normandie à Rouen, cette machine a permis de réaliser additions, soustractions, et multiplication, ainsi que divisions, par répétitions.
@@ -1132,7 +1261,7 @@ Le binaire est pratiqué depuis l'an -750, mais le concept et ses opérations te
 
 
 
-Leibniz était rationaliste, par définition il était opposé à l'empirisme, cette philosophie, qui est également celle de Réné Descartes et Baruch Spinoza
+Leibniz était rationaliste, par définition il était opposé à l'empirisme, cette philosophie, qui est également celle de René Descartes et Baruch Spinoza
 
 
 
@@ -1206,6 +1335,12 @@ Philosophie de l'éducation et axiologie, qu'elle est la valeur de l'éducation 
 
 
 
+#### Théorie générale des systèmes
+
+Aussi appelée Systémique, la première personnalité connue à parler de ce domaine d'étude des ensembles complexe d'interactions entre des sous groupes est Sébastien Le Prestre dans *Système*, plus connu sous le nom de Vauban, dont il était le marquis. Cela a ensuite été décrit par Étienne Bonnot de Condillac qui définit les prémices de l'approche systémique dans son *Traité des Systèmes* en **1749**, repris par la suite par  Pareto qui l'appliqua à l'économie politique.
+
+
+
 #### Comète de Halley
 
 En **1757**, trois français, Alexis Clairaut, Jérôme Lalande, et Nicole Lepaute aboutissent le travail d'un polymathe Anglais, Edmond Halley, qui expliqua dans un livre que ce que l'on croyait être des comètes distinctes n'en sont en réalité qu'une seule avec une périodicité de 76 ans pour effectuer une révolution autour du soleil.
@@ -1220,7 +1355,7 @@ Ce travail conjoint à permis l'abandon de la théorie des tourbillons de Descar
 
 ### Époque contemporaine
 
-Le début en est marqué par la révolution industrielle qui a commencer en 1760 au Royaume-Unis, le besoin de calcul, de gestion et d'automatisation est alors grandissant.
+C'est la période actuelle, le début est défini par la révolution industrielle qui a commencée en **1760** au Royaume-Unis, le besoin de calcul, de gestion et d'automatisation est alors grandissant. La France aboli la monarchie en 1792, les États deviennent pour la plupart des républiques, l'ancien régime et les empires coloniaux prennent fin, l'esclavage est aboli, et les deux guerres mondiales prendront lieu par la suite. Dans le monde anglo-saxon, cette période ne commence qu'en 1945 à la fin de la seconde guerre mondiale.
 
 
 
@@ -1307,8 +1442,6 @@ Le tout premier programme informatique à été imaginé par Ada Lovelace en **1
 #### Algèbre booléen
 
 En **1847** George Boole, invente un algèbre binaire éponyme. Basé sur vrai et faux, 1 et 0, il formule et démocratise les tables de vérités des différantes portes et fonctions logiques.
-
-
 
 
 
@@ -1572,23 +1705,13 @@ Elisabeth Findler Jake, nom de domaines, whois nom de domaine (page jaunes) Alor
 
 ### Guerre froide et course a l'espace
 
-Dans l'après guerre (WW2)
+La seconde guerre mondiale prends fin et c'est officiellement l'époque contemporaine pour les anglo-saxons. C'est l'avènement du nucléaire, de l'ère de l'informatique, mais aussi de la décolonisation et de la guerre froide. Les besoins de calculs sont plus importants que jamais, aéronefs, nucléaire civil et militaire, gestion de l'énergie sont au cœur des réflexions et stratégies des pays du monde.
 
-Besoins de calculs grandissants, aéronefs, nucléaire civil et militaire, gestion de l'énergie
+L'arrivé du calcul et de la simulation informatique offrent un meilleur contrôle, ainsi qu'une prise de décision plus efficace, permettant de gérer de grandes structures, qu'elles soient civiles, militaires, ferroviaires, aériennes, ou autre.  
 
-Nécessite du calcul, de la simulation, du controle.
-
-Traitement de l'information pour gérer les grandes stuctures, Militaire, Ferroviaire, Aérien.
+De grands projets à forte complexité en découlent, elle amènent à un besoin de communication multimédia mondiale, pour que les gens puissent s'organiser et faire coopérer des spécialistes de tout les domaines concernés. Internet viendra résoudre ce problème à partir de 1970, amenant à la période de mondialisation intense que l'on vit encore actuellement en 2023.
 
 
-
- 
-
-Aptitude à gérer de grands projets complexes en faisant travailler ensemble des spécialistes de domaines différents.
-
-Von Newmann, Base de l'architecture moderne des ordinateurs avec mémoire vive et de masse, entrées - sorties (IO), et unité de traitement et de contrêle.
-
-Languages de programmations et linguistique, languages construits, etc...
 
 
 
@@ -1783,7 +1906,21 @@ Créé aux États-Unis en **1955**, le TRAnsistor DIgital Computer a été premi
 
 
 
-##### plankalkul eniac ssem speedcoding Flow-Matic
+##### Plankalkul
+
+Premier langage de haut niveau, réalisé par Konrad Zuse, réalisé entre 1942 et 1946, il ne sera révélé qu'en 1948 et implémenté qu'en 1975. Le premier compilateur supportant ce langage ne sera abouti qu'en 2000.
+
+
+
+##### Speedcoding
+
+Révélé en **1953**, cela a été le premier langage de programmation de haut niveau créé pour un ordinateur IBM, il a été développé par John Backus et lui a fortement inspiré le Fortran. Ce langage a permis la prise en charge des nombres à virgule flottante sur les ordinateurs IBM 701
+
+
+
+##### Flow-Matic
+
+Développé pour l'UNIVAC I par Grace Hopper entre **1955** et 1959, il est à l'origine du COBOL
 
 
 
@@ -1953,7 +2090,7 @@ CSS a permi de diversifier l'apparence des sites webs, les frameworks et themes 
 
 ### Popularisation et Mondialisation
 
-Jusqu'alors, l'informatique était essentiellement réservé aux domaines privés comme le militaire, le spatial et l'administration des États. A partir des années 70, l'informatique va commencer à arriver dans le quotidien des particulier les plus aisés et finir par être dans une grande majorité des foyers. Internet commence à se developper petit à petit
+Jusqu'alors, l'informatique était essentiellement réservé aux domaines privés comme le militaire, le spatial et l'administration des États. À partir des années 70, l'informatique va commencer à arriver dans le quotidien des particulier les plus aisés et finir par être dans une grande majorité des foyers. Internet commence à se développer petit à petit.
 
 
 
@@ -2013,13 +2150,19 @@ Optical Storage Disc **1980**
 
 #### Xerox Star
 
-**1981**
+**1981** premier ordinateur commercial avec une interface utilisateur graphique
 
 
 
 #### IBM PC 5150
 
 **1981**
+
+
+
+#### Macintoch 128K
+
+Sorti en **1984**, avec des icônes en skeuomorphisme 
 
 
 
@@ -2039,9 +2182,7 @@ beats Gary Kasparov  in **1997**
 
 ### Bilan passé
 
-Bien que les prémices de l'informatique viennent de l'Époque moderne au 17 ème siècle, période avec un besoin grandissant de calcul ; elle naquit après la révolution industrielle au 19&nbsp;ème siècle lors de l'Époque contemporaine, et commence à réellement émerger après la seconde guerre mondiale qui marque le début d'une nouvelle ère de progrès technologiques, ainsi qu'une forte augmentation de la démographie mondiale causée par le baby boom.
-
-
+Bien que les prémices de l'informatique viennent de l'Époque moderne, au 17 ème siècle, période avec un besoin grandissant de calcul ; elle naquit après la révolution industrielle au 19&nbsp;ème siècle lors de l'Époque contemporaine, et ne commence à réellement émerger qu'après la seconde guerre mondiale qui marque le début d'une nouvelle ère de progrès technologiques, accompagnée d'une forte augmentation de la démographie mondiale causée par le baby boom.
 
 
 
@@ -2053,9 +2194,7 @@ Bien que les prémices de l'informatique viennent de l'Époque moderne au 17 èm
 
 
 
-#### Théorie générale des systèmes
 
-Aussi appelée Systémique, la première personnalitée connue à parler de ce domaine d'étude des ensembles complexe d'interactions entre des sous groupes est Sébastien Le Prestre dans *Système*, plus connu sous le nom de Vauban dont il était le marquis. Cela a ensuite été décrit par Étienne Bonnot de Condillac qui définit les prémices de l'approche systémique dans son *Traité des Systèmes* en **1749**, repris par la suite par  Pareto qui l'appliqua à l'économie politique
 
 https://fr.wikipedia.org/wiki/Th%C3%A9orie_g%C3%A9n%C3%A9rale_des_syst%C3%A8mes
 
