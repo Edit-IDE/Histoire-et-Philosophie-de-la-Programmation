@@ -2476,7 +2476,7 @@ Lorsque l'on travaille seul, on a parfois la tête dans le guidon,
 
 Base sur Monogame, héritier de Microsoft XNA, j'ai développer toute une API qui s’avère exister aujourd'hui, je ne sais pas si elle existait a époque.
 
-Le theoreme de pythagore et la teigonometrie m'on ete tres utile
+Le théorème de Pythagore et la trigonométrie m'ont été très utile
 
 
 
@@ -2486,7 +2486,7 @@ Le theoreme de pythagore et la teigonometrie m'on ete tres utile
 
 
 
-on invente rien en realite, on decouvre le monde, on essaye de comprendre ses regles et les utiliser chacun a notre maniere avec notre perception, sensibilite et connaissances 
+on invente rien en realite, on découvre le monde, on essaye de comprendre ses règles et les utiliser chacun a notre manière avec notre perception, sensibilite et connaissances 
 
 ###### Rigueur et retravail
 
@@ -2498,7 +2498,9 @@ Doute constant et remise en question en sont la clé.
 
 ###### Do it now
 
-Dès que l'on constate un problème, reflexe de réaliser la tâche dans la foulée ou de la planifier pour ne pas que l'information se perde
+J'ai souvent entendu dire "ce n'est pas ce qui est demandé ni prioritaire, on fera ça plus tard", et bien évidement, la plupart du temps cela fini par n'être jamais fait. Dans les projets informatique c'est ainsi que la dette technique s'immisce, on a des fonctionnalités qui s’accumulent, des développements qui s’enchaînent, et on ne pallie aux problèmes qu'avec des corrections rapides, s’attaquant aux causes plutôt qu'aux conséquences.
+
+Dès que l'on constate un problème, il faut avoir le réflexe de réaliser la tâche dans la foulée, ou de la planifier pour ne pas que l'information se perde. 
 
 
 
@@ -2532,7 +2534,7 @@ Lorsque je commet une erreur, j'en assume la responsabilité, mais je me justifi
 
 ##### Critique
 
-Selon loi la ceitique consteuctive st positive pour le maitre et l'apprenant des lors quelle s'effectue avec une communication positive tout en analysant les defauts et planifiant un programme pour les corriger. 
+Selon moi la critique constructive est positive pour le maître et l'apprenant des lors quelle s'effectue avec une communication positive tout en analysant les défauts et planifiant un programme pour les corriger. 
 
 
 
@@ -2552,7 +2554,7 @@ Choix et Theorie des jeux
 
 #### Cadriciel et Open Source
 
-Symfony ne permet pas de surcharger l'attribut "name" d'un champ de formulaire, le retrait de requêtes expires ne marche pas... L'installation d'un de leurs plugin React m'a récemment causer default. J'ai eu, par la force des choses, à contacter la personne chargée de la documentation de Symphony. Un certain [Ryan](https://github.com/weaverryan), qui est "Symfony docs lead, writer at SymfonyCasts", ce fût une expérience riche ou j'ai découvert un environnement qui m'est familier, bien que je n'ai pas souvent réaliser de l'open source avant. Une pipeline qui sors des erreurs à des lignes qui n'existent pas sur ma version, et qui malgré ça permet d'assurer la qualité de la documentation rédigée en RST ou DOCtor-RST, à l'aide de tests de compilation.
+Symfony ne permet pas de surcharger l'attribut "name" d'un champ de formulaire, le retrait de requêtes expires ne marche pas... L'installation d'un de leurs plugin React m'a récemment causer defaut. J'ai eu, par la force des choses, à contacter la personne chargée de la documentation de Symphony. Un certain [Ryan](https://github.com/weaverryan), qui est "Symfony docs lead, writer at SymfonyCasts". Ce fût une expérience riche ou j'ai découvert un environnement qui m'est familier, bien que je n'ai pas souvent réaliser de l'open source avant. Une pipeline qui sors des erreurs à des lignes qui n'existent pas sur ma version, et qui malgré ça permet d'assurer la qualité de la documentation rédigée en RST ou DOCtor-RST, à l'aide de tests de compilation.
 
 
 
