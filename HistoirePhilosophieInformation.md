@@ -172,17 +172,17 @@ Dorian Blanchard
    8. [Boston Dynamics](#Boston-Dynamics)
    9. Concepts
    10. Appareils
-      1. Ordinateurs portables
+       1. Ordinateurs portables
 
-      2. Mobiles
+       2. Mobiles
 
-      3. Tablettes
+       3. Tablettes
 
-      4. Réalité virtuelle 
+      11. Réalité virtuelle 
 
-      5. MMO
+      12. MMO
 
-   11. Industrie du logiciel
+   13. Industrie du logiciel
        1. Progiciel
           1. Jeux vidéos
              1. Educatif
@@ -886,7 +886,9 @@ Aristote éthique, bien, reves (lucide)
 
 #### Stoïcisme
 
-Pour Zénon de Kition, qui fonda le stoïcisme en l'an **-301**, la mort est une *indifférence*, qui n'est ni un *mal*, ni un *bien*, ces trois choses formant le monde selon lui l'existence du monde réel.
+Pour Zénon de Kition, qui fonda le stoïcisme en l'an **-301**, pour les stoïques la mort est une *indifférence*, qui n'est ni un *mal*, ni un *bien*, ces trois choses formant le monde selon lui l'existence du monde réel.
+
+Apathie
 
 Il existe cependant des indifférences préférables, mais ce qui compte est la vertu,
 
@@ -1171,19 +1173,33 @@ Né en **1571**
 
 #### Thomas Hobbes
 
-Né le 5 avril **1588** 
+Né le 5 avril **1588**, il a rédigé *Léviathan* qu'il publiera en 1651. Cette œuvre matérialiste et rationaliste se veut critique des États, de la souveraineté et des religions, bien qu'elle soit ironiquement une référence biblique. Hobbes a suivi des raisonnements déductifs inspirés des mathématiques, plus précisément de la géométrie, pour établir une théorie scientifique et anthropologique de la morale et des organisations autoritaires. Pour lui l'humain est naturellement mauvais et violent, il n'inhiberai ce comportement qu'en faveur d'une autorité dont il craindrait la sentence. Le Léviathan représente cette autorité indiscutable, terrifiante, métaphore des dictatures qui régneront après la destitution de Charles I en 1646.
+
+Fermement opposé à la religion et à la scolastique philosophie religieuse enseignée au moyen age dans les universités, il serait le premier le premier à préconiser qu'une "société athée ou a-religieuse constitue la solution au problème social ou politique".
+
+Comme beaucoup de matérialistes, il adhérera à la philosophie nominaliste indiquant que les idées et concepts sont des constructions de l'esprit, niant la théorie des formes des philosophes antique. Cela revient à penser que les idées et mots ne sont que des étiquettes liés des réalités subjectives, qui ne représentent en aucun cas une réalité absolue. Cette subjectivité indique également un certain empirisme, toute connaissance provient initialement des sensations.
+
+Hobbes déclarera en autre que "l'esprit humain ne conçoit rien qui n'ait d'abord été, en totalité ou en partie, engendré par les organes des sens", ou que "L'usage général de la parole est de transformer notre discours mental en discours verbal, et l'enchaînement de nos pensées en un enchaînement de mots" formant un pont entre l'esprit et son expression dans le contexte social. Il compare ainsi l'homme à une machine, disant que tout n'est que signaux perçus et réponses créées par un dispositif physiologique nerveux. Assimilant également le Léviathan à un être doté de souveraineté et donc d'une âme, bien qu'il soit un concept abstrait immatériel composé d'individus réels le représentant.
+
+Ces positions lui vaudront des accusations d’athéismes, ainsi qu'une querelle avec René Descartes, qui contrairement Hobbes, considérait que seuls les humains ont une âme, que les animaux serait dénues de conscience et de pensée, et ce malgré le fait qu'il avait émis l'idée d'une substance spirituelle ou immatérielle, qui n'est pas partagée par le matérialiste rigide et cynique qu'est Hobbes.
 
 
 
 #### René Descartes
 
-**1596**
+Né en **1596**, il s'opposa lui aussi à la scolastique, il est le fondateur de la géométrie analytique et du mécanisme, qui donnera lieu à des automates comme ceux de Vaucansson, à la causalité et  au fonctionnalisme, indiquant que de mêmes causes auront les mêmes conséquences. Comme dit précédemment, il exposa la dualité entre l'âme est le corps, qu'il considérait comme propre à l'humain, réduisant les autres animaux à une bête machine guidée par ses instincts et incapable de pensée ou de conscience.
+
+Digne héritier du scepticisme, ses réflexions étaient guidées par un doute méthodique qui lui est propre et que l'on dira cartésien. Tout ce qui parait évident doit être remis en question, en mettant de côté son jugement selon le concept sceptique nommé épochè. Il insistera également sur l'importance de ne pas faire confiance aux sensations, qui peuvent nous tromper comme par exemple, dans le cas des illusions d'optiques. Tentant de chercher une vérité dont il ne puisse douter, il fini par trouver sa phrase culte : "cogito ergo sum", signifiant : "je pense donc je suis".
+
+A l'inverse de Thomas Hobbes, Descartes semblait croire en l'existence de Dieu, existence qu'il prouvera en disant que tout effet à une cause réelle, et que l'infini ne peut être causé par quelque-chose d'imparfait, et donc qu'un Dieu parfait doit exister. C'est une affirmation à nuancer par le fait qu'il semble avoir eu la plus grande prudence pour éviter la censure, notamment lorsqu'il a accepté, le système cosmologique de Copernic, de la même manière que Galilée qui fut pour cela condamné.
 
 
 
 #### Galilée
 
-**1600**
+Né en **1600**,
+
+Il rencontrera Hobbes lors d'un séjour de ce dernier à Florence.
 
 
 
@@ -1275,7 +1291,7 @@ Né le 21 novembre **1694**
 
 #### Jean-Jacques Rousseau
 
-Né en **1712** Rousseau était orphelin et errant, persécuté par l'Église et la république de Genève. Il était également autodidacte, et appris à l'aide de lectures de Descartes, Lockes, Malebranche, Leibniz, et bien d'autres. Sa pensée philosophique repose sur l'idée que l'Homme est naturellement bon et que la société et les règles qui en émanent viennent nous corrompre, renonçant à notre liberté naturelle au profit de la liberté civile. 
+Né en **1712** Rousseau était orphelin et errant, persécuté par l'Église et la république de Genève. Il était également autodidacte, et appris à l'aide de lectures de Descartes, Lockes, Malebranche, Leibniz, et bien d'autres. Sa pensée philosophique repose, à l'inverse de Hobbes,  sur l'idée que l'Homme est naturellement bon et que la société et les règles qui en émanent viennent nous corrompre, renonçant à notre liberté naturelle au profit de la liberté civile. 
 
 Malgré cela il affirme que le peuple est souverain, et qu'il doit converger vers l’intérêt commun, qu'il appela *volonté générale*. Il traitera également des rapports de forces et de la place de l'autorité, déclarant que la "force ne fait pas droit, et qu'on n'est obligés d'obéir qu'aux puissances légitimes".
 
@@ -1371,7 +1387,7 @@ Lorsque deux des auteurs principaux, les astronomes Malachy Hitchins et Nevil Ma
 
 #### Georg Wilhelm Friedrich Hegel
 
-Né en **1770**, dialectique du maître et de l'esclave. Travailler pour un maître fait acquérir de plus  en plus de compétences à l’esclave, et le maître à force de se faire servir perd de ses compétence, l’esclave à alors l'opportunité de devenir maître à son tour voire effectuer une inversion de contrôle. Le travail serait donc un facteur d'émancipation et de libération, et un vrai maître doit continuer d'apprendre et ne pas se reposer sur ses sous-fifres, en plus de faire preuve d'une reconnaissance sincère nécessaire à la sanité de leur relation. 
+Né en **1770**, dialectique du maître et de l'esclave. Travailler pour un maître fait acquérir de plus  en plus de compétences à l’esclave, et le maître à force de se faire servir perd de ses compétence, l’esclave à alors l'opportunité de devenir maître à son tour voire effectuer une inversion de contrôle. Le travail serait donc un facteur d'émancipation et de libération, et un vrai maître doit continuer d'apprendre et ne pas se reposer sur ses sous-fifres, en plus de faire preuve d'une reconnaissance sincère nécessaire à la sanité de leur relation.
 
 
 
@@ -2114,9 +2130,13 @@ Jusqu'alors, l'informatique était essentiellement réservé aux domaines privé
 
 #### Cerveau Chinois
 
-C'est une expérience de pensée considérant que si chaque membre de la nation chinoise était invité à simuler l'action d'un neurone constitué d'axones et de dendrites en utilisant des émetteurs bidirectionnels et ce afin de reconstrituer un cerveau, alors un tel système aurait-il un esprit ou une conscience ? 
+C'est une expérience de pensée considérant que si chaque membre d'une immense nation comme la Chine, était invité à simuler l'action d'un neurone, constitué d'axones et de dendrites, en utilisant des émetteurs bidirectionnels, et ce afin de reconstituer un cerveau, alors un tel système pourrait-il avoir un esprit ou une conscience ?
 
-Cette idée imaginée en 1961 et reprise en 1974 par Lawrence Davis et **1978** par Ned Block qui déclarera qu'un tel cerveau n'aurait pas d'esprit, sera reprises mainte fois, comme par exemple lorsque l'on a affirmer que Google avait plus de connexion que le cerveau humain et que les gens craignent alors qu'internet qui en ai encore plus puisse développer une conscience.
+L'affirmative repose sur une pensée fonctionnaliste, l'idée est que ce qui réalise la même fonction est capable de réaliser les mêmes résultats, et dans notre cas, l'obtention d'états mentaux et de conscience.
+
+Cette idée de cerveau artificiel géant imaginée en 1961 et reprise en 1974 par Lawrence Davis et **1978** par Ned Block qui quant à lui déclarera qu'un tel cerveau n'aurait pas d'esprit, sera reprises mainte fois, comme par exemple lorsque l'on a affirmé que Google avait plus de connexion que le cerveau humain et que les gens craignent alors qu'internet qui en ai encore plus puisse développer une conscience.
+
+Leibniz avait déjà dans son livre *Monadologie*, imaginé un homme mécanique dont on pourrait visiter le corps comme on visite un moulin.
 
 Par ailleurs cela pose la question du bateau de Thésée, si l'on était capable de remplacer des neurones par des neurones artificielles, jusqu'à substituer totalement au neurones "naturels", l'individu serait il le même ?
 
