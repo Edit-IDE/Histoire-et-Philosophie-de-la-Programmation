@@ -540,11 +540,11 @@ Pour la rédaction de ce dernier, j'ai acquis 3 livres :
 - "Histoire illustrée de l'informatique" d'Emmanuel Lazard et Pierre Mounier-Kuhn.
 - "Transmettre" de Christophe André, Céline Alvarez, Catherine Gueguen, Matthieu Ricard, Frédéric Lenoir, Ilios Kotsou, Caroline Lesire
 
-Les trois premiers livres ont chacun leurs avantages grâce à une approche différente d'un même sujet, sur lequel je m'attendais à trouver plus de bibliographie. Contrairement à ceux-ci, j'ai essayé d'avoir une démarche plus globale que l'informatique et l'ordinateur, qui sont des concepts très récent. Et ce en abordant le thème global qu'est l'information, tout en y ajoutant de la philosophie, ainsi que mon humble analyse subjective, parce que l'apprentissage des mathématiques et de l'informatique ont changé ma manière de concevoir le monde dans lequel nous vivons.
+Les trois premiers livres ont chacun leurs avantages grâce à une approche différente d'un même sujet, sur lequel je m'attendais à trouver plus de bibliographie. Contrairement à ceux-ci, j'ai essayé d'avoir une démarche plus globale que l'informatique et l'ordinateur, qui sont des concepts très récent. Et ce en abordant le thème global qu'est l'information, tout en y ajoutant de la philosophie ainsi que mon humble analyse subjective, parce que l'apprentissage des mathématiques et de l'informatique ont changé ma manière de concevoir le monde dans lequel nous vivons.
 
 
 
-Dans ce mémoire, je vais donc revenir aux racines les plus ancestrales de la gestion de l'information, au vocabulaire et champ lexical qui y sont liés ou en découle, ainsi que leurs étymologies à travers leur Histoire, qui représente toute la première partie de ce livre.
+Dans ce mémoire, je vais donc revenir aux racines les plus ancestrales de la gestion de l'information, au vocabulaire et champ lexical qui y sont liés ou en découlent, ainsi que leurs étymologies à travers leur Histoire, qui représente toute la première partie de ce livre.
 
 J'aborderai aussi un sujet qui m'est cher, la programmation. Elle n'est pas forcement liée à l'informatique, c'est l'art de planifier et mettre en œuvre des étapes à suivre pour obtenir un résultat. Cela dit, elle passe inévitablement par de la gestion de l'information, à l'aide d'écriture, lecture, chiffrement, déchiffrement, émission, et réception.
 
@@ -576,7 +576,7 @@ Merci à toutes les personnes et enseignants qui m'ont, lors de ma longue scolar
 
 Merci aux logiciels libres, à l'open source, à Wikipédia et à tout leurs contributeurs.
 
-Merci aux établissements et entreprises, dans lesquels j'ai travaillé et évoluer grâce à des processus d'amélioration continue.
+Merci aux établissements d'enseignement et entreprises, dans lesquels j'ai travaillé et évoluer grâce à des processus d'amélioration continue.
 
 Merci à toutes et tous, car nos métiers et inventions ne sont que rarement le fruit d'un génie isolé, mais bien d'une collaboration et de l'amélioration d'idées antérieures.
 
@@ -595,6 +595,8 @@ La deuxième est l’art de sculpter des outils, actuellement estimé 3 millions
 La troisième est la peinture, dont les plus anciennes preuves sont rupestres, et âgées de 65 millénaires.
 
 Relativement aux dates précédentes, l’écriture ne vient que récemment, elle a été attestée en Mésopotamie il y a 5 millénaires. Pourtant, c'est elle qui nous permettra à nous, humains, d'écrire notre Histoire.
+
+D'un point de vue Historique, notre génération laissera toujours une trace. Que ce soit sur un disque dur quelque part dans un grenier, dans un datacenter ou une web archive. Et même si tout disparaissait, il y aurait une preuve immuable et indestructible a échelle de la Terre. Les isotopes lourds que nous avons créés avec l'apparition des industries nucléaire seraient, même dans le cas d'un retour à l'Age de pierre causant un rude hiver civilisationnel, la preuve de l'existence de la nôtre.
 
 
 
@@ -872,9 +874,11 @@ Né en **-384**, il étudia 20 ans à l’Académie de Platon, et fonda par la s
 
 Il était confiant en la sensation, qui permet la perception et la cognition du monde réel, qui ne nécessite selon lui pas un scepticisme constant. Il nuança son propos en disant que c'est une première ouverture vers le savoir, qu'il faut mélanger avec le savoir d'autrui, de gens sérieux, expert du domaine, et sans prendre ce qui est dit pour véridique mais pour tester leur capacité a se rapprocher du réel et d'une vérité universelle.
 
-théorie des formes et des idées et archétypes
+Il rejoindra Platon sur la théorie des formes et des idées et archétypes ainsi que son alégorie de la caverne.
 
-La science de la biologie serait née d'Aristote et Théophraste, respectivement en charge de documenter la faune et la flore. Aristote à également défendu l'idée d'une terre sphérique, justifiée par la courbure des éclipses de lunes et la force centripète.
+La science de la biologie serait née d'Aristote et Théophraste, respectivement en charge de documenter la faune et la flore. Aristote à également défendu l'idée d'une terre sphérique, justifiée par la courbure des éclipses de lunes et la force centripète. Dans l'usage il se considérait au même titre que les autres philosophes, comme doxographe, restranscrivant les opinions soutenus par d'autres ou le plus grand nombre, Le philosphe doit faire preuve de metacognition pour se rendre compte des informations qu'il à sa disposition et qu'elles déductions en tirer, toujours dans l'idée d'accumuler du savoiret de s'élever tel un érudit vertueux.p
+
+Il a également inventé le terme de doxographie, signifiant opinion écrite.
 
 Aristote éthique, bien, reves (lucide)
 
@@ -1813,7 +1817,7 @@ Premier compilateur (A-0 System Grace Hopper 1951)
 
 #### Ferranti Mark I
 
-Le Ferranti Mark 1, aussi connu comme le Manchester Electronic Computer, est le premier ordinateur électronique généraliste commercialisé du monde et le second au monde après l’ordinateur électromécanique Z4. Il a été créé en **1951**.
+Le Ferranti Mark 1, aussi connu comme le Manchester Electronic Computer, est le premier ordinateur électronique généraliste commercialisé du monde et le second au monde après l’ordinateur électromécanique Z4. Il a été créé en **1951**. Alan Turing l'a utilisé pour modéliser des processus de morphogenèse, devenant pionnier de la bio-informatique. On l'a aussi employer pour jouer de la musique ou aux échecs. Il ne sera vendu qu'a raison de 7 exemplaires avant d'être succédé par le Ferranti Mercury
 
 
 
@@ -2108,6 +2112,16 @@ Jusqu'alors, l'informatique était essentiellement réservé aux domaines privé
 
 
 
+#### Cerveau Chinois
+
+C'est une expérience de pensée considérant que si chaque membre de la nation chinoise était invité à simuler l'action d'un neurone constitué d'axones et de dendrites en utilisant des émetteurs bidirectionnels et ce afin de reconstrituer un cerveau, alors un tel système aurait-il un esprit ou une conscience ? 
+
+Cette idée imaginée en 1961 et reprise en 1974 par Lawrence Davis et **1978** par Ned Block qui déclarera qu'un tel cerveau n'aurait pas d'esprit, sera reprises mainte fois, comme par exemple lorsque l'on a affirmer que Google avait plus de connexion que le cerveau humain et que les gens craignent alors qu'internet qui en ai encore plus puisse développer une conscience.
+
+Par ailleurs cela pose la question du bateau de Thésée, si l'on était capable de remplacer des neurones par des neurones artificielles, jusqu'à substituer totalement au neurones "naturels", l'individu serait il le même ?
+
+
+
 #### Minitel
 
 Présenté en 1978 mais sorti en **1980**, le Minitel est un ordinateur connecté à un réseau et donc appelé Terminal. Il utilisait le réseau Transpac pour faire tourner le sien, "Télétel" auquel il se connectait à l'aide d'un modem. Il possédait une mémoire de 8,25 ko, et un processeur Intel 8052
@@ -2248,7 +2262,7 @@ Suite à Atom publié par GitHub le 26 février 2014, bien avant son rachat en 2
 
 
 
-### Essai
+## Essai
 
 En arrivant en DUT informatique en 2016, je n'avait programmé qu'en BASIC sur une calculatrice Texas Instrument, je ne m'attendais pas à autant de complexité.
 
@@ -2295,7 +2309,7 @@ Tout est temps, c'est l’écoulement des choses, l'itération des actions qui s
 
 
 
-#### Sectes et philosophie d'entreprise
+### Sectes et philosophie d'entreprise
 
 De nos jours j'ai souvent entendu parler de philosophie d'entreprise. L'entreprise étant une entité morale, elle se compose d'un groupe de personnes physiques réunies pour accomplir quelque chose en commun. Ce groupe peut aussi réunir des personnes physiques et des personnes morales. Cela corresponds à une secte qui est un terme mal vu mais qui, comme beaucoup de mots, est poly-sémantique, il possède plusieurs définitions et connotations, il y a autant de ressentis différents accordées aux mots que d'expérience vivantes. D'un point de vue étymologique, il provient du latin "secta", signifiant "voie que l'on suit, parti, cause, doctrine". Or quand on travaille en groupe avec d'autres personnes, on suit tous, ensemble, une même voie, pendant une période définie de travail, qu'un salarié vends a son employeur.
 
@@ -2303,7 +2317,23 @@ En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une 
 
 
 
-#### Division du travail
+Je veut créer des indiférences
+
+
+
+### Communication
+
+#### Politesse
+
+#### Respect
+
+####  Bienveillance
+
+Veiller a bien faire et bien communiquer, bien travailler, bien apprendre et retransmettre, a être tout les jour un peu meilleur que la veille.
+
+
+
+### Division du travail
 
 Maisons d'échanges, Babbage était fasciné par la division mentale du travail qui s'y opérait, comme De Prony s'étant inspiré d'Adam Smith
 
@@ -2311,13 +2341,13 @@ https://fr.wikipedia.org/wiki/Division_du_travail
 
 
 
-#### Anticipation
+### Anticipation
 
 example avec la compiltion rust qui empeche les top 10 des erreurs
 
 
 
-#### Contexte et vérité
+### Contexte et vérité
 
 Absolue / relatif
 
@@ -2327,7 +2357,7 @@ Il est futile de vouloir avoir raison, la mauvaise foi est l’ennemie de l'amé
 
 
 
-#### Pédagogie active
+### Pédagogie active
 
 Cette méthode de pédagogie, qui trouve ses fondements dans "l'Émile ou De l'éducation" de Rousseau, est relativement récente, donc fait l’œuvre de nombreuses études.
 
@@ -2367,7 +2397,7 @@ Logo
 
 
 
-#### Apprentissage
+### Apprentissage
 
 L'apprentissage commence généralement avec de la mémorisation, s'ensuit une compréhension qui permet la résolutions de problèmes et enfin s'y ajoute la créativité que l'on débloque lorsque l'on à le savoir et le savoir faire. La mémorisation étant le terreau du savoir, il est important de comprendre que scientifiquement on sait aujourd'hui que les humains ont tout comme les machines une mémoire de travail et une mémoire à long terme. On peut comparer ses deux mémoires à la RAM et les stockages de masse. Le cerveau possède même un mécanisme d'encodage de l'information vers la mémoire à long terme et de récupération vers la mémoire de travail, les informations les plus importantes possèdent plus d'amorces, permettant de les retrouver et s'en souvenir plus facilement, et avec bien sur certaines informations dont le signal se perd, dans l'oubli, nécessaire à trier et jeter ou archiver ce qui l'est moins, dans le cas de la mémoire à long terme, cela se produit en perdant des amorces au fur et a mesure du temps.
 
@@ -2379,28 +2409,29 @@ A l'aide de schémas mentaux, nous associons un ensemble de concepts ou d'idées
 
 [^1]: https://www.youtube.com/watch?v=RVB3PBPxMWg
 
-
 Planning poker, reu tech, mais pas d'analyse commune -> reqwork extrm prog
 
-#### Méthodes d'aide à la structuration d'information 
+
+
+### Méthodes d'aide à la structuration d'information 
 
 Le management moderne à eu besoin de pouvoir former et guider efficacement ses employés et pour cela il à fallu trouver des outils et moyens mnemotechniques pour facilement analyser les 
 
 
 
-##### Décision
+#### Décision
 
 Prendre une décision est parfois très compliqué, on n'arrive pas toujours à mesurer les tenants et aboutissants de nos choix, c'est pourquoi il est important de prendre du recul, de poser sur la table les différentes possibilités, et acteurs de la situation afin de mettre le plus de chance de son côté, dans l'objectif d'atteindre le résultat attendu. 
 
-###### Analyse PESTEL
+##### Analyse PESTEL
 
 PESTEL est un acronyme pour (Politique, Économique, Socioculturel, Technologique, Écologique, Légal)
 
-###### SWOT
+##### SWOT
 
 Strenght Weakness Opportunity Threat
 
-###### Matrice multicritère
+##### Matrice multicritère
 
 Avec des amis on l'utilise pour choisir dans quel airbnb on va partir, on y renseigne une note pour le prix, l'emplacement, la qualité du logement, et on obtient un score moyen permettant de déterminer ou on partira en vacances.
 
@@ -2408,17 +2439,17 @@ Avec des amis on l'utilise pour choisir dans quel airbnb on va partir, on y rens
 
 Permet de retrouver la cause d'un problème
 
-###### La matrice d'Eisenhower
+##### La matrice d'Eisenhower
 
 Très proche des matrices de faisabilité et de priorisation, elle permet de déterminer de différencier les tâches importante, urgente, celles qui ne le sont pas, et quoi en faire.
 
-###### Diagramme d'Ishikawa
+##### Diagramme d'Ishikawa
 
 Il permet de schématiser les différentes causes possible d'un événement ou effet. Inspiré des quatres causes d'Aristote, il est généralement construit en analysant les 5 M : Matière première constituante, Matériel utilisé, Méthode employée, Main-d’œuvre intervenant, et Milieu dans lequel l’événement apparaît.
 
-###### Analyse des parties prenantes
+##### Analyse des parties prenantes
 
-###### Carte heuristique
+##### Carte heuristique
 
 Née de l'arbre de porphyre, un philosophe néoplatonicien du 3è siècle, et aussi appelée carte mentale ; elle représente visuellement le cheminement de la pensée et l’interconnections des idées afin d'en extraire les toutes les informations importantes.
 
@@ -2426,39 +2457,41 @@ Née de l'arbre de porphyre, un philosophe néoplatonicien du 3è siècle, et au
 
 
 
-##### Conception
+#### Conception
 
-###### Design thinking
+#### Design thinking
 
-###### Lean Startup
+#### Lean Startup
 
-MVP, itération, stop de toute la chaine de production si problème pour éviter de contaminer le reste
+#### MVP
 
-
-
-##### Gestion de projets 
-
-###### Roadmap
-
-###### Project charter
-
-###### GANTT
-
-###### Business Model
-
-###### Scrum
+itération, stop de toute la chaine de production si problème pour éviter de contaminer le reste
 
 
 
-##### Développement
+#### Gestion de projets 
 
-###### Extreme programming
+#### Roadmap
 
-###### TDD FDD MDD
+#### Project charter
 
-###### Code review
+#### GANTT
 
-###### Technique du canard en plastique
+#### Business Model
+
+#### Scrum
+
+
+
+### Développement
+
+#### Extreme programming
+
+#### TDD FDD MDD
+
+#### Code review
+
+#### Technique du canard en plastique
 
 Lorsque l'on travaille seul, on a parfois la tête dans le guidon,  
 
