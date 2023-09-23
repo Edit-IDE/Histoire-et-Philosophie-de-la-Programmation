@@ -2573,9 +2573,9 @@ Selon loi la ceitique consteuctive st positive pour le maitre et l'apprenant des
 
 Intelligence économique, politique et théorie des jeux.
 
-
-
 Choix et Theorie des jeux
+
+https://ayowel.github.io/trust/
 
 
 
