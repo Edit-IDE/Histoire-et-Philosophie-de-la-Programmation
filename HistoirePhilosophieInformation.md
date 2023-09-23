@@ -172,17 +172,17 @@ Dorian Blanchard
    8. [Boston Dynamics](#Boston-Dynamics)
    9. Concepts
    10. Appareils
-      1. Ordinateurs portables
+       1. Ordinateurs portables
 
-      2. Mobiles
+       2. Mobiles
 
-      3. Tablettes
+       3. Tablettes
 
-      4. Réalité virtuelle 
+      11. Réalité virtuelle 
 
-      5. MMO
+      12. MMO
 
-   11. Industrie du logiciel
+   13. Industrie du logiciel
        1. Progiciel
           1. Jeux vidéos
              1. Educatif
@@ -886,21 +886,15 @@ Aristote éthique, bien, reves (lucide)
 
 #### Stoïcisme
 
-Pour Zénon de Kition, qui fonda le stoïcisme en l'an **-301**, la mort est une *indifférence*, qui n'est ni un *mal*, ni un *bien*, ces trois choses formant le monde selon lui l'existence du monde réel.
+Zénon de Kition, posa les bases du stoïcisme en l'an **-301**, pour les stoïques, la mort est une *indifférence*, qui n'est ni un *mal*, ni un *bien*, ces trois choses formant le monde selon lui l'existence du monde réel. Il existe cependant des indifférences préférables, on préférera par exemple la maladie à la mort.
 
-Il existe cependant des indifférences préférables, mais ce qui compte est la vertu,
+Nos désirs et nos craintes sont causés par nos représentations, lesquelles peuvent être changées, pour autant, le stoïcisme n'appelle pas à se persuader du contraire ni de s'auto-détourner-cognitivement (gasligher), mais à prendre en compte les choses telles qu'elle sont et s'en détacher, afin de se rapprocher de la vertu et s'éloigner des émotions, surtout négatives. Cela revient à une certaine apathie constante, du latin *apatheia* qui signifie absence de passions, et qui est généralement synonyme d’impassibilité et d'indifférence à l'émotion, d'où l'expression "rester stoïque". C'est le seul moyen selon eux d'être exempt de troubles et d'atteindre la tranquillité de l'âme, aussi appelée ataraxie.
 
-"exerce ta volonté à renoncer a tout ce que tu craint de perdre un jour". Les jedis sont stoiciens
+Ce qui importe le plus pour les stoïciens est la vertu, qu'elle soit physique, éthique ou logique. Indissociable du bien, être vertueux ne reposerai selon eux que sur la tempérance et la prudence. Le sage doit avoir un recul sur les choses, être rationnel, ses activités ne doivent pas s'arrêter pour autant, elles doivent cependant être à l'origine de la raison et non de l'envie.
 
-Nos désirs et nos craintes sont causés par nos représentations, lesquelles peuvent être changées, pour autant, le stoïcisme n'appelle pas à se gazligher, mais à prendre en compte les choses telles qu'elle sont et s'en détacher, afin de se rapprocher de la vertu et s'éloigner des émotions, surtout négatives.
+Concernant la théologie, pour les stoïciens Dieu est tout, mais pas dans le sens d'une divinité qui aurait un impact sur le monde. Sénèque dira même que "La nature ne peut pas plus exister sans Dieu, que Dieu sans la nature. L'un et l'autre sont une même chose", ce concept de "Dieu est tout" corresponds au *panthéisme*, et sera repris plus tard par d'autres philosophes comme Spinoza.
 
-Dieu est tout, mais pas dans le sens d'une divinité qui aurait un impact sur le monde. Sénèque dira même que "La nature ne peut pas plus exister sans Dieu, que Dieu sans la nature. L'un et l'autre sont une même chose", Spinoza reprendra ce concept.
-
-Marc aurele
-
-Cinisme
-
-Philip Kindred Dick : "La réalité, c'est ce qui continue d'exister lorsque l'on cesse d'y croire"
+La philosophie stoïque sera également reprise par beaucoup de personnalités par la suite, comme Ciceron, Épictère ou Marc Aurèle, mais aussi par des œuvres de pop cultures plus récentes, dans Star Wars, les jedis sont stoiciens, Maitre Yoda prononçant des phrases telles que "exerce ta volonté à renoncer a tout ce que tu craint de perdre un jour".
 
 https://www.youtube.com/watch?v=iE08wLRGPcQ
 
@@ -1119,7 +1113,7 @@ Le début en étant marqué par la découverte occidentale d'un nouveau continen
 
 Dans cette période s'amorce un changement social, avec le très lent déclin des monarchies, du clergé et de la noblesse, au profit de la bourgeoisie qui développa le commerce, notamment dans les villes et leurs abords, causant une urbanisation progressive. L'Église perd de son pouvoir et ses biens entrent progressivement dans le domaine public grâce à la sécularisation.
 
-Les États-Unis finiront par déclarer leur indépendance en 1776
+Les États-Unis finiront par déclarer leur indépendance en 1776.
 
 L'époque contemporaine la suivra en 1792 à partir de la révolution française.
 
@@ -1127,7 +1121,7 @@ L'époque contemporaine la suivra en 1792 à partir de la révolution française
 
 #### Nicolas Copernic
 
-Aristarque de Samos fut vers -280 le premier à envisager que la Terre tourne autour du soleil mais c'est Copernic qui vers **1513** proposa un modèle héliocentrique, amélioré par la suite par Kepler, et confirmé a posteriori par Galilée qui réalisa les observations et rédigea les premiers principes mécaniques permettant de justifier ce système.
+Aristarque de Samos fut vers -280 le premier à envisager que la Terre tourne autour du soleil mais c'est Copernic qui vers **1513** proposa un modèle héliocentrique, amélioré par la suite par Kepler, et confirmé à posteriori par Galilée qui réalisa les observations et rédigea les premiers principes mécaniques permettant de justifier ce système.
 
 Il est à l'origine du mouvement philosophique des Lumières, dont feront parti la plupart les philosophes lui succédant comme Descartes, Spinoza, Locke, Newton, etc...
 
@@ -1137,19 +1131,29 @@ Ce mouvement a donné lieu au siècle des Lumières, qui a vu émerger beaucoup 
 
 #### Montaigne
 
-Né le 28 février **1533**, épicurien sceptique
+Né le 28 février **1533**, cet épicurien sceptique eu écrit multitudes d'essais qui inspireront bien des philosophes après lui, il commença cependant par écrire deux essais stoïques pour prouver "*que le goût des biens et des maux dépend de l’opinion que nous en avons*" et "*que philosopher c’est apprendre à mourir*" mais s'en écarta rapidement, indiquant qu'il "est certain qu’à la plupart des savants, la préparation à la mort, a donné plus de tourment que la mort ne fait de souffrance".
+
+Il en garda pour autant la vertu, se dirigeant dans le scepticisme avec la plus grande prudence et tempérance, ne prononçant un jugement qu'une fois qu'il a bien analyser la situation, et indiquant se méfier des gens qui prétendent détenir la vérité. Ce décrivant lui même comme n'étant pas un sage, ni même ayant grande estime de lui, son humilité en fera quelqu'un de très apprécié et accessible auquel on s'identifie plus facilement qu'a un "grand sage".
+
+Il dira également que la philosophie est la science qui nous apprends à vivre, confrontant la pensée à l'essentiel des expériences que l'on rencontre de notre vivant et à soi même. Au fil du temps sa recherche du bonheur le reprochera de l'épicurisme, qui finira par lui faire compléter ses propos en déclarant que philosopher c'est apprendre à vivre le plus heureusement possible, et qu'il "passe le temps quand il est mauvais et désagréable ; quand il est  bon, je ne veux pas le passer, je le goûte à nouveau, je m’y arrête. Il faut passer le mauvais en courant et s’arrêter au bon", preuve d'un hédonisme raisonné.
 
 
 
 #### Rabelais
 
-Né le 9 avril **1553**, ce bon vivant connu pour ses banquets est également passionné par le gigantisme, on lui doit Pantaguel ou Gargantua. Naturellement épicurien, mais aussi influencé par le stoïcisme, le scepticisme et le cynisme.
+Né le 9 avril **1553**, il consacra la première partie de sa vie à la religion, avant de finir par commettre le crime d'abandonner son habit de moine, devenant apostat et entament des études qui le feront devenir médecin, après quoi il devint écrivain.
+
+Bon vivant et humble chrétien connu pour ses banquets est également passionné par le gigantisme, on lui doit Pantaguel, Gargantua, ou encore Panurge et ses moutons. Naturellement épicurien, mais aussi influencé par le stoïcisme, le scepticisme et le cynisme, il partage avec Montaigne le fait d'être un écrivain érudit polyglotte proche du peuple, mêlant le sérieux au comique, bien qu'a l'inverse de Montaigne, lui écrira plutôt des romans.
+
+C'est une énième personnalité à être censuré, et à s'attirer des condamnation pour sacrilèges comme ne pas croire en l'immortalité de l'âme ou d'amoindrir la crainte de Dieu. Pour autant, le succès de ses premières œuvres lui feront réaliser un almanach se riant des superstitions. Les géants présents dans ses œuvres sont également une caricatures de la royauté, de l'Église et de son enseignement scolastique, qu'il combattra en usant de raillerie paillarde et de culture populaire, usant de situations très imagées et exacerbées.
 
 
 
 #### Francis Bacon
 
-Né le 22 janvier **1561**, 
+Né le 22 janvier **1561**, il proposera une théorie empiriste de la connaissance et des règles de la méthode expérimentale, faisant de lui l’un des pionniers de la pensée scientifique moderne, et lui valant d'être considéré comme le fondateur du mouvement l'empiriste.
+
+"L'empirisme considère que la connaissance se fonde sur l'accumulation d'observations et de faits mesurables, dont on peut extraire des lois générales par un raisonnement inductif, allant par conséquent du concret à l'abstrait."
 
 
 
@@ -1171,25 +1175,39 @@ Né en **1571**
 
 #### Thomas Hobbes
 
-Né le 5 avril **1588** 
+Né le 5 avril **1588**, il a rédigé *Léviathan* qu'il publiera en 1651. Cette œuvre matérialiste et rationaliste se veut critique des États, de la souveraineté et des religions, bien qu'elle soit ironiquement une référence biblique. Hobbes a suivi des raisonnements déductifs inspirés des mathématiques, plus précisément de la géométrie, pour établir une théorie scientifique et anthropologique de la morale et des organisations autoritaires. Pour lui l'humain est naturellement mauvais et violent, il n'inhiberai ce comportement qu'en faveur d'une autorité dont il craindrait la sentence. Le Léviathan représente cette autorité indiscutable, terrifiante, métaphore des dictatures qui régneront après la destitution de Charles I en 1646.
+
+Fermement opposé à la religion et à la scolastique philosophie religieuse enseignée au moyen age dans les universités, il serait le premier le premier à préconiser qu'une "société athée ou a-religieuse constitue la solution au problème social ou politique".
+
+Comme beaucoup de matérialistes, il adhérera à la philosophie nominaliste indiquant que les idées et concepts sont des constructions de l'esprit, niant la théorie des formes des philosophes antique. Il conçoit également la raison comme un système de traitement de l'information, comparant la pensée à un calcul. Cela revient à penser que les idées et mots ne sont que des étiquettes liés des réalités subjectives, qui ne représentent en aucun cas une réalité absolue. Cette subjectivité indique également un certain empirisme, toute connaissance provient initialement des sensations.
+
+Hobbes déclarera en autre que "l'esprit humain ne conçoit rien qui n'ait d'abord été, en totalité ou en partie, engendré par les organes des sens", ou que "L'usage général de la parole est de transformer notre discours mental en discours verbal, et l'enchaînement de nos pensées en un enchaînement de mots" formant un pont entre l'esprit et son expression dans le contexte social. Il compare ainsi l'homme à une machine, disant que tout n'est que signaux perçus et réponses créées par un dispositif physiologique nerveux. Assimilant également le Léviathan à un être doté de souveraineté et donc d'une âme, bien qu'il soit un concept abstrait immatériel composé d'individus réels le représentant.
+
+Ces positions lui vaudront des accusations d’athéismes, ainsi qu'une querelle avec René Descartes, qui contrairement Hobbes, considérait que seuls les humains ont une âme, que les animaux serait dénues de conscience et de pensée, et ce malgré le fait que Descartes ai émit l'idée d'une substance spirituelle ou immatérielle, qui n'est pas partagée par le matérialiste rigide et cynique qu'est Hobbes.
 
 
 
 #### René Descartes
 
-**1596**
+Né en **1596**, il s'opposa lui aussi à la scolastique, il est le fondateur de la géométrie analytique et du mécanisme, qui donnera lieu à des automates comme ceux de Vaucansson, à la causalité et  au fonctionnalisme, indiquant que de mêmes causes auront les mêmes conséquences. Comme dit précédemment, il exposa la dualité entre l'âme est le corps, qu'il considérait comme propre à l'humain, réduisant les autres animaux à une bête machine guidée par ses instincts et incapable de pensée ou de conscience.
+
+Digne héritier du scepticisme, ses réflexions étaient guidées par un doute méthodique qui lui est propre et que l'on dira cartésien. Tout ce qui parait évident doit être remis en question, en mettant de côté son jugement selon le concept sceptique nommé épochè. Il insistera également sur l'importance de ne pas faire confiance aux sensations, qui peuvent nous tromper comme par exemple, dans le cas des illusions d'optiques. Tentant de chercher une vérité dont il ne puisse douter, il fini par trouver sa phrase culte : "cogito ergo sum", signifiant : "je pense donc je suis".
+
+À l'inverse de Thomas Hobbes, Descartes semblait croire en l'existence de Dieu, existence qu'il prouvera en disant que tout effet à une cause réelle, et que l'infini ne peut être causé par quelque-chose d'imparfait, et donc qu'un Dieu parfait doit exister. C'est une affirmation à nuancer par le fait qu'il semble avoir eu la plus grande prudence pour éviter la censure, notamment lorsqu'il à accepté le système cosmologique héliocentrique de Copernic, de la même manière que Galilée qui fut pour cela condamné.
 
 
 
 #### Galilée
 
-**1600**
+Né en **1600**,
+
+Il rencontrera Hobbes lors d'un séjour de ce dernier à Florence.
 
 
 
 #### Wilhelm Schickard
 
-Il inventa au début du 17e siècle, une horloge a calculer avec l'aide des travaux de Napier a qui il dédia un éphéméride, malheureusement lors de sa conception un incendie vint détruire ses avancés et une reproduction fonctionnelle montra qu'il manquait certains moyens technique pour finaliser son œuvre et la rendre fonctionnelle.
+Il inventa au début du 17 ème siècle, une horloge à calculer avec l'aide des travaux de Napier à qui il dédia un éphéméride. Malheureusement, lors de sa conception un incendie vint détruire ses avancés, et une reproduction fonctionnelle montra qu'il manquait certains moyens technique pour finaliser son œuvre et la rendre opérationnelle.
 
 
 
@@ -1275,7 +1293,7 @@ Né le 21 novembre **1694**
 
 #### Jean-Jacques Rousseau
 
-Né en **1712** Rousseau était orphelin et errant, persécuté par l'Église et la république de Genève. Il était également autodidacte, et appris à l'aide de lectures de Descartes, Lockes, Malebranche, Leibniz, et bien d'autres. Sa pensée philosophique repose sur l'idée que l'Homme est naturellement bon et que la société et les règles qui en émanent viennent nous corrompre, renonçant à notre liberté naturelle au profit de la liberté civile. 
+Né en **1712** Rousseau était orphelin et errant, persécuté par l'Église et la république de Genève. Il était également autodidacte, et appris à l'aide de lectures de Descartes, Lockes, Malebranche, Leibniz, et bien d'autres. Sa pensée philosophique repose, à l'inverse de Hobbes,  sur l'idée que l'Homme est naturellement bon et que la société et les règles qui en émanent viennent nous corrompre, renonçant à notre liberté naturelle au profit de la liberté civile. 
 
 Malgré cela il affirme que le peuple est souverain, et qu'il doit converger vers l’intérêt commun, qu'il appela *volonté générale*. Il traitera également des rapports de forces et de la place de l'autorité, déclarant que la "force ne fait pas droit, et qu'on n'est obligés d'obéir qu'aux puissances légitimes".
 
@@ -1371,7 +1389,7 @@ Lorsque deux des auteurs principaux, les astronomes Malachy Hitchins et Nevil Ma
 
 #### Georg Wilhelm Friedrich Hegel
 
-Né en **1770**, dialectique du maître et de l'esclave. Travailler pour un maître fait acquérir de plus  en plus de compétences à l’esclave, et le maître à force de se faire servir perd de ses compétence, l’esclave à alors l'opportunité de devenir maître à son tour voire effectuer une inversion de contrôle. Le travail serait donc un facteur d'émancipation et de libération, et un vrai maître doit continuer d'apprendre et ne pas se reposer sur ses sous-fifres, en plus de faire preuve d'une reconnaissance sincère nécessaire à la sanité de leur relation. 
+Né en **1770**, dialectique du maître et de l'esclave. Travailler pour un maître fait acquérir de plus  en plus de compétences à l’esclave, et le maître à force de se faire servir perd de ses compétence, l’esclave à alors l'opportunité de devenir maître à son tour voire effectuer une inversion de contrôle. Le travail serait donc un facteur d'émancipation et de libération, et un vrai maître doit continuer d'apprendre et ne pas se reposer sur ses sous-fifres, en plus de faire preuve d'une reconnaissance sincère nécessaire à la sanité de leur relation.
 
 
 
@@ -2114,9 +2132,13 @@ Jusqu'alors, l'informatique était essentiellement réservé aux domaines privé
 
 #### Cerveau Chinois
 
-C'est une expérience de pensée considérant que si chaque membre de la nation chinoise était invité à simuler l'action d'un neurone constitué d'axones et de dendrites en utilisant des émetteurs bidirectionnels et ce afin de reconstrituer un cerveau, alors un tel système aurait-il un esprit ou une conscience ? 
+C'est une expérience de pensée considérant que si chaque membre d'une immense nation comme la Chine, était invité à simuler l'action d'un neurone, constitué d'axones et de dendrites, en utilisant des émetteurs bidirectionnels, et ce afin de reconstituer un cerveau, alors un tel système pourrait-il avoir un esprit ou une conscience ?
 
-Cette idée imaginée en 1961 et reprise en 1974 par Lawrence Davis et **1978** par Ned Block qui déclarera qu'un tel cerveau n'aurait pas d'esprit, sera reprises mainte fois, comme par exemple lorsque l'on a affirmer que Google avait plus de connexion que le cerveau humain et que les gens craignent alors qu'internet qui en ai encore plus puisse développer une conscience.
+L'affirmative repose sur une pensée fonctionnaliste, l'idée est que ce qui réalise la même fonction est capable de réaliser les mêmes résultats, et dans notre cas, l'obtention d'états mentaux et de conscience.
+
+Cette idée de cerveau artificiel géant imaginée en 1961 et reprise en 1974 par Lawrence Davis et **1978** par Ned Block qui quant à lui déclarera qu'un tel cerveau n'aurait pas d'esprit, sera reprises mainte fois, comme par exemple lorsque l'on a affirmé que Google avait plus de connexion que le cerveau humain et que les gens craignent alors qu'internet qui en ai encore plus puisse développer une conscience.
+
+Leibniz avait déjà dans son livre *Monadologie*, imaginé un homme mécanique dont on pourrait visiter le corps comme on visite un moulin.
 
 Par ailleurs cela pose la question du bateau de Thésée, si l'on était capable de remplacer des neurones par des neurones artificielles, jusqu'à substituer totalement au neurones "naturels", l'individu serait il le même ?
 
@@ -2149,6 +2171,16 @@ Optical Storage Disc **1980**
 #### Pac Man 
 
 **1980**
+
+
+
+#### Cerveau dans une cuve
+
+C'est une reformulation moderne du malin génie de Descartes, imaginée par Hilary Putnam en 1926, cette expérience de pensée invite à s'imaginer que notre cerveau pourrait être placé dans une cuve, et qu'il recevrait des stimulis envoyés par une machine, chargée de nous simuler le monde extérieur. La problématique étant alors de savoir si ce cerveau à raison de croire de qu'il perçoit.
+
+La thèse serait ainsi de dire que comme les signaux envoyés aux cerveaux ne correspondent à rien de tangible dans notre monde, alors il est dans l'illusion.
+
+L'antithèse, revient à justifier que le stimuli étant identique, il est tout à fait légitime du point de vue du cerveau, de dire qu'il le reconnaît bien.
 
 
 
@@ -2509,7 +2541,7 @@ Lorsque l'on travaille seul, on a parfois la tête dans le guidon,
 
 Base sur Monogame, héritier de Microsoft XNA, j'ai développer toute une API qui s’avère exister aujourd'hui, je ne sais pas si elle existait a époque.
 
-Le theoreme de pythagore et la teigonometrie m'on ete tres utile
+Le théorème de Pythagore et la trigonométrie m'ont été très utile
 
 
 
@@ -2517,9 +2549,7 @@ Le theoreme de pythagore et la teigonometrie m'on ete tres utile
 
 ##### Développement personnel
 
-
-
-on invente rien en realite, on decouvre le monde, on essaye de comprendre ses regles et les utiliser chacun a notre maniere avec notre perception, sensibilite et connaissances 
+On invente rien en réalité, on découvre le monde, on essaye de comprendre ses règles et les utiliser chacun a notre manière avec notre perception, sensibilite et connaissances.
 
 ###### Rigueur et retravail
 
@@ -2531,7 +2561,9 @@ Doute constant et remise en question en sont la clé.
 
 ###### Do it now
 
-Dès que l'on constate un problème, reflexe de réaliser la tâche dans la foulée ou de la planifier pour ne pas que l'information se perde
+J'ai souvent entendu dire "ce n'est pas ce qui est demandé ni prioritaire, on fera ça plus tard", et bien évidement, la plupart du temps cela fini par n'être jamais fait. Dans les projets informatique c'est ainsi que la dette technique s'immisce, on a des fonctionnalités qui s’accumulent, des développements qui s’enchaînent, et on ne pallie aux problèmes qu'avec des corrections rapides, s’attaquant aux causes plutôt qu'aux conséquences.
+
+Dès que l'on constate un problème, il faut avoir le réflexe de réaliser la tâche dans la foulée, ou de la planifier pour ne pas que l'information se perde. 
 
 
 
@@ -2565,7 +2597,7 @@ Lorsque je commet une erreur, j'en assume la responsabilité, mais je me justifi
 
 ##### Critique
 
-Selon loi la ceitique consteuctive st positive pour le maitre et l'apprenant des lors quelle s'effectue avec une communication positive tout en analysant les defauts et planifiant un programme pour les corriger. 
+Selon moi la critique constructive est positive pour le maître et l'apprenant des lors quelle s'effectue avec une communication positive tout en analysant les défauts et planifiant un programme pour les corriger. 
 
 
 
@@ -2585,7 +2617,7 @@ https://ayowel.github.io/trust/
 
 #### Cadriciel et Open Source
 
-Symfony ne permet pas de surcharger l'attribut "name" d'un champ de formulaire, le retrait de requêtes expires ne marche pas... L'installation d'un de leurs plugin React m'a récemment causer default. J'ai eu, par la force des choses, à contacter la personne chargée de la documentation de Symphony. Un certain [Ryan](https://github.com/weaverryan), qui est "Symfony docs lead, writer at SymfonyCasts", ce fût une expérience riche ou j'ai découvert un environnement qui m'est familier, bien que je n'ai pas souvent réaliser de l'open source avant. Une pipeline qui sors des erreurs à des lignes qui n'existent pas sur ma version, et qui malgré ça permet d'assurer la qualité de la documentation rédigée en RST ou DOCtor-RST, à l'aide de tests de compilation.
+Symfony ne permet pas de surcharger l'attribut "name" d'un champ de formulaire, le retrait de requêtes expires ne marche pas... L'installation d'un de leurs plugin React m'a récemment causer defaut. J'ai eu, par la force des choses, à contacter la personne chargée de la documentation de Symphony. Un certain [Ryan](https://github.com/weaverryan), qui est "Symfony docs lead, writer at SymfonyCasts". Ce fût une expérience riche ou j'ai découvert un environnement qui m'est familier, bien que je n'ai pas souvent réaliser de l'open source avant. Une pipeline qui sors des erreurs à des lignes qui n'existent pas sur ma version, et qui malgré ça permet d'assurer la qualité de la documentation rédigée en RST ou DOCtor-RST, à l'aide de tests de compilation.
 
 
 
@@ -2696,6 +2728,8 @@ Collaboration et travail d'équipe : Dans de nombreux projets, plusieurs dévelo
 #### Philosophie
 
 https://fr.wikipedia.org/wiki/Philosophie_de_l%27information
+
+Philip Kindred Dick : "La réalité, c'est ce qui continue d'exister lorsque l'on cesse d'y croire"
 
 ##### One thing at a time
 
