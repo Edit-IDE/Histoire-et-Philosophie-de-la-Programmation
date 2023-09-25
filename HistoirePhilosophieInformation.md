@@ -594,7 +594,7 @@ La troisième est la peinture, dont les plus anciennes preuves sont rupestres, e
 
 Relativement aux dates précédentes, l’écriture ne vient que récemment, elle a été attestée en Mésopotamie il y a 5 millénaires. Pourtant, c'est elle qui nous permettra à nous, humains, d'écrire notre Histoire.
 
-D'un point de vue Historique, notre génération laissera toujours une trace. Que ce soit sur un disque dur quelque part dans un grenier, dans un datacenter ou une web archive. Et même si tout disparaissait, il y aurait une preuve immuable et indestructible à échelle de la Terre. Les isotopes lourds que nous avons créés avec l'apparition des industries nucléaire seraient, même dans le cas d'un retour à l'Age de pierre causant un rude hiver civilisationnel, la preuve de l'existence de la nôtre.
+D'un point de vue Historique, notre génération laissera toujours une trace. Que ce soit sur un disque dur quelque part dans un grenier, dans un datacenter ou une web archive. Et même si tout disparaissait, il y aurait une preuve immuable et indestructible à échelle de la Terre. Les isotopes lourds que nous avons créés avec l'apparition des industries nucléaire seraient, même dans le cas d'un retour à l'âge de pierre causant un rude hiver civilisationnel, la preuve de l'existence de la nôtre.
 
 
 
@@ -1295,7 +1295,7 @@ Très inspiré par le Stoïcisme, selon lui il n'existe dans la nature qu'une se
 
 #### Binaire
 
-Le binaire est pratiqué depuis l'an -750, mais le concept et ses opérations tel qu'on les utilise aujourd'hui, n'ont étés formalisées qu'en **1690** par Leibniz Wilhelm Gottfried. Grand polymathe allemand, il a populariser ce système en démontrant sa facilité d'écriture et d'usage, notamment pour la division qui était à ce moment compliquée à automatiser, et il a projeter son utilisation future en émettant l'idée que des machines plus élaborées puissent en tirer pleinement profit. Ces travaux ont permis a d'autres chercheurs de décrypter les codes binaires utilisés par les hexagrammes en -750.
+Le binaire est pratiqué depuis l'an -750, mais le concept et ses opérations tel qu'on les utilise aujourd'hui, n'ont étés formalisées qu'en **1690** par Leibniz Wilhelm Gottfried. Grand polymathe allemand, il a popularisé ce système en démontrant sa facilité d'écriture et d'usage, notamment pour la division qui était à ce moment compliquée à automatiser, et il a projeté son utilisation future en émettant l'idée que des machines plus élaborées puissent en tirer pleinement profit. Ces travaux ont permis à d'autres chercheurs de déchiffrer les codes binaires utilisés par les hexagrammes en -750.
 
 
 
@@ -1743,7 +1743,7 @@ Elisabeth Findler Jake, nom de domaines, whois nom de domaine (page jaunes) Alor
 
 ### Guerre froide et course a l'espace
 
-La seconde guerre mondiale prends fin et c'est officiellement l'époque contemporaine pour les anglo-saxons. C'est l'avènement du nucléaire, de l'ère de l'informatique, mais aussi de la décolonisation et de la guerre froide. Les besoins de calculs sont plus importants que jamais, aéronefs, nucléaire civil et militaire, gestion de l'énergie sont au cœur des réflexions et stratégies des pays du monde.
+La seconde guerre mondiale prends fin et c'est officiellement l'époque contemporaine pour les anglo-saxons. C'est l'avènement du nucléaire, de l'ère de l'informatique, mais aussi de la décolonisation et de la guerre froide. Les besoins de calculs sont plus importants que jamais, aéronefs, nucléaire militaire, civil, et gestion de l'énergie sont au cœur des réflexions et stratégies des pays du monde.
 
 L'arrivé du calcul et de la simulation informatique offrent un meilleur contrôle, ainsi qu'une prise de décision plus efficace, permettant de gérer de grandes structures, qu'elles soient civiles, militaires, ferroviaires, aériennes, ou autre.  
 
@@ -2316,7 +2316,9 @@ Suite à Atom publié par GitHub le 26 février 2014, bien avant son rachat en 2
 
 ## Essai
 
-En arrivant en DUT informatique en 2016, je n'avait programmé qu'en BASIC sur une calculatrice Texas Instrument, je ne m'attendais pas à autant de complexité.
+En arrivant en DUT informatique en 2016, je n'avais programmé qu'en BASIC sur une calculatrice Texas Instrument, je ne m'attendais pas à autant de complexité lors de mon apprentissage du C ou de Bash. Je ne comprenais souvent les concepts qu'après les contrôles lors de la correction, me rendant compte de mes erreur et reajustant ma version de ce qui etait bon en fonction.
+
+J'ai rapidement découvert les compilateurs, qui indiquent les erreurs tant bien que mal, qui ont parfois eux même des erreurs ou manque de precision, et necessitant de comprendre pleinement son fonctionnement et son propre code pour arriver a trouver et corriger le probleme. Cela peut etre decourageant pour beaucoup, et cest d'ailleurs certainement une des raisons pour lesquelles une bonne partie abandonnent en premiere annee.
 
 La mode n'est que passagère, il n'y a que les habitudes de vies et s'en tenir à un plan structuré et cohérent qui reste dans l'histoire.
 
@@ -2360,22 +2362,17 @@ Il y'a donc des opportunités immenses pour les autodidactes et les écoles en i
 
 C'est également une discipline en constant changement, qui requiert beaucoup de connaissances et de pratique. Les développeurs expérimentés sont logiquement très recherché. Pour les mêmes raison, c'est dur d'être dévoué à se domaine, nombre de personnes le quitteront pour quelque chose qui leur convient mieux. Cependant c'est une science et technologie qui est désormais omniprésente dans nos vies et apprentissages. Je suis donc d'avis qu'une généralisation de l'introduction à la programmation en cours de technologie au collège, permettrait aux élèves de savoir si ce domaine les intéresse, d'avoir la possibilité de choisir de prendre cette discipline au lycée, ou juste de pouvoir apprendre par lui même tout en continuant dans une autre voie.
 
-
-
-Pourquoi un outil censé résoudre un problème en cause parfois des bloquants ?
-
-[...]
 Il y’a un manque d’experts, de personnes compétentes et qualifiées, les années que nous vivons sont saturées d'informations, et l'accumulation de mauvaises nouvelles déprime les uns, là où les tsunamis de désinformation et canulars font rire et haïr les autres. La vérité finissant presque par ironiquement nous consoler.
 
-
-
 Et un réel décalage entre offre et demande, nous observons des signaux forts comme ceux autour de la blockchain, technologie ayant un réel intérêt et pouvant jouer un rôle important, notamment dans les systèmes administrant nos sociétés mondialement interconnectées, mais qui présentent cependant un effet Duning Kruger assez important ces derniers temps.
+
+### Pourquoi un outil censé résoudre un problème en cause parfois des bloquants ?
+
+[...]
 
 
 
 A la manière de Platon, je n'ai rien inventé, les idées sont immuables et universelles, elle appartiennent à personne.
-
-
 
 Tout est temps, c'est l’écoulement des choses, l'itération des actions qui s'écrivent et se succèdent.
 
@@ -2425,7 +2422,7 @@ Absolue / relatif
 
 
 
-Il est futile de vouloir avoir raison, la mauvaise foi est l’ennemie de l'amélioration personnelle. Seule la vérité compte, quand je débat avec quelqu'un ce n'est pas dans le but de faire briller mon savoir ou répandre ma version de la vérité mais la challenger pour l'améliorer voire l'invalider à l'aide des antithèses d'autrui. Il n'y a rien à gagner à avoir raison, on instruit, on apprends et on avance ensemble.
+Il est futile de vouloir avoir raison, la mauvaise foi est l’ennemie de l'amélioration personnelle. Seule la vérité compte, quand je débat avec quelqu'un ce n'est pas dans le but de faire briller mon savoir ou répandre ma version de la vérité, mais la challenger pour l'améliorer voire l'invalider à l'aide des antithèses d'autrui. Il n'y a rien à gagner à avoir raison, on instruit, on apprends et on avance ensemble.
 
 
 
@@ -2471,7 +2468,7 @@ Logo
 
 ### Apprentissage
 
-L'apprentissage commence généralement avec de la mémorisation, s'ensuit une compréhension qui permet la résolutions de problèmes et enfin s'y ajoute la créativité que l'on débloque lorsque l'on à le savoir et le savoir faire. La mémorisation étant le terreau du savoir, il est important de comprendre que scientifiquement on sait aujourd'hui que les humains ont tout comme les machines une mémoire de travail et une mémoire à long terme. On peut comparer ses deux mémoires à la RAM et les stockages de masse. Le cerveau possède même un mécanisme d'encodage de l'information vers la mémoire à long terme et de récupération vers la mémoire de travail, les informations les plus importantes possèdent plus d'amorces, permettant de les retrouver et s'en souvenir plus facilement, et avec bien sur certaines informations dont le signal se perd, dans l'oubli, nécessaire à trier et jeter ou archiver ce qui l'est moins, dans le cas de la mémoire à long terme, cela se produit en perdant des amorces au fur et a mesure du temps.
+L'apprentissage commence généralement avec de la mémorisation, s'ensuit une compréhension qui permet la résolutions de problèmes et enfin s'y ajoute la créativité que l'on débloque lorsque l'on à le savoir et le savoir faire. La mémorisation étant le terreau du savoir, il est important de comprendre que scientifiquement, on sait aujourd'hui que les humains ont, tout comme les machines, une mémoire de travail et une mémoire à long terme. On peut comparer ses deux mémoires à la RAM et aux stockages de masse. Le cerveau possède même un mécanisme d'encodage de l'information vers la mémoire à long terme et de récupération vers la mémoire de travail, les informations les plus importantes possèdent plus d'amorces, permettant de les retrouver et s'en souvenir plus facilement, et avec bien sur certaines informations dont le signal se perd, dans l'oubli, nécessaire à trier et jeter ou archiver ce qui l'est moins, dans le cas de la mémoire à long terme, cela se produit en perdant des amorces au fur et a mesure du temps.
 
 
 
@@ -2631,7 +2628,7 @@ Les confinements comme celui que l'on a eu lors de la période du Covid nous le 
 
 ##### Justification
 
-Lorsque je commet une erreur, j'en assume la responsabilité, mais je me justifie souvent. Cela permet d'identifier les causes du problème. Dans le livre Lean Startup il est mentionné une phrase qui m'a marquée. L'idée est que lorsqu'une erreur survient, il est de notre responsabilité d'avoir rendue la faute si facile à commettre. Autrement dit, lorsqu'une personne faillit à sa tâche, il ne faut pas se remettre en question sa responsabilité ou sa compétence, mais se demander pourquoi l'environnement n'a pas permis la réussite de l'action et rendu la situation d'échec si probable qu'elle c'est produite.
+Lorsque je commet une erreur, j'en assume la responsabilité, mais je me justifie souvent. Cela permet d'identifier les causes du problème. Dans le livre Lean Startup il est mentionné une phrase qui m'a marquée. L'idée est que lorsqu'une erreur survient, il est de notre responsabilité d'avoir rendue la faute si facile à commettre. Autrement dit, lorsqu'une personne faillit à sa tâche, il ne faut pas remettre en question sa responsabilité ou sa compétence, mais se demander pourquoi l'environnement n'a pas permis la réussite de l'action et rendu la situation d'échec si probable qu'elle c'est produite.
 
 
 
@@ -2653,17 +2650,23 @@ https://ayowel.github.io/trust/
 
 #### Prestation vs édition de logiciel
 
+Le modèle économique d'une entreprise influence énormément les comportement de ses salariés.
+
+Les prestataires vendent du temps, et ont donc naturellement tendance à avoir des deadline plus courtes et par conséquent plus de pression. Cela nécessite également une équipe commerciale solide capable de décrocher assez de projet pour faire travailler l'entreprise pendant les prochaines années. En contrepartie, on ne demande pas un logiciel ou site maintenable mais assez bien réalisé et  fonctionnel pour être livré le plus rapidement possible afin d'en dégager une marge. 
+
+Les éditeurs logiciels quant a eux le louent généralement en tant que service ou le vendent en tant que bien, le nerf de la guerre réside alors dans la maintenabilité du logiciel auquel on doit ajouter des fonctionnalités au fil du temps. Plus le logiciel grossit, plus il est compliqué de maitriser les effets de bord et de comprendre l'intégralité du logiciel et de son historique.
+
 
 
 #### Cadriciel et Open Source
 
-Symfony ne permet pas de surcharger l'attribut "name" d'un champ de formulaire, le retrait de requêtes expires ne marche pas... L'installation d'un de leurs plugin React m'a récemment causer defaut. J'ai eu, par la force des choses, à contacter la personne chargée de la documentation de Symphony. Un certain [Ryan](https://github.com/weaverryan), qui est "Symfony docs lead, writer at SymfonyCasts". Ce fût une expérience riche ou j'ai découvert un environnement qui m'est familier, bien que je n'ai pas souvent réaliser de l'open source avant. Une pipeline qui sors des erreurs à des lignes qui n'existent pas sur ma version, et qui malgré ça permet d'assurer la qualité de la documentation rédigée en RST ou DOCtor-RST, à l'aide de tests de compilation.
+Symfony, un outil logiciel facilitant la réalisation d'application webs, ne permet pas de surcharger l'attribut "name" d'un champ de formulaire, le retrait de requêtes expires ne marche pas... L'installation d'un de leurs plugin React m'a récemment causer defaut. J'ai eu, par la force des choses, à contacter la personne chargée de la documentation de Symphony. Un certain [Ryan](https://github.com/weaverryan), qui est "Symfony docs lead, writer at SymfonyCasts". Ce fût une expérience riche ou j'ai découvert un environnement qui m'est familier, bien que je n'ai pas souvent réaliser de l'open source avant. Une pipeline qui sors des erreurs à des lignes qui n'existent pas sur ma version, et qui malgré ça permet d'assurer la qualité de la documentation rédigée en RST ou DOCtor-RST, à l'aide de tests de compilation.
 
 
 
 #### ChatGPT
 
-Oui, j'ai utilisé ChatGPT pour écrire cet ouvrage, mais aucun texte n'en est extrait. Pourquoi ? Je tenais à rédiger moi même, comme je vous l'aurais expliqué à l'oral. Le passage sur Richard Stallman à vu le jour grâce au modèle de génération de texte qu'est ChatGPT. J'ai voulu retrouver qui à prononcer une phrase dans le reportage : "Révoltes et révolutions technologiques | La Californie ! | ARTE"
+Oui, j'ai utilisé ChatGPT pour écrire cet ouvrage, mais aucun texte n'en est extrait. Pourquoi ? Je tenais à rédiger moi même, comme je vous l'aurais expliqué à l'oral. Le passage sur Richard Stallman à neanmoins vu le jour grâce au modèle de génération de texte qu'est ChatGPT. J'ai voulu retrouver qui à prononcer une phrase dans le reportage : "Révoltes et révolutions technologiques | La Californie ! | ARTE"
 
 Voici le dialogue qui en est à l'origine :
 
@@ -2708,6 +2711,32 @@ Le free software
 
 
 ### EditIDE
+
+Imaginons que vous vouliez réaliser un site web et qu'il soit en ligne, en réalité il vous suffit d'une connexion internet de trois fichier et d'un logiciel de serveur, et enfin d'un nom de domaine pour y accéder sans avoir à mémoriser une adresse IP.
+
+
+
+#### Cas d'étude
+
+Pour un utilisateur avertit, la démarche peut ne prendre que quelques minutes, allez, petite démonstration :
+
+
+
+##### Etape 1 : Réaliser un site web
+
+Il suffit pour cela de trois fichiers. Cette étape est donc logiquement séparée en trois étapes, qui correspondent aux 3 parties d'un site web, le contenu structuré, l'habillage, et la réaction que doit avoir le site aux entrées utilisateur. Pour l'exemple on va faire un site très simple, un mot, centré au milieu de l'écran, qui change lorsque l'on clique dessus.
+
+##### Etape 2 : ouvrir les ports
+
+Vous allez dans le panneau de configuration de votre box et vous ouvrez le port qui permettent d'emmétre un site web et d'écouter les requêtes des clients https avec le numéro 443 et http avec le numéro complémentaire 80. 
+
+![](D:\Textes\EditIDE\Histoire-et-Philosophie-de-la-Programmation\assets\freebox.png)
+
+##### Etape 3 : mettre un serveur en service
+
+Télécharger NGINX,
+
+👉https://nginx.org/en/download.html
 
 
 
