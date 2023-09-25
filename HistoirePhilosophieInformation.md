@@ -529,22 +529,20 @@ Dorian Blanchard
 
 La transmission d'information s'est fiabilisée au fil des époques, avec l'usage d'outils physique ; notamment des tablettes, plaques permettant de dessiner, d'écrire, lire, compter ; et ce jusqu'à pouvoir automatiser son traitement et son stockage, à l'aide de l'informatique, dont l'histoire ne commence qu'à la fin du 19 ème siècle.
 
-De nos jours, nous interagissons quotidiennement avec des ordinateurs, que ce soit à l'aide de la programmation, ou des interfaces qui en sont issues. Pourtant, la grande majorité des utilisateurs, et même des personnes travaillant dans le domaine des Technologies de l'Information et de la Communication (TIC), ne connaissent pas la plupart des événements majeurs de son histoire.
+De nos jours, nous interagissons quotidiennement avec des ordinateurs, que ce soit à l'aide de la programmation, ou des interfaces hommes-machines qui en sont issues. Pourtant, la grande majorité des utilisateurs, et même des personnes travaillant dans le domaine des Technologies de l'Information et de la Communication, ne connaissent pas la plupart des événements majeurs de son histoire.
 
 Moi même n'ayant pas cette connaissance lorsque j'ai entrepris la rédaction de ce mémoire, j'ai décidé de me documenter et de rédiger un format accessible, avec ce qui m'a semblé être nécessaire pour comprendre le sujet, et ainsi vous le partager à vous, lecteurs de cet ouvrage.
 
-Pour la rédaction de ce dernier, j'ai acquis 3 livres : 
+Pour la rédaction de ce dernier, j'ai acquis 4 livres : 
 
-- la 4e édition de "Computer, A History of the Information Machine" de Martin Campbell-Kelly, professeur émérite britannique, spécialisé dans l'histoire de l'informatique. C'est une réédition coécrite avec William F.Aspray, Jeffrey R. Yost, Honghong Tinn, et Gerardo Con Diaz.
+- la 4e édition de "Computer, A History of the Information Machine" de Martin Campbell-Kelly, professeur émérite britannique, spécialisé dans l'histoire de l'informatique. Coécrite avec William F.Aspray, Jeffrey R. Yost, Honghong Tinn, et Gerardo Con Diaz.
 - "The history of the computer : people, inventions, and technology that changed our world" de Rachel Ignotofsky
 - "Histoire illustrée de l'informatique" d'Emmanuel Lazard et Pierre Mounier-Kuhn.
 - "Transmettre" de Christophe André, Céline Alvarez, Catherine Gueguen, Matthieu Ricard, Frédéric Lenoir, Ilios Kotsou, Caroline Lesire
 
-Les trois premiers livres ont chacun leurs avantages grâce à une approche différente d'un même sujet, sur lequel je m'attendais à trouver plus de bibliographie. Contrairement à ceux-ci, j'ai essayé d'avoir une démarche plus globale que l'informatique et l'ordinateur, qui sont des concepts très récent. Et ce en abordant le thème global qu'est l'information, tout en y ajoutant de la philosophie ainsi que mon humble analyse subjective, parce que l'apprentissage des mathématiques et de l'informatique ont changé ma manière de concevoir le monde dans lequel nous vivons.
+Les trois premiers livres ont chacun leurs avantages grâce à une approche différente d'un même sujet, sur lequel je m'attendais à trouver plus de bibliographie. Contrairement à ceux-ci, j'ai essayé d'avoir une démarche plus globale que l'informatique et l'ordinateur, qui sont des concepts très récent. Et ce en abordant le thème global qu'est l'information, tout en y ajoutant de la philosophie, ainsi que mon humble analyse subjective, parce que j'aime penser, et que l'apprentissage des mathématiques et de l'informatique ont changé ma manière de concevoir le monde dans lequel nous vivons. Se sont selon moi des philosophies à part entière, apportant des syntaxes et un vocabulaire, nécessitant un apprentissage constant de schémas de pensés dignes d'un logicien.
 
-
-
-Dans ce mémoire, je vais donc revenir aux racines les plus ancestrales de la gestion de l'information, au vocabulaire et champ lexical qui y sont liés ou en découlent, ainsi que leurs étymologies à travers leur Histoire, qui représente toute la première partie de ce livre.
+Dans ce mémoire, je vais donc revenir aux racines les plus ancestrales de la gestion de l'information, au vocabulaire et champ lexical qui y sont liés ou en découlent, ainsi qu'a leurs étymologies à travers leur Histoire, qui représente toute la première partie de ce livre. J'y présenterai beaucoup de philosophes, scientifiques et de penseurs variés. De l'Antiquité aux époques plus moderne, les idées qu'ils ont amenées ont permis des inventions et progrès technologiques avec un développement de plus en plus rapide. Pourtant, les inventions qui ont le plus impacté l'humanité, resteront toujours les plus anciennes, avec au sommet d'entre elles, l'écriture.
 
 J'aborderai aussi un sujet qui m'est cher, la programmation. Elle n'est pas forcement liée à l'informatique, c'est l'art de planifier et mettre en œuvre des étapes à suivre pour obtenir un résultat. Cela dit, elle passe inévitablement par de la gestion de l'information, à l'aide d'écriture, lecture, chiffrement, déchiffrement, émission, et réception.
 
@@ -574,9 +572,9 @@ Je ne remercierai jamais assez mes parents et grand parents, qui ont eu la chanc
 
 Merci à toutes les personnes et enseignants qui m'ont, lors de ma longue scolarité, transmis tout ce que je sais aujourd'hui.
 
-Merci aux logiciels libres, à l'open source, à Wikipédia et à tout leurs contributeurs.
+Merci aux logiciels libres, à l'open source, à Wikipédia et tout leurs contributeurs.
 
-Merci aux établissements d'enseignement et entreprises, dans lesquels j'ai travaillé et évoluer grâce à des processus d'amélioration continue.
+Merci aux établissements d'enseignement et entreprises, dans lesquels j'ai travaillé et évoluer dans la bienveillance, grâce à des processus itératifs d'amélioration continue.
 
 Merci à toutes et tous, car nos métiers et inventions ne sont que rarement le fruit d'un génie isolé, mais bien d'une collaboration et de l'amélioration d'idées antérieures.
 
@@ -596,7 +594,7 @@ La troisième est la peinture, dont les plus anciennes preuves sont rupestres, e
 
 Relativement aux dates précédentes, l’écriture ne vient que récemment, elle a été attestée en Mésopotamie il y a 5 millénaires. Pourtant, c'est elle qui nous permettra à nous, humains, d'écrire notre Histoire.
 
-D'un point de vue Historique, notre génération laissera toujours une trace. Que ce soit sur un disque dur quelque part dans un grenier, dans un datacenter ou une web archive. Et même si tout disparaissait, il y aurait une preuve immuable et indestructible a échelle de la Terre. Les isotopes lourds que nous avons créés avec l'apparition des industries nucléaire seraient, même dans le cas d'un retour à l'Age de pierre causant un rude hiver civilisationnel, la preuve de l'existence de la nôtre.
+D'un point de vue Historique, notre génération laissera toujours une trace. Que ce soit sur un disque dur quelque part dans un grenier, dans un datacenter ou une web archive. Et même si tout disparaissait, il y aurait une preuve immuable et indestructible à échelle de la Terre. Les isotopes lourds que nous avons créés avec l'apparition des industries nucléaire seraient, même dans le cas d'un retour à l'Age de pierre causant un rude hiver civilisationnel, la preuve de l'existence de la nôtre.
 
 
 
@@ -612,13 +610,13 @@ Un abaque est un instrument facilitant le calcul. C'est un outil mnémonique uti
 
 Son étymologie est un mélange de grec et d'hébreu, elle explique bien sa représentation et son usage. La poussière (de l'hébreu abaq), et la tablette (du grec akos), servaient de support pour l'écrit. Même sans dépôt de poussière naturelle, on peut volontairement recouvrir une tablette, et ainsi réécrire à volonté avec du sable, ou toute autre poudres.
 
-Le plus vieux système de quantification connu est le bâton de comptage, daté à **-40000**. C'est un système unaire, c'est à dire un système permettant de quantifier des unités, représentées par la répétition d'un symbole, généralement un trait, aussi appelé marque de dénombrement. Le plus ancien est l'Os de Lebombo.
+Le plus vieux système de quantification connu est le bâton de comptage, daté à **-40000**. C'est un système unaire, il permet de quantifier des unités, représentées par la répétition d'un symbole, généralement un trait, aussi appelé marque de dénombrement. Le plus ancien est l'Os de Lebombo.
 
 L'ensemble d'Os d'Ishango est cependant plus connu. Il serait hypothétiquement une des premières preuves de connaissance humaine des mathématiques et de l'arithmétique. Sur un des os, on aperçoit les 4 nombres premiers entre 10 et 20, soit 11, 13, 17, et 19 ; un autre semble démontrer les additions et les multiplication, notamment la duplication, avec la juxtaposition des nombres 3 et 6 puis 4 et 8.
 
 Cette méthode est restée, à l'époque, un berger pouvait s'assurer que l'intégralité de son troupeau était rentré en comparant deux comptages, à l'aide de cailloux par exemple, chacun représentant une bête. 
 
-De nos jours elle à été mécanisée pour compter par groupe de dix les manifestants a l'aide de compteurs manuels.
+De nos jours elle à été mécanisée pour approximer par groupes de dix les manifestants a l'aide de compteurs manuels.
 
 
 
@@ -634,7 +632,7 @@ L'homme préhistorique avait donc sûrement déjà des systèmes de comptage des
 
 Jusqu'alors, l'humain était un chasseur-cueilleur nomade, et contrairement à ce que l'on pourrait croire, il aurait rarement chercher des poux à ses congénères lorsqu'il les croise, ayant déjà bien assez de problèmes avec la nature.
 
-La sédentarisation prends place en **-9000**, l'agriculture apparaît à la même période avec par conséquent un besoin de stockage grandissant, auquel répondra la démocratisation de la vannerie, du tissage et surtout de la poterie, alors que la terre cuite était utilisée principalement pour des figurines décoratives.
+La sédentarisation prends place en **-9000**, l'agriculture apparaît à la même période, au Proche et Moyen Orient actuel, dans le *croisant fertile*, avec par conséquent un besoin de stockage grandissant, auquel répondra la démocratisation de la vannerie, du tissage et surtout de la poterie, alors que la terre cuite était utilisée principalement pour des figurines décoratives.
 
 Fleurirons alors villes et cités comme Urkesh, Ninive, ou Assur ; capitale Assyrienne, et Guzana capitale du royaume autagoniste Araméen, à partir de **-7000**. Suivis par Uruk et Lagash vers **-5000**, puis Ur vers **-4000**.
 
@@ -679,7 +677,7 @@ L'algèbre babylonienne vers **-3000**, utilisait un système sexagésimal, pote
   -  avec en plus la notion de comparaison et d'équation
      -  si après la soustraction `a - b` il reste `c` , alors `a > b` car `a = b + c`
 
-La division se pratiquait avec la multiplication par l'inverse, on a retrouver de multiples tables d'inverse en Mésopotamie.
+La division se pratiquait avec la multiplication par l'inverse, on a retrouvé de multiples tables d'inverse en Mésopotamie.
 
 La racine carrée était obtenue grâce aux tables de carrés, pour celles manquante, on pratiquait une approximation par interpolation linéaire.
 
@@ -711,7 +709,7 @@ Par la suite, romains, chinois, japonais, russes, mexicains, français, et autre
 
 #### Code de Hammurabi
 
-Ce texte babylonien daté vers **-1750**, est le plus complet connu à ce jour de la Mésopotamie Antique. Il démontre l'existence de lois, notamment concernant les salaires, indiquant qu'il existait des corps de métiers bien définis ; mais aussi sur le droit de la famille, la propriété, le système judiciaire, et bien d'autres.
+Ce texte babylonien daté vers **-1750**, est à ce jour le texte de loi connu le plus complet de la Mésopotamie Antique. Il démontre l'existence de lois, notamment concernant les salaires, indiquant qu'il existait des corps de métiers bien définis ; mais aussi sur le droit de la famille, la propriété, le système judiciaire, et bien d'autres.
 
 Ces lois décrivent des situation problématique auxquelles elles proposent des solution, ont dit qu'elle sont casuistique.
 
@@ -769,7 +767,7 @@ J'apprécie personnellement la définition de Platon, qui résume bien la chose 
 
 #### Rhétorique
 
-La rhétorique quand à elle, est l'art d'impacter les esprits par son discours, son but est l'efficacité, voire la persuasion. Intimement liée à l'éloquence, elle a d'abord été pratiquée à l'oral, mais elle est plus généralement pratiquée en trouvant des mots et arguments mémorisables, ordonnés, et transmit à autrui.
+La rhétorique quand à elle, est l'art d'impacter les esprits par son discours, son but est l'efficacité, voire la persuasion. Intimement liée à l'éloquence, elle a d'abord été pratiquée à l'oral, mais elle l'est plus généralement en trouvant des mots et arguments mémorisables, ordonnés, et transmit à autrui.
 
 Elle s'est ensuite détachée de la persuasion pour devenir pour plus globalement l'art de bien dire et de l'argumentation, ayant malgré tout pour objectif le vraisemblable plus que la vérité.
 
@@ -777,7 +775,7 @@ Elle s'est ensuite détachée de la persuasion pour devenir pour plus globalemen
 
 #### Sophistes et Sophismes 
 
-Né en **-490**, Protagoras est un philosophe pré-socratique considéré comme sophiste, qui ont été une opposition forte aux philosophes de la suite de ce récit. Les raisons les plus probables sont qu'il était une personnalité forte, célèbre et critiquée du fait qu'il était un enseignant itinérant, cherchant un salaire ainsi qu'un statut toujours plus élevé contre son enseignement, alors que monnayer son savoir était à l'époque interdit. Il serait également à l'origine de l'éristique, l'art de la discorde, de la dispute et plus globalement du débat ; variante proche de la rhétorique, qu'il a également enseigné.
+Né en **-490**, Protagoras est un philosophe pré-socratique considéré comme sophiste, qui ont été une opposition forte aux philosophes de la suite de ce récit. Les raisons les plus probables sont qu'il était une personnalité forte, célèbre et critiquée du fait qu'il était un enseignant itinérant, cherchant un salaire ainsi qu'un statut toujours plus élevé contre son enseignement, alors que monnayer son savoir était à l'époque interdit. Il serait également à l'origine de *l'éristique*, l'art de la discorde, de la dispute et plus globalement du débat ; variante proche de la rhétorique, qu'il a également enseigné.
 
 Les sophistes ont par conséquent étés perçus comme des gens avides, prêts à tout pour monnayer leur savoir à des prix toujours plus fous, au détriment même de la vérité, usant de la rhétorique de manière perverse et fallacieuse, ce qui à donné naissance au mot et à la pratique qu'est le *sophisme*. Tout raisonnement, même si la finalité est véridique, peut être considéré comme tel dès lors qu'il n'est pas logique, valide, s'appuie sur un biais, ou use de stratagème visant à prouver la véridicité de ses dires, en jouant sur la crédibilité ou les émotions (ethos et pathos), plus que sur le discours en lui même (logos).
 
@@ -791,7 +789,7 @@ Il a également déclaré que "l'homme est la mesure de toute chose", introduisa
 
 #### Socrate
 
-Socrate, né vers **-470**, fils d'une sage-femme, est le créateur de la maïeutique, l'art de faire accoucher les âmes. En questionnant un sujet, il pouvait lui faire prendre conscience d'une connaissance enfouie en lui. Il est également le père d'une méthode de réfutation nommée *elenchos*, consistant à challenger la thèse de son adversaire en la poussant à l'absurde, dans le but d'y révéler son côté irréel.
+Socrate, né vers **-470**, fils d'une sage-femme, et créateur de la maïeutique, l'art de faire accoucher les âmes. En questionnant un sujet, il pouvait lui faire prendre conscience d'une connaissance enfouie en lui. Il est également le père d'une méthode de réfutation nommée *elenchos*, consistant à challenger la thèse de son adversaire en la poussant à l'absurde, dans le but d'y révéler son côté irréel.
 
 Marcheur parleur, il n'a jamais écrit, ses dires ont été relatés par ses disciples. Il a étudié la nature, puis sa pensée s'est concentrée sur l'homme, qui doit selon lui s'étudier lui même tel un anthropologue.
 
@@ -800,7 +798,7 @@ Cicéron dira que "Socrate le premier invita la philosophie à descendre du ciel
 
 Selon lui : "Les sages sont en fait des gens qui pensent l'être, ils s'imaginent des connaissances et ignorent ce qu'ils ne savent point", cela rejoint à la fois la maïeutique et son opposition avec les sophistes, dont son ancien maître Protagoras.
 
-Il avait un sens exacerbé du bien et mal, de la justice. Il a défendu des généraux accusés de ne pas avoir récupéré des corps de leurs soldats mort, à cause d'une tempête, et ce seul contre l'opinion publique en faveur de ce qui lui paraissait juste. Il était également contre la loi du talion, insistant sur le fait que l'on ne doit pas répondre à l'injustice par l'injustice, et au mal par le mal.
+Il avait un sens exacerbé du bien et du mal, ainsi que de la justice. Il a défendu des généraux accusés de ne pas avoir récupéré des corps de leurs soldats mort, à cause d'une tempête, et ce seul contre l'opinion publique, en faveur de ce qui lui paraissait juste. Il était également contre la loi du talion, insistant sur le fait que l'on ne doit pas répondre à l'injustice par l'injustice, et au mal par le mal.
 
 Longtemps accusé d'avoir des croyances différentes et déviantes de la religion de l'époque, il fut condamné pour l'impiété et corruption de la jeunesse. Accusé à tord, il fit malgré tout preuve d'une arrogance qui causera sa perte, contre-plaidant à la peine de mort en disant qu'il devrait manger gratuitement jusqu’à la fin de ses jours. Cela n'a vraisemblablement pas plu au jury, qui le condamna à la ciguë, alors poison d'état, qu'il finira par boire, acceptant pleinement son jugement, bien qu'injuste. 
 
@@ -824,9 +822,9 @@ Cette pensée émane à un moment où les mythes, fables et religions sont douce
 
 #### Cynisme
 
-Né en -440 à Athènes, Antisthène fut sophiste avant de suivre l'enseignement de Socrate et finir par fonder l'école cynique vers -390. Les cyniques enseignaient la désinvolture et l'humilité, l'étymologie signifiant chien ce mode de pensée revient à se considérer comme un simple animal domestique vivant en société.
+Né en -440 à Athènes, Antisthène fut sophiste avant de suivre l'enseignement de Socrate et finir par fonder l'école cynique vers -390. Les cyniques enseignaient la désinvolture et l'humilité, l'étymologie signifiant littéralement chien, ce mode de pensée revient en grande partie à se considérer comme un simple animal domestique vivant en société.
 
-Diogène de Sinope, un des cyniques les plus connus, aurait même déclaré vouloir être "enterré comme un chien", montrant ainsi son désintérêt pour la sépulture ou les funérailles, et indirectement pour sa propre personne. A l'instar de Socrate, il se considérait citoyen du monde, à cet effet il forgea l'usage du mot cosmopolite.
+Diogène de Sinope, un des cyniques les plus connus, aurait même déclaré vouloir être "enterré comme un chien", montrant ainsi son désintérêt pour la sépulture ou les funérailles, et indirectement pour sa propre personne. A l'instar de Socrate, il se considérait citoyen du monde, à cet effet il forgea l'usage du mot *cosmopolite*.
 
 Ce genre de comportements et mode de pensée inspirera beaucoup les stoïciens par la suite, notamment dans la rapport à la mort et aux événements marquants.
 
@@ -836,7 +834,7 @@ Pour eux la matière prévaut sur les idées, faisant d'eux des matérialistes a
 
 #### Platon
 
-Né vers -**428**, Platon faisait la distinction entre le monde intelligible et sensible, il est pour cela parfois considéré comme idéaliste. Ce mouvement est caractérisé par l'axiome que toute réalité est liée à une idée, ou états d'esprit des observateurs, sans lequel le monde n'existe pas de manière autonome, n'étant qu'une représentation que l'on en fait. Plaçant la pensée au dessus et comme plus importante que le monde matériel, à l'inverse du matérialisme formulé bien plus tard au 18 ème siècle, prônant que l'esprit et la conscience ne sont le résultat d’interactions matérielles.
+Né vers -**428**, Platon faisait la distinction entre le monde intelligible et sensible, il est pour cela parfois considéré comme idéaliste. Ce mouvement est caractérisé par l'axiome que toute réalité est liée à une idée, ou états d'esprit des observateurs, sans lequel le monde n'existe pas de manière autonome, n'étant qu'une représentation que l'on en fait. Plaçant la pensée au dessus, et comme plus importante que le monde matériel, à l'inverse du matérialisme qui ne sera en réalité formulé clairement que bien plus tard, au 18 ème siècle, prônant que l'esprit et la conscience ne sont le résultat d’interactions matérielles.
 
 Cependant Platon déclare que les deux mondes forment une dualité, dans la théorie des formes et des idées qu'il formula, il soutient que l'esprit forme des abstractions intelligibles de ce que nous percevons du réel à travers notre sensibilité, des modèles, ou archétypes, permettant d’assimiler une information, et ainsi de la reconnaître, voire la comprendre. Les idées existent donc au delà de la pensée, elles sont immuables et universelles.
 
@@ -844,7 +842,7 @@ Il fonda l’Académie, à Athènes, basée sur l'école Pythagoricienne, qui fo
 
 Vers l'an -407 il fut introduit à Socrate, avec qui il partages bien d'idées, notamment concernant la démocratie, déclarant qu'un dirigeant doit être philosophe, avoir conscience de ses actes et du monde qu'il entoure, du bien et du mal. Il fut d'ailleurs impliqué en politique avant de la fuir lorsque le gouvernement despotique des Trente tyrans commit nombre d’exécutions et actes injustes.
 
-Simone Weil à dans son livre *La Source grecque* rapporter de lui qu'il affirmait et répétait ne rien avoir inventé, ne suivant qu'une tradition et s'inspirant des autres penseurs le précédent, notamment les Pythagoriciens.
+Simone Weil à dans son livre *La Source grecque* rapporté de lui qu'il affirmait et répétait ne rien avoir inventé, ne suivant qu'une tradition et s'inspirant des autres penseurs le précédent, notamment les Pythagoriciens.
 
 
 
@@ -862,6 +860,10 @@ Cette abstraction que sont les mathématiques, basée initialement sur des axiom
 
 Les mathématiques pures, tendent à la généralité, ou comme on le dirait en langage de mathématicien, vers la factorisation, c’est à dire la simplification d’un concept sous une forme plus courte, et facile à comprendre, et donc à transmettre et réutiliser. Notez que c'est également une notion très utilisée en programmation, la refactorisation. Elle fait parti des bonnes habitudes et de l'amélioration continue.
 
+
+
+#### Sténographie
+
 Ce processus de réécriture syntaxique, trouve ses plus vieilles traces connues a la même période, le langage SMS serait avéré par le bibliographe et doxographe, Diogène Laërce, les premières traces remonteraient ainsi à **405 avant J.-C**., date à laquelle Xénophon, élève de Socrate, aurait usé de *sténographie* pour transcrire les discours de son maître, face au besoin d'écrire rapidement et idéalement à la vitesse de la parole. La sténographie, du grec ancien "écriture courte", est un procédé de tachygraphie signifiant "écriture rapide".
 
 Les mathématiques appliquées, quand à elles, utilisent ces concepts sur des domaines très spécifiques, pour exemple, la géométrie, étymologiquement "science de la mesure du terrain", à été développée dans l’Égypte antique pendant **les trois siècles avant J.-C.** , à partir du besoin de mesurer la superficie d’un champ, aussi appelée arpentage.
@@ -872,13 +874,15 @@ Les mathématiques appliquées, quand à elles, utilisent ces concepts sur des d
 
 Né en **-384**, il étudia 20 ans à l’Académie de Platon, et fonda par la suite le Lycée.
 
-Il était confiant en la sensation, qui permet la perception et la cognition du monde réel, qui ne nécessite selon lui pas un scepticisme constant. Il nuança son propos en disant que c'est une première ouverture vers le savoir, qu'il faut mélanger avec le savoir d'autrui, de gens sérieux, expert du domaine, et sans prendre ce qui est dit pour véridique mais pour tester leur capacité a se rapprocher du réel et d'une vérité universelle.
+Il était confiant en la sensation, qui permet la perception et la cognition du monde réel, qui ne nécessite selon lui pas un scepticisme constant. Il nuança son propos en disant que c'est une première ouverture vers le savoir, qu'il faut mélanger avec le savoir d'autrui, de gens sérieux, expert du domaine, et sans prendre ce qui est dit pour véridique, mais pour tester leur capacité à se rapprocher du réel et d'une vérité universelle.
 
-Il rejoindra Platon sur la théorie des formes et des idées et archétypes ainsi que son alégorie de la caverne.
+Il rejoindra Platon sur la théorie des formes et des idées et archétypes ainsi que son allégorie de la caverne.
 
-La science de la biologie serait née d'Aristote et Théophraste, respectivement en charge de documenter la faune et la flore. Aristote à également défendu l'idée d'une terre sphérique, justifiée par la courbure des éclipses de lunes et la force centripète. Dans l'usage il se considérait au même titre que les autres philosophes, comme doxographe, restranscrivant les opinions soutenus par d'autres ou le plus grand nombre, Le philosphe doit faire preuve de metacognition pour se rendre compte des informations qu'il à sa disposition et qu'elles déductions en tirer, toujours dans l'idée d'accumuler du savoiret de s'élever tel un érudit vertueux.p
+La science de la biologie serait née d'Aristote et Théophraste, respectivement en charge de documenter la faune et la flore. Aristote à également défendu l'idée d'une terre sphérique, justifiée par la courbure des éclipses de lunes et la force centripète. Il a également inventé le terme de doxographie, signifiant opinion écrite, et se considérait ainsi, au même titre que les autres philosophes, comme un doxographe, retranscrivant les opinions soutenues par d'autres ou le plus grand nombre en accord avec son système de pensée.
 
-Il a également inventé le terme de doxographie, signifiant opinion écrite.
+Il dira également que le philosophe doit faire preuve de métacognition, afin de se rendre compte des informations qu'il à sa disposition, et de qu'elles déductions en tirer, toujours dans l'idée d'accumuler du savoir et de s'élever tel un érudit vertueux.
+
+
 
 Aristote éthique, bien, reves (lucide)
 
@@ -888,13 +892,13 @@ Aristote éthique, bien, reves (lucide)
 
 Zénon de Kition, posa les bases du stoïcisme en l'an **-301**, pour les stoïques, la mort est une *indifférence*, qui n'est ni un *mal*, ni un *bien*, ces trois choses formant le monde selon lui l'existence du monde réel. Il existe cependant des indifférences préférables, on préférera par exemple la maladie à la mort.
 
-Nos désirs et nos craintes sont causés par nos représentations, lesquelles peuvent être changées, pour autant, le stoïcisme n'appelle pas à se persuader du contraire ni de s'auto-détourner-cognitivement (gasligher), mais à prendre en compte les choses telles qu'elle sont et s'en détacher, afin de se rapprocher de la vertu et s'éloigner des émotions, surtout négatives. Cela revient à une certaine apathie constante, du latin *apatheia* qui signifie absence de passions, et qui est généralement synonyme d’impassibilité et d'indifférence à l'émotion, d'où l'expression "rester stoïque". C'est le seul moyen selon eux d'être exempt de troubles et d'atteindre la tranquillité de l'âme, aussi appelée ataraxie.
+Nos désirs et nos craintes sont causés par nos représentations, lesquelles peuvent être changées, pour autant, le stoïcisme n'appelle pas à se persuader du contraire ni de s'auto-détourner-cognitivement (gasligher), mais à prendre en compte les choses telles qu'elle sont et s'en détacher, afin de se rapprocher de la vertu et s'éloigner des émotions, surtout celles négatives. Cela revient à une certaine apathie constante, du latin *apatheia* qui signifie absence de passions, et qui est généralement synonyme d’impassibilité et d'indifférence à l'émotion, d'où l'expression "rester stoïque". C'est le seul moyen selon eux d'être exempt de troubles et d'atteindre la tranquillité de l'âme, aussi appelée *ataraxie*.
 
 Ce qui importe le plus pour les stoïciens est la vertu, qu'elle soit physique, éthique ou logique. Indissociable du bien, être vertueux ne reposerai selon eux que sur la tempérance et la prudence. Le sage doit avoir un recul sur les choses, être rationnel, ses activités ne doivent pas s'arrêter pour autant, elles doivent cependant être à l'origine de la raison et non de l'envie.
 
 Concernant la théologie, pour les stoïciens Dieu est tout, mais pas dans le sens d'une divinité qui aurait un impact sur le monde. Sénèque dira même que "La nature ne peut pas plus exister sans Dieu, que Dieu sans la nature. L'un et l'autre sont une même chose", ce concept de "Dieu est tout" corresponds au *panthéisme*, et sera repris plus tard par d'autres philosophes comme Spinoza.
 
-La philosophie stoïque sera également reprise par beaucoup de personnalités par la suite, comme Ciceron, Épictère ou Marc Aurèle, mais aussi par des œuvres de pop cultures plus récentes, dans Star Wars, les jedis sont stoiciens, Maitre Yoda prononçant des phrases telles que "exerce ta volonté à renoncer a tout ce que tu craint de perdre un jour".
+La philosophie stoïque sera également reprise par beaucoup de personnalités par la suite, comme Ciceron, Épictère ou Marc Aurèle, mais aussi par des œuvres de pop cultures plus récentes, dans Star Wars, les jedis sont stoiciens, Maitre Yoda prononçant des phrases telles que "exerce ta volonté à renoncer à tout ce que tu craint de perdre un jour".
 
 https://www.youtube.com/watch?v=iE08wLRGPcQ
 
@@ -902,9 +906,7 @@ https://www.youtube.com/watch?v=iE08wLRGPcQ
 
 #### Géométrie Euclidienne
 
-C'est vers **-300** qu'Euclide rédige *Éléments*, un traité de mathématique sur la géométrie et l’arithmétique, qui à façonner ces discipline dans les pays orientaux. Cet ouvrage à été réédité de multiples fois et traduit par de nombreux savants, dont certains cités quelques paragraphes plus loin. On lui doit la méthode de calcul du PGCD qui est nommée algorithme d'Euclide, la division Euclidienne, et bien sur sa géométrie.
-
-
+C'est vers **-300** qu'Euclide rédige *Éléments*, un traité de mathématique sur la géométrie et l’arithmétique, qui à façonné ces discipline dans les pays orientaux. Cet ouvrage à été réédité de multiples fois et traduit par de nombreux savants, dont certains cités quelques paragraphes plus loin. On lui doit la méthode de calcul du PGCD qui est nommée algorithme d'Euclide, la division Euclidienne, et bien sur sa géométrie.
 
 En définitive, cette discipline que sont les mathématiques est une philosophie en soit, c'est a dire un système d'idées permettant de conceptualiser et visualiser le monde tout en le quantifiant. Même étymologiquement on remarque une proximité entre les deux mots pour le savoir, par le partage de connaissance dont on profite lors d'une leçon d'autrui.
 
@@ -914,7 +916,7 @@ En définitive, cette discipline que sont les mathématiques est une philosophie
 
 Archimède de Syracuse est né en **-287**, il fut élève d'Euclide. On lui doit le fameux théorème de la poussée du même nom et l'explication du principe du levier, mais aussi la vis d'Archimède ou le palan qui permet de soulever des charges à l'aide d'un double système de poulies.
 
-Considéré comme le plus grand mathématicien de l'Antiquité, il a apporté beaucoup à la géométrie pour laquelle il a étudier et rédigé des traité sur les cônes, spirales, cylindres, paraboles, et cercles ; mais aussi à la mécanique.
+Considéré comme le plus grand mathématicien de l'Antiquité, il a apporté beaucoup à la géométrie pour laquelle il a étudié et rédigé des traité sur les cônes, spirales, cylindres, paraboles, et cercles ; mais aussi à la mécanique.
 
 On lui doit également le fameux "Eureka !" signifiant "J'ai trouvé !" ou le "Donnez-moi un levier, un point fixe, et je soulèverai la Terre."
 
@@ -934,7 +936,7 @@ A partir de **-130** se développe l'une des voie de transport et d'échange de 
 
 #### Vitruve
 
-Marcus Vitruvius Pollio est un architecte romain qui à œuvrer pendant le **1er siècle avant J.-C.**
+Marcus Vitruvius Pollio est un architecte romain qui a œuvré pendant le **1er siècle avant J.-C.**
 
 Il nous a transmis beaucoup de choses liées à Archimède, il aurait rapporté l'anecdote où ce dernier détecte une supercherie dans la composition d'une couronne royale prétendument en or massif, en la comparant avec une masse d'or identique en immersion dans un volume d'eau, afin d'en comparer le rapport avec le volume. Il a également décrit comment construire une vis d'Archimède, qui était très utile pour drainer de l'eau.
 
@@ -946,7 +948,7 @@ Il a longtemps milité pour ne pas transporter l'eau à l'aide de tuyaux en plom
 
 Toujours en rapport avec la construction et l'eau, il décrira le chorobate, un niveau à eau utilisé pour s'assurer que les aqueducs aient la bonne inclinaison et véhiculent correctement l'eau, ainsi que l'agencement idéal de bains chaud à côté de bains tièdes, suivis par les bains froids, afin d'avoir une meilleure efficacité thermique, avec l'aide de ventilations manuelles. Il a également développé l'un des premiers odomètre permettant un comptage kilométrique, et des roues à aubes. Enfin il eu décrit des constructions marines telles que les brise-lame, les jetées et les quais.
 
-D'un point de vue de l'information, Vitruve à réaliser un travail de recherche et de retransmission très efficace dans le domaine de la construction liée à l'eau. Son livre "De architectura" est le seul qui nous reste sur l’architecture de l’Antiquité classique. Malgré ses quelques innovations il a surtout posé les codes de l'architecture et de la construction, devant être solide, utile et belle. 
+D'un point de vue de l'information, Vitruve a réalisé un travail de recherche et de retransmission très efficace dans le domaine de la construction liée à l'eau. Son livre "*De architectura*" est le seul qui nous reste sur l’architecture de l’Antiquité classique. Malgré ses quelques innovations il a surtout posé les codes de l'architecture et de la construction, devant être solide, utile et belle. 
 
 Les six principes théoriques qui les régissent étant l'ordonnance, la disposition, l'harmonie, la symétrie, la convenance, et la distribution. En effet pour mener de telles réalisations architecturales à bien, il fallait naturellement que la création soit bien disposée dans son environnement, afin d'avoir une certaine harmonie et un design symétrique, autant par praticité que pour la beauté et imitation de la nature. Enfin, l'ordonnance, la convenance, et la distribution, sont nécessaires pour gérer les équipes travaillant sur un projet, afin que tout le monde y trouve son compte dans sa réalisation.
 
@@ -954,7 +956,7 @@ Les six principes théoriques qui les régissent étant l'ordonnance, la disposi
 
 #### Héron
 
-Originaire d'Alexandrie, il serait né et aurait vécu pendant le **premier siècle après J.-C**. On lui attribut la création de la première machine à vapeur, l'Éolipyle, qui servait uniquement à distraire ses utilisateurs, l'énergie dégagée étant négligée. Pour autant, Vitruve aurait déjà eu mentionné de telles machines à l'époque, et il s'est avéré par la suite qu'Héron était postérieur à ce dernier qui décéda en -20, il a donc potentiellement abouti ou juste démocratiser cette machine.
+Originaire d'Alexandrie, il serait né et aurait vécu pendant le **premier siècle après J.-C**. On lui attribut la création de la première machine à vapeur, l'Éolipyle, qui servait uniquement à distraire ses utilisateurs, l'énergie dégagée étant négligée. Pour autant, Vitruve aurait déjà eu mentionné de telles machines à l'époque, et il s'est avéré par la suite qu'Héron était postérieur à ce dernier qui décéda en -20. Il a donc potentiellement abouti ou juste démocratiser cette machine, qu'il a perfectionné au point de pouvoir ouvrir les portes d'un temple, a la force de la vapeur, obtenue en chauffant de l'eau a l'aide du feu d'un autel.
 
 
 
@@ -2310,7 +2312,7 @@ L'intelligence est selon moi la capacité d'utiliser ses connaissances et sa com
 
 ChatGPT n'est pas capable de raisonnement mais il fourni une solution mathématique probabiliste à un énoncé textuel. Il connais les mots qui le compose, sait qu'il y a tant de probabilité qu'ils y soient liés et les assemble de manière à proposer une réponse elle même textuelle.
 
-
+Quand j'écris ma pensée, définie par son intention est claire, j'ai du mal a comprendre les philosophes antiques qui auraient dit ne pas vouloir transmettre leurs pensés à l'écrit car elle ne peut alors plus se défendre elle même. Bien que rappelons le a cet époque l'imprimerie n"existe pas encore, rendant la tâche plus complexe et rebutante.
 
 Touches modifier sur clavier, sélection multiple, effets, validation, suppression 
 
@@ -2318,9 +2320,29 @@ Touches modifier sur clavier, sélection multiple, effets, validation, suppressi
 
 [...]
 
-Pourquoi la programmation est-elle aussi peu démocratisée ?
+### Pourquoi la programmation est-elle aussi peu démocratisée ?
 
-[...]
+Soyons franc, pas tout le monde n'a besoin de savoir coder. La meilleur qualité d'un codeur n'est d'ailleurs pas savoir coder, c'est sa capacité à proposer une solution logique à un problème de donnée.
+
+Je vais donc répondre à cette question avec quelques informations statistiques.
+
+En 2013, 1 personne sur 623 était développeur professionnel, soit 0,16 % de la population mondiale. Et 1 personne sur 387 savait alors coder, soit 0.26%. En novembre 2022, la population a dépassé les 8 milliards d'habitants, celle des développeurs représente alors 27.7 millions, soit 0.35%.
+
+La même année, 40 % des recruteurs prévoyaient d’embaucher 50 développeurs ou plus. L’étude liée à cette information note également que le pourcentage de ceux qui recrutent de 201 à 500 personnes a doublé par rapport à 2021. Le problème le plus notable est dans le web où il y'a 60 postes disponible pour 38 développeur en demande d'emploi.
+
+- 70 % des développeurs plébiscitent le travail à distance - complet ou partiel.
+- 57 % des recruteurs se déclarent prêts à se passer du CV du processus de recrutement. 
+- Le pourcentage de recruteurs qui recrutent des développeurs sans bagage académique a presque doublé (de 23% en 2021 à 39% en 2022). 
+- 42 % des recruteurs souhaitent utiliser des solutions d'évaluation basées sur les compétences pour améliorer la diversité. 
+- L'expérience candidat est la première priorité dans laquelle les recruteurs prévoient d'investir pour 2022. [^1]
+
+[^1]: https://www.codingame.com/work/fr/codingame-coderpad-tech-hiring-survey-2022/
+
+Il y'a donc des opportunités immenses pour les autodidactes et les écoles en informatique. Mais la discipline requiert des études avancés, et qui ne sont pas ou trop peu enseigné lors de l'instruction obligatoire au lycée.
+
+C'est également une discipline en constant changement, qui requiert beaucoup de connaissances et de pratique. Les développeurs expérimentés sont logiquement très recherché. Pour les mêmes raison, c'est dur d'être dévoué à se domaine, nombre de personnes le quitteront pour quelque chose qui leur convient mieux. Cependant c'est une science et technologie qui est désormais omniprésente dans nos vies et apprentissages. Je suis donc d'avis qu'une généralisation de l'introduction à la programmation en cours de technologie au collège, permettrait aux élèves de savoir si ce domaine les intéresse, d'avoir la possibilité de choisir de prendre cette discipline au lycée, ou juste de pouvoir apprendre par lui même tout en continuant dans une autre voie.
+
+
 
 Pourquoi un outil censé résoudre un problème en cause parfois des bloquants ?
 
