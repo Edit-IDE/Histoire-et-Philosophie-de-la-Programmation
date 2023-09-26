@@ -826,7 +826,7 @@ Né en -440 à Athènes, Antisthène fut sophiste avant de suivre l'enseignement
 
 Diogène de Sinope, un des cyniques les plus connus, aurait même déclaré vouloir être "enterré comme un chien", montrant ainsi son désintérêt pour la sépulture ou les funérailles, et indirectement pour sa propre personne. A l'instar de Socrate, il se considérait citoyen du monde, à cet effet il forgea l'usage du mot *cosmopolite*.
 
-Ce genre de comportements et mode de pensée inspirera beaucoup les stoïciens par la suite, notamment dans la rapport à la mort et aux événements marquants.
+Ce genre de comportements et modes de pensée inspirera beaucoup les stoïciens par la suite, notamment dans le rapport à la mort et aux événements marquants.
 
 Pour eux la matière prévaut sur les idées, faisant d'eux des matérialistes anticonformistes en opposition avec les idéalistes de l'époque. Ils pratiquent notamment la contestation et l'ironie, dans le but de démontrer que les règles sociales et les interdits ne sont pas essentiels, pour eux, seul l'éthique naturelle et universelle qu'est la vertu importe.
 
@@ -928,21 +928,23 @@ On lui doit également le fameux "Eureka !" signifiant "J'ai trouvé !" ou le "D
 
 #### Ctésibios
 
-Moins connu mais pas des moindres, Ctésibios est un ingénieur né en **-284** à Alexandrie, où il aurait fondé l'école des mécanicien. Il s'intéressa dès son plus jeune âge à la mécanique et aux machines hydrauliques, à seulement seize ans, il inventa un monte-charge hydraulique. Fils de barbier, il utilisa la pneumatique pour réaliser un miroir ajustable à souhait, cette technologie est encore utilisée aujourd'hui dans les ressorts de rappels pour la fermeture des portes. Il a également perfectionné la clepsydre, en ajoutant un réservoir intermédiaire maintenu à un niveau constant permettant un flux qui l'est aussi, offrant une mesure du temps plus précise. S'ajoute à cela l'invention du premier orgue de l'histoire, à l'aide des pistons, soupapes et claviers dont il est aussi à l'origine, à une époque ou les moyens techniques sont pourtant limités. 
+Moins connu mais pas des moindres, Ctésibios est un ingénieur né en **-284** à Alexandrie, où il aurait fondé l'école des mécanicien. Il s'intéressa dès son plus jeune âge à la mécanique et aux machines hydrauliques, à seulement seize ans, il inventa un monte-charge hydraulique. Fils de barbier, il utilisa la pneumatique pour réaliser un miroir ajustable à souhait, cette technologie est encore utilisée aujourd'hui dans les ressorts de rappels pour la fermeture des portes.
 
-l’horloge musicale, la canon à eau.
+Il a également perfectionné la clepsydre, en ajoutant un réservoir intermédiaire maintenu à un niveau constant permettant un flux qui l'est aussi, offrant une mesure du temps plus précise. S'ajoute à cela l'invention du premier orgue de l'histoire, à l'aide des pistons, soupapes et claviers dont il est aussi à l'origine, à une époque ou les moyens techniques sont pourtant limités. Enfin, il a également travaillé sur le canon à eau, capable d'envoyer des projectiles par dessus des remparts, et perfectionner le système de distribution d'eau dans la ville d'Alexandrie.
 
 
 
 #### Philon de Byzance
 
-Né en **-280**
+Né en **-280**, il est le plus ancien mécanicien dont on a retrouvé la majorité de l’œuvre, ses travaux vont être utilisé de l'Empire romain au 10 ème siècle. Il rédigera moult traités, sur les leviers, pneumatiques, automates, clepsydres, constructions, roues et machines de guerres. Il a documenté beaucoup de choses dans ses domaines et c'est grâce à lui que l'on connaît les réalisations de Ctésibios. Il est également inventeur, ou du moins a été le premier à décrire le thermoscope, permettant de visualiser les différences de températures.
+
+Il réalisera également des automates sonores et systèmes d'approvisionnement automatiques de liquide, dont un automate de servante, permettant à l'utilisateur d'y déposer un verre, déclenchant un système faisant s'écouler du vin puis de l'eau, avec la possibilité de retirer son verre avant ou pendant l'écoulement de l'un ou de l'autre pour stopper le mécanisme. 
 
 
 
 #### Calculateurs analogiques
 
-Le plus ancien calculateur analogique attesté est l'Anticythère en **-150**, c'est le plus vieux mécanisme à engrenage connu. Réalisé en bronze, il servait à prédire les éclipses solaires et lunaires.  Il est constitué notamment d'un cadran de 233 positions correspondant au nombre de mois espaçant deux éclipses, soit un cycle nommé Saros ; d'un cadran métonique pour indiquer le mois et l'année ; et d'un cadran de 365 positions, correspondant au nombre de jours d'une année civile du calendrier Egyptien, décrit dans le Papyrus Rhind. Ainsi, en actionnant les engrenages à l'aide d'une potentielle manivelle non retrouvée sur l'Anticythère, on pouvait retrouver les différentes dates des éclipses.
+Le plus ancien calculateur analogique attesté est l'Anticythère en **-150**, c'est le plus vieux mécanisme à engrenage connu. Réalisé en bronze, il servait à prédire les éclipses solaires et lunaires.  Il est constitué notamment d'un cadran de 233 positions correspondant au nombre de mois espaçant deux éclipses, soit un cycle nommé Saros ; d'un cadran métonique pour indiquer le mois et l'année ; et d'un cadran de 365 positions, correspondant au nombre de jours d'une année civile du calendrier Égyptien, décrit dans le Papyrus Rhind. Ainsi, en actionnant les engrenages à l'aide d'une potentielle manivelle non retrouvée sur l'Anticythère, on pouvait retrouver les différentes dates des éclipses.
 
 
 
@@ -974,7 +976,7 @@ Les six principes théoriques qui les régissent étant l'ordonnance, la disposi
 
 #### Héron
 
-Originaire d'Alexandrie, il serait né et aurait vécu pendant le **premier siècle après J.-C**. On lui attribut la création de la première machine à vapeur, l'Éolipyle, qui servait uniquement à distraire ses utilisateurs, l'énergie dégagée étant négligée. Pour autant, Vitruve aurait déjà eu mentionné de telles machines à l'époque, et il s'est avéré par la suite qu'Héron était postérieur à ce dernier qui décéda en -20. Il a donc potentiellement abouti ou juste démocratiser cette machine, qu'il a perfectionné au point de pouvoir ouvrir les portes d'un temple, à la force de la vapeur, obtenue en chauffant de l'eau a l'aide du feu d'un autel. Il à également réalisé de multiples automates pour des pièces de théâtre.
+Originaire d'Alexandrie, il serait né et aurait vécu pendant le **premier siècle après J.-C**. On lui attribut la création de la première machine à vapeur, l'Éolipyle, qui servait uniquement à distraire ses utilisateurs, l'énergie dégagée étant négligée. Pour autant, Vitruve aurait déjà eu mentionné de telles machines à l'époque, et il s'est avéré par la suite qu'Héron était postérieur à ce dernier qui décéda en -20. Il a donc potentiellement abouti ou juste démocratiser cette machine, qu'il aurait, selon ses explications dans son livre *Pneumatica*, perfectionné au point de pouvoir ouvrir les portes d'un temple, à la force de la vapeur, obtenue en chauffant de l'eau à l'aide du feu d'un autel. Il à également réalisé de multiples automates pour des pièces de théâtre.
 
 
 
@@ -987,6 +989,12 @@ Né vers l'an **70**, également dans la ville d'Alexandrie, Ménélaos était u
 #### Ptolémée
 
 Claude Ptolémée, est un astronome, astrologue, mathématicien, et géographe grec né vers l'an **100**, tout comme Aristote, il pensait que nous étions dans un système géocentrique, ou les planètes et le soleil tournerait autour de la Terre. Malgré cela, il eu rédiger des tables mathématiques très utilisés à l'époque car elle permettait de calculer avec une précision la position des astres et les éclipses de manière suffisante.
+
+
+
+#### Bilan de la période
+
+Les différents penseurs de l'Antiquité ont alors définit la base de l'information en modules, concept très utilisé ayant permis une standardisation des idées, une base commune permettant d'avoir un language commun
 
 
 
@@ -1601,7 +1609,7 @@ En 9 décembre **1905**, l'abrogation du régime concordataire de 1802 met fin �
 
 #### Triode
 
-Lee De Forest invente l'Audion en **1906** avec l'ajout d'une électrode intermédiaire permettant de convertir une variation de courant en variation de tension et de puissance, permettant ainsi l'amplification d'un signal. William Eccles renommera cette invention triode en 1919.
+Lee De Forest invente l'Audion en **1906** avec l'ajout d'une électrode intermédiaire, permettant de convertir une variation de courant en variation de tension et de puissance, permettant ainsi l'amplification d'un signal. William Eccles renommera cette invention triode en 1919.
 
 Tout deux ont contribuer pour beaucoup dans le développement des circuits électroniques et de la transmission sans fil avec la naissance de la radio.
 
