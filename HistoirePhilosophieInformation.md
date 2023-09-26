@@ -1733,7 +1733,7 @@ Cette architecture à permis à permis au stockage de posséder les instructions
 
 
 
-Même si il a été pensé par 2 hommes, l'ENIAC à été programmé par 6 femmes, qui ont du documenter, coder et brancher des millions de cables
+Même si il a été pensé par 2 hommes, l'ENIAC à été programmé par 6 femmes, qui ont du documenter, coder et brancher des millions de cables, il a été réalisé à la Moore School de l'université de Pennsylvanie à partir de juin 1943
 
 Elisabeth Findler Jake, nom de domaines, whois nom de domaine (page jaunes) Alors que la silicon vallait est encore loin.
 
@@ -1751,7 +1751,15 @@ De grands projets à forte complexité en découlent, elle amènent à un besoin
 
 
 
+#### Projet Whirlwind I
 
+Initialement chiffré à 200'000 pour deux ans de développement fin, pour finalement atteindre les 8 millions de dollars pour huit ans ; ce projet de simulateur de l'espace aérien à l'échelle des États-Unis était un projet top secret américain. Bien qu'il ai coûté une fortune, cet ordinateur constitué de tubes à vides est l'un des premiers à avoir utilisé de la mémoire à tores de ferrites, mais surtout à avoir permis des sorties en temps réel, ayant influencé cette technologie et battit les fondations de l'industrie informatique jusqu'à aujourd'hui.
+
+Cet ordinateur devant simuler les sorties d'un avion et même potentiellement de n'importe quel avion, sur le territoire américain, il est évident que pour que le pilote ai une expérience réaliste, les affichages et donc les valeurs sorties de l’ordinateur soit toujours à jour, nécessitant du temps réel, c'est pourquoi Jay W. Forrester, la personne en charge du projet, fit la rencontre de Perry O. Crawford Jr. Ce pionnier de l'informatique était alors l'un des premier si ce n'est le premier, à avoir réalisé et par la suite promu, les mérites des ordinateurs numériques au profit des analogues, notamment pour ce genre de problème de temps réel, et ce avant même que de tels ordinateurs ne soit construit, le premier étant l'ENIAC en 1945. Crawford et Forrester l'ont découvert à la fin de la guerre, lorsque les projets secret militaire ont alors été révélé, à l'occasion d'une conférence du MIT sur les Techniques de Calcul Avancés.
+
+Mais alors que les budgets sont revus à la baisse du à la fin de la guerre, le projet Whirlwind est mis en danger, et sa faisabilité à court terme remise en cause.
+
+Crawford avait prédit que le temps réel ne permettrait pas seulement la simulation d'un avion, mais la visualisation en temps réel de tout le trafic aérien comme c'est le cas aujourd'hui en source ouverte.
 
 
 
