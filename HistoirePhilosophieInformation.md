@@ -826,7 +826,7 @@ Né en -440 à Athènes, Antisthène fut sophiste avant de suivre l'enseignement
 
 Diogène de Sinope, un des cyniques les plus connus, aurait même déclaré vouloir être "enterré comme un chien", montrant ainsi son désintérêt pour la sépulture ou les funérailles, et indirectement pour sa propre personne. A l'instar de Socrate, il se considérait citoyen du monde, à cet effet il forgea l'usage du mot *cosmopolite*.
 
-Ce genre de comportements et modes de pensée inspirera beaucoup les stoïciens par la suite, notamment dans le rapport à la mort et aux événements marquants.
+Ce genre de comportements et mode de pensée inspirera beaucoup les stoïciens par la suite, notamment dans la rapport à la mort et aux événements marquants.
 
 Pour eux la matière prévaut sur les idées, faisant d'eux des matérialistes anticonformistes en opposition avec les idéalistes de l'époque. Ils pratiquent notamment la contestation et l'ironie, dans le but de démontrer que les règles sociales et les interdits ne sont pas essentiels, pour eux, seul l'éthique naturelle et universelle qu'est la vertu importe.
 
@@ -2260,7 +2260,7 @@ beats Gary Kasparov  in **1997**
 
 ### Bilan passé
 
-Bien que les prémices de l'informatique viennent de l'Époque moderne, au 17 ème siècle, période avec un besoin grandissant de calcul ; elle naquit après la révolution industrielle au 19&nbsp;ème siècle lors de l'Époque contemporaine, et ne commence à réellement émerger qu'après la seconde guerre mondiale qui marque le début d'une nouvelle ère de progrès technologiques, accompagnée d'une forte augmentation de la démographie mondiale causée par le baby boom.
+Bien que les prémices de l'informatique viennent de l'Époque moderne, au 17 ème siècle, période avec un besoin grandissant de calcul ; elle naquit après la révolution industrielle, au 19&nbsp;ème siècle lors de l'Époque contemporaine, et ne commence à réellement émerger qu'après la seconde guerre mondiale qui marque le début d'une nouvelle ère de progrès technologiques, accompagnée d'une forte augmentation de la démographie mondiale causée par le baby boom.
 
 
 
@@ -2334,7 +2334,9 @@ Suite à Atom publié par GitHub le 26 février 2014, bien avant son rachat en 2
 
 En arrivant en DUT informatique en 2016, je n'avais programmé qu'en BASIC sur une calculatrice Texas Instrument, je ne m'attendais pas à autant de complexité lors de mon apprentissage du C ou de Bash. Je ne comprenais souvent les concepts qu'après les contrôles lors de la correction, me rendant compte de mes erreur et reajustant ma version de ce qui etait bon en fonction.
 
-J'ai rapidement découvert les compilateurs, qui indiquent les erreurs tant bien que mal, qui ont parfois eux même des erreurs ou manque de precision, et necessitant de comprendre pleinement son fonctionnement et son propre code pour arriver a trouver et corriger le probleme. Cela peut etre decourageant pour beaucoup, et cest d'ailleurs certainement une des raisons pour lesquelles une bonne partie abandonnent en premiere annee.
+J'ai rapidement découvert les compilateurs, qui indiquent les erreurs tant bien que mal, qui ont parfois eux même des erreurs ou manques de précisions, et nécessitant de comprendre pleinement son fonctionnement et son propre code pour arriver à trouvé et corriger le problème. Cela peut etre décourageant pour beaucoup, et c'est d'ailleurs certainement une des raisons pour lesquelles une bonne partie abandonnent en première année.
+
+
 
 La mode n'est que passagère, il n'y a que les habitudes de vies et s'en tenir à un plan structuré et cohérent qui reste dans l'histoire.
 
@@ -2384,11 +2386,14 @@ Et un réel décalage entre offre et demande, nous observons des signaux forts c
 
 ### Pourquoi un outil censé résoudre un problème en cause parfois des bloquants ?
 
-[...]
+Les outils no-code fleurissent ses dernières années, ils permettent certes la réalisation de produits plus rapidement qu'un partant d'un cadriciel et en le codant soi même. Cependant dès que l'on désire un rendu différant de ce qui est proposé par le service, on se retrouve bloqué ou nécessitant du code, les services le proposant étant considérés comme low-code.
+
 
 
 
 A la manière de Platon, je n'ai rien inventé, les idées sont immuables et universelles, elle appartiennent à personne.
+
+On ne juge pas quelqu'un sans connaitre ses souffrances.
 
 Tout est temps, c'est l’écoulement des choses, l'itération des actions qui s'écrivent et se succèdent.
 
@@ -2402,7 +2407,7 @@ En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une 
 
 
 
-Je veut créer des indiférences
+Je veut créer des indiférences, et aller du global vers le particulier.
 
 
 
