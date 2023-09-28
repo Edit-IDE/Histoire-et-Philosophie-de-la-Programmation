@@ -916,6 +916,16 @@ En définitive, cette discipline que sont les mathématiques est une philosophie
 
 
 
+#### Bibliothèque d'Alexandrie
+
+A cette période apparaissent des Mouseîon, institutions considérés comme des sanctuaires consacrés aux muses, déesses des arts. Celle d'Alexandrie restera la plus célèbre et abritera une bibliothèque éponyme fondée vers **-288**, c'est également la plus célèbre des bibliothèque, qui réunissait à son apogée environ 400 000 les plus importants ouvrages antiques, sous la forme de rouleaux de papyrus. Peu de personnes, dont Vitruve dont on reparlera plus tard, auront l'honneur de relater la vie qui été menée au Mouseîon et sa bibliothèque, avant qu'ils ne soient gravement endommagés vers  -47 et avérés intégralement détruit après l'an 642.
+
+Bien qu'une partie des œuvres ai été achetées, Ptolémée Ier qui succède alors à Alexandre le grand, aurai demandé à tout les navires arrivant à Alexandrie de transmettre les ouvrages qu'il transportait pour recopie, gardant l'original à la bibliothèque d'Alexandrie. Ce mode d’acquisition de l'information est l'ancêtre du dépôt légal incitant ou obligeant les producteurs et diffuseurs de déposer leurs œuvres pour les compiler dans le bien commun. Par la suite Ptolémée II demandera aux rois et grands de ce monde de transmettre leurs œuvre et ensuite Ptolémée V interdira l'exportation d’œuvres afin que la bibliothèque d’Alexandrie en ai l'exclusivité.
+
+On constate que l’acquisition et la rétention d'information est un pouvoir à part entière.
+
+
+
 #### Archimède
 
 Archimède de Syracuse est né en **-287**, il fut élève d'Euclide. On lui doit le fameux théorème de la poussée du même nom et l'explication du principe du levier, mais aussi la vis d'Archimède ou le palan qui permet de soulever des charges à l'aide d'un double système de poulies.
@@ -939,6 +949,12 @@ Il a également perfectionné la clepsydre, en ajoutant un réservoir intermédi
 Né en **-280**, il est le plus ancien mécanicien dont on a retrouvé la majorité de l’œuvre, ses travaux vont être utilisé de l'Empire romain au 10 ème siècle. Il rédigera moult traités, sur les leviers, pneumatiques, automates, clepsydres, constructions, roues et machines de guerres. Il a documenté beaucoup de choses dans ses domaines et c'est grâce à lui que l'on connaît les réalisations de Ctésibios. Il est également inventeur, ou du moins a été le premier à décrire le thermoscope, permettant de visualiser les différences de températures.
 
 Il réalisera également des automates sonores et systèmes d'approvisionnement automatiques de liquide, dont un automate de servante, permettant à l'utilisateur d'y déposer un verre, déclenchant un système faisant s'écouler du vin puis de l'eau, avec la possibilité de retirer son verre avant ou pendant l'écoulement de l'un ou de l'autre pour stopper le mécanisme. 
+
+
+
+#### Pingala
+
+Vers l'an **-200**, ce poète mathématicien indien rédigera *Chandahsastra*, étymologiquement "Code de la prosodie". Il y étudiera mathématiquement la construction des phrases des poèmes sanskrits, par combinaisons de syllabes longues ou brèves. Formulant ainsi le texte connu le plus ancien traitant des nombres binaires, et de la métrique ou versification poétique. Il aurait également découvert la suite de Fibonacci et le triangle de Pascal.
 
 
 
@@ -1022,7 +1038,7 @@ Le passage à l'époque moderne se fera en 1492, année de la découverte occide
 
 #### Aryabhata
 
-Premier mathématicien et célèbre astronome indien né en **476**. Contrairement à Aristote, Ptolémée, et aux autres philosophes de l'époque précédente, pensants être dans un système géocentrique où la terre serait immobile ; Aryabhata quand à lui, affirma la rotation de la Terre.
+Mathématicien et célèbre astronome indien né en **476**. Contrairement à Aristote, Ptolémée, et aux autres philosophes de l'époque précédente, pensants être dans un système géocentrique où la terre serait immobile ; Aryabhata quand à lui, affirma la rotation de la Terre.
 
 Dans son traité de mathématiques Aryabhatiya, il explicite des algorithmes permettant de trouver la racine carrée et cubique, découvert par Héron auparavant. Il serait aussi le premier à avoir utilisé la demi-corde, ancêtre du sinus, pour le calcul d'angles dans un triangle, calculs grâces auxquelles il format une table de calcul trigonométriques précise de 0 à 90 degré.
 
@@ -1047,6 +1063,12 @@ Le mot Algorithme est né d'une longue déformation du nom "Al-Khwarizmi" par le
 
 Suivre les règles de l'Algèbre sera alors la pratique de l'algoriste qui algorisme.
 
+
+
+#### Frères Banou Moussa
+
+https://fr.wikipedia.org/wiki/Fr%C3%A8res_Banou_Moussa
+
 Banū Mūsā brothers
 
 
@@ -1054,6 +1076,12 @@ Banū Mūsā brothers
 #### Système de numération indo-arabe
 
 Les chiffres tels qu'on les connaît aujourd'hui proviennent du monde Arabe oriental, qui à partir de la fin du 7 ème siècle, entreprends un mécénat scientifique s’intéressant principalement aux sciences indiennes. Des bibliothèques se forment alors, et beaucoup de textes anciens sont alors traduits. Parmi eux, des tables de calculs, astronomiques, et même celles d'Aryabhata. Al-Khwarizmi aurait à cette occasion réécrit un système de symbole représentant les 10 chiffres, ressemblant fortement à ceux utilisés de nos jours.
+
+
+
+#### *Bayt al-Hikma* de Bagdad
+
+Maison de la sagesse, **832**
 
 
 
@@ -1099,7 +1127,7 @@ Probablement né en **1070**, il vécu jusqu'au début du 12 ème siècle où il
 
 Ayant vécu de **1170** à **1250**, Leonardo Fibonacci est le "chaînon manquant", qui aurait importé la notation indo-arabe aux mathématiques occidentales à une période où les chiffres romains prédominent. Il a en effet été éduqué à Béjaïa en actuelle Algérie, et aurait ramené entre autre cette fameuse notation à Pise, où son père était marchant et notaire public des douanes.
 
-Il est également réputé pour sa fameuse suite, bien que connue des Indiens depuis le 6e siècle, et liée au nombre d'or, proportion qui n'a pas été évoquée par Fibonacci et que l'on retrouve dans beaucoup de choses y compris des structures produites par la nature.
+Il est également réputé pour sa fameuse suite, bien que connue des Indiens depuis Pingala, et liée au nombre d'or, proportion qui n'a pas été évoquée par Fibonacci et que l'on retrouve dans beaucoup de choses y compris des structures produites par la nature.
 
 
 
@@ -1421,6 +1449,12 @@ Né en **1770**, dialectique du maître et de l'esclave. Travailler pour un maî
 
 
 
+#### Carl Friedrich Gauss
+
+Né en **1777**
+
+ 
+
 #### Friedrich Fröbel
 
 Né le 21 avril **1782**
@@ -1532,6 +1566,12 @@ En **1876** Alexander Graham Bell, réalise le premier appel téléphonique.
 #### Edison
 
 En **1879** il récupère le brevet pour la lampe à filament, qu'il n'a pas inventé mais démocratisée et améliorée, devenant le pionnier dans les lampes électriques. Il était donc essentiellement un homme d'affaire, il est considéré comme l'inventeur le plus prolifique, on lui doit également la naissance des premiers bureaux de recherches industriels, ainsi que les films vidéos.
+
+
+
+#### Albert Einstein
+
+Né en **1879**
 
 
 
@@ -1657,6 +1697,12 @@ Alan turing decoda avec la Turingery
 
 
 
+#### John Forbes Nash
+
+Né en **1928**, théorie des jeux.
+
+
+
 #### Bande magnétique cassettes audio 
 
 **1930**
@@ -1696,6 +1742,12 @@ En **1932**, l'ingénieur Gustav Tauschek, invente une nouvelle méthode de mém
 #### Atanasoff Berry Computer 
 
 **1937**, première utilisation des tubes à vides
+
+
+
+#### John Horton Conway
+
+**1937**
 
 
 
@@ -1773,11 +1825,13 @@ Mais alors que les budgets sont revus à la baisse à cause de la fin de la guer
 
 George Valley, professeur de physique au MIT, faisant alors parti du conseil scientifique de l'armée de l'air américaine, fit en 1950 un rapport déclarant que le système de défense anti-aérienne américain était catastrophique. Les informations du système de radar était à ce moment traités manuellement avant d'être relayées à un centre de contrôle et de commande. Les problèmes de communication et de couverture radar rendant impossible une alerte rapide en cas de tentative d'attaque par le pôle nord.
 
-Valley sera par conséquent responsable du projet qui sera nommé Semi-Automatic Group Environment (SAGE), ayant pour but de solutionner ces problèmes. Pour la réalisation de ce projet, il chercha alors un moyen informatique pour améliorer la récupération, les communication et le traitement des données radar. Bien qu'il eu écho du Projet Whirlwind en mal, il décida de se se renseigner par lui même. Se rendant compte des progrès impressionnant qui avaient été réalisés, et qui par chance avait enfin permis l’exécution de programmes de tests ; il relança le projet avec les fond nécessaires, rendant le système opérationnel l'année suivante, en 1951. À partie de ce moment, le Whirlwind fusionne avec SAGE.
+Valley sera par conséquent responsable du projet qui sera nommé Semi-Automatic Group Environment (SAGE), ayant pour but de solutionner ces problèmes. Pour la réalisation de ce projet, il chercha alors un moyen informatique pour améliorer la récupération, les communication et le traitement des données radar. Bien qu'il eu écho du Projet Whirlwind en mal, il décida de se se renseigner par lui même. Se rendant compte des progrès impressionnant qui avaient été réalisés, et qui par chance avait enfin permis l’exécution de programmes de tests ; il relança le projet avec les fond nécessaires, rendant le système opérationnel l'année suivante, en 1951. À partir de ce moment, le Whirlwind fusionne avec SAGE.
 
 Un réseau de 23 centres de directions est alors distribué dans tout le pays, et des opérateurs commencent à analyser les engins volants, qu'ils soit civils ou militaire, alliés ou ennemis, sur des écran cathodiques.
 
-Crawford avait prédit que le temps réel ne permettrait pas seulement la simulation d'un avion, mais la visualisation en temps réel de tout le trafic aérien, comme c'est le cas aujourd'hui en source ouverte. Les circuits imprimés, écrans cathodiques et mémoire à tores seront grâce à ce projet, et aux intervenant comme IBM, Burroughs, ou Bell ; rapidement démocratisés et vendus aux particulier dans les années 1960. Le développement des écran causera également la naissance de nouvelles interfaces bien plus pratique
+Crawford avait prédit que le temps réel ne permettrait pas seulement la simulation d'un avion, mais la visualisation en temps réel de tout le trafic aérien, comme c'est le cas aujourd'hui en source ouverte. Les circuits imprimés, écrans cathodiques et mémoire à tores seront grâce à ce projet, et aux intervenant comme IBM, Burroughs, ou Bell ; rapidement démocratisés et vendus aux particulier dans les années 1960. Le développement des écran causera également la naissance de nouvelles interfaces bien plus pratique.
+
+Ce système en temps réel donnera lieu, dans les années suivantes, au projet SABRE de réservation aériennes, jusqu'alors manuel et fastidieux, qui sera lui même généralisé au système bancaire et bien d'autres. 
 
 
 
@@ -2936,6 +2990,10 @@ http://remacle.org/bloodwolf/erudits/Vitruve/livre1.htm
 https://aosabook.org
 
 http://waterbearlang.com
+
+
+
+https://fr.mathigon.org/timeline
 
 
 
