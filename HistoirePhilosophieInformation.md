@@ -1065,23 +1065,15 @@ Suivre les règles de l'Algèbre sera alors la pratique de l'algoriste qui algor
 
 
 
-#### Frères Banou Moussa
-
-https://fr.wikipedia.org/wiki/Fr%C3%A8res_Banou_Moussa
-
-Banū Mūsā brothers
-
-
-
 #### Système de numération indo-arabe
 
 Les chiffres tels qu'on les connaît aujourd'hui proviennent du monde Arabe oriental, qui à partir de la fin du 7 ème siècle, entreprends un mécénat scientifique s’intéressant principalement aux sciences indiennes. Des bibliothèques se forment alors, et beaucoup de textes anciens sont alors traduits. Parmi eux, des tables de calculs, astronomiques, et même celles d'Aryabhata. Al-Khwarizmi aurait à cette occasion réécrit un système de symbole représentant les 10 chiffres, ressemblant fortement à ceux utilisés de nos jours.
 
 
 
-#### *Bayt al-Hikma* de Bagdad
+#### Frères Banou Moussa
 
-Maison de la sagesse, **832**
+Ces trois frères, dits Banou Moussa, étymologiquement fils de Moïse, sont des savants arabes ayant étudier les mathématiques, l'architecture, la mécanique et l'astronomie. Deux de leurs ouvrage nous sont parvenus, le *Livre sur la détermination des surfaces des figures planes et sphériques*, ainsi que le *Livre des mécanismes ingénieux*, qui ont été publiés à la *Maison de la sagesse* ouverte en **832** à Bagdad.
 
 
 
@@ -1125,7 +1117,7 @@ Probablement né en **1070**, il vécu jusqu'au début du 12 ème siècle où il
 
 #### Al-Jazari
 
-Comme beaucoup, on ne sait pas grand chose de sa vie, il a été actif vers **1206**, où il aurait écrit, après 25 ans d'études, le "Livre de la connaissance des procédés mécaniques", à la demande de Nasir Al-Din Mahmoud, le prince artukide de l'époque. Sûrement inspiré des travaux des mécaniciens de l'Antiquité, il transmettra à travers ce qui sera le traité de mécanique le plus important du monde arabe, des informations sur les pompes et machines hydrauliques, les automates, la manivelle, et bien d'autres ; illustré notamment avec un automate verseur de vin, qui n'est pas sans rappeler la servante de Philon de Byzance.
+Comme beaucoup, on ne sait pas grand chose de sa vie, il a été actif vers **1206**, où il aurait écrit, après 25 ans d'études, le "Livre de la connaissance des procédés mécaniques", à la demande de Nasir Al-Din Mahmoud, le prince artukide de l'époque. Sûrement inspiré du *Livre des mécanismes ingénieux* des frères Banou Moussa, eux même inspirés des travaux des mécaniciens de l'Antiquité ; il transmettra à travers ce qui sera le traité de mécanique le plus important du monde arabe, des informations sur les pompes et machines hydrauliques, les automates, la manivelle, et bien d'autres ; illustré notamment avec un automate verseur de vin, qui n'est pas sans rappeler la servante de Philon de Byzance.
 
 
 
@@ -1134,6 +1126,22 @@ Comme beaucoup, on ne sait pas grand chose de sa vie, il a été actif vers **12
 Ayant vécu de **1170** à **1250**, Leonardo Fibonacci est le "chaînon manquant", qui aurait importé la notation indo-arabe aux mathématiques occidentales à une période où les chiffres romains prédominent. Il a en effet été éduqué à Béjaïa en actuelle Algérie, et aurait ramené entre autre cette fameuse notation à Pise, où son père était marchant et notaire public des douanes.
 
 Il est également réputé pour sa fameuse suite, bien que connue des Indiens depuis Pingala, et liée au nombre d'or, proportion qui n'a pas été évoquée par Fibonacci et que l'on retrouve dans beaucoup de choses y compris des structures produites par la nature.
+
+
+
+#### Ramon Llull
+
+Ramon Llull développe son œuvre Ars comme une création épistémologique relationnelle, dans laquelle il déploie un exercice combinatoire basé sur des paires et des triplés. Concrètement, il propose une demi-matrice d'adjacence avec 36 combinaisons, sans répétitions, de neuf éléments pris deux à deux et un tableau de combinaisons ternaires. Ce tableau présente des variations de trois éléments pris trois à la fois, dans un ordre cyclique et sans répétitions, donnant lieu à 252 triplets possibles.
+
+Leibniz est le premier à réaliser, plus de 300 ans plus tard, les possibilités que contenait l'œuvre de Llull et adopte l'idée llullienne d'un « alphabet de la pensée humaine » qui fonctionne en combinant des lettres, et il la relie à sa propre idée de une "*mathesis universalis"*, c'est-à-dire d'une logique conçue comme une mathématique généralisée. Leibniz écrit "quand une controverse surgit, il n'y aura pas plus besoin de discussion entre deux philosophes qu'entre deux calculateurs". Leibniz interprète l’Art comme une sorte de pensée automatique, une sorte de mécanisme conceptuel qui, une fois établi, fonctionne tout seul. Cet automatisme conceptuel a longtemps été chéri par Leibniz, le premier à avoir imaginé, après Blaise Pascal, une machine à calculer qui fonctionnait réellement.
+
+Plus récemment, les développements de Llull ont été liés au calcul informatique. Selon Ton Sales, il existe dix composants dans le système lullien qui peuvent être intégrés dans le monde des concepts informatiques : de l'idée de calculer les résultats d'un raisonnement logique, déjà explorée par Leibniz, à celle d'un « alphabet de la pensée ». , interprété mathématiquement par George Boole au milieu du XIXe siècle, ou celui d'une méthode générale, heuristique et déductive, à l'analyse logique, à la notion de système génératif, au fonctionnement par diagrammes ou à la théorie des graphes qui ordonne les figures triangulaires de l'Art.
+
+En 2001, avec la découverte des manuscrits perdus *Ars notandi*, *Ars eleccionis* et *Alia ars eleccionis*, Llull est reconnu comme le découvreur du paradoxe de Condorcet, redécouvert au XVIIIe siècle par le marquis de Condorcet.
+
+Ramon Llull est considéré comme l'un des précurseurs de l'informatique et de l'intelligence artificielle, en plus d'être une référence pour les ingénieurs informaticiens. Ce fait est dû à l’invention qu’il a créée pour proposer de nouvelles idées. Elle consiste à combiner une série de concepts de manière aléatoire pour parvenir à une conclusion, c'est-à-dire un raisonnement automatique.[62] Les concepts qu'il a utilisés tournaient entre autres autour de la théologie, de la philosophie, de l'astronomie et de l'alchimie. Il appliqua ce mécanisme à son chef-d'œuvre Ars Magna (1305). Ce qui est intéressant dans cette façon de travailler est le résultat aléatoire obtenu en combinant des concepts[63] qui ne seraient pas liés au début, dans le cas de Ramon Llull se démarquent les réflexions où il combine la religion avec la philosophie. Le plus remarquable et auquel il est parvenu grâce à cette méthode est « Toutes les religions sont pareilles ».[64] Pour créer cette création, il s'est inspiré des outils utilisés par les Arabes pour réaliser l'astronomie et la navigation. Il a ainsi cherché à formaliser le processus de raisonnement à travers des principes mathématiques. On peut dire que l’objectif final était d’automatiser la connaissance à partir d’une prémisse combinatoire, c’est-à-dire qu’elle était un précurseur de l’automatisation des processus.
+
+Enfin, l’Art et ses figures contiennent des concepts aux significations diverses, qui peuvent se combiner entre eux afin de construire un discours favorisant la transmission de la vérité chrétienne. On dit que Llull fut l'inventeur d'une sorte de sémantique combinatoire qui pourrait certainement être suggestive pour les sciences cognitives (linguistique cognitive) et computationnelles (linguistique computationnelle).[73]
 
 
 
@@ -1481,7 +1489,13 @@ Malgré son bas coût de 150$, la demande pour ce produit resta donc faible.
 
 
 
-#### Machine à différence et analytique 
+#### Sténographie
+
+La sténotype a été inventée en 1827, par Benoît Gonod, professeur de rhétorique et bibliothécaire Clermontois.
+
+
+
+#### Machine à différence et analytique
 
 La première personne à avoir automatiser l'édition de tables de calcul est Charles Babbage, qui a initialement travaillé avec des calculateurs humains, "computers"  en anglais. La conception de telles tables étaient fastidieuses à superviser et encore plus à calculer et réaliser. Il a œuvré à développer une machine basée sur les méthodes de calcul de l'époque, réalisées par des gens qui étaient coiffeurs, ayant perdu leur travail suite à la révolution française, période après laquelle la coiffure étant vue comme symbole de l'aristocratie, à été délaissé.
 
@@ -1805,6 +1819,30 @@ Elisabeth Findler Jake, nom de domaines, whois nom de domaine (page jaunes) Alor
 
 
 
+#### As we may think
+
+Vannevar Bush, était un chercheur en électrotechnique au MIT, co-créateur de l'analyseur différentiel résolvant des équations différentielles à l'aide de machines analogiques composées d'engrenages ; puis créateur du Comparator et du Rapid Selector en 1940, destinés au traitement automatique des microfilms de stockage analogique.
+
+Titulaire d’une chaire à l’ancêtre de la NASA alors nommé NACA, il sera également conseiller scientifique de Roosevelt et parmi les chercheurs du projet Manhattan de 1945, pour lesquelles il assistera aux premier essais de la bombe nucléaire. C'est d'ailleurs un mois avant les bombardements atomiques d'Hiroshima et Nagasaki, alors que la seconde guerre mondiale se termine, en **juillet 1945**, qu'il publia *As we may think* dans le mensuel The Atlantic.
+
+Cet article est un appel aux scientifiques, qui ont alors mis leur savoir au service de la guerre, semblant à juste titre arriver à sa fin ; de désormais partager la connaissance, trouver des moyens d'inscrire une information de manière quasi permanente, et de la retrouver plus facilement, déplorant que les travaux de certaines personnes comme le concept des lois de la génétique de Mendel, aient été perdus pendant toute une génération du fait que sa publication n'ai à l'époque pas atteint un public capable de reprendre ses travaux.
+
+Il indique que contrairement à Babbage et Leibniz, la situation technologique et économique nous permet désormais de stocker et gérer l'information scientifique afin qu'elle soit conservée, transmise et surtout consultée, à l'aide de machines de moins en moins chères et de plus en plus fiables, dont ils sont tout deux pionniers.
+
+Il parlera des avancés de la photographie, de la capture vidéo, et de la compression utilisé sur les microfilms qu'il a longuement étudié. Il  introduit alors la possibilité qu'à l'avenir, une machine puisse enregistrer et convertir la parole d'un auteur en texte, comme le faisait alors les sténographes, ajoutant qu'une machine des laboratoires Bell nommée *Voice Operating Demonstrator* (Voder), présentée lors d'une exposition internationale, était actuellement capable de convertir du texte en une voix humaine synthétique, et qu'une autre était capable de l'opposé, c'est à dire de convertir une voix en caractères phonétiques (à la manière d'une sténotype), appelée quand à elle Vocoder.
+
+Il projette alors que les auteurs du futurs pourront utiliser des machines non plus analogique mais électroniques, utilisant des signaux radio pour communiquer à distance 100 fois ou plus rapidement qu'alors, traitant des informations bien plus variées, ayant des usages plus versatiles, conjointement à une possibilité de suppression et de réécriture.
+
+D'un point de vue de l'information, il énoncera plusieurs concept dont la sélection, avec pour exemple les numéros de téléphone permettant de sélectionner un destinataire parmi des millions de stations possibles ; mais aussi l'indexation, indiquant que l'information est stockée à un endroit unique, suivant un chemin de groupes et sous groupe se finissant généralement par une liste triée alphabétiquement. Il introduit alors la notion d'association et de liens entre les informations, formant une toile, dans laquelle l'utilisateur pourrais se balader, gardant un historique du chemin qu'il a emprunté pour passer d'un article ou d'une idée à une autre.
+
+Pour illustrer ses propos, il fini par introduire un outil fictif de son invention, le memex, permettant à tout un chacun de stocker ses livres, enregistrements, communications, lui permettant se suppléer à sa mémoire. Il l'image comme un bureau, composé d'écran translucides, d'un clavier, de leviers et de boutons, potentiellement utilisable à distance; et évoque alors la possibilité d'acheter du contenu sous forme de microfilms à insérer dans la machine, ou les interactions utilisateurs en comme l'utilisation de leviers pour défiler les pages des livres ou d'un stylet pour ajouter des notes de marges.
+
+Ces concepts seront sources d'inspiration pour la construction du world wide web avec l'hypertexte, les sélecteurs HTML, et même Wikipédia dont l'usage du memex décrit en réalité parfaitement le fonctionnement, formant comme il l'indique "une nouvelle forme d'encyclopédie formée de chemins associatifs interconnectés".
+
+https://www.w3.org/History/1945/vbush/vbush.txt
+
+
+
 [Retour](#Sommaire)
 
 ### Guerre froide et course à l'espace
@@ -1829,23 +1867,15 @@ Mais alors que les budgets sont revus à la baisse à cause de la fin de la guer
 
 #### Semi-Automatic Group Environment
 
-George Valley, professeur de physique au MIT, faisant alors parti du conseil scientifique de l'armée de l'air américaine, fit en 1950 un rapport déclarant que le système de défense anti-aérienne américain était catastrophique. Les informations du système de radar était à ce moment traités manuellement avant d'être relayées à un centre de contrôle et de commande. Les problèmes de communication et de couverture radar rendant impossible une alerte rapide en cas de tentative d'attaque par le pôle nord.
+George Valley, professeur de physique au MIT, faisant alors parti du conseil scientifique de l'armée de l'air américaine, fit en **1950** un rapport déclarant que le système de défense anti-aérienne américain était catastrophique. Les informations du système de radar était à ce moment traités manuellement avant d'être relayées à un centre de contrôle et de commande. Les problèmes de communication et de couverture radar rendant impossible une alerte rapide en cas de tentative d'attaque par le pôle nord.
 
 Valley sera par conséquent responsable du projet qui sera nommé Semi-Automatic Group Environment (SAGE), ayant pour but de solutionner ces problèmes. Pour la réalisation de ce projet, il chercha alors un moyen informatique pour améliorer la récupération, les communication et le traitement des données radar. Bien qu'il eu écho du Projet Whirlwind en mal, il décida de se se renseigner par lui même. Se rendant compte des progrès impressionnant qui avaient été réalisés, et qui par chance avait enfin permis l’exécution de programmes de tests ; il relança le projet avec les fond nécessaires, rendant le système opérationnel l'année suivante, en 1951. À partir de ce moment, le Whirlwind fusionne avec SAGE.
 
 Un réseau de 23 centres de directions est alors distribué dans tout le pays, et des opérateurs commencent à analyser les engins volants, qu'ils soit civils ou militaire, alliés ou ennemis, sur des écran cathodiques.
 
-Crawford avait prédit que le temps réel ne permettrait pas seulement la simulation d'un avion, mais la visualisation en temps réel de tout le trafic aérien, comme c'est le cas aujourd'hui en source ouverte. Les circuits imprimés, écrans cathodiques et mémoire à tores seront grâce à ce projet, et aux intervenant comme IBM, Burroughs, ou Bell ; rapidement démocratisés et vendus aux particulier dans les années 1960. Le développement des écran causera également la naissance de nouvelles interfaces bien plus pratique.
+Crawford avait prédit que le temps réel ne permettrait pas seulement la simulation d'un avion, mais la visualisation en temps réel de tout le trafic aérien, comme c'est le cas aujourd'hui en source ouverte. Les circuits imprimés, écrans cathodiques et mémoire à tores seront grâce à ce projet, et aux intervenant comme IBM, Burroughs, ou Bell ; rapidement démocratisés et vendus aux particulier dans les années 1960. Le développement des écran causera également la naissance de nouvelles interfaces bien plus pratiques.
 
-Ce système en temps réel donnera lieu, dans les années suivantes, au projet SABRE de réservation aériennes, jusqu'alors manuel et fastidieux, qui sera lui même généralisé au système bancaire et bien d'autres. 
-
-
-
-#### As we may think
-
-Vannevar Bush électrotechnique du MIT, analyseur différentiel, Comparator, Rapid Selector, 1940, projet manhattan 1945
-
-memex, www, hypertexte
+Ce système en temps réel donnera lieu, dans les années suivantes, au projet SABRE de réservation aériennes, jusqu'alors manuel et fastidieux, qui sera lui même généralisé à bien d'autres système comme le bancaire avec l'apparition des cartes de crédits, distributeurs automatiques, codes barres, et plus tard paiements en ligne. 
 
 
 
@@ -1923,9 +1953,9 @@ En 1948 les travaux commencent pour voir le jour en 1949, décrit comme un cerve
 
 
 
-#### EDSAC & BINAC
+#### Assembleur
 
-En **1949**, le Electronic Delay Storage Automatic Calculator, et le Binary Automatic Computer.
+En **1949**, le Electronic Delay Storage Automatic Calculator, et le Binary Automatic Computer. EDSAC & BINAC. Maurice Wilkes et David Wheeler
 
 
 
