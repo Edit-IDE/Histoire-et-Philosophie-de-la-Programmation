@@ -1,8 +1,14 @@
-# Histoire et philosophie de l'information
-
-
+# Histoire et Philosophie de l'Information
 
 Dorian Blanchard
+
+Mémoire de fin d'étude pour la validation du diplôme résultant de mon parcours en Administration des systèmes d'information.
+
+
+
+## Résumé
+
+Cet ouvrage énonce, conformément à son titre et aux recherches qu'il à nécessité, le passé, présent et ma pensée sur le futur de la gestion de l'information. L'étude des connaissances existantes sur ce sujet vous replongerons surement dans vos cours d'Histoire, elles permettrons de mettre en situation l'état actuel du monde scientifique et plus particulièrement de l'informatique. Cette discipline récente permet désormais de solutionner et automatiser beaucoup de tâches pénibles, mais sa pratique en elle même reste fastidieuse. C'est pourquoi j'en ai fait le cœur de ma problématique, et que la dernière partie se nomme "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?". À l'aide des parties précédentes analysant son origine, la conclusion proposera ainsi une solution informatique innovante, combinant des technologies et pratiques existantes pour se simplifier elle même en utilisant de la rétro-action.
 
 
 
@@ -136,113 +142,117 @@ Dorian Blanchard
       27. [IBM 1401](#IBM-1401)
       28. [Théorie algorithmique de l'information](#Théorie-algorithmique-de-l'information)
       29. [Computationnalisme](#Computationnalisme)
-      30. [Spacewar!](#Spacewar!)
-      31. [Programma 101](#Programma-101)
       32. [Souris](#Souris)
       33. [Dendral](#Dendral)
       34. [Eliza](#Eliza)
       35. [Apollo 1](#Apollo-1)
       36. [Intel et Moore](#Intel-et-Moore)
-      37. [Amstrad](#Amstrad)
       38. [Microprocesseur](#Microprocesseur)
-      39. [Arpanet et Cyclades](#Arpanet-et-Cyclades)
       40. [Apollo 11](#Apollo-11)
    9. [Popularisation et Mondialisation](#Popularisation et Mondialisation)
-      1. [Atari Pong](#Atari-Pong)
-      2. [Altair 8800](#Altair 8800)
-      3. [Homebrew computer club](#Homebrew-computer-club)
-      4. [Minitel](#Minitel)
+      1. Génèse d'internet
+         1. [Arpanet et Cyclades](#Arpanet-et-Cyclades)
+      2. Ordinateur personnel
+         1. Programma 101
+         2. [Amstrad](#Amstrad)
+         3. HP
+         4. [Altair 8800](#Altair 8800)
+         5. Commodore
+         6. Apple II
+         7. [Minitel](#Minitel)
+         8. [Osborne 1](#Osborne-1)
+         9. [Xerox Star](#Xerox-Star)
+         10. IBM
+             1. [IBM PC 5150](#IBM PC 5150)
+      3. Jeux vidéos
+         1. [Spacewar!](#Spacewar!)
+         2. [Atari Pong](#Atari-Pong)
+         3. [Pac Man](#Pac-Man)
+      4. [Homebrew computer club](#Homebrew-computer-club)
       5. [Chambre chinoise](#Chambre-chinoise)
       6. [Mémoire flash et stockage optique](#Mémoire-flash-et-stockage-optique)
-      7. [Pac Man](#Pac-Man)
-      8. [Osborne 1](#Osborne-1)
-      9. [Xerox Star](#Xerox-Star)
-      10. [IBM PC 5150](#IBM PC 5150)
-      11. [World Wide Web](#World-Wide-Web)
-      12. [Deep Blue](#Deep-Blue)
+      7. [World Wide Web](#World-Wide-Web)
+      8. [Deep Blue](#Deep-Blue)
    10. [Bilan passé](#Bilan-passé)
 3. [Pratiques actuelles](#Pratiques-actuelles)
-   1. [Honda asimo](#Honda asimo)
-   2. [Roomba](#Roomba)
-   3. [Darpa Grand Challenge](#Darpa-Grand-Challenge)
-   4. [Imagenet](#Imagenet)
-   5. [Watson gagne Joepardy](#Watson gagne Joepardy)
-   6. [Premier drone commercial autonome](#Premier-drone-commercial-autonome)
-   7. [Alphago](#Alphago)
-   8. [Boston Dynamics](#Boston-Dynamics)
-   9. Concepts
-   10. Appareils
-       1. Ordinateurs portables
+   1. Appareils
+      1. Ordinateurs portables
 
-       2. Mobiles
+      2. Mobiles
 
-       3. Tablettes
+      3. Tablettes
+      4. Casques de réalité virtuelle 
+   2. Technologies
+      1. Intelligence artificielle
+   3. Usages et industrie du logiciel
+      1. Navigation web
+      2. Automatisations
+      3. Robotique
+      4. Aide à la décision
+      5. Progiciel
+      6. Jeux en ligne et MMO
+      7. Ludiciel
+   4. Concepts de programmation moderne
+      1. Vecteurs
+      2. Matrices
 
-      11. Réalité virtuelle 
+      3. Parallélisation
 
-      12. MMO
+      4. Pointeurs mémoires
 
-   13. Industrie du logiciel
-       1. Progiciel
-          1. Jeux vidéos
-             1. Educatif
+      5. Calculs distribués
 
-       2. Concepts de programmation moderne
-          1. Vecteurs
-          2. Matrices
+      6. 2SIG
+         1. Structure
 
-          3. Parallélisation
+         2. Style
 
-          4. Pointeurs mémoires
+         3. Interaction
 
-          5. Calculs distribués
+         4. Gestion de la donnée 
 
-          6. 2SIG
-             1. Structure
+      7. Pop SMTP
+   5. Habitudes de programmation
+      1. Language naturel, formel, informatique, et construites
+      2. Syntaxe, vocabulaire et Grammaire
+      3. Pseudo Code parlé & Lojban
+      4. Ligne de commande
+      5. Commentaires et documentation
+      6. Interfaces logicielles avancées
+      7. Interopérabilité instantanée inter-appareils
+      8. Gestionnaires de version 
+      9. Programation Orientée Objet 
+      10. Cadriciels
+      11. API
+      12. Cloud
+      13. Tests et Vérification
+      14. CI / CD
+      15. Microservices
+   6. Philosophie personnelle
+      1. Réalisation de projets WMD (WYSIWYG meta dogfood)
+         1. Markdown
+         2. 
+      2. Informatique et cuisine
+      3. Faits, Vérité et doute. (biais de confirmations, multifactoriel)
+      4. La magie c'est de défaire et savoir refaire
+      5. LA DONNEE (collecte, emplacement géographique, valeur)
+      6. Un programme est un contrat.
+         1. Qu'il , soit moral ou non
+      7. Biais humain, machine, et réalité de la donnée (illusions de captation, interprétation, context)
+      8. Choix et Theorie des jeux
+      9. Sécurité, permissions, et contraintes.
+      10. Intelligence, Ambiguïtés et apprentissage : Nous sommes tous des IAs
+      11. Apprentissage par l’erreur, sans elle rien ne serais possible le succès ne s’obtient qu’en résolvant des micro problèmes 
+      12. On fait avec ce qu’on a, alors obligé d’accumuler, ça donne des (cf Cadriciels)
 
-             2. Style
+4. Essai
+5. EditIDE
+   1. Flux de travail
+      1. Gestion projet
+      2. API
+      3. Interface
 
-             3. Interaction
-
-             4. Gestion de la donnée 
-
-          7. Pop SMTP
-
-       3. Habitudes de programmation
-          1. Language naturel, formel, informatique, et construites
-          2. Syntaxe, vocabulaire et Grammaire
-          3. Pseudo Code parlé & Lojban
-          4. Ligne de commande
-          5. Commentaires et documentation
-          6. Interfaces logicielles avancées
-          7. Interopérabilité instantanée inter-appareils
-          8. Gestionnaires de version 
-          9. Programation Orientée Objet 
-          10. Cadriciels
-          11. API
-          12. Cloud
-          13. Tests et Vérification
-          14. CI / CD
-          15. Microservices
-
-       4. Philosophie personnelle
-          1. Réalisation de projets WMD (WYSIWYG meta dogfood)
-             1. Markdown
-             2. 
-          2. Informatique et cuisine
-          3. Faits, Vérité et doute. (biais de confirmations, multifactoriel)
-          4. La magie c'est de défaire et savoir refaire
-          5. LA DONNEE (collecte, emplacement géographique, valeur)
-          6. Un programme est un contrat.
-             1. Qu'il , soit moral ou non
-          7. Biais humain, machine, et réalité de la donnée (illusions de captation, interprétation, context)
-          8. Choix et Theorie des jeux
-          9. Sécurité, permissions, et contraintes.
-          10. Intelligence, Ambiguïtés et apprentissage : Nous sommes tous des IAs
-          11. Apprentissage par l’erreur, sans elle rien ne serais possible le succès ne s’obtient qu’en résolvant des micro problèmes 
-          12. On fait avec ce qu’on a, alors obligé d’accumuler, ça donne des (cf Cadriciels)
-
-4. Philosophie
+6. Philosophie
    1. AR / Mixed Reality
    2. Blockchain
    3. Interfaces graphiques et Ux
@@ -250,8 +260,8 @@ Dorian Blanchard
    5. Solid Principles
    6. Code Golf
    7. Quine
-5. Conclusion
-6. [Annexes](#Annexes)
+7. Conclusion
+8. [Annexes](#Annexes)
    1. [Webographie](#Webographie)
    2. [Lexique](#Lexique)
    3. [Table des illustrations](#Table des illustrations)
@@ -514,6 +524,10 @@ Dorian Blanchard
         - [All in one](#all-in-one)
         - [Documentation](#documentation)
         - [Visualisation](#visualisation)
+      - Flux de travail
+        - Gestion projet
+        - API
+        - Interface
       - [Rêves lucides](#rêves-lucides)
   - [Annexes](#annexes)
       - [Bibliographie](#bibliographie)
@@ -522,12 +536,24 @@ Dorian Blanchard
       - [Table des illustrations](#table-des-illustrations)
       - [Page d’évaluation](#page-dévaluation)
 
+## Remerciements
 
+Je ne remercierai jamais assez mes parents et grand parents, qui ont eu la chance d'être propriétaires d'ordinateurs, et d'une connexion d'internet, avant ma naissance en 1999. Grâce à cela il ont eu la merveilleuse idée de me mettre devant un écran, avec des logiciels éducatifs qui m'ont permis de savoir lire à l'âge de 2 ans.
+
+Merci à toutes les personnes et enseignants qui m'ont, lors de ma longue scolarité, transmis tout ce que je sais aujourd'hui.
+
+Merci aux logiciels libres, à l'open source, à Wikipédia et tout leurs contributeurs.
+
+Merci aux établissements d'enseignement et entreprises, dans lesquels j'ai travaillé et évoluer dans la bienveillance, grâce à des processus itératifs d'amélioration continue.
+
+Merci à toutes et tous, car nos métiers et découvertes ne sont que rarement le fruit d'un génie isolé, mais bien d'une collaboration et de l'amélioration d'idées antérieures.
+
+Enfin, merci à toute personne qui lit actuellement ce texte.
 
 
 ## Introduction
 
-La transmission d'information s'est fiabilisée au fil des époques, avec l'usage d'outils physique ; notamment des tablettes, plaques permettant de dessiner, d'écrire, lire, compter ; et ce jusqu'à pouvoir automatiser son traitement et son stockage, à l'aide de l'informatique, dont l'histoire ne commence qu'à la fin du 19 ème siècle.
+La transmission d'information s'est fiabilisée au fil des époques, avec l'usage d'outils physique ; notamment des tablettes, plaques permettant de dessiner, d'écrire, lire, compter ; et ce jusqu'à pouvoir automatiser son traitement et son stockage, à l'aide de l'informatique, dont l'histoire ne commence concrètement qu'à la fin du 19 ème siècle.
 
 De nos jours, nous interagissons quotidiennement avec des ordinateurs, que ce soit à l'aide de la programmation, ou des interfaces hommes-machines qui en sont issues. Pourtant, la grande majorité des utilisateurs, et même des personnes travaillant dans le domaine des Technologies de l'Information et de la Communication, ne connaissent pas la plupart des événements majeurs de son histoire.
 
@@ -542,43 +568,34 @@ Pour la rédaction de ce dernier, j'ai acquis 4 livres :
 
 Les trois premiers livres ont chacun leurs avantages grâce à une approche différente d'un même sujet, sur lequel je m'attendais à trouver plus de bibliographie. Contrairement à ceux-ci, j'ai essayé d'avoir une démarche plus globale que l'informatique et l'ordinateur, qui sont des concepts très récent. Et ce en abordant le thème global qu'est l'information, tout en y ajoutant de la philosophie, ainsi que mon humble analyse subjective, parce que j'aime penser, et que l'apprentissage des mathématiques et de l'informatique ont changé ma manière de concevoir le monde dans lequel nous vivons. Se sont selon moi des philosophies à part entière, apportant des syntaxes et un vocabulaire, nécessitant un apprentissage constant de schémas de pensés dignes d'un logicien.
 
-Dans ce mémoire, je vais donc revenir aux racines les plus ancestrales de la gestion de l'information, au vocabulaire et champ lexical qui y sont liés ou en découlent, ainsi qu'a leurs étymologies à travers leur Histoire, qui représente toute la première partie de ce livre. J'y présenterai beaucoup de philosophes, scientifiques et de penseurs variés. De l'Antiquité aux époques plus moderne, les idées qu'ils ont amenées ont permis des inventions et progrès technologiques avec un développement de plus en plus rapide. Pourtant, les inventions qui ont le plus impacté l'humanité, resteront toujours les plus anciennes, avec au sommet d'entre elles, l'écriture.
+Dans ce mémoire, je vais donc revenir aux racines les plus ancestrales de la gestion de l'information, au vocabulaire et champ lexical qui y sont liés ou en découlent, ainsi qu'a leurs étymologies à travers leur Histoire, qui représente toute la première partie de ce livre. J'y présenterai beaucoup de philosophes, scientifiques et de penseurs variés. De l'Antiquité aux époques plus modernes, les idées qu'ils ont amenées ont permis des inventions et progrès technologiques avec un développement de plus en plus rapide. Pourtant, les inventions qui ont le plus impacté l'humanité, resteront toujours les plus anciennes, avec au sommet d'entre elles, l'écriture.
 
 J'aborderai aussi un sujet qui m'est cher, la programmation. Elle n'est pas forcement liée à l'informatique, c'est l'art de planifier et mettre en œuvre des étapes à suivre pour obtenir un résultat. Cela dit, elle passe inévitablement par de la gestion de l'information, à l'aide d'écriture, lecture, chiffrement, déchiffrement, émission, et réception.
 
 C'est pourquoi je m’intéresserai également à l'apprentissage, très présent dans les technologies comme l'intelligence artificielle, qui représente l’acquisition et l'assimilation d'une information ou d'un système ; ainsi qu'à la pédagogie, propre à l'humain, animal social émotionnel ; et au rapport maître / élève.
 
-Je dresserai ensuite un bilan de l’état actuel de l'informatique, de son marché, ainsi qu'une étude de sa pratique moderne ; et ce afin d'en identifier les problèmes que l'on y rencontre en tant que développeur, pour finir par en dégager de possibles solutions.
-
-Enfin, à l’aide de l’étude précédente, je dresserai ma projection subjective en tant qu'acteur et éditeur de logiciels, pour le futur de cette discipline, plus particulièrement la pratique que je souhaite en avoir en tant que créateur de services et contenu web.
+Je dresserai ensuite un bilan de l’état actuel de l'informatique, de son marché, ainsi qu'une étude de sa pratique moderne ; et ce afin d'en identifier les problèmes que l'on y rencontre en tant que développeur, pour finir par en dégager de possibles solutions, dressant ainsi ma projection subjective en tant qu'acteur et éditeur de logiciels, pour le futur de cette discipline, plus particulièrement la pratique que je souhaite en avoir en tant que créateur de services et contenu web.
 
 
 
-Notes : 
+Notes :
 
 - L’Histoire ne se souvient que rarement de la première occurrence d’une invention, ce qu'il en reste est généralement sa démocratisation.
 - Il est évident que tout les concepts scientifiques ne sont que des formulations écrites de théories issues de la raison, qui étaient déjà connues par certaines personnes de manière empirique.
 - La majorité des mots sont poly-sémantiques, ils n'ont pas de signification unique.
-- Les paroles s’envolent les écrits restent, c'est pourquoi la littérature est importante. Écrire permet de faire naître une information et potentiellement de la rendre éternelle.
-
 - Le savoir est magie pour les idiots, et secret de polichinelle pour les érudits.
 
 
 
+## Comprendre la problématique
 
-## Remerciements
+L'informatique, étymologiquement automatisation de la gestion de l'information, est un domaine récent et complexe, qui soulève beaucoup d'avancés technologiques mais également de craintes et de questionnements. La programmation à l'origine des logiciels qui nous permettent d'utiliser le matériel informatique, n'était en 2022 pratiquée par seulement 0.35% de la population. Elle requiert une rigueur suffisante pour dans un premier temps passer la compilation si elle a lieu, puis l'exécution du programme en résultant, et enfin les tests du comportement voulu, dans le but de vérifier que l'on a correctement implémenté la solution à notre problème informationnel. Une fois que tout cela est satisfait, il faut rendre le programme robuste afin d'assurer sa pérennité tout au long du développement des nouvelles fonctionnalités qui s'accumuleront inexorablement, et ce afin que toutes les existantes restent fonctionnelles, ce que l'intégration et le développement continu solutionne, permettant d'assurer la qualité d'un logiciel au fil de son développement.
 
-Je ne remercierai jamais assez mes parents et grand parents, qui ont eu la chance d'être propriétaires d'ordinateurs, et d'une connexion d'internet, avant ma naissance en 1999. Grâce à cela il ont eu la merveilleuse idée de me mettre devant un écran, avec des logiciels éducatifs qui m'ont permis de savoir lire à l'âge de 2 ans.
+Dans la deuxième partie de ce mémoire, je montrerai ainsi les avantages et inconvénients des outils de développeurs actuels et les biais introduits dans leurs pratiques, constituée des étapes décrites précédemment, avec des pistes de solutions. Actuellement, l'apprentissage de ces étapes et les coût de formation d'un nouvel employé en informatique sont importants. Simplifier la prise en main d'un projet informatique me semble être une opportunité technologique intéressante, qui permettrait à l'industrie informatique de se concentrer sur les réelles problématiques. Dans cette dernière, la matière première est la pensée du développeur, c'est l'acteur principal à l'origine des algorithmes qui régissent la gestion de l'information. Les développeurs réalisent des logiciels pour de multiples industries et sont pourtant, selon moi, les cordonniers les plus mal chaussés, on parle souvent d'expérience utilisateur, mais l'expérience développeur reste à désirer, voire archaïque. Selon moi nous sommes encore encore au moyen âge de l'informatique. La question fondamentale à laquelle je répondrait dans le troisième chapitre sera donc "*Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?*".
 
-Merci à toutes les personnes et enseignants qui m'ont, lors de ma longue scolarité, transmis tout ce que je sais aujourd'hui.
+Mais avant de parler des méthodes modernes et répondre à cette question, il me semble important de comprendre l'évolution des outils, des machines et de la technologie, ainsi comment l'humanité en est arrivée là, et surtout, comment faisait-on pour calculer, automatiser des actions, et gérer l'information avant l'invention des ordinateurs ?
 
-Merci aux logiciels libres, à l'open source, à Wikipédia et tout leurs contributeurs.
 
-Merci aux établissements d'enseignement et entreprises, dans lesquels j'ai travaillé et évoluer dans la bienveillance, grâce à des processus itératifs d'amélioration continue.
-
-Merci à toutes et tous, car nos métiers et inventions ne sont que rarement le fruit d'un génie isolé, mais bien d'une collaboration et de l'amélioration d'idées antérieures.
-
-Enfin, merci à toute personne qui lit actuellement ce texte.
 
 
 
@@ -592,7 +609,7 @@ La deuxième est l’art de sculpter des outils, actuellement estimé 3 millions
 
 La troisième est la peinture, dont les plus anciennes preuves sont rupestres, et âgées de 65 millénaires.
 
-Relativement aux dates précédentes, l’écriture ne vient que récemment, elle a été attestée en Mésopotamie il y a 5 millénaires. Pourtant, c'est elle qui nous permettra à nous, humains, d'écrire notre Histoire.
+Relativement aux dates précédentes, l’écriture ne vient que récemment, elle a été attestée en Mésopotamie il y a 5 millénaires. Pourtant, c'est elle qui nous permettra à nous, humains, d'écrire notre Histoire, de transmettre des volumes d'informations variées, véridiques comme les faits ou de qualité comme des idées. Écrire permet de faire naître une information et potentiellement de la rendre éternelle. Les paroles s’envolent les écrits restent, c'est pourquoi la littérature est importante.
 
 D'un point de vue Historique, notre génération laissera toujours une trace. Que ce soit sur un disque dur quelque part dans un grenier, dans un datacenter ou une web archive. Et même si tout disparaissait, il y aurait une preuve immuable et indestructible à échelle de la Terre. Les isotopes lourds que nous avons créés avec l'apparition des industries nucléaire seraient, même dans le cas d'un retour à l'âge de pierre causant un rude hiver civilisationnel, la preuve de l'existence de la nôtre.
 
@@ -600,21 +617,22 @@ D'un point de vue Historique, notre génération laissera toujours une trace. Qu
 
 ### Préhistoire
 
-Avant même la naissance de l'écriture qui marque la fin de la préhistoire, les humains avait déjà besoin de compter et d'effectuer des calculs. Le premier réflexe à sûrement été de compter sur ses doigts, raison pour laquelle la base 10 est si présente dans l'histoire. Pour des nombres plus importants, il a fallu inventer d'autres stratagèmes et outils.
-
+Avant même la naissance de l'écriture qui marque la fin de la préhistoire, les humains avait déjà besoin d'informations quantitatives, c'est à dire de compter et d'effectuer des calculs. Le premier réflexe à sûrement été de compter sur ses doigts, raison pour laquelle la base 10 est si présente dans l'histoire. Pour des nombres plus importants, il a fallu inventer d'autres stratagèmes et outils.
 
 
 #### Abaques
 
 Un abaque est un instrument facilitant le calcul. C'est un outil mnémonique utilisant la numération et permettant d'enregistrer un nombre pour se libérer de la mémoire.
 
-Son étymologie est un mélange de grec et d'hébreu, elle explique bien sa représentation et son usage. La poussière (de l'hébreu abaq), et la tablette (du grec akos), servaient de support pour l'écrit. Même sans dépôt de poussière naturelle, on peut volontairement recouvrir une tablette, et ainsi réécrire à volonté avec du sable, ou toute autre poudres.
+Son étymologie est un mélange de grec et d'hébreu, elle explique bien sa représentation et son usage. La poussière (de l'hébreu abaq), et la tablette (du grec akos), servaient de support pour l'écrit. Même sans dépôt de poussière naturelle, il est possible de volontairement recouvrir une tablette, et ainsi réécrire à volonté avec du sable, ou toute autre poudres. 
 
-Le plus vieux système de quantification connu est le bâton de comptage, daté à **-40000**. C'est un système unaire, il permet de quantifier des unités, représentées par la répétition d'un symbole, généralement un trait, aussi appelé marque de dénombrement. Le plus ancien est l'Os de Lebombo.
 
-L'ensemble d'Os d'Ishango est cependant plus connu. Il serait hypothétiquement une des premières preuves de connaissance humaine des mathématiques et de l'arithmétique. Sur un des os, on aperçoit les 4 nombres premiers entre 10 et 20, soit 11, 13, 17, et 19 ; un autre semble démontrer les additions et les multiplication, notamment la duplication, avec la juxtaposition des nombres 3 et 6 puis 4 et 8.
 
-Cette méthode est restée, à l'époque, un berger pouvait s'assurer que l'intégralité de son troupeau était rentré en comparant deux comptages, à l'aide de cailloux par exemple, chacun représentant une bête. 
+À la préhistoire, ce mot n'existait pas, les humain n'avait pas encore de tablettes, de nombres ni de textes leurs permettant de représenter une quantité. Le plus vieux système de quantification connu est le bâton de comptage, daté à **-40000**. C'est un système unaire, il permet de quantifier des unités, représentées par la répétition d'un symbole, généralement un trait, aussi appelé marque de dénombrement. Le plus ancien est l'Os de Lebombo.
+
+L'ensemble d'Os d'Ishango est cependant plus connu. Il serait hypothétiquement une des premières preuves de connaissance humaine des mathématiques et de l'arithmétique. Sur un des os, les 4 nombres premiers entre 10 et 20 sont présent, soit 11, 13, 17, et 19 ; un autre semble démontrer les additions et les multiplication, notamment la duplication, avec la juxtaposition des nombres 3 et 6 puis 4 et 8.
+
+Cette méthode est longtemps restée, à l'époque, un berger pouvait s'assurer que l'intégralité de son troupeau était rentré en comparant deux comptages, à l'aide de cailloux par exemple, chacun représentant une bête. 
 
 De nos jours elle à été mécanisée pour approximer par groupes de dix les manifestants a l'aide de compteurs manuels.
 
@@ -622,7 +640,7 @@ De nos jours elle à été mécanisée pour approximer par groupes de dix les ma
 
 J'ai également eu l'opportunité de visiter la grotte de Thaïs, où a été retrouvé un os de quelques centimètres aux multiples gravures. Daté en **-12 500**, il a été nommé Os coché.
 
-En 1991,  l’archéologue américain Alexander Marschack, démontra qu’il ne s’agit pas comme on le pensait alors, d’une représentation décorative, mais d’un système d’enregistrement du temps, possiblement un calendrier basé sur des observations astronomiques. Cette hypothèse est actuellement, en 2024, le sujet d'une étude européenne menée par un groupe de chercheur à l'université de Bordeaux.
+En 1991, l’archéologue américain Alexander Marschack, démontra qu’il ne s’agit pas comme les historiens le pensait alors, d’une représentation décorative, mais d’un système d’enregistrement du temps, possiblement un calendrier basé sur des observations astronomiques. Cette hypothèse est actuellement, en 2024, le sujet d'une étude européenne menée par un groupe de chercheur à l'université de Bordeaux.
 
 L'homme préhistorique avait donc sûrement déjà des systèmes de comptage des unités et du temps, bien qu'il ne nous en reste que peu de traces, ne permettant donc pas d'affirmer cela avec certitude.
 
@@ -630,25 +648,25 @@ L'homme préhistorique avait donc sûrement déjà des systèmes de comptage des
 
 #### Premières villes et sociétés
 
-Jusqu'alors, l'humain était un chasseur-cueilleur nomade, et contrairement à ce que l'on pourrait croire, il aurait rarement chercher des poux à ses congénères lorsqu'il les croise, ayant déjà bien assez de problèmes avec la nature.
+Jusqu'alors, l'humain était un chasseur-cueilleur nomade, et contrairement à ce que l'on pourrait croire, il aurait rarement été hostile à ses congénères lorsqu'il les croise, ayant déjà bien assez de problèmes avec la nature.
 
 La sédentarisation prends place en **-9000**, l'agriculture apparaît à la même période, au Proche et Moyen Orient actuel, dans le *croisant fertile*, avec par conséquent un besoin de stockage grandissant, auquel répondra la démocratisation de la vannerie, du tissage et surtout de la poterie, alors que la terre cuite était utilisée principalement pour des figurines décoratives.
 
 Fleurirons alors villes et cités comme Urkesh, Ninive, ou Assur ; capitale Assyrienne, et Guzana capitale du royaume autagoniste Araméen, à partir de **-7000**. Suivis par Uruk et Lagash vers **-5000**, puis Ur vers **-4000**.
 
-Les premières civilisation apparaîtrons plus tard comme celle de Sumer vers **-3500**, ou celle de la vallée de l'Indus, à qui on doit les égouts, vers **-2600**, bien que son développement ai commencé à l'apparition des premières villes et cités.
+Les premières civilisation apparaîtrons plus tard comme celle de Sumer vers **-3500**, ou celle de la vallée de l'Indus (à qui l'humanité doit entre autre les égouts) vers **-2600**, bien que son développement ai commencé à l'apparition des premières villes et cités.
 
-L'arrivé du stockage de biens a causé l’apparition des premiers  conflits d'envergure. Avant cela, les humains avait une densité de population trop faible pour que cela n'arrive, le rapport gain / perte n'en valant que rarement le coût.
+L'arrivé du stockage de biens a causé l’apparition des premiers conflits d'envergure. Avant cela, les humains avait une densité de population trop faible pour que cela n'arrive, le rapport gain / perte n'en valant que rarement le coût.
 
-L'humanité à donc du, suite à la sédentarisation, trouver des moyen de réguler le jeu de la vie, et trouver des systèmes composés de règles, permettant de conserver l'ordre et éviter la discorde.
+L'humanité à donc du, suite à la sédentarisation, trouver des moyen de réguler son jeu de la vie humaine, et trouver des systèmes composés de règles, permettant de conserver l'ordre et éviter la discorde.
 
 
 
 #### Bulle enveloppe
 
-Il y a 6000 ans de cela, en Mésopotamie, vers l'an **-3900**, étaient utilisées des sphères d'argile appelées bulles enveloppe, ou bulle comptable. On y stockait en son sein des calculs, du latin "calculus", signifiant petit cailloux, et on y comptabilisait le contenu. La signature se faisait en déroulant un sceau-cylindre, orné de motifs représentant des dieux ou le pouvoir. Il servait à imprimer les motifs creusés dessus afin de pouvoir les imprimer sur de l'argile. Ce motif indiquait généralement le possesseur à la manière d'une signature. Certains étaient en matériaux plus ou moins précieux, et comportait parfois des écritures cunéiformes.
+Il y a presque 6000 ans de cela, en Mésopotamie, vers l'an **-3900**, étaient utilisées des sphères d'argile appelées bulles enveloppe, ou bulle comptable. Des des calculs, du latin "calculus", signifiant petit cailloux, étaient stockés en son sein, pour en comptabiliser le contenu. La signature se faisait en déroulant un sceau-cylindre, orné de motifs représentant des dieux ou le pouvoir. Il servait à imprimer les motifs creusés dessus afin de pouvoir les imprimer sur de l'argile. Ce motif indiquait généralement le possesseur à la manière d'une signature. Certains étaient en matériaux plus ou moins précieux, et comportait parfois des écritures cunéiformes.
 
-L'humain avait donc à ce moment inventer un système permettant de garantir le transport et l'échange de marchandise par un transporteur, tout en garantissant sa provenance et la quantité de marchandise. En effet, un destinataire pouvait ainsi faire confiance à un transporteur concernant la provenance, grâce à la signature, et la quantité, en comparant le nombre de marchandises au nombre d'unités présente dans la bulle après l'avoir cassé. Si elle l'était avant sa livraison, alors celle ci pouvait alors être invalidée.
+L'humain avait donc à ce moment inventé un système permettant de garantir le transport et l'échange de marchandise par un transporteur, tout en garantissant sa provenance et la quantité de marchandise. En effet, un destinataire pouvait ainsi faire confiance à un transporteur concernant la provenance, grâce à la signature ; et la quantité, en comparant le nombre de marchandises au nombre d'unités présente dans la bulle après l'avoir cassé. Si elle l'était avant sa livraison, alors celle ci pouvait alors être invalidée.
 
 
 
@@ -656,7 +674,7 @@ L'humain avait donc à ce moment inventer un système permettant de garantir le 
 
 Marquée par l'invention la plus importante de notre histoire, en **-3250** dans la région de la Mésopotamie ; la naissance de l'écriture a permis une transmission d'informations complexes sur un support théoriquement permanent. Des lois, qu'elles soient juridiques, mathématiques, ou autres, ont alors pu être rédigées et transmises de manière plus fiable que par la transmission orale, pratiquée jusque là en plus du dessin.
 
-Malgré cela, beaucoup de penseurs ont transmis leurs savoir exclusivement à l'oral, n'ayant donc jamais rien écrit de leur vivant. Bien que des gens l'aient fait pour eux, comment peut on être sûrs que les informations de leurs discours n'ont pas été déformés, par des siècles de copies et réécriture, de ragots et légendes. Pour autant, ce qu'il en reste est une facette de la réalité, c'est ce qui a persisté jusque là grâce à ce que les personnes ont jugés important de transmettre.
+Malgré cela, beaucoup de penseurs ont transmis leurs savoir exclusivement à l'oral, n'ayant donc jamais rien écrit de leur vivant. Bien que des gens l'aient fait pour eux, comment être sûrs que les informations de leurs discours n'ont pas été déformés, par des siècles de copies et réécriture, de ragots et légendes. Pour autant, ce qu'il en reste est une facette de la réalité, c'est ce qui a persisté jusque là grâce à ce que les personnes ont jugés important de transmettre.
 
 Cette période se finira en 450 par la chute de l'Empire Romain.
 
@@ -677,23 +695,19 @@ L'algèbre babylonienne vers **-3000**, utilisait un système sexagésimal, pote
   -  avec en plus la notion de comparaison et d'équation
      -  si après la soustraction `a - b` il reste `c` , alors `a > b` car `a = b + c`
 
-La division se pratiquait avec la multiplication par l'inverse, on a retrouvé de multiples tables d'inverse en Mésopotamie.
+La division se pratiquait avec la multiplication par l'inverse, les archéologues ont retrouvé de multiples tables d'inverse en Mésopotamie.
 
-La racine carrée était obtenue grâce aux tables de carrés, pour celles manquante, on pratiquait une approximation par interpolation linéaire.
+La racine carrée était obtenue grâce aux tables de carrés, pour celles manquante, l'humain pratiquait une approximation par interpolation linéaire, estimation de la valeur sur une courbe entre deux points connues.
 
-Cette discipline qu'est l'Algèbre est à ce moment de l'histoire avérée, mais pas encore nommée, du moins pas en tant que tel, il faudra attendre le moyen âge pour cela.
+Cette discipline qu'est l'Algèbre est à ce moment de l'histoire avérée, mais pas encore nommée, du moins pas en tant que telle, il faudra attendre le moyen âge pour cela.
 
 
 
 #### Quipu
 
-Cet outil utilisé par les incas signifie "nœud", ou "compte" en quechua, il est en effet possible de faire un nœud simple avec plusieurs boucles, permettant ainsi d'enregistrer un chiffre, et donc des nombres, en base 10.
+Cet outil utilisé par les incas signifie "nœud", ou "compte" en quechua, il est en effet possible de faire un nœud simple avec plusieurs boucles, permettant ainsi d'enregistrer un chiffre, et donc des nombres, en base 10. Le plus ancien connu à été retrouvé sur le site archéologique de Caral, au Pérou, il est daté vers l'an **-2500** ; le climat chaud et sec a contribuer sa bonne conservation.
 
-Le plus ancien connu à été retrouvé sur le site archéologique de Caral, au Pérou, il est daté vers l'an **-2500** ; le climat chaud et sec a contribuer sa bonne conservation.
-
-L'empire Inca ayant été constitué de plus de 12 millions d'individus, cet outil a été au cœur de son administration et a permis de recenser la population et gérer l'économie. Les experts du quipu se sont même rendus compte que plus d'un tiers comportaient des informations autres que des chiffres, aussi appelées informations qualitatives, en opposition aux informations quantitatives.
-
-Cet outil à donc également servi à transmettre des messages, composé d'un vocabulaire créé à partir de différentes couleurs, types de fils, de nœuds, ainsi que leurs positions et orientations.
+L'empire Inca ayant été constitué de plus de 12 millions d'individus, cet outil a été au cœur de son administration et a permis de recenser la population et gérer l'économie. Les experts du quipu se sont même rendus compte que plus d'un tiers comportaient des informations autres que des chiffres, aussi appelées informations qualitatives, en opposition aux informations quantitatives. Cet outil à donc également servi à transmettre des messages, composé d'un vocabulaire créé à partir de différentes couleurs, types de fils, de nœuds, ainsi que leurs positions et orientations.
 
 En mathématique il existe une branche très intéressante appelée une théorie des nœuds, elle fait partie de la sous branche de la topologie, c'est à dire l'étude de la déformation d'un objet sans arrachage ni recollage.
 
@@ -709,9 +723,7 @@ Par la suite, romains, chinois, japonais, russes, mexicains, français, et autre
 
 #### Code de Hammurabi
 
-Ce texte babylonien daté vers **-1750**, est à ce jour le texte de loi connu le plus complet de la Mésopotamie Antique. Il démontre l'existence de lois, notamment concernant les salaires, indiquant qu'il existait des corps de métiers bien définis ; mais aussi sur le droit de la famille, la propriété, le système judiciaire, et bien d'autres.
-
-Ces lois décrivent des situation problématique auxquelles elles proposent des solution, ont dit qu'elle sont casuistique.
+Ce texte babylonien daté vers **-1750**, est à ce jour le texte de loi connu le plus complet de la Mésopotamie Antique. Il démontre l'existence de lois, notamment concernant les salaires, indiquant qu'il existait des corps de métiers bien définis ; mais aussi sur le droit de la famille, la propriété, le système judiciaire, et bien d'autres. Ces lois décrivent des situation problématique auxquelles elles proposent des solution, ont dit qu'elle sont casuistique.
 
 À l'époque où Hammurabi succède à son père, il possède un petit territoire comportant tout de même des grandes villes, mais il est entouré de puissants royaumes, qu'il finira par vaincre et annexer, pour finir par dominer la région et fonder le royaume babylonien tel qu'on le connaît en tant que puissance culte du Proche Orient. La politique rédigée à sa gloire à l'aide ce code à donc certainement eu un rôle dans le développement de la société babylonienne jusqu’à son apogée, lui donnant à l'époque l'image d'un roi guerrier de justice, manifestation d'un dieu soleil sur terre.
 
@@ -719,13 +731,11 @@ Ces lois décrivent des situation problématique auxquelles elles proposent des 
 
 #### Thalès
 
-Né vers l'an **-620**, Thalès fut un philosophe et mathématicien grec si important, que tous furent d'accord pour dire qu'il était l'un des plus grands sages de la Grèce antique. Il eu vécu et étudié en Égypte où il détermina la hauteur de pyramides, prédit des éclipses, et théorisa les crues du Nil. Il exporta la science de la géométrie en Grèce et on lui doit deux des plus vieux théorèmes géométrique qui portent son nom, encore étudiés aujourd'hui, bien que leurs démonstration n'ai été avérée que plus tard.
+Né vers l'an **-620**, Thalès fut un philosophe et mathématicien grec si important, que tous furent d'accord pour dire qu'il était l'un des plus grands sages de la Grèce antique. Il eu vécu et étudié en Égypte où il détermina la hauteur de pyramides, prédit des éclipses, et théorisa les crues du Nil. Il exporta la science de la géométrie en Grèce et deux des plus vieux théorèmes géométrique qui portent son nom, encore étudiés aujourd'hui, bien que leurs démonstration n'ai été avérée que plus tard.
 
-Il est aussi l'un des fondateurs de astronomie, il travailla sur des éphémérides grâce auxquelles il a conseillé à des marins de se guider à l'aide de la petite ourse. Les tables de navigations encore utilisées de nos jours trouvent donc leurs racines dans l'Antiquité, sûrement même avant Thalès.
+Il est aussi l'un des fondateurs de astronomie, il travailla sur des éphémérides grâce auxquelles il a conseillé à des marins de se guider à l'aide de la petite ourse. Les tables de navigations encore utilisées de nos jours, et que les pionniers de l'informatique tenteront d'automatiser, trouvent donc leurs racines dans l'Antiquité, sûrement même avant Thalès.
 
-Par ailleurs, il est le premier à avoir découvert qu'une année, qui à l'époque était pensée comme une révolution du soleil autour la Terre, ne prenait pas 365 jours mais 365 jours et un quart, d'où les années bissextiles. Il est également le premier à avoir pris connaissance de l'électricité, grâce à l'ambre qui attire un tissu, ou les propriété d'aimantation de l'oxyde de fer ; ce qui lui vaut d’ailleurs d'être considéré comme le premier physicien.
-
-Enfin, il fonda l'école milésienne, qui inspirera les personnalités antiques qui suivent ce récit.
+Par ailleurs, il est le premier à avoir découvert qu'une année, qui à l'époque était pensée comme une révolution du soleil autour la Terre, ne prenait pas 365 jours mais 365 jours et un quart, d'où les années bissextiles. Il est également le premier à avoir pris connaissance de l'électricité, grâce à l'ambre qui attire un tissu, ou les propriété d'aimantation de l'oxyde de fer ; ce qui lui vaut d’ailleurs d'être considéré comme le premier physicien. Enfin, il fonda l'école milésienne, qui inspirera les personnalités antiques qui suivent ce récit.
 
 
 
@@ -779,11 +789,9 @@ Né en **-490**, Protagoras est un philosophe pré-socratique considéré comme 
 
 Les sophistes ont par conséquent étés perçus comme des gens avides, prêts à tout pour monnayer leur savoir à des prix toujours plus fous, au détriment même de la vérité, usant de la rhétorique de manière perverse et fallacieuse, ce qui à donné naissance au mot et à la pratique qu'est le *sophisme*. Tout raisonnement, même si la finalité est véridique, peut être considéré comme tel dès lors qu'il n'est pas logique, valide, s'appuie sur un biais, ou use de stratagème visant à prouver la véridicité de ses dires, en jouant sur la crédibilité ou les émotions (ethos et pathos), plus que sur le discours en lui même (logos).
 
-Pour beaucoup de personnalités de temps aussi éloignés, il est compliqué de démêler le vrai du faux, il aurait commencé sa vie comme modeste porteur de fardeau, bien qu'ayant potentiellement de la famille ou des proches aisés et dont il s'est visiblement rapproché au fil du temps.
+Pour beaucoup de personnalités de temps aussi éloignés, il est compliqué de démêler le vrai du faux, il aurait commencé sa vie comme modeste porteur de fardeau, bien qu'ayant potentiellement de la famille ou des proches aisés et dont il se serait visiblement rapproché au fil du temps.
 
-Il est entre autre connu pour avoir été agnostique, disant des dieux, qu'il "ne savais ni s'ils sont ni s'ils ne sont pas", ce qui lui aurait potentiellement valu, comme beaucoup d'autres à cette période, une condamnation pour impiété.
-
-Il a également déclaré que "l'homme est la mesure de toute chose", introduisant le principe fondamental du relativisme, soit le fait qu'une vérité énoncée n'est jamais objective, donc biaisée et conçue qu'au travers de la subjectivité et de la perception de celui qui l'affirme.
+Il est entre autre connu pour avoir été agnostique, disant des dieux, qu'il "ne savais ni s'ils sont ni s'ils ne sont pas", ce qui lui aurait potentiellement valu, comme beaucoup d'autres à cette période, une condamnation pour impiété. Il a également déclaré que "l'homme est la mesure de toute chose", introduisant le principe fondamental du relativisme, soit le fait qu'une vérité énoncée n'est jamais objective, donc biaisée et conçue qu'au travers de la subjectivité et de la perception de celui qui l'affirme.
 
 
 
@@ -822,7 +830,7 @@ Cette pensée émane à un moment où les mythes, fables et religions sont douce
 
 #### Cynisme
 
-Né en -440 à Athènes, Antisthène fut sophiste avant de suivre l'enseignement de Socrate et finir par fonder l'école cynique vers -390. Les cyniques enseignaient la désinvolture et l'humilité, l'étymologie signifiant littéralement chien, ce mode de pensée revient en grande partie à se considérer comme un simple animal domestique vivant en société.
+Né en **-440** à Athènes, Antisthène fut sophiste avant de suivre l'enseignement de Socrate et finir par fonder l'école cynique vers -390. Les cyniques enseignaient la désinvolture et l'humilité, l'étymologie signifiant littéralement chien, ce mode de pensée revient en grande partie à se considérer comme un simple animal domestique vivant en société.
 
 Diogène de Sinope, un des cyniques les plus connus, aurait même déclaré vouloir être "enterré comme un chien", montrant ainsi son désintérêt pour la sépulture ou les funérailles, et indirectement pour sa propre personne. A l'instar de Socrate, il se considérait citoyen du monde, à cet effet il forgea l'usage du mot *cosmopolite*.
 
@@ -860,7 +868,7 @@ Cette abstraction que sont les mathématiques, basée initialement sur des axiom
 
 **400 ans avant J.-C.**, Platon à contribué à cette distinction dans la Grèce Antique, séparant la technique de calcul ; "appropriée pour l’homme d’affaire et de guerre", qui doit quantifier et gérer ses troupes, gains et pertes ; de la théorie des nombre "nécessaire au philosophe pour surplomber la mer des changements et s’emparer de ce qui est véritable".
 
-Les mathématiques pures, tendent à la généralité, ou comme on le dirait en langage de mathématicien, vers la factorisation, c’est à dire la simplification d’un concept sous une forme plus courte, et facile à comprendre, et donc à transmettre et réutiliser. Notez que c'est également une notion très utilisée en programmation, la refactorisation. Elle fait parti des bonnes habitudes et de l'amélioration continue.
+Les mathématiques pures, tendent à la généralité, ou en langage de mathématicien, vers la factorisation, c’est à dire la simplification d’un concept sous une forme plus courte, et facile à comprendre, et donc à transmettre et réutiliser. Notez que c'est également une notion très utilisée en programmation, la refactorisation. Elle fait parti des bonnes habitudes et de l'amélioration continue.
 
 
 
@@ -869,6 +877,14 @@ Les mathématiques pures, tendent à la généralité, ou comme on le dirait en 
 Ce processus de réécriture syntaxique, trouve ses plus vieilles traces connues a la même période, le langage SMS serait avéré par le bibliographe et doxographe, Diogène Laërce, les premières traces remonteraient ainsi à **405 avant J.-C**., date à laquelle Xénophon, élève de Socrate, aurait usé de *sténographie* pour transcrire les discours de son maître, face au besoin d'écrire rapidement et idéalement à la vitesse de la parole. La sténographie, du grec ancien "écriture courte", est un procédé de tachygraphie signifiant "écriture rapide".
 
 Les mathématiques appliquées, quand à elles, utilisent ces concepts sur des domaines très spécifiques, pour exemple, la géométrie, étymologiquement "science de la mesure du terrain", à été développée dans l’Égypte antique pendant **les trois siècles avant J.-C.** , à partir du besoin de mesurer la superficie d’un champ, aussi appelée arpentage.
+
+
+
+#### Géométrie Euclidienne
+
+Vers la fin du 4 ème siècle avant J.-C. qu'Euclide rédige *Éléments*, un traité de mathématique sur la géométrie et l’arithmétique, qui a posé les bases de ces discipline. Cet ouvrage à été réédité de multiples fois et traduit par de nombreux savants, dont certains cités quelques paragraphes plus loin. Il est a l'origine de la méthode de calcul du PGCD qui est nommée algorithme d'Euclide, la division Euclidienne, et bien sur sa géométrie.
+
+En définitive, cette discipline que sont les mathématiques est une philosophie en soit, c'est a dire un système d'idées permettant de conceptualiser et visualiser le monde tout en le quantifiant. Même étymologiquement il y a une proximité entre les deux mots pour le savoir, par le partage de connaissance, dispensé lors d'une leçon d'autrui.
 
 
 
@@ -888,13 +904,13 @@ Il a également inventé le terme de *doxographie*, signifiant opinion écrite, 
 
 Il dira également que le philosophe doit faire preuve de métacognition, afin de se rendre compte des informations qu'il à sa disposition, et de qu'elles déductions en tirer, toujours dans l'idée d'accumuler du savoir et de s'élever tel un érudit vertueux.
 
-Sa philosophie connaîtra malgré cela plusieurs siècles d'oubli jusqu'à ce qu'il fut redécouvert à la fin de l'Antiquité, imprégnant l'enseignement théologique chrétien du moyen âge nommée scolastique, étymologiquement école et loisir, indiquant qu'apprendre est un privilège des gens ayant du temps libre.
+Sa philosophie connaîtra malgré cela plusieurs siècles d'oubli jusqu'à ce qu'il fut redécouvert à la fin de l'Antiquité, imprégnant l'enseignement théologique chrétien du moyen âge nommé scolastique, étymologiquement école et loisir, indiquant qu'apprendre est un privilège des gens ayant du temps libre.
 
 
 
 #### Stoïcisme
 
-Zénon de Kition, posa les bases du stoïcisme en l'an **-301**, pour les stoïques, la mort est une *indifférence*, qui n'est ni un *mal*, ni un *bien*, ces trois choses formant le monde selon lui l'existence du monde réel. Il existe cependant des indifférences préférables, on préférera par exemple la maladie à la mort.
+Zénon de Kition, posa les bases du stoïcisme en l'an **-301**, pour les stoïques, la mort est une *indifférence*, qui n'est ni un *mal*, ni un *bien*, ces trois choses formant le monde selon lui l'existence du monde réel. Il existe cependant des indifférences préférables, le stoïcien préférera par exemple la maladie à la mort.
 
 Nos désirs et nos craintes sont causés par nos représentations, lesquelles peuvent être changées, pour autant, le stoïcisme n'appelle pas à se persuader du contraire ni de s'auto-détourner-cognitivement (gasligher), mais à prendre en compte les choses telles qu'elle sont et s'en détacher, afin de se rapprocher de la vertu et s'éloigner des émotions, surtout celles négatives. Cela revient à une certaine apathie constante, du latin *apatheia* qui signifie absence de passions, et qui est généralement synonyme d’impassibilité et d'indifférence à l'émotion, d'où l'expression "rester stoïque". C'est le seul moyen selon eux d'être exempt de troubles et d'atteindre la tranquillité de l'âme, aussi appelée *ataraxie*.
 
@@ -902,25 +918,17 @@ Ce qui importe le plus pour les stoïciens est la vertu, qu'elle soit physique, 
 
 Concernant la théologie, pour les stoïciens Dieu est tout, mais pas dans le sens d'une divinité qui aurait un impact sur le monde. Sénèque dira même que "La nature ne peut pas plus exister sans Dieu, que Dieu sans la nature. L'un et l'autre sont une même chose", ce concept de "Dieu est tout" corresponds au *panthéisme*, et sera repris plus tard par d'autres philosophes comme Spinoza.
 
-La philosophie stoïque sera également reprise par beaucoup de personnalités par la suite, comme Ciceron, Épictère ou Marc Aurèle, mais aussi par des œuvres de pop cultures plus récentes, dans Star Wars, les jedis sont stoiciens, Maitre Yoda prononçant des phrases telles que "exerce ta volonté à renoncer à tout ce que tu craint de perdre un jour".
+La philosophie stoïque sera également reprise par beaucoup de personnalités par la suite, comme Ciceron, Épictère ou Marc Aurèle, mais aussi par des œuvres de pop cultures plus récentes, dans Star Wars, les jedis sont stoïciens, Maitre Yoda prononçant des phrases telles que "exerce ta volonté à renoncer à tout ce que tu craint de perdre un jour".
 
 https://www.youtube.com/watch?v=iE08wLRGPcQ
 
 
 
-#### Géométrie Euclidienne
-
-C'est vers **-300** qu'Euclide rédige *Éléments*, un traité de mathématique sur la géométrie et l’arithmétique, qui à façonné ces discipline dans les pays orientaux. Cet ouvrage à été réédité de multiples fois et traduit par de nombreux savants, dont certains cités quelques paragraphes plus loin. On lui doit la méthode de calcul du PGCD qui est nommée algorithme d'Euclide, la division Euclidienne, et bien sur sa géométrie.
-
-En définitive, cette discipline que sont les mathématiques est une philosophie en soit, c'est a dire un système d'idées permettant de conceptualiser et visualiser le monde tout en le quantifiant. Même étymologiquement on remarque une proximité entre les deux mots pour le savoir, par le partage de connaissance dont on profite lors d'une leçon d'autrui.
-
-
-
 #### Bibliothèque d'Alexandrie
 
-A cette période apparaissent des Mouseîon, institutions considérés comme des sanctuaires consacrés aux muses, déesses des arts. Celle d'Alexandrie restera la plus célèbre et abritera une bibliothèque éponyme fondée vers **-288**, c'est également la plus célèbre des bibliothèque, qui réunissait à son apogée environ 400 000 les plus importants ouvrages antiques, sous la forme de rouleaux de papyrus. Peu de personnes, dont Vitruve dont on reparlera plus tard, auront l'honneur de relater la vie qui été menée au Mouseîon et sa bibliothèque, avant qu'ils ne soient gravement endommagés vers  -47 et avérés intégralement détruit après l'an 642.
+A cette période apparaissent des Mouseîon, institutions considérés comme des sanctuaires consacrés aux muses, déesses des arts. Celle d'Alexandrie restera la plus célèbre et abritera une bibliothèque éponyme fondée vers **-288**, c'est également la plus célèbre des bibliothèque, qui réunissait à son apogée environ 400 000 des plus importants ouvrages antiques, sous la forme de rouleaux de papyrus. Peu de personnes, dont Vitruve dont je reparlera plus tard, auront l'honneur de relater la vie qui été menée au Mouseîon et sa bibliothèque, avant qu'ils ne soient gravement endommagés vers  -47 et avérés intégralement détruit après l'an 642.
 
-Bien qu'une partie des œuvres ai été achetées, Ptolémée Ier qui succède alors à Alexandre le grand, aurai demandé à tout les navires arrivant à Alexandrie de transmettre les ouvrages qu'il transportait pour recopie, gardant l'original à la bibliothèque d'Alexandrie. Ce mode d’acquisition de l'information est l'ancêtre du dépôt légal incitant ou obligeant les producteurs et diffuseurs de déposer leurs œuvres pour les compiler dans le bien commun. Par la suite Ptolémée II demandera aux rois et grands de ce monde de transmettre leurs œuvre et ensuite Ptolémée V interdira l'exportation d’œuvres afin que la bibliothèque d’Alexandrie en ai l'exclusivité.
+Bien qu'une partie des œuvres ai été achetées, Ptolémée Ier qui succède alors à Alexandre le grand, aurai demandé à tout les navires arrivant à Alexandrie de transmettre les ouvrages qu'il transportait pour recopie, gardant l'original à la bibliothèque d'Alexandrie. Ce mode d’acquisition de l'information est l'ancêtre du dépôt légal incitant ou obligeant les producteurs et diffuseurs de déposer leurs œuvres pour les compiler dans le bien commun. Par la suite Ptolémée II demandera aux rois et grands de ce monde de transmettre leurs œuvre. Enfin, Ptolémée V interdira l'exportation d’œuvres afin que la bibliothèque d’Alexandrie en ai l'exclusivité.
 
 On constate que l’acquisition et la rétention d'information est un pouvoir à part entière.
 
@@ -928,7 +936,7 @@ On constate que l’acquisition et la rétention d'information est un pouvoir à
 
 #### Archimède
 
-Archimède de Syracuse est né en **-287**, il fut élève d'Euclide. On lui doit le fameux théorème de la poussée du même nom et l'explication du principe du levier, mais aussi la vis d'Archimède ou le palan qui permet de soulever des charges à l'aide d'un double système de poulies.
+Archimède de Syracuse est né en **-287**, il fut élève d'Euclide. Il a rédigé le fameux théorème de la poussée du même nom et l'explication du principe du levier, mais aussi la vis d'Archimède ou le palan qui permet de soulever des charges à l'aide d'un double système de poulies.
 
 Considéré comme le plus grand mathématicien de l'Antiquité, il a apporté beaucoup à la géométrie pour laquelle il a étudié et rédigé des traité sur les cônes, spirales, cylindres, paraboles, et cercles ; mais aussi à la mécanique.
 
@@ -946,7 +954,7 @@ Il a également perfectionné la clepsydre, en ajoutant un réservoir intermédi
 
 #### Philon de Byzance
 
-Né en **-280**, il est le plus ancien mécanicien dont on a retrouvé la majorité de l’œuvre, ses travaux vont être utilisé de l'Empire romain au 10 ème siècle. Il rédigera moult traités, sur les leviers, pneumatiques, automates, clepsydres, constructions, roues et machines de guerres. Il a documenté beaucoup de choses dans ses domaines et c'est grâce à lui que l'on connaît les réalisations de Ctésibios. Il est également inventeur, ou du moins a été le premier à décrire le thermoscope, permettant de visualiser les différences de températures.
+Né en **-280**, il est le plus ancien mécanicien dont les historiens ont retrouvés la majorité de l’œuvre, ses travaux vont être utilisé de l'Empire romain au 10 ème siècle. Il rédigera moult traités, sur les leviers, pneumatiques, automates, clepsydres, constructions, roues et machines de guerres. Il a documenté beaucoup de choses dans ses domaines et c'est grâce à lui que l'on connaît les réalisations de Ctésibios. Il est également inventeur, ou du moins a été le premier à décrire le thermoscope, permettant de visualiser les différences de températures.
 
 Il réalisera également des automates sonores et systèmes d'approvisionnement automatiques de liquide, dont un automate de servante, permettant à l'utilisateur d'y déposer un verre, déclenchant un système faisant s'écouler du vin puis de l'eau, avec la possibilité de retirer son verre avant ou pendant l'écoulement de l'un ou de l'autre pour stopper le mécanisme. 
 
@@ -960,7 +968,7 @@ Vers l'an **-200**, ce poète mathématicien indien rédigera *Chandahsastra*, �
 
 #### Calculateurs analogiques
 
-Le plus ancien calculateur analogique attesté est l'Anticythère en **-150**, c'est le plus vieux mécanisme à engrenage connu. Réalisé en bronze, il servait à prédire les éclipses solaires et lunaires.  Il est constitué notamment d'un cadran de 233 positions correspondant au nombre de mois espaçant deux éclipses, soit un cycle nommé Saros ; d'un cadran métonique pour indiquer le mois et l'année ; et d'un cadran de 365 positions, correspondant au nombre de jours d'une année civile du calendrier Égyptien, décrit dans le Papyrus Rhind. Ainsi, en actionnant les engrenages à l'aide d'une potentielle manivelle non retrouvée sur l'Anticythère, on pouvait retrouver les différentes dates des éclipses.
+Le plus ancien calculateur analogique attesté est l'Anticythère en **-150**, c'est le plus vieux mécanisme à engrenage connu. Réalisé en bronze, il servait à prédire les éclipses solaires et lunaires.  Il est constitué notamment d'un cadran de 233 positions correspondant au nombre de mois espaçant deux éclipses, soit un cycle nommé Saros ; d'un cadran métonique pour indiquer le mois et l'année ; et d'un cadran de 365 positions, correspondant au nombre de jours d'une année civile du calendrier Égyptien, décrit dans le Papyrus Rhind. Ainsi, en actionnant les engrenages à l'aide d'une potentielle manivelle non retrouvée sur l'Anticythère, l'utilisateur pouvait retrouver les différentes dates des éclipses. L'existence d'un artefact aussi unique et complexe que celui ci reste un mystère pour les historien sachant que la maitrise de la forge de précision ne sera avérée qu'à la fin du Moyen âge.
 
 
 
@@ -974,13 +982,11 @@ Le plus ancien calculateur analogique attesté est l'Anticythère en **-150**, c
 
 Marcus Vitruvius Pollio est un architecte romain qui a œuvré pendant le **1er siècle avant J.-C.**
 
-Il nous a transmis beaucoup de choses liées à Archimède, il aurait rapporté l'anecdote où ce dernier détecte une supercherie dans la composition d'une couronne royale prétendument en or massif, en la comparant avec une masse d'or identique en immersion dans un volume d'eau, afin d'en comparer le rapport avec le volume. Il a également décrit comment construire une vis d'Archimède, qui était très utile pour drainer de l'eau.
+Il nous a transmis beaucoup d'informations liées à Archimède, il aurait rapporté l'anecdote où ce dernier détecte une supercherie dans la composition d'une couronne royale prétendument en or massif, en la comparant avec une masse d'or identique en immersion dans un volume d'eau, afin d'en comparer le rapport avec le volume. Il a également décrit comment construire une vis d'Archimède, qui était très utile pour drainer de l'eau.
 
-Vitruve eu également décrit multitudes de machines utilisées de son temps pour la construction, telles que les palans, grues, et poulies qui on vues le jour grâce aux travaux d'Archimède, mais aussi des machines de guerres, comme la catapulte, la baliste, et bien d'autres comme les prémices d'une machine à vapeur.
+Vitruve eu également décrit multitudes de machines utilisées de son temps pour la construction, telles que les palans, grues, et poulies qui ont vues le jour grâce aux travaux d'Archimède, mais aussi des machines de guerres, comme la catapulte, la baliste, et bien d'autres comme les prémices d'une machine à vapeur.
 
-Son travail sur les aqueducs a été décrit avec une grande précision, détaillant les siphons et la pression importante qui en résultait. Faisant de lui une référence pour les hauts placés de l'Empire Romain comme Frontin, un général qui fut chargé d'administrer les aqueducs de Rome.
-
-Il a longtemps milité pour ne pas transporter l'eau à l'aide de tuyaux en plomb, prônant l'utilisation de la terre, après avoir remarqué que les ouvriers de fonderies de plomb étaient souvent malades.
+Son travail sur les aqueducs a été décrit avec une grande précision, détaillant les siphons et la pression importante qui en résultait. Faisant de lui une référence pour les hauts placés de l'Empire Romain comme Frontin, un général qui fut chargé d'administrer les aqueducs de Rome. Il a longtemps milité pour ne pas transporter l'eau à l'aide de tuyaux en plomb, prônant l'utilisation de la terre, après avoir remarqué que les ouvriers de fonderies de plomb étaient souvent malades.
 
 Toujours en rapport avec la construction et l'eau, il décrira le chorobate, un niveau à eau utilisé pour s'assurer que les aqueducs aient la bonne inclinaison et véhiculent correctement l'eau, ainsi que l'agencement idéal de bains chaud à côté de bains tièdes, suivis par les bains froids, afin d'avoir une meilleure efficacité thermique, avec l'aide de ventilations manuelles. Il a également développé l'un des premiers odomètre permettant un comptage kilométrique, et des roues à aubes. Enfin il eu décrit des constructions marines telles que les brise-lame, les jetées et les quais.
 
@@ -992,7 +998,7 @@ Les six principes théoriques qui les régissent étant l'ordonnance, la disposi
 
 #### Héron
 
-Originaire d'Alexandrie, il serait né et aurait vécu pendant le **premier siècle après J.-C**. On lui attribut la création de la première machine à vapeur, l'Éolipyle, qui servait uniquement à distraire ses utilisateurs, l'énergie dégagée étant négligée. Pour autant, Vitruve aurait déjà eu mentionné de telles machines à l'époque, et il s'est avéré par la suite qu'Héron était postérieur à ce dernier qui décéda en -20. Il a donc potentiellement abouti ou juste démocratiser cette machine, qu'il aurait, selon ses explications dans son livre *Pneumatica*, perfectionné au point de pouvoir ouvrir les portes d'un temple, à la force de la vapeur, obtenue en chauffant de l'eau à l'aide du feu d'un autel. Il à également réalisé de multiples automates pour des pièces de théâtre.
+Originaire d'Alexandrie, il serait né et aurait vécu pendant le **premier siècle après J.-C**. Les historiens lui attribuent la création de la première machine à vapeur, l'Éolipyle, qui servait uniquement à distraire ses utilisateurs, l'énergie dégagée étant négligée. Pour autant, Vitruve aurait déjà eu mentionné de telles machines à l'époque, et il s'est avéré par la suite qu'Héron était postérieur à ce dernier qui décéda en -20. Il a donc potentiellement abouti ou juste démocratiser cette machine, qu'il aurait, selon ses explications dans son livre *Pneumatica*, perfectionné au point de pouvoir ouvrir les portes d'un temple, à la force de la vapeur, obtenue en chauffant de l'eau à l'aide du feu d'un autel. Il à également réalisé de multiples automates pour des pièces de théâtre.
 
 
 
@@ -1004,13 +1010,9 @@ Né vers l'an **70**, également dans la ville d'Alexandrie, Ménélaos était u
 
 #### Ptolémée
 
-Claude Ptolémée, est un astronome, astrologue, mathématicien, et géographe grec né vers l'an **100**, tout comme Aristote, il pensait que nous étions dans un système géocentrique, ou les planètes et le soleil tournerait autour de la Terre. Malgré cela, il eu rédiger des tables mathématiques très utilisés à l'époque car elle permettait de calculer avec une précision la position des astres et les éclipses de manière suffisante.
+Claude Ptolémée, est un astronome, astrologue, mathématicien, et géographe grec né vers l'an **100**, tout comme Aristote, il pensait que nous étions dans un système géocentrique, ou les planètes et le soleil tournerait autour de la Terre. Malgré cela, il eu rédigé des tables mathématiques très utilisés à l'époque car elle permettait de calculer avec une précision la position des astres et les éclipses de manière suffisante.
 
 
-
-#### Bilan de la période
-
-Les différents penseurs de l'Antiquité ont alors définit la base de l'information en modules, concept très utilisé ayant permis une standardisation des idées, une base commune permettant d'avoir un language commun
 
 
 
@@ -1018,7 +1020,11 @@ Les différents penseurs de l'Antiquité ont alors définit la base de l'informa
 
 ### Moyen Âge
 
-Bien que le début de cette période soit marquée par un déclin avec la chute de l'Empire romain en 450, il se passera bien des choses dans le domaine des mathématiques, de la cryptographie et de l'imprimerie.
+Les différents penseurs de l'Antiquité ont alors définit la base de l'information en modules, concept très utilisé ayant permis une standardisation des idées, une base commune permettant d'avoir un language commun. S'entamme alors 
+
+
+
+Bien que le début de cette période soit marquée par un déclin avec la chute de l'Empire romain en 450, il se passera bien des choses dans le domaine des mathématiques, de la cryptographie et de l'imprimerie. Ce sera par ailleurs l'âge d'or de l'islam du 8ème au 13ème siècle, nous verrons plusieurs savant arabes de cette époque qui ont eu accès aux textes antiques, grâce à la conquête d'Alexandrie ou d'Antioche vers 650.
 
 D'un point de vue social et économique, l'humanité a connue une forte croissance démographique à cette période, avec un doublement de la population passant de 35 à 80 millions d'individus entre l'an 1000 et  1350, malgré la grande famine de 1316 et la peste noire de 1347. Ce développement a été en grande partie du à un climat plus favorable et à l'agrandissement des surfaces cultivés, qui a été accompagné par le développement des techniques agricoles comme la rotation des cultures ou l'apparition de la charrue.
 
@@ -1059,9 +1065,7 @@ Il a également démocratiser le concept d’équation, égalité entre deux exp
 
 La résolution de l’équation passe par une suite d’opération, résultant idéalement en un ensemble ou système d'équations de la forme `variable_inconnue = [résultat_numéraire]`.
 
-Le mot Algorithme est né d'une longue déformation du nom "Al-Khwarizmi" par les traducteurs latin en "Algoritmi" au 12e siècle. Ensuite, avec l'influence grecque "arithmos", signifiant "nombre", on aurait obtenu "algorithmus".
-
-Suivre les règles de l'Algèbre sera alors la pratique de l'algoriste qui algorisme.
+Le mot Algorithme est né d'une longue déformation du nom "Al-Khwarizmi" par les traducteurs latin en "Algoritmi" au 12e siècle. Ensuite, avec l'influence grecque "arithmos", signifiant "nombre", aurait été obtenu le terme "algorithmus". Suivre les règles de l'Algèbre sera alors la pratique de l'algoriste qui algorisme.
 
 
 
@@ -1077,6 +1081,12 @@ Ces trois frères, dits Banou Moussa, étymologiquement fils de Moïse, sont des
 
 
 
+#### Al-Kindi
+
+Ayant travaillé avec Al-Khwarizmi et les frères Banou Moussa sur la traduction du multiples œuvres grecques en arabe, il sera imprégné par la pensée aristotélicienne. Son oeuvre la plus notable est son *Manuscrit sur le déchiffrement des messages codés*, première oeuvre connue à traiter le sujet de la cryptanalyse. Il y indiquera notamment l'analyse de fréquence d'un charactère, permettant de facilement retrouver la clé d'un chiffrement par décalage comme le Code César.
+
+
+
 #### Al-Battani
 
 Né vers **850** et mort en 930, c'était un astronome et mathématicien Arabe souvent considéré comme le Ptolémée des Arabes. Il a en effet repris ses travaux qu'il a complété pour constituer des tables de calculs pour le Soleil et la Lune, et ce en usant de la trigonométrie à l'instar d'Aryabhata, dont il est peu probable qu'il ai connu les travaux.
@@ -1089,7 +1099,7 @@ Il a découvert le mouvement de l'apogée du Soleil, recenser plus de 500 étoil
 
 #### Gerbert d'Aurillac
 
-Aussi connu sous le nom de Sylvestre II, né en **950** et mort en 1003. Il aurait demandé à l'astronome Lupitus de Barcelone, un traité sur un calculateur analogique permettant de mesurer la hauteur des étoiles nommé astrolabe. On ne sait pas si elle lui est parvenue mais il a introduit des concepts de la science arabe en Occident.
+Aussi connu sous le nom de Sylvestre II, né en **950** et mort en 1003. Il aurait demandé à l'astronome Lupitus de Barcelone, un traité sur un calculateur analogique permettant de mesurer la hauteur des étoiles nommé astrolabe. Les historiens ne savent pas si elle lui est parvenue mais il a introduit des concepts de la science arabe en Occident.
 
 Lors d'un séjour de 3 ans en Catalogne, il aurait en effet consulté des manuscrits traduits de l'arabe, dans lesquels il aurait pu avoir pris connaissances des chiffres indo-arabes, ainsi que l'écriture décimale positionnelle. Il a inventé un abaque, fonctionnant de la même manière que l'on poserai une addition sur papier, dont une version pourrait avoir été réalisé avec cette notation des chiffres.
 
@@ -1115,9 +1125,15 @@ Probablement né en **1070**, il vécu jusqu'au début du 12 ème siècle où il
 
 
 
+#### Averroès
+
+Né en **1126**
+
+
+
 #### Al-Jazari
 
-Comme beaucoup, on ne sait pas grand chose de sa vie, il a été actif vers **1206**, où il aurait écrit, après 25 ans d'études, le "Livre de la connaissance des procédés mécaniques", à la demande de Nasir Al-Din Mahmoud, le prince artukide de l'époque. Sûrement inspiré du *Livre des mécanismes ingénieux* des frères Banou Moussa, eux même inspirés des travaux des mécaniciens de l'Antiquité ; il transmettra à travers ce qui sera le traité de mécanique le plus important du monde arabe, des informations sur les pompes et machines hydrauliques, les automates, la manivelle, et bien d'autres ; illustré notamment avec un automate verseur de vin, qui n'est pas sans rappeler la servante de Philon de Byzance.
+Comme beaucoup, les historiens ne savent pas grand chose de sa vie, il a été actif vers **1206**, où il aurait écrit, après 25 ans d'études, le "Livre de la connaissance des procédés mécaniques", à la demande de Nasir Al-Din Mahmoud, le prince artukide de l'époque. Sûrement inspiré du *Livre des mécanismes ingénieux* des frères Banou Moussa, eux même inspirés des travaux des mécaniciens de l'Antiquité ; il transmettra à travers ce qui sera le traité de mécanique le plus important du monde arabe, des informations sur les pompes et machines hydrauliques, les automates, la manivelle, et bien d'autres ; illustré notamment avec un automate verseur de vin, qui n'est pas sans rappeler la servante de Philon de Byzance.
 
 
 
@@ -1131,6 +1147,8 @@ Il est également réputé pour sa fameuse suite, bien que connue des Indiens de
 
 #### Ramon Llull
 
+Opposé à Averroès, ce philosophe espagnol né en **1234** est parfois considéré comme un illuminé, qui dira avoir rencontré Dieu qui lui aurait donné un système lui permettant de mémoriser l'ensemble de sa connaissance. Ce système utiliserai des roues 
+
 Ramon Llull développe son œuvre Ars comme une création épistémologique relationnelle, dans laquelle il déploie un exercice combinatoire basé sur des paires et des triplés. Concrètement, il propose une demi-matrice d'adjacence avec 36 combinaisons, sans répétitions, de neuf éléments pris deux à deux et un tableau de combinaisons ternaires. Ce tableau présente des variations de trois éléments pris trois à la fois, dans un ordre cyclique et sans répétitions, donnant lieu à 252 triplets possibles.
 
 Leibniz est le premier à réaliser, plus de 300 ans plus tard, les possibilités que contenait l'œuvre de Llull et adopte l'idée llullienne d'un « alphabet de la pensée humaine » qui fonctionne en combinant des lettres, et il la relie à sa propre idée de une "*mathesis universalis"*, c'est-à-dire d'une logique conçue comme une mathématique généralisée. Leibniz écrit "quand une controverse surgit, il n'y aura pas plus besoin de discussion entre deux philosophes qu'entre deux calculateurs". Leibniz interprète l’Art comme une sorte de pensée automatique, une sorte de mécanisme conceptuel qui, une fois établi, fonctionne tout seul. Cet automatisme conceptuel a longtemps été chéri par Leibniz, le premier à avoir imaginé, après Blaise Pascal, une machine à calculer qui fonctionnait réellement.
@@ -1139,9 +1157,9 @@ Plus récemment, les développements de Llull ont été liés au calcul informat
 
 En 2001, avec la découverte des manuscrits perdus *Ars notandi*, *Ars eleccionis* et *Alia ars eleccionis*, Llull est reconnu comme le découvreur du paradoxe de Condorcet, redécouvert au XVIIIe siècle par le marquis de Condorcet.
 
-Ramon Llull est considéré comme l'un des précurseurs de l'informatique et de l'intelligence artificielle, en plus d'être une référence pour les ingénieurs informaticiens. Ce fait est dû à l’invention qu’il a créée pour proposer de nouvelles idées. Elle consiste à combiner une série de concepts de manière aléatoire pour parvenir à une conclusion, c'est-à-dire un raisonnement automatique.[62] Les concepts qu'il a utilisés tournaient entre autres autour de la théologie, de la philosophie, de l'astronomie et de l'alchimie. Il appliqua ce mécanisme à son chef-d'œuvre Ars Magna (1305). Ce qui est intéressant dans cette façon de travailler est le résultat aléatoire obtenu en combinant des concepts[63] qui ne seraient pas liés au début, dans le cas de Ramon Llull se démarquent les réflexions où il combine la religion avec la philosophie. Le plus remarquable et auquel il est parvenu grâce à cette méthode est « Toutes les religions sont pareilles ».[64] Pour créer cette création, il s'est inspiré des outils utilisés par les Arabes pour réaliser l'astronomie et la navigation. Il a ainsi cherché à formaliser le processus de raisonnement à travers des principes mathématiques. On peut dire que l’objectif final était d’automatiser la connaissance à partir d’une prémisse combinatoire, c’est-à-dire qu’elle était un précurseur de l’automatisation des processus.
+Ramon Llull est considéré comme l'un des précurseurs de l'informatique et de l'intelligence artificielle, en plus d'être une référence pour les ingénieurs informaticiens. Ce fait est dû à l’invention qu’il a créée pour proposer de nouvelles idées. Elle consiste à combiner une série de concepts de manière aléatoire pour parvenir à une conclusion, c'est-à-dire un raisonnement automatique.[62] Les concepts qu'il a utilisés tournaient entre autres autour de la théologie, de la philosophie, de l'astronomie et de l'alchimie. Il appliqua ce mécanisme à son chef-d'œuvre Ars Magna (1305). Ce qui est intéressant dans cette façon de travailler est le résultat aléatoire obtenu en combinant des concepts[63] qui ne seraient pas liés au début, dans le cas de Ramon Llull se démarquent les réflexions où il combine la religion avec la philosophie. Le plus remarquable et auquel il est parvenu grâce à cette méthode est « Toutes les religions sont pareilles ».[64] Pour créer cette création, il s'est inspiré des outils utilisés par les Arabes pour réaliser l'astronomie et la navigation. Il a ainsi cherché à formaliser le processus de raisonnement à travers des principes mathématiques. L’objectif final était d’automatiser la connaissance à partir d’une prémisse combinatoire, c’est-à-dire qu’elle était un précurseur de l’automatisation des processus.
 
-Enfin, l’Art et ses figures contiennent des concepts aux significations diverses, qui peuvent se combiner entre eux afin de construire un discours favorisant la transmission de la vérité chrétienne. On dit que Llull fut l'inventeur d'une sorte de sémantique combinatoire qui pourrait certainement être suggestive pour les sciences cognitives (linguistique cognitive) et computationnelles (linguistique computationnelle).[73]
+Enfin, l’Art et ses figures contiennent des concepts aux significations diverses, qui peuvent se combiner entre eux afin de construire un discours favorisant la transmission de la vérité chrétienne. Les historiens décrivent Llull comme l'inventeur d'une sorte de sémantique combinatoire qui pourrait certainement être suggestive pour les sciences cognitives (linguistique cognitive) et computationnelles (linguistique computationnelle).[73]
 
 
 
@@ -1159,7 +1177,7 @@ L'imprimerie à permis l'automatisation d'une transmission écrire qui était al
 
 #### Leon Battista Alberti
 
-Il est considéré par certains comme le père de la cryptographie occidentale, il a en effet étudier et inventer un système de chiffrement par substitution, le cadran chiffrant, et rédigé un texte prouvant que l'analyse de fréquence des lettres dans les textes en permet le déchiffrement. Il finira donc logiquement par inventer le sur-chiffrement codique, l'innovation cryptographique la plus significative depuis la période de César. Cette méthode consiste à utiliser plusieurs alphabets désordonnés en alternant entre eux lors du chiffrement.
+Il est considéré par certains comme le père de la cryptographie occidentale, il a en effet étudié et inventé un système de chiffrement par substitution, le cadran chiffrant, et rédigé un texte prouvant que l'analyse de fréquence des lettres dans les textes en permet le déchiffrement. Il finira donc logiquement par inventer le sur-chiffrement codique, l'innovation cryptographique la plus significative depuis la période de César. Cette méthode consiste à utiliser plusieurs alphabets désordonnés en alternant entre eux lors du chiffrement.
 
 Il était également architecte, ayant planifier des constructions à Florence et surtout le précurseur de l'imagerie numérique.
 
@@ -1189,7 +1207,7 @@ L'époque contemporaine la suivra en 1792 à partir de la révolution française
 
 
 
-#### Nicolas Copernic
+#### Nicolas Copernic[^Héliocentrisme]
 
 Aristarque de Samos fut vers -280 le premier à envisager que la Terre tourne autour du soleil mais c'est Copernic qui vers **1513** proposa un modèle héliocentrique, amélioré par la suite par Kepler, et confirmé à posteriori par Galilée qui réalisa les observations et rédigea les premiers principes mécaniques permettant de justifier ce système.
 
@@ -1203,7 +1221,7 @@ Ce mouvement a donné lieu au siècle des Lumières, qui a vu émerger beaucoup 
 
 Né le 28 février **1533**, cet épicurien sceptique eu écrit multitudes d'essais qui inspireront bien des philosophes après lui, il commença cependant par écrire deux essais stoïques pour prouver "*que le goût des biens et des maux dépend de l’opinion que nous en avons*" et "*que philosopher c’est apprendre à mourir*" mais s'en écarta rapidement, indiquant qu'il "est certain qu’à la plupart des savants, la préparation à la mort, a donné plus de tourment que la mort ne fait de souffrance".
 
-Il en garda pour autant la vertu, se dirigeant dans le scepticisme avec la plus grande prudence et tempérance, ne prononçant un jugement qu'une fois qu'il a bien analyser la situation, et indiquant se méfier des gens qui prétendent détenir la vérité. Ce décrivant lui même comme n'étant pas un sage, ni même ayant grande estime de lui, son humilité en fera quelqu'un de très apprécié et accessible auquel on s'identifie plus facilement qu'a un "grand sage".
+Il en garda pour autant la vertu, se dirigeant dans le scepticisme avec la plus grande prudence et tempérance, ne prononçant un jugement qu'une fois qu'il a bien analyser la situation, et indiquant se méfier des gens qui prétendent détenir la vérité. Ce décrivant lui même comme n'étant pas un sage, ni même ayant grande estime de lui, son humilité en fera quelqu'un de très apprécié et accessible auquel le commun des mortels s'identifie plus facilement qu'a un "grand sage".
 
 Il dira également que la philosophie est la science qui nous apprends à vivre, confrontant la pensée à l'essentiel des expériences que l'on rencontre de notre vivant et à soi même. Au fil du temps sa recherche du bonheur le reprochera de l'épicurisme, qui finira par lui faire compléter ses propos en déclarant que philosopher c'est apprendre à vivre le plus heureusement possible, et qu'il "passe le temps quand il est mauvais et désagréable ; quand il est  bon, je ne veux pas le passer, je le goûte à nouveau, je m’y arrête. Il faut passer le mauvais en courant et s’arrêter au bon", preuve d'un hédonisme raisonné.
 
@@ -1213,7 +1231,7 @@ Il dira également que la philosophie est la science qui nous apprends à vivre,
 
 Né le 9 avril **1553**, il consacra la première partie de sa vie à la religion, avant de finir par commettre le crime d'abandonner son habit de moine, devenant apostat et entament des études qui le feront devenir médecin, après quoi il devint écrivain.
 
-Bon vivant et humble chrétien connu pour ses banquets est également passionné par le gigantisme, on lui doit Pantaguel, Gargantua, ou encore Panurge et ses moutons. Naturellement épicurien, mais aussi influencé par le stoïcisme, le scepticisme et le cynisme, il partage avec Montaigne le fait d'être un écrivain érudit polyglotte proche du peuple, mêlant le sérieux au comique, bien qu'a l'inverse de Montaigne, lui écrira plutôt des romans.
+Bon vivant et humble chrétien connu pour ses banquets est également passionné par le gigantisme, à cet effet il inventera Pantaguel, Gargantua, mais encore Panurge et ses moutons. Naturellement épicurien, mais aussi influencé par le stoïcisme, le scepticisme et le cynisme, il partage avec Montaigne le fait d'être un écrivain érudit polyglotte proche du peuple, mêlant le sérieux au comique, bien qu'a l'inverse de Montaigne, lui écrira plutôt des romans.
 
 C'est une énième personnalité à être censuré, et à s'attirer des condamnation pour sacrilèges comme ne pas croire en l'immortalité de l'âme ou d'amoindrir la crainte de Dieu. Pour autant, le succès de ses premières œuvres lui feront réaliser un almanach se riant des superstitions. Les géants présents dans ses œuvres sont également une caricatures de la royauté, de l'Église et de son enseignement scolastique, qu'il combattra en usant de raillerie paillarde et de culture populaire, usant de situations très imagées et exacerbées.
 
@@ -1237,9 +1255,9 @@ Il s'intéressa également à la psychologie et notamment la mémoire, domaine q
 
 
 
-#### Johannes Kepler
+#### Johannes Kepler[^Héliocentrisme]
 
-Né en **1571**
+Né en **1571**, il a étudier et compléter les travaux de Copernic en indiquant que les trajectoires des planètes autour du soleil sont en réalités elliptiques. Il rédigera trois lois éponymes régissant les orbites, les aires, et les trajectoires.
 
 
 
@@ -1247,7 +1265,7 @@ Né en **1571**
 
 Né le 5 avril **1588**, il a rédigé *Léviathan* qu'il publiera en 1651. Cette œuvre matérialiste et rationaliste se veut critique des États, de la souveraineté et des religions, bien qu'elle soit ironiquement une référence biblique. Hobbes a suivi des raisonnements déductifs inspirés des mathématiques, plus précisément de la géométrie, pour établir une théorie scientifique et anthropologique de la morale et des organisations autoritaires. Pour lui l'humain est naturellement mauvais et violent, il n'inhiberai ce comportement qu'en faveur d'une autorité dont il craindrait la sentence. Le Léviathan représente cette autorité indiscutable, terrifiante, métaphore des dictatures qui régneront après la destitution de Charles I en 1646.
 
-Fermement opposé à la religion et à la scolastique philosophie religieuse enseignée au moyen age dans les universités, il serait le premier le premier à préconiser qu'une "société athée ou a-religieuse constitue la solution au problème social ou politique".
+Fermement opposé à la religion et à la scolastique, philosophie religieuse enseignée au moyen âge dans les universités, il serait le premier le premier à préconiser qu'une "société athée ou a-religieuse constitue la solution au problème social ou politique".
 
 Comme beaucoup de matérialistes, il adhérera à la philosophie nominaliste indiquant que les idées et concepts sont des constructions de l'esprit, niant la théorie des formes des philosophes antique. Il conçoit également la raison comme un système de traitement de l'information, comparant la pensée à un calcul. Cela revient à penser que les idées et mots ne sont que des étiquettes liés des réalités subjectives, qui ne représentent en aucun cas une réalité absolue. Cette subjectivité indique également un certain empirisme, toute connaissance provient initialement des sensations.
 
@@ -1267,11 +1285,17 @@ Digne héritier du scepticisme, ses réflexions étaient guidées par un doute m
 
 
 
-#### Galilée
+#### Galilée[^Héliocentrisme]
 
 Né en **1600**,
 
 Il rencontrera Hobbes lors d'un séjour de ce dernier à Florence.
+
+
+
+#### Juan Lobkowitz
+
+Né en 1606 il est considéré comme le fondateur de la mathémathique binaire
 
 
 
@@ -1297,7 +1321,7 @@ Cet outil permet à l'aide d'un tableau ayant pour lignes les chiffres de 1 à 9
 
 #### Règle coulissante à calculer
 
-Pour clôturer la présentation d'abaques, en **1621** William Oughtred, à qui on doit la notation de π et "x" pour la multiplication, se base sur les travaux de Napier et invente une règle coulissante destinée à calculer des multiplications, divisions et également des exponentielles, racines, puissances et calculs trigonométriques, laissant l'addition et la soustraction à de plus simples abaques.
+Pour clôturer la présentation d'abaques, en **1621** William Oughtred, qui est a l'origine de la notation de π et "x" pour la multiplication, se base sur les travaux de Napier et invente une règle coulissante destinée à calculer des multiplications, divisions et également des exponentielles, racines, puissances et calculs trigonométriques, laissant l'addition et la soustraction à de plus simples abaques.
 
 Aujourd'hui obsolètes, elles ont pendant longtemps été, à la manière des tables de calcul était une solution suffisamment précise, abordable et facile à créer.
 
@@ -1311,9 +1335,9 @@ Né le 29 août **1632**
 
 
 
-#### Isaac Newton
+#### Isaac Newton[^Héliocentrisme]
 
-Né en **1642**
+Né en **1642** il a abouti les travaux de Copernic, Kepler, et Galilée et élabora ainsi les lois de la gravitations universelle. C'est ainsi le fondateur de la mécanique classique et des trois lois portant son nom, il prouvera également la décomposition de la lumière et ainsi son spectre lumineux à l'aide d'un prisme.
 
 
 
@@ -1389,7 +1413,7 @@ Né en 1724, il est le fondateur du criticisme et de l'idéalisme transcendantal
 
 Il a également affirmé que la connaissance trouve son origine dans le sujet humain et non pas dans l'objet étudié. C'est à dire que la construction de la réalité ne sera jamais pleinement représentative de l'objet étudié, mais un long apprentissage itératif de l'humain afin de s'en rapprocher assez pour le connaître.
 
-Il traitera également beaucoup la question du dogme, indiquant que l'athéisme est une croyance au même titre que les autres, et qu'il faut malgré tout savoir limiter son savoir pour laisser une place à la croyance, sans laquelle, on ne peut concevoir le monde et emettre des hypothèses.
+Il traitera également beaucoup la question du dogme, indiquant que l'athéisme est une croyance au même titre que les autres, et qu'il faut malgré tout savoir limiter son savoir pour laisser une place à la croyance, sans laquelle, l'humain ne peut concevoir le monde et emettre des hypothèses.
 
 
 
@@ -1419,7 +1443,7 @@ Né en **1746**, Johann Heinrich Pestalozzi, est un pionnier de la pédagogie mo
 
 
 
-Philosophie de l'éducation et axiologie, qu'elle est la valeur de l'éducation et de l'enseignement aujourd'hui ? On sait désormais que l'apprentissage se fait mieux par la récompense que la punition. Il est plus productif d'encourager un bon comportement que de réprimander un mauvais, bien que cela est parfois nécessaire, il faut toujours mieux orienter sa pédagogie de manière positive.
+Philosophie de l'éducation et axiologie, qu'elle est la valeur de l'éducation et de l'enseignement aujourd'hui ? Des études montrent[^lesquelle] désormais que l'apprentissage se fait mieux par la récompense que la punition. Il est plus productif d'encourager un bon comportement que de réprimander un mauvais, bien que cela est parfois nécessaire, il faut toujours mieux orienter sa pédagogie de manière positive.
 
 
 
@@ -1499,9 +1523,9 @@ La sténotype a été inventée en 1827, par Benoît Gonod, professeur de rhéto
 
 La première personne à avoir automatiser l'édition de tables de calcul est Charles Babbage, qui a initialement travaillé avec des calculateurs humains, "computers"  en anglais. La conception de telles tables étaient fastidieuses à superviser et encore plus à calculer et réaliser. Il a œuvré à développer une machine basée sur les méthodes de calcul de l'époque, réalisées par des gens qui étaient coiffeurs, ayant perdu leur travail suite à la révolution française, période après laquelle la coiffure étant vue comme symbole de l'aristocratie, à été délaissé.
 
-Ils effectuaient essentiellement des additions et des soustraction, sous la supervision de mathématiciens qui leurs prépareraient les formules d'après la méthode des différences finies. D'où le nom de la machine qu'il a inventé en **1834**, la machine a différences.  Ayant l'expérience du milieu, il voulait réaliser un système fiable, résilient a l'erreur. Cette dernière pouvait provenir du calcul, mais arrivant le plus souvent lors de l'impression, il à donc fait en sorte, dès la phase de design, que sa machine prépare directement le texte en résultant pour l'impression.
+Ils effectuaient essentiellement des additions et des soustraction, sous la supervision de mathématiciens qui leurs prépareraient les formules d'après la méthode des différences finies. D'où le nom de la machine qu'il a inventé en **1834**, la machine a différences. Ayant l'expérience du milieu, il voulait réaliser un système fiable, résilient a l'erreur. Cette dernière pouvait provenir du calcul, mais arrivant le plus souvent lors de l'impression, il à donc fait en sorte, dès la phase de design, que sa machine prépare directement le texte en résultant pour l'impression.
 
-C'est une approche très intéressante réduisant les intermédiaires et automatisant toute la chaine de création, que je reprendrais plus tard. On remarque déjà que la machine est un outil qui peut nous guider et réduire nos erreurs, ce qui à l'époque était crucial, notamment en mer ou une erreur de calcul ou d'impression sur l'almanach du navigateur pouvait mener a la perte de tout un navire et de son équipage. 
+C'est une approche très intéressante réduisant les intermédiaires et automatisant toute la chaine de création, que je reprendrais plus tard. La machine est à ce moment déjà un outil qui peut guider et réduire les erreurs, ce qui à l'époque était crucial, notamment en mer ou une erreur de calcul ou d'impression sur l'almanach du navigateur pouvait mener a la perte de tout un navire et de son équipage. 
 
 De 1820 à 1830 il à visiter beaucoup d'usines en Europe dans le but de trouver des idée pour sa machine à différences, il n'en trouva pas beaucoup mais cela lui a permis de devenir un économiste des machines industrielles à son époque.
 
@@ -1510,20 +1534,6 @@ A peine eu t'il conçu la machine à différence, qu'il eu oublier la finalité 
 De son vivant, seul le concept existait, elle ne vu le jour que grâce à son fils, qui après une tentative infructueuse en 1888, revint à la charge et réalisa en 1906 une machine fonctionnelle qu'il eu présenté devant l'académie royale anglaise d'astronomie, après quoi il en fit don au musée des sciences de Londres en 1910.
 
 
-
-#### Maison d'échanges
-
-L'informatique et la gestion bancaire est une vieille histoire d'amour. Babbage fut intéressé par ce domaine, il eu le privilège de pouvoir en visiter une et d'en relater ce qu'il s'y passe. Avant que l'ordinateur n'apparaisse, des gens œuvraient à réaliser cette tâche, chaque banque avait son messager qui rapportait les différents chèques et espèces, vers les autres banques, valant pour échange.  
-
-
-
-#### Télégraphe
-
-Au 18è siècle, apparaissent les télégraphes permettant émettre et de recevoir des messages sur de longues distances  à l'aide de codes pour une transmission rapide et fiable. Notamment le morse.
-
-Au 19e siècle, 3 télégraphistes sur 4 étaient des femmes.
-
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/International_Morse_Code-fr.svg/1200px-International_Morse_Code-fr.svg.png)
 
 #### Arithmaurel
 
@@ -1585,7 +1595,7 @@ En **1876** Alexander Graham Bell, réalise le premier appel téléphonique.
 
 #### Edison
 
-En **1879** il récupère le brevet pour la lampe à filament, qu'il n'a pas inventé mais démocratisée et améliorée, devenant le pionnier dans les lampes électriques. Il était donc essentiellement un homme d'affaire, il est considéré comme l'inventeur le plus prolifique, on lui doit également la naissance des premiers bureaux de recherches industriels, ainsi que les films vidéos.
+En **1879** il récupère le brevet pour la lampe à filament, qu'il n'a pas inventé mais démocratisée et améliorée, devenant le pionnier dans les lampes électriques. Il était donc essentiellement un homme d'affaire, il est considéré comme l'inventeur le plus prolifique, il est également à l'origine des premiers bureaux de recherches industriels, ainsi que les films vidéos.
 
 
 
@@ -1595,9 +1605,9 @@ Né en **1879**
 
 
 
-#### Adolphe Ferrière
+#### Adolphe Ferrière[^pedagogue]
 
-Né le 30 août **1879**
+Né le 30 août **1879** 
 
 
 
@@ -1649,7 +1659,7 @@ Enfin, il finit par quitter l'administration et fonde la Tabulating Machine Comp
 
 
 
-#### Célestion Freinet
+#### Célestion Freinet[^pedagogue]
 
 Né le 15 octobre **1896**
 
@@ -1674,7 +1684,6 @@ Lee De Forest invente l'Audion en **1906** avec l'ajout d'une électrode interm�
 Tout deux ont contribuer pour beaucoup dans le développement des circuits électroniques et de la transmission sans fil avec la naissance de la radio.
 
 
-
 #### Tube cathodique
 
 Boris Rosing est un scientifique russe d'origines néerlandaises ayant inventer les tubes cathodiques en **1907**, avec l'aide des travaux de Ferdinand Braun. Il à par la suite déposer des brevets et démontrer le principe de fonctionnement en détail à l'aide de schémas expliquant l'hystérésis magnétique.
@@ -1696,6 +1705,8 @@ Né en 1908
 [Retour](#Sommaire)
 
 ### Après la première guerre mondiale
+
+C'est la première guerre à impliquer simultanément tout les pays, les machines de bureau deviennent électromécaniques, l'humain peut désormais rapidement transmettre des messages sur de longues distances à ses congénères à l'aide des télégraphes
 
 #### Tabulatrices
 
@@ -1971,7 +1982,7 @@ Premier compilateur (A-0 System Grace Hopper 1951)
 
 #### Ferranti Mark I
 
-Le Ferranti Mark 1, aussi connu comme le Manchester Electronic Computer, est le premier ordinateur électronique généraliste commercialisé du monde et le second au monde après l’ordinateur électromécanique Z4. Il a été créé en **1951**. Alan Turing l'a utilisé pour modéliser des processus de morphogenèse, devenant pionnier de la bio-informatique. On l'a aussi employer pour jouer de la musique ou aux échecs. Il ne sera vendu qu'a raison de 7 exemplaires avant d'être succédé par le Ferranti Mercury
+Le Ferranti Mark 1, aussi connu comme le Manchester Electronic Computer, est le premier ordinateur électronique généraliste commercialisé du monde et le second au monde après l’ordinateur électromécanique Z4. Il a été créé en **1951**. Alan Turing l'a utilisé pour modéliser des processus de morphogenèse, devenant pionnier de la bio-informatique. Il a aussi été employé pour jouer de la musique ou aux échecs. Il ne sera vendu qu'a raison de 7 exemplaires avant d'être succédé par le Ferranti Mercury
 
 
 
@@ -1991,7 +2002,7 @@ Grace Hopper, docteur en mathématiques, officier de la marine, et informaticien
 
 Descendant de l'EDSAC créé par Maurice Wilkes, le Lyons Electronic Office est créé en **1951**. Il est le premier ordinateur utilisé pour des opérations commerciales.
 
-J'ai pu lire que le LEO I était le premier ordinateur à avoir un système d'exploitation, mais il n’est avéré que pour le LEO III en 1961 pour en avoir un et ainsi pouvoir ouvrir plusieurs programmes en même temps à l'aide du multitasking. Il est cependant possible que le LEO I avait un système d'exploitation lui permettant de faciliter l'accès aux ressources, voire faire du traitement par lots. Cet ordinateur pouvait calculer et imprimer 40 fiches de paie en une heure, soit un peu moins d'une par minute.
+J'ai pu lire que le LEO I était le premier ordinateur à avoir un système d'exploitation, mais il n’est avéré que pour le LEO III en 1961 qui pouvait ouvrir plusieurs programmes en même temps à l'aide du multitasking. Il est cependant possible que le LEO I avait un système d'exploitation lui permettant de faciliter l'accès aux ressources, voire faire du traitement par lots. Cet ordinateur pouvait calculer et imprimer 40 fiches de paie en une heure, soit un peu moins d'une par minute.
 
 
 
@@ -2053,6 +2064,12 @@ Créé aux États-Unis en **1955**, le TRAnsistor DIgital Computer a été premi
 #### Spoutnik 1
 
 **1957**
+
+
+
+#### Percepton
+
+En **1957**, le psychologue Frank Rosenblatt 
 
 
 
@@ -2126,15 +2143,21 @@ Par la même occasion, IBM invente le Report Program Generator (RPG), un langage
 
 
 
-#### Spacewar!
+#### *Spacewar!*
 
 **1962**
 
 
 
+#### Souris
+
+Inventée en **1963** par Douglas Engelbart, elle ne sera présentée au public qu'en 1968. Cet informaticien réalisera également le système d'exploitation NLS, ses travaux serons financés par Joseph Carl Robnett Licklider qui financera également ARPANET
+
+
+
 #### Luciano Floridi
 
-Né à Rome le 16 novembre **1964**, ce philosophe est l'un des plus important théoriciens de la Philosophie de l'information et de l'éthique de l'informatique. Il a fonder et dirige plusieurs groupes de recherche dans ces domaines.
+Né à Rome le 16 novembre **1964**, ce philosophe est l'un des plus important théoriciens de la Philosophie de l'information et de l'éthique de l'informatique. Il a fondé et dirige plusieurs groupes de recherche dans ces domaines.
 
 
 
@@ -2160,13 +2183,7 @@ Cet ordinateur avait pourtant bien des défauts, il ne supportait pas le temps p
 
 
 
-#### Programma 101
-
-**1965**
-
-
-
-#### Souris
+#### *Programma 101*
 
 **1965**
 
@@ -2198,7 +2215,7 @@ En **1967** la lune parait de nouveau inaccessible aux américains, sous Kennedy
 
 
 
-#### Amstrad
+#### *Amstrad*
 
 **1968**
 
@@ -2248,13 +2265,19 @@ Jusqu'alors, l'informatique était essentiellement réservé aux domaines privé
 
 
 
-#### Atari pong 
+#### *Atari pong* 
 
 1972
 
 
 
-#### Altair 8800
+#### GPS
+
+**1973**
+
+
+
+#### *Altair 8800*
 
 1975
 
@@ -2274,7 +2297,7 @@ L'affirmative repose sur une pensée fonctionnaliste, l'idée est que ce qui ré
 
 Cette idée de cerveau artificiel géant imaginée en 1961 et reprise en 1974 par Lawrence Davis et **1978** par Ned Block qui quant à lui déclarera qu'un tel cerveau n'aurait pas d'esprit, sera reprises mainte fois, comme par exemple lorsque l'on a affirmé que Google avait plus de connexion que le cerveau humain et que les gens craignent alors qu'internet qui en ai encore plus puisse développer une conscience.
 
-Leibniz avait déjà dans son livre *Monadologie*, imaginé un homme mécanique dont on pourrait visiter le corps comme on visite un moulin.
+Leibniz avait déjà dans son livre *Monadologie*, imaginé "un homme mécanique dont on pourrait visiter le corps comme on visite un moulin".
 
 Par ailleurs cela pose la question du bateau de Thésée, si l'on était capable de remplacer des neurones par des neurones artificielles, jusqu'à substituer totalement au neurones "naturels", l'individu serait il le même ?
 
@@ -2304,7 +2327,7 @@ Optical Storage Disc **1980**
 
 
 
-#### Pac Man 
+#### *Pac Man* 
 
 **1980**
 
@@ -2320,7 +2343,7 @@ L'antithèse, revient à justifier que le stimuli étant identique, il est tout 
 
 
 
-#### Osborne 1
+#### *Osborne 1*
 
 **1981**
 
@@ -2332,13 +2355,13 @@ L'antithèse, revient à justifier que le stimuli étant identique, il est tout 
 
 
 
-#### IBM PC 5150
+#### *IBM PC 5150*
 
 **1981**
 
 
 
-#### Macintoch 128K
+#### *Macintoch 128K*
 
 Sorti en **1984**, avec des icônes en skeuomorphisme 
 
@@ -2356,7 +2379,9 @@ beats Gary Kasparov  in **1997**
 
 
 
+#### Ordinateur quantique
 
+En **1998** IBM créé le premier ordinateur quantique sur les travaux de Rolf Landauer
 
 ### Bilan passé
 
@@ -2370,7 +2395,7 @@ Bien que les prémices de l'informatique viennent de l'Époque moderne, au 17 è
 
 ## Pratiques actuelles
 
-
+L'informatique est désormais omniprésente, la terre est entourée de satellites en orbites, les continents sont interconnectés avec des câbles sous marins, 7 personnes sur 10 possèdent un smartphone, les demandes d'informations et démarches administratives se numérisent rapidement. La programmation est facilitée par l'apparitions de langages haut niveau a la syntaxe simple et de langages haut niveau avec des compilateurs plus explicites.
 
 
 
@@ -2393,6 +2418,12 @@ https://fr.wikipedia.org/wiki/Th%C3%A9orie_g%C3%A9n%C3%A9rale_des_syst%C3%A8mes
 #### Darpa Grand Challenge
 
 **2005**
+
+
+
+#### Git
+
+Git est un logiciel de gestion de versions décentralisé sous licence GNU GPL. C'est un logiciel libre et gratuit, initié en **2005** par Linus Torvalds le créateur de Linux lors de la création de son noyau. Linus ne voulait pas réaliser ce projet seul et à rapidement compris que la qualité d'un logiciel viendrai des débats houleux entre ses collaborateurs et l'implémentation de la meilleure idée à la fin.
 
 
 
@@ -2432,17 +2463,65 @@ Suite à Atom publié par GitHub le 26 février 2014, bien avant son rachat en 2
 
 ## Essai
 
-En arrivant en DUT informatique en 2016, je n'avais programmé qu'en BASIC sur une calculatrice Texas Instrument, je ne m'attendais pas à autant de complexité lors de mon apprentissage du C ou de Bash. Je ne comprenais souvent les concepts qu'après les contrôles lors de la correction, me rendant compte de mes erreur et reajustant ma version de ce qui etait bon en fonction.
+Maintenant que je vous ai raconté l'histoire de l'information, je vais brièvement vous parler de la mienne en toute vulnérabilité car pour comprendre et pouvoir juger l'identité de quelqu'un, il faut comprendre ses souffrances, ses habitudes, et plus globalement son vécu composé de l'accumulation de ses sensations et de ses actions.
 
-J'ai rapidement découvert les compilateurs, qui indiquent les erreurs tant bien que mal, qui ont parfois eux même des erreurs ou manques de précisions, et nécessitant de comprendre pleinement son fonctionnement et son propre code pour arriver à trouvé et corriger le problème. Cela peut etre décourageant pour beaucoup, et c'est d'ailleurs certainement une des raisons pour lesquelles une bonne partie abandonnent en première année.
+Après l'obtention de mon Baccalauréat scientifique en 2016, débarquant alors en DUT informatique, je n'avais programmé qu'en BASIC sur une calculatrice Texas Instrument. A cette époque je n'étais qu'un gamin ayant sauté la grande section et le cours primaire pour avoir su lire à 2 ans et demi grâce au logiciel éducatif Lapin malin, qui débarque donc à Clermont Ferrand du haut de ses de 17 ans, découvrant l'indépendance dans un 9m2 fibré du CROUS, dans lequel j'ai utilisé pendant 3 ans un réseau privé virtuel (VPN) pour contourner la limitation du réseau Renater, et pouvoir ainsi jouer à League Of Legends avec 5 millisecondes de latence.
+
+Je n'avais alors jamais vraiment travaillé de ma vie, je ne faisait pas mes devoirs, et malgré cela obtenais toujours la moyenne tant bien que mal, voyant cette dernière chuter année après année. Je n'était évidement pas prêt à la complexité et la rigueur du C ou de Bash. Jusque là mon apprentissage de la discipline sur ma calculatrice était purement empirique, l'enseignement de la programmation nous a quant à lui été introduit sur papier, en commençant par les concepts, nous permettant d'avoir la théorie pour comprendre la pratique, j'ai donc été noyé par la quantité d'information et ne les comprenais souvent qu'après les contrôles, lors de la correction, me rendant compte de mes erreurs et réajustant ma version de ce qui était correct en fonction. J'étais tellement largué en contrôle que lorsque j'ai réalisé mon premier projet de C, comprenant alors pleinement la théorie en me l'appropriant par la pratique, réalisant 80% du projet par moi même, le professeur en question m'a mis une bien moins bonne note qu'au camarade ayant réalisé les 20% restants, donnant malgré tout la moyenne au dernier de notre trinôme.
+
+Ce projet est toujours disponible sur mon Github, il s'agissait d'un gestionnaire de résidence étudiante, et moi qui haïssait alors la ligne de commande toute moche et très peu conviviale ou facile à utiliser, j'étais alors le seul étudiant de la promo à avoir réalisé tout l'affichage en changeant la couleur de fond et du texte, dans le but de simuler une interface graphique, à l'instar des premiers BIOS et des interfaces console interactives que l'on peut avoir encore aujourd'hui, comme `dpkg-reconfigure` sur linux, qui est soit y en passant car j'ai eu le cas récemment, le meilleur moyen de changer la langue de son clavier pour passer de QWERTY à AZERTY de façon permanant en utilisant la ligne de commande.
+
+![](./assets/dpkg-reconfigure.png)
+
+J'ai rapidement découvert les compilateurs, qui indiquent les erreurs tant bien que mal, qui ont parfois eux même des erreurs ou manques de précisions, nécessitant de comprendre pleinement son fonctionnement et son propre code pour arriver à trouver et corriger le problème. Cela peut être décourageant pour beaucoup, et c'est d'ailleurs certainement une des raisons pour lesquelles une bonne partie abandonnent en première année.
+
+En deuxième année, j'ai dirigé et développé en grande partie un projet libre de fin d'année. Comme beaucoup d'étudiant en informatique je voulais réaliser un jeu, et me suis lancé dans son développement en C#, en utilisant MonoGame, un outil facilitant la création d'un jeu en fournissant de quoi afficher des rectangles, remplis de couleurs ou d'images, et quelles règles leur appliquer à chaque itération 
+
+
+
+
+
+
+
+https://fr.wiktionary.org/wiki/intelligence#:~:text=(%20XII%20e%20si%C3%A8cle)%20Emprunt%C3%A9%20au,%2C%20choisir%2C%20lire%20%C2%BB).
+
+https://fr.wikipedia.org/wiki/Intelligence
+
+https://fr.wikipedia.org/wiki/Utilisabilit%C3%A9
+
+https://en.wikipedia.org/wiki/High_availability
+
+
+
+#### Se programmer
+
+facilité d'utilisation, utilité, satisfaction, l'utilisation de l'application doit dépasser les attentes et promesses faites en amont
+
+volume vitesse variété véracité valeur
+
+Les fois où j'ai appris le plus rapidement des concept était encore une fois à l'aide de jeux, la redstone de minecraft m'as transmis la logique créative et utile, flexboxfroggy.com m'as permis d'apprendre le 
 
 
 
 La mode n'est que passagère, il n'y a que les habitudes de vies et s'en tenir à un plan structuré et cohérent qui reste dans l'histoire.
 
-Actuellement, malgré les bonnes pratiques prônées, peu sont mises en application et beaucoup de fois je me retrouve a effectuer des copier coller avec une légère modification, alors que ma philosophie est que chaque copier coller devrait etre une fonction réutilisable avec pour paramètre les variables amenées a changer ou être configurable.
+Actuellement, malgré les bonnes pratiques prônées, peu sont mises en application et beaucoup de fois je me retrouve a effectuer des copier coller avec une légère modification, alors que ma philosophie est que chaque copier coller devrait être une fonction réutilisable avec pour paramètre les variables amenées a changer ou être configurable.
 
 
+
+J'ai longtemps haï l'écriture et je ne l'ai que rarement pratiquée, mais désormais, j'apprécie savoir et pouvoir partager de manière claire et la plus explicite possible, mes idées et ce que je sais comme étant vrai.
+
+L'information quand elle est se manifeste au moyen du materiel. la quantifification et qualification
+
+un fait est une information dont on peut prouver la verite a un moment donnt t
+
+dimention partage comprehension restitutuon sensation
+
+je sais que je suis insolent en toute humilite, désolé si certains se sentent humiliés, jen suis desole, je men excuse.
+
+Ma motivation est inteinseque mais toute gratification sipplementaire est la viencenue.
+
+je ne me defini que par mon systeme de pensee, non pas par mon expereience ou mes groupes sociaux 
 
 À l’heure où j’écris ça, le monde est plongé dans la mode des Intelligences Artificielles, technologie qui se base sur quelque chose de très général (réseaux de neurones et systèmes pondérés), pour accumuler des informations très spécifiques, afin de pouvoir répondre à des questions les concernant.
 
@@ -2486,12 +2565,12 @@ Et un réel décalage entre offre et demande, nous observons des signaux forts c
 
 ### Pourquoi un outil censé résoudre un problème en cause parfois des bloquants ?
 
-Les outils no-code fleurissent ses dernières années, ils permettent certes la réalisation de produits plus rapidement qu'un partant d'un cadriciel et en le codant soi même. Cependant dès que l'on désire un rendu différant de ce qui est proposé par le service, on se retrouve bloqué ou nécessitant du code, les services le proposant étant considérés comme low-code.
+Les outils no-code fleurissent ses dernières années, ils permettent certes la réalisation de produits plus rapidement qu'un partant d'un cadriciel et en le codant soi même. Cependant dès que l'on désire un rendu différant de ce qui est proposé par le service, cela provoque un blocage, nécessitant l'intervention d'un développeur et de code, les services le proposant sera alors considéré comme low-code et non no-code.
 
 
 
 
-A la manière de Platon, je n'ai rien inventé, les idées sont immuables et universelles, elle appartiennent à personne.
+A la manière de Platon, je n'ai rien inventé, les idées sont immuables et universelles, elles n'appartiennent à personne.
 
 On ne juge pas quelqu'un sans connaitre ses souffrances.
 
@@ -2501,15 +2580,13 @@ Tout est temps, c'est l’écoulement des choses, l'itération des actions qui s
 
 ### Sectes et philosophie d'entreprise
 
-De nos jours j'ai souvent entendu parler de philosophie d'entreprise. L'entreprise étant une entité morale, elle se compose d'un groupe de personnes physiques réunies pour accomplir quelque chose en commun. Ce groupe peut aussi réunir des personnes physiques et des personnes morales. Cela corresponds à une secte qui est un terme mal vu mais qui, comme beaucoup de mots, est poly-sémantique, il possède plusieurs définitions et connotations, il y a autant de ressentis différents accordées aux mots que d'expérience vivantes. D'un point de vue étymologique, il provient du latin "secta", signifiant "voie que l'on suit, parti, cause, doctrine". Or quand on travaille en groupe avec d'autres personnes, on suit tous, ensemble, une même voie, pendant une période définie de travail, qu'un salarié vends a son employeur.
+De nos jours j'ai souvent entendu parler de philosophie d'entreprise. L'entreprise étant une entité morale, elle se compose d'un groupe de personnes physiques réunies pour accomplir quelque chose en commun. Ce groupe peut aussi réunir des personnes physiques et des personnes morales. Cela corresponds à une secte qui est un terme mal vu mais qui, comme beaucoup de mots, est poly-sémantique, il possède plusieurs définitions et connotations, il y a autant de ressentis différents accordées aux mots que d'expérience vivantes. D'un point de vue étymologique, il provient du latin "secta", signifiant "voie que l'on suit, parti, cause, doctrine". Or quand je travaille en groupe avec d'autres personnes, je le fait de pair avec mes collègues, suivant ensemble une même voie, pendant une période définie de travail, comme tout salarié qui vends a son employeur.
 
 En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une même cause, est comme internet, la rue ou tout autre environnement dans lequel nous évoluons, c'est une indifférence, ce n'est ni bien, ni mal, cela ne dépends de ce que l'on en fait et à qu'elles fins. Nous devons tous un jour faire face au fait que nous sommes influencés et conditionnés par notre environnement et notre histoire, nos habitudes, et les groupes d'humains dans lesquels nous avons évolués. Le réel problèmes sont les dérives, notamment le fait de vénérer une autorité austère qu'on ne peut discuter, mais aussi tout les heurts qui nous sont propres. Pour le reste, la vie bats son plein et continue de parcourir le temps en faisant ce qu'elle a à faire, vivre.
 
 
 
 Je veut créer des indiférences, et aller du global vers le particulier.
-
-
 
 ### Communication
 
@@ -2543,7 +2620,7 @@ Absolue / relatif
 
 
 
-Il est futile de vouloir avoir raison, la mauvaise foi est l’ennemie de l'amélioration personnelle. Seule la vérité compte, quand je débat avec quelqu'un ce n'est pas dans le but de faire briller mon savoir ou répandre ma version de la vérité, mais la challenger pour l'améliorer voire l'invalider à l'aide des antithèses d'autrui. Il n'y a rien à gagner à avoir raison, on instruit, on apprends et on avance ensemble.
+Il est futile de vouloir avoir raison, la mauvaise foi est l’ennemie de l'amélioration personnelle. Seule la vérité compte, quand je débat avec quelqu'un ce n'est pas dans le but de faire briller mon savoir ou répandre ma version de la vérité, mais la challenger pour l'améliorer voire l'invalider à l'aide des antithèses d'autrui. Il n'y a rien à gagner à avoir raison, l'humanité évolue en instruisant, et apprenant.
 
 
 
@@ -2561,7 +2638,7 @@ Ce cadre réside dans l'analyse des difficultés et problèmes de l'étudiant, p
 
 La pratique à toujours été présente dans nos enseignements, elle est nécessaire à la validation de la théorie, le réel changement réside dans l'apprentissage de cette théorie ainsi que dans la manière d'aborder la pratique et l'évaluation de ses compétences, qui reste encore difficile compte tenu du manque de graduation hiérarchisé par niveaux, de prérequis pour l'admission, ou de programme non reconnu par le système éducatif national.
 
-Cette méthode présentant malgré tout de nombreux avantages, on remarque également qu'elle peut potentiellement accroître les inégalités en termes d'apprentissage, notamment du à la difficulté d'accès à ce genre d'enseignement et aux ressources payantes comme les logiciels éducatifs, ou même de l'idée et la culture qui y est liée, propre aux pays riches bien que marginale en son sein. Et je ne peut que confirmer cela, ayant été le seul de ma classe de petite section à savoir lire et ce grâce au ludiciel "Reader Rabbit, Learn to read with phonics", qui m'a fait sauter deux classes.
+Cette méthode présentant malgré tout de nombreux avantages, des études[^lesquelles] indiquent également qu'elle peut potentiellement accroître les inégalités en termes d'apprentissage, notamment du à la difficulté d'accès à ce genre d'enseignement et aux ressources payantes comme les logiciels éducatifs, ou même de l'idée et la culture qui y est liée, propre aux pays riches bien que marginale en son sein. Et je ne peut que confirmer cela, ayant été le seul de ma classe de petite section à savoir lire et ce grâce au ludiciel "Reader Rabbit, Learn to read with phonics", qui m'a fait sauter deux classes.
 
 
 
@@ -2589,7 +2666,7 @@ Logo
 
 ### Apprentissage
 
-L'apprentissage commence généralement avec de la mémorisation, s'ensuit une compréhension qui permet la résolutions de problèmes et enfin s'y ajoute la créativité que l'on débloque lorsque l'on à le savoir et le savoir faire. La mémorisation étant le terreau du savoir, il est important de comprendre que scientifiquement, on sait aujourd'hui que les humains ont, tout comme les machines, une mémoire de travail et une mémoire à long terme. On peut comparer ses deux mémoires à la RAM et aux stockages de masse. Le cerveau possède même un mécanisme d'encodage de l'information vers la mémoire à long terme et de récupération vers la mémoire de travail, les informations les plus importantes possèdent plus d'amorces, permettant de les retrouver et s'en souvenir plus facilement, et avec bien sur certaines informations dont le signal se perd, dans l'oubli, nécessaire à trier et jeter ou archiver ce qui l'est moins, dans le cas de la mémoire à long terme, cela se produit en perdant des amorces au fur et a mesure du temps.
+L'apprentissage commence généralement avec de la mémorisation, s'ensuit une compréhension qui permet la résolutions de problèmes et enfin s'y ajoute la créativité que l'on débloque lorsque l'on à le savoir et le savoir faire. La mémorisation étant le terreau du savoir, il est important de comprendre que scientifiquement, on sait aujourd'hui que les humains ont, tout comme les machines, une mémoire de travail et une mémoire à long terme. Ses deux mémoires sont comparables à la RAM et aux stockages de masse. Le cerveau possède même un mécanisme d'encodage de l'information vers la mémoire à long terme et de récupération vers la mémoire de travail, les informations les plus importantes possèdent plus d'amorces, permettant de les retrouver et s'en souvenir plus facilement, et avec bien sur certaines informations dont le signal se perd, dans l'oubli, nécessaire à trier et jeter ou archiver ce qui l'est moins, dans le cas de la mémoire à long terme, cela se produit en perdant des amorces au fur et a mesure du temps.
 
 
 
@@ -2605,13 +2682,13 @@ Planning poker, reu tech, mais pas d'analyse commune -> reqwork extrm prog
 
 ### Méthodes d'aide à la structuration d'information 
 
-Le management moderne à eu besoin de pouvoir former et guider efficacement ses employés et pour cela il à fallu trouver des outils et moyens mnemotechniques pour facilement analyser les 
+Le management moderne à eu besoin de pouvoir former et guider efficacement ses employés et pour cela il à fallu trouver des outils et moyens mnémotechniques pour facilement analyser les 
 
 
 
 #### Décision
 
-Prendre une décision est parfois très compliqué, on n'arrive pas toujours à mesurer les tenants et aboutissants de nos choix, c'est pourquoi il est important de prendre du recul, de poser sur la table les différentes possibilités, et acteurs de la situation afin de mettre le plus de chance de son côté, dans l'objectif d'atteindre le résultat attendu. 
+Prendre une décision est parfois très compliqué, il est parfois difficile de mesurer les tenants et aboutissants de nos choix, c'est pourquoi il est important de prendre du recul, de poser sur la table les différentes possibilités, et acteurs de la situation afin de mettre le plus de chance de son côté, dans l'objectif d'atteindre le résultat attendu. 
 
 ##### Analyse PESTEL
 
@@ -2623,7 +2700,7 @@ Strenght Weakness Opportunity Threat
 
 ##### Matrice multicritère
 
-Avec des amis on l'utilise pour choisir dans quel airbnb on va partir, on y renseigne une note pour le prix, l'emplacement, la qualité du logement, et on obtient un score moyen permettant de déterminer ou on partira en vacances.
+Avec des amis nous l'utilisont pour choisir dans quel airbnb nous allons partir, nous y renseignons une note pour le prix, l'emplacement, la qualité du logement, et obtennons un score moyen permettant de déterminer où nous partirons en vacances.
 
 ##### 5 Why
 
@@ -2719,7 +2796,7 @@ Doute constant et remise en question en sont la clé.
 
 ###### Do it now
 
-J'ai souvent entendu dire "ce n'est pas ce qui est demandé ni prioritaire, on fera ça plus tard", et bien évidement, la plupart du temps cela fini par n'être jamais fait. Dans les projets informatique c'est ainsi que la dette technique s'immisce, on a des fonctionnalités qui s’accumulent, des développements qui s’enchaînent, et on ne pallie aux problèmes qu'avec des corrections rapides, s’attaquant aux causes plutôt qu'aux conséquences.
+J'ai souvent entendu dire "ce n'est pas ce qui est demandé ni prioritaire, on fera ça plus tard", et bien évidement, la plupart du temps cela fini par n'être jamais fait. Dans les projets informatique c'est ainsi que la dette technique s'immisce, des fonctionnalités qui s’accumulent, des développements qui s’enchaînent, et pallie aux problèmes qu'avec des corrections rapides, s’attaquant aux causes plutôt qu'aux conséquences.
 
 Dès que l'on constate un problème, il faut avoir le réflexe de réaliser la tâche dans la foulée, ou de la planifier pour ne pas que l'information se perde. 
 
@@ -2727,19 +2804,19 @@ Dès que l'on constate un problème, il faut avoir le réflexe de réaliser la t
 
 ###### Aide
 
-Il n'y a jamais de mal à demander de l'aide, on vit dans un monde ou cela demande pourtant beaucoup d'effort, hors quand on est en difficulté, c'est l'aide qui devrait venir à nous, pas l'inverse.
+Il n'y a jamais de mal à demander de l'aide, nous vivons dans un monde où cela demande pourtant beaucoup d'effort, hors quand on est en difficulté, c'est parfois peut être l'aide qui devrait venir à nous, et pas l'inverse.
 
 Je me suis toujours efforcé de venir en aide ceux qui en avait vraiment besoin, pendant la période Covid j'ai héberger deux amis qui se sont retrouvés à la rue. C'était une période difficile mais je suis content d'avoir pu leur fournir un endroit neutre, avec le stricte nécessaire, du temps pour se reposer, et une oreille pour les écouter.
 
-J'ai même parfois aider des gens qui m'avait fait des crasses à nettoyer les leurs, et je ne regrette pas, peut être que grâce à ça ils se sont rendu compte qu'ils ont agis injustement, et que la bonté transcende les mauvais actes ; et même si ce n'est pas le cas, j'ai agis, et agirais toujours selon ma morale et ce qui me semble bien.
+J'ai même parfois aider des gens qui m'avait fait des crasses à nettoyer les leurs, et je ne regrette pas, peut être que grâce à cela ils se sont rendu compte qu'ils ont agit injustement, et que la bonté transcende les mauvais actes ; et même si ce n'est pas le cas, j'ai agis, et agirais toujours selon ma morale et ce qui me semble bien.
 
-Ce qui fait la force de l'humanité, c'est l'amitié et l'entraide, sans cela on n'aurais jamais réussi à aller aussi loin dans l'histoire. Seul on va plus vite, ensemble, on va plus loin.
+Ce qui fait la force de l'humanité, c'est l'amitié et l'entraide, sans cela cette dernière n'aurais jamais réussi à aller aussi loin dans l'histoire. "Seul on va plus vite, ensemble, on va plus loin."
 
 
 
 ##### STOP
 
-Dans le monde du travail, comme personnel, il est important de prendre soin de soi avant tout, cependant, quelqu'un qui bloque sur un problème n'avance plus et peut retarder les autre également.
+Dans le monde du travail, comme personnel, il faut savoir imposer son rythme et le justifier, tout comme savoir prendre des pauses et du recul pour analyser, afin de partir dans la bonne direction plutôt que d'avancer continuellement de manière imprécise et inefficace. Il est important de prendre soin de soi avant tout, cependant, quelqu'un qui bloque sur un problème n'avance plus et peut retarder les autre également. 
 
 On entends souvent parler de Lean Startup comme livre de référence, et il y a une notion dedans qui est rarement reprise mais que je trouve très importante, lorsqu'il y a un problème dans une chaîne de production, il est mieux de tout arrêter pour éviter qu'il n'impacte le reste. Cela permet également de trouver une solution ensemble et que tout le monde ai connaissance du problème, et ce dans un but informatif et préventif.
 
@@ -2749,7 +2826,7 @@ Les confinements comme celui que l'on a eu lors de la période du Covid nous le 
 
 ##### Justification
 
-Lorsque je commet une erreur, j'en assume la responsabilité, mais je me justifie souvent. Cela permet d'identifier les causes du problème. Dans le livre Lean Startup il est mentionné une phrase qui m'a marquée. L'idée est que lorsqu'une erreur survient, il est de notre responsabilité d'avoir rendue la faute si facile à commettre. Autrement dit, lorsqu'une personne faillit à sa tâche, il ne faut pas remettre en question sa responsabilité ou sa compétence, mais se demander pourquoi l'environnement n'a pas permis la réussite de l'action et rendu la situation d'échec si probable qu'elle c'est produite.
+Lorsque je commet une erreur, j'en assume la responsabilité, mais je me justifie souvent. Cela me permet d'identifier les causes du problème, et ainsi de clarifier la situation pour éviter de le reproduire. Dans le livre Lean Startup il est mentionné une phrase qui m'a marquée. L'idée est que lorsqu'une erreur survient, il est de notre responsabilité d'avoir rendue la faute si facile à commettre. Autrement dit, lorsqu'une personne faillit à sa tâche, il ne faut pas remettre en question sa responsabilité ou sa compétence, mais se demander pourquoi l'environnement n'a pas permis la réussite de l'action et rendu la situation d'échec si probable qu'elle c'est produite.
 
 
 
@@ -2773,9 +2850,9 @@ https://ayowel.github.io/trust/
 
 Le modèle économique d'une entreprise influence énormément les comportement de ses salariés.
 
-Les prestataires vendent du temps, et ont donc naturellement tendance à avoir des deadline plus courtes et par conséquent plus de pression. Cela nécessite également une équipe commerciale solide capable de décrocher assez de projet pour faire travailler l'entreprise pendant les prochaines années. En contrepartie, on ne demande pas un logiciel ou site maintenable mais assez bien réalisé et  fonctionnel pour être livré le plus rapidement possible afin d'en dégager une marge. 
+Les prestataires vendent du temps, et ont donc naturellement tendance à avoir des deadline plus courtes et par conséquent plus de pression. Cela nécessite également une équipe commerciale solide capable de décrocher assez de projet pour faire travailler l'entreprise pendant les prochaines années. En contrepartie, ce n'est pas un logiciel ou site maintenable qui est demandé, mais il faut qu'il soit assez bien réalisé et fonctionnel pour être livré le plus rapidement possible afin d'en dégager une marge. 
 
-Les éditeurs logiciels quant a eux le louent généralement en tant que service ou le vendent en tant que bien, le nerf de la guerre réside alors dans la maintenabilité du logiciel auquel on doit ajouter des fonctionnalités au fil du temps. Plus le logiciel grossit, plus il est compliqué de maitriser les effets de bord et de comprendre l'intégralité du logiciel et de son historique.
+Les éditeurs logiciels quant a eux le louent généralement en tant que service ou le vendent en tant que bien, le nerf de la guerre réside alors dans la maintenabilité du logiciel auquel doit être ajouté des fonctionnalités au fil du temps. Plus le logiciel grossit, plus il est compliqué de maitriser les effets de bord et de comprendre l'intégralité du logiciel et de son historique. Ils ont cependant la chance d'avoir conçu une sorte de distributeur automatique qui n'a pas besoin d'action humaine.
 
 
 
@@ -2823,21 +2900,21 @@ Le free software
 
 
 
-#### Git
-
-**Git** est un logiciel de gestion de versions décentralisé sous licence GNU GPL. C'est un logiciel libre et gratuit, initié en 2005 par Linus Torvalds le créateur de Linux lors de la création de son noyau. Linus ne voulait pas réaliser ce projet seul et à rapidement compris que la qualité d'un logiciel viendrai des débats houleux entre ses collaborateurs et l'implémentation de la meilleure idée à la fin.
 
 
-
-
-
-### EditIDE
+## EditIDE ou "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?"
 
 Imaginons que vous vouliez réaliser un site web et qu'il soit en ligne, en réalité il vous suffit d'une connexion internet de trois fichier et d'un logiciel de serveur, et enfin d'un nom de domaine pour y accéder sans avoir à mémoriser une adresse IP.
 
+Ce que j'ai fait, tout le monde peut le faire, et comme l'humain ne comprends quelque chose que lorsque qu'il arrive le réexpliquer plus simplement, à le factoriser, rendre une information usinée, et bien je vais présenter plusieurs cas d'études et vous présenter ce qu'est EditIDE
 
 
-#### Cas d'étude
+
+### Cas d'études
+
+
+
+#### Site web
 
 Pour un utilisateur avertit, la démarche peut ne prendre que quelques minutes, allez, petite démonstration :
 
@@ -2845,7 +2922,7 @@ Pour un utilisateur avertit, la démarche peut ne prendre que quelques minutes, 
 
 ##### Etape 1 : Réaliser un site web
 
-Il suffit pour cela de trois fichiers. Cette étape est donc logiquement séparée en trois étapes, qui correspondent aux 3 parties d'un site web, le contenu structuré, l'habillage, et la réaction que doit avoir le site aux entrées utilisateur. Pour l'exemple on va faire un site très simple, un mot, centré au milieu de l'écran, qui change lorsque l'on clique dessus.
+Il suffit pour cela de trois fichiers. Cette étape est donc logiquement séparée en trois étapes, qui correspondent aux 3 parties d'un site web, le contenu structuré, l'habillage, et la réaction que doit avoir le site aux entrées utilisateur. Pour l'exemple je vais réaliser un site très simple, un mot, centré au milieu de l'écran, qui change lorsque l'on clique dessus.
 
 ##### Etape 2 : ouvrir les ports
 
@@ -2861,17 +2938,27 @@ Télécharger NGINX,
 
 
 
+##### Étape 4 : Configurer un nom de domaine (Facultative)
+
+
+
+#### Bureau à distance
+
+
+
+
+
 Comment est ce que je pense, imagine et souhaite aider a créer un avenir de la programmation ?
 
 A travers ma philosophie, à l'aide de l'intelligence et la . 
 
-Peut on le faire et doit on le faire ?
+"Peut on le faire et doit on le faire ?
 
 On peut dire oui on peut dire non, mais pour moi
 
-C'est mauvais de ne pas connaître si on peut connaître, c'est mauvais de ne pas savoir ce que l'on peut savoir, Ce veut dire qu'il faut préparer tout les engins toutes les techniques ou pratiques que la science permette.
+C'est mauvais de ne pas connaître si on peut connaître, c'est mauvais de ne pas savoir ce que l'on peut savoir, Ce veut dire qu'il faut préparer tout les engins toutes les techniques ou pratiques que la science permette."
 
-C'est très difficile pour le chercheur qui fait la découverte, de savoir et de peser immédiatement, les possibilités ultérieures. On le remarque dans le jeu de la vie 
+C'est très difficile pour le chercheur qui fait la découverte, de savoir et de peser immédiatement, les possibilités ultérieures. C'est le cas dans le jeu de la vie 
 
 
 
@@ -2880,8 +2967,6 @@ Doit on avoir moins de fonctionnalité sur mobile ? Non, c'est l'interface qui d
 
 
 Un ludiciel doit être vivant, animé, utilisé, collaboratif.
-
-Les developpeurs sont les cordoniers les plus mals chaussés, on parle souvent d'expérience utilisateur, mais l'expérience développeur reste à désirer, voire archaïque. On est selon moi encore au moyen âge de l'informatique.
 
 
 
@@ -2939,7 +3024,7 @@ Python Notebook
 
 
 
-##### All in one 
+##### All in one
 
 Plus un projet a d'intermédiaires, plus il y'a de risques d'erreurs. Dès le fondement de l'informatique, Charles Babbage l'avait déjà compris et sa machine faisait à la fois le calcul et l'impression car beaucoup d'erreur arrivait lors de l'impression.
 
@@ -2957,15 +3042,9 @@ Dans EditIDE, tout ce ferait sur le site lui même. Le design et l'intégration 
 
 
 
-##### Documentation
+#### De l'information à la vérité
 
-Les API étants une boite noire, il est essentiel de les documenter, pour ce faire, le meilleur outil actuellement est swagger, il permet de regrouper des ressources web (url) dans des groupes et d'indiquer quels sont les paramètres que l'on peut y passer, et la ou les réponse attendue possibles.
-
-
-
-Dans EditIDE, je souhaite qu'il n'y ai pas besoin de renseigner ces informations, que l'on a en théorie déjà lors de la conception et que l'on doit répéter dans swagger, généralement en utilisant un format qui plus est légèrement différant. De plus les documentations étant rarement mises à jours, elles seraient ainsi automatiquement toujours représentatives de la réalité car fortement liées.
-
-Le formulaire de création de fonction et son interface dédiées indiqueront les champs obligatoires ou recommandés non renseignés. Recommandations gérées par ESLint.
+Pour être sur d'une information, il est nécessaire d'assister à sa démonstration ou à sa preuve et de la constater par soi même. Comme pour les bulles enveloppes. L'observation est généralement à la base de l'aquisition de l'information, comme pour l'astronomie, ensuite, on questionne (ouvert et fermée et si on veut une quantification il faut retirer le neutre en ne proposant que des choix pairs) l'information percue pour la mettre à l'épreuve, ensuite, on revoit la documentation existante et effectue une doxographie pour comparer nos conclusions avec le consensus.
 
 
 
@@ -2977,11 +3056,35 @@ Quand j'arrive dans un fichier, je veux savoir directement le nom des variables 
 
 
 
+##### Documentation
+
+La documentation permet théoriquement de répondre à toute question que l'on pourrait se poser concernant un domaine, ou dans le cas de la programmation informatique, d'un projet logiciel. Elle doit couvrir toutes les actions que doivent accomplir le développeur, de l'installation du logiciel  
+
+Les API étants une boite noire, il est essentiel de les documenter, pour ce faire, le meilleur outil actuellement est swagger, il permet de regrouper des ressources web (url) dans des groupes et d'indiquer quels sont les paramètres que l'on peut y passer, et la ou les réponse attendue possibles.
+
+
+
+Dans EditIDE, je souhaite qu'il n'y ai pas besoin de renseigner ces informations, que l'on a en théorie déjà lors de la conception et que l'on doit répéter dans swagger, généralement en utilisant un format qui plus est légèrement différant. De plus les documentations étant rarement mises à jours, elles seraient ainsi automatiquement toujours représentatives de la réalité car fortement liées. Pour EditIDE, malgré le fait que je travaille seul, je suis souvent reparti de zéro pour réexpérimenter ce que vivrai un nouveau collaborateur arrivant sur le projet, et ainsi indiquer tout les problèmes qui peuvent être recentrés et les solutions associées.  
+
+Le formulaire de création de fonction et son interface dédiées indiqueront les champs obligatoires ou recommandés non renseignés. Recommandations gérées par ESLint.
+
+
+
+##### Précision
+
+Vue macro, vu micro, questions individuelles précisent, groupe permet d'avoir le consensus.
+
+
+
 #### Rêves lucides
 
 Conscience
 metacognition
 mémoire onirique
+
+
+
+## Postface : Rétrospective et métacognition
 
 
 
