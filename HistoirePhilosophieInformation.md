@@ -1683,7 +1683,7 @@ C'est la première guerre à impliquer simultanément tout les pays, les machine
 
 #### Tabulatrices
 
-**1920**
+Première tabulatrice avec impression en **1920** par Hollerith
 
 
 
@@ -1698,6 +1698,12 @@ Alan turing decoda avec la Turingery
 #### Moore School
 
 **1923**
+
+
+
+#### Téléscripteur
+
+1925
 
 
 
@@ -1797,7 +1803,17 @@ Cette architecture à permis à permis au stockage de posséder les instructions
 
 
 
+
+
+La mort de leur investisseur principal lors d'un trajet en avion les poussera à revendre leur entreprise à Remington par la suite.
+
+Remington Racheté par Sperry Corporation qui deviendra Unisys après fusion avec Burroughs
+
 Même si il a été pensé par 2 hommes, l'ENIAC à été programmé par 6 femmes, qui ont du documenter, coder et brancher des millions de cables, il a été réalisé à la Moore School de l'université de Pennsylvanie à partir de juin 1943
+
+Ils formeront la Eckert-Mauchly Computer Corporation en 1946
+
+
 
 Elisabeth Findler Jake, nom de domaines, whois nom de domaine (page jaunes) Alors que la silicon vallait est encore loin.
 
@@ -1839,17 +1855,15 @@ De grands projets à forte complexité en découlent, elle amènent à un besoin
 
 
 
-#### Projet Whirlwind I
+#### Temps réel
 
-Initialement chiffré à 200'000 dollars pour deux ans de développement, pour finalement atteindre les 8 millions de dollars pour huit ans ; ce projet de simulateur de l'espace aérien à l'échelle des États-Unis était un projet top secret américain. Bien qu'il ai coûté une fortune, cet ordinateur constitué initialement de tubes à vides, puis par la suite l'un des premiers à avoir utilisé de la mémoire à tores de ferrites, mais surtout ayant permis des sorties en temps réel ; a influencé cette technologie et battit les fondations de l'industrie informatique jusqu'à aujourd'hui.
+Initialement chiffré à 200'000 dollars pour deux ans de développement, pour finalement atteindre les 8 millions de dollars pour huit ans ; un projet américain top secret nommé *Project Whirlwind* visait à simuler de l'espace aérien des États-Unis. Bien qu'il ai coûté une fortune, cet ordinateur constitué initialement de tubes à vides, puis par la suite l'un des premiers à avoir utilisé de la mémoire à tores de ferrites, mais surtout ayant permis des sorties en temps réel ; a influencé cette technologie et battit les fondations de l'industrie informatique jusqu'à aujourd'hui.
 
 Cet ordinateur devant simuler les sorties d'un avion, et même potentiellement de n'importe quel avion sur le territoire américain, il est évident que pour que le pilote ai une expérience réaliste, les affichages et donc les valeurs sorties de l’ordinateur doivent toujours être à jour, nécessitant du temps réel. C'est pourquoi Jay W. Forrester, la personne en charge du projet, fit la rencontre de Perry O. Crawford Jr. Ce pionnier de l'informatique était alors l'un des premier si ce n'est le premier, à avoir réalisé et par la suite promu, les mérites des ordinateurs numériques au profit des analogues, notamment pour ce genre de problème de temps réel, et ce avant même que de tels ordinateurs ne soit construit, le premier étant l'ENIAC en 1945. Crawford et Forrester l'ont découvert à la fin de la guerre, lorsque les projets secret militaire ont alors été révélé, à l'occasion d'une conférence du MIT sur les Techniques de Calcul Avancés.
 
 Mais alors que les budgets sont revus à la baisse à cause de la fin de la guerre, le projet Whirlwind est mis en danger, et sa faisabilité à court terme remise en cause. Arrive alors la guerre froide, avec la menace de bombe nucléaire, missiles et bombardiers russes, capables d'arriver aux États-Unis en passant par le pôle nord.
 
 
-
-#### Semi-Automatic Group Environment
 
 George Valley, professeur de physique au MIT, faisant alors parti du conseil scientifique de l'armée de l'air américaine, fit en **1950** un rapport déclarant que le système de défense anti-aérienne américain était catastrophique. Les informations du système de radar était à ce moment traités manuellement avant d'être relayées à un centre de contrôle et de commande. Les problèmes de communication et de couverture radar rendant impossible une alerte rapide en cas de tentative d'attaque par le pôle nord.
 
@@ -1866,18 +1880,6 @@ Ce système en temps réel donnera lieu, dans les années suivantes, au projet S
 #### IBM 602 & 603
 
 IBM 602 & 603 **1946**
-
-
-
-
-
-#### Naissance de la Eckert-Mauchly Computer Corporation
-
-1946
-
-La mort de leur investisseur principal lors d'un trajet en avion les poussera à revendre leur entreprise à Remington par la suite.
-
-Remington Racheté par Sperry Corporation qui deviendra Unisys après fusion avec Burroughs
 
 
 
@@ -1907,7 +1909,7 @@ Le mouvement cybernétique ralliera de nombreux mathématicien dont John Von Neu
 
 #### SSEM
 
-Le tube de Williams-Kilburn, développé en 1946 ou 1947 par Frederic Calland Williams et Tom Kilburn, utilise les tubes cathodiques de Boris Rosing pour enregistrer des données binaires. La Small-Scale Experimental Machine, premier ordinateur à architecture de von Neumann les utilisait pour sa mémoire vive. Le test de cette nouvelle technologie sur le SSEM, aussi appelé Manchester Baby étant concluant en **1948**, la production d'un autre ordinateur à été lancé.
+Le tube de Williams-Kilburn, développé en 1946 ou 1947 par Frederic Calland Williams et Tom Kilburn, utilise les tubes cathodiques de Boris Rosing pour enregistrer des données binaires. La Small-Scale Experimental Machine (SSEM), premier ordinateur à architecture de von Neumann les utilisait pour sa mémoire vive. Le test de cette nouvelle technologie sur la SSEM, aussi appelé Manchester Baby étant concluant en **1948**, la production d'un autre ordinateur à été lancé.
 
 
 
@@ -1937,9 +1939,13 @@ En 1948 les travaux commencent pour voir le jour en 1949, décrit comme un cerve
 
 
 
-#### Assembleur
+#### Origines de l'Assembleur
 
-En **1949**, le Electronic Delay Storage Automatic Calculator, et le Binary Automatic Computer. EDSAC & BINAC. Maurice Wilkes et David Wheeler
+Jusqu'alors, les instruction était écrites en binaire, Maurice Wilkes et David Wheeler, qui en **1949** travaillèrent sur l'Electronic Delay Storage Automatic Calculator (EDSAC), et le Binary Automatic Computer (BINAC), ont récupérer l'idée d'une notation utilisée par Von Neuman et Herman Goldstine.
+
+Pour exemple, un ingénieur pouvait indiquer la notation `A 25 S` sur papier pour décrire l'instruction d'ajouter dans l'emplacement mémoire de numéro 25 l'entier court (**S**hort type : pouvant stocker les entiers de -32 767 à 32 767). Cette instruction serait alors récupérée par un technicien qui le convertira en binaire, obtenant `1110000000110010`. Une fois inscrite en binaire dans le système, il était compliqué de "debugger" et voir où était située l'erreur.
+
+Wilkes, se rendant compte que l'ordinateur, capable de manipuler les nombres et les lettres de l'alphabet grâce au binaire, pouvait théoriquement lui même stocker `A 25 S` et le convertir en `1110000000110010`, décida alors de confier à Wheeler, qui passait alors son doctorat, la rédaction d'un programme capable de convertir les instructions symboliques d'un téléscripteur en un code binaire. Cette avancée formidable permit d'automatiser une tâche mais mettait en exergue un autre problème, les programmes en résultants devait s’exécuter correctement et produire les résultats escomptés. Pour cela des techniciens devait relire attentivement le programme et la provenance des erreurs semblait alors venir de la répétition et ré-implémentation de la même fonctionnalité de manières différentes. La solution, également initialement proposée par Von Neuman et Herman Goldstine a été de mettre en place une bibliothèque de petit programmes spécifiques alors appelées routine. Ainsi, les "développeurs" de l'époque pouvait juste y faire appel plutôt que de les réinventer à chaque fois. L'idée de factorisation et de code réutilisable est alors née, permettant d'améliorer la productivité et la fiabilité. 
 
 
 
@@ -1959,15 +1965,11 @@ Le Ferranti Mark 1, aussi connu comme le Manchester Electronic Computer, est le 
 
 
 
-#### UNIVAC 1
+#### Compilateur
 
-Sorti en **1951** par Remington Rand, MAGNETIC TAPE STORAGE start and stop tape rapidement avec des servomoteurs, plastic -> déforme -----> métal résistant, travail pour écrire et lire dessus
+L'Universal Automatic Computer I (UNIVAC) est sorti en **1951**, c'est alors une filiale de Remington Rand, MAGNETIC TAPE STORAGE start and stop tape rapidement avec des servomoteurs, plastic -> déforme -----> métal résistant, travail pour écrire et lire dessus
 
-
-
-#### A-0 System
-
-Grace Hopper, docteur en mathématiques, officier de la marine, et informaticienne américaine ; a créé en **1951** le Arithmetic Language, qui est le premier compilateur. Il aura plusieurs version jusqu’à arriver au B-0 Flow-matic qui est à l'origine du COBOL. Comme tout les compilateurs, il prends un code et le converti en code machine exécutable, ce que le A-0 réalisait en établissant des liens entre les programmes et sous-programmes ainsi que leurs paramètres.
+Grace Hopper, docteur en mathématiques, officier de la marine, et informaticienne américaine ; a créé en **1951** le Arithmetic Language ou A-0 system, qui est le premier compilateur. Il aura plusieurs version jusqu’à arriver au B-0 Flow-matic qui est à l'origine du COBOL. Comme tout les compilateurs, il prends un code et le converti en code machine exécutable, ce que le A-0 réalisait en établissant des liens entre les programmes et sous-programmes ainsi que leurs paramètres.
 
 
 
@@ -1994,7 +1996,7 @@ La première occurrence que j'ai trouvée dans une archive du MIT de Douglas T. 
 
 #### IBM 701
 
-Aussi connu sous le nom de Defense Calculator l'IBM 701 est sorti en **1952**, rival du UNIVAC qui a fait grandement peur à IBM qui craignait de perdre une bonne partie du marché civil, bien que cela ne fut pas le cas comme décrit précédement. Il possédait une mémoire tambour.
+L'IBM 701 est le premier ordinateur scientifique produit en masse, aussi connu sous le nom de Defense Calculator, il est sorti en **1952**, rival du UNIVAC qui a fait grandement peur à IBM qui craignait de perdre une bonne partie du marché civil, bien que cela ne fut pas le cas comme décrit précédemment. Il possédait une mémoire tambour. Il utilisera le premier langage assembleur créé par Nathaniel Rochester, qui a travaillé sur la technologie Radar, les éléments arithmétiques du projet Whirlwind I, et les prémices de l'intelligence lors de travaux d'études sur la reconnaissance de schémas et la théorie de l'information qu'il a dirigé à IBM. Il sera également l'un des conférenciers à la conférence de Dartmouth avec John McCarthy, Marvin Minsky et Claude Shannon.
 
 
 
@@ -2046,7 +2048,15 @@ En **1957**, le psychologue Frank Rosenblatt
 
 
 
-#### Premiers langages haut niveau - Structures de contrôle et de données
+Langage de première génération : Binaire, difficile à lire et interpréter par un humain
+
+Languages de deuxième génération : Instructions simples et lisible par l'humain, spécifiques à une certaine famille de processeur, dont elle permet de manipuler les commandes principales à l'aide de mot clés mnémoniques.
+
+#### Langages de troisième génération - haut niveau - Structures de contrôle et de données
+
+Ces abstractions sont de plus haut niveau et indépendant du matériel, les langages deviennent plus conviviaux et pratiques d'utilisation
+
+(FORTRAN & COBOL) aggregate data types
 
 
 
@@ -2070,7 +2080,9 @@ Développé pour l'UNIVAC I par Grace Hopper entre **1955** et 1959, il est à l
 
 ##### Fortran
 
-**1957** John Backus
+En **1957** John Backus, alors ingénieur d'IBM, invente le Formula Translator ou FORTRAN, un langage de programmation haut niveau qui arrivera alors le mieux à produire des programmes binaires aussi bons que ceux des programmeurs expérimentés. Backus à initialement conçu ce langage comme une solution à un problème, suite à la constatation que plus de la moitié des coûts des centre informatique était dues aux salaires des développeurs, et que le coût des machine devenant de moins en moins cher, ce pourcentage ne ferais qu'augmenter si rien n'était fait. C'est en présentant cette logique à son supérieur qu'il eu l'autorisation de travailler sur ce projet qui n'a à son début que peut de reconnaissance, considéré comme un projet de recherche tentant de réaliser l'impossible et n'ayant aucune garantie de résultats.
+
+Lorsque Backus et son équipe ont présenter le projet à des développeurs, ils étaient tous sceptique. Leurs attentes étaient hautes et le FORTRAN encore approximatif et inabouti. Cela faisait en effet plusieurs années que les salariés d'IBM entendaient parler de "programmation automatique" permettant d'automatiser la programmation bas niveau en utilisant un langage de plus haut niveau d'abstraction pour factoriser à la manière de programmes comme les assembleurs, interpréteurs, compilateurs et générateurs de programmes. Ce type de programme s’exécutant sur d'autre programmes voire dans certains cas sur eux même sont du domaine de la méta-programmation
 
 
 
@@ -2083,6 +2095,18 @@ Développé pour l'UNIVAC I par Grace Hopper entre **1955** et 1959, il est à l
 ##### Cobol
 
 **1959**
+
+
+
+Languages de quatrième génération
+
+Abstraction encore plus haute permettant de facilement interconnecter et manipuler des outils logiciels tiers comme une base de donnée, une interface graphique, ou un serveur web. La plupart des langages de la troisième génération se sont doté de ses fonctionnalités et ont évolué vers cette génération. Ce genre de langage est désormais assez haut niveau pour permettre un développement rapide de programme dans un domaine spécifique. C'est la raison pour laquelle Python étaient initialement spécialisés dans le traitement de la donnée et JavaScript les interactions utilisateurs.
+
+
+
+Language de cinquiéme génération
+
+L'ordinateur trouve lui même les solutions pour nous, très lié à l'intelligence artificiel, l'example le plus concret est Prolog.
 
 
 
@@ -2126,9 +2150,9 @@ Inventée en **1963** par Douglas Engelbart, elle ne sera présentée au public 
 
 
 
-#### Luciano Floridi
+#### Luciano Floridi 
 
-Né à Rome le 16 novembre **1964**, ce philosophe est l'un des plus important théoriciens de la Philosophie de l'information et de l'éthique de l'informatique. Il a fondé et dirige plusieurs groupes de recherche dans ces domaines.
+Luciano Floridi est né à Rome le 16 novembre **1964**, ce philosophe est l'un des plus important théoriciens de la Philosophie de l'information et de l'éthique de l'informatique. Il a fondé et dirige plusieurs groupes de recherche dans ces domaines.
 
 
 
@@ -2406,6 +2430,8 @@ Cette notion à permit de catégoriser les problèmes informatique en trois clas
 
 #### UML
 
+Les flowchart, qui se traduisent en français par arbres de décisions ou organigramme de programmation (non pas par diagrammes de flux), ont initialement été développés pour dans ingénierie d'industrie vers 1920. Ils ont rapidement été repris par l'industrie informatique alors naissante vers 1950.  La réalisation de schémas ont depuis les début de l'informatique, permit de formuler la logique la constituant pour modéliser les programmes qui en résulterait.
+
 En **1996**, Grady Booch, James Rumbaugh et Ivar Jacobson, trois ingénieurs travaillant sur des langages de modélisation objets différents, décident de s'unir pour co-créer un Langage de Modélisation Unifié qui avec l'inversion anglaise donne l'acronyme UML.
 
 
@@ -2482,6 +2508,20 @@ Enfin, j'ai repris mes études à l'École Hexagone, en alternance chez ABGX en 
 Depuis le 27 octobre et durant toutes ses années, ma détermination à développer un IDE convivial et intuitif n'a cessé de grandir. À l'issue de mon contrat d'alternance, je sais d'or et déjà que je vais créer une entreprise et réaliser ce projet. Le problème auquel il répondra sera celui de ce mémoire.
 
 Avant d'arriver à cette partie qui répond pleinement à la problématique, je vais à travers cet essai décrire ma philosophie personnelle découlant de l'ensemble de mon vécu et de mes connaissances.
+
+
+
+### Information
+
+La définition de l'information est controversée et difficile à établir clairement à cause de son usage et des abus de langages. La définition philosophique donnée par le Centre National de Ressources Textuelles et Lexicales (CNRTL.fr) est selon moi la plus proche. Elle indique que l'information est la transmission d'une forme, dans le sens de concept et référence au monde des idées propre à l'intellect, comme le décrit Platon dans sa classification des connaissance, découlant de son analogie de la ligne. En effet l'étymologie latine "*informare*" signifie donner forme ou se former une idée de quelque chose.
+
+Contrairement à la définition de Wikipédia, qui déclare qu'elle désigne le message et les symbole utilisés pour l'écrire, selon moi, malgré le fait évident que l'information n'est réelle qu'au moment ou elle se manifeste au moyen du matériel, elle n'est pour autant pas définie par son support, mais bien par la forme ou l'idée à laquelle son support fait référence. La quantification et / ou qualification lié au message étant la réelle information.
+
+### Faits
+
+Un fait est la naissance d'une information émanant du matériel à un moment donné t. Pour autant, le fait n'existe plus une fois ce moment t passé, il n'en reste que les conséquences physique et  l'idée de cette action qui est la cause. Plusieurs observateurs peuvent avoir une version différente des faits, propre à leur subjectivité et vérités relatives. Le fait en lui même est une vérité absolue et pure que l'on ne peut qu'
+
+
 
 
 
@@ -2651,13 +2691,19 @@ Télécharger NGINX,
 
 #### Qu'elle est l'origine des bugs ?
 
-#### Comment l'interface permet et conditionne l'accéder aux fonctionnalités ?
+#### Comment l'interface permet et conditionne l'accès aux fonctionnalités ?
 
 L'interface relie un élément graphique à une fonctionnalité, toute interaction de l'utilisateur doit lui indiquer ce qu'il peut faire par la suite.
 
 Un utilisateur averti sais qu'il a sur son clavier des touches de modification comme CTRL, SHIFT, ou ALT permettant appliquer des effets, qu'il peut réaliser des sélection multiple, passer à l'élément suivant avec la touche tabulation, cocher ou découcher une case avec espace, valider avec entrée, supprimer avec la touche du même nom ou la touche retour.
 
 ##### Etude de cas UX/UI FL Studio VS Ableton
+
+
+
+Web builders are bad.
+
+![](./assets/wixux.png)
 
 
 
@@ -2696,12 +2742,6 @@ Actuellement, malgré les bonnes pratiques prônées, peu sont mises en applicat
 
 
 J'ai longtemps haï l'écriture et je ne l'ai que rarement pratiquée, mais désormais, j'apprécie savoir et pouvoir partager de manière claire et la plus explicite possible, mes idées et ce que je sais comme étant vrai.
-
-L'information quand elle est, se manifeste au moyen du materiel. la quantifification et qualification
-
-un fait est une information dont on peut prouver la verite a un moment donnt t
-
-dimention partage comprehension restitutuon sensation
 
 
 
@@ -3119,6 +3159,10 @@ mémoire onirique
 
 
 ## Postface : Rétrospective et métacognition
+
+Problème pour retrouver des informations, comme Lulle ou j'ai du récupérer la page en catalan, ou l'automatic programming, qui ne possède pas de page wikipédia ni de définition en français.
+
+
 
 
 
