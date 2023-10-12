@@ -1190,6 +1190,12 @@ Ce mouvement a donné lieu au siècle des Lumières, qui a vu émerger beaucoup 
 
 
 
+#### Blaise de Vigenère
+
+Blaise de Vigenère, né le 5 avril 1523 à Saint-Pourçain-sur-Sioule 
+
+
+
 #### Montaigne
 
 Né le 28 février **1533**, cet épicurien sceptique eu écrit multitudes d'essais qui inspireront bien des philosophes après lui, il commença cependant par écrire deux essais stoïques pour prouver "*que le goût des biens et des maux dépend de l’opinion que nous en avons*" et "*que philosopher c’est apprendre à mourir*" mais s'en écarta rapidement, indiquant qu'il "est certain qu’à la plupart des savants, la préparation à la mort, a donné plus de tourment que la mort ne fait de souffrance".
@@ -1422,7 +1428,7 @@ Philosophie de l'éducation et axiologie, qu'elle est la valeur de l'éducation 
 
 #### Théorie générale des systèmes
 
-Aussi appelée Systémique, la première personnalité connue à parler de ce domaine d'étude des ensembles complexe d'interactions entre des sous groupes est Sébastien Le Prestre dans *Système*, plus connu sous le nom de Vauban, dont il était le marquis. Cela a ensuite été décrit par Étienne Bonnot de Condillac qui définit les prémices de l'approche systémique dans son *Traité des Systèmes* en **1749**, repris par la suite par  Pareto qui l'appliqua à l'économie politique.
+Aussi appelée Systémique, la première personnalité connue à parler de ce domaine d'étude des ensembles complexe d'interactions entre des sous groupes est Sébastien Le Prestre dans son œuvre *Système*, plus connu sous le nom de Vauban, dont il était le marquis. Cela a ensuite été décrit par Étienne Bonnot de Condillac qui définit les prémices de l'approche systémique dans son *Traité des Systèmes* en **1749**, repris par la suite par Pareto qui l'appliqua à l'économie politique.
 
 
 
@@ -1528,13 +1534,13 @@ En **1847** George Boole, invente un algèbre binaire éponyme. Basé sur vrai e
 
 
 
-#### John Dewey
+#### John Dewey[^pedagogue]
 
 Né le 20 octobre **1859**
 
 
 
-#### Maria Montessori
+#### Maria Montessori[^pedagogue]
 
 Née le 31 août **1870**
 
@@ -1590,6 +1596,12 @@ La Nationnal Cash Register à été créée en **1884**
 
 
 
+#### Kodak
+
+Kodak a inventé le premier appareil photo en 1884
+
+
+
 #### Burroughs Corporation
 
 Créée en **1886**, devint Unisys après sa fusion en 1986 avec Sperry Univac, anciennement Remington.
@@ -1599,6 +1611,12 @@ Créée en **1886**, devint Unisys après sa fusion en 1986 avec Sperry Univac, 
 #### Comptomètre
 
 Inventé aux États-Unis par Dorr E. Felt en **1887**, le comptomètre reprend l'idée du clavier à touche de l'arithmomètre. Le principe de l'addition reste aussi simple que celui de la Pascaline. Par contre, la soustraction est différente et procède par addition du complément à 9 qui est inscrit en minuscule sur chaque touche du clavier.
+
+
+
+#### Nikola Tesla
+
+Nikola Tesla a inventé le moteur et l'alimentation en courant alternatif respectivement en 1888 et 1895
 
 
 
@@ -1687,14 +1705,6 @@ Première tabulatrice avec impression en **1920** par Hollerith
 
 
 
-#### Enigma
-
-**1923**
-
-Alan turing decoda avec la Turingery 
-
-
-
 #### Moore School
 
 **1923**
@@ -1745,9 +1755,11 @@ Avec ses quatre simples composant, on peut comme Alan l'indique dans sa publicat
 
 https://www.youtube.com/watch?v=-BP7DhHTU-I - https://www.youtube.com/watch?v=7lVAFcDX4eM
 
-Pionnier de l'intelligence artificielle il proposera également le Test de Turing permettant te tester la faculté d'une machine à imiter une conversation humaine. Il la décrivit dans sa publication *Computing Machinery and Intelligence* comme un *jeu d'imitation* qui donnera le titre du film récent abordant une partie de sa vie.
+Pionnier de l'intelligence artificielle il proposera également le Test de Turing permettant de tester la faculté d'une machine à imiter une conversation humaine. Il la décrivit dans sa publication *Computing Machinery and Intelligence* comme un *jeu d'imitation* qui donnera le titre du film récent abordant une partie de sa vie.
 
-Enfin, en se basant sur les travaux du cryptologue polonais Marian Rejewski, qui a étudié un exemplaire d'un manuel d'Enigma montrant le chiffrement d'un texte en clair à l'aide d'une clé et de son résultat chiffré, Alan Turing conçu une Bombe cryptologique électromécanique qui utilise la force brute, de l'anglais brute-force, c'est à dire qu'elle vérifie toutes les combinaisons. Cette machine sera capable de casser les codes d'Enigma utilisé pendant la période de seconde guerre mondiale évoquée dans cette section. Il est estimé que le déchiffrement d'Enigma à réduit d'au moins deux ans la durée de la guerre.
+Enfin, alors que la série de machines Allemandes Enigma, dont le brevet à été déposé à la fin de la première guerre mondiale, chiffre des messages de guerre depuis des dizaines d'années en utilisant le chiffrement par substitution poly-alphabétique de Vigenère, et dont une énième version sert en cette période de seconde guerre mondiale 
+
+En se basant sur les travaux du cryptologue polonais Marian Rejewski, qui a étudié un exemplaire d'un manuel d'Enigma montrant le chiffrement d'un texte en clair à l'aide d'une clé et de son résultat chiffré, Alan Turing conçu une Bombe cryptologique électromécanique qui utilise la force brute, de l'anglais brute-force, c'est à dire qu'elle vérifie toutes les combinaisons. Cette machine sera capable de casser les codes d'Enigma utilisé pendant la période de seconde guerre mondiale évoquée dans cette section. Il est estimé que le déchiffrement d'Enigma à réduit d'au moins deux ans la durée de la guerre.
 
 Avant sa mort en 1954, il eu connaissance du projet Manhattan de réalisation de la bombe atomique lors de son voyage aux Etats-Unis en 1942-1943, et il assistera également aux travaux de Von Newman qui, reprenant son architecture, lui inspireront l'Automatic Computing Engine, un design d'ordinateur à programme enregistré.
 
@@ -1902,12 +1914,6 @@ L'une des premières machines pourvues de rétroaction est le régulateur à bou
 https://fr.wikipedia.org/wiki/Auto-organisation
 
 Le mouvement cybernétique ralliera de nombreux mathématicien dont John Von Neumann.
-
-
-
-#### Transistor
-
-1947
 
 
 
@@ -2108,12 +2114,6 @@ L'ordinateur trouve lui même les solutions pour nous, très lié à l'intellige
 
 
 
-#### Circuit intégré
-
-**1958**
-
-
-
 #### IBM 1401
 
 Fabriqué entre **1959** et 1965, il a été l'ordinateur à transistor le plus vendu, notamment grâce à la politique marketing d'IBM qui a adopter une vision globale, dans l'objectif de prendre en compte le maximum d'utilisateurs et donc clients potentiels, politique qui avait déjà fait ses preuves avec le modèle 650. IBM à ainsi créer plus qu'un ordinateur, un système complet, avec une imprimante pouvant imprimer 600 lignes par minutes, principale raison d'achat ayant fait son succès. En plus de cela, étant muni de transistors bien plus fiables que les tubes à vide, il a rendu obsolète les ordinateurs en étant munis en même temps que les machines électromécaniques qui était encore utilisées par soucis monétaires.
@@ -2174,41 +2174,61 @@ Cet ordinateur avait pourtant bien des défauts, il ne supportait pas le temps p
 
 
 
-#### Dendral
+#### Premières applications de l'IA
 
-Ce programme créé en **1965** par deux informaticiens, 1 médecin et 1 chimiste, permet d'identifier des structures moléculaires en se basant sur les connaissances d'expert et des techniques d'analyses telles que la spectrométrie de masse. C'est le premier programme considéré comme "système expert".
+Dendral fut créé en **1965** par deux informaticiens, 1 médecin et 1 chimiste. Ce programme permet d'identifier des structures moléculaires en se basant sur les connaissances d'expert et des techniques d'analyses telles que la spectrométrie de masse. C'est le premier programme considéré comme "système expert".
 
 Il a par la suite été utilisé comme outil d'aide à la décision. Pour des molécules complexes, le nombre de possibilité étant plus grand, il permet d'obtenir rapidement les différentes combinaisons réalisable selon les règles de la chimie et la masse moléculaire donnée.
 
-
-
-#### Eliza
-
-C'est une intelligence artificielle conversationnelle créée **1966** dans le but de simuler un psychothérapeute, notamment en tournant des affirmations de l'utilisateur en questions.
-
-
-
-#### Apollo 1 
-
-En **1967** la lune parait de nouveau inaccessible aux américains, sous Kennedy.
-
-
-
-#### Intel et Moore
-
-**1968**
+L'année suivante, en 1966 Eliza sera révélée, une intelligence artificielle conversationnelle dans le but de simuler un psychothérapeute, notamment en tournant des affirmations de l'utilisateur en questions.
 
 
 
 #### Microprocesseur
 
+Au début du 20 ème siècle, seront développés les circuits imprimés, composés de métal conducteurs appliqués sur une carte faite d'un matériau isolant aussi appelé diélectrique, réalisant ainsi des circuits électroniques complexes.
+
+En 1903 Albert Hanson dépose un premier brevet[^0] pour coller des fils conducteurs sur un papier de paraffine dans le but d'améliorer les technologies téléphoniques, posant les bases de cette technologie.
+
+[^0]: https://worldwide.espacenet.com/patent/search/family/009975642/publication/?q=pn%3DGB269729A
+
+En 1925, Charles Ducas déposa un brevet utilisant la galvanoplastie électrolytique pour graver un circuit électronique en utilisant un pochoir, décrivant par la même occasion la possibilité de réaliser des cartes ayant plusieurs couches de circuits conducteurs [^1]
+
+[^1]: https://patents.google.com/patent/US1563731A/en?inventor=Ducas+Charles | https://worldwide.espacenet.com/patent/search?q=pn%3DUS1563731A
+
+En 1927, César Parolini réalisera également un brevet sur l'impression de motifs adhésifs en poudre de cuivre sur un diélectrique, suivant un procédé de Ducas et une idée de Thomas Edison.
+
+[^1.1]: https://worldwide.espacenet.com/patent/search/family/009975642/publication/GB269729A?q=pn%3DGB269729A
+
+En 1943 Paul Eisler, dépose un autre brevet de gravure de motif conducteur utilisant des feuilles cuivre plaquées sur une base isolante servant de support au circuit électriques [^2] 
+
+[^2]: https://worldwide.espacenet.com/patent/search/family/032233881/publication/GB639178A?q=pn%3DGB639178
+
+L'ensemble de ces travaux seront réutilisés pour la réalisation du transistor en 1947. Par la suite des améliorations comme les trous traversants plaqués initialement brevetés en 1961 par la Hazeltine Corporation ont permis des cartes plus fiables et complexes. Aujourd'hui, les cartes électroniques peuvent avoir une centaines de couches de circuits imprimés.
+
+
+
+En 1958, Jack Kilby ingénieur chez Texas Instruments, réalise le premier circuit imprimé, qui sera plus tard connu sous le nom de puce électronique, en reliant manuellement deux transistors en utilisant du germanium, bien qu'il fut longtemps oublié, il fini par obtenir le prix Nobel de physique en 2000.
+
+La même année, Robert Norton Noyce qui travaille alors à Fairchild Semiconductor qu'il a cofonder un an avant, fait la même découverte et popularise les circuits intégrés en silicium à la base de l’électronique et encore utilisés aujourd'hui, éclipsant ainsi Kilby.
+
+Suite à un désaccord au sein des dirigeants de Fairchild, il décide, avec Gordon Earle Moore, également cofondateur, de quitter cette entreprise pour fonder Intel.
+
+De la même manière que Backus avait constaté que le matériel devenait de plus en plus fiable et de moins en moins cher pour de meilleures performances, Moore inventa en 1965 une loi éponyme postulant que les semi-conducteurs aurait une progression linéaire de leur performances, qui doublerai ainsi tout les deux ans.
+
 En **1969**, le microprocesseur est inventé par Federico Faggin, et Marcian Hoff, un ingénieur et physicien d'Intel, 
 
 
 
-#### Apollo 11
+#### Apollo
+
+En **1967**, Apollo 1 est un échec et la lune parait de nouveau inaccessible aux américains, sous Kennedy.
 
 Le programme Apollo Guidance Computer réalisé en **1969** par Margaret Hamilton a été numérisé et rendu disponible sur [Github](https://github.com/chrislgarry/Apollo-11). Écrit en Assembly
+
+Apollo 11 sera finalement une réussite, les États-Unis rattrapent alors leur retard dans la course à l'espace jusqu'alors menée par l'URSS.
+
+Katherine_Johnson
 
 
 
@@ -2392,11 +2412,16 @@ https://fr.wikipedia.org/wiki/Th%C3%A9orie_g%C3%A9n%C3%A9rale_des_syst%C3%A8mes
 
 #### Progiciel
 
-#### Jeux en ligne et MMO
-
 #### Ludiciel
 
 Les fois où j'ai appris le plus rapidement des concept était encore une fois à l'aide de jeux, la redstone de minecraft m'as transmis la logique créative et utile, flexboxfroggy.com m'as permis d'apprendre le 
+
+#### Jeux en ligne et MMO
+
+#### Chiffrement
+
+- RSA  1977
+- Chiffrement sur courbes elliptiques 1985
 
 
 
