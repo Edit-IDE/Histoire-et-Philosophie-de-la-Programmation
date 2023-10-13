@@ -2086,7 +2086,9 @@ Développé pour l'UNIVAC I par Grace Hopper entre **1955** et 1959, il est à l
 
 En **1957** John Backus, alors ingénieur d'IBM, invente le Formula Translator ou FORTRAN, un langage de programmation haut niveau qui arrivera alors le mieux à produire des programmes binaires aussi bons que ceux des programmeurs expérimentés. Backus à initialement conçu ce langage comme une solution à un problème, suite à la constatation que plus de la moitié des coûts des centre informatique était dues aux salaires des développeurs, et que le coût des machine devenant de moins en moins cher, ce pourcentage ne ferais qu'augmenter si rien n'était fait. C'est en présentant cette logique à son supérieur qu'il eu l'autorisation de travailler sur ce projet qui n'a à son début que peut de reconnaissance, considéré comme un projet de recherche tentant de réaliser l'impossible et n'ayant aucune garantie de résultats.
 
-Lorsque Backus et son équipe ont présenter le projet à des développeurs, ils étaient tous sceptique. Leurs attentes étaient hautes et le FORTRAN encore approximatif et inabouti. Cela faisait en effet plusieurs années que les salariés d'IBM entendaient parler de "programmation automatique" permettant d'automatiser la programmation bas niveau en utilisant un langage de plus haut niveau d'abstraction pour factoriser à la manière de programmes comme les assembleurs, interpréteurs, compilateurs et générateurs de programmes. Ce type de programme s’exécutant sur d'autre programmes voire dans certains cas sur eux même sont du domaine de la méta-programmation
+Lorsque Backus et son équipe ont présenter le projet à des développeurs, ils étaient tous sceptique. Leurs attentes étaient hautes et le FORTRAN encore approximatif et inabouti. Cela faisait en effet plusieurs années que les salariés d'IBM entendaient parler de "programmation automatique" permettant d'automatiser la programmation bas niveau en utilisant un langage de plus haut niveau d'abstraction pour factoriser à la manière de programmes comme les assembleurs, interpréteurs, compilateurs et générateurs de programmes. Ce type de programme s’exécutant sur d'autre programmes voire dans certains cas sur eux même sont du domaine de la méta-programmation.
+
+La réalisation comme la popularité du FORTRAN ont donc pris du temps à se mettre en place. Son developpement et son adoption ont été acceleré par l'edition de manuels simplifies comme le Programmer's Primer de Grace E. Mitch.
 
 
 
@@ -2099,6 +2101,12 @@ Lorsque Backus et son équipe ont présenter le projet à des développeurs, ils
 ##### Cobol
 
 **1959**
+
+
+
+en COBOL les instructions étaient moins technique et plus lisible, donnant l'illusion aux décisionnaires que n'importe qui pourrait comprendre les programmes qui en découlent, pour preuve, celle pour calculer le salaire net d'un employé à partir de son salaire brut était ainsi :
+
+'SUBSTRACT TAX FROM  GROSS-PAY GIVING NET-PAY'
 
 
 
@@ -2261,6 +2269,14 @@ Jusqu'alors, l'informatique était essentiellement réservé aux domaines privé
 #### Genèse d'internet
 
 Arpanet et Cyclades **1969** et 1972 (Louis Pouzin)
+
+
+
+#### Interfaces graphiques
+
+En 1970, Xerox met en place le Palo Alto Research Center, plus connu sous le nom de Xerox Parc, ce laboratoire d'études travailla sur les premieres interfaces graphiques et editeurs permettant de modifier un document directement depuis son rendu visuel, on appelle ca la technologie What You See Is What You Get ou WYSYWYG
+
+Le premier logiciel à implémenter cette technologie et permettre le repositionnement du curseur et la sélection de texte a l'aide d'une souris est l'éditeur de documents Xerox Bravo
 
 
 
@@ -3067,7 +3083,7 @@ Un ludiciel doit être vivant, animé, utilisé, collaboratif.
 
 
 
-WYSYWYG, Xerox Bravo
+
 
 NO MORE CLI NO MORE BLOCNOTE
 
