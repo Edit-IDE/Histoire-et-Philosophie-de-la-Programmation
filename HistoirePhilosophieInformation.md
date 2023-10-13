@@ -1767,7 +1767,7 @@ Avant sa mort en 1954, il eu connaissance du projet Manhattan de réalisation de
 
 #### Zuse Konrad
 
-En 1936 l'ingénieur allemand Zuse Konrad commencera à travailler sur une série de quatre calculateurs éponymes nommés Zuse. La première version, le Z1, était un calculateur mécanique qui sera abouti en 1938 bien que peu fiable, certaines pièces ayant étés réalisés manuellement à la scie, dans la chambre de ses parents qui l'ont soutenu financièrement. La deuxième version en sera une version améliorée sortie en 1940, réutilisant la mémoire mécanique qui était elle très fiable, mais remplaçant l'unité arithmétique en utilisant des relais électriques. Le Z3, achevé en 1941, est un calculateur électromécanique qui sera considéré comme le premier ordinateur numérique, il était entièrement automatique et programmable, utilisant le calcul binaire et à virgule flottante. Cette troisième version s'avèrera être théoriquement Turing-complet, mais ne fut pas considéré pleinement comme tel car ne possédant pas de branchement conditionnel permettant de ne pas aller à l'adresse mémoire suivante, mais vers une adresse spécifique en fonction de la satisfaction ou non d'une condition. La quatrième et dernière version en 1953, sera la premier ordinateur commercial au monde, avant même le Ferranti Mark I et l'UNIVAC 1. Konrad sera ailleurs plus considéré comme un scientifique de production et d'affaire qu'un chercheur, contrairement à Alan Turing ou Von Neumann qui conceptualisaient et publiaient avant de passer aux applications. Cela ne l'empêcha pas d'être un pionnier de l'informatique qui conçut également le premier langage de haut niveau nommé Plankalkül de 1942 à 1946, bien qu'il fut oublié de son temps et repris qu'en 1975 puis compilé en 2000 cinq ans après sa mort.
+En 1936 l'ingénieur allemand Zuse Konrad commencera à travailler sur une série de quatre calculateurs éponymes nommés Zuse. La première version, le Z1, était un calculateur mécanique qui sera abouti en 1938 bien que peu fiable, certaines pièces ayant étés réalisés manuellement à la scie, dans la chambre de ses parents qui l'ont soutenu financièrement. La deuxième version en sera une version améliorée sortie en 1940, réutilisant la mémoire mécanique qui était elle très fiable, mais remplaçant l'unité arithmétique en utilisant des relais électriques. Le Z3, achevé en 1941, est un calculateur électromécanique qui sera considéré comme le premier ordinateur numérique, il était entièrement automatique et programmable, utilisant le calcul binaire et à virgule flottante. Cette troisième version s'avèrera être théoriquement Turing-complet, mais ne fut pas considéré pleinement comme tel car ne possédant pas de branchement conditionnel permettant de ne pas aller à l'adresse mémoire suivante, mais vers une adresse spécifique en fonction de la satisfaction ou non d'une condition. La quatrième et dernière version en 1953, sera la premier ordinateur commercial au monde, avant même le Ferranti Mark I et l'UNIVAC 1. Konrad sera ailleurs plus considéré comme un scientifique de production et d'affaire qu'un chercheur, contrairement à Alan Turing ou Von Neumann qui conceptualisaient et publiaient avant de passer aux applications. Cela ne l'empêcha pas d'être un pionnier de l'informatique qui conçut également, de 1942 à 1946, le premier langage de haut niveau nommé Plankalkül, bien qu'il fut oublié de son temps et repris qu'en 1975 puis compilé en 2000 cinq ans après sa mort.
 
 Son histoire nous montre qu'avec de la motivation et le soutien de nos proches, on peut devenir un pionnier, voire le premier à développer une technologie donnée, quitte à n'être que peu connu, même perdre des travaux, et que d'autres ne soient redécouverts et exploités que plus tard.
 
@@ -1963,8 +1963,6 @@ Wilkes, se rendant compte que l'ordinateur, capable de manipuler les nombres et 
 
 Rival de l'EDSAC et du BINAC, il fait son apparition la même année en **1949**, fait à partir du IBM 604 et du IBM 402
 
-
-
 Premier compilateur (A-0 System Grace Hopper 1951)
 
 
@@ -1975,11 +1973,13 @@ Le Ferranti Mark 1, aussi connu comme le Manchester Electronic Computer, est le 
 
 
 
-#### Compilateur
+#### Compilateurs et premiers languages de haut niveau
 
 L'Universal Automatic Computer I (UNIVAC) est sorti en **1951**, c'est alors une filiale de Remington Rand, MAGNETIC TAPE STORAGE start and stop tape rapidement avec des servomoteurs, plastic -> déforme -----> métal résistant, travail pour écrire et lire dessus
 
-Grace Hopper, docteur en mathématiques, officier de la marine, et informaticienne américaine ; a créé en **1951** le Arithmetic Language ou A-0 system, qui est le premier compilateur. Il aura plusieurs version jusqu’à arriver au B-0 Flow-matic qui est à l'origine du COBOL. Comme tout les compilateurs, il prends un code et le converti en code machine exécutable, ce que le A-0 réalisait en établissant des liens entre les programmes et sous-programmes ainsi que leurs paramètres.
+Pour la réalisation de cet ordinateur, Grace Hopper, docteur en mathématiques, officier de la marine, et informaticienne américaine ; créé en **1951** le Arithmetic Language ou A-0 system, qui sera le premier compilateur. Il aura plusieurs version jusqu’à arriver au B-0 Flow-matic, développé entre 1955 et 1959. Comme tout les compilateurs, il prends un code et le converti en code machine exécutable, ce que le A-0 réalisait déjà en établissant des liens entre les programmes et sous-programmes ainsi que leurs paramètres.
+
+
 
 
 
@@ -2004,23 +2004,15 @@ La première occurrence que j'ai trouvée dans une archive du MIT de Douglas T. 
 
 
 
-#### IBM 701
+L'UNIVAC I a fait grandement peur à IBM qui craignant de perdre une partie importante du marché civil, bien que cela ne fut pas le cas. Leur réponse à été de confier la réalisation d'un ordinateur à Nathaniel Rochester, qui a travaillé sur la technologie Radar, m les éléments arithmétiques du projet Whirlwind I, les prémices de l'intelligence lors de travaux d'études sur la reconnaissance de schémas et la théorie de l'information qu'il a dirigé à IBM, en plus d'être l'un des conférenciers de la conférence de Dartmouth qui se tiendra en 1956 avec John McCarthy, Marvin Minsky et Claude Shannon.
 
-L'IBM 701 est le premier ordinateur scientifique produit en masse, aussi connu sous le nom de Defense Calculator, il est sorti en **1952**, rival du UNIVAC qui a fait grandement peur à IBM qui craignait de perdre une bonne partie du marché civil, bien que cela ne fut pas le cas comme décrit précédemment. Il possédait une mémoire tambour. Il utilisera le premier langage assembleur créé par Nathaniel Rochester, qui a travaillé sur la technologie Radar, les éléments arithmétiques du projet Whirlwind I, et les prémices de l'intelligence lors de travaux d'études sur la reconnaissance de schémas et la théorie de l'information qu'il a dirigé à IBM. Il sera également l'un des conférenciers à la conférence de Dartmouth avec John McCarthy, Marvin Minsky et Claude Shannon.
+IBM dévoila ainsi le modèle IBM 701 en **1952**, premier ordinateur scientifique produit en masse, aussi connu sous le nom de Defense Calculator. Il possédait une mémoire tambour, utilisant le premier langage assembleur, conçu par Rochester.
 
+L'année d'après en **1953**, John Backus, alors ingénieur d'IBM, créé le Speedcoding, un interpréteur qui a été le premier langage de programmation de haut niveau créé pour un ordinateur IBM. Bien qu'il s'appelle Speedcoding, et qu'il ai facilité le développement en fournissant des instructions pour les fonctions mathématiques, le fait que ce soit un interpréteur le rendait particulièrement lent, 10 à 20 fois plus que du code machine, de plus, il prenait 30% de la mémoire à lui seul. Malgré cela, il a permis la prise en charge des nombres à virgule flottante sur les ordinateurs IBM 701.
 
+L'IBM 702 lui succédera la même année, il est le premier ordinateur muni de dérouleur de bandes magnétiques, il était moins puissant que le 701 ou le ERA 1103 mais avait contrairement à eux, les civils pour cible commerciale. Contrairement à l'UNIVAC, sa mémoire n'était pas constituée de ligne à retard analogiques, mais elle était électrostatique en utilisant des tubes de William, deux fois plus rapide et plus fiable. De plus, contrairement au monolithe qu'était l'UNIVAC, son design étant modulaire et composé de boites reliées entre elles, l'ordinateur pouvait être transporté dans la majorité des ascenseurs. Après son annonce, IBM arrive à réaliser 50 commandes en 10 mois.
 
-#### IBM 702
-
-Construit en réponse à l'UNIVAC 1, c'est le premier ordinateur muni de dérouleur de bandes magnétiques, il était moins puissant que le 701 ou le ERA 1103 mais avait contrairement à eux, les civils pour cible commerciale. Contrairement à l'UNIVAC, sa mémoire n'était pas constituée de ligne à retard analogiques, mais elle était électrostatique en utilisant des tubes de William, deux fois plus rapide et plus fiable. De plus, contrairement au monolithe qu'était l'UNIVAC, son design étant modulaire et composé de boites reliées entre elles, l'ordinateur pouvait être transporté dans la majorité des ascenseurs.
-
-Après son annonce en septembre **1953**, IBM arrive à réaliser 50 commandes en 10 mois.
-
-
-
-#### Mémoire à tores magnétiques
-
-La même année, en **1953**, est développer la mémoire à tores magnétique qui a révolutionné pendant une vingtaine d'année la mémoire vive. Constitué d'anneaux de ferrite polarisés, correspondant à un bit de 0 ou 1 en fonction du sens du champ magnétique, tous traversés par des fils conducteurs.
+Toujours en **1953**, est développée la mémoire à tores magnétique qui a révolutionné pendant une vingtaine d'année la mémoire vive. Constitué d'anneaux de ferrite polarisés, correspondant à un bit de 0 ou 1 en fonction du sens du champ magnétique, tous traversés par des fils conducteurs.
 
 Se basant sur l'hystérésis, faire passer un courant dans un fil permettait de lire, ou d'écrire si le courant est assez élevé, la valeur des tores.
 
@@ -2028,15 +2020,25 @@ Cette technologie à poussé IBM a rééditer ses modèles 701 et 702 avec ce ty
 
 
 
-#### IBM 650
+L'année suivante, en **1954** sortira l'IBM 650, modèle le plus populaire des années 50, et pour cause, il coûtait seulement un quart du prix d'un 701, et a été vendu à de nombreuses universités, créant toute une génération de programmeur. Faisant de lui le premier ordinateur produit en masse dans le monde et la première machine d'IBM à réaliser un profit significatif.
 
-Créé en **1954** c'est le modèle le plus populaire des années 50, et pour cause, il coûtait seulement un quart du prix d'un 701, et a été vendu à de nombreuses universités, créant toute une génération de programmeur. Faisant de lui le premier ordinateur produit en masse dans le monde et la première machine d'IBM à réaliser un profit significatif.
+Créé aux États-Unis en **1955**, le TRAnsistor DIgital Computer sera quand à lui premier ordinateur à transistors.
 
 
 
-#### TRADIC
+En **1957**, Backus invente le Formula Translator ou FORTRAN, un langage de programmation haut niveau qui produira des programmes binaires aussi performants que ceux des programmeurs expérimentés. Il à initialement conçu ce langage comme une solution à un problème, suite à la constatation que plus de la moitié des coûts des centres informatiques était dus aux salaires des développeurs qui passent jusqu’à la moitié de leurs temps à tester et debugger plutôt qu'a produire du code, à cela s'ajoute le fait que le coût des machine devenant de moins en moins cher, ce pourcentage ne ferait alors qu'augmenter si rien n'était fait. C'est en présentant cette logique à son supérieur qu'il eu l'autorisation de travailler sur ce projet qui n'a à son début que peut de reconnaissance, considéré comme un projet de recherche tentant de réaliser l'impossible et n'ayant aucune garantie de résultats.
 
-Créé aux États-Unis en **1955**, le TRAnsistor DIgital Computer a été premier ordinateur à transistors.
+Lorsque Backus et son équipe ont présenter le projet à des développeurs, ils étaient tous sceptique. Leurs attentes étaient hautes et le FORTRAN encore approximatif et inabouti. Cela faisait en effet plusieurs années que les salariés d'IBM entendaient parler de "programmation automatique" permettant d'automatiser la programmation bas niveau en utilisant un langage de plus haut niveau d'abstraction pour factoriser à la manière de programmes comme les assembleurs, interpréteurs, compilateurs et générateurs de programmes. Ce type de programme s’exécutant sur d'autre programmes voire dans certains cas sur eux même sont du domaine de la méta-programmation.
+
+La réalisation comme la popularité du FORTRAN ont donc pris du temps à se mettre en place. Son developpement et son adoption ont été acceleré par l'edition de manuels simplifies comme le Programmer's Primer de Grace E. Mitch.
+
+
+
+Par la suite, Grace Hopper inventera le COBOL, un langage haut niveau qui sera créé en **1959**, dans ce langage, les instructions étaient moins technique et plus lisible, donnant l'illusion aux décisionnaires que n'importe qui pourrait comprendre les programmes qui en découlent, pour preuve, celle pour calculer le salaire net d'un employé à partir de son salaire brut était ainsi :
+
+```cobol
+SUBSTR TAX FROM GROSS-PAY GIVING NET-PAY
+```
 
 
 
@@ -2064,32 +2066,6 @@ Ces abstractions sont de plus haut niveau et indépendant du matériel, les lang
 
 
 
-##### Plankalkul
-
-Premier langage de haut niveau, réalisé par Konrad Zuse, réalisé entre 1942 et 1946, il ne sera révélé qu'en 1948 et implémenté qu'en 1975. Le premier compilateur supportant ce langage ne sera abouti qu'en 2000.
-
-
-
-##### Speedcoding
-
-Révélé en **1953**, cela a été le premier langage de programmation de haut niveau créé pour un ordinateur IBM, il a été développé par John Backus et lui a fortement inspiré le Fortran. Ce langage a permis la prise en charge des nombres à virgule flottante sur les ordinateurs IBM 701
-
-
-
-##### Flow-Matic
-
-Développé pour l'UNIVAC I par Grace Hopper entre **1955** et 1959, il est à l'origine du COBOL
-
-
-
-##### Fortran
-
-En **1957** John Backus, alors ingénieur d'IBM, invente le Formula Translator ou FORTRAN, un langage de programmation haut niveau qui arrivera alors le mieux à produire des programmes binaires aussi bons que ceux des programmeurs expérimentés. Backus à initialement conçu ce langage comme une solution à un problème, suite à la constatation que plus de la moitié des coûts des centre informatique était dues aux salaires des développeurs, et que le coût des machine devenant de moins en moins cher, ce pourcentage ne ferais qu'augmenter si rien n'était fait. C'est en présentant cette logique à son supérieur qu'il eu l'autorisation de travailler sur ce projet qui n'a à son début que peut de reconnaissance, considéré comme un projet de recherche tentant de réaliser l'impossible et n'ayant aucune garantie de résultats.
-
-Lorsque Backus et son équipe ont présenter le projet à des développeurs, ils étaient tous sceptique. Leurs attentes étaient hautes et le FORTRAN encore approximatif et inabouti. Cela faisait en effet plusieurs années que les salariés d'IBM entendaient parler de "programmation automatique" permettant d'automatiser la programmation bas niveau en utilisant un langage de plus haut niveau d'abstraction pour factoriser à la manière de programmes comme les assembleurs, interpréteurs, compilateurs et générateurs de programmes. Ce type de programme s’exécutant sur d'autre programmes voire dans certains cas sur eux même sont du domaine de la méta-programmation.
-
-La réalisation comme la popularité du FORTRAN ont donc pris du temps à se mettre en place. Son developpement et son adoption ont été acceleré par l'edition de manuels simplifies comme le Programmer's Primer de Grace E. Mitch.
-
 
 
 ##### Lisp
@@ -2098,15 +2074,7 @@ La réalisation comme la popularité du FORTRAN ont donc pris du temps à se met
 
 
 
-##### Cobol
 
-**1959**
-
-
-
-en COBOL les instructions étaient moins technique et plus lisible, donnant l'illusion aux décisionnaires que n'importe qui pourrait comprendre les programmes qui en découlent, pour preuve, celle pour calculer le salaire net d'un employé à partir de son salaire brut était ainsi :
-
-'SUBSTRACT TAX FROM  GROSS-PAY GIVING NET-PAY'
 
 
 
@@ -2274,9 +2242,11 @@ Arpanet et Cyclades **1969** et 1972 (Louis Pouzin)
 
 #### Interfaces graphiques
 
-En 1970, Xerox met en place le Palo Alto Research Center, plus connu sous le nom de Xerox Parc, ce laboratoire d'études travailla sur les premieres interfaces graphiques et editeurs permettant de modifier un document directement depuis son rendu visuel, on appelle ca la technologie What You See Is What You Get ou WYSYWYG
+Inspiré par le memex décrit par Vannevar Bush, Ivan Edward Sutherland invente Sketchpad en 1963, il obtiendra à cet effet bien des honneurs et récompenses, dont un Turing Award en 1988. Cela inspirera à Douglas Engelbart la réalisation du oN-Line System (NLS), le premier système d'exploitation multi-utilisateur à utiliser la souris qu'il a lui même inventé, mais également les liens hypertextes, écrans à balayage et les interfaces graphiques et leurs fenêtres. Ce projet finira par être abandonné à cause de sa difficulté d'apprentissage, beaucoup de personnes ayant travaillé sur le projet décident alors d'aller travailler pour Xerox, qui en 1970, met en place le Palo Alto Research Center, plus connu sous le nom de Xerox Parc.
 
-Le premier logiciel à implémenter cette technologie et permettre le repositionnement du curseur et la sélection de texte a l'aide d'une souris est l'éditeur de documents Xerox Bravo
+Ce laboratoire d'études travailla sur les premières interfaces graphiques et éditeurs permettant de modifier un document directement depuis son rendu visuel, on appelle ceci la technologie "What You See Is What You Get" ou WYSYWYG. Le premier logiciel à implémenter cette technologie et permettre le repositionnement du curseur et la sélection de texte à l'aide d'une souris est l'éditeur de documents Xerox Bravo sorti en 1974, peu après l'ordinateur Xerox Alto, qui a été révélé le 1er Mars 1973. Cet ordinateur est le premier à fournir une interface graphique, et ainsi ne plus être dépendant de la ligne de commande. Il introduira également les métaphores de bureau, documents, classeurs, et corbeille, familiers à tout employé de bureau. L'ensemble interface graphique et pointeur favorisa grandement l'adoption et la démocratisation des ordinateurs, cela deviendra un standard omniprésent dans nos interactions avec machine.
+
+Alan Kay à dirigé le développement de Smalltalk, créé en 1972 au Xerox Parc, c'est un langage de programmation objet et surtout le premier à avoir un environnement de développement complétement graphique. Il fut intégré au Xerox DoRADO, héritié du Xerox Alto, avec pour objectif d'être un système bien plus performant. Plus tard, en 1996, Smalltalk deviendra Squeak encore disponible et utilisé aujourd'hui. Squeak est inspiré de Logo, qui est à la fois une famille de langages de programmation et une philosophie de l'éducation. C'est le résultats de travaux sur le cognitivisme promu par Marvin Minsky et les travaux sur l'éducation de Jean Piaget promus par Seymour Pagert.
 
 
 
@@ -2297,9 +2267,11 @@ Le premier logiciel à implémenter cette technologie et permettre le reposition
 Présenté en 1978 mais sorti en **1980**, le Minitel est un ordinateur connecté à un réseau et donc appelé Terminal. Il utilisait le réseau Transpac pour faire tourner le sien, "Télétel" auquel il se connectait à l'aide d'un modem. Il possédait une mémoire de 8,25 ko, et un processeur Intel 8052
 
 - *Osborne 1* **1981**
-- Xerox Star **1981** premier ordinateur commercial avec une interface utilisateur graphique
+- Xerox Star **1981** premier ordinateur commercial avec une interface utilisateur graphique [^1]
 - *IBM PC 5150* **1981**
 - *Macintoch 128K* Sorti en **1984**, avec des icônes en skeuomorphisme 
+
+[^1]: http://toastytech.com/guis/star.html
 
 
 
@@ -2368,6 +2340,8 @@ L'antithèse, revient à justifier que le stimuli étant identique, il est tout 
 
 (**1990** Tim Berners Lee) web semantique Rose Dieng Kuntz
 
+Ward Cunningam créa le wiki en 1995, il fut un développeur Smalltalk
+
 
 
 #### Ordinateur quantique
@@ -2413,6 +2387,8 @@ https://fr.wikipedia.org/wiki/Th%C3%A9orie_g%C3%A9n%C3%A9rale_des_syst%C3%A8mes
 ### Usages et industrie du logiciel
 
 #### Navigation web
+
+
 
 #### Automatisation
 
@@ -3197,11 +3173,23 @@ mémoire onirique
 
 
 
+Restaurer l'information perdue, vesuvius challenge https://scrollprize.org/
+
+
+
 ## Postface : Rétrospective et métacognition
+
+J'ai écris ce mémoire en commançant par de la prise de note puis en rédigeant, reliant petit à petit toutes les idées et concepts dont je voulais parler. En soit je n'ai rien inventé, j'ai découvert plein d'informations et me suis contenté de les compiler à la manière de Vitruve ou d'un ordinateur.
+
+Dès que j'avais une idée ou une information qui pouvait se relier à mon mémoire, je dégainais mon téléphone, activait mon VPN pour me connecter au réseau de mon appartement et ainsi accéder à mon serveur windows, tournant h24 sur un mini-pc à 500 euros que je me suis acheté avant d'intégrer l'école hexagone, avec le premier salaire de mon alternance et la jolie prime obtenue pour avoir rejoint l'entreprise dès que possible un mois avant la rentrée scolaire. 
 
 Problème pour retrouver des informations, comme Lulle ou j'ai du récupérer la page en catalan, ou l'automatic programming, qui ne possède pas de page wikipédia ni de définition en français. J'ai très souvent croiser les versions anglais et francaises des pages wikipédia que je consultait pour être sur de la source et de la véracité des informations. J'ai également pu lire des textes historiques fantastiques comme le texte As we may think de Vannevar Bush, prouvant encore une fois que beaucoup d'inventions et informations qui n'ont été connue du grand public par la suite était déjà accessible aux plus curieux.
 
 
+
+## Table des illustrations
+
+### http://toastytech.com/guis
 
 
 
