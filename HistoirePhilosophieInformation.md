@@ -8,7 +8,7 @@ Mémoire de fin d'étude pour la validation du diplôme résultant de mon parcou
 
 ## Résumé
 
-Cet ouvrage énonce, conformément à son titre et aux recherches qu'il à nécessité, le passé, présent et ma pensée sur le futur de la gestion de l'information. L'étude des connaissances existantes sur ce sujet vous replongerons surement dans vos cours d'Histoire, elles permettrons de mettre en situation l'état actuel du monde scientifique et plus particulièrement de l'informatique. Cette discipline récente permet désormais de solutionner et automatiser beaucoup de tâches pénibles, mais sa pratique en elle même reste fastidieuse. C'est pourquoi j'en ai fait le cœur de ma problématique, et que la dernière partie se nomme "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?". À l'aide des parties précédentes analysant son origine, la conclusion proposera ainsi une solution informatique innovante, combinant des technologies et pratiques existantes pour se simplifier elle même en utilisant de la rétro-action.
+Cet ouvrage, conformément à son titre et aux recherches qu'il a nécessité, énonce le passé, le présent, et ma pensée sur le futur de la gestion de l'information. L'étude des connaissances existantes sur ce sujet vous replongera sûrement dans vos cours d'Histoire, elle mettra en situation le présent avec un abrégé allant de la préhistoire, jusqu’à l'état actuel du monde scientifique, et plus particulièrement de l'informatique. Cette discipline récente permet désormais de solutionner et automatiser beaucoup de tâches pénibles, mais sa pratique en elle même reste fastidieuse. C'est pourquoi j'en ai fait le cœur de ma problématique, que je l'analyse pour la repenser dans un essai philosophique, et que la dernière partie se nomme "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?". À l'aide des parties précédentes analysant son origine, la conclusion proposera ainsi une solution informatique innovante, combinant des technologies et pratiques existantes pour se simplifier elle même en utilisant de la rétro-action et de la méta-programmation à travers une interface graphique simple et agréable.
 
 
 
@@ -537,19 +537,22 @@ Cet ouvrage énonce, conformément à son titre et aux recherches qu'il à néce
       - [Page d’évaluation](#page-dévaluation)
   
 
+
+
 ## Remerciements
 
 Je ne remercierai jamais assez mes parents et grand parents, qui ont eu la chance d'être propriétaires d'ordinateurs, et d'une connexion d'internet, avant ma naissance en 1999. Grâce à cela il ont eu la merveilleuse idée de me mettre devant un écran, avec des logiciels éducatifs qui m'ont permis de savoir lire à l'âge de 2 ans.
 
-Merci à toutes les personnes et enseignants qui m'ont, lors de ma longue scolarité, transmis tout ce que je sais aujourd'hui.
+
+
+Merci à toutes les personnes et enseignants des entreprises et écoles qui m'ont accueillis, lors de ma scolarité, et de mon début de carrière, me transmettant une majeure partie ce que je sais aujourd'hui, et ce dans la bienveillance, grâce à des processus itératifs d'amélioration continue.
 
 Merci aux logiciels libres, à l'open source, à Wikipédia et tout leurs contributeurs.
-
-Merci aux établissements d'enseignement et entreprises, dans lesquels j'ai travaillé et évoluer dans la bienveillance, grâce à des processus itératifs d'amélioration continue.
 
 Merci à toutes et tous, car nos métiers et découvertes ne sont que rarement le fruit d'un génie isolé, mais bien d'une collaboration et de l'amélioration d'idées antérieures.
 
 Enfin, merci à toute personne qui lit actuellement ce texte.
+
 
 
 ## Introduction
@@ -569,13 +572,15 @@ Pour la rédaction de ce dernier, j'ai acquis 4 livres :
 
 Les trois premiers livres ont chacun leurs avantages grâce à une approche différente d'un même sujet, sur lequel je m'attendais à trouver plus de bibliographie. Contrairement à ceux-ci, j'ai essayé d'avoir une démarche plus globale que l'informatique et l'ordinateur, qui sont des concepts très récent. Et ce en abordant le thème global qu'est l'information, tout en y ajoutant de la philosophie, ainsi que mon humble analyse subjective, parce que j'aime penser, et que l'apprentissage des mathématiques et de l'informatique ont changé ma manière de concevoir le monde dans lequel nous vivons. Se sont selon moi des philosophies à part entière, apportant des syntaxes et un vocabulaire, nécessitant un apprentissage constant de schémas de pensés dignes d'un logicien.
 
-Dans ce mémoire, je vais donc revenir aux racines les plus ancestrales de la gestion de l'information, au vocabulaire et champ lexical qui y sont liés ou en découlent, ainsi qu'a leurs étymologies à travers leur Histoire, qui représente toute la première partie de ce livre. J'y présenterai beaucoup de philosophes, scientifiques et de penseurs variés. De l'Antiquité aux époques plus modernes, les idées qu'ils ont amenées ont permis des inventions et progrès technologiques avec un développement de plus en plus rapide. Pourtant, les inventions qui ont le plus impacté l'humanité, resteront toujours les plus anciennes, avec au sommet d'entre elles, l'écriture.
+Dans ce mémoire, je vais donc revenir aux racines les plus ancestrales de la gestion de l'information, au vocabulaire et champ lexical qui y sont liés ou en découlent, ainsi qu'a leurs étymologies à travers leur [Histoire](#Histoire), qui représente toute la première partie de ce livre. J'y présenterai beaucoup de philosophes, scientifiques et de penseurs variés. De l'Antiquité aux époques plus modernes, les idées qu'ils ont amenées ont permis des inventions et progrès technologiques avec un développement de plus en plus rapide. Pourtant, les inventions qui ont le plus impacté l'humanité, resteront toujours les plus anciennes, avec au sommet d'entre elles, l'écriture.
 
 J'aborderai aussi un sujet qui m'est cher, la programmation. Elle n'est pas forcement liée à l'informatique, c'est l'art de planifier et mettre en œuvre des étapes à suivre pour obtenir un résultat. Cela dit, elle passe inévitablement par de la gestion de l'information, à l'aide d'écriture, lecture, chiffrement, déchiffrement, émission, et réception.
 
-C'est pourquoi je m’intéresserai également à l'apprentissage, très présent dans les technologies comme l'intelligence artificielle, qui représente l’acquisition et l'assimilation d'une information ou d'un système ; ainsi qu'à la pédagogie, propre à l'humain, animal social émotionnel ; et au rapport maître / élève.
+Je m’intéresserai également à l'apprentissage, très présent dans les technologies comme l'intelligence artificielle, qui représente l’acquisition et l'assimilation d'une information ou d'un système ; ainsi qu'à la pédagogie, propre à l'humain, animal social émotionnel ; et au rapport maître / élève.
 
-Je dresserai ensuite un bilan de l’état actuel de l'informatique, de son marché, ainsi qu'une étude de sa pratique moderne ; et ce afin d'en identifier les problèmes que l'on y rencontre en tant que développeur, pour finir par en dégager de possibles solutions, dressant ainsi ma projection subjective en tant qu'acteur et éditeur de logiciels, pour le futur de cette discipline, plus particulièrement la pratique que je souhaite en avoir en tant que créateur de services et contenu web.
+L'ensemble de ses sujets, et l'information en général, prends une place de plus importante dans nos quotidien, cela s'accompagne d'un volume d'informations mondialement échangé exponentiel. Nous avons développer une relation symbiotique avec la technologie, qui nous permet aujourd'hui de communiquer et de jouer presque instantanément au niveau mondial, améliorant également la santé de certains et peuvent nous faire vivre mieux, on parle même de télé-santé. Pour autant, comme toutes les technologies récentes ayant un impact majeur, vient un rejet et une techno-phobie d'une certaine partie de la population pas encore convertie à son usage.
+
+C'est pourquoi je dresserai ensuite un [bilan de l’état actuel de l'informatique](#Pratiques-actuelles), de son marché, ses opportunités, ainsi qu'une étude de sa pratique moderne ; et ce afin d'en [identifier les problèmes](#Comprendre-la-problématique) que l'on y rencontre en tant que développeur, pour finir par en dégager de possibles solutions, dressant ainsi un [essai](#Essai) philosophique expliquant ma projection subjective en tant qu'acteur et éditeur de logiciels, pour [le futur de cette discipline](#EditIDE-ou-"Comment-repenser-la-gestion-de-l'information-pour-moderniser-l'expérience-développeur-?"), plus particulièrement la pratique que je souhaite en avoir en tant que créateur de services et contenu web.
 
 
 
@@ -600,7 +605,7 @@ Mais avant de parler des méthodes modernes et répondre à cette question, il m
 
 
 
-[Retour](#Sommaire)
+[Retour](#Introduction)
 
 ## Histoire
 
@@ -1751,9 +1756,12 @@ En **1932**, l'ingénieur Gustav Tauschek, invente une nouvelle méthode de mém
 
 En **1936** il invente une expérience de pensée présentant une machine nommée d'après son nom. Cette machine de Turing est à la base de l'informatique théorique, c'est une métaphore du fonctionnement de tout appareil de calcul, elle à poser les bases de la complexité algorithmique et de la calculabilité. Imaginez un **ruban infini** composé de cases numérotées, toutes ces cases possèdent initialement un zéro. Sur ce ruban est situé un **agent** capable de lire et écrire les symboles sur le ruban, ainsi que de se déplacer sur la case précédente ou suivante. Un **registre** viendra mémoriser la suite d'états allant de celui initial, jusqu'à actuel, le nombre d'état est limité et fini. Enfin, cet état permet grâce à une **table d'action** d'indiquer à la machine quel action réaliser, que ce soit un déplacement, une lecture ou une écriture, ainsi que le nouvel état après réalisation de l'action. Si aucune action ne correspond à l'état actuel et au symbole qui bien d'être lu alors la machine s'arrête.
 
-Avec ses quatre simples composant, on peut comme Alan l'indique dans sa publication, créer une Machine de Turing universelle, capable de simuler le comportement de n'importe quelle autre machine de Turing, on dit alors qu'elle est Turing-complète. C'est ainsi la raison pour laquelle on peut utiliser un ordinateur pour simuler une machine virtuelle, ou utiliser des jeux Turing-complete comme Minecraft ou Factorio pour reproduire une processeur, un affichage graphique, et ainsi une version simplifié du jeu à l'intérieur de son propre monde virtuel.
+Avec ses quatre simples composant, on peut comme Alan l'indique dans sa publication, créer une Machine de Turing universelle, capable de simuler le comportement de n'importe quelle autre machine de Turing, on dit alors qu'elle est Turing-complète. C'est ainsi la raison pour laquelle on peut utiliser un ordinateur pour simuler une machine virtuelle, ou utiliser des jeux Turing-complete comme Minecraft[^1] Terraria[^2]  ou Factorio[^3] pour reproduire une processeur, un affichage graphique, et ainsi une version simplifié du jeu à l'intérieur de son propre monde virtuel. Il existe également un ludiciel du même nom qui guide le joueur et l'élève, on peut y apprendre l’électronique pas à pas, dans un logiciel qui simule sa logique, et permet de reproduire des circuits complexes et comprendre le fonctionnement des langages assembleurs, qui naîtrons 13 ans après l'expérience de pensée de Turing.[^4]
 
-https://www.youtube.com/watch?v=-BP7DhHTU-I - https://www.youtube.com/watch?v=7lVAFcDX4eM
+[^1]: https://www.youtube.com/watch?v=-BP7DhHTU-I
+[^2]: https://www.youtube.com/watch?v=7lVAFcDX4eM
+[^3]: https://youtube.com/watch?v=zXPiqk0-zDY 
+[^4]: https://store.steampowered.com/app/1444480/Turing_Complete/
 
 Pionnier de l'intelligence artificielle il proposera également le Test de Turing permettant de tester la faculté d'une machine à imiter une conversation humaine. Il la décrivit dans sa publication *Computing Machinery and Intelligence* comme un *jeu d'imitation* qui donnera le titre du film récent abordant une partie de sa vie.
 
@@ -1767,7 +1775,7 @@ Avant sa mort en 1954, il eu connaissance du projet Manhattan de réalisation de
 
 #### Zuse Konrad
 
-En 1936 l'ingénieur allemand Zuse Konrad commencera à travailler sur une série de quatre calculateurs éponymes nommés Zuse. La première version, le Z1, était un calculateur mécanique qui sera abouti en 1938 bien que peu fiable, certaines pièces ayant étés réalisés manuellement à la scie, dans la chambre de ses parents qui l'ont soutenu financièrement. La deuxième version en sera une version améliorée sortie en 1940, réutilisant la mémoire mécanique qui était elle très fiable, mais remplaçant l'unité arithmétique en utilisant des relais électriques. Le Z3, achevé en 1941, est un calculateur électromécanique qui sera considéré comme le premier ordinateur numérique, il était entièrement automatique et programmable, utilisant le calcul binaire et à virgule flottante. Cette troisième version s'avèrera être théoriquement Turing-complet, mais ne fut pas considéré pleinement comme tel car ne possédant pas de branchement conditionnel permettant de ne pas aller à l'adresse mémoire suivante, mais vers une adresse spécifique en fonction de la satisfaction ou non d'une condition. La quatrième et dernière version en 1953, sera la premier ordinateur commercial au monde, avant même le Ferranti Mark I et l'UNIVAC 1. Konrad sera ailleurs plus considéré comme un scientifique de production et d'affaire qu'un chercheur, contrairement à Alan Turing ou Von Neumann qui conceptualisaient et publiaient avant de passer aux applications. Cela ne l'empêcha pas d'être un pionnier de l'informatique qui conçut également le premier langage de haut niveau nommé Plankalkül de 1942 à 1946, bien qu'il fut oublié de son temps et repris qu'en 1975 puis compilé en 2000 cinq ans après sa mort.
+En 1936 l'ingénieur allemand Zuse Konrad commencera à travailler sur une série de quatre calculateurs éponymes nommés Zuse. La première version, le Z1, était un calculateur mécanique qui sera abouti en 1938 bien que peu fiable, certaines pièces ayant étés réalisés manuellement à la scie, dans la chambre de ses parents qui l'ont soutenu financièrement. La deuxième version en sera une version améliorée sortie en 1940, réutilisant la mémoire mécanique qui était elle très fiable, mais remplaçant l'unité arithmétique en utilisant des relais électriques. Le Z3, achevé en 1941, est un calculateur électromécanique qui sera considéré comme le premier ordinateur numérique, il était entièrement automatique et programmable, utilisant le calcul binaire et à virgule flottante. Cette troisième version s'avèrera être théoriquement Turing-complet, mais ne fut pas considéré pleinement comme tel car ne possédant pas de branchement conditionnel permettant de ne pas aller à l'adresse mémoire suivante, mais vers une adresse spécifique en fonction de la satisfaction ou non d'une condition. La quatrième et dernière version en 1953, sera la premier ordinateur commercial au monde, avant même le Ferranti Mark I et l'UNIVAC 1. Konrad sera ailleurs plus considéré comme un scientifique de production et d'affaire qu'un chercheur, contrairement à Alan Turing ou Von Neumann qui conceptualisaient et publiaient avant de passer aux applications. Cela ne l'empêcha pas d'être un pionnier de l'informatique qui conçut également, de 1942 à 1946, le premier langage de haut niveau nommé Plankalkül, bien qu'il fut oublié de son temps et repris qu'en 1975 puis compilé en 2000 cinq ans après sa mort.
 
 Son histoire nous montre qu'avec de la motivation et le soutien de nos proches, on peut devenir un pionnier, voire le premier à développer une technologie donnée, quitte à n'être que peu connu, même perdre des travaux, et que d'autres ne soient redécouverts et exploités que plus tard.
 
@@ -1963,8 +1971,6 @@ Wilkes, se rendant compte que l'ordinateur, capable de manipuler les nombres et 
 
 Rival de l'EDSAC et du BINAC, il fait son apparition la même année en **1949**, fait à partir du IBM 604 et du IBM 402
 
-
-
 Premier compilateur (A-0 System Grace Hopper 1951)
 
 
@@ -1975,11 +1981,13 @@ Le Ferranti Mark 1, aussi connu comme le Manchester Electronic Computer, est le 
 
 
 
-#### Compilateur
+#### Compilateurs et premiers languages de haut niveau
 
 L'Universal Automatic Computer I (UNIVAC) est sorti en **1951**, c'est alors une filiale de Remington Rand, MAGNETIC TAPE STORAGE start and stop tape rapidement avec des servomoteurs, plastic -> déforme -----> métal résistant, travail pour écrire et lire dessus
 
-Grace Hopper, docteur en mathématiques, officier de la marine, et informaticienne américaine ; a créé en **1951** le Arithmetic Language ou A-0 system, qui est le premier compilateur. Il aura plusieurs version jusqu’à arriver au B-0 Flow-matic qui est à l'origine du COBOL. Comme tout les compilateurs, il prends un code et le converti en code machine exécutable, ce que le A-0 réalisait en établissant des liens entre les programmes et sous-programmes ainsi que leurs paramètres.
+Pour la réalisation de cet ordinateur, Grace Hopper, docteur en mathématiques, officier de la marine, et informaticienne américaine ; créé en **1951** le Arithmetic Language ou A-0 system, qui sera le premier compilateur. Il aura plusieurs version jusqu’à arriver au B-0 Flow-matic, développé entre 1955 et 1959. Comme tout les compilateurs, il prends un code et le converti en code machine exécutable, ce que le A-0 réalisait déjà en établissant des liens entre les programmes et sous-programmes ainsi que leurs paramètres.
+
+
 
 
 
@@ -2004,23 +2012,15 @@ La première occurrence que j'ai trouvée dans une archive du MIT de Douglas T. 
 
 
 
-#### IBM 701
+L'UNIVAC I a fait grandement peur à IBM qui craignant de perdre une partie importante du marché civil, bien que cela ne fut pas le cas. Leur réponse à été de confier la réalisation d'un ordinateur à Nathaniel Rochester, qui a travaillé sur la technologie Radar, m les éléments arithmétiques du projet Whirlwind I, les prémices de l'intelligence lors de travaux d'études sur la reconnaissance de schémas et la théorie de l'information qu'il a dirigé à IBM, en plus d'être l'un des conférenciers de la conférence de Dartmouth qui se tiendra en 1956 avec John McCarthy, Marvin Minsky et Claude Shannon.
 
-L'IBM 701 est le premier ordinateur scientifique produit en masse, aussi connu sous le nom de Defense Calculator, il est sorti en **1952**, rival du UNIVAC qui a fait grandement peur à IBM qui craignait de perdre une bonne partie du marché civil, bien que cela ne fut pas le cas comme décrit précédemment. Il possédait une mémoire tambour. Il utilisera le premier langage assembleur créé par Nathaniel Rochester, qui a travaillé sur la technologie Radar, les éléments arithmétiques du projet Whirlwind I, et les prémices de l'intelligence lors de travaux d'études sur la reconnaissance de schémas et la théorie de l'information qu'il a dirigé à IBM. Il sera également l'un des conférenciers à la conférence de Dartmouth avec John McCarthy, Marvin Minsky et Claude Shannon.
+IBM dévoila ainsi le modèle IBM 701 en **1952**, premier ordinateur scientifique produit en masse, aussi connu sous le nom de Defense Calculator. Il possédait une mémoire tambour, utilisant le premier langage assembleur, conçu par Rochester.
 
+L'année d'après en **1953**, John Backus, alors ingénieur d'IBM, créé le Speedcoding, un interpréteur qui a été le premier langage de programmation de haut niveau créé pour un ordinateur IBM. Bien qu'il s'appelle Speedcoding, et qu'il ai facilité le développement en fournissant des instructions pour les fonctions mathématiques, le fait que ce soit un interpréteur le rendait particulièrement lent, 10 à 20 fois plus que du code machine, de plus, il prenait 30% de la mémoire à lui seul. Malgré cela, il a permis la prise en charge des nombres à virgule flottante sur les ordinateurs IBM 701.
 
+L'IBM 702 lui succédera la même année, il est le premier ordinateur muni de dérouleur de bandes magnétiques, il était moins puissant que le 701 ou le ERA 1103 mais avait contrairement à eux, les civils pour cible commerciale. Contrairement à l'UNIVAC, sa mémoire n'était pas constituée de ligne à retard analogiques, mais elle était électrostatique en utilisant des tubes de William, deux fois plus rapide et plus fiable. De plus, contrairement au monolithe qu'était l'UNIVAC, son design étant modulaire et composé de boites reliées entre elles, l'ordinateur pouvait être transporté dans la majorité des ascenseurs. Après son annonce, IBM arrive à réaliser 50 commandes en 10 mois.
 
-#### IBM 702
-
-Construit en réponse à l'UNIVAC 1, c'est le premier ordinateur muni de dérouleur de bandes magnétiques, il était moins puissant que le 701 ou le ERA 1103 mais avait contrairement à eux, les civils pour cible commerciale. Contrairement à l'UNIVAC, sa mémoire n'était pas constituée de ligne à retard analogiques, mais elle était électrostatique en utilisant des tubes de William, deux fois plus rapide et plus fiable. De plus, contrairement au monolithe qu'était l'UNIVAC, son design étant modulaire et composé de boites reliées entre elles, l'ordinateur pouvait être transporté dans la majorité des ascenseurs.
-
-Après son annonce en septembre **1953**, IBM arrive à réaliser 50 commandes en 10 mois.
-
-
-
-#### Mémoire à tores magnétiques
-
-La même année, en **1953**, est développer la mémoire à tores magnétique qui a révolutionné pendant une vingtaine d'année la mémoire vive. Constitué d'anneaux de ferrite polarisés, correspondant à un bit de 0 ou 1 en fonction du sens du champ magnétique, tous traversés par des fils conducteurs.
+Toujours en **1953**, est développée la mémoire à tores magnétique qui a révolutionné pendant une vingtaine d'année la mémoire vive. Constitué d'anneaux de ferrite polarisés, correspondant à un bit de 0 ou 1 en fonction du sens du champ magnétique, tous traversés par des fils conducteurs.
 
 Se basant sur l'hystérésis, faire passer un courant dans un fil permettait de lire, ou d'écrire si le courant est assez élevé, la valeur des tores.
 
@@ -2028,15 +2028,25 @@ Cette technologie à poussé IBM a rééditer ses modèles 701 et 702 avec ce ty
 
 
 
-#### IBM 650
+L'année suivante, en **1954** sortira l'IBM 650, modèle le plus populaire des années 50, et pour cause, il coûtait seulement un quart du prix d'un 701, et a été vendu à de nombreuses universités, créant toute une génération de programmeur. Faisant de lui le premier ordinateur produit en masse dans le monde et la première machine d'IBM à réaliser un profit significatif.
 
-Créé en **1954** c'est le modèle le plus populaire des années 50, et pour cause, il coûtait seulement un quart du prix d'un 701, et a été vendu à de nombreuses universités, créant toute une génération de programmeur. Faisant de lui le premier ordinateur produit en masse dans le monde et la première machine d'IBM à réaliser un profit significatif.
+Créé aux États-Unis en **1955**, le TRAnsistor DIgital Computer sera quand à lui premier ordinateur à transistors.
 
 
 
-#### TRADIC
+En **1957**, Backus invente le Formula Translator ou FORTRAN, un langage de programmation haut niveau qui produira des programmes binaires aussi performants que ceux des programmeurs expérimentés. Il à initialement conçu ce langage comme une solution à un problème, suite à la constatation que plus de la moitié des coûts des centres informatiques était dus aux salaires des développeurs qui passent jusqu’à la moitié de leurs temps à tester et debugger plutôt qu'a produire du code, à cela s'ajoute le fait que le coût des machine devenant de moins en moins cher, ce pourcentage ne ferait alors qu'augmenter si rien n'était fait. C'est en présentant cette logique à son supérieur qu'il eu l'autorisation de travailler sur ce projet qui n'a à son début que peut de reconnaissance, considéré comme un projet de recherche tentant de réaliser l'impossible et n'ayant aucune garantie de résultats.
 
-Créé aux États-Unis en **1955**, le TRAnsistor DIgital Computer a été premier ordinateur à transistors.
+Lorsque Backus et son équipe ont présenter le projet à des développeurs, ils étaient tous sceptique. Leurs attentes étaient hautes et le FORTRAN encore approximatif et inabouti. Cela faisait en effet plusieurs années que les salariés d'IBM entendaient parler de "programmation automatique" permettant d'automatiser la programmation bas niveau en utilisant un langage de plus haut niveau d'abstraction pour factoriser à la manière de programmes comme les assembleurs, interpréteurs, compilateurs et générateurs de programmes. Ce type de programme s’exécutant sur d'autre programmes voire dans certains cas sur eux même sont du domaine de la méta-programmation.
+
+La réalisation comme la popularité du FORTRAN ont donc pris du temps à se mettre en place. Son developpement et son adoption ont été acceleré par l'edition de manuels simplifies comme le Programmer's Primer de Grace E. Mitch.
+
+
+
+Par la suite, Grace Hopper inventera le COBOL, un langage haut niveau qui sera créé en **1959**, dans ce langage, les instructions étaient moins technique et plus lisible, donnant l'illusion aux décisionnaires que n'importe qui pourrait comprendre les programmes qui en découlent, pour preuve, celle pour calculer le salaire net d'un employé à partir de son salaire brut était ainsi :
+
+```cobol
+SUBSTR TAX FROM GROSS-PAY GIVING NET-PAY
+```
 
 
 
@@ -2064,32 +2074,6 @@ Ces abstractions sont de plus haut niveau et indépendant du matériel, les lang
 
 
 
-##### Plankalkul
-
-Premier langage de haut niveau, réalisé par Konrad Zuse, réalisé entre 1942 et 1946, il ne sera révélé qu'en 1948 et implémenté qu'en 1975. Le premier compilateur supportant ce langage ne sera abouti qu'en 2000.
-
-
-
-##### Speedcoding
-
-Révélé en **1953**, cela a été le premier langage de programmation de haut niveau créé pour un ordinateur IBM, il a été développé par John Backus et lui a fortement inspiré le Fortran. Ce langage a permis la prise en charge des nombres à virgule flottante sur les ordinateurs IBM 701
-
-
-
-##### Flow-Matic
-
-Développé pour l'UNIVAC I par Grace Hopper entre **1955** et 1959, il est à l'origine du COBOL
-
-
-
-##### Fortran
-
-En **1957** John Backus, alors ingénieur d'IBM, invente le Formula Translator ou FORTRAN, un langage de programmation haut niveau qui arrivera alors le mieux à produire des programmes binaires aussi bons que ceux des programmeurs expérimentés. Backus à initialement conçu ce langage comme une solution à un problème, suite à la constatation que plus de la moitié des coûts des centre informatique était dues aux salaires des développeurs, et que le coût des machine devenant de moins en moins cher, ce pourcentage ne ferais qu'augmenter si rien n'était fait. C'est en présentant cette logique à son supérieur qu'il eu l'autorisation de travailler sur ce projet qui n'a à son début que peut de reconnaissance, considéré comme un projet de recherche tentant de réaliser l'impossible et n'ayant aucune garantie de résultats.
-
-Lorsque Backus et son équipe ont présenter le projet à des développeurs, ils étaient tous sceptique. Leurs attentes étaient hautes et le FORTRAN encore approximatif et inabouti. Cela faisait en effet plusieurs années que les salariés d'IBM entendaient parler de "programmation automatique" permettant d'automatiser la programmation bas niveau en utilisant un langage de plus haut niveau d'abstraction pour factoriser à la manière de programmes comme les assembleurs, interpréteurs, compilateurs et générateurs de programmes. Ce type de programme s’exécutant sur d'autre programmes voire dans certains cas sur eux même sont du domaine de la méta-programmation.
-
-La réalisation comme la popularité du FORTRAN ont donc pris du temps à se mettre en place. Son developpement et son adoption ont été acceleré par l'edition de manuels simplifies comme le Programmer's Primer de Grace E. Mitch.
-
 
 
 ##### Lisp
@@ -2098,15 +2082,7 @@ La réalisation comme la popularité du FORTRAN ont donc pris du temps à se met
 
 
 
-##### Cobol
 
-**1959**
-
-
-
-en COBOL les instructions étaient moins technique et plus lisible, donnant l'illusion aux décisionnaires que n'importe qui pourrait comprendre les programmes qui en découlent, pour preuve, celle pour calculer le salaire net d'un employé à partir de son salaire brut était ainsi :
-
-'SUBSTRACT TAX FROM  GROSS-PAY GIVING NET-PAY'
 
 
 
@@ -2274,9 +2250,11 @@ Arpanet et Cyclades **1969** et 1972 (Louis Pouzin)
 
 #### Interfaces graphiques
 
-En 1970, Xerox met en place le Palo Alto Research Center, plus connu sous le nom de Xerox Parc, ce laboratoire d'études travailla sur les premieres interfaces graphiques et editeurs permettant de modifier un document directement depuis son rendu visuel, on appelle ca la technologie What You See Is What You Get ou WYSYWYG
+Inspiré par le memex décrit par Vannevar Bush, Ivan Edward Sutherland invente Sketchpad en 1963, il obtiendra à cet effet bien des honneurs et récompenses, dont un Turing Award en 1988. Cela inspirera à Douglas Engelbart la réalisation du oN-Line System (NLS), le premier système d'exploitation multi-utilisateur à utiliser la souris qu'il a lui même inventé, mais également les liens hypertextes, écrans à balayage et les interfaces graphiques et leurs fenêtres. Ce projet finira par être abandonné à cause de sa difficulté d'apprentissage, beaucoup de personnes ayant travaillé sur le projet décident alors d'aller travailler pour Xerox, qui en 1970, met en place le Palo Alto Research Center, plus connu sous le nom de Xerox Parc.
 
-Le premier logiciel à implémenter cette technologie et permettre le repositionnement du curseur et la sélection de texte a l'aide d'une souris est l'éditeur de documents Xerox Bravo
+Ce laboratoire d'études travailla sur les premières interfaces graphiques et éditeurs permettant de modifier un document directement depuis son rendu visuel, on appelle ceci la technologie "What You See Is What You Get" ou WYSYWYG. Le premier logiciel à implémenter cette technologie et permettre le repositionnement du curseur et la sélection de texte à l'aide d'une souris est l'éditeur de documents Xerox Bravo sorti en 1974, peu après l'ordinateur Xerox Alto, qui a été révélé le 1er Mars 1973. Cet ordinateur est le premier à fournir une interface graphique, et ainsi ne plus être dépendant de la ligne de commande. Il introduira également les métaphores de bureau, documents, classeurs, et corbeille, familiers à tout employé de bureau. L'ensemble interface graphique et pointeur favorisa grandement l'adoption et la démocratisation des ordinateurs, cela deviendra un standard omniprésent dans nos interactions avec machine.
+
+Alan Kay à dirigé le développement de Smalltalk, créé en 1972 au Xerox Parc, c'est un langage de programmation objet et surtout le premier à avoir un environnement de développement complétement graphique. Il fut intégré au Xerox DoRADO, héritié du Xerox Alto, avec pour objectif d'être un système bien plus performant. Plus tard, en 1996, Smalltalk deviendra Squeak encore disponible et utilisé aujourd'hui. Squeak est inspiré de Logo, qui est à la fois une famille de langages de programmation et une philosophie de l'éducation. C'est le résultats de travaux sur le cognitivisme promu par Marvin Minsky et les travaux sur l'éducation de Jean Piaget promus par Seymour Pagert.
 
 
 
@@ -2297,9 +2275,11 @@ Le premier logiciel à implémenter cette technologie et permettre le reposition
 Présenté en 1978 mais sorti en **1980**, le Minitel est un ordinateur connecté à un réseau et donc appelé Terminal. Il utilisait le réseau Transpac pour faire tourner le sien, "Télétel" auquel il se connectait à l'aide d'un modem. Il possédait une mémoire de 8,25 ko, et un processeur Intel 8052
 
 - *Osborne 1* **1981**
-- Xerox Star **1981** premier ordinateur commercial avec une interface utilisateur graphique
+- Xerox Star **1981** premier ordinateur commercial avec une interface utilisateur graphique [^1]
 - *IBM PC 5150* **1981**
 - *Macintoch 128K* Sorti en **1984**, avec des icônes en skeuomorphisme 
+
+[^1]: http://toastytech.com/guis/star.html
 
 
 
@@ -2368,6 +2348,8 @@ L'antithèse, revient à justifier que le stimuli étant identique, il est tout 
 
 (**1990** Tim Berners Lee) web semantique Rose Dieng Kuntz
 
+Ward Cunningam créa le wiki en 1995, il fut un développeur Smalltalk
+
 
 
 #### Ordinateur quantique
@@ -2384,7 +2366,7 @@ Les machines à calculer ne datent pas d'aujourd'hui, le premier programme quand
 
 
 
-[Retour](#Sommaire)
+[Retour](#Introduction)
 
 ## Pratiques actuelles
 
@@ -2417,6 +2399,8 @@ en tant quanimal humaine on se s'en porte pourtant que mieux de juste suivre les
 ### Usages et industrie du logiciel
 
 #### Navigation web
+
+
 
 #### Automatisation
 
@@ -2518,11 +2502,11 @@ Suite à Atom publié par GitHub le 26 février 2014, bien avant son rachat en 2
 
 
 
-
+[Retour](#Introduction)
 
 ## Essai
 
-Maintenant que je vous ai raconté l'histoire de l'information, je vais brièvement vous parler de la mienne en toute vulnérabilité car pour comprendre et pouvoir juger l'identité de quelqu'un, il faut comprendre ses difficultés, appétences, habitudes, et plus globalement son vécu composé de l'accumulation de ses sensations et actions marquantes.
+Maintenant que je vous ai raconté l'histoire de l'information, je vais brièvement vous parler de la mienne en toute vulnérabilité car pour comprendre et pouvoir juger l'identité de quelqu'un, il faut appréhender ses difficultés, appétences, habitudes, et plus globalement son vécu composé de l'accumulation de ses sensations et actions marquantes.
 
 Après l'obtention de mon Baccalauréat scientifique en 2016, débarquant alors en DUT informatique, je n'avais programmé qu'en BASIC sur une calculatrice Texas Instrument. A cette époque je n'étais qu'un gamin ayant sauté la grande section et le cours primaire pour avoir su lire à 2 ans et demi grâce au logiciel éducatif Lapin malin, qui débarque donc à Clermont Ferrand du haut de ses de 17 ans, découvrant l'indépendance dans un 9m2 fibré du CROUS, dans lequel j'ai utilisé pendant 3 ans un réseau privé virtuel (VPN) pour contourner la limitation du réseau Renater, et pouvoir ainsi jouer à League Of Legends avec 5 millisecondes de latence.
 
@@ -2614,7 +2598,7 @@ baki episode 22
 
 ### Viralité
 
-
+### Rapport de force et ordres de grandeur
 
 ### Contexte et vérité
 
@@ -2622,7 +2606,7 @@ La vérité peut être absolue ou relative, l'absolue ne peut être approché qu
 
 Par exemple, la proposition "L'eau mouille" n'est vraie que relativement à l'état de l'eau liquide, cet état étant lui même absolu, il est lui même relatif à une certaine densité des molécules H2O le constituant, définie entre autre par la température qui n'est pas le seul facteur. On peut en effet reprendre même raisonnement et dire que "l'eau bout à 100•C", or cette affirmation ne sera vraie que sur la Terre, à une altitude de 0m au niveau de la mer, sous une pression d'environ 1000hPa.
 
-Cette récursion de vérité absolu-relative à une autre est la raison pour laquelle on utilise des axiomes pour admettre des informations comme vraie selon un contexte et des limite données, pour ainsi baser nos réflexions dessus, que ce soit en physique, comme en mathématique ou d'autres sciences. C'est également la raison pour laquelle l'humain à inventé la méthode des 5 Why, permettant généralement de retrouver la cause d'un problème en remontant jusqu'à 5 récursions de "Pourquoi ?".
+Cette récursion de vérité absolu-relative à une autre est la raison pour laquelle on utilise des axiomes pour admettre des informations comme vraie selon un contexte et des limite données, pour ainsi baser nos réflexions dessus, que ce soit en physique, comme en mathématique ou d'autres sciences. On déduit ainsi des démonstrations dont la syntaxe est composée de définitions, que ce soit de variables en informatique ou de conditions avec des "si et seulement si [...] alors" en mathématique. C'est également la raison pour laquelle l'humain à inventé la méthode des 5 Why, permettant généralement de retrouver la cause d'un problème en remontant jusqu'à 5 récursions de "Pourquoi ?".
 
 De plus, nous l'avons vu au chapitre décrivant Antiquité, l'art du dialogue qu'est la dialectique, nous montre qu'il est futile de vouloir avoir raison et exposer sa vérité relative comme absolue. La mauvaise foi est l’ennemie de l'amélioration personnelle. Seule la vérité absolue compte, lors d'un débat suivant les règles de cet l'art ce n'est pas dans le but de faire briller son savoir ou répandre sa version relative de la vérité que les deux acteurs conversent, mais au contraire de challenger leurs vérités relatives pour les améliorer voire invalider à l'aide des antithèses d'autrui.
 
@@ -2648,11 +2632,15 @@ En tant que président Politesse, Respect et Bienveillance seront les maîtres m
 
 
 
-### EditIDE ou "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?"
+
+
+[Retour](#Introduction)
+
+## EditIDE ou "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?"
 
 
 
-#### Pourquoi la programmation est-elle aussi peu démocratisée ?
+### Pourquoi la programmation est-elle aussi peu démocratisée ?
 
 Soyons franc, pas tout le monde n'a besoin de savoir coder. La meilleur qualité d'un codeur n'est d'ailleurs pas savoir coder, c'est sa capacité à proposer une solution logique à un problème de donnée.
 
@@ -2680,19 +2668,19 @@ Et un réel décalage entre offre et demande, nous observons des signaux forts c
 
 
 
-#### Pourquoi un outil censé résoudre un problème en cause parfois des bloquants ?
+### Pourquoi un outil censé résoudre un problème en cause parfois des bloquants ?
 
 Les outils no-code fleurissent ses dernières années, ils permettent certes la réalisation de produits plus rapidement qu'un partant d'un cadriciel et en le codant soi même. Cependant dès que l'on désire un rendu différant de ce qui est proposé par le service, cela provoque un blocage, nécessitant l'intervention d'un développeur et de code, les services le proposant sera alors considéré comme low-code et non no-code.
 
 
 
-#### De quoi est composé un système d'information ?
+### De quoi est composé un système d'information ?
 
 
 
 
 
-#### Comment faire un logiciel en tant que service ?
+### Comment faire un logiciel en tant que service ?
 
 Imaginons que vous vouliez réaliser un logiciel et qu'il soit accessible en ligne, en réalité il vous suffit d'une connexion internet de trois fichier, d'un logiciel de serveur, et enfin d'un nom de domaine pour y accéder sans avoir à mémoriser une adresse IP.
 
@@ -2700,23 +2688,23 @@ Ce que j'ai fait, tout le monde peut le faire, et comme l'humain ne comprends qu
 
 
 
-##### Site web
+#### Site web
 
 Pour un utilisateur avertit, la démarche peut ne prendre que quelques minutes, allez, petite démonstration :
 
 
 
-###### Etape 1 : Réaliser un site web
+##### Etape 1 : Réaliser un site web
 
 Il suffit pour cela de trois fichiers. Cette étape est donc logiquement séparée en trois étapes, qui correspondent aux 3 parties d'un site web, le contenu structuré, l'habillage, et la réaction que doit avoir le site aux entrées utilisateur. Pour l'exemple je vais réaliser un site très simple, un mot, centré au milieu de l'écran, qui change lorsque l'on clique dessus.
 
-###### Etape 2 : ouvrir les ports
+##### Etape 2 : ouvrir les ports
 
 Vous allez dans le panneau de configuration de votre box et vous ouvrez le port qui permettent d'emmétre un site web et d'écouter les requêtes des clients https avec le numéro 443 et http avec le numéro complémentaire 80. 
 
-![](D:\Textes\EditIDE\Histoire-et-Philosophie-de-la-Programmation\assets\freebox.png)
+![](.\assets\freebox.png)
 
-###### Etape 3 : mettre un serveur en service
+##### Etape 3 : mettre un serveur en service
 
 Télécharger NGINX,
 
@@ -2724,21 +2712,23 @@ Télécharger NGINX,
 
 
 
-###### Étape 4 : Configurer un nom de domaine (Facultative)
+##### Étape 4 : Configurer un nom de domaine (Facultative)
+
+
+
+#### Lancement du site au démarrage
+
+
+
+#### Bureau à distance
 
 
 
 
 
-##### Bureau à distance
+### Qu'elle est l'origine des bugs ?
 
-
-
-
-
-#### Qu'elle est l'origine des bugs ?
-
-#### Comment l'interface permet et conditionne l'accès aux fonctionnalités ?
+### Comment l'interface permet et conditionne l'accès aux fonctionnalités ?
 
 L'interface relie un élément graphique à une fonctionnalité, toute interaction de l'utilisateur doit lui indiquer ce qu'il peut faire par la suite.
 
@@ -3205,11 +3195,23 @@ mémoire onirique
 
 
 
+Restaurer l'information perdue, vesuvius challenge https://scrollprize.org/
+
+
+
 ## Postface : Rétrospective et métacognition
+
+J'ai écris ce mémoire en commançant par de la prise de note puis en rédigeant, reliant petit à petit toutes les idées et concepts dont je voulais parler. En soit je n'ai rien inventé, j'ai découvert plein d'informations et me suis contenté de les compiler à la manière de Vitruve ou d'un ordinateur.
+
+Dès que j'avais une idée ou une information qui pouvait se relier à mon mémoire, je dégainais mon téléphone, activait mon VPN pour me connecter au réseau de mon appartement et ainsi accéder à mon serveur windows, tournant h24 sur un mini-pc à 500 euros que je me suis acheté avant d'intégrer l'école hexagone, avec le premier salaire de mon alternance et la jolie prime obtenue pour avoir rejoint l'entreprise dès que possible un mois avant la rentrée scolaire. 
 
 Problème pour retrouver des informations, comme Lulle ou j'ai du récupérer la page en catalan, ou l'automatic programming, qui ne possède pas de page wikipédia ni de définition en français. J'ai très souvent croiser les versions anglais et francaises des pages wikipédia que je consultait pour être sur de la source et de la véracité des informations. J'ai également pu lire des textes historiques fantastiques comme le texte As we may think de Vannevar Bush, prouvant encore une fois que beaucoup d'inventions et informations qui n'ont été connue du grand public par la suite était déjà accessible aux plus curieux.
 
 
+
+## Table des illustrations
+
+### http://toastytech.com/guis
 
 
 
