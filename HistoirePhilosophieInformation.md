@@ -541,9 +541,7 @@ Cet ouvrage, conformément à son titre et aux recherches qu'il a nécessité, �
 
 ## Remerciements
 
-Je ne remercierai jamais assez mes parents et grand parents, qui ont eu la chance d'être propriétaires d'ordinateurs, et d'une connexion d'internet, avant ma naissance en 1999. Grâce à cela il ont eu la merveilleuse idée de me mettre devant un écran, avec des logiciels éducatifs qui m'ont permis de savoir lire à l'âge de 2 ans.
-
-
+Je ne remercierai jamais assez mes parents et grand parents, qui ont eu la chance d'être propriétaires d'ordinateurs, et d'une connexion d'internet, avant ma naissance en 1999. Grâce à cela il ont eu la démarche raisonnée de m'introduire à cette technologie, sur des logiciels éducatifs qui m'ont permis de savoir lire à l'âge de 2 ans.
 
 Merci à toutes les personnes et enseignants des entreprises et écoles qui m'ont accueillis, lors de ma scolarité, et de mon début de carrière, me transmettant une majeure partie ce que je sais aujourd'hui, et ce dans la bienveillance, grâce à des processus itératifs d'amélioration continue.
 
@@ -570,17 +568,17 @@ Pour la rédaction de ce dernier, j'ai acquis 4 livres :
 - "Histoire illustrée de l'informatique" d'Emmanuel Lazard et Pierre Mounier-Kuhn.
 - "Transmettre" de Christophe André, Céline Alvarez, Catherine Gueguen, Matthieu Ricard, Frédéric Lenoir, Ilios Kotsou, Caroline Lesire
 
-Les trois premiers livres ont chacun leurs avantages grâce à une approche différente d'un même sujet, sur lequel je m'attendais à trouver plus de bibliographie. Contrairement à ceux-ci, j'ai essayé d'avoir une démarche plus globale que l'informatique et l'ordinateur, qui sont des concepts très récent. Et ce en abordant le thème global qu'est l'information, tout en y ajoutant de la philosophie, ainsi que mon humble analyse subjective, parce que j'aime penser, et que l'apprentissage des mathématiques et de l'informatique ont changé ma manière de concevoir le monde dans lequel nous vivons. Se sont selon moi des philosophies à part entière, apportant des syntaxes et un vocabulaire, nécessitant un apprentissage constant de schémas de pensés dignes d'un logicien.
+Les trois premiers livres ont chacun leurs avantages grâce à une approche différente d'un même sujet, sur lequel je m'attendais à trouver plus de bibliographie. Contrairement à ceux-ci, j'ai essayé d'avoir une démarche plus globale que l'informatique et l'ordinateur, qui sont des concepts très récent. Et ce en abordant le thème global qu'est l'information, tout en y ajoutant de la philosophie, ainsi que mon humble analyse subjective car j'aime penser, et que l'apprentissage des mathématiques et de l'informatique ont changé ma manière de concevoir le monde dans lequel nous vivons. Ce sont selon moi des philosophies à part entière, apportant des syntaxes et un vocabulaire, nécessitant un apprentissage constant de schémas de pensés dignes d'un logicien.
 
 Dans ce mémoire, je vais donc revenir aux racines les plus ancestrales de la gestion de l'information, au vocabulaire et champ lexical qui y sont liés ou en découlent, ainsi qu'a leurs étymologies à travers leur [Histoire](#Histoire), qui représente toute la première partie de ce livre. J'y présenterai beaucoup de philosophes, scientifiques et de penseurs variés. De l'Antiquité aux époques plus modernes, les idées qu'ils ont amenées ont permis des inventions et progrès technologiques avec un développement de plus en plus rapide. Pourtant, les inventions qui ont le plus impacté l'humanité, resteront toujours les plus anciennes, avec au sommet d'entre elles, l'écriture.
 
 J'aborderai aussi un sujet qui m'est cher, la programmation. Elle n'est pas forcement liée à l'informatique, c'est l'art de planifier et mettre en œuvre des étapes à suivre pour obtenir un résultat. Cela dit, elle passe inévitablement par de la gestion de l'information, à l'aide d'écriture, lecture, chiffrement, déchiffrement, émission, et réception.
 
-Je m’intéresserai également à l'apprentissage, très présent dans les technologies comme l'intelligence artificielle, qui représente l’acquisition et l'assimilation d'une information ou d'un système ; ainsi qu'à la pédagogie, propre à l'humain, animal social émotionnel ; et au rapport maître / élève.
+Je m’intéresserai également à l'apprentissage qui représente l’acquisition et l'assimilation d'une information ou d'un système, très présent dans les technologies comme l'intelligence artificielle ; ainsi qu'à la pédagogie, propre à "l'animal social émotionnel" qu'est l'humain ; et à la compréhension du rapport maître / élève permettant la transmission de compétences.
 
-L'ensemble de ses sujets, et l'information en général, prends une place de plus importante dans nos quotidien, cela s'accompagne d'un volume d'informations mondialement échangé exponentiel. Nous avons développer une relation symbiotique avec la technologie, qui nous permet aujourd'hui de communiquer et de jouer presque instantanément au niveau mondial, améliorant également la santé de certains et peuvent nous faire vivre mieux, on parle même de télé-santé. Pour autant, comme toutes les technologies récentes ayant un impact majeur, vient un rejet et une techno-phobie d'une certaine partie de la population pas encore convertie à son usage.
+L'ensemble de ses sujets, et l'information en général, prends une place de plus en plus importante dans nos quotidien, cela s'accompagne d'un volume exponentiel d'informations mondialement échangées. Nous avons développer une relation symbiotique avec la technologie, qui nous permet aujourd'hui de communiquer et de jouer presque instantanément au niveau mondial, améliorant également la santé de certains ***et peuvent nous faire vivre mieux***, on parle même de télé-santé. Pour autant, comme toutes les technologies récentes ayant un impact majeur, vient un rejet et une techno-phobie d'une certaine partie de la population pas encore convertie à son usage.
 
-C'est pourquoi je dresserai ensuite un [bilan de l’état actuel de l'informatique](#Pratiques-actuelles), de son marché, ses opportunités, ainsi qu'une étude de sa pratique moderne ; et ce afin d'en [identifier les problèmes](#Comprendre-la-problématique) que l'on y rencontre en tant que développeur, pour finir par en dégager de possibles solutions, dressant ainsi un [essai](#Essai) philosophique expliquant ma projection subjective en tant qu'acteur et éditeur de logiciels, pour [le futur de cette discipline](#EditIDE-ou-"Comment-repenser-la-gestion-de-l'information-pour-moderniser-l'expérience-développeur-?"), plus particulièrement la pratique que je souhaite en avoir en tant que créateur de services et contenu web.
+Avec mon point de vue de développeur web, je dresserai ensuite un [bilan de l’état actuel de l'informatique](#Pratiques-actuelles), de son marché, ses opportunités, ainsi qu'une étude de sa pratique moderne ; ***et ce afin d'en [identifier les problèmes](#Comprendre-la-problématique) que l'on y rencontre pour en dégager de possibles solutions, dressant ainsi un [essai](#Essai) philosophique expliquant ma projection en tant qu'acteur et éditeur de logiciels, pour [le futur de cette discipline](#EditIDE-ou-"Comment-repenser-la-gestion-de-l'information-pour-moderniser-l'expérience-développeur-?"), plus particulièrement la pratique que je souhaite en avoir en tant que créateur de services et contenu web.***
 
 
 
@@ -588,16 +586,16 @@ Notes :
 
 - L’Histoire ne se souvient que rarement de la première occurrence d’une invention, ce qu'il en reste est généralement sa démocratisation.
 - Il est évident que tout les concepts scientifiques ne sont que des formulations écrites de théories issues de la raison, qui étaient déjà connues par certaines personnes de manière empirique.
-- La majorité des mots sont poly-sémantiques, ils n'ont pas de signification unique.
+- La majorité des mots sont poly-sémantiques, ils n'ont pas de signification unique. Ils ont même parfois des usages dont le sens dévie de son usage originel.
 - Le savoir est magie pour les idiots, et secret de polichinelle pour les érudits.
 
 
 
 ## Comprendre la problématique
 
-L'informatique, étymologiquement automatisation de la gestion de l'information, est un domaine récent et complexe, qui soulève beaucoup d'avancés technologiques mais également de craintes et de questionnements. La programmation à l'origine des logiciels qui nous permettent d'utiliser le matériel informatique, n'était en 2022 pratiquée par seulement 0.35% de la population. Elle requiert une rigueur suffisante pour dans un premier temps passer la compilation si elle a lieu, puis l'exécution du programme en résultant, et enfin les tests du comportement voulu, dans le but de vérifier que l'on a correctement implémenté la solution à notre problème informationnel. Une fois que tout cela est satisfait, il faut rendre le programme robuste afin d'assurer sa pérennité tout au long du développement des nouvelles fonctionnalités qui s'accumuleront inexorablement, et ce afin que toutes les existantes restent fonctionnelles, ce que l'intégration et le développement continu solutionne, permettant d'assurer la qualité d'un logiciel au fil de son développement.
+L'informatique, étymologiquement "automatisation de la gestion de l'information", est un domaine récent et complexe, qui soulève beaucoup d'avancés technologiques mais également de craintes et de questionnements. En 2022, la programmation à l'origine des logiciels qui nous permettent d'utiliser le matériel informatique, n'était pratiquée que par 0.35% de la population. ***Elle requiert une rigueur suffisante pour dans un premier temps passer la compilation si elle a lieu, puis l'exécution du programme en résultant ; et enfin les tests du comportement voulu, dans le but de vérifier que l'on a correctement implémenté la solution à notre problème informationnel.*** Une fois que tout cela est satisfait, il faut rendre le programme robuste afin d'assurer sa pérennité tout au long du développement des nouvelles fonctionnalités qui s'accumuleront inexorablement, et ce afin que toutes les existantes restent fonctionnelles, ce que l'intégration et le développement continu solutionne, permettant d'assurer la qualité d'un logiciel au fil de son développement.
 
-Dans la deuxième partie de ce mémoire, je montrerai ainsi les avantages et inconvénients des outils de développeurs actuels et les biais introduits dans leurs pratiques, constituée des étapes décrites précédemment, avec des pistes de solutions. Actuellement, l'apprentissage de ces étapes et les coût de formation d'un nouvel employé en informatique sont importants. Simplifier la prise en main d'un projet informatique me semble être une opportunité technologique intéressante, qui permettrait à l'industrie informatique de se concentrer sur les réelles problématiques. Dans cette dernière, la matière première est la pensée du développeur, c'est l'acteur principal à l'origine des algorithmes qui régissent la gestion de l'information. Les développeurs réalisent des logiciels pour de multiples industries et sont pourtant, selon moi, les cordonniers les plus mal chaussés, on parle souvent d'expérience utilisateur, mais l'expérience développeur reste à désirer, voire archaïque. Selon moi nous sommes encore encore au moyen âge de l'informatique. La question fondamentale à laquelle je répondrait dans le troisième chapitre sera donc "*Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?*".
+Dans la deuxième partie de ce mémoire, je montrerai ainsi les avantages et inconvénients des outils de développeurs actuels et les biais introduits dans leurs pratiques, constituée des étapes décrites précédemment, avec des pistes de solutions. Actuellement, l'apprentissage de ces étapes et les coût de formation d'un nouvel employé en informatique sont importants. Simplifier la prise en main d'un projet informatique me semble être une opportunité technologique intéressante, qui permettrait à l'industrie informatique de se concentrer sur les réelles problématiques. Dans cette dernière, la matière première est la pensée du développeur, c'est l'acteur principal à l'origine des algorithmes qui régissent la gestion de l'information. Les développeurs réalisent des logiciels pour de multiples industries et sont pourtant, selon moi, les cordonniers les plus mal chaussés. On parle souvent d'expérience utilisateur, mais l'expérience développeur reste à désirer, voire archaïque. D'après moi, nous sommes au moyen âge du logiciel. La question fondamentale à laquelle je répondrait dans le troisième chapitre sera donc "*Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?*".
 
 Mais avant de parler des méthodes modernes et répondre à cette question, il me semble important de comprendre l'évolution de la pensée, des outils, des machines et de la technologie, ainsi comment l'humanité en est arrivée là, et surtout, comment faisait-on pour calculer, automatiser des actions, et gérer l'information avant l'invention des ordinateurs ?
 
@@ -715,15 +713,15 @@ Cette discipline qu'est l'Algèbre est à ce moment de l'histoire avérée, mais
 
 Cet outil utilisé par les incas signifie "nœud", ou "compte" en quechua, il est en effet possible de faire un nœud simple avec plusieurs boucles, permettant ainsi d'enregistrer un chiffre, et donc des nombres, en base 10. Le plus ancien connu à été retrouvé sur le site archéologique de Caral, au Pérou, il est daté vers l'an **-2500** ; le climat chaud et sec a contribuer sa bonne conservation.
 
-L'empire Inca ayant été constitué de plus de 12 millions d'individus, cet outil a été au cœur de son administration et a permis de recenser la population et gérer l'économie. Les experts du quipu se sont même rendus compte que plus d'un tiers comportaient des informations autres que des chiffres, aussi appelées informations qualitatives, en opposition aux informations quantitatives. Cet outil à donc également servi à transmettre des messages, composé d'un vocabulaire créé à partir de différentes couleurs, types de fils, de nœuds, ainsi que leurs positions et orientations.
+L'empire Inca ayant été constitué de plus de 12 millions d'individus, cet outil a été au cœur de son administration et a permis de recenser la population et gérer l'économie. Des experts du quipu comme Gary Urton, professeur d'Anthropologie américain spécialisé en civilisation pré-colombienne, se sont même rendus compte que plus d'un tiers comportaient des informations autres que des chiffres, aussi appelées informations qualitatives, en opposition aux informations quantitatives. Cet outil à donc également servi à transmettre des messages, composé d'un vocabulaire créé à partir de différentes couleurs, types de fils, de nœuds, ainsi que leurs positions et orientations.
 
-Notez qu'en mathématique il existe une branche très intéressante appelée une théorie des nœuds, elle fait partie de la sous branche de la topologie, c'est à dire l'étude de la déformation d'un objet sans arrachage ni recollage.
+Notez qu'en mathématique il existe une branche très intéressante appelée une théorie des nœuds, elle fait partie de la sous branche de la topologie, c'est à dire l'étude de la déformation d'un objet sans arrachage ni recollage. Cet outil nous montre qu'a travers la manipulation des fils et des nœuds, certaines civilisations ont pu écrire, autrement qu'en inscrivant des symbole sur une surface.
 
 
 
 #### Boulier
 
-Le boulier ayant été utilisé par de nombreux peuples séparés, il voit le jour possiblement vers l'an **-2000**, utilisant le système de numération décimale (10), ou en base alternée (5, 2) pour certains modèles. Il permet un calcul rapide, même récemment. Bien utilisé, il arrive en tête de compétitions contre des opérateurs électroniques. Cet outil répandu à été démocratisé dans de multiples peuples, romains, chinois, japonais, russes, mexicains, français, et autres peuples, l'utilisent, et l'enseignent.
+Le boulier ayant été utilisé par de nombreux peuples séparés, il voit le jour possiblement vers l'an **-2000**, utilisant le système de numération décimale (10), ou en base alternée (5, 2) pour certains modèles. Il permet un calcul rapide, même récemment. Bien utilisé, il arrive en tête de compétitions contre des opérateurs électroniques. Cet outil répandu à été démocratisé dans de multiples peuples. Romains, chinois, japonais, russes, mexicains, français, et bien d'autres l'utilisent, et l'enseignent.
 
 
 
@@ -737,7 +735,7 @@ Ce texte babylonien daté vers **-1750**, est à ce jour le texte de loi connu l
 
 #### Grèce antique
 
-Les premiers écrits de référence sur les mathématiques, la physique, l'astronomie, et bien entendu la philosophie nous viennent de cette période.
+Les premiers écrits de référence sur les mathématiques, la physique, l'astronomie, et bien entendu la philosophie nous viennent de cette période. 
 
 
 
@@ -753,7 +751,7 @@ Par ailleurs, il est le premier à avoir découvert qu'une année, qui à l'épo
 
 ##### Encryption
 
-Depuis longtemps, les humains ont eu besoin de communiquer des message à de longues distances, sans qu'ils ne se fassent intercepter, et encore moins décoder et lus, voire pire, compris.
+Depuis longtemps, les humains ont eu besoin de communiquer des messages à de longues distances, sans qu'ils ne se fassent intercepter, et encore moins décoder et lus, voire pire, compris.
 
 Le plus ancien système d'encryption connu est la scytale spartiate vers **-600**. Utilisée pour transmettre des messages chiffrés par transposition sur un bande, généralement une ceinture en cuir portée pendant le transport, que l'on enroule autour d'un bâton pour l'écriture et la lecture. Le diamètre du bâton étant ainsi la clé d'encryption. Les lettres correspondait encore à leur propre valeur, et leur ordre dans le mot était conservé, malgré la présence de lettre entre chacune d’entre elles. Ces dernières étaient simplement mélangées, et l'enroulage permettait de les réaligner afin d'en permettre la lecture.
 
@@ -930,6 +928,8 @@ https://www.youtube.com/watch?v=iE08wLRGPcQ
 
 #### Egypte antique
 
+En **-336**, un disciple d'Aristote que l'on connait sous le nom d'Alexandre le Grand, hérite alors à l'instars d'Hammurabi, d'un puissant royaume et d'une forte armée qui lui permettront de devenir l'un des plus grand conquérant. Il s'emparera de l'Empire Perse et arrivera jusqu'en Egypte où il sera proclamé pharaon. Véritable Roi-bâtisseur, il a fondé une vingtaines de cités nommées Alexandrie, dont la plus connue et importante sera celle d'Egypte, fondée en **-331 **. Il décèdera en **-323**, et on assistera alors à une transmission des informations de la culture Grecque en Egypte.
+
 
 
 ##### Bibliothèque d'Alexandrie
@@ -940,25 +940,13 @@ Bien qu'une partie des œuvres ai été achetées, Ptolémée Ier qui succède a
 
 
 
-##### Archimède
+##### Origines de la logique mécanique
 
-Archimède de Syracuse est né en **-287**, il fut élève d'Euclide. Il a rédigé le fameux théorème de la poussée du même nom et l'explication du principe du levier, mais aussi la vis d'Archimède ou le palan qui permet de soulever des charges à l'aide d'un double système de poulies. Considéré comme le plus grand mathématicien de l'Antiquité, il a apporté beaucoup à la géométrie pour laquelle il a étudié et rédigé des traité sur les cônes, spirales, cylindres, paraboles, et cercles ; mais aussi à la mécanique. Il est également à l'origine du fameux "Eureka !" signifiant "J'ai trouvé !" ou le "Donnez-moi un levier, un point fixe, et je soulèverai la Terre."
+Archimède de Syracuse est né en **-287**, il fut élève d'Euclide. Il a rédigé le fameux théorème de la poussée du même nom et l'explication du principe du levier, mais aussi la vis d'Archimède, ou le palan qui permet de soulever des charges à l'aide d'un double système de poulies. Considéré comme le plus grand mathématicien de l'Antiquité, il a apporté beaucoup à la géométrie pour laquelle il a étudié et rédigé des traité sur les cônes, spirales, cylindres, paraboles, et cercles ; mais aussi à la mécanique. Il est également à l'origine du fameux "Eureka !" signifiant "J'ai trouvé !" ou le "Donnez-moi un levier, un point fixe, et je soulèverai la Terre."
 
+Moins connu mais pas des moindres, Ctésibios est un ingénieur né en **-284** à Alexandrie, où il aurait fondé l'école des mécanicien. Il s'intéressa dès son plus jeune âge à la mécanique et aux machines hydrauliques, à seulement seize ans, il inventa un monte-charge hydraulique. Fils de barbier, il utilisa la pneumatique pour réaliser un miroir ajustable à souhait, cette technologie est encore utilisée aujourd'hui dans les ressorts de rappels pour la fermeture des portes. Il a également perfectionné la clepsydre, en ajoutant un réservoir intermédiaire maintenu à un niveau constant permettant un flux qui l'est aussi, offrant une mesure du temps plus précise. S'ajoute à cela l'invention du premier orgue de l'histoire, à l'aide des pistons, soupapes et claviers dont il est aussi à l'origine, à une époque ou les moyens techniques sont pourtant limités. Enfin, il a également travaillé sur le canon à eau, capable d'envoyer des projectiles par dessus des remparts, et perfectionner le système de distribution d'eau dans la ville d'Alexandrie.
 
-
-##### Ctésibios
-
-Moins connu mais pas des moindres, Ctésibios est un ingénieur né en **-284** à Alexandrie, où il aurait fondé l'école des mécanicien. Il s'intéressa dès son plus jeune âge à la mécanique et aux machines hydrauliques, à seulement seize ans, il inventa un monte-charge hydraulique. Fils de barbier, il utilisa la pneumatique pour réaliser un miroir ajustable à souhait, cette technologie est encore utilisée aujourd'hui dans les ressorts de rappels pour la fermeture des portes.
-
-Il a également perfectionné la clepsydre, en ajoutant un réservoir intermédiaire maintenu à un niveau constant permettant un flux qui l'est aussi, offrant une mesure du temps plus précise. S'ajoute à cela l'invention du premier orgue de l'histoire, à l'aide des pistons, soupapes et claviers dont il est aussi à l'origine, à une époque ou les moyens techniques sont pourtant limités. Enfin, il a également travaillé sur le canon à eau, capable d'envoyer des projectiles par dessus des remparts, et perfectionner le système de distribution d'eau dans la ville d'Alexandrie.
-
-
-
-##### Philon de Byzance
-
-Né en **-280**, il est le plus ancien mécanicien dont les historiens ont retrouvés la majorité de l’œuvre, ses travaux vont être utilisé de l'Empire romain au 10 ème siècle. Il rédigera moult traités, sur les leviers, pneumatiques, automates, clepsydres, constructions, roues et machines de guerres. Il a documenté beaucoup de choses dans ses domaines et c'est grâce à lui que l'on connaît les réalisations de Ctésibios. Il est également inventeur, ou du moins a été le premier à décrire le thermoscope, permettant de visualiser les différences de températures.
-
-Il réalisera également des automates sonores et systèmes d'approvisionnement automatiques de liquide, dont un automate de servante, permettant à l'utilisateur d'y déposer un verre, déclenchant un système faisant s'écouler du vin puis de l'eau, avec la possibilité de retirer son verre avant ou pendant l'écoulement de l'un ou de l'autre pour stopper le mécanisme. 
+Né en **-280**, Philon de Byzance est le plus ancien mécanicien dont les historiens ont retrouvés la majorité de l’œuvre, ses travaux vont être utilisé de l'Empire romain au 10 ème siècle. Il rédigera moult traités, sur les leviers, pneumatiques, automates, clepsydres, constructions, roues et machines de guerres. Il a documenté beaucoup de choses dans ses domaines et c'est grâce à lui que l'on connaît les réalisations de Ctésibios. Il est également inventeur, ou du moins a été le premier à décrire le thermoscope, permettant de visualiser les différences de températures. Il réalisera également des automates sonores et systèmes d'approvisionnement automatiques de liquide, dont un automate de servante, permettant à l'utilisateur d'y déposer un verre, déclenchant un système faisant s'écouler du vin puis de l'eau, avec la possibilité de retirer son verre avant ou pendant l'écoulement de l'un ou de l'autre pour stopper le mécanisme. 
 
 
 
@@ -989,19 +977,11 @@ Les six principes théoriques qui les régissent étant l'ordonnance, la disposi
 
 
 
-##### Héron
+##### Compilateurs d'Alexandrie
 
-Originaire d'Alexandrie, il serait né et aurait vécu pendant le **premier siècle après J.-C**. Les historiens lui attribuent la création de la première machine à vapeur, l'Éolipyle, qui servait uniquement à distraire ses utilisateurs, l'énergie dégagée étant négligée. Pour autant, Vitruve aurait déjà eu mentionné de telles machines à l'époque, et il s'est avéré par la suite qu'Héron était postérieur à ce dernier qui décéda en -20. Il a donc potentiellement abouti ou juste démocratiser ce genre de machine à eau et à vapeur, qu'il aurait, selon ses explications dans son livre *Pneumatica*, perfectionné au point de pouvoir ouvrir les portes d'un temple, à la force de la vapeur, obtenue en chauffant de l'eau à l'aide du feu d'un autel. Il à également réalisé de multiples automates pour des pièces de théâtre.
-
-
-
-##### Ménélaos
+Originaire d'Alexandrie, Héron serait né et aurait vécu pendant le **premier siècle après J.-C**. Les historiens lui attribuent la création de la première machine à vapeur, l'Éolipyle, qui servait uniquement à distraire ses utilisateurs, l'énergie dégagée étant négligée. Pour autant, Vitruve aurait déjà eu mentionné de telles machines à l'époque, et il s'est avéré par la suite qu'Héron était postérieur à ce dernier qui décéda en -20. Il a donc potentiellement abouti ou juste démocratiser ce genre de machine à eau et à vapeur, qu'il aurait, selon ses explications dans son livre *Pneumatica*, perfectionné au point de pouvoir ouvrir les portes d'un temple, à la force de la vapeur, obtenue en chauffant de l'eau à l'aide du feu d'un autel. Il à également réalisé de multiples automates pour des pièces de théâtre.
 
 Né vers l'an **70**, également dans la ville d'Alexandrie, Ménélaos était un mathématicien et astronome à qui on doit des notions de géométries, notamment concernant les sphères, comme la géodésique, qui représente une ligne droite sur une surface courbe, qui dans le cas d'une sphère représente un trait droit suivant la courbure de la sphère, jusqu’à retourner à son origine, formant une droite correspondant à un grand cercle. Cette ligne est très liée à la distance minimale entre deux points d'une surface, qui est toujours une ligne droite, correspondant à la géodésique.
-
-
-
-##### Ptolémée
 
 Claude Ptolémée, est un astronome, astrologue, mathématicien, et géographe grec né vers l'an **100** qui a vécu à Alexandrie. Tout comme Aristote, il pensait que nous étions dans un système géocentrique, ou les planètes et le soleil tournerait autour de la Terre. Malgré cela, son traité d'astronomie L'*Almageste* est le seul ouvrage complet de connu de l'Antiquité, il eu décliné cette œuvre en rédigeant "les tables faciles" très utilisés à l'époque, elle permettait de calculer la position des astres et les éclipses avec une précision alors suffisante. Il faudra par la suite attendre Copernic pour que ses travaux soient remis en question et ne fassent plus référence.
 
@@ -1011,15 +991,17 @@ Claude Ptolémée, est un astronome, astrologue, mathématicien, et géographe g
 
 [Retour](#Sommaire)
 
-### Moyen Âge
+### Moyen-Âge
 
 Les civilisations antiques ont alors introduit le calcul et la gestion de l'information à travers l'écrit de multiples textes, certains se perdant au fil du temps, d'autres étant conservés grâce à des personnalités qui les ont repris et fait vivre en les appliquant voire les améliorant. Les différents penseurs de l'Antiquité ont donc défini, catégorisé et classifié les information de la connaissance humaine en modules. Ce concept omniprésent a permis une standardisation des idées et une base permettant d'avoir un langage commun. À l'aube du Moyen âge, les savant ont alors découvert et transmis les règles fondamentales de la physiques, de l'eau et la vapeur, permettant l'amélioration de l'approvisionnement en eau, de l'agriculture, ou encore la création d'automates et des machines de guerre.
 
-Bien que le début de cette période soit marquée par un déclin avec la chute de l'Empire romain en 450, il se passera bien des choses dans le domaine des mathématiques, de la cryptographie et de l'imprimerie. Ce sera par ailleurs l'âge d'or de l'islam du 8ème au 13ème siècle, j'introduirait plusieurs savant arabes de cette époque qui ont eu accès aux textes antiques, grâce à la conquête d'Alexandrie ou d'Antioche vers 650, et ainsi transmis et développer les sciences à l'instar de leurs prédécesseurs.
+En -47, Jules César ordonne d'incendier la flotte d'Alexandrie. Détruisant une grande quantité de richesses et hypothétiquement de savoir contenu dans la bibliothèque ou dans ses alentours. Sous la Rome Antique, les maîtres artisans n'enseignaient qu'à leurs apprentis pour minimiser la surface d'impact sur leur systèmes de connaissances, et ainsi avoir de la renommée. C'est également pour cela que les textes de Vitruve ont été si précieux pour les historiens de cette période. 
+
+Bien que le début du Moyen-Âge soit marquée par un déclin avec la chute de l'Empire romain en 450, il se passera bien des choses dans le domaine des mathématiques, de la cryptographie et de l'imprimerie. Ce sera par ailleurs l'âge d'or de l'islam du 8ème au 13ème siècle, j'introduirait plusieurs savant arabes de cette époque qui ont eu accès aux textes antiques grâce à la conquête d'Alexandrie, ou d'Antioche vers 650. Ils transmettrons et développeront les sciences à la manière de leurs prédécesseurs.
 
 D'un point de vue social et économique, l'humanité a connue une forte croissance démographique à cette période, avec un doublement de la population passant de 35 à 80 millions d'individus entre l'an 1000 et  1350, malgré la grande famine de 1316 et la peste noire de 1347. Ce développement a été en grande partie du à un climat plus favorable et à l'agrandissement des surfaces cultivés, qui a été accompagné par le développement des techniques agricoles comme la rotation des cultures ou l'apparition de la charrue.
 
-L'élevage des moutons à laine longue se développera, avec l'introduction en Europe du rouet inventé en Chine lors du premier siècle, et des boutons existants depuis l'apparition des premières villes permettront la réalisation de textiles de meilleure qualité. Les moulins à vents et à eau ont proliférer pendant cette période, permettant une automatisation et la réduction de l'utilisation de force manuelle au profit des forces hydrauliques, thermiques, éoliennes et animales.
+L'élevage des moutons à laine longue se développera, avec l'introduction en Europe du rouet inventé en Chine lors du premier siècle. Des boutons existants depuis l'apparition des premières villes permettront la réalisation de textiles de meilleure qualité. Les moulins à vents et à eau vont également proliférer, permettant une automatisation et la réduction de l'utilisation de force manuelle au profit des forces hydrauliques, thermiques, éoliennes et animales.
 
 Les techniques navales vont également se développer avec les coques bordées en clin à la manière des tuiles d'un toit, puis à franc bord ou les planches sont jointes, formant une courbe plus droite ; mais aussi avec la popularisation des voiles latines triangulaires et des gouvernails d'étambot articulés. La réalisation de cathédrales et de châteaux va accélérer le développement des techniques de construction, des armures, et des armes, notamment de siège. Les hauts fourneaux permettant une meilleure production et qualité de fer apparaîtra en Suède, un peu avant la poudre à canon et les armes à feu qui arriveront vers la fin du 13 ème siècle.
 
@@ -1053,99 +1035,43 @@ Les chiffres tels qu'on les connaît aujourd'hui proviennent du monde Arabe orie
 
 
 
-#### Frères Banou Moussa
+#### Compilateurs Arabes
 
-Ces trois frères, dits Banou Moussa, étymologiquement fils de Moïse, sont des savants arabes ayant étudier les mathématiques, l'architecture, la mécanique et l'astronomie. Deux de leurs ouvrage nous sont parvenus, le *Livre sur la détermination des surfaces des figures planes et sphériques*, ainsi que le *Livre des mécanismes ingénieux*, qui ont été publiés à la *Maison de la sagesse* ouverte en **832** à Bagdad.
+Trois frères, appelés Banou Moussa, étymologiquement fils de Moïse, sont des savants arabes ayant étudier les mathématiques, l'architecture, la mécanique et l'astronomie. Deux de leurs ouvrage nous sont parvenus, le *Livre sur la détermination des surfaces des figures planes et sphériques*, ainsi que le *Livre des mécanismes ingénieux*, qui ont été publiés à la *Maison de la sagesse* ouverte en **832** à Bagdad. Cet établissement sera à l'origine du mécénat scientifique évoqué précédement.
 
+Pendant le 9 ème siècle, plusieurs savants y travaillerons dont Al-Kindi. Ayant travaillé avec Al-Khwarizmi et les frères Banou Moussa sur la traduction du multiples œuvres grecques en arabe, il sera imprégné par la pensée aristotélicienne. Son œuvre la plus notable est son *Manuscrit sur le déchiffrement des messages codés*, première oeuvre connue à traiter le sujet de la cryptanalyse. Il y indiquera notamment l'analyse de fréquence d'un charactère, permettant de facilement retrouver la clé d'un chiffrement par décalage comme le Code César.
 
+Par la suite, Al-Battan, un astronome et mathématicien Arabe souvent considéré comme le Ptolémée des Arabes. Il a en effet repris ses travaux qu'il a complété pour constituer des tables de calculs pour le Soleil et la Lune, et ce en usant de la trigonométrie à l'instar d'Aryabhata, dont il est peu probable qu'il ai connu les travaux. Ses tables ont longtemps été utilisées et ont influencé l'astronomie européenne, y compris les travaux de Kepler, Copernic et Galilée. Il a découvert le mouvement de l'apogée du Soleil, recenser plus de 500 étoiles, calculer les équinoxes et l'inclinaison de l'axe terrestre. Il a également démontré que la distance entre le Soleil et la Terre varie lors d'une révolution, et affiner les calculs de Thalès en montrant qu'une année est constituée de 365 jours, 5 heures, 48 minutes, et 24 secondes.
 
-#### Al-Kindi
+Apprenti forgeron né à Tolède en **1027** et mort en 1087 à Cordoue, Al Zarqali s'intéressera à l'astrologie et gravera des astrolabes. Il effectue alors des observations du ciel de Tolède et réalise des tables sur le mouvement des planètes nommées Tables Tolédanes, la précision de ses tables permettait la prédiction d'éclipses. Il aurait également repris les travaux de Ptolémée et Al Khawarizmi et corriger leurs résultats en montrant que la largeur de Méditerranée est de 42 degrés au lieu de 62. 200 ans après sa mort, Alphonse X de Castille ordonnera la traduction de toutes ses œuvres littéraires et commandita la réalisation de tables alphonsines permettant le calcul de la position des astres tels que le Soleil, la Lune et les planètes. Ces travaux seront également repris par Copernic
 
-Ayant travaillé avec Al-Khwarizmi et les frères Banou Moussa sur la traduction du multiples œuvres grecques en arabe, il sera imprégné par la pensée aristotélicienne. Son oeuvre la plus notable est son *Manuscrit sur le déchiffrement des messages codés*, première oeuvre connue à traiter le sujet de la cryptanalyse. Il y indiquera notamment l'analyse de fréquence d'un charactère, permettant de facilement retrouver la clé d'un chiffrement par décalage comme le Code César.
+Né en **1126**, Averroès était un médecin philosophe, très influence par Aristote, il sera un fervent défenseur de la pensée logique et de Galien qui déclarait lui même s'appuyer à la fois sur la raison et l'expérience qu'il surnommait comme « ses deux jambes ». A la manière de ce dernier, il rédigera des traités dont un de pharmacologie, mais surtout beaucoup de commentaires de textes antiques pour lesquelles il sera considéré de compilateur commentateur. Il succède à Avicenne, un autre philosophe médecin perse qui rédirega trois encyclopédies, une de philosophie, de sciences, et de médecine. Ses travaux seront repris en tant que livres de connaissances, et ceux d'Averroès comme des livres d'exercices car ses commentaires était remplis de questions pouvant servir d'exercices.
 
-
-
-#### Al-Battani
-
-Né vers **850** et mort en 930, c'était un astronome et mathématicien Arabe souvent considéré comme le Ptolémée des Arabes. Il a en effet repris ses travaux qu'il a complété pour constituer des tables de calculs pour le Soleil et la Lune, et ce en usant de la trigonométrie à l'instar d'Aryabhata, dont il est peu probable qu'il ai connu les travaux.
-
-Ses tables ont longtemps été utilisées et ont influencé l'astronomie européenne, y compris les travaux de Kepler, Copernic et Galilée.
-
-Il a découvert le mouvement de l'apogée du Soleil, recenser plus de 500 étoiles, calculer les équinoxes et l'inclinaison de l'axe terrestre. Il a également démontré que la distance entre le Soleil et la Terre varie lors d'une révolution, et affiner les calculs de Thalès en montrant qu'une année est constituée de 365 jours, 5 heures, 48 minutes, et 24 secondes.
+Comme beaucoup, les historiens ne savent pas grand chose de sa vie d'Al-Jazari, mais ils savent qu'il a été actif vers **1206**, où il aurait écrit, après 25 ans d'études, le "Livre de la connaissance des procédés mécaniques", à la demande de Nasir Al-Din Mahmoud, le prince artukide de l'époque. Sûrement inspiré du *Livre des mécanismes ingénieux* des frères Banou Moussa, eux même inspirés des travaux des mécaniciens de l'Antiquité ; il transmettra à travers ce qui sera le traité de mécanique le plus important du monde arabe, des informations sur les pompes et machines hydrauliques, les automates, la manivelle, et bien d'autres ; illustré notamment avec un automate verseur de vin, qui n'est pas sans rappeler la servante de Philon de Byzance.
 
 
 
-#### Gerbert d'Aurillac
+### Occidentalisation des savoirs de l'Âge d'or arabes 
 
-Aussi connu sous le nom de Sylvestre II, né en **950** et mort en 1003. Il aurait demandé à l'astronome Lupitus de Barcelone, un traité sur un calculateur analogique permettant de mesurer la hauteur des étoiles nommé astrolabe. Les historiens ne savent pas si elle lui est parvenue mais il a introduit des concepts de la science arabe en Occident.
+Sylvestre II, né en **950** et mort en 1003, aussi connu sous le nom de Gerbert d'Aurillac, aurait demandé à l'astronome Lupitus de Barcelone, un traité sur un calculateur analogique permettant de mesurer la hauteur des étoiles nommé astrolabe. Les historiens ne savent pas si elle lui est parvenue mais il a introduit des concepts de la science arabe en Occident.
 
 Lors d'un séjour de 3 ans en Catalogne, il aurait en effet consulté des manuscrits traduits de l'arabe, dans lesquels il aurait pu avoir pris connaissances des chiffres indo-arabes, ainsi que l'écriture décimale positionnelle. Il a inventé un abaque, fonctionnant de la même manière que l'on poserai une addition sur papier, dont une version pourrait avoir été réalisé avec cette notation des chiffres.
 
+Hermann Contract, né en **1013** et mort en 1054, aboutira les travaux de Gerbert sur l'Astrolabe et en concevra même un. Malgré une paraplégie spastique familiale, handicap de naissance affectant sa parole et sa lecture tout en l'empêchant de marcher, il a permis, à l'instar de Vitruve, la transmission de beaucoup d'informations concernant autant la musique, que l'histoire, les mathématiques, l'astronomie et la poésie.
 
-
-#### Hermann Contract 
-
-Né en **1013** et mort en 1054, il aboutit les travaux de Gerbert sur l'Astrolabe et en conçoit un. Malgré une paraplégie spastique familiale, handicap de naissance affectant sa parole et sa lecture tout en l'empêchant de marcher, il a permis, à l'instar de Vitruve, la transmission de beaucoup d'informations concernant autant la musique, que l'histoire, les mathématiques, l'astronomie et la poésie.
-
-
-
-#### Al Zarqali
-
-Apprenti forgeron né à Tolède en **1027** et mort en 1087 à Cordoue, il finit par graver des astrolabes et s'intéresser à l'astrologie. Il effectue alors des observations du ciel de Tolède et réalise des tables sur le mouvement des planètes nommées Tables Tolédanes, la précision de ses tables permettait la prédiction d'éclipses. Il aurait également repris les travaux de Ptolémée et Al Khawarizmi et corriger leurs résultats en montrant que la largeur de Méditerranée est de 42 degrés au lieu de 62.
-
-200 ans après sa mort, Alphonse X de Castille ordonnera la traduction de toutes ses œuvres littéraires et commandita la réalisation de tables alphonsines permettant le calcul de la position des astres tels que le Soleil, la Lune et les planètes. Ces travaux seront également repris par Copernic.
-
-
-
-#### Abraham bar Hiyya Hanassi
-
-Probablement né en **1070**, il vécu jusqu'au début du 12 ème siècle où il s'éteindra vers l'an 1140. Rabbin, mathématicien, astronome et philosophe, il est parfois considéré comme le véritable pionnier des sciences mathématiques en Europe. Il a traduit l'*Algèbre* d'Al Khawarizmi en latin, avec l'aide de Platon de Tivoli, dans une œuvre nommée *Liber embadorum*, qui servira à Fibonacci.
-
-
-
-#### Averroès
-
-Né en **1126**
-
-
-
-#### Al-Jazari
-
-Comme beaucoup, les historiens ne savent pas grand chose de sa vie, il a été actif vers **1206**, où il aurait écrit, après 25 ans d'études, le "Livre de la connaissance des procédés mécaniques", à la demande de Nasir Al-Din Mahmoud, le prince artukide de l'époque. Sûrement inspiré du *Livre des mécanismes ingénieux* des frères Banou Moussa, eux même inspirés des travaux des mécaniciens de l'Antiquité ; il transmettra à travers ce qui sera le traité de mécanique le plus important du monde arabe, des informations sur les pompes et machines hydrauliques, les automates, la manivelle, et bien d'autres ; illustré notamment avec un automate verseur de vin, qui n'est pas sans rappeler la servante de Philon de Byzance.
-
-
-
-#### Fibonacci
+Probablement né en **1070**, Abraham bar Hiyya Hanassi il vécu en Espagne jusqu'au début du 12 ème siècle où il s'éteindra vers l'an 1140. Rabbin, mathématicien, astronome et philosophe, il est parfois considéré comme le véritable pionnier des sciences mathématiques en Europe. Il a traduit l'*Algèbre* d'Al Khawarizmi en latin, avec l'aide de Platon de Tivoli, dans une œuvre nommée *Liber embadorum*, qui servira à Fibonacci.
 
 Ayant vécu de **1170** à **1250**, Leonardo Fibonacci est le "chaînon manquant", qui aurait importé la notation indo-arabe aux mathématiques occidentales à une période où les chiffres romains prédominent. Il a en effet été éduqué à Béjaïa en actuelle Algérie, et aurait ramené entre autre cette fameuse notation à Pise, où son père était marchant et notaire public des douanes.
 
 Il est également réputé pour sa fameuse suite, bien que connue des Indiens depuis Pingala, et liée au nombre d'or, proportion qui n'a pas été évoquée par Fibonacci et que l'on retrouve dans beaucoup de choses y compris des structures produites par la nature.
 
-
-
-#### Ramon Llull
-
-Opposé à Averroès, ce philosophe espagnol né en **1234** est parfois considéré comme un illuminé, qui dira avoir rencontré Dieu qui lui aurait donné un système lui permettant de mémoriser l'ensemble de sa connaissance. Ce système utiliserai des roues 
-
-Ramon Llull développe son œuvre Ars comme une création épistémologique relationnelle, dans laquelle il déploie un exercice combinatoire basé sur des paires et des triplés. Concrètement, il propose une demi-matrice d'adjacence avec 36 combinaisons, sans répétitions, de neuf éléments pris deux à deux et un tableau de combinaisons ternaires. Ce tableau présente des variations de trois éléments pris trois à la fois, dans un ordre cyclique et sans répétitions, donnant lieu à 252 triplets possibles.
-
-Leibniz est le premier à réaliser, plus de 300 ans plus tard, les possibilités que contenait l'œuvre de Llull et adopte l'idée llullienne d'un « alphabet de la pensée humaine » qui fonctionne en combinant des lettres, et il la relie à sa propre idée de une "*mathesis universalis"*, c'est-à-dire d'une logique conçue comme une mathématique généralisée. Leibniz écrit "quand une controverse surgit, il n'y aura pas plus besoin de discussion entre deux philosophes qu'entre deux calculateurs". Leibniz interprète l’Art comme une sorte de pensée automatique, une sorte de mécanisme conceptuel qui, une fois établi, fonctionne tout seul. Cet automatisme conceptuel a longtemps été chéri par Leibniz, le premier à avoir imaginé, après Blaise Pascal, une machine à calculer qui fonctionnait réellement.
-
-Plus récemment, les développements de Llull ont été liés au calcul informatique. Selon Ton Sales, il existe dix composants dans le système lullien qui peuvent être intégrés dans le monde des concepts informatiques : de l'idée de calculer les résultats d'un raisonnement logique, déjà explorée par Leibniz, à celle d'un « alphabet de la pensée ». , interprété mathématiquement par George Boole au milieu du XIXe siècle, ou celui d'une méthode générale, heuristique et déductive, à l'analyse logique, à la notion de système génératif, au fonctionnement par diagrammes ou à la théorie des graphes qui ordonne les figures triangulaires de l'Art.
-
-En 2001, avec la découverte des manuscrits perdus *Ars notandi*, *Ars eleccionis* et *Alia ars eleccionis*, Llull est reconnu comme le découvreur du paradoxe de Condorcet, redécouvert au XVIIIe siècle par le marquis de Condorcet.
-
-Ramon Llull est considéré comme l'un des précurseurs de l'informatique et de l'intelligence artificielle, en plus d'être une référence pour les ingénieurs informaticiens. Ce fait est dû à l’invention qu’il a créée pour proposer de nouvelles idées. Elle consiste à combiner une série de concepts de manière aléatoire pour parvenir à une conclusion, c'est-à-dire un raisonnement automatique.[62] Les concepts qu'il a utilisés tournaient entre autres autour de la théologie, de la philosophie, de l'astronomie et de l'alchimie. Il appliqua ce mécanisme à son chef-d'œuvre Ars Magna (1305). Ce qui est intéressant dans cette façon de travailler est le résultat aléatoire obtenu en combinant des concepts[63] qui ne seraient pas liés au début, dans le cas de Ramon Llull se démarquent les réflexions où il combine la religion avec la philosophie. Le plus remarquable et auquel il est parvenu grâce à cette méthode est « Toutes les religions sont pareilles ».[64] Pour créer cette création, il s'est inspiré des outils utilisés par les Arabes pour réaliser l'astronomie et la navigation. Il a ainsi cherché à formaliser le processus de raisonnement à travers des principes mathématiques. L’objectif final était d’automatiser la connaissance à partir d’une prémisse combinatoire, c’est-à-dire qu’elle était un précurseur de l’automatisation des processus.
-
-Enfin, l’Art et ses figures contiennent des concepts aux significations diverses, qui peuvent se combiner entre eux afin de construire un discours favorisant la transmission de la vérité chrétienne. Les historiens décrivent Llull comme l'inventeur d'une sorte de sémantique combinatoire qui pourrait certainement être suggestive pour les sciences cognitives (linguistique cognitive) et computationnelles (linguistique computationnelle).[73]
+Opposé à Averroès, le philosophe espagnol Ramon Llull, né en **1234**, parfois considéré comme un illuminé, dira avoir rencontré Dieu, qui lui aurait donné un système lui permettant de mémoriser l'ensemble de sa connaissance. Ce système utiliserai des roues développant une création épistémologique relationnelle, basé sur des paires et des triples. 36 combinaisons, de neuf éléments pris deux à deux et un tableau de combinaisons ternaires, donnant lieu à 252 triplets possibles. Leibniz adoptera 300 ans plus tard son idée qu'il repensera comme un « alphabet de la pensée logique », ce même alphabet sera repensé en binaire par George Boole au 19ème siècle. Il découvrira beaucoup d'idées reprises dans l'informatique comme la théorie des graphes, l'alphabet et ses logiques combinatoires, et en 2001, la découverte des manuscrits perdus *Ars notandi*, *Ars eleccionis* et *Alia ars eleccionis*, sera reconnu comme l'origine du paradoxe de Condorcet qui ne sera popularisé qu'au 18 ème siècle par le marquis du même nom.
 
 
 
 #### Typographie
 
-Le mot *typographie* se compose de « type » qui signifie « empreinte », et de « graphie » qui signifie « écriture ».
-
-La typographie est l’art d’assembler des caractères mobiles afin de créer des mots, des phrases, et de les imprimer. Cette technique a été détaillée vers **1440** par Gutenberg, qui n’a pas inventé l’imprimerie en soit mais l'a popularisée avec l'ensemble des techniques mécaniques qui y sont liées.
+Le mot *typographie* se compose de « type » qui signifie « empreinte », et de « graphie » qui signifie « écriture ». C'est l’art d’assembler des caractères mobiles afin de créer des mots, des phrases, et de les imprimer. Cette technique a été détaillée vers **1440** par Gutenberg, qui n’a pas inventé l’imprimerie en soit mais l'a popularisée avec l'ensemble des techniques mécaniques qui y sont liées.
 
 En effet, les caractères mobiles existait déjà car inventés en 1040 par un inventeur chinois nommé Bi Sheng ; et la xylographie permettait déjà bien avant cela, l'impression à l'aide de gravures sur bois, malgré son usure après plusieurs utilisations.
 
@@ -1153,21 +1079,11 @@ L'imprimerie à permis l'automatisation d'une transmission écrire qui était al
 
 
 
-#### Leon Battista Alberti
+#### Inventions italiennes
 
-Il est considéré par certains comme le père de la cryptographie occidentale, il a en effet étudié et inventé un système de chiffrement par substitution, le cadran chiffrant, et rédigé un texte prouvant que l'analyse de fréquence des lettres dans les textes en permet le déchiffrement. Il finira donc logiquement par inventer le sur-chiffrement codique, l'innovation cryptographique la plus significative depuis la période de César. Cette méthode consiste à utiliser plusieurs alphabets désordonnés en alternant entre eux lors du chiffrement.
+Le polymathe italien Leon Battista Alberti est considéré par certains comme le père de la cryptographie occidentale, il a en effet étudié et inventé un système de chiffrement par substitution, le cadran chiffrant, et rédigé un texte prouvant que l'analyse de fréquence des lettres dans les textes en permet le déchiffrement. Il finira donc logiquement par inventer le sur-chiffrement codique, l'innovation cryptographique la plus significative depuis la période de César. Cette méthode consiste à utiliser plusieurs alphabets désordonnés en alternant entre eux lors du chiffrement. Il aurait également imaginé le premier anémomètre permettant d'évaluer précisément la force du vent, et finira par décéder en **1472** à Rome.
 
-Il était également architecte, ayant planifier des constructions à Florence et surtout le précurseur de l'imagerie numérique.
-
-Il aurait également imaginé le premier anémomètre permettant d'évaluer précisément la force du vent. 
-
-Il finira par décéder en **1472** à Rome
-
-
-
-#### Luca Pacioli
-
-A la fin du 15 ème siècle, il reprends le concept de nombre d'or dans un livre illustré par Leonard de Vinci, "De divina proportione" participant au mythe qui lui est lié. Pacioli est d'ailleurs le fondateur de la comptabilité par partie double que l'on utilise aujourd'hui dans en entreprises. Il a également traduits Éléments d'Euclide en Latin, et publier un résumé d’arithmétique, de proportion et de géométrie à Venise en 1492.
+A la fin du 15 ème siècle, Luca Pacioli lui aussi de Rome vulgarise les mathématiques et reprends le concept de nombre d'or dans un livre illustré par Leonard de Vinci, "De divina proportione" participant au mythe qui lui est lié. Pacioli est d'ailleurs le fondateur de la comptabilité par partie double que l'on utilise aujourd'hui dans en entreprises. Il a également traduits Éléments d'Euclide en Latin, et publier un résumé d’arithmétique, de proportion et de géométrie à Venise en 1492.
 
 
 
@@ -1185,193 +1101,51 @@ L'époque contemporaine la suivra en 1792 à partir de la révolution française
 
 
 
-#### Nicolas Copernic[^Héliocentrisme]
+#### Chiffrement de Vigenère
 
-Aristarque de Samos fut vers -280 le premier à envisager que la Terre tourne autour du soleil mais c'est Copernic qui vers **1513** proposa un modèle héliocentrique, amélioré par la suite par Kepler, et confirmé à posteriori par Galilée qui réalisa les observations et rédigea les premiers principes mécaniques permettant de justifier ce système.
-
-Il est à l'origine du mouvement philosophique des Lumières, dont feront parti la plupart les philosophes lui succédant comme Descartes, Spinoza, Locke, Newton, etc...
-
-Ce mouvement a donné lieu au siècle des Lumières, qui a vu émerger beaucoup d'innovations technologiques, avec un détachement de la croyance et des superstitions au profit de la raison. 
+Blaise de Vigenère, né le 5 avril 1523 à Saint-Pourçain-sur-Sioule, sera secrétaire d’ambassade, il n'a pas inventé le code portant son nom, qui sera introduit par Giovan Battista Bellaso. Vigenère le popularisera en décrivant précisément ce chiffrement avec notamment une table qui sera utilisée pour chiffrer et déchiffrer les messages, jusqu'à ce que le code rendu obsolète par le major prussien Friedrich Kasiski qui l'a cassé dans une publication datée en 1863. Au lieu d'utiliser un simple décalage comme le ferais un code de césar, une mot-clé était utilisé pour chiffrer le message en associant un chiffre à chaque à un caractère du mot, indiquant le décalage à réaliser. Cette suite de décalage obtenue à partir du mot-clé cryptographique sera ainsi répété pour chiffrer tout le reste du texte.
 
 
 
-#### Blaise de Vigenère
+#### Philosophes modernes
 
-Blaise de Vigenère, né le 5 avril 1523 à Saint-Pourçain-sur-Sioule 
-
-
-
-#### Montaigne
-
-Né le 28 février **1533**, cet épicurien sceptique eu écrit multitudes d'essais qui inspireront bien des philosophes après lui, il commença cependant par écrire deux essais stoïques pour prouver "*que le goût des biens et des maux dépend de l’opinion que nous en avons*" et "*que philosopher c’est apprendre à mourir*" mais s'en écarta rapidement, indiquant qu'il "est certain qu’à la plupart des savants, la préparation à la mort, a donné plus de tourment que la mort ne fait de souffrance".
-
-Il en garda pour autant la vertu, se dirigeant dans le scepticisme avec la plus grande prudence et tempérance, ne prononçant un jugement qu'une fois qu'il a bien analyser la situation, et indiquant se méfier des gens qui prétendent détenir la vérité. Ce décrivant lui même comme n'étant pas un sage, ni même ayant grande estime de lui, son humilité en fera quelqu'un de très apprécié et accessible auquel le commun des mortels s'identifie plus facilement qu'a un "grand sage".
-
-Il dira également que la philosophie est la science qui nous apprends à vivre, confrontant la pensée à l'essentiel des expériences que l'on rencontre de notre vivant et à soi même. Au fil du temps sa recherche du bonheur le reprochera de l'épicurisme, qui finira par lui faire compléter ses propos en déclarant que philosopher c'est apprendre à vivre le plus heureusement possible, et qu'il "passe le temps quand il est mauvais et désagréable ; quand il est  bon, je ne veux pas le passer, je le goûte à nouveau, je m’y arrête. Il faut passer le mauvais en courant et s’arrêter au bon", preuve d'un hédonisme raisonné.
+Né le 28 février **1533**, Montaigne était un épicurien sceptique eu écrit multitudes d'essais qui inspireront bien des philosophes après lui, il commença cependant par écrire deux essais stoïques pour prouver "*que le goût des biens et des maux dépend de l’opinion que nous en avons*" et "*que philosopher c’est apprendre à mourir*" mais s'en écarta rapidement, indiquant qu'il "est certain qu’à la plupart des savants, la préparation à la mort, a donné plus de tourment que la mort ne fait de souffrance". Il en garda pour autant la vertu, se dirigeant dans le scepticisme avec la plus grande prudence et tempérance, ne prononçant un jugement qu'une fois qu'il a bien analyser la situation, et indiquant se méfier des gens qui prétendent détenir la vérité. Ce décrivant lui même comme n'étant pas un sage, ni même ayant grande estime de lui, son humilité en fera quelqu'un de très apprécié et accessible auquel le commun des mortels s'identifie plus facilement qu'a un "grand sage". Il dira également que la philosophie est la science qui nous apprends à vivre, confrontant la pensée à l'essentiel des expériences que l'on rencontre de notre vivant et à soi même. Au fil du temps sa recherche du bonheur le reprochera de l'épicurisme, qui finira par lui faire compléter ses propos en déclarant que philosopher c'est apprendre à vivre le plus heureusement possible, et qu'il "passe le temps quand il est mauvais et désagréable ; quand il est  bon, je ne veux pas le passer, je le goûte à nouveau, je m’y arrête. Il faut passer le mauvais en courant et s’arrêter au bon", preuve d'un hédonisme raisonné.
 
 
 
-#### Rabelais
-
-Né le 9 avril **1553**, il consacra la première partie de sa vie à la religion, avant de finir par commettre le crime d'abandonner son habit de moine, devenant apostat et entament des études qui le feront devenir médecin, après quoi il devint écrivain.
-
-Bon vivant et humble chrétien connu pour ses banquets est également passionné par le gigantisme, à cet effet il inventera Pantaguel, Gargantua, mais encore Panurge et ses moutons. Naturellement épicurien, mais aussi influencé par le stoïcisme, le scepticisme et le cynisme, il partage avec Montaigne le fait d'être un écrivain érudit polyglotte proche du peuple, mêlant le sérieux au comique, bien qu'a l'inverse de Montaigne, lui écrira plutôt des romans.
-
-C'est une énième personnalité à être censuré, et à s'attirer des condamnation pour sacrilèges comme ne pas croire en l'immortalité de l'âme ou d'amoindrir la crainte de Dieu. Pour autant, le succès de ses premières œuvres lui feront réaliser un almanach se riant des superstitions. Les géants présents dans ses œuvres sont également une caricatures de la royauté, de l'Église et de son enseignement scolastique, qu'il combattra en usant de raillerie paillarde et de culture populaire, usant de situations très imagées et exacerbées.
+Né le 9 avril **1553**, Rabelais consacra la première partie de sa vie à la religion, avant de finir par commettre le crime d'abandonner son habit de moine, devenant apostat et entament des études qui le feront devenir médecin, après quoi il devint écrivain. Bon vivant et humble chrétien connu pour ses banquets est également passionné par le gigantisme, à cet effet il inventera Pantaguel, Gargantua, mais encore Panurge et ses moutons. Naturellement épicurien, mais aussi influencé par le stoïcisme, le scepticisme et le cynisme, il partage avec Montaigne le fait d'être un écrivain érudit polyglotte proche du peuple, mêlant le sérieux au comique, bien qu'a l'inverse de Montaigne, lui écrira plutôt des romans. C'est une énième personnalité à être censuré, et à s'attirer des condamnation pour sacrilèges comme ne pas croire en l'immortalité de l'âme ou d'amoindrir la crainte de Dieu. Pour autant, le succès de ses premières œuvres lui feront réaliser un almanach se riant des superstitions. Les géants présents dans ses œuvres sont également une caricatures de la royauté, de l'Église et de son enseignement scolastique, qu'il combattra en usant de raillerie paillarde et de culture populaire, usant de situations très imagées et exacerbées.
 
 
 
-#### Francis Bacon
-
-Né le 22 janvier **1561**, il proposera une théorie empiriste de la connaissance et des règles de la méthode expérimentale, faisant de lui l’un des pionniers de la pensée scientifique moderne, et lui valant d'être considéré comme le fondateur du mouvement l'empiriste.
-
-"L'empirisme considère que la connaissance se fonde sur l'accumulation d'observations et de faits mesurables, dont on peut extraire des lois générales par un raisonnement inductif, allant par conséquent du concret à l'abstrait."
+Né le 22 janvier **1561**, Francis Bacon proposera une théorie empiriste de la connaissance et des règles de la méthode expérimentale, faisant de lui l’un des pionniers de la pensée scientifique moderne, et lui valant d'être considéré comme le fondateur du mouvement l'empiriste. "L'empirisme considère que la connaissance se fonde sur l'accumulation d'observations et de faits mesurables, dont on peut extraire des lois générales par un raisonnement inductif, allant par conséquent du concret à l'abstrait."
 
 
 
-#### Giambattista della Porta
+Giambattista della Porta était fasciné par l'ésotérisme derrière les miracles et mystères de la nature, il œuvra à les opposer au divinatoire, et à convertir des croyances en savoirs scientifique. Comme beaucoup de philosophes et esprits polymathes, sa pensée est dirigée par les principes préscientifiques de la *théorie des analogies et de la correspondance*. Il eu étudié l'optique et le magnétisme, les lentilles et l'attraction du fer sur un aimant, ainsi que la propriété de nombreux métaux. Cryptographe, il rédigea en **1563** un ouvrage détaillé résumant les connaissances de cryptanalyses connues à l'époque, traitant du chiffrement et déchiffrement de messages, avec quelques ajouts de sa part, comme le système littéral à double clef qui sera longtemps utilisé, et dont il est potentiellement l'inventeur. Il a également aidé à aboutir les travaux d'Alberti pour en faire un système complet.  Il s'intéressa également à la psychologie et notamment la mémoire, domaine qu'il étudia jusqu’à concevoir des astuces mnémoniques utilisées par les acteurs de théâtre pour mémoriser leurs textes.
 
-Fasciné par l'ésotérisme derrière les miracles et mystères de la nature, il œuvra à les opposer au divinatoire, et à convertir des croyances en savoirs scientifique. Comme beaucoup de philosophes et esprits polymathes, sa pensée est dirigée par les principes préscientifiques de la *théorie des analogies et de la correspondance*. Il eu étudié l'optique et le magnétisme, les lentilles et l'attraction du fer sur un aimant, ainsi que la propriété de nombreux métaux.
+#### 
 
-Cryptographe, il rédigea en **1563** un ouvrage détaillé résumant les connaissances de cryptanalyses connues à l'époque, traitant du chiffrement et déchiffrement de messages, avec quelques ajouts de sa part, comme le système littéral à double clef qui sera longtemps utilisé, et dont il est potentiellement l'inventeur. Il a également aidé à aboutir les travaux d'Alberti pour en faire un système complet. 
-
-Il s'intéressa également à la psychologie et notamment la mémoire, domaine qu'il étudia jusqu’à concevoir des astuces mnémoniques utilisées par les acteurs de théâtre pour mémoriser leurs textes.
-
-
-
-#### Johannes Kepler[^Héliocentrisme]
-
-Né en **1571**, il a étudier et compléter les travaux de Copernic en indiquant que les trajectoires des planètes autour du soleil sont en réalités elliptiques. Il rédigera trois lois éponymes régissant les orbites, les aires, et les trajectoires.
-
-
-
-#### Thomas Hobbes
-
-Né le 5 avril **1588**, il a rédigé *Léviathan* qu'il publiera en 1651. Cette œuvre matérialiste et rationaliste se veut critique des États, de la souveraineté et des religions, bien qu'elle soit ironiquement une référence biblique. Hobbes a suivi des raisonnements déductifs inspirés des mathématiques, plus précisément de la géométrie, pour établir une théorie scientifique et anthropologique de la morale et des organisations autoritaires. Pour lui l'humain est naturellement mauvais et violent, il n'inhiberai ce comportement qu'en faveur d'une autorité dont il craindrait la sentence. Le Léviathan représente cette autorité indiscutable, terrifiante, métaphore des dictatures qui régneront après la destitution de Charles I en 1646.
-
-Fermement opposé à la religion et à la scolastique, philosophie religieuse enseignée au moyen âge dans les universités, il serait le premier le premier à préconiser qu'une "société athée ou a-religieuse constitue la solution au problème social ou politique".
+Thomas Hobbes est né le 5 avril **1588**, il a rédigé *Léviathan* qu'il publiera en 1651. Cette œuvre matérialiste et rationaliste se veut critique des États, de la souveraineté et des religions, bien qu'elle soit ironiquement une référence biblique. Hobbes a suivi des raisonnements déductifs inspirés des mathématiques, plus précisément de la géométrie, pour établir une théorie scientifique et anthropologique de la morale et des organisations autoritaires. Pour lui l'humain est naturellement mauvais et violent, il n'inhiberai ce comportement qu'en faveur d'une autorité dont il craindrait la sentence. Le Léviathan représente cette autorité indiscutable, terrifiante, métaphore des dictatures qui régneront après la destitution de Charles I en 1646. Fermement opposé à la religion et à la scolastique, philosophie religieuse enseignée au moyen âge dans les universités, il serait le premier le premier à préconiser qu'une "société athée ou a-religieuse constitue la solution au problème social ou politique".
 
 Comme beaucoup de matérialistes, il adhérera à la philosophie nominaliste indiquant que les idées et concepts sont des constructions de l'esprit, niant la théorie des formes des philosophes antique. Il conçoit également la raison comme un système de traitement de l'information, comparant la pensée à un calcul. Cela revient à penser que les idées et mots ne sont que des étiquettes liés des réalités subjectives, qui ne représentent en aucun cas une réalité absolue. Cette subjectivité indique également un certain empirisme, toute connaissance provient initialement des sensations.
 
-Hobbes déclarera en autre que "l'esprit humain ne conçoit rien qui n'ait d'abord été, en totalité ou en partie, engendré par les organes des sens", ou que "L'usage général de la parole est de transformer notre discours mental en discours verbal, et l'enchaînement de nos pensées en un enchaînement de mots" formant un pont entre l'esprit et son expression dans le contexte social. Il compare ainsi l'homme à une machine, disant que tout n'est que signaux perçus et réponses créées par un dispositif physiologique nerveux. Assimilant également le Léviathan à un être doté de souveraineté et donc d'une âme, bien qu'il soit un concept abstrait immatériel composé d'individus réels le représentant.
-
-Ces positions lui vaudront des accusations d’athéismes, ainsi qu'une querelle avec René Descartes, qui contrairement Hobbes, considérait que seuls les humains ont une âme, que les animaux serait dénues de conscience et de pensée, et ce malgré le fait que Descartes ai émit l'idée d'une substance spirituelle ou immatérielle, qui n'est pas partagée par le matérialiste rigide et cynique qu'est Hobbes.
+Hobbes déclarera en autre que "l'esprit humain ne conçoit rien qui n'ait d'abord été, en totalité ou en partie, engendré par les organes des sens", ou que "L'usage général de la parole est de transformer notre discours mental en discours verbal, et l'enchaînement de nos pensées en un enchaînement de mots" formant un pont entre l'esprit et son expression dans le contexte social. Il compare ainsi l'homme à une machine, disant que tout n'est que signaux perçus et réponses créées par un dispositif physiologique nerveux. Assimilant également le Léviathan à un être doté de souveraineté et donc d'une âme, bien qu'il soit un concept abstrait immatériel composé d'individus réels le représentant. Ces positions lui vaudront des accusations d’athéismes, ainsi qu'une querelle avec René Descartes, qui contrairement Hobbes, considérait que seuls les humains ont une âme, que les animaux serait dénues de conscience et de pensée, et ce malgré le fait que Descartes ai émit l'idée d'une substance spirituelle ou immatérielle, qui n'est pas partagée par le matérialiste rigide et cynique qu'est Hobbes.
 
 
 
-#### René Descartes
-
-Né en **1596**, il s'opposa lui aussi à la scolastique, il est le fondateur de la géométrie analytique et du mécanisme, qui donnera lieu à des automates comme ceux de Vaucansson, à la causalité et  au fonctionnalisme, indiquant que de mêmes causes auront les mêmes conséquences. Comme dit précédemment, il exposa la dualité entre l'âme est le corps, qu'il considérait comme propre à l'humain, réduisant les autres animaux à une bête machine guidée par ses instincts et incapable de pensée ou de conscience.
+René Descartes naitra en **1596**, il s'opposa lui aussi à la scolastique, il est le fondateur de la géométrie analytique et du mécanisme, qui donnera lieu à des automates comme ceux de Vaucansson, à la causalité et  au fonctionnalisme, indiquant que de mêmes causes auront les mêmes conséquences. Comme dit précédemment, il exposa la dualité entre l'âme est le corps, qu'il considérait comme propre à l'humain, réduisant les autres animaux à une bête machine guidée par ses instincts et incapable de pensée ou de conscience.
 
 Digne héritier du scepticisme, ses réflexions étaient guidées par un doute méthodique qui lui est propre et que l'on dira cartésien. Tout ce qui parait évident doit être remis en question, en mettant de côté son jugement selon le concept sceptique nommé épochè. Il insistera également sur l'importance de ne pas faire confiance aux sensations, qui peuvent nous tromper comme par exemple, dans le cas des illusions d'optiques. Tentant de chercher une vérité dont il ne puisse douter, il fini par trouver sa phrase culte : "cogito ergo sum", signifiant : "je pense donc je suis".
 
 À l'inverse de Thomas Hobbes, Descartes semblait croire en l'existence de Dieu, existence qu'il prouvera en disant que tout effet à une cause réelle, et que l'infini ne peut être causé par quelque-chose d'imparfait, et donc qu'un Dieu parfait doit exister. C'est une affirmation à nuancer par le fait qu'il semble avoir eu la plus grande prudence pour éviter la censure, notamment lorsqu'il à accepté le système cosmologique héliocentrique de Copernic, de la même manière que Galilée qui fut pour cela condamné.
 
+John Locke Né le 29 août **1632**
 
+Baruch Spinoza était Très inspiré par le Stoïcisme, selon lui il n'existe dans la nature qu'une seule substance et que c'est Dieu. **1632** -> 1677
 
-#### Galilée[^Héliocentrisme]
+Voltaire né le 21 novembre **1694**
 
-Né en **1600**,
-
-Il rencontrera Hobbes lors d'un séjour de ce dernier à Florence.
-
-
-
-#### Juan Lobkowitz
-
-Né en 1606 il est considéré comme le fondateur de la mathémathique binaire
-
-
-
-#### Wilhelm Schickard
-
-Il inventa au début du 17 ème siècle, une horloge à calculer avec l'aide des travaux de Napier à qui il dédia un éphéméride. Malheureusement, lors de sa conception un incendie vint détruire ses avancés, et une reproduction fonctionnelle montra qu'il manquait certains moyens technique pour finaliser son œuvre et la rendre opérationnelle.
-
-
-
-#### Calculateurs
-
-Le terme "computer" à été écrit pour la première fois par le poète Richard Brathwaite dans le livre The Yong Mans Gleanings en **1613**, sauf que le terme ne faisait pas référence à une machine car à l'époque, les ordinateurs étaient des gens, qui calculaient et rédigeai des tables de calcul (logarithmiques, trigonométriques, etc...), et ce à fin de pouvoir avoir la réponse à un calcul de manière directe (avec une complexité en O^1). 
-
-
-
-#### Bâtons de Napier
-
-En **1617** nommé Bâtons de Napier. Il facilite le calcul des produits, quotients, puissances et racines. John Napier est un mathématicien écossais qui à notamment donner son nom au logarithme népérien.
-
-Cet outil permet à l'aide d'un tableau ayant pour lignes les chiffres de 1 à 9, et pour colonnes les chiffres du nombre sur lequel on désire faire une opération, la valeur des différentes lignes de cette colonnes étant inscrites le résultat de l'opération pour chaque ligne donc chiffre de la base 10.
-
-
-
-#### Règle coulissante à calculer
-
-Pour clôturer la présentation d'abaques, en **1621** William Oughtred, qui est a l'origine de la notation de π et "x" pour la multiplication, se base sur les travaux de Napier et invente une règle coulissante destinée à calculer des multiplications, divisions et également des exponentielles, racines, puissances et calculs trigonométriques, laissant l'addition et la soustraction à de plus simples abaques.
-
-Aujourd'hui obsolètes, elles ont pendant longtemps été, à la manière des tables de calcul était une solution suffisamment précise, abordable et facile à créer.
-
-
-
-
-
-#### John Locke
-
-Né le 29 août **1632**
-
-
-
-#### Isaac Newton[^Héliocentrisme]
-
-Né en **1642** il a abouti les travaux de Copernic, Kepler, et Galilée et élabora ainsi les lois de la gravitations universelle. C'est ainsi le fondateur de la mécanique classique et des trois lois portant son nom, il prouvera également la décomposition de la lumière et ainsi son spectre lumineux à l'aide d'un prisme.
-
-
-
-#### Pascaline
-
-En **1650**, Blaise Pascal invente ce qui est considéré aujourd'hui comme la première machine à calculer. Dans la volonté de soulager le travail de son père, nommé premier président à la Cour des aides de Normandie à Rouen, cette machine a permis de réaliser additions, soustractions, et multiplication, ainsi que divisions, par répétitions.
-
-C'était la seule machine à calculer fonctionnelle au 18è siècle, elle marque le début d'une période de développement de machines à calculer de plus en plus sophistiquées, qui seront présentées dans la suite de cet ouvrage.
-
-
-
-Blaise Pascal, né en 1623 à Clermont-Ferrand, était ce que l'on appelle un esprit *polymathe*, c'est à dire qu'il connaissait un grand nombre de sujets; certes variés, mais notamment dans le champ des arts et des sciences, comme Leonard De Vinci qui eu conçu lui aussi plusieurs machines, pour le théâtre mais aussi hydrauliques, volantes, textiles, et de guerre. Ce genre de personnalités historiques sont considérés comme esprits universels.
-
-Essentiellement mathématicien, il publie un traité de géométrie projective à 16 ans et invente la première machine à calculer à 19.
-
-C'est la première fois que l'on remarque un impact de l'automatisation notable sur l'emploi et la société, associée à une technophobie, bien que de nombreuses peurs ai eu étées justifiées par la création de machines de guerres par le passé.
-
-hexagrammes mystique de Pascal
-
-
-
-#### Baruch Spinoza
-
-Très inspiré par le Stoïcisme, selon lui il n'existe dans la nature qu'une seule substance et que c'est Dieu.
-
-**1632** -> 1677
-
-
-
-#### Binaire
-
-Le binaire est pratiqué depuis l'an -750 avec les hexagrammes chinois. Vers l'an **-200**, le poète et mathématicien indien Pingala qui rédigera *Chandahsastra*, étymologiquement "Code de la prosodie". Il y étudiera mathématiquement la construction des phrases des poèmes sanskrits, par combinaisons de syllabes longues ou brèves. Formulant ainsi le texte connu le plus ancien traitant des nombres binaires, et de la métrique ou versification poétique. Il aurait également découvert la suite de Fibonacci et le triangle de Pascal. mais le concept et ses opérations tel qu'on les utilise aujourd'hui, n'ont étés formalisées qu'en **1690** par Leibniz Wilhelm Gottfried. Grand polymathe allemand, il a popularisé ce système en démontrant sa facilité d'écriture et d'usage, notamment pour la division qui était à ce moment compliquée à automatiser, et il a projeté son utilisation future en émettant l'idée que des machines plus élaborées puissent en tirer pleinement profit. Ces travaux ont permis à d'autres chercheurs de déchiffrer les codes binaires utilisés par les hexagrammes en -750.
-
-
-
-Leibniz était rationaliste, par définition il était opposé à l'empirisme, cette philosophie, qui est également celle de René Descartes et Baruch Spinoza
-
-
-
-
-
-#### Voltaire
-
-Né le 21 novembre **1694**
-
-
-
-#### Jean-Jacques Rousseau
-
-Né en **1712** Rousseau était orphelin et errant, persécuté par l'Église et la république de Genève. Il était également autodidacte, et appris à l'aide de lectures de Descartes, Lockes, Malebranche, Leibniz, et bien d'autres. Sa pensée philosophique repose, à l'inverse de Hobbes,  sur l'idée que l'Homme est naturellement bon et que la société et les règles qui en émanent viennent nous corrompre, renonçant à notre liberté naturelle au profit de la liberté civile. 
+Né en **1712** Jean-Jacques Rousseau était orphelin et errant, persécuté par l'Église et la république de Genève. Il était également autodidacte, et appris à l'aide de lectures de Descartes, Lockes, Malebranche, Leibniz, et bien d'autres. Sa pensée philosophique repose, à l'inverse de Hobbes,  sur l'idée que l'Homme est naturellement bon et que la société et les règles qui en émanent viennent nous corrompre, renonçant à notre liberté naturelle au profit de la liberté civile. 
 
 Malgré cela il affirme que le peuple est souverain, et qu'il doit converger vers l’intérêt commun, qu'il appela *volonté générale*. Il traitera également des rapports de forces et de la place de l'autorité, déclarant que la "force ne fait pas droit, et qu'on n'est obligés d'obéir qu'aux puissances légitimes".
 
@@ -1387,13 +1161,7 @@ Inversion de cette tendance, salut scout le fort protège le faible.
 
 Levi Strauss déclarera qu'il est le fondateur de l'anthropologie, étude de l'être humain et de ses groupes sous tous leurs aspects qu'ils soient physiques ou culturels.
 
-
-
-
-
-#### Kant
-
-Né en 1724, il est le fondateur du criticisme et de l'idéalisme transcendantal. Il a été une grande influence pour la philosophie moderne et la pensée critique. Grand adepte de la connaissance pratique et esthétique, il axa sa philosophie sur la capacité à savoir et quoi faire ou espéré en fonction de cette dernière. Il invite donc à être raisonnable, tout en faisant preuve de rigueur et ainsi n'accepter que la connaissance que l'on peut démontrer et résistante à la critique.
+Né en 1724, Kant est le fondateur du criticisme et de l'idéalisme transcendantal. Il a été une grande influence pour la philosophie moderne et la pensée critique. Grand adepte de la connaissance pratique et esthétique, il axa sa philosophie sur la capacité à savoir et quoi faire ou espéré en fonction de cette dernière. Il invite donc à être raisonnable, tout en faisant preuve de rigueur et ainsi n'accepter que la connaissance que l'on peut démontrer et résistante à la critique.
 
 Il a également affirmé que la connaissance trouve son origine dans le sujet humain et non pas dans l'objet étudié. C'est à dire que la construction de la réalité ne sera jamais pleinement représentative de l'objet étudié, mais un long apprentissage itératif de l'humain afin de s'en rapprocher assez pour le connaître.
 
@@ -1401,23 +1169,53 @@ Il traitera également beaucoup la question du dogme, indiquant que l'athéisme 
 
 
 
+#### Binaire
+
+Le binaire est pratiqué depuis l'an -750 avec les hexagrammes chinois. Vers l'an **-200**, le poète et mathématicien indien Pingala qui rédigera *Chandahsastra*, étymologiquement "Code de la prosodie". Il y étudiera mathématiquement la construction des phrases des poèmes sanskrits, par combinaisons de syllabes longues ou brèves. Formulant ainsi le texte connu le plus ancien traitant des nombres binaires, et de la métrique ou versification poétique. Il aurait également découvert la suite de Fibonacci et le triangle de Pascal. Juan Lobkowitz né en 1606 est considéré comme le fondateur de la mathémathique binaire, mais le concept et ses opérations tel qu'on les utilise aujourd'hui, n'ont étés formalisées qu'en **1690** par Leibniz Wilhelm Gottfried. Grand polymathe allemand, il a popularisé ce système en démontrant sa facilité d'écriture et d'usage, notamment pour la division qui était à ce moment compliquée à automatiser, et il a projeté son utilisation future en émettant l'idée que des machines plus élaborées puissent en tirer pleinement profit. Ces travaux ont permis à d'autres chercheurs de déchiffrer les codes binaires utilisés par les hexagrammes en -750.
+
+Leibniz était rationaliste, par définition il était opposé à l'empirisme, cette philosophie, qui est également celle de René Descartes et Baruch Spinoza
 
 
-#### Cartes perforées
 
-Ce sont des morceau de papiers rigide dont la présence ou absence de trou corresponds à une information binaire.
+### Premières machines à calculer
 
-La plus ancienne utilisation des cartes perforée est avérée dès 1502 avec la première orgue de Barbarie, ancêtre de la boite à musique.
+Le terme "computer" à été écrit pour la première fois par le poète Richard Brathwaite dans le livre The Yong Mans Gleanings en **1613**, sauf que le terme ne faisait pas référence à une machine, vous devriez pouvoir à ce stade de la lecture, constater que les ordinateurs d'antan étaient des gens, qui calculaient et rédigeai des tables de calcul (logarithmiques, trigonométriques, etc...), et ce à fin de pouvoir avoir la réponse à un calcul de manière directe (avec une complexité en O^1). 
 
-A partir du 16e siècle, que des automates sont réalisés avec.
+En **1617** John Napier invente un abaque du même nom nommé Bâtons de Napier. Il facilite le calcul des produits, quotients, puissances et racines. John Napier est un mathématicien écossais qui à notamment donner son nom au logarithme népérien. Cet outil permet à l'aide d'un tableau ayant pour lignes les chiffres de 1 à 9, et pour colonnes les chiffres du nombre sur lequel on désire faire une opération, la valeur des différentes lignes de cette colonnes étant inscrites le résultat de l'opération pour chaque ligne donc chiffre de la base 10.
 
-En **1725**, le lyonnais Basile Bouchon, met au point le premier système de programmation d’un métier à tisser à l'aide d'un ruban perforé. En 1728, son assistant nommé Jean-Baptiste Falcon, à l'idée de remplacer le ruban par une série de cartes perforées reliées entre elles.
+Wilhelm Schickard inventa au début du 17 ème siècle, une horloge à calculer avec l'aide des travaux de Napier à qui il dédia un éphéméride. Malheureusement, lors de sa conception un incendie vint détruire ses avancés, et une reproduction fonctionnelle montra qu'il manquait certains moyens technique pour finaliser son œuvre et la rendre opérationnelle.
 
-Jacques de Vaucanson, célèbre Grenoblois inventeur d'automates musicaux et à objectif de divertir, réutilise ce concept en remplaçant ruban et cartes perforées par un cylindre métallique à pointes.
+Pour clôturer la présentation d'abaques, en **1621** William Oughtred, qui est a l'origine de la notation de π et "x" pour la multiplication, se base sur les travaux de Napier et invente une règle coulissante destinée à calculer des multiplications, divisions et également des exponentielles, racines, puissances et calculs trigonométriques, laissant l'addition et la soustraction à de plus simples abaques. Aujourd'hui obsolètes, elles ont pendant longtemps été, à la manière des tables de calcul était une solution suffisamment précise, abordable et facile à créer.
 
-Enfin Joseph Marie Jacquard à mis en œuvre les procédés déjà existants pour réaliser un métier à tisser éponyme en **1801**, date à partir de laquelle il passe une bonne dizaine d'année à démocratiser et perfectionner la machine programmable.
 
-Programmer avec des cartes perforees demandais déjà une rigeur importante car l'ordre des cartes etait tres importantes et qu'un simple coup de vent ou inadvertance pouvait mettre des jours de travail a la poubelle.
+
+En **1650**, le clermontois polymathe Blaise Pascal, invente la Pascaline trois ans après son traité de géométrie projective, alors qu'il 19 ans, cette outil est aujourd'hui considéré comme la première machine à calculer. Elle a été réalisé ans la volonté de soulager le travail de son père, nommé premier président à la Cour des aides de Normandie à Rouen, cette machine a permis de réaliser additions, soustractions, et multiplication, ainsi que divisions, par répétitions. C'était la seule machine à calculer fonctionnelle au 18è siècle, elle marque le début d'une période de développement de machines à calculer de plus en plus sophistiquées, qui seront présentées dans la suite de cet ouvrage. C'est la première fois que l'on remarque un impact de l'automatisation notable sur l'emploi et la société, associée à une technophobie, bien que de nombreuses peurs ai eu étées justifiées par la création de machines de guerres par le passé.
+
+hexagrammes mystique de Pascal
+
+Les cartes perforées sont des morceau de papiers rigide dont la présence ou absence de trou corresponds à une information binaire. La plus ancienne utilisation des cartes perforée est avérée dès 1502 avec la première orgue de Barbarie, ancêtre de la boite à musique. A partir du 16e siècle, que des automates sont réalisés avec. En **1725**, le lyonnais Basile Bouchon, met au point le premier système de programmation d’un métier à tisser à l'aide d'un ruban perforé. En 1728, son assistant nommé Jean-Baptiste Falcon, à l'idée de remplacer le ruban par une série de cartes perforées reliées entre elles. Jacques de Vaucanson, célèbre Grenoblois inventeur d'automates musicaux et à objectif de divertir, réutilise ce concept en remplaçant ruban et cartes perforées par un cylindre métallique à pointes. Enfin Joseph Marie Jacquard à mis en œuvre les procédés déjà existants pour réaliser un métier à tisser éponyme en **1801**, date à partir de laquelle il passe une bonne dizaine d'année à démocratiser et perfectionner la machine programmable. Programmer avec des cartes perforees demandais déjà une rigeur importante car l'ordre des cartes etait tres importantes et qu'un simple coup de vent ou inadvertance pouvait mettre des jours de travail a la poubelle.
+
+En **1757**, trois français, Alexis Clairaut, Jérôme Lalande, et Nicole Lepaute aboutissent le travail d'un polymathe Anglais, Edmond Halley, qui expliqua dans un livre que ce que l'on croyait être des comètes distinctes n'en sont en réalité qu'une seule avec une périodicité de 76 ans pour effectuer une révolution autour du soleil.
+
+Ce travail conjoint à permis l'abandon de la théorie des tourbillons de Descartes au profit de la mécanique Newtonienne.
+
+
+
+### Héliocentrisme
+
+Aristarque de Samos fut vers -280 le premier à envisager que la Terre tourne autour du soleil mais c'est Nicolas Copernic qui vers **1513** proposa un modèle héliocentrique, amélioré par la suite par Kepler, et confirmé à posteriori par Galilée qui réalisa les observations et rédigea les premiers principes mécaniques permettant de justifier ce système.
+
+Il est à l'origine du mouvement philosophique des Lumières, dont feront parti la plupart les philosophes lui succédant comme Descartes, Spinoza, Locke, Newton, etc...
+
+Ce mouvement a donné lieu au siècle des Lumières, qui a vu émerger beaucoup d'innovations technologiques, avec un détachement de la croyance et des superstitions au profit de la raison. 
+
+Né en **1571**, Johannes Kepler a étudier et compléter les travaux de Copernic en indiquant que les trajectoires des planètes autour du soleil sont en réalités elliptiques. Il rédigera trois lois éponymes régissant les orbites, les aires, et les trajectoires.
+
+Né en **1600**, Galilée rencontrera Hobbes lors d'un séjour de ce dernier à Florence.
+
+Né en **1642** Isaac Newton a abouti les travaux de Copernic, Kepler, et Galilée et élabora ainsi les lois de la gravitations universelle. C'est ainsi le fondateur de la mécanique classique et des trois lois portant son nom, il prouvera également la décomposition de la lumière et ainsi son spectre lumineux à l'aide d'un prisme.
+
+
 
 
 
@@ -1434,14 +1232,6 @@ Philosophie de l'éducation et axiologie, qu'elle est la valeur de l'éducation 
 #### Théorie générale des systèmes
 
 Aussi appelée Systémique, la première personnalité connue à parler de ce domaine d'étude des ensembles complexe d'interactions entre des sous groupes est Sébastien Le Prestre dans son œuvre *Système*, plus connu sous le nom de Vauban, dont il était le marquis. Cela a ensuite été décrit par Étienne Bonnot de Condillac qui définit les prémices de l'approche systémique dans son *Traité des Systèmes* en **1749**, repris par la suite par Pareto qui l'appliqua à l'économie politique.
-
-
-
-#### Comète de Halley
-
-En **1757**, trois français, Alexis Clairaut, Jérôme Lalande, et Nicole Lepaute aboutissent le travail d'un polymathe Anglais, Edmond Halley, qui expliqua dans un livre que ce que l'on croyait être des comètes distinctes n'en sont en réalité qu'une seule avec une périodicité de 76 ans pour effectuer une révolution autour du soleil.
-
-Ce travail conjoint à permis l'abandon de la théorie des tourbillons de Descartes au profit de la mécanique Newtonienne.
 
 
 
@@ -2436,6 +2226,12 @@ Les fois où j'ai appris le plus rapidement des concept était encore une fois �
 Variables fonctions
 
 Objets Classes et Interfaces
+
+
+
+https://hal.science/hal-02970135/document
+
+
 
 
 
