@@ -1051,7 +1051,7 @@ Comme beaucoup, les historiens ne savent pas grand chose de sa vie d'Al-Jazari, 
 
 
 
-### Occidentalisation des savoirs de l'Âge d'or arabes 
+#### Occidentalisation des savoirs de l'Âge d'or arabes 
 
 Sylvestre II, né en **950** et mort en 1003, aussi connu sous le nom de Gerbert d'Aurillac, aurait demandé à l'astronome Lupitus de Barcelone, un traité sur un calculateur analogique permettant de mesurer la hauteur des étoiles nommé astrolabe. Les historiens ne savent pas si elle lui est parvenue mais il a introduit des concepts de la science arabe en Occident.
 
@@ -1123,8 +1123,6 @@ Né le 22 janvier **1561**, Francis Bacon proposera une théorie empiriste de la
 
 Giambattista della Porta était fasciné par l'ésotérisme derrière les miracles et mystères de la nature, il œuvra à les opposer au divinatoire, et à convertir des croyances en savoirs scientifique. Comme beaucoup de philosophes et esprits polymathes, sa pensée est dirigée par les principes préscientifiques de la *théorie des analogies et de la correspondance*. Il eu étudié l'optique et le magnétisme, les lentilles et l'attraction du fer sur un aimant, ainsi que la propriété de nombreux métaux. Cryptographe, il rédigea en **1563** un ouvrage détaillé résumant les connaissances de cryptanalyses connues à l'époque, traitant du chiffrement et déchiffrement de messages, avec quelques ajouts de sa part, comme le système littéral à double clef qui sera longtemps utilisé, et dont il est potentiellement l'inventeur. Il a également aidé à aboutir les travaux d'Alberti pour en faire un système complet.  Il s'intéressa également à la psychologie et notamment la mémoire, domaine qu'il étudia jusqu’à concevoir des astuces mnémoniques utilisées par les acteurs de théâtre pour mémoriser leurs textes.
 
-#### 
-
 Thomas Hobbes est né le 5 avril **1588**, il a rédigé *Léviathan* qu'il publiera en 1651. Cette œuvre matérialiste et rationaliste se veut critique des États, de la souveraineté et des religions, bien qu'elle soit ironiquement une référence biblique. Hobbes a suivi des raisonnements déductifs inspirés des mathématiques, plus précisément de la géométrie, pour établir une théorie scientifique et anthropologique de la morale et des organisations autoritaires. Pour lui l'humain est naturellement mauvais et violent, il n'inhiberai ce comportement qu'en faveur d'une autorité dont il craindrait la sentence. Le Léviathan représente cette autorité indiscutable, terrifiante, métaphore des dictatures qui régneront après la destitution de Charles I en 1646. Fermement opposé à la religion et à la scolastique, philosophie religieuse enseignée au moyen âge dans les universités, il serait le premier le premier à préconiser qu'une "société athée ou a-religieuse constitue la solution au problème social ou politique".
 
 Comme beaucoup de matérialistes, il adhérera à la philosophie nominaliste indiquant que les idées et concepts sont des constructions de l'esprit, niant la théorie des formes des philosophes antique. Il conçoit également la raison comme un système de traitement de l'information, comparant la pensée à un calcul. Cela revient à penser que les idées et mots ne sont que des étiquettes liés des réalités subjectives, qui ne représentent en aucun cas une réalité absolue. Cette subjectivité indique également un certain empirisme, toute connaissance provient initialement des sensations.
@@ -1177,7 +1175,7 @@ Leibniz était rationaliste, par définition il était opposé à l'empirisme, c
 
 
 
-### Premières machines à calculer
+#### Premières machines à calculer
 
 Le terme "computer" à été écrit pour la première fois par le poète Richard Brathwaite dans le livre The Yong Mans Gleanings en **1613**, sauf que le terme ne faisait pas référence à une machine, vous devriez pouvoir à ce stade de la lecture, constater que les ordinateurs d'antan étaient des gens, qui calculaient et rédigeai des tables de calcul (logarithmiques, trigonométriques, etc...), et ce à fin de pouvoir avoir la réponse à un calcul de manière directe (avec une complexité en O^1). 
 
@@ -1201,7 +1199,7 @@ Ce travail conjoint à permis l'abandon de la théorie des tourbillons de Descar
 
 
 
-### Héliocentrisme
+#### Héliocentrisme
 
 Aristarque de Samos fut vers -280 le premier à envisager que la Terre tourne autour du soleil mais c'est Nicolas Copernic qui vers **1513** proposa un modèle héliocentrique, amélioré par la suite par Kepler, et confirmé à posteriori par Galilée qui réalisa les observations et rédigea les premiers principes mécaniques permettant de justifier ce système.
 
