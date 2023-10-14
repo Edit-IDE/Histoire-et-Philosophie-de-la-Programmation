@@ -2396,6 +2396,10 @@ https://fr.wikipedia.org/wiki/Th%C3%A9orie_g%C3%A9n%C3%A9rale_des_syst%C3%A8mes
 
 
 
+Les gens suivent lautorite la loi, mais la loi est parfois fausse, la seule loi qui doivent etre suivit est la science, la raidon pure pouvant etre prouvée 
+
+en tant quanimal humaine on se s'en porte pourtant que mieux de juste suivre les unstructions et juste faire ce que l'on doit ou a envie de faire 
+
 ### Appareils
 
 #### Ordinateurs portables
@@ -2601,6 +2605,10 @@ Je terminerai avec une citation de jeu vidéo, Maitre Yi dans League Of Legends 
 
 
 ### Signaux forts et faibles 
+
+anecdote prof sifflement 
+
+baki episode 22
 
 ### Habitudes
 
