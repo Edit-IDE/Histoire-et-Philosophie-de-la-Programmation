@@ -8,7 +8,7 @@ Mémoire de fin d'étude pour la validation du diplôme résultant de mon parcou
 
 ## Résumé
 
-Cet ouvrage énonce, conformément à son titre et aux recherches qu'il à nécessité, le passé, présent et ma pensée sur le futur de la gestion de l'information. L'étude des connaissances existantes sur ce sujet vous replongerons sûrement dans vos cours d'Histoire, elles permettrons de mettre en situation un abrégé de l'état actuel du monde scientifique et plus particulièrement de l'informatique. Cette discipline récente permet désormais de solutionner et automatiser beaucoup de tâches pénibles, mais sa pratique en elle même reste fastidieuse. C'est pourquoi j'en ai fait le cœur de ma problématique, et que la dernière partie se nomme "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?". À l'aide des parties précédentes analysant son origine, la conclusion proposera ainsi une solution informatique innovante, combinant des technologies et pratiques existantes pour se simplifier elle même en utilisant de la rétro-action et de la méta-programmation à travers une interface graphique simple et agréable.
+Cet ouvrage, conformément à son titre et aux recherches qu'il a nécessité, énonce le passé, le présent, et ma pensée sur le futur de la gestion de l'information. L'étude des connaissances existantes sur ce sujet vous replongera sûrement dans vos cours d'Histoire, elle mettra en situation le présent avec un abrégé allant de la préhistoire, jusqu’à l'état actuel du monde scientifique, et plus particulièrement de l'informatique. Cette discipline récente permet désormais de solutionner et automatiser beaucoup de tâches pénibles, mais sa pratique en elle même reste fastidieuse. C'est pourquoi j'en ai fait le cœur de ma problématique, que je l'analyse pour la repenser dans un essai philosophique, et que la dernière partie se nomme "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?". À l'aide des parties précédentes analysant son origine, la conclusion proposera ainsi une solution informatique innovante, combinant des technologies et pratiques existantes pour se simplifier elle même en utilisant de la rétro-action et de la méta-programmation à travers une interface graphique simple et agréable.
 
 
 
@@ -537,19 +537,22 @@ Cet ouvrage énonce, conformément à son titre et aux recherches qu'il à néce
       - [Page d’évaluation](#page-dévaluation)
   
 
+
+
 ## Remerciements
 
 Je ne remercierai jamais assez mes parents et grand parents, qui ont eu la chance d'être propriétaires d'ordinateurs, et d'une connexion d'internet, avant ma naissance en 1999. Grâce à cela il ont eu la merveilleuse idée de me mettre devant un écran, avec des logiciels éducatifs qui m'ont permis de savoir lire à l'âge de 2 ans.
 
-Merci à toutes les personnes et enseignants qui m'ont, lors de ma longue scolarité, transmis tout ce que je sais aujourd'hui.
+
+
+Merci à toutes les personnes et enseignants des entreprises et écoles qui m'ont accueillis, lors de ma scolarité, et de mon début de carrière, me transmettant une majeure partie ce que je sais aujourd'hui, et ce dans la bienveillance, grâce à des processus itératifs d'amélioration continue.
 
 Merci aux logiciels libres, à l'open source, à Wikipédia et tout leurs contributeurs.
-
-Merci aux établissements d'enseignement et entreprises, dans lesquels j'ai travaillé et évoluer dans la bienveillance, grâce à des processus itératifs d'amélioration continue.
 
 Merci à toutes et tous, car nos métiers et découvertes ne sont que rarement le fruit d'un génie isolé, mais bien d'une collaboration et de l'amélioration d'idées antérieures.
 
 Enfin, merci à toute personne qui lit actuellement ce texte.
+
 
 
 ## Introduction
@@ -569,13 +572,15 @@ Pour la rédaction de ce dernier, j'ai acquis 4 livres :
 
 Les trois premiers livres ont chacun leurs avantages grâce à une approche différente d'un même sujet, sur lequel je m'attendais à trouver plus de bibliographie. Contrairement à ceux-ci, j'ai essayé d'avoir une démarche plus globale que l'informatique et l'ordinateur, qui sont des concepts très récent. Et ce en abordant le thème global qu'est l'information, tout en y ajoutant de la philosophie, ainsi que mon humble analyse subjective, parce que j'aime penser, et que l'apprentissage des mathématiques et de l'informatique ont changé ma manière de concevoir le monde dans lequel nous vivons. Se sont selon moi des philosophies à part entière, apportant des syntaxes et un vocabulaire, nécessitant un apprentissage constant de schémas de pensés dignes d'un logicien.
 
-Dans ce mémoire, je vais donc revenir aux racines les plus ancestrales de la gestion de l'information, au vocabulaire et champ lexical qui y sont liés ou en découlent, ainsi qu'a leurs étymologies à travers leur Histoire, qui représente toute la première partie de ce livre. J'y présenterai beaucoup de philosophes, scientifiques et de penseurs variés. De l'Antiquité aux époques plus modernes, les idées qu'ils ont amenées ont permis des inventions et progrès technologiques avec un développement de plus en plus rapide. Pourtant, les inventions qui ont le plus impacté l'humanité, resteront toujours les plus anciennes, avec au sommet d'entre elles, l'écriture.
+Dans ce mémoire, je vais donc revenir aux racines les plus ancestrales de la gestion de l'information, au vocabulaire et champ lexical qui y sont liés ou en découlent, ainsi qu'a leurs étymologies à travers leur [Histoire](#Histoire), qui représente toute la première partie de ce livre. J'y présenterai beaucoup de philosophes, scientifiques et de penseurs variés. De l'Antiquité aux époques plus modernes, les idées qu'ils ont amenées ont permis des inventions et progrès technologiques avec un développement de plus en plus rapide. Pourtant, les inventions qui ont le plus impacté l'humanité, resteront toujours les plus anciennes, avec au sommet d'entre elles, l'écriture.
 
 J'aborderai aussi un sujet qui m'est cher, la programmation. Elle n'est pas forcement liée à l'informatique, c'est l'art de planifier et mettre en œuvre des étapes à suivre pour obtenir un résultat. Cela dit, elle passe inévitablement par de la gestion de l'information, à l'aide d'écriture, lecture, chiffrement, déchiffrement, émission, et réception.
 
-C'est pourquoi je m’intéresserai également à l'apprentissage, très présent dans les technologies comme l'intelligence artificielle, qui représente l’acquisition et l'assimilation d'une information ou d'un système ; ainsi qu'à la pédagogie, propre à l'humain, animal social émotionnel ; et au rapport maître / élève.
+Je m’intéresserai également à l'apprentissage, très présent dans les technologies comme l'intelligence artificielle, qui représente l’acquisition et l'assimilation d'une information ou d'un système ; ainsi qu'à la pédagogie, propre à l'humain, animal social émotionnel ; et au rapport maître / élève.
 
-Je dresserai ensuite un bilan de l’état actuel de l'informatique, de son marché, ainsi qu'une étude de sa pratique moderne ; et ce afin d'en identifier les problèmes que l'on y rencontre en tant que développeur, pour finir par en dégager de possibles solutions, dressant ainsi ma projection subjective en tant qu'acteur et éditeur de logiciels, pour le futur de cette discipline, plus particulièrement la pratique que je souhaite en avoir en tant que créateur de services et contenu web.
+L'ensemble de ses sujets, et l'information en général, prends une place de plus importante dans nos quotidien, cela s'accompagne d'un volume d'informations mondialement échangé exponentiel. Nous avons développer une relation symbiotique avec la technologie, qui nous permet aujourd'hui de communiquer et de jouer presque instantanément au niveau mondial, améliorant également la santé de certains et peuvent nous faire vivre mieux, on parle même de télé-santé. Pour autant, comme toutes les technologies récentes ayant un impact majeur, vient un rejet et une techno-phobie d'une certaine partie de la population pas encore convertie à son usage.
+
+C'est pourquoi je dresserai ensuite un [bilan de l’état actuel de l'informatique](#Pratiques-actuelles), de son marché, ses opportunités, ainsi qu'une étude de sa pratique moderne ; et ce afin d'en [identifier les problèmes](#Comprendre-la-problématique) que l'on y rencontre en tant que développeur, pour finir par en dégager de possibles solutions, dressant ainsi un [essai](#Essai) philosophique expliquant ma projection subjective en tant qu'acteur et éditeur de logiciels, pour [le futur de cette discipline](#EditIDE-ou-"Comment-repenser-la-gestion-de-l'information-pour-moderniser-l'expérience-développeur-?"), plus particulièrement la pratique que je souhaite en avoir en tant que créateur de services et contenu web.
 
 
 
@@ -600,7 +605,7 @@ Mais avant de parler des méthodes modernes et répondre à cette question, il m
 
 
 
-[Retour](#Sommaire)
+[Retour](#Introduction)
 
 ## Histoire
 
@@ -1751,9 +1756,12 @@ En **1932**, l'ingénieur Gustav Tauschek, invente une nouvelle méthode de mém
 
 En **1936** il invente une expérience de pensée présentant une machine nommée d'après son nom. Cette machine de Turing est à la base de l'informatique théorique, c'est une métaphore du fonctionnement de tout appareil de calcul, elle à poser les bases de la complexité algorithmique et de la calculabilité. Imaginez un **ruban infini** composé de cases numérotées, toutes ces cases possèdent initialement un zéro. Sur ce ruban est situé un **agent** capable de lire et écrire les symboles sur le ruban, ainsi que de se déplacer sur la case précédente ou suivante. Un **registre** viendra mémoriser la suite d'états allant de celui initial, jusqu'à actuel, le nombre d'état est limité et fini. Enfin, cet état permet grâce à une **table d'action** d'indiquer à la machine quel action réaliser, que ce soit un déplacement, une lecture ou une écriture, ainsi que le nouvel état après réalisation de l'action. Si aucune action ne correspond à l'état actuel et au symbole qui bien d'être lu alors la machine s'arrête.
 
-Avec ses quatre simples composant, on peut comme Alan l'indique dans sa publication, créer une Machine de Turing universelle, capable de simuler le comportement de n'importe quelle autre machine de Turing, on dit alors qu'elle est Turing-complète. C'est ainsi la raison pour laquelle on peut utiliser un ordinateur pour simuler une machine virtuelle, ou utiliser des jeux Turing-complete comme Minecraft ou Factorio pour reproduire une processeur, un affichage graphique, et ainsi une version simplifié du jeu à l'intérieur de son propre monde virtuel.
+Avec ses quatre simples composant, on peut comme Alan l'indique dans sa publication, créer une Machine de Turing universelle, capable de simuler le comportement de n'importe quelle autre machine de Turing, on dit alors qu'elle est Turing-complète. C'est ainsi la raison pour laquelle on peut utiliser un ordinateur pour simuler une machine virtuelle, ou utiliser des jeux Turing-complete comme Minecraft[^1] Terraria[^2]  ou Factorio[^3] pour reproduire une processeur, un affichage graphique, et ainsi une version simplifié du jeu à l'intérieur de son propre monde virtuel. Il existe également un ludiciel du même nom qui guide le joueur et l'élève, on peut y apprendre l’électronique pas à pas, dans un logiciel qui simule sa logique, et permet de reproduire des circuits complexes et comprendre le fonctionnement des langages assembleurs, qui naîtrons 13 ans après l'expérience de pensée de Turing.[^4]
 
-https://www.youtube.com/watch?v=-BP7DhHTU-I - https://www.youtube.com/watch?v=7lVAFcDX4eM
+[^1]: https://www.youtube.com/watch?v=-BP7DhHTU-I
+[^2]: https://www.youtube.com/watch?v=7lVAFcDX4eM
+[^3]: https://youtube.com/watch?v=zXPiqk0-zDY 
+[^4]: https://store.steampowered.com/app/1444480/Turing_Complete/
 
 Pionnier de l'intelligence artificielle il proposera également le Test de Turing permettant de tester la faculté d'une machine à imiter une conversation humaine. Il la décrivit dans sa publication *Computing Machinery and Intelligence* comme un *jeu d'imitation* qui donnera le titre du film récent abordant une partie de sa vie.
 
@@ -2358,7 +2366,7 @@ Les machines à calculer ne datent pas d'aujourd'hui, le premier programme quand
 
 
 
-[Retour](#Sommaire)
+[Retour](#Introduction)
 
 ## Pratiques actuelles
 
@@ -2490,11 +2498,11 @@ Suite à Atom publié par GitHub le 26 février 2014, bien avant son rachat en 2
 
 
 
-
+[Retour](#Introduction)
 
 ## Essai
 
-Maintenant que je vous ai raconté l'histoire de l'information, je vais brièvement vous parler de la mienne en toute vulnérabilité car pour comprendre et pouvoir juger l'identité de quelqu'un, il faut comprendre ses difficultés, appétences, habitudes, et plus globalement son vécu composé de l'accumulation de ses sensations et actions marquantes.
+Maintenant que je vous ai raconté l'histoire de l'information, je vais brièvement vous parler de la mienne en toute vulnérabilité car pour comprendre et pouvoir juger l'identité de quelqu'un, il faut appréhender ses difficultés, appétences, habitudes, et plus globalement son vécu composé de l'accumulation de ses sensations et actions marquantes.
 
 Après l'obtention de mon Baccalauréat scientifique en 2016, débarquant alors en DUT informatique, je n'avais programmé qu'en BASIC sur une calculatrice Texas Instrument. A cette époque je n'étais qu'un gamin ayant sauté la grande section et le cours primaire pour avoir su lire à 2 ans et demi grâce au logiciel éducatif Lapin malin, qui débarque donc à Clermont Ferrand du haut de ses de 17 ans, découvrant l'indépendance dans un 9m2 fibré du CROUS, dans lequel j'ai utilisé pendant 3 ans un réseau privé virtuel (VPN) pour contourner la limitation du réseau Renater, et pouvoir ainsi jouer à League Of Legends avec 5 millisecondes de latence.
 
@@ -2582,7 +2590,7 @@ Je terminerai avec une citation de jeu vidéo, Maitre Yi dans League Of Legends 
 
 ### Viralité
 
-
+### Rapport de force et ordres de grandeur
 
 ### Contexte et vérité
 
@@ -2590,7 +2598,7 @@ La vérité peut être absolue ou relative, l'absolue ne peut être approché qu
 
 Par exemple, la proposition "L'eau mouille" n'est vraie que relativement à l'état de l'eau liquide, cet état étant lui même absolu, il est lui même relatif à une certaine densité des molécules H2O le constituant, définie entre autre par la température qui n'est pas le seul facteur. On peut en effet reprendre même raisonnement et dire que "l'eau bout à 100•C", or cette affirmation ne sera vraie que sur la Terre, à une altitude de 0m au niveau de la mer, sous une pression d'environ 1000hPa.
 
-Cette récursion de vérité absolu-relative à une autre est la raison pour laquelle on utilise des axiomes pour admettre des informations comme vraie selon un contexte et des limite données, pour ainsi baser nos réflexions dessus, que ce soit en physique, comme en mathématique ou d'autres sciences. C'est également la raison pour laquelle l'humain à inventé la méthode des 5 Why, permettant généralement de retrouver la cause d'un problème en remontant jusqu'à 5 récursions de "Pourquoi ?".
+Cette récursion de vérité absolu-relative à une autre est la raison pour laquelle on utilise des axiomes pour admettre des informations comme vraie selon un contexte et des limite données, pour ainsi baser nos réflexions dessus, que ce soit en physique, comme en mathématique ou d'autres sciences. On déduit ainsi des démonstrations dont la syntaxe est composée de définitions, que ce soit de variables en informatique ou de conditions avec des "si et seulement si [...] alors" en mathématique. C'est également la raison pour laquelle l'humain à inventé la méthode des 5 Why, permettant généralement de retrouver la cause d'un problème en remontant jusqu'à 5 récursions de "Pourquoi ?".
 
 De plus, nous l'avons vu au chapitre décrivant Antiquité, l'art du dialogue qu'est la dialectique, nous montre qu'il est futile de vouloir avoir raison et exposer sa vérité relative comme absolue. La mauvaise foi est l’ennemie de l'amélioration personnelle. Seule la vérité absolue compte, lors d'un débat suivant les règles de cet l'art ce n'est pas dans le but de faire briller son savoir ou répandre sa version relative de la vérité que les deux acteurs conversent, mais au contraire de challenger leurs vérités relatives pour les améliorer voire invalider à l'aide des antithèses d'autrui.
 
@@ -2616,11 +2624,15 @@ En tant que président Politesse, Respect et Bienveillance seront les maîtres m
 
 
 
-### EditIDE ou "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?"
+
+
+[Retour](#Introduction)
+
+## EditIDE ou "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?"
 
 
 
-#### Pourquoi la programmation est-elle aussi peu démocratisée ?
+### Pourquoi la programmation est-elle aussi peu démocratisée ?
 
 Soyons franc, pas tout le monde n'a besoin de savoir coder. La meilleur qualité d'un codeur n'est d'ailleurs pas savoir coder, c'est sa capacité à proposer une solution logique à un problème de donnée.
 
@@ -2648,19 +2660,19 @@ Et un réel décalage entre offre et demande, nous observons des signaux forts c
 
 
 
-#### Pourquoi un outil censé résoudre un problème en cause parfois des bloquants ?
+### Pourquoi un outil censé résoudre un problème en cause parfois des bloquants ?
 
 Les outils no-code fleurissent ses dernières années, ils permettent certes la réalisation de produits plus rapidement qu'un partant d'un cadriciel et en le codant soi même. Cependant dès que l'on désire un rendu différant de ce qui est proposé par le service, cela provoque un blocage, nécessitant l'intervention d'un développeur et de code, les services le proposant sera alors considéré comme low-code et non no-code.
 
 
 
-#### De quoi est composé un système d'information ?
+### De quoi est composé un système d'information ?
 
 
 
 
 
-#### Comment faire un logiciel en tant que service ?
+### Comment faire un logiciel en tant que service ?
 
 Imaginons que vous vouliez réaliser un logiciel et qu'il soit accessible en ligne, en réalité il vous suffit d'une connexion internet de trois fichier, d'un logiciel de serveur, et enfin d'un nom de domaine pour y accéder sans avoir à mémoriser une adresse IP.
 
@@ -2668,23 +2680,23 @@ Ce que j'ai fait, tout le monde peut le faire, et comme l'humain ne comprends qu
 
 
 
-##### Site web
+#### Site web
 
 Pour un utilisateur avertit, la démarche peut ne prendre que quelques minutes, allez, petite démonstration :
 
 
 
-###### Etape 1 : Réaliser un site web
+##### Etape 1 : Réaliser un site web
 
 Il suffit pour cela de trois fichiers. Cette étape est donc logiquement séparée en trois étapes, qui correspondent aux 3 parties d'un site web, le contenu structuré, l'habillage, et la réaction que doit avoir le site aux entrées utilisateur. Pour l'exemple je vais réaliser un site très simple, un mot, centré au milieu de l'écran, qui change lorsque l'on clique dessus.
 
-###### Etape 2 : ouvrir les ports
+##### Etape 2 : ouvrir les ports
 
 Vous allez dans le panneau de configuration de votre box et vous ouvrez le port qui permettent d'emmétre un site web et d'écouter les requêtes des clients https avec le numéro 443 et http avec le numéro complémentaire 80. 
 
-![](D:\Textes\EditIDE\Histoire-et-Philosophie-de-la-Programmation\assets\freebox.png)
+![](.\assets\freebox.png)
 
-###### Etape 3 : mettre un serveur en service
+##### Etape 3 : mettre un serveur en service
 
 Télécharger NGINX,
 
@@ -2692,21 +2704,23 @@ Télécharger NGINX,
 
 
 
-###### Étape 4 : Configurer un nom de domaine (Facultative)
+##### Étape 4 : Configurer un nom de domaine (Facultative)
+
+
+
+#### Lancement du site au démarrage
+
+
+
+#### Bureau à distance
 
 
 
 
 
-##### Bureau à distance
+### Qu'elle est l'origine des bugs ?
 
-
-
-
-
-#### Qu'elle est l'origine des bugs ?
-
-#### Comment l'interface permet et conditionne l'accès aux fonctionnalités ?
+### Comment l'interface permet et conditionne l'accès aux fonctionnalités ?
 
 L'interface relie un élément graphique à une fonctionnalité, toute interaction de l'utilisateur doit lui indiquer ce qu'il peut faire par la suite.
 
