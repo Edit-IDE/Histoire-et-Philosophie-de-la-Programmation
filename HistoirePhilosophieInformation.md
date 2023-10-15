@@ -1169,9 +1169,9 @@ Il traitera également beaucoup la question du dogme, indiquant que l'athéisme 
 
 #### Binaire
 
-Le binaire est pratiqué depuis l'an -750 avec les hexagrammes chinois. Vers l'an **-200**, le poète et mathématicien indien Pingala qui rédigera *Chandahsastra*, étymologiquement "Code de la prosodie". Il y étudiera mathématiquement la construction des phrases des poèmes sanskrits, par combinaisons de syllabes longues ou brèves. Formulant ainsi le texte connu le plus ancien traitant des nombres binaires, et de la métrique ou versification poétique. Il aurait également découvert la suite de Fibonacci et le triangle de Pascal. Juan Lobkowitz né en 1606 est considéré comme le fondateur de la mathémathique binaire, mais le concept et ses opérations tel qu'on les utilise aujourd'hui, n'ont étés formalisées qu'en **1690** par Leibniz Wilhelm Gottfried. Grand polymathe allemand, il a popularisé ce système en démontrant sa facilité d'écriture et d'usage, notamment pour la division qui était à ce moment compliquée à automatiser, et il a projeté son utilisation future en émettant l'idée que des machines plus élaborées puissent en tirer pleinement profit. Ces travaux ont permis à d'autres chercheurs de déchiffrer les codes binaires utilisés par les hexagrammes en -750.
+Le binaire est pratiqué depuis l'an -750 avec les hexagrammes chinois. Vers l'an **-200**, le poète et mathématicien indien Pingala qui rédigera *Chandahsastra*, étymologiquement "Code de la prosodie". Il y étudiera mathématiquement la construction des phrases des poèmes sanskrits, par combinaisons de syllabes longues ou brèves. Formulant ainsi le texte connu le plus ancien traitant des nombres binaires, et de la métrique ou versification poétique. Il aurait également découvert la suite de Fibonacci et le triangle de Pascal. Il faudra attendre la 17 ème siècle pour que Juan Lobkowitz, né en 1606 soit considéré comme le fondateur de la mathémathique binaire, mais le concept et ses opérations tel qu'on les utilise aujourd'hui, n'ont étés formalisées qu'en **1690** par Leibniz Wilhelm Gottfried. Il a popularisé ce système en démontrant sa facilité d'écriture et d'usage, notamment pour la division qui était à ce moment compliquée à automatiser, et il a projeté son utilisation future en émettant l'idée que des machines plus élaborées puissent en tirer pleinement profit. Ces travaux ont permis à d'autres chercheurs de déchiffrer les codes binaires utilisés par les hexagrammes en -750.
 
-Leibniz était rationaliste, par définition il était opposé à l'empirisme, cette philosophie, qui est également celle de René Descartes et Baruch Spinoza
+À la manière de René Descartes et Baruch Spinoza, Leibniz était rationaliste, par définition s'opposait donc à l'empirisme. C'était également un grand polymathe allemand qui traitera de beaucoup de sujets comme la Géologie, Biologie, Médecine, Physique, Philosophie, Logique et les Mathématiques. Son invention la plus notable lié à l'information le cylindre cannelé, élément mécanique strié avec des barres longitudinales de plus en plus grandes, plus il est enfoncé, plus il y'a de barres qui s'enclencheront dans la roue qui y est juxtaposée, servant ainsi de mémoire pour stocker un nombre qui servira de multiplicateur.
 
 
 
@@ -1243,193 +1243,41 @@ C'est la période actuelle, le début est défini par la révolution industriell
 
 
 
-#### Almanach nautique
 
-Depuis **1766**, cette bible du marin est éditée chaque année, c'est le premier projet de table permanent.
 
-Avant d'être automatisée, elle était calculée par deux personnes différentes et validée par un dernier qui comparait les résultats.
+#### Philosophie contemporaine
 
-Lorsque deux des auteurs principaux, les astronomes Malachy Hitchins et Nevil Maskelyne meurent respectivement en 1809 et 1811, l'ouvrage sombre pendant 20 ans, croulant sous les erreurs. 
+Georg Wilhelm Friedrich Hegel, né en **1770**, dialectique du maître et de l'esclave. Travailler pour un maître fait acquérir de plus  en plus de compétences à l’esclave, et le maître à force de se faire servir perd de ses compétence, l’esclave à alors l'opportunité de devenir maître à son tour voire effectuer une inversion de contrôle. Le travail serait donc un facteur d'émancipation et de libération, et un vrai maître doit continuer d'apprendre et ne pas se reposer sur ses sous-fifres, en plus de faire preuve d'une reconnaissance sincère nécessaire à la sanité de leur relation.
 
+Carl Friedrich Gauss, Né en **1777**
 
+Friedrich Fröbel, né le 21 avril **1782**
 
-#### Georg Wilhelm Friedrich Hegel
 
-Né en **1770**, dialectique du maître et de l'esclave. Travailler pour un maître fait acquérir de plus  en plus de compétences à l’esclave, et le maître à force de se faire servir perd de ses compétence, l’esclave à alors l'opportunité de devenir maître à son tour voire effectuer une inversion de contrôle. Le travail serait donc un facteur d'émancipation et de libération, et un vrai maître doit continuer d'apprendre et ne pas se reposer sur ses sous-fifres, en plus de faire preuve d'une reconnaissance sincère nécessaire à la sanité de leur relation.
 
 
 
-#### Carl Friedrich Gauss
+#### Améliorations des calculateurs
 
-Né en **1777**
+Depuis **1766**, Almanach nautique est éditée chaque année, cette bible du marin est le premier projet de table permanent. Avant d'être automatisée, elle était calculée par deux personnes différentes et validée par un dernier qui comparait les résultats. Lorsque deux des auteurs principaux, les astronomes Malachy Hitchins et Nevil Maskelyne meurent respectivement en 1809 et 1811, l'ouvrage sombre pendant 20 ans, croulant sous les erreurs. 
 
- 
+L'arithmomètre développée par Thomas de Colmar en **1820**, sera la première machine à addition commercialisée. Elle n'a cependant jamais été produite en grande quantité car elle était réalisé à la main à raison d'un ou deux exemplaires par mois. De plus, le procédé de calcul était très lent, la plupart des utilisateur ni voyait pas de gain de temps lors de petit calculs, rendant son utilisation quasiment exclusive aux assurances et ingénieurs, qui utilisent des calculs mettant en œuvre des grand nombres supérieur au million. Malgré son bas coût de 150$, la demande pour ce produit resta donc faible.
 
-#### Friedrich Fröbel
+La première personne à avoir automatiser l'édition de tables de calcul est Charles Babbage, qui a initialement travaillé avec des calculateurs humains, "computers"  en anglais. La conception de telles tables étaient fastidieuses à superviser et encore plus à calculer et réaliser. Il a œuvré à développer une machine basée sur les méthodes de calcul de l'époque, réalisées par des gens qui étaient coiffeurs, ayant perdu leur travail suite à la révolution française, période après laquelle la coiffure étant vue comme symbole de l'aristocratie, à été délaissé. Ils effectuaient essentiellement des additions et des soustraction, sous la supervision de mathématiciens qui leurs prépareraient les formules d'après la méthode des différences finies. D'où le nom de la machine qu'il a inventé en **1834**, la machine a différences. Ayant l'expérience du milieu, il voulait réaliser un système fiable, résilient a l'erreur. Cette dernière pouvait provenir du calcul, mais arrivant le plus souvent lors de l'impression, il à donc fait en sorte, dès la phase de design, que sa machine prépare directement le texte en résultant pour l'impression. C'est une approche très intéressante réduisant les intermédiaires et automatisant toute la chaine de création, que je reprendrais plus tard. La machine est à ce moment déjà un outil qui peut guider et réduire les erreurs, ce qui à l'époque était crucial, notamment en mer ou une erreur de calcul ou d'impression sur l'almanach du navigateur pouvait mener a la perte de tout un navire et de son équipage. De 1820 à 1830 il à visiter beaucoup d'usines en Europe dans le but de trouver des idée pour sa machine à différences, il n'en trouva pas beaucoup mais cela lui a permis de devenir un économiste des machines industrielles à son époque. A peine eu t'il conçu la machine à différence, qu'il eu oublier la finalité de base : réaliser des tables de calcul, et embrassa l'idée d'une machine capable de calculer tout ce qu'un humain pourrait lui demander, la Machine Analytique. De son vivant, seul le concept existait, elle ne vu le jour que grâce à son fils, qui après une tentative infructueuse en 1888, revint à la charge et réalisa en 1906 une machine fonctionnelle qu'il eu présenté devant l'académie royale anglaise d'astronomie, après quoi il en fit don au musée des sciences de Londres en 1910.
 
-Né le 21 avril **1782**
-
-
-
-#### Dactylographie
-
-Son étymologie grecque signifie écrire avec les doigts, (**1800**)
-
-
-
-#### Arithmomètre
-
- C'est la première machine à addition commercialisée, elle fût développée par Thomas de Colmar en **1820**. Cependant elle n'a jamais été produite en grande quantité car elle était réalisé à la main à raison d'un ou deux exemplaires par mois. De plus, le procédé de calcul était très lent, la plupart des utilisateur ni voyait pas de gain de temps lors de petit calculs, rendant son utilisation quasiment exclusive aux assurances et ingénieurs, qui utilisent des calculs mettant en œuvre des grand nombres supérieur au million.
-
-Malgré son bas coût de 150$, la demande pour ce produit resta donc faible.
-
-
-
-#### Sténographie
-
-La sténotype a été inventée en 1827, par Benoît Gonod, professeur de rhétorique et bibliothécaire Clermontois.
-
-
-
-#### Machine à différence et analytique
-
-La première personne à avoir automatiser l'édition de tables de calcul est Charles Babbage, qui a initialement travaillé avec des calculateurs humains, "computers"  en anglais. La conception de telles tables étaient fastidieuses à superviser et encore plus à calculer et réaliser. Il a œuvré à développer une machine basée sur les méthodes de calcul de l'époque, réalisées par des gens qui étaient coiffeurs, ayant perdu leur travail suite à la révolution française, période après laquelle la coiffure étant vue comme symbole de l'aristocratie, à été délaissé.
-
-Ils effectuaient essentiellement des additions et des soustraction, sous la supervision de mathématiciens qui leurs prépareraient les formules d'après la méthode des différences finies. D'où le nom de la machine qu'il a inventé en **1834**, la machine a différences. Ayant l'expérience du milieu, il voulait réaliser un système fiable, résilient a l'erreur. Cette dernière pouvait provenir du calcul, mais arrivant le plus souvent lors de l'impression, il à donc fait en sorte, dès la phase de design, que sa machine prépare directement le texte en résultant pour l'impression.
-
-C'est une approche très intéressante réduisant les intermédiaires et automatisant toute la chaine de création, que je reprendrais plus tard. La machine est à ce moment déjà un outil qui peut guider et réduire les erreurs, ce qui à l'époque était crucial, notamment en mer ou une erreur de calcul ou d'impression sur l'almanach du navigateur pouvait mener a la perte de tout un navire et de son équipage. 
-
-De 1820 à 1830 il à visiter beaucoup d'usines en Europe dans le but de trouver des idée pour sa machine à différences, il n'en trouva pas beaucoup mais cela lui a permis de devenir un économiste des machines industrielles à son époque.
-
-A peine eu t'il conçu la machine à différence, qu'il eu oublier la finalité de base : réaliser des tables de calcul, et embrassa l'idée d'une machine capable de calculer tout ce qu'un humain pourrait lui demander, la Machine Analytique.
-
-De son vivant, seul le concept existait, elle ne vu le jour que grâce à son fils, qui après une tentative infructueuse en 1888, revint à la charge et réalisa en 1906 une machine fonctionnelle qu'il eu présenté devant l'académie royale anglaise d'astronomie, après quoi il en fit don au musée des sciences de Londres en 1910.
-
-
-
-#### Arithmaurel
-
-Créée en **1842** par Timoleon Maurel, avec Arithmomètre et le cylindre de Leibneiz pour inspiration, cette machine à calculer permettait en renseignant simplement les valeurs (opérandes) et les opérateurs. C'est une grande avancée en termes d'expérience utilisateur, cependant sa conception à grande échelle n'as pas été possible à cause des limitations techniques de l'époques. La division quand à elle reste fastidieuse et demande à l'utilisateur d'effectuer un ensemble de soustraction avec beaucoup d'attention.
-
-
-
-#### Programmation
-
-Un programme est une prévision écrite, c'est l'ordre du jour, c'est ce qui permet de répondre a la question quoi faire quand ? 
-
-Le tout premier programme informatique à été imaginé par Ada Lovelace en **1842**, à 27 ans. 10 ans auparavant, elle rencontre Charles Babbage, avec qui elle travailla, notamment sur la machine analytique, pour laquelle elle conçu ce dit programme.
-
-
-
-#### Algèbre booléen
-
-En **1847** George Boole, invente un algèbre binaire éponyme. Basé sur vrai et faux, 1 et 0, il formule et démocratise les tables de vérités des différantes portes et fonctions logiques.
-
-
-
-#### John Dewey[^pedagogue]
-
-Né le 20 octobre **1859**
-
-
-
-#### Maria Montessori[^pedagogue]
-
-Née le 31 août **1870**
-
-
-
-#### Remington
-
-Henry Mill en 1714 breveta la machine à écrire.
-
-1829, William Austin Burt créé The Typographer
-
-En 1857, Samuel Ward Francis crée une machine à écrire 
-
-Crée en 1816, Remington Arms ou E.Remington and Sons, qui comme son nom l'indique fabriquait initialement des armes à feu, puis du matériel agricole et des machines à coudre, créa en **1874** la "type-writter" Remington
-
-La Remington de 1874 nous à apporter les claviers QWERTYUIOP, et la suite alphabétique présente sur beaucoup de claviers, FGHJKL.
-
-
-
-#### Diode
-
-Le principe du semiconducteur à été découvert par Karl Ferdinand Braun en **1874** qui s'est rendu compte que l'on pouvait faire passer un courant électrique dans une direction donnée, à l'aide d'un fin fil de métal et d'un crystal de galène. Cette découverte sera réutilisée plus tard dans les tubes à vides, permettant d'avoir des bascules allumée / éteinte avec un signal directionnel.
-
-
-
-#### Téléphone
-
-En **1876** Alexander Graham Bell, réalise le premier appel téléphonique.
-
-
-
-#### Edison
-
-En **1879** il récupère le brevet pour la lampe à filament, qu'il n'a pas inventé mais démocratisée et améliorée, devenant le pionnier dans les lampes électriques. Il était donc essentiellement un homme d'affaire, il est considéré comme l'inventeur le plus prolifique, il est également à l'origine des premiers bureaux de recherches industriels, ainsi que les films vidéos.
-
-
-
-#### Albert Einstein
-
-Né en **1879**
-
-
-
-#### Adolphe Ferrière[^pedagogue]
-
-Né le 30 août **1879** 
-
-
-
-#### NCR
-
-La Nationnal Cash Register à été créée en **1884**
-
-
-
-#### Kodak
-
-Kodak a inventé le premier appareil photo en 1884
-
-
-
-#### Burroughs Corporation
-
-Créée en **1886**, devint Unisys après sa fusion en 1986 avec Sperry Univac, anciennement Remington.
-
-
-
-#### Comptomètre
+L'Arithmaurel, créé en **1842** par Timoleon Maurel, avec Arithmomètre et le cylindre de Leibneiz pour inspiration, sera une machine à calculer utilisable en renseignant simplement les valeurs (opérandes) et les opérateurs. C'est une grande avancée en termes d'expérience utilisateur, cependant sa conception à grande échelle n'as pas été possible à cause des limitations techniques de l'époques. La division quand à elle reste fastidieuse et demande à l'utilisateur d'effectuer un ensemble de soustraction avec beaucoup d'attention.
 
 Inventé aux États-Unis par Dorr E. Felt en **1887**, le comptomètre reprend l'idée du clavier à touche de l'arithmomètre. Le principe de l'addition reste aussi simple que celui de la Pascaline. Par contre, la soustraction est différente et procède par addition du complément à 9 qui est inscrit en minuscule sur chaque touche du clavier.
-
-
-
-#### Nikola Tesla
-
-Nikola Tesla a inventé le moteur et l'alimentation en courant alternatif respectivement en 1888 et 1895
-
-
-
-#### Calculatrices à crosses 
 
 En **1889**, le mécanisme des calculatrices à crosse est breveté par le Français Louis Troncet, sous le nom d'Arithmographe
 
 
 
-#### Oscilloscope
+#### Genèse de la programmation
 
-En **1893**, André Blondel, ingénieur français polytechnique invente l'oscillographe bifilaire, une machine électromécanique permettant d'étudier des courants alternatifs à l'aide de graphiques, et maintenant plus largement toute évolution d'un signal électronique dans le temps.
+Un programme est une prévision écrite, c'est l'ordre du jour, c'est ce qui permet de répondre a la question quoi faire quand ?  Le tout premier programme informatique à été imaginé par Ada Lovelace en **1842**, à 27 ans. 10 ans auparavant, elle rencontre Charles Babbage, avec qui elle travailla, notamment sur la machine analytique, pour laquelle elle conçu ce dit programme.
 
-Il inventera de nombreux autres dispositifs de mesures électriques comme un hystérésimètre et un wattmètre, il est également à l'origine avec l'aide de deux autres ingénieurs du barrage de Génissiat. Par la suite, l'outil se perfectionnera avec l'ajout d'un écran cathodique, puis sa numérisation par LeCroy, Phillips et Tektronix
-
-
-
-
-
-#### Mécanographie
+En **1847** George Boole, invente un algèbre binaire éponyme. Basé sur vrai et faux, 1 et 0, l'algèbre booléen formule et démocratise les tables de vérités des différentes portes et fonctions logiques.
 
 Hermann Hollerith est l'inventeur de la mécanographie, c'est un ingénieur américain qui a été recruté en tant que statisticien au Bureau de recensement des États Unis.
 
@@ -1443,38 +1291,69 @@ Enfin, il finit par quitter l'administration et fonde la Tabulating Machine Comp
 
 
 
-#### Célestion Freinet[^pedagogue]
+#### Premières machines de saisie
 
-Né le 15 octobre **1896**
+Dactylographie, son étymologie grecque signifie écrire avec les doigts, (**1800**)
+
+La sténotype a été inventée en 1827, par Benoît Gonod, professeur de rhétorique et bibliothécaire Clermontois. Sténographie 
+
+Henry Mill en 1714 breveta la machine à écrire.
+
+1829, William Austin Burt créé The Typographer
+
+En 1857, Samuel Ward Francis crée une machine à écrire 
+
+Crée en 1816, Remington Arms ou E.Remington and Sons, qui comme son nom l'indique fabriquait initialement des armes à feu, puis du matériel agricole et des machines à coudre, créa en **1874** la "type-writter" Remington
+
+La Remington de 1874 nous à apporter les claviers QWERTYUIOP, et la suite alphabétique présente sur beaucoup de claviers, FGHJKL.
+
+En **1876** Alexander Graham Bell, réalise le premier appel téléphonique. inventant le téléphone
+
+Kodak a inventé le premier appareil photo en 1884
 
 
 
-#### Tube a vide
+
+
+#### Pedagogie contemporaire
+
+John Dewey Né le 20 octobre **1859**. Maria Montessori née le 31 août **1870**. Adolphe Ferrière Né le 30 août **1879**. Célestion Freinet, Né le 15 octobre **1896**.
+
+
+
+#### Inventions éléctroniques
+
+En **1879** Edison récupère le brevet pour la lampe à filament, qu'il n'a pas inventé mais démocratisée et améliorée, devenant le pionnier dans les lampes électriques. Il était donc essentiellement un homme d'affaire, il est considéré comme l'inventeur le plus prolifique, il est également à l'origine des premiers bureaux de recherches industriels, ainsi que les films vidéos.
+
+Nikola Tesla a inventé le moteur et l'alimentation en courant alternatif respectivement en 1888 et 1895
+
+Albert Einstein Né en **1879** 
+
+En **1893**, André Blondel, ingénieur français polytechnique invente l'oscillographe bifilaire, une machine électromécanique permettant d'étudier des courants alternatifs à l'aide de graphiques, et maintenant plus largement toute évolution d'un signal électronique dans le temps.
+
+Il inventera de nombreux autres dispositifs de mesures électriques comme un hystérésimètre et un wattmètre, il est également à l'origine avec l'aide de deux autres ingénieurs du barrage de Génissiat. Par la suite, l'outil se perfectionnera avec l'ajout d'un écran cathodique, puis sa numérisation par LeCroy, Phillips et Tektronix
 
 En **1904** John Ambrose Fleming, se base sur des travaux de Thomas Edison de 1883 et de Frederick Guthrie en 1873, mais c'est lui qui à appliqué cette technologie pour remplacer les détecteurs magnétique des radio et permettre d'amplifier leurs signaux.
 
-
-
-#### Séparation de l'État et de l'Église
-
-En 9 décembre **1905**, l'abrogation du régime concordataire de 1802 met fin à l'affrontement violent qui a opposé deux conceptions de la place des Églises dans la société française pendant environ vingt-cinq ans.
-
-
-
-#### Triode
-
-Lee De Forest invente l'Audion en **1906** avec l'ajout d'une électrode intermédiaire, permettant de convertir une variation de courant en variation de tension et de puissance, permettant ainsi l'amplification d'un signal. William Eccles renommera cette invention triode en 1919.
-
-Tout deux ont contribuer pour beaucoup dans le développement des circuits électroniques et de la transmission sans fil avec la naissance de la radio.
-
-
-#### Tube cathodique
+Le principe du semiconducteur à été découvert par Karl Ferdinand Braun en 1874 qui s'est rendu compte que l'on pouvait faire passer un courant électrique dans une direction donnée, à l'aide d'un fin fil de métal et d'un crystal de galène, inventant ainsi la diode. Cette découverte sera réutilisée plus tard dans les tubes à vides, permettant d'avoir des bascules allumée / éteinte avec un signal directionnel. Par la suite Lee De Forest inventera l'Audion en **1906** avec l'ajout d'une électrode intermédiaire ç une diode, permettant de convertir une variation de courant en variation de tension et de puissance, permettant ainsi l'amplification d'un signal. William Eccles renommera cette invention triode en 1919. Tout deux ont contribuer pour beaucoup dans le développement des circuits électroniques et de la transmission sans fil avec la naissance de la radio.
 
 Boris Rosing est un scientifique russe d'origines néerlandaises ayant inventer les tubes cathodiques en **1907**, avec l'aide des travaux de Ferdinand Braun. Il à par la suite déposer des brevets et démontrer le principe de fonctionnement en détail à l'aide de schémas expliquant l'hystérésis magnétique.
 
-Ces tubes ont longtemps fait partis de nos écrans de télévisions qui affichaient une image à l'aide d'une cellule photoélectrique, dont le faisceau était dévié augmentant ou diminuant le nombre d'électrons qui passait et faisant ainsi varier la luminosité du faisceau avant qu'il atteigne l'écran projetant une image en noir et blanc.
+Les tubes cathodiques ont longtemps fait partis de nos écrans de télévisions qui affichaient une image à l'aide d'une cellule photoélectrique, dont le faisceau était dévié augmentant ou diminuant le nombre d'électrons qui passait et faisant ainsi varier la luminosité du faisceau avant qu'il atteigne l'écran projetant une image en noir et blanc.
 
 Ces travaux ont par la suite étés démocratisés par un de ses élèves et assistant de travail nommé Vladimir Zvorykine, qui à inventer l'iconoscope permettant de capter les images qui seront retransmises sur ces écrans et qui devint rapidement pionnier de la télévision aux États-Unis et en Allemagne, bien que rapidement concurrencé par Philo Farnsworth qui fut le premier à réaliser une chaîne de télévision avec émission-réception.
+
+
+
+#### NCR
+
+La Nationnal Cash Register à été créée en **1884**
+
+
+
+#### Burroughs Corporation
+
+Créée en **1886**, devint Unisys après sa fusion en 1986 avec Sperry Univac, anciennement Remington.
 
 
 
@@ -1489,6 +1368,12 @@ Né en 1908
 [Retour](#Sommaire)
 
 ### Après la première guerre mondiale
+
+
+
+En 9 décembre **1905**, l'abrogation du régime concordataire de 1802 sépare l'État et l'Église, mettant fin à l'affrontement violent qui a opposé deux conceptions de la place des Églises dans la société française pendant environ vingt-cinq ans.
+
+
 
 C'est la première guerre à impliquer simultanément tout les pays, les machines de bureau deviennent électromécaniques, l'humain peut désormais rapidement transmettre des messages sur de longues distances à ses congénères à l'aide des télégraphes
 
@@ -2419,6 +2304,12 @@ Il est intéressant d'abaisser son raisonnement en utilisant une métaphore pour
 De nos jours j'ai souvent entendu parler de philosophie d'entreprise. L'entreprise étant une entité morale, elle se compose d'un groupe de personnes physiques réunies pour accomplir quelque chose en commun. Ce groupe peut aussi réunir des personnes physiques et des personnes morales. Cela corresponds à une secte, qui est un terme connoté négativement mais qui, comme beaucoup de mots, est poly-sémantique, il possède plusieurs définitions, celle que l'on retient généralement n'est pas celle de la secte mais de la dérive sectaire. En effet, d'un point de vue étymologique, le mot secte provient du latin "secta", signifiant "voie que l'on suit, parti, cause, doctrine". Or quand je travaille en groupe avec d'autres personnes, je le fait de pair avec mes collègues, suivant ensemble une même voie, pendant une période définie de travail, comme tout salarié qui vends a son employeur.
 
 En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une même cause, est comme internet, la rue ou tout autre environnement dans lequel nous évoluons, c'est une indifférence, ce n'est ni bien, ni mal, cela ne dépends de ce que l'on en fait et à qu'elles fins. Nous devons tous un jour faire face au fait que nous sommes influencés et conditionnés par notre environnement et notre histoire, nos habitudes, et les groupes d'humains dans lesquels nous avons évolués. Le réel problèmes sont les dérives, notamment le fait de vénérer une autorité austère qu'on ne peut discuter, mais aussi tout les heurts qui nous sont propres. Pour le reste, la vie bats son plein et continue de parcourir le temps en faisant ce qu'elle a à faire, vivre. En réalisant EditIDE, je ne sais pas comment cet outil va être utilisé, mais je sais désormais que je veut créer des indifférences, et aller du global vers le particulier.
+
+
+
+### Dieu
+
+Je suis agnostique, je pense cependant que l'entité qui à créé l'univers et celle qui pourrait être omnisciente ne sont pas forcement la même entité.  
 
 ### Communication
 
