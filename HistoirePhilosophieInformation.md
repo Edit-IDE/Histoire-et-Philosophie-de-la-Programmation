@@ -1230,12 +1230,6 @@ Crée en 1816, Remington Arms ou E.Remington and Sons, qui comme son nom l'indiq
 
 La Remington de 1874 nous à apporter les claviers QWERTYUIOP, et la suite alphabétique présente sur beaucoup de claviers, FGHJKL.
 
-En **1876** Alexander Graham Bell, réalise le premier appel téléphonique. inventant le téléphone
-
-Kodak a inventé le premier appareil photo en 1884
-
-
-
 
 
 #### Pedagogie contemporaire
@@ -1246,11 +1240,17 @@ John Dewey Né le 20 octobre **1859**. Maria Montessori née le 31 août **1870*
 
 #### Inventions éléctroniques
 
+En **1876** Alexander Graham Bell, réalise le premier appel téléphonique. inventant le téléphone
+
 En **1879** Edison récupère le brevet pour la lampe à filament, qu'il n'a pas inventé mais démocratisée et améliorée, devenant le pionnier dans les lampes électriques. Il était donc essentiellement un homme d'affaire, il est considéré comme l'inventeur le plus prolifique, il est également à l'origine des premiers bureaux de recherches industriels, ainsi que les films vidéos.
 
 Nikola Tesla a inventé le moteur et l'alimentation en courant alternatif respectivement en 1888 et 1895
 
 Albert Einstein Né en **1879** 
+
+Louis Lumière invente les plaques photographiques sèches instantanées prêtes à l'emploi aussi appellées Étiquettes bleues en 1881. Georges Eastman Kodak a inventera le premier appareil photo en 1884. S'en suivra En 1895, Georges Demenÿ invente une caméra de prise de vues animées nommée biographe. Le Kinétographe d'Edison en 1890, et en 1895 Cinématographe des frères lumières avec l'aide de Jules Carpentier.
+
+https://www.victorian-cinema.net/machines
 
 En **1893**, André Blondel, ingénieur français polytechnique invente l'oscillographe bifilaire, une machine électromécanique permettant d'étudier des courants alternatifs à l'aide de graphiques, et maintenant plus largement toute évolution d'un signal électronique dans le temps.
 
@@ -1940,7 +1940,7 @@ L'antithèse, revient à justifier que le stimuli étant identique, il est tout 
 
 #### World Wide Web
 
-(**1990** Tim Berners Lee) web semantique Rose Dieng Kuntz
+https://fr.wikipedia.org/wiki/ENQUIRE (**1990** Tim Berners Lee) web semantique Rose Dieng Kuntz
 
 Ward Cunningam créa le wiki en 1995, il fut un développeur Smalltalk
 
