@@ -558,7 +558,7 @@ La transmission d'information s'est fiabilisée au fil des époques, avec l'usag
 
 De nos jours, nous interagissons quotidiennement avec des ordinateurs, que ce soit à l'aide de la programmation, ou des interfaces hommes-machines qui en sont issues. Pourtant, la grande majorité des utilisateurs, et même des personnes travaillant dans le domaine des Technologies de l'Information et de la Communication, ne connaissent pas la plupart des événements majeurs de son histoire.
 
-Moi même n'ayant pas cette connaissance lorsque j'ai entrepris la rédaction de ce mémoire, j'ai décidé de me documenter et de rédiger un format accessible, avec ce qui m'a semblé être nécessaire pour comprendre le sujet, et ainsi vous le partager à vous, lecteurs de cet ouvrage.
+Moi même n'ayant pas cette connaissance lorsque j'ai entrepris la rédaction de ce mémoire, j'ai décidé de me documenter et de rédiger un format accessible, avec ce qui m'a semblé être nécessaire pour comprendre le sujet, et ainsi le partager à vous, lecteurs de cet ouvrage.
 
 Pour la rédaction de ce dernier, j'ai acquis 4 livres : 
 
@@ -610,7 +610,7 @@ La première manière pour un être vivant de marquer l'histoire est universelle
 
 La deuxième est l’art de sculpter des outils, actuellement estimé 3 millions d’années avant notre ère.  
 
-La troisième est la peinture, dont les plus anciennes preuves sont rupestres, et âgées de 65 millénaires.
+La troisième est le dessin au travers de la peinture ou de la gravure, dont les plus anciennes preuves sont rupestres, et âgées de 65 millénaires.
 
 Relativement aux dates précédentes, l’écriture ne vient que récemment, elle a été attestée en Mésopotamie il y a 5 millénaires. Pourtant, c'est elle qui nous permettra à nous, humains, d'écrire notre Histoire, de transmettre des volumes d'informations variées, véridiques comme les faits ou de qualité comme des idées. Écrire permet de faire naître une information et potentiellement de la rendre éternelle. Les paroles s’envolent les écrits restent, c'est pourquoi la littérature est importante.
 
@@ -627,25 +627,13 @@ Avant même la naissance de l'écriture qui marque la fin de la préhistoire, le
 
 #### Abaques
 
-Un abaque est un instrument facilitant le calcul. C'est un outil mnémonique utilisant la numération et permettant d'enregistrer un nombre pour se libérer de la mémoire.
+Un abaque est un instrument facilitant le calcul. C'est un outil mnémonique utilisant la numération et permettant d'enregistrer un nombre pour se libérer de la mémoire. Son étymologie est un mélange de grec et d'hébreu, elle explique bien sa représentation et son usage. La poussière (de l'hébreu abaq), et la tablette (du grec akos), servaient de support pour l'écrit. Même sans dépôt de poussière naturelle, il est possible de volontairement recouvrir une tablette, et ainsi réécrire à volonté avec du sable, ou toute autre poudres.
 
-Son étymologie est un mélange de grec et d'hébreu, elle explique bien sa représentation et son usage. La poussière (de l'hébreu abaq), et la tablette (du grec akos), servaient de support pour l'écrit. Même sans dépôt de poussière naturelle, il est possible de volontairement recouvrir une tablette, et ainsi réécrire à volonté avec du sable, ou toute autre poudres. 
+À la préhistoire, ce mot n'existait pas, les humain n'avait pas encore de tablettes, de nombres ni de textes leurs permettant de représenter une quantité. Le plus vieux système de quantification connu est le bâton de comptage, daté à **-40000**. C'est un système unaire, il permet de quantifier des unités, représentées par la répétition d'un symbole, généralement un trait, aussi appelé marque de dénombrement. Le plus ancien est l'Os de Lebombo. L'ensemble d'Os d'Ishango est cependant plus connu. Il serait hypothétiquement une des premières preuves de connaissance humaine des mathématiques et de l'arithmétique. Sur un des os, les 4 nombres premiers entre 10 et 20 sont présent, soit 11, 13, 17, et 19 ; un autre semble démontrer les additions et les multiplication, notamment la duplication, avec la juxtaposition des nombres 3 et 6 puis 4 et 8.
 
+Cette méthode unaire est longtemps restée, à l'époque, un berger pouvait s'assurer que l'intégralité de son troupeau était rentré en comparant deux comptages, à l'aide de cailloux par exemple, chacun représentant une bête. De nos jours elle à été mécanisée pour approximer par groupes de dix les manifestants a l'aide de compteurs manuels.
 
-
-À la préhistoire, ce mot n'existait pas, les humain n'avait pas encore de tablettes, de nombres ni de textes leurs permettant de représenter une quantité. Le plus vieux système de quantification connu est le bâton de comptage, daté à **-40000**. C'est un système unaire, il permet de quantifier des unités, représentées par la répétition d'un symbole, généralement un trait, aussi appelé marque de dénombrement. Le plus ancien est l'Os de Lebombo.
-
-L'ensemble d'Os d'Ishango est cependant plus connu. Il serait hypothétiquement une des premières preuves de connaissance humaine des mathématiques et de l'arithmétique. Sur un des os, les 4 nombres premiers entre 10 et 20 sont présent, soit 11, 13, 17, et 19 ; un autre semble démontrer les additions et les multiplication, notamment la duplication, avec la juxtaposition des nombres 3 et 6 puis 4 et 8.
-
-Cette méthode est longtemps restée, à l'époque, un berger pouvait s'assurer que l'intégralité de son troupeau était rentré en comparant deux comptages, à l'aide de cailloux par exemple, chacun représentant une bête. 
-
-De nos jours elle à été mécanisée pour approximer par groupes de dix les manifestants a l'aide de compteurs manuels.
-
-
-
-J'ai également eu l'opportunité de visiter la grotte de Thaïs, où a été retrouvé un os de quelques centimètres aux multiples gravures. Daté en **-12 500**, il a été nommé Os coché.
-
-En 1991, l’archéologue américain Alexander Marschack, démontra qu’il ne s’agit pas comme les historiens le pensait alors, d’une représentation décorative, mais d’un système d’enregistrement du temps, possiblement un calendrier basé sur des observations astronomiques. Cette hypothèse est actuellement, en 2024, le sujet d'une étude européenne menée par un groupe de chercheur à l'université de Bordeaux.
+J'ai également eu l'opportunité de visiter la grotte de Thaïs, où a été retrouvé un os de quelques centimètres aux multiples gravures. Daté en **-12 500**, il a été nommé Os coché. En 1991, l’archéologue américain Alexander Marschack, démontra qu’il ne s’agit pas comme les historiens le pensait alors, d’une représentation décorative, mais d’un système d’enregistrement du temps, possiblement un calendrier basé sur des observations astronomiques. Cette hypothèse est actuellement, en 2024, le sujet d'une étude européenne menée par un groupe de chercheur à l'université de Bordeaux.
 
 L'homme préhistorique avait donc sûrement déjà des systèmes de comptage des unités et du temps, bien qu'il ne nous en reste que peu de traces, ne permettant donc pas d'affirmer cela avec certitude.
 
@@ -653,17 +641,7 @@ L'homme préhistorique avait donc sûrement déjà des systèmes de comptage des
 
 #### Premières villes et sociétés
 
-Jusqu'alors, l'humain était un chasseur-cueilleur nomade, et contrairement à ce que l'on pourrait croire, il aurait rarement été hostile à ses congénères lorsqu'il les croise, ayant déjà bien assez de problèmes avec la nature.
-
-La sédentarisation prends place en **-9000**, l'agriculture apparaît à la même période, au Proche et Moyen Orient actuel, dans le *croisant fertile*, avec par conséquent un besoin de stockage grandissant, auquel répondra la démocratisation de la vannerie, du tissage et surtout de la poterie, alors que la terre cuite était utilisée principalement pour des figurines décoratives.
-
-Fleurirons alors villes et cités comme Urkesh, Ninive, ou Assur ; capitale Assyrienne, et Guzana capitale du royaume autagoniste Araméen, à partir de **-7000**. Suivis par Uruk et Lagash vers **-5000**, puis Ur vers **-4000**.
-
-Les premières civilisation apparaîtrons plus tard comme celle de Sumer vers **-3500**, ou celle de la vallée de l'Indus (à qui l'humanité doit entre autre les égouts) vers **-2600**, bien que son développement ai commencé à l'apparition des premières villes et cités.
-
-L'arrivé du stockage de biens a causé l’apparition des premiers conflits d'envergure. Avant cela, les humains avait une densité de population trop faible pour que cela n'arrive, le rapport gain / perte n'en valant que rarement le coût.
-
-L'humanité à donc du, suite à la sédentarisation, trouver des moyen de réguler son jeu de la vie humaine, et trouver des systèmes composés de règles, permettant de conserver l'ordre et éviter la discorde.
+Jusqu'alors, l'humain était un chasseur-cueilleur nomade, et contrairement à ce que l'on pourrait croire, il aurait rarement été hostile à ses congénères lorsqu'il les croise, ayant déjà bien assez de problèmes avec la nature. La sédentarisation prends place en **-9000**, l'agriculture apparaît à la même période, au Proche et Moyen Orient actuel, dans le *croisant fertile*, avec par conséquent un besoin de stockage grandissant, auquel répondra la démocratisation de la vannerie, du tissage et surtout de la poterie, alors que la terre cuite était principalement utilisée pour des figurines décoratives. À partir de **-7000** fleurirons alors villes et cités comme Urkesh, Ninive, ou Assur ; capitale Assyrienne, et Guzana capitale du royaume autagoniste Araméen. Suivis par Uruk et Lagash vers **-5000**, puis Ur vers **-4000**. Les premières civilisation apparaîtrons plus tard comme celle de Sumer vers **-3500**, ou celle de la vallée de l'Indus (à qui l'humanité doit entre autre les égouts) vers **-2600**, bien que son développement ai commencé à l'apparition des premières villes et cités. L'arrivé du stockage de biens a causé l’apparition des premiers conflits d'envergure. Avant cela, les humains avait une densité de population trop faible pour que cela n'arrive, le rapport gain / perte n'en valant que rarement le coût. L'humanité à donc du, suite à la sédentarisation, trouver des moyen de réguler son jeu de la vie humaine, et trouver des systèmes composés de règles, permettant de conserver l'ordre et éviter la discorde.
 
 
 
@@ -1445,10 +1423,6 @@ Beaucoup d'ordinateurs ont été réalisés en **1945** dont l'EDVAC l'ENIAC, le
 
 Cette architecture à permis à permis au stockage de posséder les instructions du programme et la donnée à traiter sur le même support, permettant également aux instructions du programme d'être également traités comme de la donnée, et donc de pouvoir être lu et réécrite.
 
-
-
-
-
 La mort de leur investisseur principal lors d'un trajet en avion les poussera à revendre leur entreprise à Remington par la suite.
 
 Remington Racheté par Sperry Corporation qui deviendra Unisys après fusion avec Burroughs
@@ -1828,7 +1802,7 @@ En **1969**, le microprocesseur est inventé par Federico Faggin, et Marcian Hof
 
 En **1967**, Apollo 1 est un échec et la lune parait de nouveau inaccessible aux américains, sous Kennedy.
 
-Le programme Apollo Guidance Computer réalisé en **1969** par Margaret Hamilton a été numérisé et rendu disponible sur [Github](https://github.com/chrislgarry/Apollo-11). Écrit en Assembly
+Le programme Apollo Guidance Computer (AGC) réalisé en **1969** par Margaret Hamilton a été numérisé et rendu disponible sur [Github](https://github.com/chrislgarry/Apollo-11). Écrit en Assembly
 
 Apollo 11 sera finalement une réussite, les États-Unis rattrapent alors leur retard dans la course à l'espace jusqu'alors menée par l'URSS.
 
@@ -2002,6 +1976,84 @@ Les gens suivent lautorite la loi, mais la loi est parfois fausse, la seule loi 
 
 en tant quanimal humaine on se s'en porte pourtant que mieux de juste suivre les unstructions et juste faire ce que l'on doit ou a envie de faire 
 
+
+
+### Méthodes d'aide à la structuration d'information 
+
+Le management moderne à eu besoin de pouvoir former et guider efficacement ses employés et pour cela il à fallu trouver des outils et moyens mnémotechniques pour facilement analyser les 
+
+
+
+#### Décision
+
+Prendre une décision est parfois très compliqué, il est parfois difficile de mesurer les tenants et aboutissants de nos choix, c'est pourquoi il est important de prendre du recul, de poser sur la table les différentes possibilités, et acteurs de la situation afin de mettre le plus de chance de son côté, dans l'objectif d'atteindre le résultat attendu. 
+
+##### Analyse PESTEL
+
+PESTEL est un acronyme pour (Politique, Économique, Socioculturel, Technologique, Écologique, Légal)
+
+##### SWOT
+
+Strenght Weakness Opportunity Threat
+
+##### Matrice multicritère
+
+Avec des amis nous utilisons pour choisir dans quel airbnb nous allons partir, nous y renseignons une note pour le prix, l'emplacement, la qualité du logement, et obtenons un score moyen permettant de déterminer où nous partirons en vacances.
+
+##### 5 Why
+
+Permet de retrouver la cause d'un problème
+
+##### La matrice d'Eisenhower
+
+Très proche des matrices de faisabilité et de priorisation, elle permet de déterminer de différencier les tâches importante, urgente, celles qui ne le sont pas, et quoi en faire.
+
+##### Diagramme d'Ishikawa
+
+Il permet de schématiser les différentes causes possible d'un événement ou effet. Inspiré des quatre causes d'Aristote, il est généralement construit en analysant les 5 M : Matière première constituante, Matériel utilisé, Méthode employée, Main-d’œuvre intervenant, et Milieu dans lequel l’événement apparaît.
+
+##### Analyse des parties prenantes
+
+##### Carte heuristique
+
+Née de l'arbre de porphyre, un philosophe néoplatonicien du 3è siècle, et aussi appelée carte mentale ; elle représente visuellement le cheminement de la pensée et l’interconnections des idées afin d'en extraire les toutes les informations importantes.
+
+
+
+
+
+imaginez un casque multisensoriel visuel qui permette a laide d'onduloanalyse de voir les temperatures, les zones radioactiactives,
+
+
+
+#### Conception
+
+##### Design thinking
+
+##### Lean Startup
+
+##### MVP
+
+itération, stop de toute la chaine de production si problème pour éviter de contaminer le reste
+
+
+
+#### Gestion de projets 
+
+##### Roadmap
+
+###### Project charter
+
+###### GANTT
+
+###### Business Model
+
+###### Scrum
+
+
+
+
+
 ### Appareils
 
 #### Ordinateurs portables
@@ -2046,6 +2098,8 @@ Les fois où j'ai appris le plus rapidement des concept était encore une fois �
 
 - RSA  1977
 - Chiffrement sur courbes elliptiques 1985
+
+
 
 
 
@@ -2095,7 +2149,7 @@ Robert Cecil Martin aussi connu comme Oncle Bob est un ingénieur en informatiqu
 
 Simple responsabilité unique : une classe, une fonction ou une méthode doit avoir une et une seule responsabilité
 
-Ouvert / Fermé : tout élément d'une application, que ce soit une classe, une fonction ou autre, doit être fermée à la modification mais ouverte à l'extension. On doit pouvoir grâce à son API,  ses paramètres ou sa configuration de l'utiliser voire l'interconnecter à un autre logiciel.
+Ouvert / Fermé : tout élément d'une application, que ce soit une classe, une fonction ou autre, doit être fermée à la modification mais ouverte à l'extension. L'utilisateur doit pouvoir grâce à son API,  ses paramètres ou sa configuration, l'utiliser voire l'interconnecter à un autre logiciel.
 
 Liskov et sa substitution : Si une instance de véhicule doit pouvoir être remplacée par une instance de voiture, tel que voiture est un sous-type de véhicule, sans que cela ne modifie la cohérence du programme.
 
@@ -2224,6 +2278,8 @@ baki episode 22
 
 ### Viralité
 
+### Standardisation & Universalité
+
 ### Rapport de force et ordres de grandeur
 
 ### Contexte et vérité
@@ -2246,17 +2302,19 @@ L'allégorie de la ligne ou celle de la caverne énoncée par Platon sont égale
 
 Il est intéressant d'abaisser son raisonnement en utilisant une métaphore pour expliquer simplement un concept à un initié, tout comme il est important de laisser cet initié le reformuler et corroboré pour vérifier sa compréhension, c'est ainsi que l'on valide la transmission d'une information et un apprentissage, en le testant. 
 
+
+
+### Dieu
+
+Je suis agnostique, je pense cependant que l'entité qui à créé l'univers et celle qui pourrait être omnisciente ne sont pas forcement la même entité.
+
+  
+
 ### Sectes et philosophie d'entreprise
 
 De nos jours j'ai souvent entendu parler de philosophie d'entreprise. L'entreprise étant une entité morale, elle se compose d'un groupe de personnes physiques réunies pour accomplir quelque chose en commun. Ce groupe peut aussi réunir des personnes physiques et des personnes morales. Cela corresponds à une secte, qui est un terme connoté négativement mais qui, comme beaucoup de mots, est poly-sémantique, il possède plusieurs définitions, celle que l'on retient généralement n'est pas celle de la secte mais de la dérive sectaire. En effet, d'un point de vue étymologique, le mot secte provient du latin "secta", signifiant "voie que l'on suit, parti, cause, doctrine". Or quand je travaille en groupe avec d'autres personnes, je le fait de pair avec mes collègues, suivant ensemble une même voie, pendant une période définie de travail, comme tout salarié qui vends a son employeur.
 
 En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une même cause, est comme internet, la rue ou tout autre environnement dans lequel nous évoluons, c'est une indifférence, ce n'est ni bien, ni mal, cela ne dépends de ce que l'on en fait et à qu'elles fins. Nous devons tous un jour faire face au fait que nous sommes influencés et conditionnés par notre environnement et notre histoire, nos habitudes, et les groupes d'humains dans lesquels nous avons évolués. Le réel problèmes sont les dérives, notamment le fait de vénérer une autorité austère qu'on ne peut discuter, mais aussi tout les heurts qui nous sont propres. Pour le reste, la vie bats son plein et continue de parcourir le temps en faisant ce qu'elle a à faire, vivre. En réalisant EditIDE, je ne sais pas comment cet outil va être utilisé, mais je sais désormais que je veut créer des indifférences, et aller du global vers le particulier.
-
-
-
-### Dieu
-
-Je suis agnostique, je pense cependant que l'entité qui à créé l'univers et celle qui pourrait être omnisciente ne sont pas forcement la même entité.  
 
 ### Communication
 
@@ -2463,93 +2521,15 @@ https://fr.wikipedia.org/wiki/Division_du_travail
 
 example avec la compiltion rust qui empeche les top 10 des erreurs
 
-
-
 Planning poker, reu tech, mais pas d'analyse commune -> reqwork extrm prog
 
 
-
-### Méthodes d'aide à la structuration d'information 
-
-Le management moderne à eu besoin de pouvoir former et guider efficacement ses employés et pour cela il à fallu trouver des outils et moyens mnémotechniques pour facilement analyser les 
-
-
-
-#### Décision
-
-Prendre une décision est parfois très compliqué, il est parfois difficile de mesurer les tenants et aboutissants de nos choix, c'est pourquoi il est important de prendre du recul, de poser sur la table les différentes possibilités, et acteurs de la situation afin de mettre le plus de chance de son côté, dans l'objectif d'atteindre le résultat attendu. 
-
-##### Analyse PESTEL
-
-PESTEL est un acronyme pour (Politique, Économique, Socioculturel, Technologique, Écologique, Légal)
-
-##### SWOT
-
-Strenght Weakness Opportunity Threat
-
-##### Matrice multicritère
-
-Avec des amis nous l'utilisont pour choisir dans quel airbnb nous allons partir, nous y renseignons une note pour le prix, l'emplacement, la qualité du logement, et obtennons un score moyen permettant de déterminer où nous partirons en vacances.
-
-##### 5 Why
-
-Permet de retrouver la cause d'un problème
-
-##### La matrice d'Eisenhower
-
-Très proche des matrices de faisabilité et de priorisation, elle permet de déterminer de différencier les tâches importante, urgente, celles qui ne le sont pas, et quoi en faire.
-
-##### Diagramme d'Ishikawa
-
-Il permet de schématiser les différentes causes possible d'un événement ou effet. Inspiré des quatres causes d'Aristote, il est généralement construit en analysant les 5 M : Matière première constituante, Matériel utilisé, Méthode employée, Main-d’œuvre intervenant, et Milieu dans lequel l’événement apparaît.
-
-##### Analyse des parties prenantes
-
-##### Carte heuristique
-
-Née de l'arbre de porphyre, un philosophe néoplatonicien du 3è siècle, et aussi appelée carte mentale ; elle représente visuellement le cheminement de la pensée et l’interconnections des idées afin d'en extraire les toutes les informations importantes.
-
-
-
-
-
-#### Conception
-
-#### Design thinking
-
-#### Lean Startup
-
-#### MVP
-
-itération, stop de toute la chaine de production si problème pour éviter de contaminer le reste
-
-
-
-#### Gestion de projets 
-
-#### Roadmap
-
-#### Project charter
-
-#### GANTT
-
-#### Business Model
-
-#### Scrum
 
 
 
 ### Développement
 
-#### Extreme programming
 
-#### TDD FDD MDD
-
-#### Code review
-
-#### Technique du canard en plastique
-
-Lorsque l'on travaille seul, on a parfois la tête dans le guidon,  
 
 
 
@@ -2630,6 +2610,8 @@ Selon moi la critique constructive est positive pour le maître et l'apprenant d
 Intelligence économique, politique et théorie des jeux.
 
 Choix et Theorie des jeux
+
+Jouez au jeu, suivez le pacte d'Ullyse.
 
 https://ayowel.github.io/trust/
 
@@ -2801,7 +2783,7 @@ Quand j'arrive dans un fichier, je veux savoir directement le nom des variables 
 
 ##### Documentation
 
-La documentation permet théoriquement de répondre à toute question que l'on pourrait se poser concernant un domaine, ou dans le cas de la programmation informatique, d'un projet logiciel. Elle doit couvrir toutes les actions que doivent accomplir le développeur, de l'installation du logiciel  
+La documentation permet théoriquement de répondre à toute question que l'on pourrait se poser concernant un domaine, ou dans le cas de la programmation informatique, d'un projet logiciel. Elle doit couvrir toutes les actions que doivent accomplir le développeur, de l'installation du logiciel, a son lancement, son usage, ses fonctionnalités, son code, comment contribuer et collaborer. Git permet même théoriquement, si on l'utilisait mieux, de décrire chaque action réalisée
 
 Les API étants une boite noire, il est essentiel de les documenter, pour ce faire, le meilleur outil actuellement est swagger, il permet de regrouper des ressources web (url) dans des groupes et d'indiquer quels sont les paramètres que l'on peut y passer, et la ou les réponse attendue possibles.
 
