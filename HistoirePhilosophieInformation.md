@@ -712,7 +712,9 @@ Ce texte babylonien daté vers **-1750**, est à ce jour le texte de loi connu l
 
 #### Grèce antique
 
-Les premiers écrits de référence sur les mathématiques, la physique, l'astronomie, et bien entendu la philosophie nous viennent de cette période. 
+Les premiers écrits de référence sur les mathématiques, la physique, l'astronomie, et bien entendu la philosophie nous viennent de cette période. Le 5 ème siècle sera souvent décrit comme celui de Périclès, qui débuta sa carrière politique en 470 à l'âge de 25 ans. Il fera construire l’Acropole, son Parthénon, et commanda de multiples sculpture à Phidias. Athènes sera décrite comme la capitale intellectuelle, artistique et politique de la Grèce antique. La guerre du Péloponnèse opposera Spartes à Thèbes et Athènes, Socrate première figure philosophique à l'influence ayant marqué un avant et un après, aura vécu à cette période et été enrôlé en tant qu'hoplite lors de ce conflit.
+
+
 
 
 
@@ -784,7 +786,7 @@ Il est entre autre connu pour avoir été agnostique, disant des dieux, qu'il "n
 
 ##### Socrate
 
-Socrate est né vers **-470**, il est fils d'une sage-femme, et créateur de la maïeutique, l'art de faire accoucher les âmes. En questionnant un sujet, il pouvait lui faire prendre conscience d'une connaissance enfouie en lui. Il est également le père d'une méthode de réfutation nommée *elenchos*, consistant à challenger la thèse de son adversaire en la poussant à l'absurde, dans le but d'y révéler son côté irréel.
+L'Athénien Socrate est né vers **-470**, il est fils d'une sage-femme, et créateur de la maïeutique, l'art de faire accoucher les âmes. En questionnant un sujet, il pouvait lui faire prendre conscience d'une connaissance enfouie en lui. Il est également le père d'une méthode de réfutation nommée *elenchos*, consistant à challenger la thèse de son adversaire en la poussant à l'absurde, dans le but d'y révéler son côté irréel.
 
 Marcheur parleur, il n'a jamais écrit, ses dires ont été relatés par ses disciples. Il a étudié la nature, puis sa pensée s'est concentrée sur l'homme, qui doit selon lui s'étudier lui même tel un anthropologue.
 
@@ -821,7 +823,7 @@ Diogène de Sinope, un des cyniques les plus connus, aurait même déclaré voul
 
 ##### Platon
 
-Né vers -**428**, Platon faisait la distinction entre le monde intelligible et sensible, il est pour cela parfois considéré comme idéaliste. Ce mouvement est caractérisé par l'axiome que toute réalité est liée à une idée, ou états d'esprit des observateurs, sans lequel le monde n'existe pas de manière autonome, n'étant qu'une représentation que l'on en fait. Plaçant la pensée au dessus, et comme plus importante que le monde matériel, à l'inverse du matérialisme qui ne sera en réalité explicité que bien plus tard, au 18 ème siècle, prônant que l'esprit et la conscience ne sont le résultat d’interactions matérielles.
+Né à Athènes peu après la mort de Périclès vers -**428**, Platon faisait la distinction entre le monde intelligible et sensible, il est pour cela parfois considéré comme idéaliste. Ce mouvement est caractérisé par l'axiome que toute réalité est liée à une idée, ou états d'esprit des observateurs, sans lequel le monde n'existe pas de manière autonome, n'étant qu'une représentation que l'on en fait. Plaçant la pensée au dessus, et comme plus importante que le monde matériel, à l'inverse du matérialisme qui ne sera en réalité explicité que bien plus tard, au 18 ème siècle, prônant que l'esprit et la conscience ne sont le résultat d’interactions matérielles.
 
 Cependant Platon déclare que les deux mondes forment une dualité ontologique "de ce qui est". Dans la théorie des formes et des idées qu'il formula, il soutient que l'esprit forme des abstractions intelligibles de ce que nous percevons du réel à travers notre sensibilité, des modèles, ou archétypes, permettant d’assimiler une information, et ainsi de la reconnaître, voire la comprendre. Les idées existent donc au delà de la pensée, elles sont immuables et universelles.
 
@@ -869,9 +871,7 @@ En définitive, cette discipline que sont les mathématiques est une philosophie
 
 ##### Aristote
 
-Né en **-384**, il étudia 20 ans à l’Académie de Platon, et fonda par la suite le Lycée.
-
-Aristote est à l'origine des syllogismes, étymologiquement ensemble de discours logiques. Ce sont des raisonnements logiques constitués d'au moins trois propositions, la dernière étant une conclusion déduite, précédée de prémisses qui doivent s'avérer vraies pour que la conclusion le soit également. L’exemple le plus connu étant "Tout les hommes sont mortels, or Socrate est un homme, donc Socrate est mortel".
+Né en **-384** dans la ville Macédonienne de Stagire, Aristote étudia 20 ans à l’Académie de Platon, et fonda par la suite le Lycée. Il est à l'origine des syllogismes, étymologiquement ensemble de discours logiques. Ce sont des raisonnements logiques constitués d'au moins trois propositions, la dernière étant une conclusion déduite, précédée de prémisses qui doivent s'avérer vraies pour que la conclusion le soit également. L’exemple le plus connu étant "Tout les hommes sont mortels, or Socrate est un homme, donc Socrate est mortel".
 
 La science de la biologie serait née d'Aristote et Théophraste, respectivement en charge de documenter la faune et la flore. Aristote s'intéressa donc logiquement à la nature, déclarant que tout être vivant possède une âme, bien que hiérarchisant ce propos à la manière de Platon et son analogie de la ligne ; disant que les plantes n'ont qu'une âme végétative, que les animaux l'ont en plus d'une âme sensitive, et que l'homme à également une âme intellectuelle en plus des deux premières. Il à également défendu l'idée d'une terre sphérique, justifiée par la courbure des éclipses de lunes et la force centripète, bien qu'il pensait être dans un système géo-centré avec l'ensemble des astres tournant autour de la Terre.
 
@@ -905,7 +905,7 @@ https://www.youtube.com/watch?v=iE08wLRGPcQ
 
 #### Egypte antique
 
-En **-336**, un disciple d'Aristote que l'on connait sous le nom d'Alexandre le Grand, hérite alors à l'instars d'Hammurabi, d'un puissant royaume et d'une forte armée qui lui permettront de devenir l'un des plus grand conquérant. Il s'emparera de l'Empire Perse et arrivera jusqu'en Egypte où il sera proclamé pharaon. Véritable Roi-bâtisseur, il a fondé une vingtaines de cités nommées Alexandrie, dont la plus connue et importante sera celle d'Egypte, fondée en **-331 **. Il décèdera en **-323**, et on assistera alors à une transmission des informations de la culture Grecque en Egypte.
+En **-336**, un disciple d'Aristote que l'on connaît sous le nom d'Alexandre le Grand, hérite alors, à l’instar d'Hammurabi, du puissant royaume macédonien avec sa forte armée qui lui permettront de devenir l'un des plus grand conquérant. Il s'emparera de l'Empire Perse et arrivera jusqu'en Egypte où il sera proclamé pharaon. Véritable Roi-bâtisseur, il a fondé une vingtaines de cités nommées Alexandrie, dont la plus connue et importante sera celle d'Egypte, fondée en **-331 **. Il décèdera en **-323**, et on assistera alors à une transmission des informations de la culture Grecque en Egypte.
 
 
 
@@ -1240,13 +1240,19 @@ John Dewey Né le 20 octobre **1859**. Maria Montessori née le 31 août **1870*
 
 #### Inventions éléctroniques
 
-Depuis les penseurs grecs de l'Antiquité, l'humanité à connaissance de l'électricité statique que l'on peut obtenir en frottant de l'ambre, en effet *êlektron* signifie ambre jaune en grec ancien, et le magnétisme viendrai de la magnésie, pierre servant d'aimant naturel depuis la nuit des temps. En 1745, juste avant l'époque contemporaine, Pieter van Musschenbroek professeur de physique dans la ville de Leyde aux Pays-Bas, découvre que l'on peut stocker des charges électriques dans deux électrodes opposées par un isolant, créant ainsi un ancêtre du condensateur nommé Bouteille de Leyde, capable de renvoyer des décharges spectaculaires  qui seront utilisés pour divertir les gens dans les foires ou des centaines de courtisans de Louis XV et lui même à Versailles. Plusieurs appareils de mesure des charges électriques verront le jour comme l'électroscope puis l'électromètre. Charles Coulomb étudiera à son tour les phénomènes électrostatiques et découvrira en 1785 la formule de l'intensité de la force électrique entre deux particules chargés, représenté par le produit des charges et la droite entre elles, plus la distance et courte plus la force sera grande. La découverte de la pile électronique de Volta en 1800 a quant à elle instantanément reçu une renommée internationale,
+Depuis les penseurs grecs de l'Antiquité, l'humanité à connaissance de l'électricité statique que l'on peut obtenir en frottant de l'ambre. En effet *êlektron* signifie ambre jaune en grec ancien, et le mot magnétisme viendrai de la magnésie, pierre servant d'aimant naturel depuis la nuit des temps. En 1745, juste avant l'époque contemporaine, Pieter van Musschenbroek professeur de physique dans la ville de Leyde aux Pays-Bas, découvre que l'on peut stocker des charges électriques dans deux électrodes opposées par un isolant, créant ainsi un ancêtre du condensateur nommé Bouteille de Leyde, capable de renvoyer des décharges spectaculaires qui seront utilisés pour divertir les gens dans les foires, ou des centaines de courtisans de Louis XV et lui même à Versailles. Plusieurs appareils de mesure des charges électriques verront le jour comme l'électroscope puis l'électromètre. Charles Coulomb étudiera à son tour les phénomènes électrostatiques et découvrira en 1785 la formule de l'intensité de la force électrique entre deux particules chargés, représenté par le produit des charges et la droite entre elles, plus la distance et courte plus la force sera grande. La découverte de la pile électronique de Volta en 1800 a quant à elle instantanément reçu une renommée internationale. L’intérêt pour ce domaine de recherche se développe alors à une vitesse folle. En 1820 Hans Chistian Orsted montre qu'un courant électrique peut dérégler une boussole, dont le principe est connu depuis le premier siècle et l'utilisation popularisée vers le 10 ème siècle. Onze ans plus tard, en 1831, Michael Faraday énonce une loi éponyme permettant de relier le courant électrique aux champs magnétiques, cette loi sera complétée par les travaux d'André-Marie Ampère qui proposera un théorème reliant le champ magnétique aux courants électriques, enfin en 1873 Maxwell unifie définitivement les champs électriques et magnétique dans la théorie de l'électromagnétisme. Entre temps, apparaissent des applications concrètes comme la roue de Barlow, premier moteur électrique en 1822, le premier électroaimant en 1825, l'induction en 1831, et l'année suivante, le premier alternateur nommé machine de Pixii. Ces technologies seront améliorés à force d'itérations, ouvrant nombres de possibilités comme la suppléance des machines à vapeur par des machine dynamoélectrique.
 
-En **1876** Alexander Graham Bell, réalise le premier appel téléphonique. inventant le téléphone
 
-En **1879** Edison récupère le brevet pour la lampe à filament, qu'il n'a pas inventé mais démocratisée et améliorée, devenant le pionnier dans les lampes électriques. Il était donc essentiellement un homme d'affaire, il est considéré comme l'inventeur le plus prolifique, il est également à l'origine des premiers bureaux de recherches industriels, ainsi que les films vidéos.
 
-Nikola Tesla a inventé le moteur et l'alimentation en courant alternatif respectivement en 1888 et 1895
+Bien après Robert Hooke, qui inventa le téléphone à ficelle en 1665, le physicien italien Antonio Meucci débarque en Amérique lors de l'année 1850 dans le but de promouvoir ses inventions dont le *Telettrofono* qu'il aurait utilisé pour parler avec sa femme immobilisée par l'arthrite. En 1871 il fonde même une entreprise et tente de protéger ses inventions bien qu'il n'ai pas assez de fond financiers pour s'offrir un réel brevet. L'homme que l'on connait comme l'inventeur du téléphone en aurait donc subtiliser l'idée lors d'une visite aux bureaux de Western Union Telegraph où Meucci aurait entreposer son Télettrophone. C'est ainsi qu'Alexander Graham Bell, professeur de diction à l'université de Boston, mari et fils de femmes sourdes, dépose à son tour un brevet[^1], quelques heures après Elisha Gray à qui l'invention du téléphone à été refusée, et qui inventa le télégraphe musical la même année, ancêtre du synthétiseur.
+
+[ ^1]: https://patents.google.com/patent/US174465A/en?inventor=Alexander+Graham+Bell&sort=old - https://patents.google.com/patent/US178399A/en?inventor=Alexander+Graham+Bell&sort=old
+
+De la même manière, Edison récupère en **1879** le brevet pour la lampe à filament, qu'il n'a pas inventé mais démocratisée et améliorée, devenant le pionnier dans les lampes électriques. Il était donc essentiellement un homme d'affaire, considéré comme l'inventeur le plus prolifique, il est également à l'origine des premiers bureaux de recherches industriels, ainsi que les films vidéos. Nikola Tesla a travaillé avec lui, il finit pourtant par finir son aventure en indépendant. Il a inventé le moteur asynchrone et l'alimentation polyphasée[^1], et ainsi travaillé sur le réseau de distribution d’électricité basé sur cette même technologie alternative. Après quoi il c'est fortement intéresse à la très haute fréquence et à la technologie sans fil, espérant un jour pouvoir transmettre de l'électricité à travers l'atlantique. Il s'est brièvement intéressé aux rayons X, faisant de lui un des pionniers de l'imagerie radio, peut être même le premier. Après avoir appris que Wilhelm Röntgen avait découvert les rayons X quelques mois après lui, et que les dangers de ce type de rayonnements se fasse sentir chez lui et son assistant, il décide alors de s'orienter dans les automates radio-contrôlés, qui feront de lui le premier concepteur de robot télécommandé.
+
+Pour en revenir à l'électricité, Lucien Gaulard viendra par la suite améliorer les travaux de Tesla sur l'alimentation polyphasée en inventant le transformateur, permettant d'augmenter la tension d'un alternateur pour faciliter le transport de l'énergie dans des lignes à hautes tensions.
+
+[^1]: https://patents.google.com/patent/US359748
 
 Albert Einstein Né en **1879** 
 
@@ -2876,6 +2882,8 @@ http://waterbearlang.com
 
 
 https://fr.mathigon.org/timeline
+
+https://passerelles.essentiels.bnf.fr/fr/chronologie/antiquite
 
 
 
