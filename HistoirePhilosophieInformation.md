@@ -12,532 +12,6 @@ Cet ouvrage, conformément à son titre et aux recherches qu'il a nécessité, �
 
 
 
-## Ebauche sommaire
-
-1. [Introduction](#Introduction)
-2. [Histoire](#Histoire)
-   1. [Préhistoire](#Préhistoire)
-      1. [Abaques](#Abaques)
-      2. [Bulle enveloppe](#Bulle enveloppe)
-   2. [Antiquité](#Antiquité)
-      1. [Prémices de l'Algèbre](#Prémices de l'Algèbre)
-      2. [Quipu](Quipu)
-      3. [Boulier](#Boulier)
-      4. [Code de Hammurabi](#Code de Hammurabi)
-      5. [Thalès](#Thalès)
-      6. [Encryption](#Encryption)
-      7. [Pythagore](#Pythagore)
-      8. [Dialectique](#Dialectique)
-      9. [Rhétorique](#Rhétorique)
-      10. [Sophistes et Sophismes](#Sophistes et Sophismes)
-      11. [Socrate](#Socrate)
-      12. [Atomisme](#Atomisme)
-      13. [Platon](#Platon)
-      14. [Mathématiques](#Mathématiques)
-      15. [Aristote](#Aristote)
-      16. [Géométrie Euclidienne](#Géométrie Euclidienne)
-      17. [Archimède](#Archimède)
-      18. [Calculateurs analogiques](#Calculateurs analogiques)
-      19. [Routes de la soie](#Routes-de-la-soie)
-      20. [Vitruve](#Vitruve)
-      21. [Héron](#Héron)
-      22. [Ménélaos](#Ménélaos)
-      23. [Ptolémée](#Ptolémée)
-   3. [Moyen Âge](#Moyen Âge)
-      1. [Aryabhata](#aryabhata)
-      2. [Algèbre et Algorithme](#algèbre-et-algorithme)
-      3. [Hindu–Arabic numeral system](#hinduarabic-numeral-system)
-      4. [Al-Battani](#al-battani)
-      5. [Gerbert d'Aurillac](#gerbert-daurillac)
-      6. [Hermann Contract](#hermann-contract)
-      7. [Al Zarqali](#al-zarqali)
-      8. [Abraham bar Hiyya Hanassi](#abraham-bar-hiyya-hanassi)
-      9. [Fibonacci](#fibonnacci)
-      10. [Typographie](#Typographie)
-      11. [Leon Battista Alberti](#leon-battista-alberti)
-      12. [Luca Pacioli](#luca-pacioli)
-   4. [Époque moderne](#Epoque moderne)
-      1. [Nicolas Copernic](#nicolas-copernic)
-      2. [Giambattista della Porta](#giambattista-della-porta)
-      3. [Wilhelm Schickard](#wilhelm-schickard)
-      4. [Calculateurs](#calculateurs)
-      5. [Bâtons de Napier](#bâtons-de-napier)
-      6. [Règle coulissante à calculer](#règle-coulissante-à-calculer)
-      7. [Pascaline](#pascaline)
-      8. [Binaire](#binaire)
-      9. [Cartes perforées](#cartes-perforées)
-      10. [Comète de Halley](#comète-de-halley)
-   5. [Époque contemporaine](#Époque-contemporaine)
-      1. [Almanach nautique](#almanach-nautique)
-      2. [Dactylographie](#dactylographie)
-      3. [Arithmomètre](#arithmomètre)
-      4. [Machine à différence et analytique](#machine-à-différence-et-analytique)
-      5. [Maison d'échanges](#maison-déchanges)
-      6. [Télégraphe](#télégraphe)
-      7. [Arithmaurel](#arithmaurel)
-      8. [Programmation](#programmation)
-      9. [Algèbre booléen](#algèbre-booléen)
-      10. [Remington](#remington)
-      11. [Diode](#diode)
-      12. [Téléphone](#téléphone)
-      13. [Edison](#edison)
-      14. [NCR](#ncr)
-      15. [Burroughs Corporation](#burroughs-corporation)
-      16. [Comptomètre](#comptomètre)
-      17. [Calculatrices à crosses](#calculatrices-à-crosses)
-      18. [Oscilloscope](#oscilloscope)
-      19. [Mécanographie](#mécanographie)
-      20. [Tube a vide](#tube-a-vide)
-      21. [Séparation de l'État et de l'Église](#séparation-de-létat-et-de-léglise)
-      22. [Triode](#triode)
-      23. [Tube cathodique](#tube-cathodique)
-   6. [Après la première guerre mondiale](#Après la première guerre mondiale)
-      1. [Tabulatrices](#Tabulatrices)
-      2. [Enigma](#Enigma)
-      3. [Moore School](#Moore School)
-      4. [Bande magnétique cassettes audio](#Bande magnétique cassettes audio )
-      5. [IBM 601](#IBM 601)
-      6. [Mémoire tambour](#Mémoire tambour)
-      7. [RADAR](#RADAR)
-      8. [Machine de Turing](#Machine de Turing)
-      9. [Z1 Zuse Konrad](#Z1 Zuse Konrad)
-      10. [Atanasoff Berry Computer](#Atanasoff Berry Computer)
-      11. [Hewlett Packard](#Hewlett Packard)
-   7. [Seconde guerre mondiale](#Seconde guerre mondiale)
-      1. [Z2](#Z2)
-      2. [Z2](#Z3)
-      3. [Colossus / Harvard Mark 1](#Colossus / Harvard Mark 1)
-      4. [Architecture de von Neumann](#Architecture de von Neumann)
-   8. [Guerre froide et course à l'espace](#Guerre froide et course a l'espace)
-      1. [As we may think](#As we may think)
-      2. [IBM 602 & 603](#IBM 602 & 603)
-      3. [Naissance de la Eckert-Mauchly Computer Corporation](#Naissance de la Eckert-Mauchly Computer Corporation)
-      4. [Trackball](#Trackball)
-      5. [Transistor](#Transistor)
-      6. [SSEM](#SSEM)
-      7. [Manchester Mark I](#Manchester-Mark-I)
-      8. [Théorie de l'information](#Théorie de l'information)
-      9. [IBM 604](#IBM-604)
-      10. [IBM 407](#IBM-407)
-      11. [EDSAC & BINAC](#EDSAC & BINAC)
-      12. [IBM CPC](#IBM-CPC)
-      13. [Ferranti Mark I](#Ferranti-Mark-I)
-      14. [UNIVAC 1](#UNIVAC-1)
-      15. [A-0 System](#A-0-System)
-      16. [LEO I](#LEO-I)
-      17. [IBM 701](#IBM-701)
-      18. [IBM 702](#IBM-702)
-      19. [Mémoire à tores magnétiques](#Mémoire-à-tores-magnétiques)
-      20. [Z4](#Z4)
-      21. [IBM 650](#IBM-650)
-      22. [Z5](#Z5)
-      23. [TRADIC](#TRADIC)
-      24. [Spoutnik 1](#Spoutnik-1)
-      25. [Premiers langages haut niveau - Structures de contrôle et de données](#Premiers langages haut niveau - Structures de contrôle et de données)
-          1. plankalkul eniac ssem speedcoding Flow-Matic
-          2. [Fortran](#Fortran)
-          3. [Lisp](#Lisp)
-          4. [Cobol](#Cobol)
-      26. [Circuit integré](#Circuit integré)
-      27. [IBM 1401](#IBM-1401)
-      28. [Théorie algorithmique de l'information](#Théorie-algorithmique-de-l'information)
-      29. [Computationnalisme](#Computationnalisme)
-      32. [Souris](#Souris)
-      33. [Dendral](#Dendral)
-      34. [Eliza](#Eliza)
-      35. [Apollo 1](#Apollo-1)
-      36. [Intel et Moore](#Intel-et-Moore)
-      38. [Microprocesseur](#Microprocesseur)
-      40. [Apollo 11](#Apollo-11)
-   9. [Popularisation et Mondialisation](#Popularisation et Mondialisation)
-      1. [Génèse d'internet](#génèse-d'internet)
-         1. [Arpanet et Cyclades](#Arpanet-et-Cyclades)
-      2. [Ordinateur personnel](#ordinateur-personnel)
-         1. Programma 101
-         2. [Amstrad](#Amstrad)
-         3. HP
-         4. [Altair 8800](#Altair 8800)
-         5. Commodore
-         6. Apple II
-         7. [Minitel](#Minitel)
-         8. [Osborne 1](#Osborne-1)
-         9. [Xerox Star](#Xerox-Star)
-         10. IBM
-             1. [IBM PC 5150](#IBM PC 5150)
-      3. Jeux vidéos
-         1. [Spacewar!](#Spacewar!)
-         2. [Atari Pong](#Atari-Pong)
-         3. [Pac Man](#Pac-Man)
-      4. [Homebrew computer club](#Homebrew-computer-club)
-      5. [Chambre chinoise](#Chambre-chinoise)
-      6. [Mémoire flash et stockage optique](#Mémoire-flash-et-stockage-optique)
-      7. [World Wide Web](#World-Wide-Web)
-      8. [Deep Blue](#Deep-Blue)
-   10. [Bilan passé](#Bilan-passé)
-3. [Pratiques actuelles](#Pratiques-actuelles)
-   1. Appareils
-      1. Ordinateurs portables
-
-      2. Mobiles
-
-      3. Tablettes
-      4. Casques de réalité virtuelle 
-   2. Technologies
-      1. Intelligence artificielle
-   3. Usages et industrie du logiciel
-      1. Navigation web
-      2. Automatisations
-      3. Robotique
-      4. Aide à la décision
-      5. Progiciel
-      6. Jeux en ligne et MMO
-      7. Ludiciel
-   4. Concepts de programmation moderne
-      1. Vecteurs
-      2. Matrices
-
-      3. Parallélisation
-
-      4. Pointeurs mémoires
-
-      5. Calculs distribués
-
-      6. 2SIG
-         1. Structure
-
-         2. Style
-
-         3. Interaction
-
-         4. Gestion de la donnée 
-
-      7. Pop SMTP
-   5. Habitudes de programmation
-      1. Language naturel, formel, informatique, et construites
-      2. Syntaxe, vocabulaire et Grammaire
-      3. Pseudo Code parlé & Lojban
-      4. Ligne de commande
-      5. Commentaires et documentation
-      6. Interfaces logicielles avancées
-      7. Interopérabilité instantanée inter-appareils
-      8. Gestionnaires de version 
-      9. Programation Orientée Objet 
-      10. Cadriciels
-      11. API
-      12. Cloud
-      13. Tests et Vérification
-      14. CI / CD
-      15. Microservices
-   6. Philosophie personnelle
-      1. Réalisation de projets WMD (WYSIWYG meta dogfood)
-         1. Markdown
-         2. 
-      2. Informatique et cuisine
-      3. Faits, Vérité et doute. (biais de confirmations, multifactoriel)
-      4. La magie c'est de défaire et savoir refaire
-      5. LA DONNEE (collecte, emplacement géographique, valeur)
-      6. Un programme est un contrat.
-         1. Qu'il , soit moral ou non
-      7. Biais humain, machine, et réalité de la donnée (illusions de captation, interprétation, context)
-      8. Choix et Theorie des jeux
-      9. Sécurité, permissions, et contraintes.
-      10. Intelligence, Ambiguïtés et apprentissage : Nous sommes tous des IAs
-      11. Apprentissage par l’erreur, sans elle rien ne serais possible le succès ne s’obtient qu’en résolvant des micro problèmes 
-      12. On fait avec ce qu’on a, alors obligé d’accumuler, ça donne des (cf Cadriciels)
-
-4. Essai
-5. EditIDE
-   1. Flux de travail
-      1. Gestion projet
-      2. API
-      3. Interface
-
-6. Philosophie
-   1. AR / Mixed Reality
-   2. Blockchain
-   3. Interfaces graphiques et Ux
-   4. Bibliographie
-   5. Solid Principles
-   6. Code Golf
-   7. Quine
-7. Conclusion
-8. [Annexes](#Annexes)
-   1. [Webographie](#Webographie)
-   2. [Lexique](#Lexique)
-   3. [Table des illustrations](#Table des illustrations)
-   4. [Page d’évaluation](#Page d’évaluation)
-
-
-
-## Sommaire
-
-- [Histoire et philosophie de l'information](#histoire-et-philosophie-de-linformation)
-  - [Résumé](#Résumé)
-  - [Sommaire](#sommaire)
-  - [Remerciements](#remerciements)
-  - [Introduction](#introduction)
-  - [Comprendre la problématique](#comprendre-la-problématique)
-  - [Histoire](#histoire)
-    - [Préhistoire](#préhistoire)
-      - [Abaques](#abaques)
-      - [Premières villes et sociétés](#premières-villes-et-sociétés)
-      - [Bulle enveloppe](#bulle-enveloppe)
-    - [Antiquité](#antiquité)
-      - [Prémices de l'Algèbre](#prémices-de-lalgèbre)
-      - [Quipu](#quipu)
-      - [Boulier](#boulier)
-      - [Code de Hammurabi](#code-de-hammurabi)
-      - [Thalès](#thalès)
-      - [Encryption](#encryption)
-      - [Pythagore](#pythagore)
-      - [Dialectique](#dialectique)
-      - [Rhétorique](#rhétorique)
-      - [Sophistes et Sophismes](#sophistes-et-sophismes)
-      - [Socrate](#socrate)
-      - [Atomisme](#atomisme)
-      - [Platon](#platon)
-      - [Mathématiques](#mathématiques)
-      - [Aristote](#aristote)
-      - [Stoïcisme](#stoïcisme)
-      - [Géométrie Euclidienne](#géométrie-euclidienne)
-      - [Archimède](#archimède)
-      - [Calculateurs analogiques](#calculateurs-analogiques)
-      - [Routes de la soie](#routes-de-la-soie)
-      - [Vitruve](#vitruve)
-      - [Héron](#héron)
-      - [Ménélaos](#ménélaos)
-      - [Ptolémée](#ptolémée)
-    - [Moyen Âge](#moyen-âge)
-      - [Aryabhata](#aryabhata)
-      - [Algèbre et Algorithme](#algèbre-et-algorithme)
-      - [Système de numération indo-arabe](#système-de-numération-indo-arabe)
-      - [Al-Battani](#al-battani)
-      - [Gerbert d'Aurillac](#gerbert-daurillac)
-      - [Hermann Contract](#hermann-contract)
-      - [Al Zarqali](#al-zarqali)
-      - [Abraham bar Hiyya Hanassi](#abraham-bar-hiyya-hanassi)
-      - [Fibonacci](#fibonacci)
-      - [Typographie](#typographie)
-      - [Leon Battista Alberti](#leon-battista-alberti)
-      - [Luca Pacioli](#luca-pacioli)
-    - [Époque moderne](#époque-moderne)
-      - [Nicolas Copernic](#nicolas-copernic)
-      - [Montaigne](#montaigne)
-      - [Rabelais](#rabelais)
-      - [Francis Bacon](#francis-bacon)
-      - [Giambattista della Porta](#giambattista-della-porta)
-      - [Johannes Kepler](#johannes-kepler)
-      - [Thomas Hobbes](#thomas-hobbes)
-      - [René Descartes](#rené-descartes)
-      - [Galilée](#galilée)
-      - [Wilhelm Schickard](#wilhelm-schickard)
-      - [Calculateurs](#calculateurs)
-      - [Bâtons de Napier](#bâtons-de-napier)
-      - [Règle coulissante à calculer](#règle-coulissante-à-calculer)
-      - [Isaac Newton](#isaac-newton)
-      - [Pascaline](#pascaline)
-      - [Baruch Spinoza](#baruch-spinoza)
-      - [Binaire](#binaire)
-      - [Voltaire](#voltaire)
-      - [Jean-Jacques Rousseau](#jean-jacques-rousseau)
-      - [Kant](#kant)
-      - [Cartes perforées](#cartes-perforées)
-      - [Pédagogie moderne](#pédagogie-moderne)
-      - [Théorie générale des systèmes](#théorie-générale-des-systèmes)
-      - [Comète de Halley](#comète-de-halley)
-    - [Époque contemporaine](#époque-contemporaine)
-      - [Almanach nautique](#almanach-nautique)
-      - [Georg Wilhelm Friedrich Hegel](#georg-wilhelm-friedrich-hegel)
-      - [Friedrich Fröbel](#friedrich-fröbel)
-      - [Dactylographie](#dactylographie)
-      - [Arithmomètre](#arithmomètre)
-      - [Machine à différence et analytique](#machine-à-différence-et-analytique)
-      - [Maison d'échanges](#maison-déchanges)
-      - [Télégraphe](#télégraphe)
-      - [Arithmaurel](#arithmaurel)
-      - [Programmation](#programmation)
-      - [Algèbre booléen](#algèbre-booléen)
-      - [John Dewey](#john-dewey)
-      - [Maria Montessori](#maria-montessori)
-      - [Remington](#remington)
-      - [Diode](#diode)
-      - [Téléphone](#téléphone)
-      - [Edison](#edison)
-      - [Adolphe Ferrière](#adolphe-ferrière)
-      - [NCR](#ncr)
-      - [Burroughs Corporation](#burroughs-corporation)
-      - [Comptomètre](#comptomètre)
-      - [Calculatrices à crosses](#calculatrices-à-crosses)
-      - [Oscilloscope](#oscilloscope)
-      - [Mécanographie](#mécanographie)
-      - [Célestion Freinet](#célestion-freinet)
-      - [Tube a vide](#tube-a-vide)
-      - [Séparation de l'État et de l'Église](#séparation-de-létat-et-de-léglise)
-      - [Triode](#triode)
-      - [Tube cathodique](#tube-cathodique)
-      - [Claude Lévi-Strauss](#claude-lévi-strauss)
-    - [Après la première guerre mondiale](#après-la-première-guerre-mondiale)
-      - [Tabulatrices](#tabulatrices)
-      - [Enigma](#enigma)
-      - [Moore School](#moore-school)
-      - [Bande magnétique cassettes audio](#bande-magnétique-cassettes-audio)
-      - [IBM 601](#ibm-601)
-      - [Mémoire tambour](#mémoire-tambour)
-      - [RADAR](#radar)
-      - [Machine de Turing](#machine-de-turing)
-      - [Z1 Zuse Konrad](#z1-zuse-konrad)
-      - [Atanasoff Berry Computer](#atanasoff-berry-computer)
-      - [Hewlett Packard](#hewlett-packard)
-    - [Seconde guerre mondiale](#seconde-guerre-mondiale)
-      - [Z2](#z2)
-      - [Z3](#z3)
-      - [Colossus / Harvard Mark 1](#colossus--harvard-mark-1)
-      - [Architecture de von Neumann](#architecture-de-von-neumann)
-    - [Guerre froide et course a l'espace](#guerre-froide-et-course-a-lespace)
-      - [As we may think](#as-we-may-think)
-      - [IBM 602 \& 603](#ibm-602--603)
-      - [Naissance de la Eckert-Mauchly Computer Corporation](#naissance-de-la-eckert-mauchly-computer-corporation)
-      - [Trackball](#trackball)
-      - [Norbert Wiener](#norbert-wiener)
-      - [Transistor](#transistor)
-      - [SSEM](#ssem)
-      - [Manchester Mark I](#manchester-mark-i)
-      - [Théorie de l'information](#théorie-de-linformation)
-      - [IBM 604](#ibm-604)
-      - [IBM 407](#ibm-407)
-      - [EDSAC \& BINAC](#edsac--binac)
-      - [IBM CPC](#ibm-cpc)
-      - [Ferranti Mark I](#ferranti-mark-i)
-      - [UNIVAC 1](#univac-1)
-      - [A-0 System](#a-0-system)
-      - [Leo I](#leo-i)
-      - [IBM 701](#ibm-701)
-      - [IBM 702](#ibm-702)
-      - [Mémoire à tores magnétiques](#mémoire-à-tores-magnétiques)
-      - [Z4](#z4)
-      - [IBM 650](#ibm-650)
-      - [TRADIC](#tradic)
-      - [Spoutnik 1](#spoutnik-1)
-      - [Premiers langages haut niveau - Structures de contrôle et de données](#premiers-langages-haut-niveau---structures-de-contrôle-et-de-données)
-        - [Plankalkul](#plankalkul)
-        - [Speedcoding](#speedcoding)
-        - [Flow-Matic](#flow-matic)
-        - [Fortran](#fortran)
-        - [Lisp](#lisp)
-        - [Cobol](#cobol)
-      - [Circuit intégré](#circuit-intégré)
-      - [IBM 1401](#ibm-1401)
-      - [Théorie algorithmique de l'information](#théorie-algorithmique-de-linformation)
-      - [Computionnalisme](#computionnalisme)
-      - [Spacewar!](#spacewar)
-      - [Luciano Floridi](#luciano-floridi)
-      - [IBM System 360](#ibm-system-360)
-      - [Programma 101](#programma-101)
-      - [Souris](#souris)
-      - [Dendral](#dendral)
-      - [Eliza](#eliza)
-      - [Apollo 1](#apollo-1)
-      - [Intel et Moore](#intel-et-moore)
-      - [Microprocesseur](#microprocesseur)
-      - [Arpanet et Cyclades](#arpanet-et-cyclades)
-      - [Apollo 11](#apollo-11)
-    - [Popularisation et Mondialisation](#popularisation-et-mondialisation)
-      - [Atari pong](#atari-pong)
-      - [Altair 8800](#altair-8800)
-      - [Homebrew computer club](#homebrew-computer-club)
-      - [Minitel](#minitel)
-      - [La chambre chinoise](#la-chambre-chinoise)
-      - [Mémoire flash et stockage optique](#mémoire-flash-et-stockage-optique)
-      - [Pac Man](#pac-man)
-      - [Osborne 1](#osborne-1)
-      - [Xerox Star](#xerox-star)
-      - [IBM PC 5150](#ibm-pc-5150)
-      - [Macintoch 128K](#macintoch-128k)
-      - [World Wide Web](#world-wide-web)
-      - [Deep Blue](#deep-blue)
-    - [Bilan passé](#bilan-passé)
-  - [Pratiques actuelles](#pratiques-actuelles)
-    - [Honda asimo](#honda-asimo)
-    - [Roomba](#roomba)
-    - [Darpa Grand Challenge](#darpa-grand-challenge)
-    - [Imagenet](#imagenet)
-    - [Watson gagne Joepardy](#watson-gagne-joepardy)
-    - [Premier drone commercial autonome](#premier-drone-commercial-autonome)
-    - [Alphago](#alphago)
-    - [VSCode](#vscode)
-    - [Boston Dynamics](#boston-dynamics)
-    - [Essai](#essai)
-      - [Sectes et philosophie d'entreprise](#sectes-et-philosophie-dentreprise)
-      - [Division du travail](#division-du-travail)
-      - [Anticipation](#anticipation)
-      - [Contexte et vérité](#contexte-et-vérité)
-      - [Pédagogie active](#pédagogie-active)
-      - [Apprentissage](#apprentissage)
-      - [Méthodes d'aide à la structuration d'information](#méthodes-daide-à-la-structuration-dinformation)
-        - [Décision](#décision)
-          - [Analyse PESTEL](#analyse-pestel)
-          - [SWOT](#swot)
-          - [Matrice multicritère](#matrice-multicritère)
-        - [5 Why](#5-why)
-          - [La matrice d'Eisenhower](#la-matrice-deisenhower)
-          - [Diagramme d'Ishikawa](#diagramme-dishikawa)
-          - [Analyse des parties prenantes](#analyse-des-parties-prenantes)
-          - [Carte heuristique](#carte-heuristique)
-        - [Conception](#conception)
-          - [Design thinking](#design-thinking)
-          - [Lean Startup](#lean-startup)
-        - [Gestion de projets](#gestion-de-projets)
-          - [Roadmap](#roadmap)
-          - [Project charter](#project-charter)
-          - [GANTT](#gantt)
-          - [Business Model](#business-model)
-          - [Scrum](#scrum)
-        - [Développement](#développement)
-          - [Extreme programming](#extreme-programming)
-          - [TDD FDD MDD](#tdd-fdd-mdd)
-          - [Code review](#code-review)
-          - [Technique du canard en plastique](#technique-du-canard-en-plastique)
-      - [Travail Personnel](#travail-personnel)
-        - [Developpement informatique](#developpement-informatique)
-          - [Moteur de jeu](#moteur-de-jeu)
-        - [Développement personnel](#développement-personnel)
-          - [Rigueur et retravail](#rigueur-et-retravail)
-          - [Amélioration continue](#amélioration-continue)
-          - [Do it now](#do-it-now)
-          - [Aide](#aide)
-        - [STOP](#stop)
-        - [Justification](#justification)
-        - [Critique](#critique)
-      - [Metagame](#metagame)
-      - [Prestation vs édition de logiciel](#prestation-vs-édition-de-logiciel)
-      - [Cadriciel et Open Source](#cadriciel-et-open-source)
-      - [ChatGPT](#chatgpt)
-      - [Opensource](#opensource)
-      - [Logiciel libre](#logiciel-libre)
-      - [Git](#git)
-    - [EditIDE](#editide)
-      - [Philosophie](#philosophie)
-        - [One thing at a time](#one-thing-at-a-time)
-        - [WYSIWYG](#wysiwyg)
-        - [Accessibility](#accessibility)
-        - [All in one](#all-in-one)
-        - [Documentation](#documentation)
-        - [Visualisation](#visualisation)
-      - Flux de travail
-        - Gestion projet
-        - API
-        - Interface
-      - [Rêves lucides](#rêves-lucides)
-  - [Annexes](#annexes)
-      - [Bibliographie](#bibliographie)
-      - [Webographie](#webographie)
-      - [Lexique](#lexique)
-      - [Table des illustrations](#table-des-illustrations)
-      - [Page d’évaluation](#page-dévaluation)
-  
-
-
-
 ## Remerciements
 
 Je ne remercierai jamais assez mes parents et grand parents, qui ont eu la chance d'être propriétaires d'ordinateurs, et d'une connexion d'internet, avant ma naissance en 1999. Grâce à cela il ont eu la démarche raisonnée de m'introduire à cette technologie, sur des logiciels éducatifs qui m'ont permis de savoir lire à l'âge de 2 ans.
@@ -776,7 +250,7 @@ Elle s'est ensuite détachée de la persuasion pour devenir pour plus globalemen
 
 Né en **-490**, Protagoras est un philosophe pré-socratique considéré comme sophiste, qui ont été une opposition forte aux philosophes de la suite de ce récit. Les raisons les plus probables sont qu'il était une personnalité forte, célèbre et critiquée du fait qu'il était un enseignant itinérant, cherchant un salaire ainsi qu'un statut toujours plus élevé contre son enseignement, alors que monnayer son savoir était à l'époque interdit. Il serait également à l'origine de *l'éristique*, l'art de la discorde, de la dispute et plus globalement du débat ; variante proche de la rhétorique, qu'il a également enseigné.
 
-Les sophistes ont par conséquent étés perçus comme des gens avides, prêts à tout pour monnayer leur savoir à des prix toujours plus fous, au détriment même de la vérité, usant de la rhétorique de manière perverse et fallacieuse, ce qui à donné naissance au mot et à la pratique qu'est le *sophisme*. Tout raisonnement, même si la finalité est véridique, peut être considéré comme tel dès lors qu'il n'est pas logique, valide, s'appuie sur un biais, ou use de stratagème visant à prouver la véridicité de ses dires, en jouant sur la crédibilité ou les émotions (ethos et pathos), plus que sur le discours en lui même (logos).
+Les sophistes ont par conséquent étés perçus comme des gens avides, prêts à tout pour monnayer leur savoir à des prix toujours plus fous, au détriment même de la vérité, usant de la rhétorique de manière perverse et fallacieuse, ce qui à donné naissance au mot et à la pratique qu'est le *sophisme*. Tout raisonnement, même si la finalité est véridique, peut être considéré comme tel dès lors qu'il n'est pas logique, valide, s'appuie sur un biais, ou use de stratagème visant à prouver la véridicité de ses dires, en jouant sur la crédibilité ou les émotions (ethos et pathos), plus que sur la la raison  ou le discours en lui même (logos).
 
 Pour beaucoup de personnalités de temps aussi éloignés, il est compliqué de démêler le vrai du faux, il aurait commencé sa vie comme modeste porteur de fardeau, bien qu'ayant potentiellement de la famille ou des proches aisés et dont il se serait visiblement rapproché au fil du temps.
 
@@ -994,7 +468,7 @@ Mathématicien et célèbre astronome indien né en **476**. Contrairement à Ar
 
 #### Algèbre et Algorithme
 
-L'algèbre est l'ensemble de règles qui permet d'écrire des formules et équations mathématiques afin de structurer un problème en un système calculable. Un algorithme quant à lui est une suite finie et claire de tâches à réaliser pour résoudre un problème. Le le plus ancien connu est la recette de cuisine. Les premières recettes « publiées » datent de l'époque babylonienne : trois tablettes, conservées à l'université Yale et datant d'environ 1600 ans avant J.-C. ; elles comportent de manière plus ou moins précise une série de recettes. Les mathématiques de l'époque ont également détaillé des procédures permettant de résoudre des problèmes étapes par étapes.
+L'algèbre est l'ensemble de règles qui permet d'écrire des formules et équations mathématiques afin de structurer un problème en un système calculable. Un algorithme quant à lui est une suite finie et claire de tâches à réaliser pour résoudre un problème. Le le plus ancien connu est la recette de cuisine. Les premières recettes « publiées » datent de l'époque babylonienne : trois tablettes, conservées à l'université Yale et datant d'environ 1600 ans avant J.-C. ; elles comportent de manière plus ou moins précise une série de recettes. De la même manière, les mathématiques de l'époque ont également détaillé des procédures permettant de résoudre des problèmes étapes par étapes.
 
 Il a fallu cependant attendre le IX siècle, vers l'an **800**, pour que Al-Khwarizmi définisse l’algèbre, qui signifie réparer une fracture, et sert par définition à la résolution d’un problème ; Le livre qu'il a écrit, "Abrégé du calcul par la restauration et la comparaison" avait pour vocation d'apporter des solutions à l’héritage, l'arpentage, et les échanges commerciaux.
 
@@ -1088,7 +562,7 @@ En **1757**, trois français, Alexis Clairaut, Jérôme Lalande, et Nicole Lepau
 
 #### Philosophes modernes
 
-Né le 28 février **1533**, Montaigne était un épicurien sceptique eu écrit multitudes d'essais qui inspireront bien des philosophes après lui, il commença cependant par écrire deux essais stoïques pour prouver "*que le goût des biens et des maux dépend de l’opinion que nous en avons*" et "*que philosopher c’est apprendre à mourir*" mais s'en écarta rapidement, indiquant qu'il "est certain qu’à la plupart des savants, la préparation à la mort, a donné plus de tourment que la mort ne fait de souffrance". Il en garda pour autant la vertu, se dirigeant dans le scepticisme avec la plus grande prudence et tempérance, ne prononçant un jugement qu'une fois qu'il a bien analyser la situation, et indiquant se méfier des gens qui prétendent détenir la vérité. Ce décrivant lui même comme n'étant pas un sage, ni même ayant grande estime de lui, son humilité en fera quelqu'un de très apprécié et accessible auquel le commun des mortels s'identifie plus facilement qu'a un "grand sage". Il dira également que la philosophie est la science qui nous apprends à vivre, confrontant la pensée à l'essentiel des expériences que l'on rencontre de notre vivant et à soi même. Au fil du temps sa recherche du bonheur le reprochera de l'épicurisme, qui finira par lui faire compléter ses propos en déclarant que "philosopher c'est apprendre à vivre le plus heureusement possible", et qu'il "passe le temps quand il est mauvais et désagréable ; quand il est  bon, je ne veux pas le passer, je le goûte à nouveau, je m’y arrête. Il faut passer le mauvais en courant et s’arrêter au bon", preuve d'un hédonisme raisonné.
+Né le 28 février **1533**, Montaigne était un épicurien sceptique eu écrit multitudes d'essais qui inspireront bien des philosophes après lui, il commença cependant par écrire deux essais stoïques pour prouver "*que le goût des biens et des maux dépend de l’opinion que nous en avons*" et "*que philosopher c’est apprendre à mourir*" mais s'en écarta rapidement, indiquant qu'il "*est certain qu’à la plupart des savants, la préparation à la mort, a donné plus de tourment que la mort ne fait de souffrance*". Il en garda pour autant la vertu, se dirigeant dans le scepticisme avec la plus grande prudence et tempérance, ne prononçant un jugement qu'une fois qu'il a bien analyser la situation, et indiquant se méfier des gens qui prétendent détenir la vérité. Ce décrivant lui même comme n'étant pas un sage, ni même ayant grande estime de lui, son humilité en fera quelqu'un de très apprécié et accessible auquel le commun des mortels s'identifie plus facilement qu'a un "grand sage". Il dira également que la philosophie est la science qui nous apprends à vivre, confrontant la pensée à l'essentiel des expériences que l'on rencontre de notre vivant et à soi même. Au fil du temps sa recherche du bonheur le reprochera de l'épicurisme, qui finira par lui faire compléter ses propos en déclarant que "philosopher c'est apprendre à vivre le plus heureusement possible", et qu'il "passe le temps quand il est mauvais et désagréable ; quand il est  bon, je ne veux pas le passer, je le goûte à nouveau, je m’y arrête. Il faut passer le mauvais en courant et s’arrêter au bon", preuve d'un hédonisme raisonné.
 
 Né le 9 avril **1553**, Rabelais consacra la première partie de sa vie à la religion avant de commettre le crime d'abandonner son habit de moine, devenant apostat et entament des études qui le feront d'abord devenir médecin, après quoi il devint écrivain. Bon vivant, il sera connu pour ses banquets et sera également passionné par le gigantisme. À cet effet, il inventera Pantaguel, Gargantua, mais encore Panurge et ses moutons. Naturellement épicurien, mais aussi influencé par le stoïcisme, le scepticisme et le cynisme, il partage avec Montaigne le fait d'être un écrivain érudit polyglotte proche du peuple, mêlant le sérieux au comique, bien qu'a l'inverse de Montaigne, lui écrira plutôt des romans que des essais. C'est une énième personnalité à être censuré, et à s'attirer des condamnation pour sacrilèges comme ne pas croire en l'immortalité de l'âme ou d'amoindrir la crainte de Dieu. Pour autant, le succès de ses premières œuvres lui feront réaliser un almanach se riant des superstitions. Les géants présents dans ses œuvres sont également une caricatures de la royauté, de l'Église et de son enseignement scolastique, qu'il combattra en usant de raillerie paillarde et de culture populaire, usant de situations très imagées et exacerbées.
 
@@ -1098,13 +572,15 @@ Giambattista della Porta était un écrivain polymathe fasciné par l'ésotéris
 
 Thomas Hobbes est né le 5 avril **1588**, il a rédigé *Léviathan* qu'il publiera en 1651. Cette œuvre matérialiste et rationaliste se veut critique des États, de la souveraineté et des religions, bien qu'elle soit ironiquement une référence biblique. Hobbes a suivi des raisonnements déductifs inspirés des mathématiques, plus précisément de la géométrie, pour établir une théorie scientifique et anthropologique de la morale et des organisations autoritaires. Pour lui l'humain est naturellement mauvais et violent, il n'inhiberai ce comportement qu'en faveur d'une autorité dont il craindrait la sentence. Le Léviathan représente cette autorité indiscutable, terrifiante, métaphore des dictatures qui régneront après la destitution de Charles I en 1646. Fermement opposé à la religion et à la scolastique, philosophie religieuse enseignée au moyen âge dans les universités, il serait le premier le premier à préconiser qu'une "société athée ou a-religieuse constitue la solution au problème social ou politique". Comme beaucoup de matérialistes, il adhérera à la philosophie nominaliste indiquant que les idées et concepts sont des constructions de l'esprit, niant la théorie des formes des philosophes antique. Il conçoit également la raison comme un système de traitement de l'information, comparant la pensée à un calcul. Cela revient à penser que les idées et mots ne sont que des étiquettes liés à des réalités subjectives, qui ne représentent en aucun cas une réalité absolue. Cette subjectivité indique naturellement un certain empirisme, toute connaissance provient initialement des sensations. En effet, Hobbes déclarera en autre que "l'esprit humain ne conçoit rien qui n'ait d'abord été, en totalité ou en partie, engendré par les organes des sens", ou que "L'usage général de la parole est de transformer notre discours mental en discours verbal, et l'enchaînement de nos pensées en un enchaînement de mots", formant un pont entre l'esprit et son expression dans le contexte social. Il compare ainsi l'homme à une machine, disant que tout n'est que signaux perçus et réponses créées par un dispositif physiologique nerveux. Assimilant également le Léviathan à un être doté de souveraineté et donc d'une âme, bien qu'il soit un concept abstrait immatériel composé d'individus réels le représentant. Ces positions lui vaudront des accusations d’athéismes, ainsi qu'une querelle avec René Descartes, qui contrairement Hobbes, considérait que seuls les humains ont une âme, que les animaux serait dénues de conscience et de pensée, et ce malgré le fait que Descartes ai émit l'idée d'une substance spirituelle ou immatérielle, qui n'est pas partagée par le matérialiste rigide et cynique qu'est Hobbes.
 
-René Descartes naitra en **1596**, il s'opposa lui aussi à la scolastique, il est le fondateur de la géométrie analytique et du mécanisme, qui donnera lieu à des automates comme ceux de Vaucansson, à la causalité et  au fonctionnalisme, indiquant que de mêmes causes auront les mêmes conséquences. Comme dit précédemment, il exposa la dualité entre l'âme est le corps, qu'il considérait comme propre à l'humain, réduisant les autres animaux à une bête machine guidée par ses instincts et incapable de pensée ou de conscience. Digne héritier du scepticisme, ses réflexions étaient guidées par un doute méthodique qui lui est propre et que l'on dira cartésien. Tout ce qui parait évident doit être remis en question, en mettant de côté son jugement selon le concept sceptique nommé épochè. Il insistera également sur l'importance de ne pas faire confiance aux sensations, qui peuvent nous tromper comme par exemple, dans le cas des illusions d'optiques. Tentant de chercher une vérité dont il ne puisse douter, il fini par trouver sa phrase culte : "cogito ergo sum", signifiant : "je pense donc je suis". À l'inverse de Thomas Hobbes, Descartes semblait croire en l'existence de Dieu, existence qu'il prouvera en disant que tout effet à une cause réelle, et que l'infini ne peut être causé par quelque-chose d'imparfait, et donc qu'un Dieu parfait doit exister. C'est une affirmation à nuancer par le fait qu'il semble avoir eu la plus grande prudence pour éviter la censure, notamment lorsqu'il à accepté le système cosmologique héliocentrique de Copernic, de la même manière que Galilée qui fut pour cela condamné.
+René Descartes naitra en **1596**, il s'opposa lui aussi à la scolastique, il est le fondateur de la géométrie analytique et du mécanisme, qui donnera lieu à des automates comme ceux de Vaucansson, à la causalité et  au fonctionnalisme, indiquant que de mêmes causes auront les mêmes conséquences. Comme dit précédemment, il exposa la dualité entre l'âme est le corps, qu'il considérait comme propre à l'humain, réduisant les autres animaux à une bête machine guidée par ses instincts et incapable de pensée ou de conscience. Digne héritier du scepticisme, ses réflexions étaient guidées par un doute méthodique qui lui est propre et que l'on dira cartésien. Tout ce qui parait évident doit être remis en question, en mettant de côté son jugement selon le concept sceptique nommé épochè. Il insistera également sur l'importance de ne pas faire confiance aux sensations, qui peuvent nous tromper comme par exemple, dans le cas des illusions d'optiques, qui sont en réalité des illusions de notre cerveaux. Tentant de chercher une vérité dont il ne puisse douter, il fini par trouver sa phrase culte : "cogito ergo sum", signifiant : "je pense donc je suis". À l'inverse de Thomas Hobbes, Descartes semblait croire en l'existence de Dieu, existence qu'il déclarera avec le syllogisme disant que "tout effet à une cause réelle, et que l'infini ne peut être causé par quelque-chose d'imparfait, et donc qu'un Dieu parfait doit exister". C'est une affirmation à nuancer par le fait qu'il semble avoir eu la plus grande prudence pour éviter la censure, notamment lorsqu'il à accepté le système cosmologique héliocentrique de Copernic, de la même manière que Galilée qui fut pour cela condamné.
 
 Baruch Spinoza était Très inspiré par le Stoïcisme, selon lui il n'existe dans la nature qu'une seule substance et que c'est Dieu. **1632** -> 1677
 
 Né en **1712** Jean-Jacques Rousseau était orphelin et errant, persécuté par l'Église et la république de Genève. Il était également autodidacte, et appris à l'aide de lectures de Descartes, Malebranche, Leibniz, et bien d'autres. Sa pensée philosophique repose, à l'inverse de Hobbes, sur l'idée que l'Homme est naturellement bon et que la société et les règles qui en émanent viennent nous corrompre, renonçant à notre liberté naturelle au profit de la liberté civile. Malgré cela il affirme que le peuple est souverain, et qu'il doit converger vers l’intérêt commun, qu'il appela *volonté générale*. Il traitera également des rapports de forces et de la place de l'autorité, déclarant que la "force ne fait pas droit, et qu'on n'est obligés d'obéir qu'aux puissances légitimes". En effet, depuis la sédentarisation, l'Homme apprends de plus de pairs différents et doit collaborer afin de trouver des solutions communes, généralement en mettant ses sentiments de côté et en trouvant des "jeux" qui conviennent à la majorité. En devenant adulte, l'enfant "devient son propre maître", à l'inverse, un individu peut aliéner sa liberté et se rendre esclave d'un tiers, même de nos jours, une personne décidant de se salarier dans un travail dit alimentaire pour survivre se "vends" en échange de sa subsistance. Pour autant, c'est lui qui par son travail, assure les revenus du patron, et indirectement des autres salariés. Cette démarche n'est donc néfaste que si malgré la fin qui justifie les moyens, l'individu ne s'engage à rien envers son supérieur. Un contrat sans échange équivalent entraînant la perte de sens et sa propre nullité par l'injustice. Levi-Strauss déclarera qu'il est le fondateur de l'anthropologie, étude de l'être humain et de ses groupes sous tous leurs aspects qu'ils soient physiques ou culturels.
 
 Né en 1724, Kant est le fondateur du criticisme et de l'idéalisme transcendantal. Il a été une grande influence pour la philosophie moderne et la pensée critique. Grand adepte de la connaissance pratique et esthétique, il axa sa philosophie sur la capacité à savoir quoi faire ou espérer en fonction de cette dernière. Il invite donc à être raisonnable, tout en faisant preuve de rigueur et ainsi n'accepter que la connaissance résistante à la critique que l'on peut démontrer. Il a également affirmé que la connaissance trouve son origine dans le sujet humain et non pas dans l'objet étudié. C'est à dire que la construction de la réalité ne sera jamais pleinement représentative de l'objet étudié, mais un long apprentissage itératif de l'humain afin de s'en rapprocher assez pour le connaître. Il traitera également beaucoup la question du dogme, indiquant que l'athéisme est une croyance au même titre que les autres, et qu'il faut malgré tout savoir limiter son savoir pour laisser une place à la croyance, sans laquelle, l'humain ne peut concevoir le monde et émettre des hypothèses.
+
+A cette période les philosophes ont donc redéfinit leur pensée en se rapprochant petit à petit de la science. Ils populariseront l'idée que les sensations comme la douleurs sont liés à des fibres qui s'avéreront faire parti du système nerveux évoqués par Descartes dans le "Traité de l'homme" de 1664.
 
 
 
@@ -1636,6 +1112,10 @@ Créé aux États-Unis en **1955**, le TRAnsistor DIgital Computer sera quand à
 
 
 
+
+
+#### Premiers langages de haut niveau opérationnels
+
 En **1957**, Backus invente le Formula Translator ou FORTRAN, un langage de programmation haut niveau qui produira des programmes binaires aussi performants que ceux des programmeurs expérimentés. Il à initialement conçu ce langage comme une solution à un problème, suite à la constatation que plus de la moitié des coûts des centres informatiques était dus aux salaires des développeurs qui passent jusqu’à la moitié de leurs temps à tester et debugger plutôt qu'a produire du code, à cela s'ajoute le fait que le coût des machine devenant de moins en moins cher, ce pourcentage ne ferait alors qu'augmenter si rien n'était fait. C'est en présentant cette logique à son supérieur qu'il eu l'autorisation de travailler sur ce projet qui n'a à son début que peut de reconnaissance, considéré comme un projet de recherche tentant de réaliser l'impossible et n'ayant aucune garantie de résultats.
 
 Lorsque Backus et son équipe ont présenter le projet à des développeurs, ils étaient tous sceptique. Leurs attentes étaient hautes et le FORTRAN encore approximatif et inabouti. Cela faisait en effet plusieurs années que les salariés d'IBM entendaient parler de "programmation automatique" permettant d'automatiser la programmation bas niveau en utilisant un langage de plus haut niveau d'abstraction pour factoriser à la manière de programmes comme les assembleurs, interpréteurs, compilateurs et générateurs de programmes. Ce type de programme s’exécutant sur d'autre programmes voire dans certains cas sur eux même sont du domaine de la méta-programmation.
@@ -1652,23 +1132,11 @@ SUBSTR TAX FROM GROSS-PAY GIVING NET-PAY
 
 
 
-#### Spoutnik 1
-
-**1957**
-
-
-
-#### Percepton
-
-En **1957**, le psychologue Frank Rosenblatt 
-
-
-
 Langage de première génération : Binaire, difficile à lire et interpréter par un humain
 
 Languages de deuxième génération : Instructions simples et lisible par l'humain, spécifiques à une certaine famille de processeur, dont elle permet de manipuler les commandes principales à l'aide de mot clés mnémoniques.
 
-#### Langages de troisième génération - haut niveau - Structures de contrôle et de données
+Langages de troisième génération - haut niveau - Structures de contrôle et de données
 
 Ces abstractions sont de plus haut niveau et indépendant du matériel, les langages deviennent plus conviviaux et pratiques d'utilisation
 
@@ -1676,15 +1144,9 @@ Ces abstractions sont de plus haut niveau et indépendant du matériel, les lang
 
 
 
-
-
 ##### Lisp
 
 **1958** John Mc Carthy
-
-
-
-
 
 
 
@@ -1722,12 +1184,6 @@ Par la même occasion, IBM invente le Report Program Generator (RPG), un langage
 
 
 
-#### *Spacewar!*
-
-**1962**
-
-
-
 #### Souris
 
 Inventée en **1963** par Douglas Engelbart, elle ne sera présentée au public qu'en 1968. Cet informaticien réalisera également le système d'exploitation NLS, ses travaux serons financés par Joseph Carl Robnett Licklider qui financera également ARPANET
@@ -1761,6 +1217,8 @@ Cet ordinateur avait pourtant bien des défauts, il ne supportait pas le temps p
 
 
 #### Premières applications de l'IA
+
+Percepton En **1957**, le psychologue Frank Rosenblatt 
 
 Dendral fut créé en **1965** par deux informaticiens, 1 médecin et 1 chimiste. Ce programme permet d'identifier des structures moléculaires en se basant sur les connaissances d'expert et des techniques d'analyses telles que la spectrométrie de masse. C'est le premier programme considéré comme "système expert".
 
@@ -1806,7 +1264,9 @@ En **1969**, le microprocesseur est inventé par Federico Faggin, et Marcian Hof
 
 
 
-#### Apollo
+#### Course à l'espace
+
+Spoutnik 1 **1957**
 
 En **1967**, Apollo 1 est un échec et la lune parait de nouveau inaccessible aux américains, sous Kennedy.
 
@@ -1856,7 +1316,9 @@ Inspiré par le memex décrit par Vannevar Bush, Ivan Edward Sutherland invente 
 
 Ce laboratoire d'études travailla sur les premières interfaces graphiques et éditeurs permettant de modifier un document directement depuis son rendu visuel, on appelle ceci la technologie "What You See Is What You Get" ou WYSYWYG. Le premier logiciel à implémenter cette technologie et permettre le repositionnement du curseur et la sélection de texte à l'aide d'une souris est l'éditeur de documents Xerox Bravo sorti en 1974, peu après l'ordinateur Xerox Alto, qui a été révélé le 1er Mars 1973. Cet ordinateur est le premier à fournir une interface graphique, et ainsi ne plus être dépendant de la ligne de commande. Il introduira également les métaphores de bureau, documents, classeurs, et corbeille, familiers à tout employé de bureau. L'ensemble interface graphique et pointeur favorisa grandement l'adoption et la démocratisation des ordinateurs, cela deviendra un standard omniprésent dans nos interactions avec machine.
 
-Alan Kay à dirigé le développement de Smalltalk, créé en 1972 au Xerox Parc, c'est un langage de programmation objet et surtout le premier à avoir un environnement de développement complétement graphique. Il fut intégré au Xerox DoRADO, héritié du Xerox Alto, avec pour objectif d'être un système bien plus performant. Plus tard, en 1996, Smalltalk deviendra Squeak encore disponible et utilisé aujourd'hui. Squeak est inspiré de Logo, qui est à la fois une famille de langages de programmation et une philosophie de l'éducation. C'est le résultats de travaux sur le cognitivisme promu par Marvin Minsky et les travaux sur l'éducation de Jean Piaget promus par Seymour Pagert.
+Alan Kay à dirigé le développement de Smalltalk, créé en 1972 au Xerox Parc, c'est un langage de programmation objet et surtout le premier à avoir un environnement de développement complétement graphique indépendant de la ligne de commande ou d'un éditeur de texte. Il fut intégré au Xerox DoRADO, héritié du Xerox Alto, avec pour objectif d'être un système bien plus performant. Plus tard, en 1996, Smalltalk deviendra Squeak encore disponible et utilisé aujourd'hui. Squeak est inspiré de Logo, qui est à la fois une famille de langages de programmation et une philosophie de l'éducation. C'est le résultats de travaux sur le cognitivisme promu par Marvin Minsky et les travaux sur l'éducation de Jean Piaget promus par Seymour Pagert.
+
+
 
 
 
@@ -1887,6 +1349,7 @@ Présenté en 1978 mais sorti en **1980**, le Minitel est un ordinateur connect�
 
 #### Jeux vidéos
 
+- *Spacewar!* **1962**
 - Atari pong 1972
 - *Pac Man*  **1980**
 
@@ -1988,21 +1451,15 @@ en tant quanimal humaine on se s'en porte pourtant que mieux de juste suivre les
 
 ### Méthodes d'aide à la structuration d'information 
 
-Le management moderne à eu besoin de pouvoir former et guider efficacement ses employés et pour cela il à fallu trouver des outils et moyens mnémotechniques pour facilement analyser les 
+Le management moderne à eu besoin de pouvoir former et guider efficacement ses employés et pour cela il à fallu trouver des outils et moyens mnémotechniques pour facilement analyser les facteurs influent sur l'activité d'une entreprise, une des plus ancienne est la carte heuristique plus connue sous le nom de carte mentale. Née de l'arbre de porphyre, un philosophe néoplatonicien du 3è siècle, elle représente visuellement le cheminement de la pensée et l’interconnections des idées afin d'en extraire les toutes les informations importantes.
 
 
 
 #### Décision
 
-Prendre une décision est parfois très compliqué, il est parfois difficile de mesurer les tenants et aboutissants de nos choix, c'est pourquoi il est important de prendre du recul, de poser sur la table les différentes possibilités, et acteurs de la situation afin de mettre le plus de chance de son côté, dans l'objectif d'atteindre le résultat attendu. 
+Prendre une décision est parfois très compliqué, il est parfois difficile de mesurer les tenants et aboutissants de nos choix, c'est pourquoi il est important de prendre du recul, de poser sur la table les différentes possibilités, et acteurs de la situation afin de mettre le plus de chance de son côté, dans l'objectif d'atteindre le résultat attendu. Beaucoup d'outils analysent d'abord un panel d'informations variés, parmis eux, l'analyse Politique, Economique, Socioculturel, Technologique, Écologique, et Légal, nommée PESTEL permet de se poser des question sur les influences externes, et ainsi réaliser une analyse plus fine des parties prenantes, ou trouver des éléments à mettre dans une matrice Strenght Weakness Opportunity Threat (SWOT)
 
-##### Analyse PESTEL
 
-PESTEL est un acronyme pour (Politique, Économique, Socioculturel, Technologique, Écologique, Légal)
-
-##### SWOT
-
-Strenght Weakness Opportunity Threat
 
 ##### Matrice multicritère
 
@@ -2020,11 +1477,11 @@ Très proche des matrices de faisabilité et de priorisation, elle permet de dé
 
 Il permet de schématiser les différentes causes possible d'un événement ou effet. Inspiré des quatre causes d'Aristote, il est généralement construit en analysant les 5 M : Matière première constituante, Matériel utilisé, Méthode employée, Main-d’œuvre intervenant, et Milieu dans lequel l’événement apparaît.
 
-##### Analyse des parties prenantes
+
 
 ##### Carte heuristique
 
-Née de l'arbre de porphyre, un philosophe néoplatonicien du 3è siècle, et aussi appelée carte mentale ; elle représente visuellement le cheminement de la pensée et l’interconnections des idées afin d'en extraire les toutes les informations importantes.
+
 
 
 
@@ -2109,15 +1566,163 @@ Les fois où j'ai appris le plus rapidement des concept était encore une fois �
 
 
 
-
-
 ### Concepts et outils de programmation
+
+Stucture de données
+
+1. Vecteurs
+2. Matrices
+
+3. Parallélisation
+
+4. Pointeurs mémoires
+
+5. Calculs distribués
+
+6. 2SIG
+   1. Structure
+
+   2. Style
+
+   3. Interaction
+
+   4. Gestion de la donnée 
+
+7. Pop SMTP
+
+1. Habitudes de programmation
+   1. Language naturel, formel, informatique, et construites
+   2. Syntaxe, vocabulaire et Grammaire
+   3. Pseudo Code parlé & Lojban
+   4. Ligne de commande
+   5. Commentaires et documentation
+   6. Interfaces logicielles avancées
+   7. Interopérabilité instantanée inter-appareils
+   8. Gestionnaires de version 
+   9. Programation Orientée Objet 
+   10. Cadriciels
+   11. API
+   12. Cloud
+   13. Tests et Vérification
+   14. CI / CD
+   15. Microservices
 
 #### Bases de la programmation objet
 
-Variables fonctions
+Les blocs de codes de ce chapitre sont écrits en Javascript. Vous pouvez les tester vous même le code en faisant des copiés collés dans la console d'un navigateur internet. Pour y accéder il faut être sur ordinateur et généralement taper sur la touche F12 ou faire la combinaison `Ctrl + Shift + I`.
 
-Objets Classes et Interfaces
+Comme évoqué dans le chapitre [Prémices de l'Algèbre](#Prémices de l'Algèbre), et plus généralement en Mathématiques, les informations sont stockés dans des *variables*, souvent représentées par une lettre, ou dans le cas de l'informatique, sous forme de mots. Parmi les variables, nous avons aussi des *constantes*, variables qui ne changerons plus une fois qu'on leur à affecter une information. Un objet, représente un ensemble de variables. Dans notre monde, n'importe quel objet peut être représenté par un ensemble de variables, prenons une voiture, discrétisons ses informations à une marque, un modèle, une vitesse actuelle et maximum.
+
+```js
+var ma_première_voiture = {
+    "marque": "Citröen",
+    "modele": "C4",
+    "vitesse_actuelle": 0,
+    "vitesse_max": 140
+};
+```
+
+Les langages de haut niveaux permettent de déclarer des *fonctions*, qui permettent d'obtenir un résultat en fonction d'une variables fournies ou non en entrées. Les fonctions permettent  généralement de réaliser des actions sur des objets, dans notre cas, nous allons faire accélérer la voiture qui sera passée en paramètre.
+
+```js
+function faire_accélérer(voiture) {
+    const vitesse_de_la_voiture = voiture.vitesse_actuelle;
+    const { vitesse_max } = voiture;
+    if(vitesse_de_la_voiture + 1 <= vitesse_max) {
+        voiture.vitesse_actuelle = vitesse_de_la_voiture + 1;
+    }    	
+}
+
+// [En l'utilisant sur la déclaration de la variable ma_première_voiture faite avant]
+console.log("Vitesse initiale : %o", ma_première_voiture.vitesse_actuelle); // 0
+faire_accélérer(ma_première_voiture);
+console.log("Vitesse après accélération : %o", ma_première_voiture.vitesse_actuelle); // 1
+```
+
+Dans le cas présent, nous sommes en train de faire avancer la voiture, c'est un peu comme si on devait la pousser, on peut vérifier que sa vitesse à augmenter, mais on va surtout créer une *classe* pour qu'elle puisse se déplacer elle même, vous noterez que dans le code comme dans les langages parlés, il y'a une forme passive et active. La classe est un moule permettant de décrire un l'objet qui y sera forgé et de lui affecter des fonctions. En javascript la classe peut faire référence à l'objet à l'aide du mot clé `this`. Toute classe à une fonction obligatoire nommée `constructor`, elle d'indique l'algorithme à suivre pour créer l'objet qui résultera d'une nouvelle création (`new`).
+
+L'exemple ci-dessous va donc créer une classe Voiture que l'on peut construire en lui passant un objet représentant une voiture telle qu'on l'a précédemment déclaré implicitement, avec la fonction vue plus haut.
+
+```js
+class Voiture {
+    constructor(
+    	{
+            marque,
+        	modele,
+            vitesse_actuelle,
+            vitesse_max,
+    	}
+    ) {
+        this.marque = marque;
+        this.modele = modele;
+        this.vitesse_actuelle = vitesse_actuelle;
+        this.vitesse_max = vitesse_max;
+    }
+    
+    accélére() {
+        // On peut renommer une variable de deux manières
+        const vitesse_de_la_voiture = this.vitesse_actuelle;
+        const { vitesse_max: vitesse_maximum } = this;
+        
+        if(vitesse_de_la_voiture + 1 <= vitesse_maximum) {
+            this.vitesse_actuelle = vitesse_de_la_voiture + 1;
+        }
+        
+        // A l'instar du constructeur qui le fait par défault,
+        // ici on retourne explicitement l'objet. 
+        return this;
+    }
+}
+
+const object_premiere_voiture = new Voiture(ma_premiere_voiture).accélére;
+console.log("Vitesse maintenant : %o", ma_première_voiture.vitesse_actuelle); // 2
+```
+
+La plupart les langages objets ont une notion d'interfaces, en Javascript elle n'existe pas, on pourrais utiliser Typescript, mais dans notre cas on va juste faire une classe abstraite avec un constructeur vide et donc sans attribut. Un objet créé avec cette classe n'aurait que des méthodes, dans le cas de l'interface on ne définit normalement que le nom, les paramètres et le type de retour. Les abstractions permettent de réutiliser des fonctions et de s'assurer que plusieurs entités, dans notre cas des véhicules différant (voiture, bus, train, etc...) d'une liste puissent tous effectuer le même calcul ou traitement donné, par exemple sur la vitesse et la position pour mettre les déplacer avant chaque affichage d'une simulation routière. On peut ainsi redéfinir notre voiture plus simplement. De plus, en utilisant les abstractions, nos objets deviennent super !
+
+```js
+class Vehicule {
+    constructor(
+    	{
+            vitesse_actuelle,
+            vitesse_max,
+    	}
+    ) {
+        this.vitesse_actuelle = vitesse_actuelle;
+        this.vitesse_max = vitesse_max;
+    }
+    
+    accélére() {
+        const vitesse_de_la_voiture = this.vitesse_actuelle;
+        const { vitesse_max } = this;
+        if(vitesse_de_la_voiture + 1 <= vitesse_max) {
+            this.vitesse_actuelle = vitesse_de_la_voiture + 1;
+        }
+        
+        return this;
+    }
+}
+
+class Voiture extends Vehicule {
+    constructor(voiture) {
+        const {
+            marque,
+        	modele,
+            vitesse_actuelle,
+            vitesse_max,
+    	} = voiture;
+        
+        super(voiture);
+        
+        this.marque = marque;
+        this.modele = modele;
+    }
+}
+```
+
+
+
+
 
 
 
@@ -2125,27 +1730,19 @@ https://hal.science/hal-02970135/document
 
 
 
+#### Quelqu'un à généralement la solution
+
+En programmation objet, il existe des Patrons de conceptions, ils trouvent leur racines dans l'architecture. L'architecte en bâtiment Christopher Alexander publie l'essai ***A Pattern Language**: Towns, Buildings, Construction* en **1977**. Cette œuvre à définit de manière casuistique, à la manière du Code de Hammurabi, les problèmes rencontrés en architecture et leurs solutions.
+
+Cette notion à permit de catégoriser les patrons algorithmiques selon trois classes, les *créateurs* solutionnent des problèmes d'[instanciation](https://fr.wikipedia.org/wiki/Instanciation) et de configuration des classes et des objets, les *structuraux* indiquent comment organiser les classes d'un programme et leurs l'interfaces ; et les *comportementaux* définissent l'organisation des [objets](https://fr.wikipedia.org/wiki/Objet_(informatique)) pour que ceux-ci s'échangent des informations en fonction de leurs responsabilités.
 
 
-#### Smalltalk
-
-Créé en 1972, ce langage de programmation orienté objet, est l'un des premiers à avoir un environnement de développement complétement graphique. 
-
-
-
-#### Patrons de conceptions
-
-En **1977** l'architecte en bâtiment Christopher Alexander publie l'essai ***A Pattern Language**: Towns, Buildings, Construction*. Cette œuvre à définit de manière casuistique, à la manière du Code de Hammurabi, les problèmes rencontrés en architecture et leurs solutions. 
-
-Cette notion à permit de catégoriser les problèmes informatique en trois classes, les *créateurs* solutionnent des problèmes d'[instanciation](https://fr.wikipedia.org/wiki/Instanciation) et de configuration des classes et des objets, les *structuraux* indiquent comment organiser les classes d'un programme dans une structure plus large (séparant l'interface de l'implémentation) ;
-
-- comportementaux : ils définissent comment organiser les [objets](https://fr.wikipedia.org/wiki/Objet_(informatique)) pour que ceux-ci collaborent (distribution des responsabilités) et expliquent le fonctionnement des [algorithmes](https://fr.wikipedia.org/wiki/Algorithmique) impliqués.
 
 
 
 #### UML
 
-Les flowchart, qui se traduisent en français par arbres de décisions ou organigramme de programmation (non pas par diagrammes de flux), ont initialement été développés pour dans ingénierie d'industrie vers 1920. Ils ont rapidement été repris par l'industrie informatique alors naissante vers 1950.  La réalisation de schémas ont depuis les début de l'informatique, permit de formuler la logique la constituant pour modéliser les programmes qui en résulterait.
+Les flowchart, qui se traduisent en français par arbres de décisions, diagramme de processus, logigramme ou encore organigramme de programmation (non pas par diagrammes de flux), ont initialement été développés pour dans ingénierie d'industrie vers 1920. Ils ont rapidement été repris par l'industrie informatique alors naissante vers 1950.  La réalisation de schémas ont depuis les début de l'informatique, permit de formuler la logique la constituant pour modéliser les programmes qui en résulterait.
 
 En **1996**, Grady Booch, James Rumbaugh et Ivar Jacobson, trois ingénieurs travaillant sur des langages de modélisation objets différents, décident de s'unir pour co-créer un Langage de Modélisation Unifié qui avec l'inversion anglaise donne l'acronyme UML.
 
@@ -2200,7 +1797,7 @@ Après l'obtention de mon Baccalauréat scientifique en 2016, débarquant alors 
 
 Je n'avais alors jamais vraiment travaillé de ma vie, je ne faisait pas mes devoirs, et malgré cela obtenais toujours la moyenne tant bien que mal, voyant cette dernière chuter année après année. Je n'était évidement pas prêt à la complexité et la rigueur du C ou de Bash. Jusque là mon apprentissage de la discipline sur ma calculatrice était purement empirique, l'enseignement de la programmation nous a quant à lui été introduit sur papier, en commençant par les concepts, nous permettant d'avoir la théorie pour comprendre la pratique, j'ai donc été noyé par la quantité d'information et ne les comprenais souvent qu'après les contrôles, lors de la correction, me rendant compte de mes erreurs et réajustant ma version de ce qui était correct en fonction. J'étais tellement largué en contrôle que lorsque j'ai réalisé mon premier projet de C, comprenant alors pleinement la théorie en me l'appropriant par la pratique, réalisant 80% du projet par moi même, le professeur en question m'a mis une bien moins bonne note qu'au camarade ayant réalisé les 20% restants, donnant malgré tout la moyenne au dernier de notre trinôme.
 
-Ce projet est toujours disponible sur mon Github, il s'agissait d'un gestionnaire de résidence étudiante, et moi qui haïssait alors la ligne de commande toute moche et très peu conviviale ou facile à utiliser, j'étais alors le seul étudiant de la promo à avoir réalisé tout l'affichage en changeant la couleur de fond et du texte, dans le but de simuler une interface graphique, à l'instar des premiers BIOS et des interfaces console interactives que l'on peut avoir encore aujourd'hui, comme `dpkg-reconfigure` sur linux, qui est soit y en passant car j'ai eu le cas récemment, le meilleur moyen de changer la langue de son clavier pour passer de QWERTY à AZERTY de façon permanant en utilisant la ligne de commande.
+Ce projet est toujours disponible sur mon GitHub, il s'agissait d'un gestionnaire de résidence étudiante, et moi qui haïssait alors la ligne de commande toute moche et très peu conviviale ou facile à utiliser, j'étais alors le seul étudiant de la promo à avoir réalisé tout l'affichage en changeant la couleur de fond et du texte, dans le but de simuler une interface graphique, à l'instar des premiers BIOS et des interfaces console interactives que l'on peut avoir encore aujourd'hui, comme `dpkg-reconfigure` sur linux, qui est soit y en passant car j'ai eu le cas récemment, le meilleur moyen de changer la langue de son clavier pour passer de QWERTY à AZERTY de façon permanant en utilisant la ligne de commande.
 
 ![](./assets/dpkg-reconfigure.png)
 
@@ -2236,9 +1833,45 @@ Contrairement à la définition de Wikipédia, qui déclare qu'elle désigne le 
 
 Un fait est la naissance d'une information émanant du matériel à un moment donné t. Pour autant, le fait n'existe plus une fois ce moment t passé, il n'en reste que les conséquences physique et  l'idée de cette action qui est la cause. Plusieurs observateurs peuvent avoir une version différente des faits, propre à leur subjectivité et vérités relatives. Le fait en lui même est une vérité absolue et pure que l'on ne peut qu'
 
+vérité et doute
 
 
 
+
+
+### Signaux forts et faibles 
+
+anecdote prof sifflement 
+
+baki episode 22
+
+### Habitudes
+
+### Viralité
+
+### Standardisation & Universalité
+
+### Rapport de force et ordres de grandeur
+
+### Contexte et vérité
+
+La vérité peut être absolue ou relative, l'absolue ne peut être approché qu'en la définissant dans un contexte partiel dont on aura jamais une pleine compréhension car il nous est impossible de capter et mémoriser toutes les informations y ayant donné lieu.
+
+Par exemple, la proposition "L'eau mouille" n'est vraie que relativement à l'état de l'eau liquide, cet état étant lui même absolu, il est lui même relatif à une certaine densité des molécules H2O le constituant, définie entre autre par la température qui n'est pas le seul facteur. On peut en effet reprendre même raisonnement et dire que "l'eau bout à 100•C", or cette affirmation ne sera vraie que sur la Terre, à une altitude de 0m au niveau de la mer, sous une pression d'environ 1000hPa.
+
+Cette récursion de vérité absolu-relative à une autre est la raison pour laquelle on utilise des axiomes pour admettre des informations comme vraie selon un contexte et des limite données, pour ainsi baser nos réflexions dessus, que ce soit en physique, comme en mathématique ou d'autres sciences. On déduit ainsi des démonstrations dont la syntaxe est composée de définitions, que ce soit de variables en informatique ou de conditions avec des "si et seulement si [...] alors" en mathématique. C'est également la raison pour laquelle l'humain à inventé la méthode des 5 Why, permettant généralement de retrouver la cause d'un problème en remontant jusqu'à 5 récursions de "Pourquoi ?".
+
+De plus, nous l'avons vu au chapitre décrivant Antiquité, l'art du dialogue qu'est la dialectique, nous montre qu'il est futile de vouloir avoir raison et exposer sa vérité relative comme absolue. La mauvaise foi est l’ennemie de l'amélioration personnelle. Seule la vérité absolue compte, lors d'un débat suivant les règles de cet l'art ce n'est pas dans le but de faire briller son savoir ou répandre sa version relative de la vérité que les deux acteurs conversent, mais au contraire de challenger leurs vérités relatives pour les améliorer voire invalider à l'aide des antithèses d'autrui.
+
+En effet la dialectique indique bien qu'il est fondamental de garder sa parole distincte de celle de son interlocuteur, que l'on ne doit pas prendre comme une vérité absolue mais analyser pour en dégager les raisonnements logiques. Il n'y a rien à gagner à avoir raison, l'humanité évolue en échangeant des idées permettant de s'instruire, et d'apprendre.
+
+### Communication & Compréhension
+
+En tant que président Politesse, Respect et Bienveillance seront les maîtres mots de ma philosophie d'entreprise. Veiller à bien faire et bien communiquer, bien travailler, bien apprendre et retransmettre, et essayer tout les jours, malgré les hauts et les bas, de devenir un peu meilleur que la veille.
+
+L'allégorie de la ligne ou celle de la caverne énoncée par Platon sont également la pour nous rappeler que la connaissance peut être hiérarchisée en fonction du contexte et niveau de compréhension.
+
+Il est intéressant d'abaisser son raisonnement en utilisant une métaphore pour expliquer simplement un concept à un initié, tout comme il est important de laisser cet initié le reformuler et corroboré pour vérifier sa compréhension, c'est ainsi que l'on valide la transmission d'une information et un apprentissage, en le testant.
 
 ### Apprentissage
 
@@ -2274,47 +1907,11 @@ Scratch, FlexboxFroggy, CodingGame, Logo
 
 Je terminerai avec une citation de jeu vidéo, Maitre Yi dans League Of Legends dit "*Un vrai maître est un éternel étudiant*".
 
-
-
-### Signaux forts et faibles 
-
-anecdote prof sifflement 
-
-baki episode 22
-
-### Habitudes
-
-### Viralité
-
-### Standardisation & Universalité
-
-### Rapport de force et ordres de grandeur
-
-### Contexte et vérité
-
-La vérité peut être absolue ou relative, l'absolue ne peut être approché qu'en la définissant dans un contexte partiel dont on aura jamais une pleine compréhension car il nous est impossible de capter et mémoriser toutes les informations y ayant donné lieu.
-
-Par exemple, la proposition "L'eau mouille" n'est vraie que relativement à l'état de l'eau liquide, cet état étant lui même absolu, il est lui même relatif à une certaine densité des molécules H2O le constituant, définie entre autre par la température qui n'est pas le seul facteur. On peut en effet reprendre même raisonnement et dire que "l'eau bout à 100•C", or cette affirmation ne sera vraie que sur la Terre, à une altitude de 0m au niveau de la mer, sous une pression d'environ 1000hPa.
-
-Cette récursion de vérité absolu-relative à une autre est la raison pour laquelle on utilise des axiomes pour admettre des informations comme vraie selon un contexte et des limite données, pour ainsi baser nos réflexions dessus, que ce soit en physique, comme en mathématique ou d'autres sciences. On déduit ainsi des démonstrations dont la syntaxe est composée de définitions, que ce soit de variables en informatique ou de conditions avec des "si et seulement si [...] alors" en mathématique. C'est également la raison pour laquelle l'humain à inventé la méthode des 5 Why, permettant généralement de retrouver la cause d'un problème en remontant jusqu'à 5 récursions de "Pourquoi ?".
-
-De plus, nous l'avons vu au chapitre décrivant Antiquité, l'art du dialogue qu'est la dialectique, nous montre qu'il est futile de vouloir avoir raison et exposer sa vérité relative comme absolue. La mauvaise foi est l’ennemie de l'amélioration personnelle. Seule la vérité absolue compte, lors d'un débat suivant les règles de cet l'art ce n'est pas dans le but de faire briller son savoir ou répandre sa version relative de la vérité que les deux acteurs conversent, mais au contraire de challenger leurs vérités relatives pour les améliorer voire invalider à l'aide des antithèses d'autrui.
-
-En effet la dialectique indique bien qu'il est fondamental de garder sa parole distincte de celle de son interlocuteur, que l'on ne doit pas prendre comme une vérité absolue mais analyser pour en dégager les raisonnements logiques. Il n'y a rien à gagner à avoir raison, l'humanité évolue en échangeant des idées permettant de s'instruire, et d'apprendre.
+### Amélioration continue
 
 
 
-### Compréhension
 
-L'allégorie de la ligne ou celle de la caverne énoncée par Platon sont également la pour nous rappeler que la connaissance peut être hiérarchisée en fonction du contexte et niveau de compréhension.
-
-Il est intéressant d'abaisser son raisonnement en utilisant une métaphore pour expliquer simplement un concept à un initié, tout comme il est important de laisser cet initié le reformuler et corroboré pour vérifier sa compréhension, c'est ainsi que l'on valide la transmission d'une information et un apprentissage, en le testant. 
-
-
-
-### Dieu
-
-Je suis agnostique, je pense cependant que l'entité qui à créé l'univers et celle qui pourrait être omnisciente ne sont pas forcement la même entité.
 
   
 
@@ -2324,11 +1921,49 @@ De nos jours j'ai souvent entendu parler de philosophie d'entreprise. L'entrepri
 
 En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une même cause, est comme internet, la rue ou tout autre environnement dans lequel nous évoluons, c'est une indifférence, ce n'est ni bien, ni mal, cela ne dépends de ce que l'on en fait et à qu'elles fins. Nous devons tous un jour faire face au fait que nous sommes influencés et conditionnés par notre environnement et notre histoire, nos habitudes, et les groupes d'humains dans lesquels nous avons évolués. Le réel problèmes sont les dérives, notamment le fait de vénérer une autorité austère qu'on ne peut discuter, mais aussi tout les heurts qui nous sont propres. Pour le reste, la vie bats son plein et continue de parcourir le temps en faisant ce qu'elle a à faire, vivre. En réalisant EditIDE, je ne sais pas comment cet outil va être utilisé, mais je sais désormais que je veut créer des indifférences, et aller du global vers le particulier.
 
-### Communication
+### Divin
 
-En tant que président Politesse, Respect et Bienveillance seront les maîtres mots de ma philosophie d'entreprise. Veiller à bien faire et bien communiquer, bien travailler, bien apprendre et retransmettre, et essayer tout les jours, malgré les hauts et les bas, de devenir un peu meilleur que la veille.
+Je suis agnostique, je ne sais des Dieux s'ils sont ou pas. Je pense que l'entité qui à créé l'univers et celle qui pourrait être omnisciente ne sont pas forcement la même entité. Pour autant, je pense que le divin est omniprésent, chaque bonne action, chaque amélioration à du divin en elle. Le bien est universel, on ne doit pas faire à son prochain, ce que l'on aimerai pas qu'il nous fasse. On doit demander pardon et s'excuser pour nos erreurs. Remercier chaque personne qui nous rends biens et services. Ses morales également transmises par les textes sacrés devraient être la pour nous inspirer le bien, par pour être utilisé fanatiquement dans le but d'exposer sa vérité. Les sages antiques nous ont transmis la raison et la tempérance. Les philosophes modernes quand à eux, l'absence de jugement et le fait qu'il faille parfois limiter son savoir pour laisser une place à la croyance et comprendre la manière de penser des gens. Pour autant à cette période, dans le but de ce rapprocher de la vérité, les sciences prévalent sur la religion, et s'en est ainsi depuis le siècle des lumière. Science et religion ne sont pas incompatibles pour autant, bien au contraire. Le divin réside dans notre attribution de se qui est juste ou mauvais en fonction de notre système de croyance. Malgré mon manque manifeste de rigueur, j'aspire à consciencieusement suivre la science et sa logique qui nous rapproche le plus purement de l'information véritable, factuelle, démontrable par expérimentation. Depuis toujours, dans le but de se rapprocher du divin, l'humanité améliore continuellement les conditions de leurs descendants, et ce avec l'environnement et tout aléas qu'on ne peut encore y contrôler. Pour autant, on doit juger sur le pari pas le résultat, pour accéder à la raison et au savoir, le hasard doit être limité.
 
 
+
+### Intelligence
+
+
+
+Seul 15% des cellules du cerveaux sont des neurones les 85% sont les cellules gliales sont en grandes parties des cellules de soutien, électriquement silencieuses, qui représentent entre 50 % à 90 % des cellules du système nerveux selon les sources. Des astrocytes humains ont été greffés sur des souris et celles greffés ont trouver la sortie 2 fois plus vite, elles jouent un rôle clé dans la mémoire et l'apprentissage, et donc dans l'intelligence. Il y'a donc désormais des preuves scientifiques prouvant que la biologie et la génétique influence cela, pour autant, les facteurs sont bien trop multiples, et je pense qu'il faut se concentrer sur ceux que l'on peut éthiquement contrôler, avec la certitude de bienfaits. L'intelligence est plus globale et dépendante d'un environnement donné, comme l'aurai dit Einstein, dont le cerveau à été analysé et a permit d'avancer sur les recherches portant sur les astrocytes : "on ne doit pas juger un poisson à sa capacité à grimper à un arbre". Le test de QI n'est selon moi pas représentatif de l'intelligence d'une personne, car elle n'évalue pas la capacité d'une personne à vivre au mieux possible dans son environnement. Cette intelligence ce fait ailleurs de manière collective avec l'aide et l'accompagnement de services publics comme privés. L'intelligence est de faire les meilleures connexions entre les informations que l'on a en tête et celles qui sont perçues à un moment T de la vie de l'individu. Elle n'est donc selon moi pas fixe, parfois on fait des choses stupides, d'autre fois brillantes. Vouloir être brillant tout le temps est fade et prétentieux, mais faire de son mieux est précieux. L'intelligence humaine réside dans le chaos de la pluralité de visions du monde. L'intelligence en elle même serait selon moi un tout tendant vers un fonctionnement optimal, et dont la limite inatteignable est la perfection.
+
+https://www.youtube.com/watch?v=NH2sMPERT2g
+
+https://fr.wikipedia.org/wiki/Cellule_gliale
+
+https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.21974
+
+
+
+
+
+### Informatique et cuisine
+
+La cuisine et la logique sont liés et font partie de science combinatoires. Depuis l'antiquité, les recettes sont des formulations logiques, les ingrédient sont biologique, leurs modifications par leurs préparations, formes, mélanges, et leurs méthodes de cuissons, sont physique.
+
+
+
+1. Philosophie personnelle
+   1. Réalisation de projets WMD (WYSIWYG meta dogfood)
+      1. Markdown
+      2. 
+   2. Faits, Vérité et doute. (biais de confirmations, multifactoriel)
+   3. La magie c'est de défaire et savoir refaire
+   4. LA DONNEE (collecte, emplacement géographique, valeur)
+   5. Un programme est un contrat.
+      1. Qu'il , soit moral ou non
+   6. Biais humain, machine, et réalité de la donnée (illusions de captation, interprétation, context)
+   7. Choix et Theorie des jeux
+   8. Sécurité, permissions, et contraintes.
+   9. Intelligence, Ambiguïtés et apprentissage : Nous sommes tous des IAs
+   10. Apprentissage par l’erreur, sans elle rien ne serais possible le succès ne s’obtient qu’en résolvant des micro problèmes 
+   11. On fait avec ce qu’on a, alors obligé d’accumuler, ça donne des (cf Cadriciels)
 
 
 
@@ -2444,7 +2079,11 @@ Web builders are bad.
 
 
 
+Flux de travail d'EditIDE
 
+1. Gestion projet
+2. API
+3. Interface
 
 
 
@@ -2791,9 +2430,9 @@ Quand j'arrive dans un fichier, je veux savoir directement le nom des variables 
 
 ##### Documentation
 
-La documentation permet théoriquement de répondre à toute question que l'on pourrait se poser concernant un domaine, ou dans le cas de la programmation informatique, d'un projet logiciel. Elle doit couvrir toutes les actions que doivent accomplir le développeur, de l'installation du logiciel, a son lancement, son usage, ses fonctionnalités, son code, comment contribuer et collaborer. Git permet même théoriquement, si on l'utilisait mieux, de décrire chaque action réalisée
+La documentation permet théoriquement de répondre à toute question que l'on pourrait se poser concernant un domaine, ou dans le cas de la programmation informatique, d'un projet logiciel. Elle doit couvrir toutes les actions que doivent accomplir le développeur, de l'installation du logiciel, a son lancement, son usage, ses fonctionnalités, son code, comment contribuer et collaborer. Git permet même théoriquement, si on l'utilisait mieux, de décrire chaque action réalisée. Les instructions doivent être claires, simples, et utiliser des diagrammes au besoin. Le respect de cette documentation autant dans sa rédaction que dans sa lecture permet une amélioration de la qualité et de la sécurité de l'application.
 
-Les API étants une boite noire, il est essentiel de les documenter, pour ce faire, le meilleur outil actuellement est swagger, il permet de regrouper des ressources web (url) dans des groupes et d'indiquer quels sont les paramètres que l'on peut y passer, et la ou les réponse attendue possibles.
+Les API étants une boite noire, il est essentiel de les documenter, pour ce faire, le meilleur outil est actuellement swagger, il permet de regrouper des ressources web (url) dans des groupes et d'indiquer quels sont les paramètres que l'on peut y passer, et la ou les réponse attendue possibles.
 
 
 
@@ -2811,11 +2450,12 @@ Vue macro, vu micro, questions individuelles précisent, groupe permet d'avoir l
 
 #### Rêves lucides
 
-Conscience
-metacognition
+Les théories les plus récentes de la conscience disent que c'est le fait d'avoir une information disponible à un moment T pour la partager à l'ensemble des traitements du cortex cérébral. Pour autant avoir conscience d'une information ne signifie pas forcement avoir conscience de soi, ceci relève de la métacognition. 
+
+https://www.youtube.com/watch?v=dGo5Whv-VCU
 mémoire onirique
 
-
+Percevoir la réalité c'est rêver de la réalité, notre conscience est limité par la réalité physique, le rêve pur n'est contraint que par notre conscience
 
 Restaurer l'information perdue, vesuvius challenge https://scrollprize.org/
 
@@ -2823,11 +2463,11 @@ Restaurer l'information perdue, vesuvius challenge https://scrollprize.org/
 
 ## Postface : Rétrospective et métacognition
 
-J'ai écris ce mémoire en commançant par de la prise de note puis en rédigeant, reliant petit à petit toutes les idées et concepts dont je voulais parler. En soit je n'ai rien inventé, j'ai découvert plein d'informations et me suis contenté de les compiler à la manière de Vitruve ou d'un ordinateur.
+J'ai écris ce mémoire en commençant par de la prise de note puis en rédigeant, reliant petit à petit toutes les idées et concepts dont je voulais parler. En soit comme beaucoup de personnalités évoqués dans mon œuvre, je n'ai rien inventé, j'ai découvert plein d'informations et me suis contenté de les compiler à la manière de Vitruve, ou d'un ordinateur.
 
-Dès que j'avais une idée ou une information qui pouvait se relier à mon mémoire, je dégainais mon téléphone, activait mon VPN pour me connecter au réseau de mon appartement et ainsi accéder à mon serveur windows, tournant h24 sur un mini-pc à 500 euros que je me suis acheté avant d'intégrer l'école hexagone, avec le premier salaire de mon alternance et la jolie prime obtenue pour avoir rejoint l'entreprise dès que possible un mois avant la rentrée scolaire. 
+Dès que j'avais une idée ou une information qui pouvait se relier à mon mémoire, je dégainais mon téléphone, activait mon VPN pour me connecter au réseau de mon appartement et ainsi accéder à mon serveur Windows, tournant h24 sur un mini-pc à 500 euros que je me suis acheté avant d'intégrer l'école hexagone, avec le premier salaire de mon alternance et la jolie prime obtenue pour avoir rejoint l'entreprise dès que possible un mois avant la rentrée scolaire. 
 
-Problème pour retrouver des informations, comme Lulle ou j'ai du récupérer la page en catalan, ou l'automatic programming, qui ne possède pas de page wikipédia ni de définition en français. J'ai très souvent croiser les versions anglais et francaises des pages wikipédia que je consultait pour être sur de la source et de la véracité des informations. J'ai également pu lire des textes historiques fantastiques comme le texte As we may think de Vannevar Bush, prouvant encore une fois que beaucoup d'inventions et informations qui n'ont été connue du grand public par la suite était déjà accessible aux plus curieux.
+J'ai parfois rencontrer des problèmes pour retrouver des informations, pour Raymond Lulle par example, j'ai dû récupérer la page en catalan pour mieux comprendre le lien entre Lulle et la logique combinatoire et computationnelle qui a inspiré Leibniz. En effet, certains concepts comme l'automatic programming, ne possède pas de page wikipédia ni de définition en français. J'ai très souvent croiser les versions anglais et francaises des pages wikipédia que je consultait pour être sur de la source et de la véracité des informations. J'ai également pu lire des textes historiques fantastiques comme le texte *As we may think* de Vannevar Bush, prouvant encore une fois que beaucoup d'inventions et informations qui n'ont été connue du grand public par la suite était déjà accessible aux plus curieux.
 
 
 
@@ -2930,6 +2570,8 @@ https://www.youtube.com/watch?v=eIpoA7Ir9p8
 https://www.youtube.com/watch?v=7XTHdcmjenI
 
 https://www.youtube.com/watch?v=Ag1AKIl_2GM
+
+https://www.youtube.com/watch?v=avTMg2THEvM
 
 
 
