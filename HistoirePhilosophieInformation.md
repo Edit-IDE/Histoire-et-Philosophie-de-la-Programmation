@@ -1413,9 +1413,9 @@ L'antithèse, revient à justifier que le stimuli étant identique, il est tout 
 
 https://fr.wikipedia.org/wiki/ENQUIRE (**1990** Tim Berners Lee) web semantique Rose Dieng Kuntz
 
-Ward Cunningam créa le wiki en 1995, il fut un développeur Smalltalk
+Ward Cunningam créa le premier wiki en 1995 il est encore disponible tel quel[^1], il fut un développeur Smalltalk 
 
-
+[^1]: http://wiki.c2.com/
 
 #### Ordinateur quantique
 
@@ -2458,6 +2458,14 @@ mémoire onirique
 Percevoir la réalité c'est rêver de la réalité, notre conscience est limité par la réalité physique, le rêve pur n'est contraint que par notre conscience
 
 Restaurer l'information perdue, vesuvius challenge https://scrollprize.org/
+
+
+
+On a récemment avéré que les techniques de peinture des grand maitres ont étés transmises par Leonard de Vinci qui expérimentait de nouvelles techniques de peintures comme une première couche à base de plomb nommée Plombonacrite
+
+https://www.journaldugeek.com/2023/10/16/un-accelerateur-de-particules-revele-un-nouveau-secret-de-la-joconde/?utm_source=pocket-newtab-fr-fr
+
+https://pubs.acs.org/doi/10.1021/jacs.3c07000
 
 
 
