@@ -1,6 +1,6 @@
 
 
-# Mémoire de fin d'année
+# Mémoire de fin d'études
 
 
 
