@@ -10,7 +10,35 @@ Mémoire de fin d'étude pour la validation du diplôme résultant de mon parcou
 
 Cet ouvrage, conformément à son titre et aux recherches qu'il a nécessité, énonce le passé, le présent, et ma pensée sur le futur de la gestion de l'information. L'étude des connaissances existantes sur ce sujet vous replongera sûrement dans vos cours d'Histoire, elle mettra en situation le présent avec un abrégé allant de la préhistoire, jusqu’à l'état actuel du monde scientifique, et plus particulièrement de l'informatique. Cette discipline récente permet désormais de solutionner et automatiser beaucoup de tâches pénibles, mais sa pratique en elle même reste fastidieuse. C'est pourquoi j'en ai fait le cœur de ma problématique, que je l'analyse pour la repenser dans un essai philosophique, et que la dernière partie se nomme "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?". À l'aide des parties précédentes analysant son origine, la conclusion proposera ainsi une solution informatique innovante, combinant des technologies et pratiques existantes pour se simplifier elle même en utilisant de la rétro-action et de la méta-programmation à travers une interface graphique simple et agréable.
 
+<div style="page-break-after: always;"></div>
 
+## Préface
+
+Avant de vous raconter l'histoire de l'information, je vais brièvement vous parler de la mienne en toute vulnérabilité car pour comprendre et pouvoir juger l'identité de quelqu'un, il faut d'abord appréhender ses difficultés, appétences, habitudes, et plus globalement son vécu composé de l'accumulation de ses perceptions et actions marquantes.
+
+Après l'obtention de mon Baccalauréat scientifique en 2016, débarquant alors en DUT informatique, je n'avais programmé qu'en BASIC sur une calculatrice Texas Instrument. A cette époque je n'étais qu'un gamin ayant sauté la grande section et le cours primaire pour avoir su lire à 2 ans et demi grâce au logiciel éducatif Lapin malin, qui débarque donc à Clermont-Ferrand du haut de ses de 17 ans, découvrant l'indépendance dans un 9m2 fibré du CROUS, dans lequel j'ai utilisé pendant 3 ans un réseau privé virtuel (VPN) pour contourner les limitations du réseau Renater, et pouvoir ainsi jouer à League Of Legends avec 5 millisecondes de latence.
+
+Je n'avais alors jamais vraiment travaillé de ma vie, je ne faisait pas mes devoirs, et malgré cela obtenais toujours la moyenne tant bien que mal, voyant cette dernière chuter année après année. Je n'était évidement pas prêt à la complexité et la rigueur du C ou de Bash. Jusque là mon apprentissage de la discipline sur ma calculatrice était purement empirique, l'enseignement de la programmation nous a quant à lui été introduit sur papier, en commençant par les concepts, nous permettant d'avoir la théorie pour comprendre la pratique, j'ai donc été noyé par la quantité d'information et ne les comprenais souvent qu'après les contrôles, lors de la correction, me rendant compte de mes erreurs et réajustant ma version de ce qui était correct en fonction. J'étais tellement largué en contrôle que lorsque j'ai réalisé mon premier projet de C, comprenant alors pleinement la théorie en me l'appropriant par la pratique, réalisant 80% du projet par moi même, le professeur en question m'a mis une note bien moindre qu'au camarade ayant réalisé les 20% restants, donnant malgré tout la moyenne au dernier de notre trinôme.
+
+Ce projet est toujours disponible sur mon GitHub, il s'agissait d'un gestionnaire de résidence étudiante, et moi qui haïssait alors la ligne de commande toute moche et très peu conviviale ou facile à utiliser, j'étais alors le seul étudiant de la promo à avoir réalisé tout l'affichage en changeant la couleur de fond et du texte, dans le but de simuler une interface graphique, à l'instar des premiers BIOS et des interfaces console interactives que l'on peut avoir encore aujourd'hui, comme `dpkg-reconfigure` sur linux, qui est soit y en passant car j'ai eu le cas récemment, le meilleur moyen de changer la langue de son clavier pour passer de QWERTY à AZERTY de façon permanente en utilisant la ligne de commande.
+
+![](./assets/dpkg-reconfigure.png)
+
+J'ai rapidement découvert les compilateurs, qui indiquent les erreurs tant bien que mal, qui ont parfois eux même des erreurs ou manques de précisions, nécessitant de comprendre pleinement son fonctionnement et son propre code pour arriver à trouver et corriger le problème. Cela peut être décourageant pour beaucoup, et c'est d'ailleurs certainement une des raisons pour lesquelles une bonne partie abandonnent en première année.
+
+En deuxième année, j'ai dirigé et développé en grande partie un projet libre de fin d'année. Comme beaucoup d'étudiant en informatique je voulais réaliser un jeu, et me suis lancé dans son développement en C#, en utilisant MonoGame, un outil logiciel facilitant la création d'un jeu en fournissant de quoi afficher des rectangles, remplis de couleurs ou d'images, et quelles règles leur appliquer à chaque itération, avant mise à jour de l'affichage.
+
+Après l'obtention de mon DUT, je n'ai pas trouvé d'alternance et donc pas été pris en licence pro. Je me suis donc dirigé vers une deuxième année de licence en informatique dans le but de réaliser un master par la suite. Lors de cette année, il nous a été demandé de réaliser un projet de client-serveur employant des sockets pour une communication en temps réel, j'ai pu réutiliser mon projet de C et les connaissances de mon DUT avec bien entendu la technique pour simuler une interface graphique dans un environnement console, aboutissant ainsi le projet avec succès.
+
+Pour autant, je me suis vite rendu compte qu'il me manquait des bases, notamment le vocabulaire mathématique enseigné dans la première année de licence que je n'avais pas fait, et la motivation nécessaire pour réussir dans cette formation plus théorique permettant aboutir un Bac + 5. J'ai donc abandonné, en attendant la fin de l'année, j'ai failli être défaillant dans la seule matière qui me plaisait. Me rendant compte de cela, j'ai travaillé intensément pendant une semaine pour effectuer le projet demandé, codant ainsi le [Jeu de la vie de Conway](#John-Horton-Conway) en utilisant Monogame et C#, deux outils que je maitrisait bien. J'ai alors pu retourner voir le professeur de cette matière avec un projet fini, bien que rendu en retard, et n'ai ainsi pas été considéré défaillant. Ce projet est également disponible sur mon GitHub, téléchargeable et installable facilement sur Windows.
+
+Cette année à été à la fois la pire et la meilleure de ma vie, une fois que j'ai eu abandonné, j'étais complètement perdu mais résolu à trouver une solution et aller de l'avant. J'avais du mal à savoir ce que j'allais faire, j’étais atterré par mon échec ainsi que le manque de soutien et de volonté qui aurait pu me permettre de rattraper les lacunes de la première année de licence informatique que je n'avais pas réalisée. Je suis content d'avoir eu la jugeote nécessaire, ainsi qu'un bon ami qui m'a permis d'avoir une alternance en tant que Développeur Full-Stack chez l'éditeur de logiciel CRM Reflex Training, récemment renommé SoEMan Group, et ainsi intégrer la licence professionnelle web que je n'avais pas pu intégrer, après un an d'incertitude et de remise en question. Cette première alternance m'a permit de mieux comprendre SQL et PHP que pendant de mes cours, j'ai même pu reprendre un projet de refonte graphique de l'affichage du CRM pour le rendre fonctionnel sur toutes tailles d'écrans, il a lui même été repris et aboutit par la suite.
+
+Durant cette année de Licence professionnelle web, que j'ai obtenu en bout de course avec un minable 9.96, j'ai eu l'idée d'un projet informatique qui me permettrait de réaliser tout les autres plus facilement. J'ai donc, le 27 octobre 2019, commencé un prototype de logiciel d'environnement de développement intégré (IDE) alors nommé KIDE.
+
+Après obtention de mon diplôme de niveau Bac + 3, j'ai été embauché le 25 décembre 2019 par l'agence web clermontoise De Bussac Multimédia, en tant que développeur Front-End. J'y ai travaillé pendant 2 ans et 6 mois, finissant Lead Développeur Front-End sur un projet React important et complexe. Ce premier CDI m'a permit d'apprendre à maîtriser des compétences qui ne nous avait pas été enseignées lors de mon cursus plus orienté Back-End. Les dates limites et l'exigence du rendu y était très importantes, j'ai du améliorer ma productivité et ma rigueur pour arriver à mes objectifs. Sans cette expérience je n'aurais pas connu l'École Hexagone ni eu la volonté et rigueur nécessaire à aboutir cette fin d'étude que j'ai réalisée en alternance chez ABGX en tant que développeur Full-Stack, aboutissant ainsi un Bac + 5 avec la réalisation de ce mémoire.
+
+Depuis le 27 octobre et durant toutes ses années, ma détermination à développer un IDE convivial et intuitif n'a cessé de grandir. À l'issue de mon contrat d'alternance, je sais d'or et déjà que je vais créer une entreprise et réaliser des missions de prestations pour financer la réalisation de ce projet. Le problème auquel il répondra sera celui de ce mémoire.
 
 ## Remerciements
 
@@ -1424,9 +1452,9 @@ L'antithèse, revient à justifier que le stimuli étant identique, il est tout 
 
 https://fr.wikipedia.org/wiki/ENQUIRE (**1990** Tim Berners Lee) web semantique Rose Dieng Kuntz
 
-Ward Cunningam créa le wiki en 1995, il fut un développeur Smalltalk
+Ward Cunningam créa le premier wiki en 1995 il est encore disponible tel quel[^1], il fut un développeur Smalltalk 
 
-
+[^1]: http://wiki.c2.com/
 
 #### Ordinateur quantique
 
@@ -1801,34 +1829,6 @@ Suite à Atom publié par GitHub le 26 février 2014, bien avant son rachat en 2
 [Retour](#Introduction)
 
 ## Essai
-
-Maintenant que je vous ai raconté l'histoire de l'information, je vais brièvement vous parler de la mienne en toute vulnérabilité car pour comprendre et pouvoir juger l'identité de quelqu'un, il faut appréhender ses difficultés, appétences, habitudes, et plus globalement son vécu composé de l'accumulation de ses sensations et actions marquantes.
-
-Après l'obtention de mon Baccalauréat scientifique en 2016, débarquant alors en DUT informatique, je n'avais programmé qu'en BASIC sur une calculatrice Texas Instrument. A cette époque je n'étais qu'un gamin ayant sauté la grande section et le cours primaire pour avoir su lire à 2 ans et demi grâce au logiciel éducatif Lapin malin, qui débarque donc à Clermont Ferrand du haut de ses de 17 ans, découvrant l'indépendance dans un 9m2 fibré du CROUS, dans lequel j'ai utilisé pendant 3 ans un réseau privé virtuel (VPN) pour contourner la limitation du réseau Renater, et pouvoir ainsi jouer à League Of Legends avec 5 millisecondes de latence.
-
-Je n'avais alors jamais vraiment travaillé de ma vie, je ne faisait pas mes devoirs, et malgré cela obtenais toujours la moyenne tant bien que mal, voyant cette dernière chuter année après année. Je n'était évidement pas prêt à la complexité et la rigueur du C ou de Bash. Jusque là mon apprentissage de la discipline sur ma calculatrice était purement empirique, l'enseignement de la programmation nous a quant à lui été introduit sur papier, en commençant par les concepts, nous permettant d'avoir la théorie pour comprendre la pratique, j'ai donc été noyé par la quantité d'information et ne les comprenais souvent qu'après les contrôles, lors de la correction, me rendant compte de mes erreurs et réajustant ma version de ce qui était correct en fonction. J'étais tellement largué en contrôle que lorsque j'ai réalisé mon premier projet de C, comprenant alors pleinement la théorie en me l'appropriant par la pratique, réalisant 80% du projet par moi même, le professeur en question m'a mis une bien moins bonne note qu'au camarade ayant réalisé les 20% restants, donnant malgré tout la moyenne au dernier de notre trinôme.
-
-Ce projet est toujours disponible sur mon GitHub, il s'agissait d'un gestionnaire de résidence étudiante, et moi qui haïssait alors la ligne de commande toute moche et très peu conviviale ou facile à utiliser, j'étais alors le seul étudiant de la promo à avoir réalisé tout l'affichage en changeant la couleur de fond et du texte, dans le but de simuler une interface graphique, à l'instar des premiers BIOS et des interfaces console interactives que l'on peut avoir encore aujourd'hui, comme `dpkg-reconfigure` sur linux, qui est soit y en passant car j'ai eu le cas récemment, le meilleur moyen de changer la langue de son clavier pour passer de QWERTY à AZERTY de façon permanant en utilisant la ligne de commande.
-
-![](./assets/dpkg-reconfigure.png)
-
-J'ai rapidement découvert les compilateurs, qui indiquent les erreurs tant bien que mal, qui ont parfois eux même des erreurs ou manques de précisions, nécessitant de comprendre pleinement son fonctionnement et son propre code pour arriver à trouver et corriger le problème. Cela peut être décourageant pour beaucoup, et c'est d'ailleurs certainement une des raisons pour lesquelles une bonne partie abandonnent en première année.
-
-En deuxième année, j'ai dirigé et développé en grande partie un projet libre de fin d'année. Comme beaucoup d'étudiant en informatique je voulais réaliser un jeu, et me suis lancé dans son développement en C#, en utilisant MonoGame, un outil facilitant la création d'un jeu en fournissant de quoi afficher des rectangles, remplis de couleurs ou d'images, et quelles règles leur appliquer à chaque itération.
-
-Après l'obtention de mon DUT, je n'ai pas été pris en alternance ni en licence pro et me suis donc dirigé vers une deuxième année de licence en informatique dans le but de réaliser un master par la suite. Lors de cette année, il nous a été demandé de réaliser un projet de client-serveur employant des sockets pour une communication en temps réel, j'ai pu réutiliser mon projet de C et les connaissances de mon DUT avec bien entendu la technique pour simuler une interface graphique dans un environnement console, aboutissant ainsi le projet avec succès.
-
-Pour autant, je me suis vite rendu compte qu'il me manquait à l'époque des bases, un vocabulaire mathématique et la motivation nécessaire pour réussir dans cette formation plus théorique et aboutir un Bac + 5. J'ai donc abandonné, décidant de me réorienter et retourner vers l'IUT pour réaliser une Licence Pro, en attendant la fin de l'année, j'ai failli être défaillant dans la seule matière qui me plaisait. Me rendant compte de cela, j'ai travaillé intensément pendant une semaine pour effectuer le projet demandé, codant ainsi le Jeu de la vie de Conway en utilisant Monogame et C#, deux outils que je maitrisait bien. J'ai alors pu retourner voir le professeur de cette matière avec un projet fini, bien que rendu en retard, et n'ai ainsi pas été considéré défaillant. Ce projet est également disponible sur mon GitHub, téléchargeable et installable facilement sur Windows.
-
-Cette année à été à la fois la pire et la meilleure de ma vie, une fois que j'ai eu abandonné, j'étais complétement perdu mais résolu à trouver une solution et aller de l'avant. J'avais du mal à savoir ce que j'allais faire et j'était atterré par mon échec et le manque de soutien qui aurait pu me permettre de rattraper les lacunes de la première année de licence informatique que je n'avais pas réalisée. Je suis content d'avoir eu la jugeote nécessaire ainsi qu'un très bon ami qui m'a permis d'avoir une alternance en tant que Développeur Full-Stack chez l'éditeur de logiciel CRM Reflex Training, récemment renommé SoEMan Group, dans le but d'intégrer la licence professionnelle web l'année d'après.
-
-Durant cette année de Licence pro, que j'ai obtenu en, bout de course avec un minable 9.96, j'ai eu l'idée d'un projet informatique qui me permettrait de réalisé tout les autres plus facilement. J'ai donc le 27 octobre 2019, commencé un prototype de logiciel d'environnement de développement intégré (IDE) alors nommé KIDE.
-
-Après obtention de mon diplôme, j'ai été embauché le 25 décembre 2019 par De Bussac Multimédia, en tant que développeur Front-End. J'y ai travaillé pendant 2 ans et 6 mois, finissant Lead Développeur Front-End sur un gros projet React.
-
-Enfin, j'ai repris mes études à l'École Hexagone, en alternance chez ABGX en tant que développeur Full-Stack, aboutissant un Bac + 5 avec la réalisation de ce mémoire.
-
-Depuis le 27 octobre et durant toutes ses années, ma détermination à développer un IDE convivial et intuitif n'a cessé de grandir. À l'issue de mon contrat d'alternance, je sais d'or et déjà que je vais créer une entreprise et réaliser ce projet. Le problème auquel il répondra sera celui de ce mémoire.
 
 Avant d'arriver à cette partie qui répond pleinement à la problématique, je vais à travers cet essai décrire ma philosophie personnelle découlant de l'ensemble de mon vécu et de mes connaissances.
 
@@ -2473,6 +2473,14 @@ mémoire onirique
 Percevoir la réalité c'est rêver de la réalité, notre conscience est limité par la réalité physique, le rêve pur n'est contraint que par notre conscience
 
 Restaurer l'information perdue, vesuvius challenge https://scrollprize.org/
+
+
+
+On a récemment avéré que les techniques de peinture des grand maitres ont étés transmises par Leonard de Vinci qui expérimentait de nouvelles techniques de peintures comme une première couche à base de plomb nommée Plombonacrite
+
+https://www.journaldugeek.com/2023/10/16/un-accelerateur-de-particules-revele-un-nouveau-secret-de-la-joconde/?utm_source=pocket-newtab-fr-fr
+
+https://pubs.acs.org/doi/10.1021/jacs.3c07000
 
 
 
