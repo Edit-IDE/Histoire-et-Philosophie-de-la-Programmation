@@ -1271,7 +1271,7 @@ L'année suivante, en 1966 Eliza sera révélée, une intelligence artificielle 
 
 Au début du 20 ème siècle, seront développés les circuits imprimés, composés de métal conducteurs appliqués sur une carte faite d'un matériau isolant aussi appelé diélectrique, réalisant ainsi des circuits électroniques complexes.
 
-En 1903 Albert Hanson dépose un premier brevet[^0] pour coller des fils conducteurs sur un papier de paraffine dans le but d'améliorer les technologies téléphoniques, posant les bases de cette technologie.
+En 1903 Albert Hanson dépose un premier brevet[^0] pour coller des fils conducteurs sur un papier de paraffine dans le but d'améliorer les branchements téléphoniques, posant les bases de cette technologie.
 
 [^0]: https://worldwide.espacenet.com/patent/search/family/009975642/publication/?q=pn%3DGB269729A
 
@@ -1474,7 +1474,7 @@ Les recherches et compréhension récentes dans le domaine de la bio-informatiqu
 
 ## Pratiques actuelles
 
-L'informatique est désormais omniprésente, la terre est entourée de satellites en orbites, les continents sont interconnectés avec des câbles sous marins, 7 personnes sur 10 possèdent un smartphone, les demandes d'informations et démarches administratives se numérisent rapidement. La programmation est facilitée par l’apparition de langages haut niveau a la syntaxe simple et de langages haut niveau avec des compilateurs plus explicites. Depuis 1950, bien que les interfaces graphiques ait permis de faciliter l'utilisation des ordinateurs, la programmation n'a plus été révolutionnée depuis les premiers langages haut niveau. Seul l'apparition du langage Rust, dont l'adoption dans les entreprises sera encore longue, à permis d'avoir un nouveau candidat avec des performances équivalentes au C et une expérience de développement plus agréable que les autres, et ce grâce à ses nouveaux concepts de gestion de la mémoire, évitant ainsi 70% des bugs selon Microsoft.[^1]
+L'informatique est désormais omniprésente, la terre est entourée de satellites en orbites, les continents sont interconnectés avec des câbles sous marins, 7 personnes sur 10 possèdent un smartphone, les demandes d'informations et démarches administratives se numérisent rapidement. La programmation est facilitée par l’apparition de langages haut niveau à la syntaxe simple avec des compilateurs plus explicites. Depuis 1950, bien que les interfaces graphiques aient permis de faciliter l'utilisation des ordinateurs, la programmation n'a plus été révolutionnée depuis les premiers langages haut niveau. Seul l'apparition du langage Rust, dont l'adoption dans les entreprises sera encore longue, à permis d'avoir un nouveau candidat avec des performances équivalentes au C et une expérience de développement plus agréable que les autres, et ce grâce à ses nouveaux concepts de gestion de la mémoire, évitant ainsi 70% des bugs selon Microsoft.[^1]
 
 [^1]: https://www.technologyreview.com/2023/02/14/1067869/rust-worlds-fastest-growing-programming-language/
 
@@ -1486,9 +1486,9 @@ https://fr.wikipedia.org/wiki/Th%C3%A9orie_g%C3%A9n%C3%A9rale_des_syst%C3%A8mes
 
 
 
-Les gens suivent lautorite la loi, mais la loi est parfois fausse, la seule loi qui doivent etre suivit est la science, la raidon pure pouvant etre prouvée 
+Les gens suivent l'autorité, la loi, mais la loi est parfois fausse, la seule loi qui doivent etre suivit est la science, la raidon pure pouvant etre prouvée.
 
-en tant quanimal humaine on se s'en porte pourtant que mieux de juste suivre les unstructions et juste faire ce que l'on doit ou a envie de faire 
+En tant qu'animal humaine on ne s'en porte pourtant que mieux de juste suivre les instructions et juste faire ce que l'on doit ou a envie de faire.
 
 
 
@@ -1500,49 +1500,13 @@ Le management moderne à eu besoin de pouvoir former et guider efficacement ses 
 
 #### Décision
 
-Prendre une décision est parfois très compliqué, il est parfois difficile de mesurer les tenants et aboutissants de nos choix, c'est pourquoi il est important de prendre du recul, de poser sur la table les différentes possibilités, et acteurs de la situation afin de mettre le plus de chance de son côté, dans l'objectif d'atteindre le résultat attendu. Beaucoup d'outils analysent d'abord un panel d'informations variés, parmis eux, l'analyse Politique, Economique, Socioculturel, Technologique, Écologique, et Légal, nommée PESTEL permet de se poser des question sur les influences externes, et ainsi réaliser une analyse plus fine des parties prenantes, ou trouver des éléments à mettre dans une matrice Strenght Weakness Opportunity Threat (SWOT)
+Prendre une décision est n'est pas chose aisée, il est parfois difficile de mesurer les tenants et aboutissants de nos choix. C'est pourquoi il est important de prendre du recul pour poser sur la table les différentes possibilités et acteurs de la situation. Beaucoup d'outils comme la carte mentale heuristique analysent d'abord un panel d'informations variés, parmi eux l'analyse Politique, Économique, Socioculturel, Technologique, Écologique, et Légal, nommée PESTEL permet de se poser des question sur les influences externes, et par la suite réaliser une analyse plus fine des parties prenantes. Elle peut également permettre de trouver des éléments à mettre dans une matrice multicritère ou Strenght Weakness Opportunity Threat (SWOT).
 
+Une fois que l'on a analysé l'environnement du projet, ses avantages et inconvénient internes et externes, on peut être amenés à choisir entre plusieurs fournisseurs ou solutions, pour cela on peut appliquer la matrice multicritère. Chaque été, avec des amis, nous l'utilisons pour choisir dans quel AirBnb nous allons partir. Nous y renseignons une note pour le prix, l'emplacement géographique, la qualité du logement, etc... et obtenons un score moyen permettant de déterminer où nous partirons en vacances.
 
+Pour planifier et ordonnancer les tâches, la matrice d'Eisenhower est un outil élémentaire. Très proche des matrices de faisabilité et de priorisation, elle permet de classifier les tâches importantes et/ou urgentes, celles qui ne le sont pas, ainsi qu'à qui les confier.
 
-##### Matrice multicritère
-
-Avec des amis nous utilisons pour choisir dans quel airbnb nous allons partir, nous y renseignons une note pour le prix, l'emplacement, la qualité du logement, et obtenons un score moyen permettant de déterminer où nous partirons en vacances.
-
-##### 5 Why
-
-Permet de retrouver la cause d'un problème
-
-##### La matrice d'Eisenhower
-
-Très proche des matrices de faisabilité et de priorisation, elle permet de déterminer de différencier les tâches importante, urgente, celles qui ne le sont pas, et quoi en faire.
-
-##### Diagramme d'Ishikawa
-
-Il permet de schématiser les différentes causes possible d'un événement ou effet. Inspiré des quatre causes d'Aristote, il est généralement construit en analysant les 5 M : Matière première constituante, Matériel utilisé, Méthode employée, Main-d’œuvre intervenant, et Milieu dans lequel l’événement apparaît.
-
-
-
-##### Carte heuristique
-
-
-
-
-
-
-
-imaginez un casque multisensoriel visuel qui permette a laide d'onduloanalyse de voir les temperatures, les zones radioactiactives,
-
-
-
-#### Conception
-
-##### Design thinking
-
-##### Lean Startup
-
-##### MVP
-
-itération, stop de toute la chaine de production si problème pour éviter de contaminer le reste
+Si un problème apparaît lors de la réalisation d'une tâche, une méthode simple et efficace nommée "5 Why" indique que se poser 5 fois d'affillée la question "Pourquoi ?" permet généralement de trouver la source d'un problème. Dans le même genre nous avons également le diagramme d'Ishikawa qui permet de schématiser les différentes causes possible d'un événement ou effet. Inspiré des quatre causes d'Aristote, il est généralement construit en analysant les 5 M : Matière première constituante, Matériel utilisé, Méthode employée, Main-d’œuvre intervenant, et Milieu dans lequel l’événement apparaît.
 
 
 
@@ -1562,15 +1526,23 @@ itération, stop de toute la chaine de production si problème pour éviter de c
 
 
 
+#### Conception
+
+##### Design thinking
+
+##### Lean Startup
+
+##### MVP
+
+itération, stop de toute la chaine de production si problème pour éviter de contaminer le reste
+
+
+
+
+
 ### Appareils
 
-#### Ordinateurs portables
-
-#### Mobiles
-
-#### Tablettes
-
-#### Casques de réalité virtuelles
+Ordinateurs portables Mobiles Tablettes Casques de réalité virtuelles
 
 
 
@@ -1776,6 +1748,8 @@ Les flowchart, qui se traduisent en français par arbres de décisions, diagramm
 
 C'est ainsi qu'en **1996**, Grady Booch, James Rumbaugh et Ivar Jacobson, trois ingénieurs travaillant sur des langages de modélisation objets différents, décident de s'unir pour co-créer un Langage de Modélisation Unifié qui avec l'inversion anglaise donne l'acronyme UML. Reprenons notre véhicule qu'est la voiture, nous pouvons la modéliser ainsi en UML.
 
+![](./assets/VehiculeVoiture.png)
+
 
 
 
@@ -1786,7 +1760,7 @@ https://hal.science/hal-02970135/document
 
 #### Quelqu'un à généralement la solution
 
-En programmation objet, il existe des Patrons de conceptions, ils trouvent leur racines dans l'architecture. L'architecte en bâtiment Christopher Alexander publie l'essai ***A Pattern Language**: Towns, Buildings, Construction* en **1977**. Cette œuvre à définit de manière casuistique, à la manière du Code de Hammurabi, les problèmes rencontrés en architecture et leurs solutions.
+En programmation objet, il existe des Patrons de conceptions, ils trouvent leur racines dans l'architecture. L'architecte en bâtiment Christopher Alexander publie l'essai ***A Pattern Language**: Towns, Buildings, Construction* en **1977**. Cette œuvre à définit de manière casuistique, à la manière du [Code de Hammurabi](#Code-de-Hammurabi), les problèmes rencontrés en architecture et leurs solutions.
 
 Cette notion à permit de catégoriser les patrons algorithmiques selon trois classes, les *créateurs* solutionnent des problèmes d'[instanciation](https://fr.wikipedia.org/wiki/Instanciation) et de configuration des classes et des objets, les *structuraux* indiquent comment organiser les classes d'un programme et leurs l'interfaces ; et les *comportementaux* définissent l'organisation des [objets](https://fr.wikipedia.org/wiki/Objet_(informatique)) pour que ceux-ci s'échangent des informations en fonction de leurs responsabilités.
 
@@ -1796,7 +1770,7 @@ Cette notion à permit de catégoriser les patrons algorithmiques selon trois cl
 
 #### Principes SOLID
 
-Robert Cecil Martin aussi connu comme Oncle Bob est un ingénieur en informatique et écrivain ayant compléter les patrons de conception, et langages de modélisation en introduisant de multiples concepts de programmation, décrivant et argumentant des bonnes pratiques de cet art comme le fait de bien nommer les variables afin qu'elles explicitent leur utilité et les valeurs qu'elles stockent, de ne pas faire de copier coller que l'on modifie mais de plutôt faire des fonction réutilisables avec des paramètres pour faire varier un comportement. Dans la même logique de cohérence et d'uniformisation, il énonça les cinq principes fondamentaux de la programmation orientée objet.
+Robert Cecil Martin aussi connu en tant que l'Oncle Bob est un ingénieur en informatique et écrivain ayant compléter les patrons de conception, et langages de modélisation en introduisant de multiples concepts de programmation, décrivant et argumentant des bonnes pratiques de cet art comme le fait de bien nommer les variables afin qu'elles explicitent leur utilité et les valeurs qu'elles stockent, de ne pas faire de copier coller que l'on modifie mais de plutôt faire des fonction réutilisables avec des paramètres pour faire varier un comportement. Dans la même logique de cohérence et d'uniformisation, il énonça les cinq principes fondamentaux de la programmation orientée objet.
 
 Simple responsabilité unique : une classe, une fonction ou une méthode doit avoir une et une seule responsabilité
 
@@ -1812,7 +1786,7 @@ Dépendances inversés : Bien que les classes dépendent d'abstraction telles qu
 
 #### Git
 
-Git est un logiciel de gestion de versions décentralisé sous licence GNU GPL. C'est un logiciel libre et gratuit, initié en **2005** par Linus Torvalds le créateur de Linux lors de la création de son noyau. Linus ne voulait pas réaliser ce projet seul et à rapidement compris que la qualité d'un logiciel viendrai des débats houleux entre ses collaborateurs et l'implémentation de la meilleure idée à la fin. graphe d'historique de modifications de fichiers visualisable avec gource.
+Git est un logiciel de gestion de versions décentralisé sous licence GNU GPL. C'est un logiciel libre et gratuit, initié en **2005** par Linus Torvalds le créateur de Linux lors de la création de son noyau. Linus ne voulait pas réaliser ce projet seul et a rapidement compris que la qualité d'un logiciel viendrai des débats houleux entre ses collaborateurs et l'implémentation de la meilleure idée à la fin. graphe d'historique de modifications de fichiers visualisable avec gource.
 
 
 
@@ -2230,6 +2204,8 @@ example avec la compiltion rust qui empeche les top 10 des erreurs
 
 Planning poker, reu tech, mais pas d'analyse commune -> reqwork extrm prog
 
+imaginez un casque multisensoriel visuel qui permette a laide d'onduloanalyse de voir les temperatures, les zones radioactiactives,
+
 
 
 
@@ -2504,7 +2480,7 @@ Le formulaire de création de fonction et son interface dédiées indiqueront le
 
 ##### Précision
 
-Vue macro, vu micro, questions individuelles précisent, groupe permet d'avoir le consensus.
+Vue macro, vu micro, questions individuelles précises, groupe permet d'avoir le consensus.
 
 
 
@@ -2549,7 +2525,7 @@ Encore merci à tous d'être l'individu que vous êtes. Tâchez d'être encore m
 
 
 
-Je me suis même retenu de partager des posts LinkedIn tels que celui-ci. https://www.linkedin.com/feed/update/urn:li:activity:7124136845021458432?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7124136845021458432%29
+Je me suis retenu de partager des posts LinkedIn tels que celui-ci. https://www.linkedin.com/feed/update/urn:li:activity:7124136845021458432?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7124136845021458432%29
 
 
 
