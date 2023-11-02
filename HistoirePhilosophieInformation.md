@@ -8,7 +8,7 @@ Mémoire de fin d'étude pour la validation du diplôme résultant de mon parcou
 
 ## Résumé
 
-Cet ouvrage, conformément à son titre et aux recherches qu'il a nécessité, énonce le passé, le présent, et ma pensée sur le futur de la gestion de l'information. L'étude des connaissances existantes sur ce sujet vous replongera sûrement dans vos cours d'Histoire, elle mettra en situation le présent avec un abrégé allant de la préhistoire, jusqu’à l'état actuel du monde scientifique, et plus particulièrement de l'informatique. Cette discipline récente permet désormais de solutionner et automatiser beaucoup de tâches pénibles, mais sa pratique en elle même reste fastidieuse. C'est pourquoi j'en ai fait le cœur de ma problématique, que je l'analyse pour la repenser dans un essai philosophique, et que la dernière partie se nomme "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?". À l'aide des parties précédentes analysant son origine, la conclusion proposera ainsi une solution informatique innovante, combinant des technologies et pratiques existantes pour se simplifier elle même en utilisant de la rétro-action et de la méta-programmation à travers une interface graphique simple et agréable.
+Cet ouvrage, conformément à son titre et aux recherches qu'il a nécessité, énonce le passé, le présent, et ma pensée sur le futur de la gestion de l'information. L'étude des connaissances existantes sur ce sujet vous replongera sûrement dans vos cours d'Histoire, elle mettra en situation le présent avec un abrégé allant de la préhistoire, jusqu’à l'état actuel du monde scientifique, et plus particulièrement de l'informatique. Cette discipline récente permet désormais de solutionner et automatiser beaucoup de tâches pénibles, mais sa pratique en elle même reste fastidieuse. C'est pourquoi j'en ai fait le cœur de ma problématique, que je l'analyse pour la repenser dans un essai philosophique, et que la dernière partie se nomme "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?". À l'aide des parties précédentes analysant son origine, la conclusion proposera ainsi une solution informatique innovante, combinant des technologies et pratiques existantes pour se simplifier elle même en utilisant de la rétro-action, et de la méta-programmation à travers une interface graphique simple et agréable.
 
 <div style="page-break-after: always;"></div>
 
@@ -69,7 +69,7 @@ Pour la rédaction de ce dernier, j'ai acquis 4 livres :
 - "Histoire illustrée de l'informatique" d'Emmanuel Lazard et Pierre Mounier-Kuhn.
 - "Transmettre" de Christophe André, Céline Alvarez, Catherine Gueguen, Matthieu Ricard, Frédéric Lenoir, Ilios Kotsou, Caroline Lesire
 
-Les trois premiers livres ont chacun leurs avantages grâce à une approche différente d'un même sujet, sur lequel je m'attendais à trouver plus de bibliographie. Contrairement à ceux-ci, j'ai essayé d'avoir une démarche plus globale que l'informatique et l'ordinateur, qui sont des concepts très récent. Et ce en abordant le thème global qu'est l'information, tout en y ajoutant de la philosophie, ainsi que mon humble analyse subjective car j'aime penser, et que l'apprentissage des mathématiques et de l'informatique ont changé ma manière de concevoir le monde dans lequel nous vivons. Ce sont selon moi des philosophies à part entière, apportant des syntaxes et un vocabulaire, nécessitant un apprentissage constant de schémas de pensés dignes d'un logicien.
+Les trois premiers livres ont chacun leurs avantages grâce à une approche différente d'un même sujet, sur lequel je m'attendais à trouver plus de bibliographie. Contrairement à ceux-ci, j'ai essayé d'avoir une démarche plus globale que l'informatique et l'ordinateur, qui sont des concepts très récent. Et ce en abordant le thème général qu'est l'information, tout en y ajoutant de la philosophie, ainsi que mon humble analyse subjective car j'aime penser, et que l'apprentissage des mathématiques et de l'informatique ont changé ma manière de concevoir le monde dans lequel nous vivons. Ce sont selon moi des philosophies à part entière, apportant des syntaxes et un vocabulaire, nécessitant un apprentissage constant de schémas de pensés dignes d'un logicien.
 
 Dans ce mémoire, je vais donc revenir aux racines les plus ancestrales de la gestion de l'information, au vocabulaire et champ lexical qui y sont liés ou en découlent, ainsi qu'a leurs étymologies à travers leur [Histoire](#Histoire), qui représente toute la première partie de ce livre. J'y présenterai beaucoup de philosophes, scientifiques et de penseurs variés. De l'Antiquité aux époques plus modernes, les idées qu'ils ont amenées ont permis des inventions et progrès technologiques avec un développement de plus en plus rapide. Pourtant, les inventions qui ont le plus impacté l'humanité, resteront toujours les plus anciennes, avec au sommet d'entre elles, l'écriture.
 
@@ -357,17 +357,21 @@ Les mathématiques pures, tendent à la généralité, ou en langage de mathéma
 
 ##### Sténographie
 
-Ce processus de réécriture syntaxique, trouve ses plus vieilles traces connues a la même période, le langage SMS serait avéré par le bibliographe et doxographe, Diogène Laërce, les premières traces remonteraient ainsi à **405 avant J.-C**., date à laquelle Xénophon, élève de Socrate, aurait usé de *sténographie* pour transcrire les discours de son maître, face au besoin d'écrire rapidement et idéalement à la vitesse de la parole. La sténographie, du grec ancien "écriture courte", est un procédé de tachygraphie signifiant "écriture rapide".
+Ce processus de réécriture syntaxique, trouve ses plus vieilles traces connues à la même période, le langage SMS à été avéré grâce au bibliographe et doxographe, Diogène Laërce, les premières traces remontent ainsi à **405 avant J.-C**., date à laquelle Xénophon, élève de Socrate, a usé de *sténographie* pour transcrire les discours de son maître, face au besoin d'écrire rapidement et idéalement à la vitesse de la parole.[^1] La sténographie, du grec ancien "écriture courte", est un procédé de tachygraphie signifiant "écriture rapide".
 
 Les mathématiques appliquées, quand à elles, utilisent ces concepts sur des domaines très spécifiques, pour exemple, la géométrie, étymologiquement "science de la mesure du terrain", à été développée dans l’Égypte antique pendant **les trois siècles avant J.-C.** , à partir du besoin de mesurer la superficie d’un champ, aussi appelée arpentage.
+
+[^1]: https://gallica.bnf.fr/ark:/12148/btv1b84470700/f95.item.zoom
 
 
 
 ##### Géométrie Euclidienne
 
-Vers la fin du 4 ème siècle avant J.-C. qu'Euclide rédige *Éléments*, un traité de mathématique sur la géométrie et l’arithmétique, qui a posé les bases de ces discipline. Cet ouvrage à été réédité de multiples fois et traduit par de nombreux savants, dont certains cités quelques paragraphes plus loin. Il est a l'origine de la méthode de calcul du PGCD qui est nommée algorithme d'Euclide, la division Euclidienne, et bien sur sa géométrie.
+Vers la fin du 4 ème siècle avant J.-C. qu'Euclide rédige *Éléments[^1]*, un traité de mathématique sur la géométrie et l’arithmétique, qui a posé les bases de ces discipline. Cet ouvrage à été réédité de multiples fois et traduit par de nombreux savants, dont certains cités quelques paragraphes plus loin. Il est a l'origine de la méthode de calcul du PGCD qui est nommée algorithme d'Euclide, la division Euclidienne, et bien sur sa géométrie.
 
 En définitive, cette discipline que sont les mathématiques est une philosophie en soit, c'est a dire un système d'idées permettant de conceptualiser et visualiser le monde tout en le quantifiant. Même étymologiquement il y a une proximité entre les deux mots pour le savoir, par le partage de connaissance, dispensé lors d'une leçon d'autrui.
+
+[^1]: https://gallica.bnf.fr/ark:/12148/bpt6k68013g/f3.item
 
 
 
@@ -375,17 +379,11 @@ En définitive, cette discipline que sont les mathématiques est une philosophie
 
 Né en **-384** dans la ville Macédonienne de Stagire, Aristote étudia 20 ans à l’Académie de Platon, et fonda par la suite le Lycée. Il est à l'origine des syllogismes, étymologiquement ensemble de discours logiques. Ce sont des raisonnements logiques constitués d'au moins trois propositions, la dernière étant une conclusion déduite, précédée de prémisses qui doivent s'avérer vraies pour que la conclusion le soit également. L’exemple le plus connu étant "Tout les hommes sont mortels, or Socrate est un homme, donc Socrate est mortel".
 
-La science de la biologie serait née d'Aristote et Théophraste, respectivement en charge de documenter la faune et la flore. Aristote s'intéressa donc logiquement à la nature, déclarant que tout être vivant possède une âme, bien que hiérarchisant ce propos à la manière de Platon et son analogie de la ligne ; disant que les plantes n'ont qu'une âme végétative, que les animaux l'ont en plus d'une âme sensitive, et que l'homme à également une âme intellectuelle en plus des deux premières. Il à également défendu l'idée d'une terre sphérique, justifiée par la courbure des éclipses de lunes et la force centripète, bien qu'il pensait être dans un système géo-centré avec l'ensemble des astres tournant autour de la Terre.
+La science de la biologie est née grâce à Aristote et Théophraste, respectivement en charge de documenter la faune et la flore. Aristote s'intéressa donc logiquement à la nature, déclarant que tout être vivant possède une âme, bien que hiérarchisant ce propos à la manière de Platon et son analogie de la ligne ; disant que les plantes n'ont qu'une âme végétative, que les animaux l'ont en plus d'une âme sensitive, et que l'homme à également une âme intellectuelle en plus des deux premières. Il à également défendu l'idée d'une terre sphérique, justifiée par la courbure des éclipses de lunes et la force centripète, bien qu'il pensait être dans un système géo-centré avec l'ensemble des astres tournant autour de la Terre. Il était confiant en la sensation, qui permet la perception et la cognition du monde réel, et ne nécessite selon lui pas un scepticisme constant, mais nuança son propos en disant que c'est une première ouverture vers le savoir, qu'il faut mélanger avec le savoir d'autrui, de gens sérieux, expert du domaine, et sans prendre ce qui est dit pour véridique, mais pour tester leur capacité à se rapprocher du réel et d'une vérité universelle.
 
-Il était confiant en la sensation, qui permet la perception et la cognition du monde réel, qui ne nécessite selon lui pas un scepticisme constant. Il nuança son propos en disant que c'est une première ouverture vers le savoir, qu'il faut mélanger avec le savoir d'autrui, de gens sérieux, expert du domaine, et sans prendre ce qui est dit pour véridique, mais pour tester leur capacité à se rapprocher du réel et d'une vérité universelle.
+Aristote émettra l'idée d'une vertu éthique qui sera reprise par les stoïques, équilibrée entre les deux excès, prônant la mesure et la prudence, à la manière de Platon qui la reprenait lui même de Socrate. Il a également inventé le terme de *doxographie*, signifiant opinion écrite, et se considérait ainsi, au même titre que les autres philosophes, comme un doxographe, retranscrivant les opinions soutenues par d'autres ou le plus grand nombre en accord avec son système de pensée. Il aurait dit que le philosophe doit faire preuve de métacognition, afin de se rendre compte des informations qu'il à sa disposition, et de qu'elles déductions en tirer, toujours dans l'idée d'accumuler du savoir et de s'élever tel un érudit vertueux.
 
-Il émettra l'idée d'une vertu éthique qui sera reprise par les stoïques, équilibrée entre les deux excès, prônant la mesure, que Platon reprenait lui même de Socrate, et la prudence.
-
-Il a également inventé le terme de *doxographie*, signifiant opinion écrite, et se considérait ainsi, au même titre que les autres philosophes, comme un doxographe, retranscrivant les opinions soutenues par d'autres ou le plus grand nombre en accord avec son système de pensée.
-
-Il dira également que le philosophe doit faire preuve de métacognition, afin de se rendre compte des informations qu'il à sa disposition, et de qu'elles déductions en tirer, toujours dans l'idée d'accumuler du savoir et de s'élever tel un érudit vertueux.
-
-Sa philosophie connaîtra malgré cela plusieurs siècles d'oubli jusqu'à ce qu'il fut redécouvert à la fin de l'Antiquité, imprégnant l'enseignement théologique chrétien du moyen âge nommé scolastique, étymologiquement école et loisir, indiquant qu'apprendre est un privilège des gens ayant du temps libre.
+Sa philosophie connaîtra malgré tout cela plusieurs siècles d'oubli jusqu'à ce qu'il fut redécouvert à la fin de l'Antiquité, imprégnant l'enseignement théologique chrétien du moyen âge nommé scolastique, étymologiquement école et loisir, indiquant qu'apprendre est un privilège des gens ayant du temps libre.
 
 
 
@@ -397,9 +395,9 @@ Nos désirs et nos craintes sont causés par nos représentations, lesquelles pe
 
 Ce qui importe le plus pour les stoïciens est la vertu, qu'elle soit physique, éthique ou logique. Indissociable du bien, être vertueux ne reposerai selon eux que sur la tempérance et la prudence. Le sage doit avoir un recul sur les choses, être rationnel, ses activités ne doivent pas s'arrêter pour autant, elles doivent cependant être à l'origine de la raison et non de l'envie.
 
-Concernant la théologie, pour les stoïciens Dieu est tout, mais pas dans le sens d'une divinité qui aurait un impact sur le monde. Sénèque dira même que "La nature ne peut pas plus exister sans Dieu, que Dieu sans la nature. L'un et l'autre sont une même chose", ce concept de "Dieu est tout" corresponds au *panthéisme*, et sera repris plus tard par d'autres philosophes comme Spinoza.
+Concernant la théologie, pour les stoïciens Dieu est tout, mais pas dans le sens d'une divinité omnisciente qui aurait un impact sur le monde. Sénèque dira même que "La nature ne peut pas plus exister sans Dieu, que Dieu sans la nature. L'un et l'autre sont une même chose", ce concept de "Dieu est tout" corresponds au *panthéisme*, et sera repris plus tard par d'autres philosophes comme Spinoza.
 
-La philosophie stoïque sera également reprise par beaucoup de personnalités par la suite, comme Ciceron, Épictère ou Marc Aurèle, mais aussi par des œuvres de pop cultures plus récentes, dans Star Wars, les jedis sont stoïciens, Maitre Yoda prononçant des phrases telles que "exerce ta volonté à renoncer à tout ce que tu craint de perdre un jour".
+La philosophie stoïque sera également reprise par beaucoup de personnalités par la suite, comme Cicéron, Épictète ou Marc Aurèle, mais aussi par des œuvres de pop cultures plus récentes, dans Star Wars, les jedis sont stoïciens, Maitre Yoda prononçant des phrases telles que "exerce ta volonté à renoncer à tout ce que tu craint de perdre un jour".
 
 https://www.youtube.com/watch?v=iE08wLRGPcQ
 
@@ -643,27 +641,31 @@ Wilhelm Schickard inventa au début du 17 ème siècle, une horloge à calculer 
 
 Pour clôturer la présentation d'abaques, en **1621** William Oughtred, qui est a l'origine de la notation de π et "x" pour la multiplication, se base sur les travaux de Napier et invente une règle coulissante destinée à calculer des multiplications, divisions et également des exponentielles, racines, puissances et calculs trigonométriques, laissant l'addition et la soustraction à de plus simples abaques. Aujourd'hui obsolètes, elles ont pendant longtemps été, à la manière des tables de calcul était une solution suffisamment précise, abordable et facile à créer.
 
-
-
 En **1650**, le clermontois polymathe Blaise Pascal, invente la Pascaline trois ans après son traité de géométrie projective, alors qu'il 19 ans, cette outil est aujourd'hui considéré comme la première machine à calculer. Elle a été réalisé ans la volonté de soulager le travail de son père, nommé premier président à la Cour des aides de Normandie à Rouen, cette machine a permis de réaliser additions, soustractions, et multiplication, ainsi que divisions, par répétitions. C'était la seule machine à calculer fonctionnelle au 18è siècle, elle marque le début d'une période de développement de machines à calculer de plus en plus sophistiquées, qui seront présentées dans la suite de cet ouvrage. C'est la première fois que l'on remarque un impact de l'automatisation notable sur l'emploi et la société, associée à une technophobie, bien que de nombreuses peurs ai eu étées justifiées par la création de machines de guerres par le passé.
 
 hexagrammes mystique de Pascal
 
-Les cartes perforées sont des morceau de papiers rigide dont la présence ou absence de trou corresponds à une information binaire. La plus ancienne utilisation des cartes perforée est avérée dès 1502 avec la première orgue de Barbarie, ancêtre de la boite à musique. A partir du 16e siècle, que des automates sont réalisés avec. En **1725**, le lyonnais Basile Bouchon, met au point le premier système de programmation d’un métier à tisser à l'aide d'un ruban perforé. En 1728, son assistant nommé Jean-Baptiste Falcon, à l'idée de remplacer le ruban par une série de cartes perforées reliées entre elles. Jacques de Vaucanson, célèbre Grenoblois inventeur d'automates musicaux et à objectif de divertir, réutilise ce concept en remplaçant ruban et cartes perforées par un cylindre métallique à pointes. Enfin Joseph Marie Jacquard à mis en œuvre les procédés déjà existants pour réaliser un métier à tisser éponyme en **1801**, date à partir de laquelle il passe une bonne dizaine d'année à démocratiser et perfectionner la machine programmable. Programmer avec des cartes perforees demandais déjà une rigeur importante car l'ordre des cartes etait tres importantes et qu'un simple coup de vent ou inadvertance pouvait mettre des jours de travail a la poubelle.
+Les cartes perforées sont des morceau de papiers rigide dont la présence ou absence de trou corresponds à une information binaire. La plus ancienne utilisation des cartes perforée est avérée dès 1502 avec la première orgue de Barbarie, ancêtre de la boite à musique. A partir du 16e siècle, que des automates sont réalisés avec. En **1725**, le lyonnais Basile Bouchon, met au point le premier système de programmation d’un métier à tisser à l'aide d'un ruban perforé. En 1728, son assistant nommé Jean-Baptiste Falcon, à l'idée de remplacer le ruban par une série de cartes perforées reliées entre elles. Jacques de Vaucanson, célèbre Grenoblois inventeur d'automates musicaux et à objectif de divertir, réutilise ce concept en remplaçant ruban et cartes perforées par un cylindre métallique à pointes. Enfin Joseph Marie Jacquard à mis en œuvre les procédés déjà existants pour réaliser un métier à tisser éponyme en **1801**, date à partir de laquelle il passe une bonne dizaine d'année à démocratiser et perfectionner la machine programmable. Programmer avec des cartes perforées demandais déjà une rigueur importante car l'ordre des cartes était très importantes et qu'un simple coup de vent ou inadvertance pouvait mettre des jours de travail a la poubelle.
 
 
 
 #### Pédagogie moderne
 
-Né en **1746**, Johann Heinrich Pestalozzi, est un pionnier de la pédagogie moderne, pédagogue éducateur et penseur suisse, tout comme Rousseau dont il a été inspiré, il dédia sa vie à l'éducation des enfants pauvres et fonda des orphelinats.
+Né en **1746**, Johann Heinrich Pestalozzi, est un pédagogue, éducateur et penseur d'origine suisse qui a été pionnier de la pédagogie moderne, tout comme Rousseau qui l'as inspiré et dont il a tenté d'appliquer les principes présents dans l'Emile. Il dédia sa vie à l'éducation des enfants pauvres, fonda des orphelinats, et écrivit *Leonard et Gertrude* en **1781** puis l'essai *Comment Gertrude instruit ses enfants* en **1801**, indiquant les bienfaits d'une éducation bienveillante et mutuelle. Parmi ses principes, l'enseignement doit partir du concret pratique pour aller à l'abstrait théorique, allant progressivement du simple et universel au complexe et particulier. Ses travaux inspireront le franciscain Grégoire Girard, un autre pédagogue suisse qui a promu les écoles mutuelles dans leur pays à partir de 1816. À la même période, Andrew Bell importe également  l'enseignement mutuel de l'Inde, où il l'appliqua dans une école de Madras, avant de revenir à Londres où il publiera *Expériences sur l'éducation faire à l'école des garçons de Madras* en **1789**. Ces travaux seront repris par Joseph Lancaster qui rédigera *Improvement in Education* en 1803, sa méthode est devenue très populaire mais fut rapidement abandonnée suite à des résultats peu satisfaisants et aux révélation montrant que Lancaster avait flagellé des étudiants, lui valant une exclusion de la Société promouvant son enseignement pour l'éducation des pauvres. Contrairement à Pestalozzi, Lancaster utilisait cette méthode d'éducation pour des raisons principalement financières, malgré sa démocratisation, introduction de dérives à décrédibiliser cette pratique.
 
-Philosophie de l'éducation et axiologie, qu'elle est la valeur de l'éducation et de l'enseignement aujourd'hui ? Des études montrent[^lesquelle] désormais que l'apprentissage se fait mieux par la récompense que la punition. Il est plus productif d'encourager un bon comportement que de réprimander un mauvais, bien que cela est parfois nécessaire, il faut toujours mieux orienter sa pédagogie de manière positive.
+Encore une fois, il est évident que ce concept existait avant mais qu'il a été popularisé à cette période, avant eux un prêtre chrétien précurseur dans ce domaine nommé Charles Démia, a écrit le *Règlements pour les écoles de la ville et diocèse de Lyon* en 1674. Il y expliquait déjà comment le maître d'école pouvait déléguer une partie de son travail aux élèves studieux pour faire réciter les leçons, aider ou corriger les fautes des plus jeunes ou des élèves en difficultés.
+
+Philosophie de l'éducation et axiologie, qu'elle est la valeur de l'éducation et de l'enseignement aujourd'hui ? Des études montrent désormais que l'apprentissage se fait mieux par la récompense que la punition.[^1] Il est plus productif d'encourager un bon comportement que de réprimander un mauvais, bien que cela est parfois nécessaire, il faut toujours mieux orienter sa pédagogie de manière positive. 
+
+[^1]: https://www.inshs.cnrs.fr/fr/cnrsinfo/apprentissage-par-recompense-ou-par-punition-quelles-differences
 
 
 
 #### Théorie générale des systèmes
 
-Aussi appelée Systémique, la première personnalité connue à parler de ce domaine d'étude des ensembles complexe d'interactions entre des sous groupes est Sébastien Le Prestre dans son œuvre *Système*, plus connu sous le nom de Vauban, dont il était le marquis. Cela a ensuite été décrit par Étienne Bonnot de Condillac qui définit les prémices de l'approche systémique dans son *Traité des Systèmes* en **1749**, repris par la suite par Pareto qui l'appliqua à l'économie politique.
+De 1751 à 1772, Diderot et Alembert ont rédigés l'*Encyclopédie* ou le *Dictionnaire raisonné des sciences des arts et des métiers*. On y retrouve l'une des première personnalité connue à inventer une nouvelle signification au mot système. Mort en 1707, Sébastien Le Prestre, plus connu sous le nom de Vauban, dont il était le marquis, à établi le système dans le sens de l'art militaire, le décrivant comme l'arrangement d'une armée ou la disposition de toutes les parties d'une fortification par un général ou un ingénieur[^1]. De manière générale, l'étude des systèmes est celle des ensembles complexe d'interactions entre des sous groupes. Dans cette même Encyclopédie, on retrouve également les définitions du système en anatomie, poésie, musique et en finance. Après Vauban, Étienne Bonnot de Condillac a définit les prémices de l'approche systémique dans le cadre de la science politique à l'aide de son *Traité des Systèmes* en **1749**, repris par la suite par Vilfredo Pareto qui l'appliqua à l'économie politique au début du 20ème siècle.
+
+https://gallica.bnf.fr/ark:/12148/bpt6k505471/f682.item
 
 
 
@@ -700,6 +702,8 @@ L'arithmomètre développée par Thomas de Colmar en **1820**, sera la première
 La première personne à avoir automatiser l'édition de tables de calcul est Charles Babbage, qui a initialement travaillé avec des calculateurs humains, "computers"  en anglais. La conception de telles tables étaient fastidieuses à superviser et encore plus à calculer et réaliser. Il a œuvré à développer une machine basée sur les méthodes de calcul de l'époque, réalisées par des gens qui étaient coiffeurs, ayant perdu leur travail suite à la révolution française, période après laquelle la coiffure étant vue comme symbole de l'aristocratie, à été délaissé. Ils effectuaient essentiellement des additions et des soustraction, sous la supervision de mathématiciens qui leurs prépareraient les formules d'après la méthode des différences finies. D'où le nom de la machine qu'il a inventé en **1834**, la machine a différences. Ayant l'expérience du milieu, il voulait réaliser un système fiable, résilient a l'erreur. Cette dernière pouvait provenir du calcul, mais arrivant le plus souvent lors de l'impression, il à donc fait en sorte, dès la phase de design, que sa machine prépare directement le texte en résultant pour l'impression. C'est une approche très intéressante réduisant les intermédiaires et automatisant toute la chaine de création, que je reprendrais plus tard. La machine est à ce moment déjà un outil qui peut guider et réduire les erreurs, ce qui à l'époque était crucial, notamment en mer ou une erreur de calcul ou d'impression sur l'almanach du navigateur pouvait mener a la perte de tout un navire et de son équipage. De 1820 à 1830 il à visiter beaucoup d'usines en Europe dans le but de trouver des idée pour sa machine à différences, il n'en trouva pas beaucoup mais cela lui a permis de devenir un économiste des machines industrielles à son époque. A peine eu t'il conçu la machine à différence, qu'il eu oublier la finalité de base : réaliser des tables de calcul, et embrassa l'idée d'une machine capable de calculer tout ce qu'un humain pourrait lui demander, la Machine Analytique. De son vivant, seul le concept existait, elle ne vu le jour que grâce à son fils, qui après une tentative infructueuse en 1888, revint à la charge et réalisa en 1906 une machine fonctionnelle qu'il eu présenté devant l'académie royale anglaise d'astronomie, après quoi il en fit don au musée des sciences de Londres en 1910.
 
 L'Arithmaurel, créé en **1842** par Timoleon Maurel, avec Arithmomètre et le cylindre de Leibneiz pour inspiration, sera une machine à calculer utilisable en renseignant simplement les valeurs (opérandes) et les opérateurs. C'est une grande avancée en termes d'expérience utilisateur, cependant sa conception à grande échelle n'as pas été possible à cause des limitations techniques de l'époques. La division quand à elle reste fastidieuse et demande à l'utilisateur d'effectuer un ensemble de soustraction avec beaucoup d'attention.
+
+Plusieures calculateurs spécifiques feront également leur apparition comme la machine à prévoir la marée de Lord Kelvin en **1872**.
 
 Inventé aux États-Unis par Dorr E. Felt en **1887**, le comptomètre reprend l'idée du clavier à touche de l'arithmomètre. Le principe de l'addition reste aussi simple que celui de la Pascaline. Par contre, la soustraction est différente et procède par addition du complément à 9 qui est inscrit en minuscule sur chaque touche du clavier.
 
@@ -1650,7 +1654,7 @@ Stucture de données
 
 Les blocs de codes de ce chapitre sont écrits en Javascript. Vous pouvez les tester vous même le code en faisant des copiés collés dans la console d'un navigateur internet. Pour y accéder il faut être sur ordinateur et généralement taper sur la touche F12 ou faire la combinaison `Ctrl + Shift + I`.
 
-Comme évoqué dans le chapitre [Prémices de l'Algèbre](#Prémices de l'Algèbre), et plus généralement en Mathématiques, les informations sont stockés dans des *variables*, souvent représentées par une lettre, ou dans le cas de l'informatique, sous forme de mots. Parmi les variables, nous avons aussi des *constantes*, variables qui ne changerons plus une fois qu'on leur à affecter une information. Un objet, représente un ensemble de variables. Dans notre monde, n'importe quel objet peut être représenté par un ensemble de variables, prenons une voiture, discrétisons ses informations à une marque, un modèle, une vitesse actuelle et maximum.
+Comme évoqué dans le chapitre [Prémices de l'Algèbre](#Prémices de l'Algèbre), et plus généralement en Mathématiques, les informations sont stockés dans des *variables*, souvent représentées par une lettre, ou dans le cas de l'informatique, sous forme de mots. Parmi les variables, nous avons aussi des *constantes*, variables qui ne changerons plus une fois qu'on leur à affecté une information. Un objet, représente un ensemble de variables. Dans notre monde, n'importe quel objet peut être représenté par un ensemble de variables, prenons une voiture, discrétisons ses informations à une marque, un modèle, une vitesse actuelle et maximum.
 
 ```js
 var ma_première_voiture = {
@@ -1678,7 +1682,7 @@ faire_accélérer(ma_première_voiture);
 console.log("Vitesse après accélération : %o", ma_première_voiture.vitesse_actuelle); // 1
 ```
 
-Dans le cas présent, nous sommes en train de faire avancer la voiture, c'est un peu comme si on devait la pousser, on peut vérifier que sa vitesse à augmenter, mais on va surtout créer une *classe* pour qu'elle puisse se déplacer elle même, vous noterez que dans le code comme dans les langages parlés, il y'a une forme passive et active. La classe est un moule permettant de décrire un l'objet qui y sera forgé et de lui affecter des fonctions. En javascript la classe peut faire référence à l'objet à l'aide du mot clé `this`. Toute classe à une fonction obligatoire nommée `constructor`, elle d'indique l'algorithme à suivre pour créer l'objet qui résultera d'une nouvelle création (`new`).
+Dans le cas présent, nous sommes en train de faire avancer la voiture, c'est un peu comme si on devait la pousser. Sachant cela, je peut vérifier que sa vitesse a augmentée, mais je vais surtout créer une *classe* pour qu'elle puisse se déplacer elle même. Vous noterez que dans le code comme dans les langages parlés, il y'a une forme passive et active. La classe est un moule permettant de décrire un l'objet qui y sera forgé et de lui affecter des fonctions. En JavaScript la classe peut faire référence à l'objet qu'elle décrit à l'aide du mot clé `this`. Toute classe à une fonction obligatoire nommée `constructor`, elle d'indique l'algorithme à suivre pour créer l'objet qui résultera d'une nouvelle création avec le mot clé `new`.
 
 L'exemple ci-dessous va donc créer une classe Voiture que l'on peut construire en lui passant un objet représentant une voiture telle qu'on l'a précédemment déclaré implicitement, avec la fonction vue plus haut.
 
@@ -1731,7 +1735,7 @@ class Vehicule {
         this.vitesse_max = vitesse_max;
     }
     
-    accélére() {
+    accélère() {
         const vitesse_de_la_voiture = this.vitesse_actuelle;
         const { vitesse_max } = this;
         if(vitesse_de_la_voiture + 1 <= vitesse_max) {
@@ -1757,9 +1761,20 @@ class Voiture extends Vehicule {
         this.modele = modele;
     }
 }
+
+const object_premiere_voiture_abstract = new Voiture(ma_premiere_voiture).accélére;
+console.log("Vitesse maintenant : %o", object_premiere_voiture_abstract.vitesse_actuelle); // 2
 ```
 
+Assez de code pour le moment. Je suis de l'avis que ces abstractions devraient être représentée et manipulable de manière graphique, de la même manière que le reste. La syntaxe doit être optionnelle comme c'est le cas dans l'éditeur Typora avec lequel j'ai rédigé la première version Markdown de ce mémoire.
 
+
+
+#### UML
+
+Les flowchart, qui se traduisent en français par arbres de décisions, diagramme de processus, logigramme ou encore organigramme de programmation (non pas par diagrammes de flux), ont initialement été développés dans l'ingénierie industrielle vers 1920. Ils ont rapidement été repris par l'industrie informatique alors naissante vers 1950. La réalisation de schémas ont depuis les début de l'informatique, permit de formuler la logique la constituant pour modéliser les programmes qui en résulterait et les présenter à toute personne sans avoir à écrire ou lire du code.
+
+C'est ainsi qu'en **1996**, Grady Booch, James Rumbaugh et Ivar Jacobson, trois ingénieurs travaillant sur des langages de modélisation objets différents, décident de s'unir pour co-créer un Langage de Modélisation Unifié qui avec l'inversion anglaise donne l'acronyme UML. Reprenons notre véhicule qu'est la voiture, nous pouvons la modéliser ainsi en UML.
 
 
 
@@ -1776,14 +1791,6 @@ En programmation objet, il existe des Patrons de conceptions, ils trouvent leur 
 Cette notion à permit de catégoriser les patrons algorithmiques selon trois classes, les *créateurs* solutionnent des problèmes d'[instanciation](https://fr.wikipedia.org/wiki/Instanciation) et de configuration des classes et des objets, les *structuraux* indiquent comment organiser les classes d'un programme et leurs l'interfaces ; et les *comportementaux* définissent l'organisation des [objets](https://fr.wikipedia.org/wiki/Objet_(informatique)) pour que ceux-ci s'échangent des informations en fonction de leurs responsabilités.
 
 
-
-
-
-#### UML
-
-Les flowchart, qui se traduisent en français par arbres de décisions, diagramme de processus, logigramme ou encore organigramme de programmation (non pas par diagrammes de flux), ont initialement été développés pour dans ingénierie d'industrie vers 1920. Ils ont rapidement été repris par l'industrie informatique alors naissante vers 1950.  La réalisation de schémas ont depuis les début de l'informatique, permit de formuler la logique la constituant pour modéliser les programmes qui en résulterait.
-
-En **1996**, Grady Booch, James Rumbaugh et Ivar Jacobson, trois ingénieurs travaillant sur des langages de modélisation objets différents, décident de s'unir pour co-créer un Langage de Modélisation Unifié qui avec l'inversion anglaise donne l'acronyme UML.
 
 
 
@@ -1805,7 +1812,7 @@ Dépendances inversés : Bien que les classes dépendent d'abstraction telles qu
 
 #### Git
 
-Git est un logiciel de gestion de versions décentralisé sous licence GNU GPL. C'est un logiciel libre et gratuit, initié en **2005** par Linus Torvalds le créateur de Linux lors de la création de son noyau. Linus ne voulait pas réaliser ce projet seul et à rapidement compris que la qualité d'un logiciel viendrai des débats houleux entre ses collaborateurs et l'implémentation de la meilleure idée à la fin.
+Git est un logiciel de gestion de versions décentralisé sous licence GNU GPL. C'est un logiciel libre et gratuit, initié en **2005** par Linus Torvalds le créateur de Linux lors de la création de son noyau. Linus ne voulait pas réaliser ce projet seul et à rapidement compris que la qualité d'un logiciel viendrai des débats houleux entre ses collaborateurs et l'implémentation de la meilleure idée à la fin. graphe d'historique de modifications de fichiers visualisable avec gource.
 
 
 
@@ -1826,11 +1833,22 @@ Suite à Atom publié par GitHub le 26 février 2014, bien avant son rachat en 2
 
 
 
+
+
 [Retour](#Introduction)
 
 ## Essai
 
-Avant d'arriver à cette partie qui répond pleinement à la problématique, je vais à travers cet essai décrire ma philosophie personnelle découlant de l'ensemble de mon vécu et de mes connaissances.
+Avant d'arriver à cette partie qui répond pleinement à la problématique, je vais à travers cet essai décrire ma philosophie personnelle découlant de l'ensemble de mon vécu et de mes connaissances. Mais avant tout, j'en suis venu à plusieurs notes sur l'information, semblables à celles écrites en préambule à la fin de l'introduction.
+
+
+
+**Notes :**
+
+- Tout est relatif à l'information.
+- L'information émane du matériel et le transcende.
+- L'information se reproduit réellement que lorsqu'elle se manifeste et émerge du matériel grâce à de l'énergie.
+- L'information peut être une illusion ou déformation de la réalité.
 
 
 
@@ -1860,11 +1878,13 @@ baki episode 22
 
 ### Viralité
 
-### Standardisation & Universalité
+
 
 ### Rapport de force et ordres de grandeur
 
-Même de nos jours, une personne décidant de se salarier dans un travail dit alimentaire pour survivre se "vends" en échange de sa subsistance. Pour autant, c'est lui qui par son travail, assure les revenus du patron, et indirectement des autres salariés.
+Le rapport de force est universel et naturel, le premier est le nombre d'années qu'un individu à expérimenter la vie dans de bonnes conditions. On pourrait également le penser sous le prisme de la taille, nombre facile à se représenter proportionnellement à nos petites mètres de hauteur comparés au grattes ciels faisant jusqu'à 414 humains empilés. 
+
+Même de nos jours, une personne décidant de se salarier dans un travail dit alimentaire pour survivre se "vends" en échange de sa subsistance. Pour autant, c'est lui qui par son travail, assure les revenus du patron, et indirectement des autres salariés. Loi de Moore, Volume de donnée internet ou chat gpt, probabilités sachant que. le big deal Théorie du chaos et contextes intriqués, un grand tout.
 
 ### Contexte et vérité
 
@@ -1877,6 +1897,10 @@ Cette récursion de vérité absolu-relative à une autre est la raison pour laq
 De plus, nous l'avons vu au chapitre décrivant Antiquité, l'art du dialogue qu'est la dialectique, nous montre qu'il est futile de vouloir avoir raison et exposer sa vérité relative comme absolue. La mauvaise foi est l’ennemie de l'amélioration personnelle. Seule la vérité absolue compte, lors d'un débat suivant les règles de cet l'art ce n'est pas dans le but de faire briller son savoir ou répandre sa version relative de la vérité que les deux acteurs conversent, mais au contraire de challenger leurs vérités relatives pour les améliorer voire invalider à l'aide des antithèses d'autrui.
 
 En effet la dialectique indique bien qu'il est fondamental de garder sa parole distincte de celle de son interlocuteur, que l'on ne doit pas prendre comme une vérité absolue mais analyser pour en dégager les raisonnements logiques. Il n'y a rien à gagner à avoir raison, l'humanité évolue en échangeant des idées permettant de s'instruire, et d'apprendre.
+
+### Doute
+
+Il faut douter de tout même de ce que l'on sait, il faut challenger constamment sa vérité relative pour la remettre en question et s'approcher de l'absolu. Toute notre expérience de la vie introduit des biais dans nos apprentissages. Bien qu'il y'est un certain déterminisme dans le monde, il est multifactoriel. On est certain de rien qui ne soit pas vérifié et prouvé ou que l'on expérimente soit même avec une bonne proportion de réussite.
 
 ### Communication & Compréhension
 
@@ -1896,7 +1920,7 @@ A l'aide de schémas mentaux, nous associons un ensemble de concepts ou d'idées
 
 
 
-### Pédagogie active
+### Pédagogie active mutuelle
 
 Cette méthode de pédagogie, qui trouve ses fondements dans "l'Émile ou De l'éducation" de Rousseau, est relativement récente, donc fait l’œuvre de nombreuses études.
 
@@ -1920,13 +1944,29 @@ Scratch, FlexboxFroggy, CodingGame, Logo
 
 Je terminerai avec une citation de jeu vidéo, Maitre Yi dans League Of Legends dit "*Un vrai maître est un éternel étudiant*".
 
+
+
+### Informatique et éducation
+
+La tablette pourrait remplacer les manuels scolaires, les cahiers, réduire les couts et le poids des cartables 
+
+### Planifier et prendre son temps
+
+Les deux vont de pair, il ne sert à rien d'être dans la précipitation, on peut être rapide mais il ne faut pas oublier la rigueur ou tenter de faires plusieurs choses à la fois. Il vaut mieux prendre une pose ou faire quelque chose pendant une attente, que d'être happer et l'oublier. Et si on doit changer de tâche, alors il faut la noter et mieux, la planifier. Malgré la planification il faut aussi accepter que tout et n'importe quoi peut arriver à n'importe quel moment dans la vie de chacun et donc savoir être indépendant, c'est également pourquoi le partage de connaissance est important en entreprise. Lors de mon alternance chez SoeMan j'ai pu participer à des réunions d'on-boarding après quoi nous réalisions des comptes rendus. De Bussac Multimedia, nous avions en plus la chance de pouvoir partager initialement des petits posts de blogs, et plus tard de présenter des diaporama et démonstrations de ce que l'on voulait dans des sessions afterwork. Actuellement chez ABGX, nous avons même tout nos vendredis après midi de dédié à un projet interne annexe de notre choix. Pour autant on ne planifie que les tâches à faire, pas exactement quand, on définit un ordre, une pile des tâches à réaliser avec des priorités et urgences. Tout les workflow de travail que j'ai pu voir ont leurs avantages et leurs inconvénients, pour autant c'est chez ABGX que j'ai retrouver ce qui personnellement me convient le plus parmi toutes mes expériences, j'ai immensément apprécié être à plein temps sur la refonte graphique de SoEMan mais je n'avais plus l'impression d'être utile dans l'avancement du logiciel à cette période, chez De Bussac au contraire, j'avais la sensation d'être en symbiose avec mon emploi du temps qui régissait mon activité professionnelle avec malgré tout un certain confort. Ce même confort qui m'a appris à prendre mon temps chez ABGX, m'apportant malgré tout une sensation de décélération qui m'a parfois frustré. Pour autant, c'est celle qui m'a remis en phase avec le travail. Dans le travail comme en voiture, il faut adapter votre vitesse à votre environnement. Même sur une piste de course comme en formule 1, les meilleures temps sont réalisés en ayant la vitesse la plus optimale dans les conditions matérielles à ce moment.
+
 ### Amélioration continue
 
+### Standardisation & Universalité
 
 
 
 
-  
+
+###   Informatique et Cuisine
+
+La cuisine est selon moi une science combinatoire et une philosophie à part entière regroupant les mathématiques, la biologie, la physique-chimie, et plein d'autres sciences y compris sociales ou neurologique. C'est un grand tout, depuis l'antiquité, les recettes sont des formulations logiques, les ingrédient sont biologiques, leurs modifications par leurs préparations, formes, mélanges, et leurs méthodes de cuissons, sont physiques, les proportions quant à elles sont mathématiques. On sait aujourd'hui scientifiquement que notre alimentation conditionne notre santé, et que notre santé peut conditionner notre alimentation. En effet, le système humain et animal à besoin d'une entrée d'énergie constante pour contrebalancer son activité physique et neuronale. Sans cela ou avec une mauvaise alimentation, il parait logique d'avoir un système défaillant. C'est la source même de la vie. Pour autant, bien que ce soit un facteur pouvant influer sur les comportements, je pense qu'en dehors de scénario très précis, les décision peuvent, si la volonté est suffisante pour cela, transcender un pseudo-déterminisme alimentaire. La cuisine à quelque chose d'universel, tout peuple de la Terre à inventé indépendamment des autres ses propres recettes, cultures, élevages, croisement d'espèces volontaire ou non. La mondialisation est venue optimiser les agriculture et permettre des échanges de nourriture et des pratiques de cultures culinaires à l'échelle de la Terre.
+
+On sait aujourd'hui que les bactéries qui nous aident à digérer les aliments représentent une partie non négligeable de notre poids, nous vivons en symbiose avec eux à travers notre alimentation. En Informatique, et notamment en intelligence artificielle, les résultats dépendent également beaucoup des information avec lesquelles on alimente le système. Le résultat d'un algorithme, dépends des variables passées en entrée.
 
 ### Sectes et philosophie d'entreprise
 
@@ -1934,9 +1974,13 @@ De nos jours j'ai souvent entendu parler de philosophie d'entreprise. L'entrepri
 
 En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une même cause, est comme internet, la rue ou tout autre environnement dans lequel nous évoluons, c'est une indifférence, ce n'est ni bien, ni mal, cela ne dépends de ce que l'on en fait et à qu'elles fins. Nous devons tous un jour faire face au fait que nous sommes influencés et conditionnés par notre environnement et notre histoire, nos habitudes, et les groupes d'humains dans lesquels nous avons évolués. Le réel problèmes sont les dérives, notamment le fait de vénérer une autorité austère qu'on ne peut discuter, mais aussi tout les heurts qui nous sont propres. Pour le reste, la vie bats son plein et continue de parcourir le temps en faisant ce qu'elle a à faire, vivre. En réalisant EditIDE, je ne sais pas comment cet outil va être utilisé, mais je sais désormais que je veut créer des indifférences, et aller du global vers le particulier.
 
+### Nous sommes tous concernés
+
+Norbert Ellias nous apprends que l'individu et la société ne sont pas deux choses séparés. On est tous responsable de nos actes quels qu'ils soient.
+
 ### Divin
 
-Je suis agnostique, je ne sais des Dieux s'ils sont ou pas. Je pense que l'entité qui à créé l'univers et celle qui pourrait être omnisciente ne sont pas forcement la même entité. Pour autant, je pense que le divin est omniprésent, chaque bonne action, chaque amélioration à du divin en elle. Le bien est universel, on ne doit pas faire à son prochain, ce que l'on aimerai pas qu'il nous fasse. On doit demander pardon et s'excuser pour nos erreurs. Remercier chaque personne qui nous rends biens et services. Ses morales également transmises par les textes sacrés devraient être la pour nous inspirer le bien, par pour être utilisé fanatiquement dans le but d'exposer sa vérité. Les sages antiques nous ont transmis la raison et la tempérance. Les philosophes modernes quand à eux, l'absence de jugement et le fait qu'il faille parfois limiter son savoir pour laisser une place à la croyance et comprendre la manière de penser des gens. Pour autant à cette période, dans le but de ce rapprocher de la vérité, les sciences prévalent sur la religion, et s'en est ainsi depuis le siècle des lumière. Science et religion ne sont pas incompatibles pour autant, bien au contraire. Le divin réside dans notre attribution de se qui est juste ou mauvais en fonction de notre système de croyance. Malgré mon manque manifeste de rigueur, j'aspire à consciencieusement suivre la science et sa logique qui nous rapproche le plus purement de l'information véritable, factuelle, démontrable par expérimentation. Depuis toujours, dans le but de se rapprocher du divin, l'humanité améliore continuellement les conditions de leurs descendants, et ce avec l'environnement et tout aléas qu'on ne peut encore y contrôler. Pour autant, on doit juger sur le pari pas le résultat, pour accéder à la raison et au savoir, le hasard doit être limité.
+Je suis agnostique, je ne sais des Dieux s'ils sont ou pas. Je pense que l'entité qui à créé l'univers et celle qui pourrait être omnisciente ne sont pas forcement la même entité. Pour autant, je pense que le divin est omniprésent, chaque bonne action, chaque amélioration à du divin en elle. Le bien est universel, on ne doit pas faire à son prochain, ce que l'on aimerai pas qu'il nous fasse. On doit demander pardon et s'excuser pour nos erreurs. Remercier chaque personne qui nous rends biens et services. Ces morales également transmises par les textes sacrés devraient être là pour nous inspirer le bien, par pour être utilisé fanatiquement dans le but d'exposer sa vérité qu'elle qu'elle soit. Les sages antiques nous ont transmis la raison et la tempérance. Les philosophes modernes quand à eux, l'absence de jugement et le fait qu'il faille parfois limiter son savoir pour laisser une place à la croyance et comprendre la manière de penser des gens. Pour autant à cette période, dans le but de ce rapprocher de la vérité, les sciences prévalent sur la religion, et s'en est ainsi depuis le siècle des lumière. Science et religion ne sont pas incompatibles pour autant, bien au contraire. Le divin réside dans notre attribution de se qui est juste ou mauvais en fonction de notre système de croyance. Malgré mon manque manifeste de rigueur, j'aspire à consciencieusement suivre la science et sa logique qui nous rapproche le plus purement de l'information véritable, factuelle, démontrable par expérimentation. Depuis toujours, dans le but de se rapprocher du divin, l'humanité améliore continuellement les conditions de leurs descendants, et ce avec l'environnement et tout aléas qu'on ne peut encore y contrôler. Pour autant, on doit juger sur le pari pas le résultat, pour accéder à la raison et au savoir, le hasard doit être limité. Selon moi la vraie question à se poser a une information serait "Est ce que c'est scientifiquement démontrable ?" Celle a se poser vis à vis d'une croyance serait quant à elle : "What if ?" autrement dit : "Que se passerai t'il si je me mettais à croire ça ?".
 
 
 
@@ -1958,9 +2002,7 @@ https://en.wikipedia.org/wiki/Mental_chronometry
 
 
 
-### Informatique et cuisine
 
-La cuisine et la logique sont liés et font partie de science combinatoires. Depuis l'antiquité, les recettes sont des formulations logiques, les ingrédient sont biologique, leurs modifications par leurs préparations, formes, mélanges, et leurs méthodes de cuissons, sont physique.
 
 
 
@@ -1968,7 +2010,6 @@ La cuisine et la logique sont liés et font partie de science combinatoires. Dep
    1. Réalisation de projets WMD (WYSIWYG meta dogfood)
       1. Markdown
       2. 
-   2. Faits, Vérité et doute. (biais de confirmations, multifactoriel)
    3. La magie c'est de défaire et savoir refaire
    4. LA DONNEE (collecte, emplacement géographique, valeur)
    5. Un programme est un contrat.
@@ -2182,6 +2223,8 @@ https://fr.wikipedia.org/wiki/Division_du_travail
 
 
 ### Anticipation
+
+L'imagination nous permet de se projeter dans les différents scénarios possibles, on commence a croire qu'une chose va et on se demande alors : 'Qu'est ce qui se passerai probablement si cela se produit ?"
 
 example avec la compiltion rust qui empeche les top 10 des erreurs
 
@@ -2493,6 +2536,20 @@ J'ai écris ce mémoire en commençant par de la prise de note puis en rédigean
 Dès que j'avais une idée ou une information qui pouvait se relier à mon mémoire, je dégainais mon téléphone, activait mon VPN pour me connecter au réseau de mon appartement et ainsi accéder à mon serveur Windows, tournant h24 sur un mini-pc à 500 euros que je me suis acheté avant d'intégrer l'école hexagone, avec le premier salaire de mon alternance et la jolie prime obtenue pour avoir rejoint l'entreprise dès que possible un mois avant la rentrée scolaire. 
 
 J'ai parfois rencontrer des problèmes pour retrouver des informations, pour Raymond Lulle par example, j'ai dû récupérer la page en catalan pour mieux comprendre le lien entre Lulle et la logique combinatoire et computationnelle qui a inspiré Leibniz. En effet, certains concepts comme l'automatic programming, ne possède pas de page wikipédia ni de définition en français. J'ai très souvent croiser les versions anglais et francaises des pages wikipédia que je consultait pour être sur de la source et de la véracité des informations. J'ai également pu lire des textes historiques fantastiques comme le texte *As we may think* de Vannevar Bush, prouvant encore une fois que beaucoup d'inventions et informations qui n'ont été connue du grand public par la suite était déjà accessible aux plus curieux.
+
+Je n'ai pas pu tout garder, et j'ai du parler de personnes qui ont écris des choses ou fait des choses regrettable, j'ai pourtant parler de Lancaster qui dans lors de son enseignement a brutalisé des enfants. Je n'ai jusque là pas mentionner Rousseau qui disait que "Toute l'éducation des femmes doit être relative aux hommes, leur plaire, leur être utile, se faire aimer, honorer d'eux, les élever jeunes, les soigner grands, les consoler, leur rendre la vie agréable et douce. Voilà les devoir d'une femme dans tous les temps et ce qu'on doit leur apprendre dès leur enfance." car je n'ai pu valider son apparence sexiste par la lecture du texte et de son contexte. Personnellement je pense que ce genre d'injonction ne devrait pas être genré au féminin, au risque même d'en priver les Hommes dans le sens de l'humanité. De la même manière, Nicole-Claude Mathieu à déclarer que la féminité est "imposée aux femmes, et de la masculinité, apprise aux hommes", et je souhaite à tout le monde d'apprendre sans jamais se laisser imposer quoi que ce soit, n'hésitez pas à fuir, ça s'apprends également au même titre que le courage, qui n'est rappelons le, pas l'absence de peur, mais sa capacité à les gérer. Enfin, je n'ai pas garder certains philosophes comme Locke ou Voltaire, car ils n'apportaient pas assez à mon sujet également.
+
+
+
+J'ai écrit ce mémoire en gardant en tête que ma relation pédagogique avec le Docteur Pachon à commencé par une action provocatrice et insolence de ma part. Avec l'accord de ce dernier, j'ai rédigé ce paragraphe pour rétablir publiquement la vérité quand à ce qui c'est réellement passé et à m'excuser publiquement. En effet, l'information a été déformée. Bien qu'elle ai garder l'idée globale que la prévention est importante et qu'il vaut mieux être averti par quelqu'un de bien intentionné, au moment des faits M. Pachon ne me connait pas, il ne sait pas si l'accès non autorisé à son ordinateur n'a pas permis un grief plus important que la simple saisie du mot croissant dans la recherche Windows, qui représente réellement la seule interaction que j'ai eu avec son poste. C'est pourquoi j'ai pleinement accepté et compris non seulement sa réaction mais également sa volonté justifiée de me sanctionner. Comme je l'ai mentionner à l'oral aux gens avec qui j'ai pu en reparler et dans mon mail d'excuse, mon approche était maladroite et suite à des "dramas X" (initialement Twitter), l'officier de Gendarmerie Matthieu Audibert (https://twitter.com/MattAudibert) a rappelé que dans la loi : tout accès à "un système de traitement automatisé de données est puni de trois ans d'emprisonnement et de 100 000€ d'amende."[^1] Je ne saurais donc ni contester la loi, ni le ressenti du Docteur Pachon lors de cet évènement dont j'ai été l'acteur initial. L'éthique doit être reliée à la morale sinon elle  n'aurait pas lieu d'être.
+
+Encore merci à tous d'être l'individu que vous êtes. Tâchez d'être encore meilleur(e)s jours après jours mais faites le et vivez pour vous-même. Pour le moment, si vous avez lu ce texte, vous faites surement parti de l'humanité.
+
+[^1]: https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006149839/
+
+
+
+Je me suis même retenu de partager des posts LinkedIn tels que celui-ci. https://www.linkedin.com/feed/update/urn:li:activity:7124136845021458432?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7124136845021458432%29
 
 
 
