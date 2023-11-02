@@ -731,25 +731,19 @@ Enfin, il finit par quitter l'administration et fonde la Tabulating Machine Comp
 
 #### Premières machines de saisie
 
-Dactylographie, son étymologie grecque signifie écrire avec les doigts, (**1800**)
-
-La sténotype a été inventée en 1827, par Benoît Gonod, professeur de rhétorique et bibliothécaire Clermontois. Sténographie 
-
-Henry Mill en 1714 breveta la machine à écrire.
-
-1829, William Austin Burt créé The Typographer
-
-En 1857, Samuel Ward Francis crée une machine à écrire 
-
-Crée en 1816, Remington Arms ou E.Remington and Sons, qui comme son nom l'indique fabriquait initialement des armes à feu, puis du matériel agricole et des machines à coudre, créa en **1874** la "type-writter" Remington
-
-La Remington de 1874 nous à apporter les claviers QWERTYUIOP, et la suite alphabétique présente sur beaucoup de claviers, FGHJKL.
+La dactylographie, est comme son étymologie grecque l'indique, écrire avec les doigts. En 1714, Henry Mill breveta la première machine à écrire mais on ne sait si elle a été construite et utilisée. Par la suite, en 1829 William Austin Burt créé The Typographer mais je n'ai trouvé que peu d'information la dessus, il faudra attendre 1837, année à laquelle un italien nommé Guiseppe Rivezza réalise le clavesin scribe. Cette machine inspirée des pianos sera la plus complète jusqu'à l'apparition de la Remington. Entre temps Jean Claude Pingeron et François Pierre Foucaut qui est un ami de Louis Braille, vont respectivement en 1780 et 1839, inventer des machines permettant aux aveugles de taper des textes raphigraphique avec leurs doigts. Permettant de faciliter le dialogue entre les non voyant et des voyants, notamment des membres de leurs familles. Les aventures de Tom Sawyer de Mark Twain, sera la première œuvre littéraire à être écrite intégralement sur machine à écrire lors de sa publication en 1872. Par la suite, l'entreprise Remington Arms créée en 1816 et qui sera renommée E.Remington and Sons, fabriquait initialement, comme son nom l'indique, des armes à feu, puis du matériel agricole et des machines à coudre. En **1874** cette entreprise créera la "type-writter" Remington, elle nous à apporter les claviers QWERTYUIOP, et la suite alphabétique présente sur beaucoup de claviers, FGHJKL.   Une vingtaine d'années plus tard, la pratique sera assez démocratisée pour que Georges Buisson alors sténographe à l'Assemblée Nationale, organise et réalise des concours de vitesse dactylographique.
 
 
 
 #### Pedagogie contemporaire
 
-John Dewey Né le 20 octobre **1859**. Maria Montessori née le 31 août **1870**. Adolphe Ferrière Né le 30 août **1879**. Célestion Freinet, Né le 15 octobre **1896**.
+John Dewey, né le 20 octobre **1859**, a été un philosophe et pédagogue des Etats-Unis, qui sera imprégné de la théorie de l'évolution de Charles Darwin et du pragmatisme de Peirce et James. En 1899 il publira *The School and Society*[^1]
+
+[^1]: https://archive.org/details/schoolsociety00deweiala
+
+
+
+Maria Montessori née le 31 août **1870**. Adolphe Ferrière Né le 30 août **1879**. Célestion Freinet, Né le 15 octobre **1896**.
 
 
 
