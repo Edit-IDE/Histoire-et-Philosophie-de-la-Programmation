@@ -735,11 +735,11 @@ La dactylographie, est comme son étymologie grecque l'indique, écrire avec les
 
 
 
-#### Pedagogie contemporaire
+#### Pédagogie contemporaine
 
-John Dewey, né le 20 octobre **1859**, a été un philosophe et pédagogue des Etats-Unis, qui sera imprégné de la théorie de l'évolution de Charles Darwin et du pragmatisme de Peirce et James. En 1899 il publira *The School and Society*[^1]
+John Dewey, né le 20 octobre **1859**, a été un philosophe et pédagogue des Etats-Unis, qui sera imprégné de la théorie de l'évolution de Charles Darwin et du pragmatisme de Peirce et James. En 1899 il publira *The School and Society*[^1]. Il y déclara que l'école est à la fois socialiste et individualiste, que ce que tout le monde attends de l'école est une progression et un développement des individus qui y travaillent. 
 
-[^1]: https://archive.org/details/schoolsociety00deweiala
+[^1]: https://archive.org/details/schoolsociety00deweiala/page/n8/mode/1up
 
 
 
