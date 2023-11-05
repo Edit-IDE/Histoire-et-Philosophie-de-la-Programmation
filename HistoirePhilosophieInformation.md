@@ -1588,15 +1588,8 @@ Stucture de données
 
 5. Calculs distribués
 
-6. 2SIG
-   1. Structure
-
-   2. Style
-
-   3. Interaction
-
-   4. Gestion de la donnée 
-
+6. 
+   
 7. Pop SMTP
 
 1. Habitudes de programmation
@@ -2033,7 +2026,15 @@ Les outils no-code fleurissent ses dernières années, ils permettent certes la 
 
 ### De quoi est composé un système d'information ?
 
+2SIG Interfaces
 
+1. Structure
+
+2. Style
+
+3. Interaction
+
+4. Gestion de la donnée 
 
 
 
