@@ -691,6 +691,10 @@ Friedrich Fröbel, né le 21 avril **1782**
 
 
 
+#### Premières machines de saisie
+
+La dactylographie, est comme son étymologie grecque l'indique, écrire avec les doigts. En 1714, Henry Mill breveta la première machine à écrire mais on ne sait si elle a été construite et utilisée. Par la suite, en 1829 William Austin Burt créé The Typographer mais je n'ai trouvé que peu d'information la dessus, il faudra attendre 1837, année à laquelle un italien nommé Guiseppe Rivezza réalise le clavesin scribe. Cette machine inspirée des pianos sera la plus complète jusqu'à l'apparition de la Remington. Entre temps Jean Claude Pingeron et François Pierre Foucaut qui est un ami de Louis Braille, vont respectivement en 1780 et 1839, inventer des machines permettant aux aveugles de taper des textes raphigraphique avec leurs doigts. Permettant de faciliter le dialogue entre les non voyant et des voyants, notamment des membres de leurs familles. Les aventures de Tom Sawyer de Mark Twain, sera la première œuvre littéraire à être écrite intégralement sur machine à écrire lors de sa publication en 1872. Par la suite, l'entreprise Remington Arms créée en 1816 et qui sera renommée E.Remington and Sons, fabriquait initialement, comme son nom l'indique, des armes à feu, puis du matériel agricole et des machines à coudre. En **1874** cette entreprise créera la "type-writter" Remington, elle nous à apporter les claviers QWERTYUIOP, et la suite alphabétique présente sur beaucoup de claviers, FGHJKL.   Une vingtaine d'années plus tard, la pratique sera assez démocratisée pour que Georges Buisson alors sténographe à l'Assemblée Nationale, organise et réalise des concours de vitesse dactylographique.
+
 
 
 #### Améliorations des calculateurs
@@ -726,24 +730,6 @@ Avec la méthode automatisée par cartes perforées d'Hermann Hollerith en **189
 Il a construit une machine à statistiques à cartes perforées qui exploite des cartes 12x6cm regroupant les 210 cases nécessaires pour recevoir toutes les informations nécessaires. Son invention à permis d'effectuer le recensement, auparavant manuel en seulement six ans. Par la suite il a améliorer le fonctionnement de cette machine en utilisant un métier à tisser Jacquard, pour mécaniser la lecture des fiches de recensement et améliorer son efficacité sur une idée de l'un de ses collègues.
 
 Enfin, il finit par quitter l'administration et fonde la Tabulating Machine Company en 1896 qui fusionnera en 1911 avec 3 autres entreprise pour fonder la Computing-Tabulating-Recording Company (CTR), qui deviendra plus tard l'International Business Machines Corporation, IBM.
-
-
-
-#### Premières machines de saisie
-
-La dactylographie, est comme son étymologie grecque l'indique, écrire avec les doigts. En 1714, Henry Mill breveta la première machine à écrire mais on ne sait si elle a été construite et utilisée. Par la suite, en 1829 William Austin Burt créé The Typographer mais je n'ai trouvé que peu d'information la dessus, il faudra attendre 1837, année à laquelle un italien nommé Guiseppe Rivezza réalise le clavesin scribe. Cette machine inspirée des pianos sera la plus complète jusqu'à l'apparition de la Remington. Entre temps Jean Claude Pingeron et François Pierre Foucaut qui est un ami de Louis Braille, vont respectivement en 1780 et 1839, inventer des machines permettant aux aveugles de taper des textes raphigraphique avec leurs doigts. Permettant de faciliter le dialogue entre les non voyant et des voyants, notamment des membres de leurs familles. Les aventures de Tom Sawyer de Mark Twain, sera la première œuvre littéraire à être écrite intégralement sur machine à écrire lors de sa publication en 1872. Par la suite, l'entreprise Remington Arms créée en 1816 et qui sera renommée E.Remington and Sons, fabriquait initialement, comme son nom l'indique, des armes à feu, puis du matériel agricole et des machines à coudre. En **1874** cette entreprise créera la "type-writter" Remington, elle nous à apporter les claviers QWERTYUIOP, et la suite alphabétique présente sur beaucoup de claviers, FGHJKL.   Une vingtaine d'années plus tard, la pratique sera assez démocratisée pour que Georges Buisson alors sténographe à l'Assemblée Nationale, organise et réalise des concours de vitesse dactylographique.
-
-
-
-#### Pédagogie contemporaine
-
-John Dewey, né le 20 octobre **1859**, a été un philosophe et pédagogue des Etats-Unis, qui sera imprégné de la théorie de l'évolution de Charles Darwin et du pragmatisme de Peirce et James. En 1899 il publira *The School and Society*[^1]. Il y déclara que l'école est à la fois socialiste et individualiste, que ce que tout le monde attends de l'école est une progression et un développement des individus qui y travaillent. 
-
-[^1]: https://archive.org/details/schoolsociety00deweiala/page/n8/mode/1up
-
-
-
-Maria Montessori née le 31 août **1870**. Adolphe Ferrière Né le 30 août **1879**. Célestion Freinet, Né le 15 octobre **1896**.
 
 
 
@@ -802,6 +788,20 @@ Créée en **1886**, devint Unisys après sa fusion en 1986 avec Sperry Univac, 
 Né en 1908
 
 
+
+#### Pédagogie contemporaine
+
+John Dewey, né le 20 octobre **1859**, a été un philosophe et pédagogue des Etats-Unis, qui sera imprégné de la théorie de l'évolution de Charles Darwin et du pragmatisme de Peirce et James. En 1899 il publira *The School and Society*[^1]. Il y déclara que l'école est à la fois socialiste et individualiste. Ce que tout le monde attends de l'école est une progression et un développement des individus qui y travaillent. À l'instar de ses prédécesseurs comme Rousseau, il insistera également sur l'importance du travail manuel, permettant aux élèves de ne pas être passifs face à une leçon ou bêtement répondre à des questions, mais de devenir actif, productif et même créatif. Il regrette également que l'enseignement mutuel soit devenu "un crime d'école", sanctionnant tout élève aidant son prochain comme s'il avait lui même triché. Par la suite il fait remarquer que dans le monde du travail, il y a rarement une ambiance studieuse et scolaire. Les gens se parlent, bougent, font preuve d'autonomie et expérimentent. Enfin il explique que des élèves qui ont en leur possession de la laine fraîche et une fleur de coton à maturité, sont pleinement capable par expérimentation de la réalité d'en extraire des déduction, et par exemple de comprendre pourquoi le coton demande plus de travail d'extraction et d'assemblage que la laine, plus facile à filer et qu'il suffit de récolter après la tonte.
+
+[^1]: https://archive.org/details/schoolsociety00deweiala/page/n8/mode/1up
+
+Maria Montessori, née en Italie le 31 août **1870**, a initialement étudié la médecine. Une fois diplômée, elle a été assistante dans une clinique psychiatrique où elle rencontrera des enfants en retard scolaire. Elle développera ainsi un intérêt pour l'éducation et devient pédagogue. Pour approfondir ses connaissances en la matière, elle étudia les textes et méthodes éducatives dédiées aux enfants déficients tels que les travaux d'Édouard Séguin ou Jean Itard qui a travaillé auprès de sourds muets ainsi que sur le fameux cas de Victor, "Enfant sauvage de l'Aveyron". Elle est même partie en France pour récupérer leurs travaux et les traduire en Italien une fois rentrée. Pendant une cinquantaine d'année, elle étudiera les élèves de milieux défavorisés et développera des outils pédagogiques matériels qui rencontreront un succès grandissant au fur et à mesure que les enfants déficients obtiennent de meilleurs résultats aux examens de lecture et d'écriture. Elle validera ainsi son intuition première qui était que les enfants déficients avait plus besoin de pédagogie que de soins médicaux. Enfin elle étendra sa méthode aux enfants "normaux" et participera à la Ligue internationale pour l'éducation nouvelle, à l'instar de ses confrères comme John Dewey et Adolphe Ferrière. 
+
+Ce dernier est né le 30 août **1879** et il deviendra complètement sourd à seulement 20 ans des suite d'une maladie. Il du renoncer à enseigner mais continua à travailler dans le domaine de l'éducation. En 1909 il réalise sa première publication nommée "*Projet d'école nouvelle*", puis il créera la Ligue internationale pour l'éducation nouvelle en 1921 pour laquelle il rédigera également la charte.
+
+Célestion Freinet, Né le 15 octobre **1896**.
+
+Francisco Ferrer
 
 
 
