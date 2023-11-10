@@ -675,17 +675,21 @@ C'est la période actuelle, le début est défini par la révolution industriell
 
 #### Philosophes contemporains
 
-Les penseurs de cette époque ont hérité des savoirs du siècle des lumière, la science fait désormais partie intégrante des réflexions de la société. Kant actif vers la fin de l'époque moderne à eu une forte influence notamment au début de l'époque contemporaine. Georg Wilhelm Friedrich Hegel, né en **1770** est connu pour sa dialectique du maître et de l'esclave. Selon lui travailler pour un maître fait acquérir de plus en plus de compétences à l’esclave, et le maître à force de se faire servir perd de ses compétence, l’esclave à alors l'opportunité de devenir maître à son tour voire effectuer une inversion de contrôle. Le travail est donc un facteur d'émancipation et de libération, et un vrai maître doit continuer d'apprendre et ne pas se reposer sur ses sous-fifres, en plus de faire preuve d'une reconnaissance sincère nécessaire à la sanité de leur relation. Il reprendra la notion de système de Vauban et Condillac et l'appliqua à son enseignement de la philosophie.
+Les penseurs de cette époque ont hérité des savoirs du siècle des lumière, la science fait désormais partie intégrante des réflexions de la société. Rousseau et Kant, actifs vers la fin de l'époque moderne ont eu une forte influence notamment au début de l'époque contemporaine. Ils ont notamment influencé l'idéaliste Georg Wilhelm Friedrich Hegel, né en 1770. Il reprendra également la notion de système de Vauban et Condillac et l'appliqua à son enseignement de la philosophie dans "*Phénoménologie de L'Esprit*" qui l'a rendu connu pour sa dialectique du maître et de l'esclave. Selon lui travailler pour un maître fait acquérir de plus en plus de compétences à l’esclave, et le maître à force de se faire servir perd de ses compétence, l’esclave à alors l'opportunité de devenir maître à son tour voire effectuer une inversion de contrôle. Le travail est donc un facteur d'émancipation et de libération, et un vrai maître doit continuer d'apprendre et ne pas se reposer sur ses sous-fifres, en plus de faire preuve d'une reconnaissance sincère nécessaire à la sanité de leur relation.
 
-Bernard Bolzano 1781
+L'idéalisme sera par la suite critiqué par Bernard Bolzano né en 1781, qui à l'instar de ? déclarera que les idées existent indépendamment du monde des idées propres à celui qui pense. Ce philosophe logicien a proposer son œuvre "*Théorie de la science*" pour tenter d'unifier la logique globale, pensant la chose telle un système, un tout composé de parties distinctes de ce dernier. Il a introduit le mot objet comme quelque chose qui est représenté par une idée. À l'inverse, une idée abstraite qui serait irréalisable ne possède donc pas d'objet et ainsi rien de concret. L'idée du "rien" n'a d'ailleurs par définition pas d'objet. 
 
-Charles Darwin 1809
+> Ce concept d'objet de Bolzano me fait étrangement penser à la notion de classe abstraite en programmation objet, qui est une idée ne pouvant être instanciée en objet tant qu'elle n'est pas étendue par une autre classe non abstraite permettant elle la création d'un dit objet.
 
-Herbert Spencer 1820 pestazolli 
+
+
+Le terme biologie, en tant que science de l'étude des êtres vivants, a été inventé par Jean-Baptiste de Lamarck. Il est à l'origine de la théorie transformiste ayant réfuté le fixisme déclarant jusqu'alors que les espèces végétales et animales seraient immuables et n'évoluerait pas dans le temps. Dans *Philosophie zoologique*[^1], il est le premier penseur à exposer la théorie de l'évolution et spéculer que l'homme descends probablement du singe. Célèbre pour avoir révolutionné la biologie, Charles Darwin a repris les travaux de Lamarck et publia l'*Origine des espèces* en 1859. Dans ce texte fondateur de la théorie de l’évolution et de la sélection naturelle, il prouve scientifiquement la mutabilité des être vivants que d'autres penseurs n'ont pu prouver de l'Antiquité au moyen âge. Enfin, Herbert Spencer viendra appliquer ses théories au sciences humaines, inventant ainsi le darwinisme social.
+
+[^1]: https://gallica.bnf.fr/ark:/12148/bpt6k5675762f
 
 Ernst Mach 1838
 
-Peirce 1839 influencera John Dewey
+Peirce 1839, influencé par Bolzano, influencera à son tour John Dewey
 
 Nietzsche 1844
 
