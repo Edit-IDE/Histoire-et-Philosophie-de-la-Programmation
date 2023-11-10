@@ -476,7 +476,7 @@ En -47, Jules César ordonne d'incendier la flotte d'Alexandrie. Détruisant une
 
 Bien que le début du Moyen-Âge soit marquée par un déclin avec la chute de l'Empire romain en 450, il se passera bien des choses dans le domaine des mathématiques, de la cryptographie et de l'imprimerie. Ce sera par ailleurs l'âge d'or de l'islam du 8ème au 13ème siècle, j'introduirait plusieurs savant arabes de cette époque qui ont eu accès aux textes antiques grâce à la conquête d'Alexandrie, ou d'Antioche vers 650. Ils transmettrons et développeront les sciences à la manière de leurs prédécesseurs, jusqu’à ce que les espagnols reprennent peu à peu leurs territoires lors de la reconquista.
 
-D'un point de vue social et économique, l'humanité a connue une forte croissance démographique à cette période, avec un doublement de la population passant de 35 à 80 millions d'individus entre l'an 1000 et  1350, malgré la grande famine de 1316 et la peste noire de 1347. Ce développement a été en grande partie du à un climat plus favorable et à l'agrandissement des surfaces cultivés, qui a été accompagné par le développement des techniques agricoles comme la rotation des cultures ou l'apparition de la charrue.
+D'un point de vue social et économique, l'humanité a connu une forte croissance démographique à cette période, avec un doublement de la population passant de 35 à 80 millions d'individus entre l'an 1000 et  1350, malgré la grande famine de 1316 et la peste noire de 1347. Ce développement a été en grande partie du à un climat plus favorable et à l'agrandissement des surfaces cultivés, qui a été accompagné par le développement des techniques agricoles comme la rotation des cultures ou l'apparition de la charrue.
 
 L'élevage des moutons à laine longue se développera, avec l'introduction en Europe du rouet inventé en Chine lors du premier siècle. Des boutons existants depuis l'apparition des premières villes permettront la réalisation de textiles de meilleure qualité. Les moulins à vents et à eau vont également proliférer, permettant une automatisation et la réduction de l'utilisation de force manuelle au profit des forces hydrauliques, thermiques, éoliennes et animales.
 
@@ -601,15 +601,11 @@ René Descartes est né moins de dix ans après Hobbes, en 1596, et sera actif p
 
 Baruch Spinoza né en 1632, est un philosophe rationaliste juif d'origine portugaise. Il s'est fait bannir de la communauté juive pour s'être petit à petit écarté de la religion au fur et à mesure qu'il se rapprochait de la science, qu'il étudiera en travaillant à côté dans la taille de lentilles optiques. Selon lui il n'existe dans la nature qu'une seule substance qui est Dieu, rejoignant le panthéisme stoïcien. Einstein lui même dira qu'il croyait "au Dieu de Spinoza, qui se révèle dans l'harmonie de tout ce qui existe, et non en un dieu qui se préoccupe du sort et des actions des êtres humains. Il a établi à la manière de Platon, une théorie de la connaissance et différents degrés de cette dernière. Cette théorie et ces œuvres comme traitant de éthique ou de la liberté se basent sur des définitions, axiomes, postulats et démonstrations en utilisant la déduction. Le niveau un de la connaissance corresponds aux ouï-dire, information isolés perçue et interprétée sans confirmation. Le niveau suivant est la connaissance empirique que l'on a pas prouvé mais pas réussi à invalider par expérience ou opinion d'autrui pour autant. Le troisième niveau est la déduction, permettant d'avérer un fait de manière cohérente et rationnelle sans forcement pleinement comprendre ce dernier. Enfin il y a la connaissance première ou l'on est témoin du fait et peut en saisir l'essence. Je rajouterai qu'au dessus de cela devrait se situer l'action de réaliser un fait, que l'acteur seul peut pleinement comprendre.
 
-
-
 Né en **1712** Jean-Jacques Rousseau était un philosophe autodidacte, il a appris grâce à ses lectures de Descartes, Malebranche, Leibniz, et bien d'autres. Sa pensée philosophique est fortement inspiré par Hobbes, mais à l'inverse de ce dernier, il dira dans son essai *Discours sur l'origine et les fondements de l'inégalité parmi les hommes*[^1] paru en **1755** que l'humain est naturellement bon mais que la société et les règles qui en émanent viennent le corrompre, renonçant à sa liberté naturelle au profit de la liberté civile. Malgré cela il affirme que le peuple est souverain, et qu'il doit converger vers l’intérêt commun, qu'il appela *volonté générale*. Rousseau publiera *Du contrat social* en **1762**, inspiré du *Léviathan* de Hobbes avec l'ajout de sa notion de volonté générale. Cette œuvre lui vaudra une condamnation par l’Église et la république de Genève qu'il déclare être corrompues. Suite à cela il passera une vie d'errance accompagnée d'un sentiment de persécution. Dans cet ouvrage il traitera également de l'esclavage, de la peine de mort, des gouvernements, des rapports de forces et de la place de l'autorité, déclarant que la "force ne fait pas droit, et qu'on n'est obligés d'obéir qu'aux puissances légitimes". En effet, depuis la sédentarisation et l'apparition des premières lois remplaçant celle du plus fort physiquement, l'Homme apprends de plus de ses différents pairs et doit collaborer avec eux afin de trouver des solutions communes. Il y indiquera également qu'en devenant adulte, l'enfant "devient son propre maître", et qu'à l'inverse, un individu peut aliéner sa liberté et se rendre esclave d'un tiers. Selon lui, l'obéissance à une autorité n'est pas néfaste que si, malgré la fin qui justifie les moyens, l'individu ne s'engage à rien envers son supérieur. Un contrat sans échange équivalent entraînant la perte de sens et sa propre nullité par l'injustice. Toujours en 1762, il publiera également *Emile* ou *De l'éducation*, posant les bases de la pédagogie moderne. Il y explique que les enfants de moins de 12 ans doivent être guidés mais laissés libre d'expérimenter eux même le monde qui les entoure par la sensation et d'en déduire eux même des vérités à confirmer par un mentor. Après cet âge il prône l’apprentissage d'un métier manuel  permettant de s'initier au monde du travail en créant des choses de ses propres mains. Enfin, à notre ère, Levi-Strauss déclarera qu'il est le fondateur de l'anthropologie, étude de l'être humain et de ses groupes sous tous leurs aspects qu'ils soient physiques ou culturels.
 
 [^1]: http://classiques.uqac.ca/classiques/Rousseau_jj/discours_origine_inegalite/discours_inegalite.pdf
 
-
-
-Né en 1724, Kant est le fondateur du criticisme et de l'idéalisme transcendantal. Il a été une grande influence pour la philosophie moderne et la pensée critique. Grand adepte de la connaissance pratique et esthétique, il axa sa philosophie sur la capacité à savoir quoi faire ou espérer en fonction de cette dernière. Il invite donc à être raisonnable, tout en faisant preuve de rigueur et ainsi n'accepter que la connaissance démontrable résistante à la critique. Il a également affirmé que la connaissance trouve son origine dans le sujet humain et non pas dans l'objet étudié. C'est à dire que la construction de la vérité subjective ne sera jamais pleinement représentative de l'objet d'étude, mais un long apprentissage itératif de l'humain afin de s'en rapprocher assez pour le connaître. Il traitera également beaucoup la question du dogme, indiquant que l'athéisme est une croyance au même titre que les autres, et qu'il faut malgré tout savoir limiter son savoir pour laisser une place à la croyance, sans laquelle, l'humain ne peut concevoir le monde et émettre des hypothèses.
+Né en 1724, Kant est le fondateur du criticisme et de l'idéalisme transcendantal. Influencé par Spinoza, Leibneiz, Newton et bien d'autres, il a été lui même une grande influence pour la philosophie moderne et la pensée critique. Grand adepte de la connaissance pratique et esthétique, il axa sa philosophie sur la capacité à savoir quoi faire ou espérer en fonction de cette dernière. Il invite donc à être raisonnable, tout en faisant preuve de rigueur et ainsi n'accepter que les informations démontrable résistante à la critique. Il a également affirmé que la connaissance trouve son origine dans le sujet humain et non pas dans l'objet étudié. C'est à dire que la construction de la vérité subjective ne sera jamais pleinement représentative de l'objet d'étude, mais un long apprentissage itératif de l'humain afin de s'en rapprocher assez pour le connaître. Il traitera également beaucoup la question du dogme, indiquant que l'athéisme est une croyance au même titre que les autres, et qu'il faut malgré tout savoir limiter son savoir pour laisser une place à la croyance, sans laquelle, l'humain ne peut concevoir le monde et émettre des hypothèses. On se souviendra également 
 
 A cette période les philosophes ont donc redéfinit leur pensée en se rapprochant petit à petit de la science. Ils populariseront l'idée que les sensations comme la douleurs sont liés à des fibres qui s'avéreront faire parti du système nerveux évoqués par Descartes dans le "Traité de l'homme" de 1664.
 
@@ -651,13 +647,9 @@ Les cartes perforées sont des morceau de papiers rigide dont la présence ou ab
 
 #### Pédagogie moderne
 
-Né en **1746**, Johann Heinrich Pestalozzi, est un pédagogue, éducateur et penseur d'origine suisse qui a été pionnier de la pédagogie moderne, tout comme Rousseau qui l'as inspiré et dont il a tenté d'appliquer les principes présents dans l'Emile. Il dédia sa vie à l'éducation des enfants pauvres, fonda des orphelinats, et écrivit *Leonard et Gertrude* en **1781** puis l'essai *Comment Gertrude instruit ses enfants* en **1801**, indiquant les bienfaits d'une éducation bienveillante et mutuelle. Parmi ses principes, l'enseignement doit partir du concret pratique pour aller à l'abstrait théorique, allant progressivement du simple et universel au complexe et particulier. Ses travaux inspireront le franciscain Grégoire Girard, un autre pédagogue suisse qui a promu les écoles mutuelles dans leur pays à partir de 1816. À la même période, Andrew Bell importe également  l'enseignement mutuel de l'Inde, où il l'appliqua dans une école de Madras, avant de revenir à Londres où il publiera *Expériences sur l'éducation faire à l'école des garçons de Madras* en **1789**. Ces travaux seront repris par Joseph Lancaster qui rédigera *Improvement in Education* en 1803, sa méthode est devenue très populaire mais fut rapidement abandonnée suite à des résultats peu satisfaisants et aux révélation montrant que Lancaster avait flagellé des étudiants, lui valant une exclusion de la Société promouvant son enseignement pour l'éducation des pauvres. Contrairement à Pestalozzi, Lancaster utilisait cette méthode d'éducation pour des raisons principalement financières, malgré sa démocratisation, introduction de dérives à décrédibiliser cette pratique.
+Né en **1746**, Johann Heinrich Pestalozzi, est un pédagogue, éducateur et penseur d'origine suisse qui a été pionnier de la pédagogie moderne, tout comme Rousseau qui l'as inspiré et dont il a tenté d'appliquer les principes présents dans l'Emile. Il dédia sa vie à l'éducation des enfants pauvres, fonda des orphelinats, et écrivit *Leonard et Gertrude* en **1781**, puis l'essai *Comment Gertrude instruit ses enfants* en **1801**, indiquant les bienfaits d'une éducation bienveillante et mutuelle. Parmi ses principes, l'enseignement doit partir du concret pratique pour aller à l'abstrait théorique, allant progressivement du simple et universel au complexe et particulier. Ses travaux inspireront le franciscain Grégoire Girard, un autre pédagogue suisse qui a promu les écoles mutuelles dans leur pays à partir de 1816. À la même période, Andrew Bell importe également l'enseignement mutuel de l'Inde, où il l'appliqua dans une école de Madras, avant de revenir à Londres où il publiera *Expériences sur l'éducation faire à l'école des garçons de Madras* en **1789**. Ces travaux seront repris par Joseph Lancaster qui rédigera *Improvement in Education* en 1803, sa méthode est devenue très populaire mais fut rapidement abandonnée suite à des résultats peu satisfaisants et aux révélation montrant que Lancaster avait flagellé des étudiants, lui valant une exclusion de la Société promouvant son enseignement pour l'éducation des pauvres. Contrairement à Pestalozzi, Lancaster utilisait cette méthode d'éducation pour des raisons principalement financières, malgré sa démocratisation, introduction de dérives à décrédibiliser cette pratique.
 
 Encore une fois, il est évident que ce concept existait avant mais qu'il a été popularisé à cette période, avant eux un prêtre chrétien précurseur dans ce domaine nommé Charles Démia, a écrit le *Règlements pour les écoles de la ville et diocèse de Lyon* en 1674. Il y expliquait déjà comment le maître d'école pouvait déléguer une partie de son travail aux élèves studieux pour faire réciter les leçons, aider ou corriger les fautes des plus jeunes ou des élèves en difficultés.
-
-Philosophie de l'éducation et axiologie, qu'elle est la valeur de l'éducation et de l'enseignement aujourd'hui ? Des études montrent désormais que l'apprentissage se fait mieux par la récompense que la punition.[^1] Il est plus productif d'encourager un bon comportement que de réprimander un mauvais, bien que cela est parfois nécessaire, il faut toujours mieux orienter sa pédagogie de manière positive. 
-
-[^1]: https://www.inshs.cnrs.fr/fr/cnrsinfo/apprentissage-par-recompense-ou-par-punition-quelles-differences
 
 
 
@@ -681,13 +673,29 @@ C'est la période actuelle, le début est défini par la révolution industriell
 
 
 
-#### Philosophie contemporaine
+#### Philosophes contemporains
 
-Georg Wilhelm Friedrich Hegel, né en **1770**, dialectique du maître et de l'esclave. Travailler pour un maître fait acquérir de plus en plus de compétences à l’esclave, et le maître à force de se faire servir perd de ses compétence, l’esclave à alors l'opportunité de devenir maître à son tour voire effectuer une inversion de contrôle. Le travail serait donc un facteur d'émancipation et de libération, et un vrai maître doit continuer d'apprendre et ne pas se reposer sur ses sous-fifres, en plus de faire preuve d'une reconnaissance sincère nécessaire à la sanité de leur relation.
+Les penseurs de cette époque ont hérité des savoirs du siècle des lumière, la science fait désormais partie intégrante des réflexions de la société. Kant actif vers la fin de l'époque moderne à eu une forte influence notamment au début de l'époque contemporaine. Georg Wilhelm Friedrich Hegel, né en **1770** est connu pour sa dialectique du maître et de l'esclave. Selon lui travailler pour un maître fait acquérir de plus en plus de compétences à l’esclave, et le maître à force de se faire servir perd de ses compétence, l’esclave à alors l'opportunité de devenir maître à son tour voire effectuer une inversion de contrôle. Le travail est donc un facteur d'émancipation et de libération, et un vrai maître doit continuer d'apprendre et ne pas se reposer sur ses sous-fifres, en plus de faire preuve d'une reconnaissance sincère nécessaire à la sanité de leur relation. Il reprendra la notion de système de Vauban et Condillac et l'appliqua à son enseignement de la philosophie.
 
-Carl Friedrich Gauss, Né en **1777**
+Bernard Bolzano 1781
 
-Friedrich Fröbel, né le 21 avril **1782**
+Charles Darwin 1809
+
+Herbert Spencer 1820 pestazolli 
+
+Ernst Mach 1838
+
+Peirce 1839 influencera John Dewey
+
+Nietzsche 1844
+
+Bergson 1859
+
+Albert Einstein 1879
+
+Le mathématicien Carl Friedrich Gauss, Né en **1777**
+
+
 
 
 
@@ -737,8 +745,6 @@ Enfin, il finit par quitter l'administration et fonde la Tabulating Machine Comp
 
 Depuis les penseurs grecs de l'Antiquité, l'humanité à connaissance de l'électricité statique que l'on peut obtenir en frottant de l'ambre. En effet *êlektron* signifie ambre jaune en grec ancien, et le mot magnétisme viendrai de la magnésie, pierre servant d'aimant naturel depuis la nuit des temps. En 1745, juste avant l'époque contemporaine, Pieter van Musschenbroek professeur de physique dans la ville de Leyde aux Pays-Bas, découvre que l'on peut stocker des charges électriques dans deux électrodes opposées par un isolant, créant ainsi un ancêtre du condensateur nommé Bouteille de Leyde, capable de renvoyer des décharges spectaculaires qui seront utilisés pour divertir les gens dans les foires, ou des centaines de courtisans de Louis XV et lui même à Versailles. Plusieurs appareils de mesure des charges électriques verront le jour comme l'électroscope puis l'électromètre. Charles Coulomb étudiera à son tour les phénomènes électrostatiques et découvrira en 1785 la formule de l'intensité de la force électrique entre deux particules chargés, représenté par le produit des charges et la droite entre elles, plus la distance et courte plus la force sera grande. La découverte de la pile électronique de Volta en 1800 a quant à elle instantanément reçu une renommée internationale. L’intérêt pour ce domaine de recherche se développe alors à une vitesse folle. En 1820 Hans Chistian Orsted montre qu'un courant électrique peut dérégler une boussole, dont le principe est connu depuis le premier siècle et l'utilisation popularisée vers le 10 ème siècle. Onze ans plus tard, en 1831, Michael Faraday énonce une loi éponyme permettant de relier le courant électrique aux champs magnétiques, cette loi sera complétée par les travaux d'André-Marie Ampère qui proposera un théorème reliant le champ magnétique aux courants électriques, enfin en 1873 Maxwell unifie définitivement les champs électriques et magnétique dans la théorie de l'électromagnétisme. Entre temps, apparaissent des applications concrètes comme la roue de Barlow, premier moteur électrique en 1822, le premier électroaimant en 1825, l'induction en 1831, et l'année suivante, le premier alternateur nommé machine de Pixii. Ces technologies seront améliorés à force d'itérations, ouvrant nombres de possibilités comme la suppléance des machines à vapeur par des machine dynamoélectrique.
 
-
-
 Bien après Robert Hooke, qui inventa le téléphone à ficelle en 1665, le physicien italien Antonio Meucci débarque en Amérique lors de l'année 1850 dans le but de promouvoir ses inventions dont le *Telettrofono* qu'il aurait utilisé pour parler avec sa femme immobilisée par l'arthrite. En 1871 il fonde même une entreprise et tente de protéger ses inventions bien qu'il n'ai pas assez de fond financiers pour s'offrir un réel brevet. L'homme que l'on connait comme l'inventeur du téléphone en aurait donc subtiliser l'idée lors d'une visite aux bureaux de Western Union Telegraph où Meucci aurait entreposer son Télettrophone. C'est ainsi qu'Alexander Graham Bell, professeur de diction à l'université de Boston, mari et fils de femmes sourdes, dépose à son tour un brevet[^1], quelques heures après Elisha Gray à qui l'invention du téléphone à été refusée, et qui inventa le télégraphe musical la même année, ancêtre du synthétiseur.
 
 [ ^1]: https://patents.google.com/patent/US174465A/en?inventor=Alexander+Graham+Bell&sort=old - https://patents.google.com/patent/US178399A/en?inventor=Alexander+Graham+Bell&sort=old
@@ -783,25 +789,17 @@ Créée en **1886**, devint Unisys après sa fusion en 1986 avec Sperry Univac, 
 
 
 
-#### Claude Lévi-Strauss
-
-Né en 1908
-
-
-
 #### Pédagogie contemporaine
+
+Le pédagogue Friedrich Fröbel, né le 21 avril **1782**. De 1808 a 1810 il frequentera Pestalozzi et appris de lui jusqua rediger son preier ouvrage notable "Bref exposé des principes d'éducation et de formation de Pestalozzi, d'après Pestalozzi lui même".
 
 John Dewey, né le 20 octobre **1859**, a été un philosophe et pédagogue des Etats-Unis, qui sera imprégné de la théorie de l'évolution de Charles Darwin et du pragmatisme de Peirce et James. En 1899 il publira *The School and Society*[^1]. Il y déclara que l'école est à la fois socialiste et individualiste. Ce que tout le monde attends de l'école est une progression et un développement des individus qui y travaillent. À l'instar de ses prédécesseurs comme Rousseau, il insistera également sur l'importance du travail manuel, permettant aux élèves de ne pas être passifs face à une leçon ou bêtement répondre à des questions, mais de devenir actif, productif et même créatif. Il regrette également que l'enseignement mutuel soit devenu "un crime d'école", sanctionnant tout élève aidant son prochain comme s'il avait lui même triché. Par la suite il fait remarquer que dans le monde du travail, il y a rarement une ambiance studieuse et scolaire. Les gens se parlent, bougent, font preuve d'autonomie et expérimentent. Enfin il explique que des élèves qui ont en leur possession de la laine fraîche et une fleur de coton à maturité, sont pleinement capable par expérimentation de la réalité d'en extraire des déduction, et par exemple de comprendre pourquoi le coton demande plus de travail d'extraction et d'assemblage que la laine, plus facile à filer et qu'il suffit de récolter après la tonte.
 
 [^1]: https://archive.org/details/schoolsociety00deweiala/page/n8/mode/1up
 
-Maria Montessori, née en Italie le 31 août **1870**, a initialement étudié la médecine. Une fois diplômée, elle a été assistante dans une clinique psychiatrique où elle rencontrera des enfants en retard scolaire. Elle développera ainsi un intérêt pour l'éducation et devient pédagogue. Pour approfondir ses connaissances en la matière, elle étudia les textes et méthodes éducatives dédiées aux enfants déficients tels que les travaux d'Édouard Séguin ou Jean Itard qui a travaillé auprès de sourds muets ainsi que sur le fameux cas de Victor, "Enfant sauvage de l'Aveyron". Elle est même partie en France pour récupérer leurs travaux et les traduire en Italien une fois rentrée. Pendant une cinquantaine d'année, elle étudiera les élèves de milieux défavorisés et développera des outils pédagogiques matériels qui rencontreront un succès grandissant au fur et à mesure que les enfants déficients obtiennent de meilleurs résultats aux examens de lecture et d'écriture. Elle validera ainsi son intuition première qui était que les enfants déficients avait plus besoin de pédagogie que de soins médicaux. Enfin elle étendra sa méthode aux enfants "normaux" et participera à la Ligue internationale pour l'éducation nouvelle, à l'instar de ses confrères comme John Dewey et Adolphe Ferrière. 
+Francisco Ferrer est né la même année que John Dewey, il fonda l'école moderne en 1901 qu'il résumera ainsi : *« Fonder des écoles nouvelles où seront appliqués directement des principes répondant à l'idéal que se font de la société et des hommes ceux qui réprouvent les conventions, les préjugés, les cruautés, les fourberies et les mensonges sur lesquels est basée la société moderne. [...] Notre enseignement n'accepte ni les dogmes ni les usages car ce sont là des formes qui emprisonnent la vitalité mentale (...) Nous ne répandons que des solutions qui ont été démontrées par des faits, des théories ratifiées par la raison, et des vérités confirmées par des preuves certaines. L'objet de notre enseignement est que le cerveau de l'individu doit être l'instrument de sa volonté. Nous voulons que les vérités de la science brillent de leur propre éclat et illuminent chaque intelligence, de sorte que, mises en pratique, elles puissent donner le bonheur à l'humanité, sans exclusion pour personne par privilège odieux. »* Son projet aura une influence sur les école modernes des états-unis, mais il ne pu continuer le sien car il fut condamné par la monarchie de l'époque comme étant à l'origine de la semaine tragique du 26 juillet au 2 août 1909, faisant 112 morts, lors d'attaques sur des élises et couvent catholiques, l'Eglise catholique étant à ce moment un fort support de la monarchie.
 
-Ce dernier est né le 30 août **1879** et il deviendra complètement sourd à seulement 20 ans des suite d'une maladie. Il du renoncer à enseigner mais continua à travailler dans le domaine de l'éducation. En 1909 il réalise sa première publication nommée "*Projet d'école nouvelle*", puis il créera la Ligue internationale pour l'éducation nouvelle en 1921 pour laquelle il rédigera également la charte.
-
-Célestion Freinet, Né le 15 octobre **1896**.
-
-Francisco Ferrer
+Maria Montessori, née en Italie le 31 août **1870**, a initialement étudié la médecine. Une fois diplômée, elle a été assistante dans une clinique psychiatrique où elle rencontrera des enfants en retard scolaire. Elle développera ainsi un intérêt pour l'éducation et devient pédagogue. Pour approfondir ses connaissances en la matière, elle étudia les textes et méthodes éducatives dédiées aux enfants déficients tels que les travaux d'Édouard Séguin ou Jean Itard qui a travaillé auprès de sourds muets ainsi que sur le fameux cas de Victor, "Enfant sauvage de l'Aveyron". Elle est même partie en France pour récupérer leurs travaux et les traduire en Italien une fois rentrée. Pendant une cinquantaine d'année, elle étudiera les élèves de milieux défavorisés et développera des outils pédagogiques matériels qui rencontreront un succès grandissant au fur et à mesure que les enfants déficients obtiennent de meilleurs résultats aux examens de lecture et d'écriture. Elle validera ainsi son intuition première qui était que les enfants déficients avait plus besoin de pédagogie que de soins médicaux. Enfin elle étendra sa méthode aux enfants "normaux" et participera à la Ligue internationale pour l'éducation nouvelle, à l'instar de ses confrères comme John Dewey et Adolphe Ferrière. Ce dernier est né le 30 août **1879** et il deviendra complètement sourd à seulement 20 ans des suite d'une maladie. Il du renoncer à enseigner mais continua à travailler dans le domaine de l'éducation. En 1909 il réalise sa première publication nommée "*Projet d'école nouvelle*", puis il créera la Ligue internationale pour l'éducation nouvelle en 1921 pour laquelle il rédigera également la charte. Célestin Freinet, né le 15 octobre **1896**, viendra regrouper les méthodes de ses prédécesseurs et ainsi influencer l'enseignement institutionnel moderne. Inspiré de John Dewey, et ayant rencontré Adolphe Ferrière, il popularisera des méthodes aussi révolutionnaires qu'eux. Parmi elles, la correspondance, permettant de communiquer avec des étudiants d'autres établissements ; ou l'imprimerie mobile permettant aux élèves d'analyser et d'écrire un texte de leur choix quelque soit leur niveau en écriture. Malgré cela, la proportion d'établissement utilisant ses techniques ne dépassera pas plus que quelques pourcents.
 
 
 
@@ -1197,7 +1195,7 @@ L'ordinateur trouve lui même les solutions pour nous, très lié à l'intellige
 
 #### IBM 1401
 
-Fabriqué entre **1959** et 1965, il a été l'ordinateur à transistor le plus vendu, notamment grâce à la politique marketing d'IBM qui a adopter une vision globale, dans l'objectif de prendre en compte le maximum d'utilisateurs et donc clients potentiels, politique qui avait déjà fait ses preuves avec le modèle 650. IBM à ainsi créer plus qu'un ordinateur, un système complet, avec une imprimante pouvant imprimer 600 lignes par minutes, principale raison d'achat ayant fait son succès. En plus de cela, étant muni de transistors bien plus fiables que les tubes à vide, il a rendu obsolète les ordinateurs en étant munis en même temps que les machines électromécaniques qui était encore utilisées par soucis monétaires.
+Fabriqué entre **1959** et 1965, il a été l'ordinateur à transistor le plus vendu, notamment grâce à la politique marketing d'IBM qui a adopté une vision globale, dans l'objectif de prendre en compte le maximum d'utilisateurs et donc clients potentiels. Cette politique avait déjà fait ses preuves avec le modèle 650. IBM à ainsi créer plus qu'un ordinateur, un système complet, avec une imprimante pouvant imprimer 600 lignes par minutes, principale raison d'achat ayant fait son succès. En plus de cela, avec ses transistors flambants neufs et bien plus fiables que les tubes à vide, il a rendu obsolète les ordinateurs en étant munis en même temps que les machines électromécaniques qui était encore utilisées par soucis monétaires.
 
 Par la même occasion, IBM invente le Report Program Generator (RPG), un langage de programmation haut niveau facile à comprendre, permettant aux comptables et techniciens de tabulatrices de se "reconvertir", en utilisant des concepts qu'ils connaissent et utilisaient déjà sur les panneaux de contrôles, où ils branchaient des câbles pour implémenter les entrées, calculs, et sorties. Ils pouvaient ainsi programmer sans apprendre toutes les arcanes de l'assembleur, du COBOL, ou encore du FORTRAN. Malgré cela, beaucoup de client préféraient demander les logiciels directement à IBM, qui avait un monopole si important qu'ils pouvaient se permettre de les livrer "gratuitement" avec les machines qu'ils louaient.
 
@@ -1588,15 +1586,8 @@ Stucture de données
 
 5. Calculs distribués
 
-6. 2SIG
-   1. Structure
-
-   2. Style
-
-   3. Interaction
-
-   4. Gestion de la donnée 
-
+6. 
+   
 7. Pop SMTP
 
 1. Habitudes de programmation
@@ -1828,9 +1819,22 @@ Contrairement à la définition de Wikipédia, qui déclare qu'elle désigne le 
 
 ### Faits
 
-Un fait est la naissance d'une information émanant du matériel à un moment donné t. Pour autant, le fait n'existe plus une fois ce moment t passé, il n'en reste que les conséquences physique et  l'idée de cette action qui est la cause. Plusieurs observateurs peuvent avoir une version différente des faits, propre à leur subjectivité et vérités relatives. Le fait en lui même est une vérité absolue et pure que l'on ne peut qu'
+Un fait est la naissance d'une information émanant du matériel à un moment donné t. Pour autant, le fait n'existe plus une fois ce moment t passé, il n'en reste que les conséquences physiques et l'idée de cette action qui en est la cause. Plusieurs observateurs peuvent avoir une version différente des faits, propre à leur subjectivité et vérités relatives. Le fait en lui même est une vérité absolue et pure que l'on ne peut qu'approximer. Seul l'acteur des faits peut réellement savoir ce qui c'est passé à condition bien sur qu'il soit conscient. 
 
-vérité et doute
+
+
+### Consciences
+
+La conscience est le fait d'analyser et comprendre une information émanant dans notre cerveau, elle ne nécessite pas forcement la perception pour autant, certaines personnes dont la vision est totalement obscurcie et qui ne sont donc pas capable de voir peuvent pour autant avoir conscience de si une lumière est allumée devant leurs yeux, on appelle ça la vision aveugle[^1]. La conscience est donc le fait d'activer une information, de la lire et d'être capable de lire d'information comme quoi on est en train de lire.
+
+Les théories les plus récentes de la conscience disent que c'est le fait d'avoir une information disponible à un moment T pour la partager à l'ensemble des traitements du cortex cérébral. Pour autant avoir conscience d'une information ne signifie pas forcement avoir conscience de soi, ceci relève de la métacognition. 
+
+https://www.youtube.com/watch?v=dGo5Whv-VCU
+mémoire onirique
+
+Percevoir la réalité c'est rêver de la réalité, notre conscience est limité par la réalité physique, le rêve pur n'est contraint que par notre conscience
+
+[^1]: https://www.frcneurodon.org/comprendre-le-cerveau/a-la-decouverte-du-cerveau/la-conscience
 
 
 
@@ -1842,11 +1846,21 @@ anecdote prof sifflement
 
 baki episode 22
 
+
+
+### Parasitage
+
+informations parasites quand je travaille sur une fonction je nai pas besoin de voir autre chose que ses dependances. le divertissement n'est pas necessaire non plus. L'informatique et l'algorythmiques nous permettent de repliquer a l'infini une information ou un traitement logique de donnée. 
+
+croyances limitantes et mauvaise foi
+
 ### Habitudes
+
+
 
 ### Viralité
 
-
+La viralité est un facteur mathématiquement calculable. C'est la moyenne de transmissions faites par les personnes atteintes par une information.
 
 ### Rapport de force et ordres de grandeur
 
@@ -1872,6 +1886,8 @@ Il faut douter de tout même de ce que l'on sait, il faut challenger constamment
 
 ### Communication & Compréhension
 
+transparence, adéquation clarté crédibilité, réactivité
+
 En tant que président Politesse, Respect et Bienveillance seront les maîtres mots de ma philosophie d'entreprise. Veiller à bien faire et bien communiquer, bien travailler, bien apprendre et retransmettre, et essayer tout les jours, malgré les hauts et les bas, de devenir un peu meilleur que la veille.
 
 L'allégorie de la ligne ou celle de la caverne énoncée par Platon sont également la pour nous rappeler que la connaissance peut être hiérarchisée en fonction du contexte et niveau de compréhension.
@@ -1888,35 +1904,29 @@ A l'aide de schémas mentaux, nous associons un ensemble de concepts ou d'idées
 
 
 
-### Pédagogie active mutuelle
-
-Cette méthode de pédagogie, qui trouve ses fondements dans "l'Émile ou De l'éducation" de Rousseau, est relativement récente, donc fait l’œuvre de nombreuses études.
-
-Elle permet à l'élève d'être acteur de son apprentissage, il choisit ce qu’il désire apprendre, quand, et comment ; bien que cela passe souvent par le jeu dirigé puis libre. La motivation de l'étudiant devient intrinsèque au fur et à mesure qu'on lui donne de la liberté, ce qui favorise l'autonomie, la retenue, la prise de décision, et la gestion des conflits. L'adulte ou le mentor devient médiateur entre l'élève et le savoir, un guide d'apprentissage.
-
-Le jeu développe les compétences sociales et cognitives de l'apprenti, qui n'est plus passif face à un cours qui lui est dispensé par une autorité qui sanctionne et récompense, mais découvre et s'approprie la connaissance par lui même.
-
-Bien que le jeu libre est bien d'avantages, le jeu dirigé permet de structurer l'apprentissage par un mentor favorisant l'acquisition de compétences, que le pédagogue transmet à ses disciples.
-
-Ce cadre réside dans l'analyse des difficultés et problèmes de l'étudiant, par la recherche des notions manquantes pour y palier, et l'élaboration d'un plan classique permettant d'y arriver, composé de cours, d'exercices, et enfin d'un contrôle. 
-
-La pratique à toujours été présente dans nos enseignements, elle est nécessaire à la validation de la théorie, le réel changement réside dans l'apprentissage de cette théorie ainsi que dans la manière d'aborder la pratique et l'évaluation de ses compétences, qui reste encore difficile compte tenu du manque de graduation hiérarchisé par niveaux, de prérequis pour l'admission, ou de programme non reconnu par le système éducatif national.
-
-Cette méthode présentant malgré tout de nombreux avantages, des études[^lesquelles] indiquent également qu'elle peut potentiellement accroître les inégalités en termes d'apprentissage, notamment du à la difficulté d'accès à ce genre d'enseignement et aux ressources payantes comme les logiciels éducatifs, ou même de l'idée et la culture qui y est liée, propre aux pays riches bien que marginale en son sein. Et je ne peut que confirmer cela, ayant été le seul de ma classe de petite section à savoir lire et ce grâce au ludiciel "Reader Rabbit, Learn to read with phonics", qui m'a fait sauter deux classes.
-
-On retrouve cette notion d'apprentissage actif "Learning by doing" dans les languages de programation comme avec les Rustlings ou Rust by example.
-
-On remarque récemment le développement de l'apprentissage et les écoles adoptant la pédagogie Montesorri.
-
-Scratch, FlexboxFroggy, CodingGame, Logo
-
-Je terminerai avec une citation de jeu vidéo, Maitre Yi dans League Of Legends dit "*Un vrai maître est un éternel étudiant*".
-
-
-
 ### Informatique et éducation
 
-La tablette pourrait remplacer les manuels scolaires, les cahiers, réduire les couts et le poids des cartables 
+Récemment le développement de l'apprentissage et les écoles adoptant la pédagogie Montessori sont un peu revenu à la mode, certains établissements ne donnent plus de notes mais des appréciations ou validations de niveau. Conformément à la pensée de Céléstin Freinet, les estrades ne sont plus, ou du moins ne servent plus à mettre le professeur en exergue, qui de toute manière se retrouve souvent à passer dans les rangs pour accompagner ou surveiller les élèves lors des examens. Enfin bien que les compétences numérique, sociales et civiques, ainsi qu'apprendre à apprendre, fasse partie du socle commun des connaissances et des compétences, je pense qu'elles sont négligées et que l'on devrais enseigner des choses plus concrètes comme le suggérait John Dewey dans *School and Society*. J'ai du attendre l'enseignement supérieur pour avoir un cours unique de quelques heures sur la mémorisation et l'auto-formation, et je regrette que l'on ne nous indique pas quels sont les droits et aides disponibles, que l'on soit en situation précaire ou chef d'entreprise en devenir. Actuellement, l'éducation n'apprends pas aux gens à bien vivre. Imposer un programme est nécessaire pour avoir une base commune, mais les gens ont une vie à côté qui les favorise ou pas dans le scolaire. 
+
+Toute personne ayant un objectif doit être capable d'elle même trouver les pré-requis nécessaires. Nous avons de formidables références nationales comme https://legifrance.gouv.fr/,  https://www.service-public.fr/ ou https://gallica.bnf.fr/ ou internationales comme https://fr.wikipedia.org
+
+Des études montrent désormais que l'apprentissage se fait mieux par la récompense que la punition.[^1] Il est plus productif d'encourager un bon comportement que d'en réprimander un mauvais, bien que cela soit parfois nécessaire, il vaut toujours mieux orienter sa pédagogie de manière positive. 
+
+[^1]: https://www.inshs.cnrs.fr/fr/cnrsinfo/apprentissage-par-recompense-ou-par-punition-quelles-differences
+
+Je pense que la pédagogie active et mutuelle des pédagogues contemporains est une belle utopie inspirée de Rousseau. En réalité un bon apprentissage est avant tout du ressort de l'apprenant. C'est d'ailleurs pourquoi il est au cœur de ces techniques d'apprentissages. Depuis Montaigne, l'adage "L'enfant n'est pas un vase que l'on remplit, mais un feu que l'on allume" est couramment repris. En effet, la plus forte source de motivation est intrinsèque, c'est celle qui émane de la pensée telle la conscience. Celle qui est infinie comme l'imagination. Celle dont né une volonté et satiété de savoir intarissable.
+
+La pédagogie active et plus généralement l'autodidaxie permettent à l'élève d'être acteur de son apprentissage, il choisit ce qu’il désire apprendre, quand, et comment ; bien que cela se passe souvent par le jeu dirigé puis libre. La motivation de l'étudiant devient intrinsèque au fur et à mesure qu'on lui donne de la liberté, ce qui favorise l'autonomie, la retenue, la prise de décision, et la gestion des conflits. L'adulte ou le mentor doit n'être qu'un médiateur entre l'élève et le savoir, un guide d'apprentissage.
+
+>  ***Il doit lui faire part de ce qu'il sait vrai, le justifier, et admettre qu'il peut avoir tord. Le vrai respect ne s'obtient pas par l'autorité mais par le partage, tout en respectant la barrière sensible nécessaire à toute relation professionnelle. Il n'est pas grave de la franchir pour autant, la proximité permet une meilleur compréhension d'autrui, mais il faut savoir repartir de l'autre côté à n'importe quel moment.***
+
+Il en va de même pour les logiciels éducatifs. Comme j'ai pu le dire précédemment, j'ai appris à lire à 2 ans et demi et sauté deux classes grâce à "Reader Rabbit, Learn to read with phonics". Je n'en suis pas un génie pour autant, et ce n'est pas pour faire preuve humilité. J'ai juste expérimenter un programme, réalisé par des développeurs qui avait une conscience de l'expérience utilisateurs, et qui pour se mettre dans la tête de leurs joueurs, ont inventé un scénario où un ordinateur, propose à une petite souris qui ne sait pas lire, retire alors l'intégralité des charactères écrits de sa ville. Le joueur doit alors retrouver les lettres de l'alphabet une part une et écouter le son qu'elles produisent, les mots qu'elles permettent de former. Guidant l'élève pour qu'il construise au fur et à mesure, à travers le jeu vidéo, des associations entre les charactères visuels, les sons et les formes qu'elles représentent dans le sens d'idées. Permettant ainsi la lecture textuelle et la compréhension qui en découle.
+
+Le jeu développe les compétences sociales et cognitives de l'apprenti, qui n'est plus passif face à un cours qui lui est dispensé par une autorité qui sanctionne et récompense, mais découvre et s'approprie la connaissance par lui même. Bien que le jeu libre ai bien des avantages, le jeu dirigé permet de structurer l'apprentissage à l'aide d'un mentor favorisant l'acquisition de compétences, que le pédagogue transmet à ses disciples. Ce cadre réside dans l'analyse des difficultés et problèmes de l'étudiant, par la recherche des notions manquantes pour y palier, et l'élaboration d'un plan classique permettant d'y arriver, composé de cours, d'exercices, et enfin d'un examen, nécessaire à la validation individuelle de la théorie. Cette notion d'apprentissage actif "Learning by doing" se retrouve pour les langages de programmation comme avec le logiciel Rustlings ou Rust by example. Il existe d'autres langages et jeux en lignes utilisant le jeu pour faciliter l'apprentissage, parmis eux je pense notamment à Scratch, FlexboxFroggy, CodingGame, Logo.
+
+La tablette pourrait remplacer les manuels scolaires, les cahiers, réduire les couts et le poids des cartables. Malgré le fait que certains pays l'ayant essayé ai fait marche arrière comme la Suède, je pense qu'avec un ludiciel adapté couvrant l'ensemble des matières de tout niveau à l'aide d'un arbre de compétence et gérant les communications entre les familles et les écoles, il serait possible d'harmoniser les enseignements et d'appliquer les programmes tout en réduisant le temps apprentissage. Quand j'ai appris à lire, les périphériques tactiles n'étaient pas encore démocratisés, j'avais alors un gros retard sur cette compétence. Il existe aujourd'hui multitude d'application mobiles pour apprendre à écrire. Sur une tablette possédant un stylet, un enfant peut en toute autonomie jouer pour acquérir cette habilité. Le problème et la crainte réelle des enseignants et des parent sont essentiellement la casse et le prix du renouvellement d'un tel appareil électronique accompagné des dérives liés aux possibilités illimitées d'un ordinateur pouvant distraire l'élève et le détourner de ses objectifs éducatifs. Je leur répondrais que leur rôle est d'enseigner la précaution et la discipline, l'élève pourra ainsi se charger lui même du reste. 
+
+Enfin je terminerai avec une citation de jeu vidéo, Maitre Yi dans League Of Legends dit "*Un vrai maître est un éternel étudiant*".
 
 ### Planifier et prendre son temps
 
@@ -1928,6 +1938,10 @@ Les deux vont de pair, il ne sert à rien d'être dans la précipitation, on peu
 
 
 
+### IO
+
+Entrées et sorties, Inputs et Outputs (IO), sont l'ensemble des paramètres et des valeurs de sorties. Avec elles seules on peut limiter les fonctionnalités possible à un certain contexte d'entrées et sorties attendues. C'est une sorte de double entonnoir, comme des portails, théoriquement bidirectionnels. On peut la mettre en relation avec la lecture et l'écriture, en C# .NET [`System.IO`](#https://learn.microsoft.com/en-us/dotnet/api/system.io?view=net-7.0) est ailleurs un namespace permettant d'accéder à des fonctions algorithmiques standard de lire et écrire des fichiers. Et par conséquent des dossiers, car oui, les dossiers sont des fichiers, contenant l'adresse mémoire de son contenu. 
+
 
 
 ###   Informatique et Cuisine
@@ -1936,15 +1950,19 @@ La cuisine est selon moi une science combinatoire et une philosophie à part ent
 
 On sait aujourd'hui que les bactéries qui nous aident à digérer les aliments représentent une partie non négligeable de notre poids, nous vivons en symbiose avec eux à travers notre alimentation. En Informatique, et notamment en intelligence artificielle, les résultats dépendent également beaucoup des information avec lesquelles on alimente le système. Le résultat d'un algorithme, dépends des variables passées en entrée.
 
-### Sectes et philosophie d'entreprise
+### Professionnalisme
+
+On agit tous différemment dans le contexte professionnel. Effectuer un métier n'est pas compliqué, le réaliser avec des gens l'est plus. Il faut tellement de compétences managériales qu'il nous faut. Quand tu est dans le milieu professionnel, tu exerce une fonction, ou une liste de fonctions définies par le contrat de travail.
+
+J'aimerai appliquer la dialectique à l'entreprise, avec des visioconférences 1:1 
+
+
+
+On ne comprend l'essence des concepts qu'en généralisant et remontant au niveau du groupe social voulu. En discrétisant les information à la granularité voulue. Tolérance face à la différance entre réalité qu'on imagine et qu'on expérimente. Dans une entreprise nous somme tous concernés par rapport à un même produit.  Norbert Ellias nous apprends que l'individu et la société ne sont pas deux choses séparés. On est tous responsable de nos actes quels qu'ils soient. 
 
 De nos jours j'ai souvent entendu parler de philosophie d'entreprise. L'entreprise étant une entité morale, elle se compose d'un groupe de personnes physiques réunies pour accomplir quelque chose en commun. Ce groupe peut aussi réunir des personnes physiques et des personnes morales. Cela corresponds à une secte, qui est un terme connoté négativement mais qui, comme beaucoup de mots, est poly-sémantique, il possède plusieurs définitions, celle que l'on retient généralement n'est pas celle de la secte mais de la dérive sectaire. En effet, d'un point de vue étymologique, le mot secte provient du latin "secta", signifiant "voie que l'on suit, parti, cause, doctrine". Or quand je travaille en groupe avec d'autres personnes, je le fait de pair avec mes collègues, suivant ensemble une même voie, pendant une période définie de travail, comme tout salarié qui vends a son employeur.
 
 En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une même cause, est comme internet, la rue ou tout autre environnement dans lequel nous évoluons, c'est une indifférence, ce n'est ni bien, ni mal, cela ne dépends de ce que l'on en fait et à qu'elles fins. Nous devons tous un jour faire face au fait que nous sommes influencés et conditionnés par notre environnement et notre histoire, nos habitudes, et les groupes d'humains dans lesquels nous avons évolués. Le réel problèmes sont les dérives, notamment le fait de vénérer une autorité austère qu'on ne peut discuter, mais aussi tout les heurts qui nous sont propres. Pour le reste, la vie bats son plein et continue de parcourir le temps en faisant ce qu'elle a à faire, vivre. En réalisant EditIDE, je ne sais pas comment cet outil va être utilisé, mais je sais désormais que je veut créer des indifférences, et aller du global vers le particulier.
-
-### Nous sommes tous concernés
-
-Norbert Ellias nous apprends que l'individu et la société ne sont pas deux choses séparés. On est tous responsable de nos actes quels qu'ils soient.
 
 ### Divin
 
@@ -1954,9 +1972,7 @@ Je suis agnostique, je ne sais des Dieux s'ils sont ou pas. Je pense que l'entit
 
 ### Intelligence
 
-
-
-Seul 15% des cellules du cerveaux sont des neurones les 85% sont les cellules gliales sont en grandes parties des cellules de soutien, électriquement silencieuses, qui représentent entre 50 % à 90 % des cellules du système nerveux selon les sources. Des astrocytes humains ont été greffés sur des souris et celles greffés ont trouver la sortie 2 fois plus vite, elles jouent un rôle clé dans la mémoire et l'apprentissage, et donc dans l'intelligence. Il y'a donc désormais des preuves scientifiques prouvant que la biologie et la génétique influence cela, pour autant, les facteurs sont bien trop multiples, et je pense qu'il faut se concentrer sur ceux que l'on peut éthiquement contrôler, avec la certitude de bienfaits. L'intelligence est plus globale et dépendante d'un environnement donné, comme l'aurai dit Einstein, dont le cerveau à été analysé et a permit d'avancer sur les recherches portant sur les astrocytes : "on ne doit pas juger un poisson à sa capacité à grimper à un arbre". Le test de QI n'est selon moi pas représentatif de l'intelligence d'une personne, car elle n'évalue pas la capacité d'une personne à vivre au mieux possible dans son environnement. Cette intelligence ce fait ailleurs de manière collective avec l'aide et l'accompagnement de services publics comme privés. L'intelligence est de faire les meilleures connexions entre les informations que l'on a en tête et celles qui sont perçues à un moment T de la vie de l'individu. Elle n'est donc selon moi pas fixe, parfois on fait des choses stupides, d'autre fois brillantes. Vouloir être brillant tout le temps est fade et prétentieux, mais faire de son mieux est précieux. L'intelligence humaine réside dans le chaos de la pluralité de visions du monde. L'intelligence en elle même serait selon moi un tout tendant vers un fonctionnement optimal, et dont la limite inatteignable est la perfection. Myéline
+Comment aurais-je pu parler d'intelligence sans parler de l'organe biologique dont elle émane, le cerveau. La moitié des cellules constituant ce dernier sont des neurones, la partie restante sont les cellules de soutien dites gliales, électriquement silencieuses, voire isolantes comme la myéline. Les astrocytes font partie de cette deuxième catégorie et forment la frontière entre le système sanguin et le cerveau, assurant à ce dernier l'apport de nutriment provenant du sang et permettant à l'inverse d'évacuer les déchets du cerveaux dans le système sanguin. Des astrocytes humains ont été greffés sur des souris et celles-ci ont trouvé la sortie 2 fois plus vite que les souris "naturelles", elles jouent un rôle clé dans la mémoire et l'apprentissage, et donc dans l'intelligence. Il y'a donc désormais des preuves scientifiques prouvant que la biologie et la génétique influence cela, pour autant, les facteurs sont bien trop multiples, et je pense qu'il faut se concentrer sur ceux que l'on peut éthiquement contrôler, avec la certitude de bienfaits. L'intelligence est plus globale et dépendante d'un environnement donné. Comme l'aurai dit Einstein, dont le cerveau à été analysé et a permit d'avancer sur les recherches portant sur les astrocytes : "on ne doit pas juger un poisson à sa capacité à grimper à un arbre". Le test de QI n'est selon moi pas représentatif de l'intelligence d'une personne, car elle n'évalue pas la capacité d'une personne à vivre au mieux possible dans son environnement. Cette intelligence ce fait ailleurs de manière collective avec l'aide et l'accompagnement de services publics comme privés. L'intelligence est de faire les meilleures connexions entre les informations que l'on a en tête et celles qui sont perçues à un moment T de la vie de l'individu. Elle n'est donc selon moi pas fixe, parfois on fait des choses stupides, d'autre fois brillantes, mais un idiot ne peut faire exprès d'être intelligent, alors que l'inverse l'est. Vouloir être brillant tout le temps est fade et prétentieux, mais faire de son mieux est précieux. L'intelligence humaine réside dans le chaos de la pluralité de visions du monde. L'intelligence en elle même serait selon moi un tout tendant vers un fonctionnement optimal, et dont la limite inatteignable est la perfection. 
 
 https://www.youtube.com/watch?v=NH2sMPERT2g
 
@@ -2033,7 +2049,15 @@ Les outils no-code fleurissent ses dernières années, ils permettent certes la 
 
 ### De quoi est composé un système d'information ?
 
+2SIG Interfaces
 
+1. Structure
+
+2. Style
+
+3. Interaction
+
+4. Gestion de la donnée 
 
 
 
@@ -2133,7 +2157,7 @@ https://c4model.com/
 
 facilité d'utilisation, utilité, satisfaction, l'utilisation de l'application doit dépasser les attentes et promesses faites en amont
 
-volume vitesse variété véracité valeur
+5V de l'information sont volume vitesse variété véracité valeur, pour ecrire ce memoire cest surtout le volume et la bonne variete ou proportion ainsi que la veracité qui a été au coeur de mes preocupations
 
 La mode n'est que passagère, il n'y a que les habitudes de vies et s'en tenir à un plan structuré et cohérent qui reste dans l'histoire.
 
@@ -2364,19 +2388,11 @@ C'est très difficile pour le chercheur qui fait la découverte, de savoir et de
 
 
 
-Doit on avoir moins de fonctionnalité sur mobile ? Non, c'est l'interface qui doit changer et s'adapter à l'utilisateur.
+
 
 
 
 Un ludiciel doit être vivant, animé, utilisé, collaboratif.
-
-
-
-
-
-NO MORE CLI NO MORE BLOCNOTE
-
-plus besoin d'alt tab entre votre ide et le navigateur 
 
 file drop upload on paths 
 
@@ -2412,7 +2428,13 @@ Philip Kindred Dick : "La réalité, c'est ce qui continue d'exister lorsque l'o
 
 Where AM I ? (Path)
 
+
+
 ##### WYSIWYG
+
+plus besoin d'alt tab entre votre ide et le navigateur 
+
+NO MORE CLI NO MORE BLOCNOTE
 
 Elementor
 
@@ -2430,7 +2452,7 @@ Python Notebook
 
 Plus un projet a d'intermédiaires, plus il y'a de risques d'erreurs. Dès le fondement de l'informatique, Charles Babbage l'avait déjà compris et sa machine faisait à la fois le calcul et l'impression car beaucoup d'erreur arrivait lors de l'impression.
 
-En informatique, beaucoup d'erreurs ont lié par manque d'information ou de clarté, le client exprime parfois mal son besoin, voire à un problème et ne sais pas ce dont il aurait besoin pour y palier. Les équipes faisant l'intermédiaire entre le client et l'équipe de production se retrouvent souvent entre deux eaux et doivent s'adapter et apprendre deux vocabulaires très différents.
+En informatique, beaucoup d'erreurs occurrent par manque d'information ou de clarté dans leur communication, le client exprime parfois mal son besoin, voire à un problème et ne sais pas ce dont il aurait besoin pour y palier. Les équipes faisant l'intermédiaire entre le client et l'équipe de production se retrouvent souvent entre deux eaux et doivent s'adapter et apprendre deux vocabulaires très différents.
 
 Idéalement ce genre de personnes devrait avoir été ou du moins être capable de se mettre à la place des deux partis dont il fait l'intermédiaire afin de mieux les comprendre et pouvoir efficacement communiquer dans le but de trouver la meilleure solution.
 
@@ -2440,21 +2462,23 @@ Il arrive que des design soient validés alors qu'ils ne sont tout bonnement pas
 
 Tout ses problèmes arrivent car rien n'est centralisé, à une heure ou la collaboration est mise en avant comme jamais. 
 
-Dans EditIDE, tout ce ferait sur le site lui même. Le design et l'intégration ne ferait désormais plus qu'un, les développeurs front ne seraient chargés que de dynamiser les design déjà intégrés avec les appels API du back qui seraient autogénérés.
+Dans EditIDE, tout ce ferait sur le site lui même. Le design et l'intégration ne ferait désormais plus qu'un, les développeurs front ne seraient chargés que de dynamiser les design déjà intégrés avec les appels API du back qui seraient autogénérés. 
 
 
 
 #### De l'information à la vérité
 
-Pour être sur d'une information, il est nécessaire d'assister à sa démonstration ou à sa preuve et de la constater par soi même. Comme pour les bulles enveloppes. L'observation est généralement à la base de l'aquisition de l'information, comme pour l'astronomie, ensuite, on questionne (ouvert et fermée et si on veut une quantification il faut retirer le neutre en ne proposant que des choix pairs) l'information percue pour la mettre à l'épreuve, ensuite, on revoit la documentation existante et effectue une doxographie pour comparer nos conclusions avec le consensus.
+Pour être sur d'une information, il est nécessaire d'assister à sa démonstration ou à sa preuve et de la constater par soi même. Comme pour les bulles enveloppes. L'observation est généralement à la base de l'acquisition de l'information, comme pour l'astronomie, ensuite, on la questionne de manière ouverte et fermée. Si on veut une quantification il faut retirer les choix neutre en ne proposant que des choix pairs l'information perçue pour la mettre à l'épreuve, ensuite, on revoit la documentation existante et effectue une doxographie pour comparer nos conclusions avec le consensus.
 
 
 
 ##### Visualisation
 
-Les sucres syntaxiques devrait être des éléments d'interface graphique.
+Les sucres syntaxiques devrait être des éléments d'interface graphique. Je pense la même chose de la documentation elle devrait toujours être relié au code, lui même explicite et faisant référence a un site externe si nécessaire. Le code lui même doit être visuellement explicite, on doit pouvoir facilement créer de nouvelles instructions sans devoir choisir dans une liste d'auto-complétions interminable remplie éléments impertinents. L'intelligence artificielle peut améliorer ce problème de pertinence mais le principal désagrément vient de l'agencement et l'affichage trop brut du texte. 
 
-Quand j'arrive dans un fichier, je veux savoir directement le nom des variables et fonctions qui le constitue, je me fiche d'avoir le contenu le détail ou d'entre elles, ni même leurs paramètres ou leur type de retour, bien que je doit pouvoir rechercher en fonction de ses derniers. De la même manière, quand je travaille sur une fonction je ne désire voir que ce qui concerne cette fonction.
+Quand j'arrive dans un fichier de code, je veux savoir directement le nom des variables et fonctions qui le constitue, je me fiche d'avoir le contenu le détail ou d'entre elles, ni même leurs paramètres ou leur type de retour, bien que je doit pouvoir rechercher en fonction de ses derniers. De la même manière, quand je travaille sur une fonction je ne désire voir que ce qui concerne cette fonction.
+
+Doit on avoir moins de fonctionnalité sur mobile ? Non, c'est l'interface qui doit changer et s'adapter à l'utilisateur.
 
 
 
@@ -2478,14 +2502,11 @@ Vue macro, vu micro, questions individuelles précises, groupe permet d'avoir le
 
 
 
-#### Rêves lucides
 
-Les théories les plus récentes de la conscience disent que c'est le fait d'avoir une information disponible à un moment T pour la partager à l'ensemble des traitements du cortex cérébral. Pour autant avoir conscience d'une information ne signifie pas forcement avoir conscience de soi, ceci relève de la métacognition. 
 
-https://www.youtube.com/watch?v=dGo5Whv-VCU
-mémoire onirique
 
-Percevoir la réalité c'est rêver de la réalité, notre conscience est limité par la réalité physique, le rêve pur n'est contraint que par notre conscience
+
+
 
 Restaurer l'information perdue, vesuvius challenge https://scrollprize.org/
 
@@ -2514,6 +2535,17 @@ Je n'ai pas pu tout garder, et j'ai du parler de personnes qui ont écris des ch
 J'ai écrit ce mémoire en gardant en tête que ma relation pédagogique avec le Docteur Pachon à commencé par une action provocatrice et insolence de ma part. Avec l'accord de ce dernier, j'ai rédigé ce paragraphe pour rétablir publiquement la vérité quand à ce qui c'est réellement passé et à m'excuser publiquement. En effet, l'information a été déformée. Bien qu'elle ai garder l'idée globale que la prévention est importante et qu'il vaut mieux être averti par quelqu'un de bien intentionné, au moment des faits M. Pachon ne me connait pas, il ne sait pas si l'accès non autorisé à son ordinateur n'a pas permis un grief plus important que la simple saisie du mot croissant dans la recherche Windows, qui représente réellement la seule interaction que j'ai eu avec son poste. C'est pourquoi j'ai pleinement accepté et compris non seulement sa réaction mais également sa volonté justifiée de me sanctionner. Comme je l'ai mentionner à l'oral aux gens avec qui j'ai pu en reparler et dans mon mail d'excuse, mon approche était maladroite et suite à des "dramas X" (initialement Twitter), l'officier de Gendarmerie Matthieu Audibert (https://twitter.com/MattAudibert) a rappelé que dans la loi : tout accès à "un système de traitement automatisé de données est puni de trois ans d'emprisonnement et de 100 000€ d'amende."[^1] Je ne saurais donc ni contester la loi, ni le ressenti du Docteur Pachon lors de cet évènement dont j'ai été l'acteur initial. L'éthique doit être reliée à la morale sinon elle  n'aurait pas lieu d'être.
 
 Encore merci à tous d'être l'individu que vous êtes. Tâchez d'être encore meilleur(e)s jours après jours mais faites le et vivez pour vous-même. Pour le moment, si vous avez lu ce texte, vous faites surement parti de l'humanité.
+
+Tant que j'y pense, voici une liste de projet qui me sont venus en tête lors de la rédaction de ce mémoire :
+
+- Faire un autocompléteur pour une langue parlée pour la rédaction écrite
+
+Puisque j'ai beaucoup travaillé sur l'écriture mémoire qui m'a tant appris, je finirai sur une citation de Célestin Freinet sur l'imprimerie et plus généralement sur l'écriture en tant qu'exercice pédagogique : 
+
+> Dans la pratique, on ne se lasse jamais d’imprimer et les adultes se laissent prendre eux aussi à la minutie d’une technique qui permet la transcription en une forme magnifiée et définitive des textes auxquels on veut donner vie et harmonie. L’enfant qui compose un texte le sent naître sous sa main ; il lui donne une nouvelle vie, il le fait sien. Il n’y a désormais plus d’intermédiaire dans le processus qui conduit de la pensée ébauchée, puis exprimée, au journal qu’ils postent pour les correspondants : tous les échelons y sont : écriture, mise au point collective, composition, illustration, disposition sur la presse, encrage, tirage, groupage, agrafage. C’est justement cette continuité artisanale qui constitue l’essentiel de la portée pédagogique de l’imprimerie à l’école. Elle corrige ce qu’a d’irrationnel en éducation cette croyance que d’autres peuvent créer pour nous notre propre culture.
+> *Célestin Freinet, Le journal scolaire, 1967*
+
+
 
 [^1]: https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006149839/
 
