@@ -230,7 +230,7 @@ Par ailleurs, il est le premier à avoir découvert qu'une année, qui à l'épo
 
 
 
-##### Encryption
+##### Genèse de l'encryption
 
 Depuis longtemps, les humains ont eu besoin de communiquer des messages à de longues distances, sans qu'ils ne se fassent intercepter, et encore moins décoder et lus, voire pire, compris.
 
@@ -587,10 +587,6 @@ Né au début de la période moderne, François Rabelais consacra la première p
 
 Né en 1533 entre la parution des deux premières œuvres de Rabelais, Montaigne était un épicurien sceptique eu écrit multitudes d'essais qui inspireront bien des philosophes après lui, vers **1570** il commença par écrire deux essais stoïques pour prouver "*que le goût des biens et des maux dépend de l’opinion que nous en avons*" et "*que philosopher c’est apprendre à mourir*" mais s'en écarta rapidement, indiquant qu'il "*est certain qu’à la plupart des savants, la préparation à la mort, a donné plus de tourment que la mort ne fait de souffrance*". Il en garda pour autant la vertu, se dirigeant dans le scepticisme avec la plus grande prudence et tempérance, ne prononçant un jugement qu'une fois qu'il a bien analyser la situation, et indiquant se méfier des gens qui prétendent détenir la vérité. Ce décrivant lui même comme n'étant pas un sage, ni même n'ayant grande estime de lui. Son humilité en fera quelqu'un de très apprécié et accessible auquel le commun des mortels s'identifie plus facilement qu'a un "grand sage". Il dira également que la philosophie est la science qui nous apprends à vivre, confrontant la pensée à l'essentiel des expériences que l'on rencontre de notre vivant et à soi même. Au fil du temps sa recherche du bonheur le reprochera de l'épicurisme, qui finira par lui faire compléter ses propos en déclarant que "philosopher c'est apprendre à vivre le plus heureusement possible", et qu'il "passe le temps quand il est mauvais et désagréable ; quand il est bon, il ne veux pas le passer, il le goûte à nouveau, s’y arrête. Il faut passer le mauvais en courant et s’arrêter au bon", preuve d'un hédonisme raisonné.
 
-Giambattista della Porta était un écrivain polymathe fasciné par l'ésotérisme derrière les miracles et mystères de la nature. Il œuvra à les opposer au divinatoire, et ainsi convertir des croyances en savoirs scientifique. Comme beaucoup de philosophes et esprits polymathes, sa pensée est dirigée par les principes préscientifiques de la *théorie des analogies et de la correspondance*. Il eu étudié l'optique et le magnétisme, à travers les lentilles et l'attraction du fer sur un aimant, ainsi que la propriété de nombreux métaux. Egalement cryptographe, il rédigea en **1563** un ouvrage[^1] détaillé résumant les connaissances de cryptanalyses connues à l'époque, traitant du chiffrement et déchiffrement de messages, avec quelques ajouts de sa part, comme le système littéral à double clef qui sera longtemps utilisé, et dont il est potentiellement l'inventeur. Il a également aidé à aboutir les travaux d'[Alberti](#Inventions italiennes) pour en faire un système complet. Il s'intéressa également à la psychologie et notamment la mémoire, domaine qu'il étudia jusqu’à concevoir des astuces mnémoniques utilisées par les acteurs de théâtre pour mémoriser leurs textes.
-
-[ ^1]: https://books.google.fr/books?id=DcI9AAAAcAAJ&pg=GBS.PT3&printsec=frontcover&redir_esc=y#v=onepage&q&f=false
-
 Francis Bacon après une carrière de droit et de politique, contribua à la science et la philosophie en proposant une théorie empiriste de la connaissance et des règles de la méthode expérimentale, faisant de lui l’un des pionniers de la pensée scientifique moderne, et lui valant d'être considéré comme le fondateur du mouvement l'empiriste. Dans son oeuvre *Novum organum*[^1] parue en **1620**, il dira que "la connaissance se fonde sur l'accumulation d'observations et de faits mesurables, dont on peut extraire des lois générales par un raisonnement inductif, allant par conséquent du concret à l'abstrait." définissant ainsi l'empirisme. Dans cette même œuvre il indiquera également que les préjugés sont des illusions voire des sophismes, qu'il représentera selon quatre idoles. Celle de la tribu représente la déformation de l'information pure et véridique par son interprétation subjective, biaisé par la nature humaine et ses opinions sur les apparences perçues (doxa). L'idole de la caverne traite des biais transmis par l'éducation, l'environnement ou les habitudes qui en découlent, forgeant une vision personnelle refusant de voir la lumière et se contentant des ombres qu'elle projette. Vient ensuite celle du forum, qui est peut être la plus complexe, elle indique que les hommes n'ont pas la même définition des mots, qui sont elles même constitué de mots, formant un débat sans fin à la manière d'acheteurs et vendeurs qui négocieraient sans fin, indiquant que seules la définition d'information et de règles définies comme vraies, soit des axiomes, solutionne partiellement ce problème. Et enfin, les idoles du théâtre, où une autorité présentant un discours déclencherai de multiples croyances qui imprègnent dans la société comme l'orphisme, découlant du mythe d'Orphée qui à influencé Pythagore, la physique d'Aristote qui à longtemps fait référence ou encore les textes religieux. Tous présentent les biais détournant l'humanité de la vérité que propose la science à l'aide d'une démarche logique et construite à partir de définition d'axiomes précis.
 
 [^1]: https://archive.org/details/1762novumorganum00baco/page/n3/mode/2up
@@ -601,13 +597,23 @@ René Descartes est né moins de dix ans après Hobbes, en 1596, et sera actif p
 
 Baruch Spinoza né en 1632, est un philosophe rationaliste juif d'origine portugaise. Il s'est fait bannir de la communauté juive pour s'être petit à petit écarté de la religion au fur et à mesure qu'il se rapprochait de la science, qu'il étudiera en travaillant à côté dans la taille de lentilles optiques. Selon lui il n'existe dans la nature qu'une seule substance qui est Dieu, rejoignant le panthéisme stoïcien. Einstein lui même dira qu'il croyait "au Dieu de Spinoza, qui se révèle dans l'harmonie de tout ce qui existe, et non en un dieu qui se préoccupe du sort et des actions des êtres humains. Il a établi à la manière de Platon, une théorie de la connaissance et différents degrés de cette dernière. Cette théorie et ces œuvres comme traitant de éthique ou de la liberté se basent sur des définitions, axiomes, postulats et démonstrations en utilisant la déduction. Le niveau un de la connaissance corresponds aux ouï-dire, information isolés perçue et interprétée sans confirmation. Le niveau suivant est la connaissance empirique que l'on a pas prouvé mais pas réussi à invalider par expérience ou opinion d'autrui pour autant. Le troisième niveau est la déduction, permettant d'avérer un fait de manière cohérente et rationnelle sans forcement pleinement comprendre ce dernier. Enfin il y a la connaissance première ou l'on est témoin du fait et peut en saisir l'essence. Je rajouterai qu'au dessus de cela devrait se situer l'action de réaliser un fait, que l'acteur seul peut pleinement comprendre.
 
-Né en **1712** Jean-Jacques Rousseau était un philosophe autodidacte, il a appris grâce à ses lectures de Descartes, Malebranche, Leibniz, et bien d'autres. Sa pensée philosophique est fortement inspiré par Hobbes, mais à l'inverse de ce dernier, il dira dans son essai *Discours sur l'origine et les fondements de l'inégalité parmi les hommes*[^1] paru en **1755** que l'humain est naturellement bon mais que la société et les règles qui en émanent viennent le corrompre, renonçant à sa liberté naturelle au profit de la liberté civile. Malgré cela il affirme que le peuple est souverain, et qu'il doit converger vers l’intérêt commun, qu'il appela *volonté générale*. Rousseau publiera *Du contrat social* en **1762**, inspiré du *Léviathan* de Hobbes avec l'ajout de sa notion de volonté générale. Cette œuvre lui vaudra une condamnation par l’Église et la république de Genève qu'il déclare être corrompues. Suite à cela il passera une vie d'errance accompagnée d'un sentiment de persécution. Dans cet ouvrage il traitera également de l'esclavage, de la peine de mort, des gouvernements, des rapports de forces et de la place de l'autorité, déclarant que la "force ne fait pas droit, et qu'on n'est obligés d'obéir qu'aux puissances légitimes". En effet, depuis la sédentarisation et l'apparition des premières lois remplaçant celle du plus fort physiquement, l'Homme apprends de plus de ses différents pairs et doit collaborer avec eux afin de trouver des solutions communes. Il y indiquera également qu'en devenant adulte, l'enfant "devient son propre maître", et qu'à l'inverse, un individu peut aliéner sa liberté et se rendre esclave d'un tiers. Selon lui, l'obéissance à une autorité n'est pas néfaste que si, malgré la fin qui justifie les moyens, l'individu ne s'engage à rien envers son supérieur. Un contrat sans échange équivalent entraînant la perte de sens et sa propre nullité par l'injustice. Toujours en 1762, il publiera également *Emile* ou *De l'éducation*, posant les bases de la pédagogie moderne. Il y explique que les enfants de moins de 12 ans doivent être guidés mais laissés libre d'expérimenter eux même le monde qui les entoure par la sensation et d'en déduire eux même des vérités à confirmer par un mentor. Après cet âge il prône l’apprentissage d'un métier manuel  permettant de s'initier au monde du travail en créant des choses de ses propres mains. Enfin, à notre ère, Levi-Strauss déclarera qu'il est le fondateur de l'anthropologie, étude de l'être humain et de ses groupes sous tous leurs aspects qu'ils soient physiques ou culturels.
+Né en **1712** Jean-Jacques Rousseau était un philosophe autodidacte, il a appris grâce à ses lectures de Descartes, Malebranche, Leibniz, et bien d'autres. Sa pensée philosophique est fortement inspiré par Hobbes, mais à l'inverse de ce dernier, il dira dans son essai *Discours sur l'origine et les fondements de l'inégalité parmi les hommes*[^1] paru en **1755** que l'humain est naturellement bon mais que la société et les règles qui en émanent viennent le corrompre, renonçant à sa liberté naturelle au profit de la liberté civile. Malgré cela il affirme que le peuple est souverain, et qu'il doit converger vers l’intérêt commun, qu'il appela *volonté générale*. Rousseau publiera *Du contrat social* en **1762**, inspiré du *Léviathan* de Hobbes avec l'ajout de sa notion de volonté générale. Cette œuvre lui vaudra une condamnation par l’Église et la république de Genève qu'il déclare être corrompues. Suite à cela il passera une vie d'errance accompagnée d'un sentiment de persécution. Dans cet ouvrage il traitera également de l'esclavage, de la peine de mort, des gouvernements, des rapports de forces et de la place de l'autorité, déclarant que la "force ne fait pas droit, et qu'on n'est obligés d'obéir qu'aux puissances légitimes". En effet, depuis la sédentarisation et l'apparition des premières lois remplaçant celle du plus fort physiquement, l'Homme apprends de plus de ses différents pairs et doit collaborer avec eux afin de trouver des solutions communes. Il y indiquera également qu'en devenant adulte, l'enfant "devient son propre maître", et qu'à l'inverse, un individu peut aliéner sa liberté et se rendre esclave d'un tiers. Selon lui, l'obéissance à une autorité n'est pas néfaste que si, malgré la fin qui justifie les moyens, l'individu ne s'engage à rien envers son supérieur. Un contrat sans échange équivalent entraînant la perte de sens et sa propre nullité par l'injustice. Toujours en 1762, il publiera également *Emile* ou *De l'éducation*, posant les bases de la pédagogie moderne. Il y explique que les enfants de moins de 12 ans doivent être guidés mais laissés libre d'expérimenter eux même le monde qui les entoure par la sensation et d'en déduircense eux même des vérités à confirmer par un mentor. Après cet âge il prône l’apprentissage d'un métier manuel  permettant de s'initier au monde du travail en créant des choses de ses propres mains. Enfin, à notre ère, Levi-Strauss déclarera qu'il est le fondateur de l'anthropologie, étude de l'être humain et de ses groupes sous tous leurs aspects qu'ils soient physiques ou culturels.
 
 [^1]: http://classiques.uqac.ca/classiques/Rousseau_jj/discours_origine_inegalite/discours_inegalite.pdf
 
 Né en 1724, Kant est le fondateur du criticisme et de l'idéalisme transcendantal. Influencé par Spinoza, Leibneiz, Newton et bien d'autres, il a été lui même une grande influence pour la philosophie moderne et la pensée critique. Grand adepte de la connaissance pratique et esthétique, il axa sa philosophie sur la capacité à savoir quoi faire ou espérer en fonction de cette dernière. Il invite donc à être raisonnable, tout en faisant preuve de rigueur et ainsi n'accepter que les informations démontrable résistante à la critique. Il a également affirmé que la connaissance trouve son origine dans le sujet humain et non pas dans l'objet étudié. C'est à dire que la construction de la vérité subjective ne sera jamais pleinement représentative de l'objet d'étude, mais un long apprentissage itératif de l'humain afin de s'en rapprocher assez pour le connaître. Il traitera également beaucoup la question du dogme, indiquant que l'athéisme est une croyance au même titre que les autres, et qu'il faut malgré tout savoir limiter son savoir pour laisser une place à la croyance, sans laquelle, l'humain ne peut concevoir le monde et émettre des hypothèses. On se souviendra également 
 
 A cette période les philosophes ont donc redéfinit leur pensée en se rapprochant petit à petit de la science. Ils populariseront l'idée que les sensations comme la douleurs sont liés à des fibres qui s'avéreront faire parti du système nerveux évoqués par Descartes dans le "Traité de l'homme" de 1664.
+
+
+
+#### Journalisme
+
+Dans l'Antiquité, les gens le pratiquait à l'oral, des crieurs, messagers ou troubadours, annonçaient les faits importants sur la place publique. Le journalisme écrit trouverai potentiellement ses racines dans l'Empire Romain avec les *Acta Diurna*, traductible en l'ordre du jour. La République de Venise ou La Dynastie Han ont également publier des bulletins d'information. Cependant le journal comme on l'entends aujourd'hui, imprimé en masse, périodique et populaire naîtra en **1622** avec le *Weekly News* de Nathaniel Butter. Il sera rapidement copié et récupéré en France, où le journalisme est né grâce à Théophraste Renaudot et sa Gazette de 1631.
+
+L'histoire du journalisme est très liée au courant philosophique libéral introduit par Bernard Mandeville, puis John Locke, et Adam Smith. La liberté de la presse s'imposera contre la censure royale et sera même inscrite dans les droits de l'Homme et du citoyen de 1789. Les journaux et publications se développeront alors énormément jusqu'à la période suivante, nécessitant des "grossistes" de l'information. *L'Agence des feuilles politiques, correspondance générale* à été créée en 1835 par Charles-Louis Havas. C'est la première agence de presse qui deviendra par la suite la fameuse Agence France Presse encore existante et faisant référence, gage de qualité et de véracité de l'information.
+
+Vérification des faits, protection des sources. Benjamin Franklin.
 
 
 
@@ -619,7 +625,11 @@ Le binaire est pratiqué depuis l'an -750 avec les hexagrammes chinois. Vers l'a
 
 
 
-#### Chiffrement de Vigenère
+#### Encryptions moderne
+
+Giambattista della Porta était un écrivain polymathe fasciné par l'ésotérisme derrière les miracles et mystères de la nature. Il œuvra à les opposer au divinatoire, et ainsi convertir des croyances en savoirs scientifique. Comme beaucoup de philosophes et esprits polymathes, sa pensée est dirigée par les principes préscientifiques de la *théorie des analogies et de la correspondance*. Il eu étudié l'optique et le magnétisme, à travers les lentilles et l'attraction du fer sur un aimant, ainsi que la propriété de nombreux métaux. Egalement cryptographe, il rédigea en **1563** un ouvrage[^1] détaillé résumant les connaissances de cryptanalyses connues à l'époque, traitant du chiffrement et déchiffrement de messages, avec quelques ajouts de sa part, comme le système littéral à double clef qui sera longtemps utilisé, et dont il est potentiellement l'inventeur. Il a également aidé à aboutir les travaux d'[Alberti](#Inventions italiennes) pour en faire un système complet. Il s'intéressa également à la psychologie et notamment la mémoire, domaine qu'il étudia jusqu’à concevoir des astuces mnémoniques utilisées par les acteurs de théâtre pour mémoriser leurs textes.
+
+[ ^1]: https://books.google.fr/books?id=DcI9AAAAcAAJ&pg=GBS.PT3&printsec=frontcover&redir_esc=y#v=onepage&q&f=false
 
 Blaise de Vigenère, né le 5 avril 1523 à Saint-Pourçain-sur-Sioule, était secrétaire d’ambassade, il n'a pas inventé le code portant son nom, qui a été introduit par Giovan Battista Bellaso. Vigenère le popularisa dans son *traité des chiffres* publié en **1586**, décrivant précisément son chiffrement avec une table qui sera également utilisée pour déchiffrer les messages, jusqu'à ce que le code ne soit rendu obsolète par le major prussien Friedrich Kasiski qui l'a cassé dans une publication datée en 1863. Au lieu d'utiliser un simple décalage comme le ferais un code de césar, une mot-clé est utilisé pour chiffrer le message en associant un chiffre à chaque à un caractère du mot, indiquant le décalage à réaliser. Cette suite de décalage obtenue à partir du mot-clé cryptographique est ainsi répétée pour chiffrer l'intégralité du texte.
 
@@ -670,6 +680,12 @@ https://gallica.bnf.fr/ark:/12148/bpt6k505471/f682.item
 C'est la période actuelle, le début est défini par la révolution industrielle qui a commencée en **1760** au Royaume-Unis, le besoin de calcul, de gestion et d'automatisation est alors grandissant. La France aboli la monarchie en 1792, les États deviennent pour la plupart des républiques, l'ancien régime et les empires coloniaux prennent fin, l'esclavage est aboli, et les deux guerres mondiales prendront lieu par la suite. Dans le monde anglo-saxon, cette période ne commence qu'en 1945 à la fin de la seconde guerre mondiale.
 
 
+
+#### Physiocratie & Libéralisme
+
+Locke, David Hume, Adam Smith,
+
+François Véron Duverger de Forbonnais => François Quesnay & Vincent de Gournay => Anne Robert Jacques Turgot ; Etienne Bonnot de Condillac, Montesquieu.
 
 
 
@@ -791,7 +807,7 @@ Créée en **1886**, devint Unisys après sa fusion en 1986 avec Sperry Univac, 
 
 #### Pédagogie contemporaine
 
-Le pédagogue Friedrich Fröbel, né le 21 avril **1782**. De 1808 a 1810 il frequentera Pestalozzi et appris de lui jusqua rediger son preier ouvrage notable "Bref exposé des principes d'éducation et de formation de Pestalozzi, d'après Pestalozzi lui même".
+Le pédagogue Friedrich Fröbel, né le 21 avril **1782** est l'inventeur des jardins d'enfants. De 1808 a 1810 il fréquentera Pestalozzi et appris de lui jusqu'à rédiger son premier ouvrage notable "Bref exposé des principes d'éducation et de formation de Pestalozzi, d'après Pestalozzi lui même".
 
 John Dewey, né le 20 octobre **1859**, a été un philosophe et pédagogue des Etats-Unis, qui sera imprégné de la théorie de l'évolution de Charles Darwin et du pragmatisme de Peirce et James. En 1899 il publira *The School and Society*[^1]. Il y déclara que l'école est à la fois socialiste et individualiste. Ce que tout le monde attends de l'école est une progression et un développement des individus qui y travaillent. À l'instar de ses prédécesseurs comme Rousseau, il insistera également sur l'importance du travail manuel, permettant aux élèves de ne pas être passifs face à une leçon ou bêtement répondre à des questions, mais de devenir actif, productif et même créatif. Il regrette également que l'enseignement mutuel soit devenu "un crime d'école", sanctionnant tout élève aidant son prochain comme s'il avait lui même triché. Par la suite il fait remarquer que dans le monde du travail, il y a rarement une ambiance studieuse et scolaire. Les gens se parlent, bougent, font preuve d'autonomie et expérimentent. Enfin il explique que des élèves qui ont en leur possession de la laine fraîche et une fleur de coton à maturité, sont pleinement capable par expérimentation de la réalité d'en extraire des déduction, et par exemple de comprendre pourquoi le coton demande plus de travail d'extraction et d'assemblage que la laine, plus facile à filer et qu'il suffit de récolter après la tonte.
 
@@ -1006,7 +1022,7 @@ Un réseau de 23 centres de directions est alors distribué dans tout le pays, e
 
 Crawford avait prédit que le temps réel ne permettrait pas seulement la simulation d'un avion, mais la visualisation en temps réel de tout le trafic aérien, comme c'est le cas aujourd'hui en source ouverte. Les circuits imprimés, écrans cathodiques et mémoire à tores seront grâce à ce projet, et aux intervenant comme IBM, Burroughs, ou Bell ; rapidement démocratisés et vendus aux particulier dans les années 1960. Le développement des écran causera également la naissance de nouvelles interfaces bien plus pratiques.
 
-Ce système en temps réel donnera lieu, dans les années suivantes, au projet SABRE de réservation aériennes, jusqu'alors manuel et fastidieux, qui sera lui même généralisé à bien d'autres système comme le bancaire avec l'apparition des cartes de crédits, distributeurs automatiques, codes barres, et plus tard paiements en ligne. 
+Ce système en temps réel donnera lieu, dans les années suivantes, au projet SABRE de réservation aériennes, jusqu'alors manuel et fastidieux, qui sera lui même généralisé à bien d'autres système comme le bancaire avec l'apparition des cartes de crédits, distributeurs automatiques, codes barres, et plus tard paiements en ligne. Plus récemment, les usa ont déclarer que les ovnis sont un problème de sécurité nationale, cela laisse penser que se système est surement encore dans les tuyaux.
 
 
 
@@ -1271,7 +1287,7 @@ En 1925, Charles Ducas déposa un brevet utilisant la galvanoplastie électrolyt
 
 [^1]: https://patents.google.com/patent/US1563731A/en?inventor=Ducas+Charles | https://worldwide.espacenet.com/patent/search?q=pn%3DUS1563731A
 
-En 1927, César Parolini réalisera également un brevet sur l'impression de motifs adhésifs en poudre de cuivre sur un diélectrique, suivant un procédé de Ducas et une idée de Thomas Edison.
+En 1927, César Parolini réalisera également un brevet sur l'impression de motifs adhésifs en poudre de cuivre sur un diélectrique, suivant un procédé de Ducas et une idée de Thomas Edison. [^1.1]
 
 [^1.1]: https://worldwide.espacenet.com/patent/search/family/009975642/publication/GB269729A?q=pn%3DGB269729A
 
@@ -1499,6 +1515,12 @@ Une fois que l'on a analysé l'environnement du projet, ses avantages et inconv�
 Pour planifier et ordonnancer les tâches, la matrice d'Eisenhower est un outil élémentaire. Très proche des matrices de faisabilité et de priorisation, elle permet de classifier les tâches importantes et/ou urgentes, celles qui ne le sont pas, ainsi qu'à qui les confier.
 
 Si un problème apparaît lors de la réalisation d'une tâche, une méthode simple et efficace nommée "5 Why" indique que se poser 5 fois d'affillée la question "Pourquoi ?" permet généralement de trouver la source d'un problème. Dans le même genre nous avons également le diagramme d'Ishikawa qui permet de schématiser les différentes causes possible d'un événement ou effet. Inspiré des quatre causes d'Aristote, il est généralement construit en analysant les 5 M : Matière première constituante, Matériel utilisé, Méthode employée, Main-d’œuvre intervenant, et Milieu dans lequel l’événement apparaît.
+
+5S Supprimer, S'organiser, Scintiller, Standardiser, Suivre
+
+QQOQCCP est un acronyme résumant une méthode interrogative empirique qui trouve ses origines dans L'Éthique à Nicomaque d'Aristote[^1] Elle corresponds aux 7 questions fondamentales à se poser pour faire de tour d'une situation Quoi Quand Où Quand Comment Combien Pourquoi. Cela est très utilisé en journalisme pour découper l'information en priorité
+
+[^1]: Livre III, Chap. 2, fragment 1111a 2-20 - https://remacle.org/bloodwolf/philosophes/Aristote/nicom2.htm#II
 
 
 
@@ -1884,6 +1906,22 @@ En effet la dialectique indique bien qu'il est fondamental de garder sa parole d
 
 Il faut douter de tout même de ce que l'on sait, il faut challenger constamment sa vérité relative pour la remettre en question et s'approcher de l'absolu. Toute notre expérience de la vie introduit des biais dans nos apprentissages. Bien qu'il y'est un certain déterminisme dans le monde, il est multifactoriel. On est certain de rien qui ne soit pas vérifié et prouvé ou que l'on expérimente soit même avec une bonne proportion de réussite.
 
+
+
+### Preuves
+
+Hiérarchie des preuves, et niveaux de preuves
+
+### Astrologie
+
+Oui le mois de naissance influe sur votre vie, mais cela n'a rien à voir avec des constellations à des années lumières, mais au soleil, qui est à la base même d'une révolution de la terre autout de lui, l'année elle même. En effet les maladies sont plus présentes en hiver et peuvent affecter le bébé lors de la gestation. Croire que la position des astres dans le ciels peuvent avoir une influence sur nous est scientifiquement ridicule, surtout sachant que l'on ne sait qu'il est au centre que relativement récemment et qu'encore aujourd'hui nous ne pouvons qu'approximer les distances entre les astres.
+
+Effet pygmalion 
+
+https://www.youtube.com/watch?v=AwCq4PwCnQE
+
+
+
 ### Communication & Compréhension
 
 transparence, adéquation clarté crédibilité, réactivité
@@ -2047,20 +2085,6 @@ Les outils no-code fleurissent ses dernières années, ils permettent certes la 
 
 
 
-### De quoi est composé un système d'information ?
-
-2SIG Interfaces
-
-1. Structure
-
-2. Style
-
-3. Interaction
-
-4. Gestion de la donnée 
-
-
-
 ### Comment faire un logiciel en tant que service ?
 
 Imaginons que vous vouliez réaliser un logiciel et qu'il soit accessible en ligne, en réalité il vous suffit d'une connexion internet de trois fichier, d'un logiciel de serveur, et enfin d'un nom de domaine pour y accéder sans avoir à mémoriser une adresse IP.
@@ -2077,11 +2101,54 @@ Pour un utilisateur avertit, la démarche peut ne prendre que quelques minutes, 
 
 ##### Etape 1 : Réaliser un site web
 
-Il suffit pour cela de trois fichiers. Cette étape est donc logiquement séparée en trois étapes, qui correspondent aux 3 parties d'un site web, le contenu structuré, l'habillage, et la réaction que doit avoir le site aux entrées utilisateur. Pour l'exemple je vais réaliser un site très simple, un mot, centré au milieu de l'écran, qui change lorsque l'on clique dessus.
+Il suffit pour cela de trois composantes reparties dans trois fichiers, ou centralisé en un seul dans le cas de ce prototype. Cette étape est donc logiquement séparée en trois étapes, qui correspondent aux 3 parties d'un site web, le contenu structuré, l'habillage, et la réaction que doit avoir le site aux entrées utilisateur. Pour l'exemple je vais réaliser un site très simple, un mot, centré au milieu de l'écran, qui change lorsque l'on clique dessus.
+
+```html
+<html>
+    <head>
+        <!-- Script de récuperation d'une police recupérée sur https://fonts.google.com/specimen/Alice -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Alice&display=swap" rel="stylesheet">
+        
+        <!-- Script d'habillage CSS -->
+        <style>
+            body {
+                height: 100vh;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+            }
+            
+            .inverted h1{
+                transform: rotateZ(180);
+            }
+            
+            h1 {
+                font-family: 'Alice', serif;
+                font-size: 15vw;
+                transition: all 0.5 ease-in-out;
+            }
+        </style>
+        <!-- Notez que j'aurais pu l'importer depuis un fichier avec un link ayant un href="/style.css" -->
+    </head>
+    <body>
+        <h1 id="text" onclick="animate()">Bonjour</h1>
+        <script>
+            function animate() {
+                const { body } = document;
+                body.classList.toggle("inverted")
+            }
+        </script>
+    </body>
+</html>
+```
+
+
 
 ##### Etape 2 : ouvrir les ports
 
-Vous allez dans le panneau de configuration de votre box et vous ouvrez le port qui permettent d'emmétre un site web et d'écouter les requêtes des clients https avec le numéro 443 et http avec le numéro complémentaire 80. 
+Allez dans le panneau de configuration de votre box et vous ouvrez le port qui permettent d'emmètre un site web et d'écouter les requêtes des clients en https avec le numéro 443 et en http avec le numéro complémentaire 80. 
 
 ![](.\assets\freebox.png)
 
@@ -2102,6 +2169,26 @@ Télécharger NGINX,
 
 
 #### Bureau à distance
+
+
+
+### Comment architecturer un système d'information ?
+
+Maintenant que l'infrastructure réseau nécessaire est en place, je vais expliquer la structure de fichiers et de dossiers que j'utilise. A la racine d'un projet logiciel, on retrouve toute sortes d'outils, qu'il convient d'organiser et de séparer dans leurs dossiers respectifs. Pour EditIDE, j'ai fait le choix d'utiliser **Cypress** pour automatiser mes tests en ayant une interface WYSIWYG ne permettant malheureusement pas l'édition, bien que fournissant des outils de sélection des éléments du site web à tester. J'ai donc un dossier contenant toutes les informations qu'il lui faut pour simuler le comportement d'un utilisateur final. J'ai également choisit d'intégrer **Docker** pour m'assurer que si le système de la personne voulant installer le projet possède des incompatibilités, alors il peut l'exécuter dans un conteneur. Cela permet également de faciliter l'installation, le seul prérequis devenant alors Docker.
+
+Medias
+
+
+
+2SIG Interfaces
+
+1. Structure
+
+2. Style
+
+3. Interaction
+
+4. Gestion de la donnée 
 
 
 
@@ -2673,4 +2760,4 @@ https://www.amazon.fr/Building-Blocks-Teaching-Preschoolers-Special/dp/155766967
 
 
 
-#### Page d’évaluation
+#### Page d’évaluation 

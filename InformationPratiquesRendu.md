@@ -43,6 +43,10 @@ Thème -> problématique -> question -> problème -> solution
 
 
 
+Soutenance : 20 min de présentation - 20 min de questions
+
+
+
 1 - Page de couverture (optionnelle) :
 
 - Attire l'attention du lecteur
