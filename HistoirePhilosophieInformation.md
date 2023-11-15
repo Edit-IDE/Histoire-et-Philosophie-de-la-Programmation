@@ -26,7 +26,7 @@ Je n'avais alors jamais vraiment travaillé de ma vie, je ne faisait pas mes dev
 
 J'ai rapidement découvert les compilateurs, qui indiquent les erreurs tant bien que mal, qui ont parfois eux même des erreurs ou manques de précisions, nécessitant de comprendre pleinement son fonctionnement et son propre code pour arriver à trouver et corriger le problème. Cela peut être décourageant pour beaucoup, et c'est d'ailleurs certainement une des raisons pour lesquelles une bonne partie des élèves abandonnent en première année.
 
-En deuxième année, j'ai dirigé et développé en grande partie un projet libre de fin d'année. Comme beaucoup d'étudiant en informatique je voulais réaliser un jeu, et me suis lancé dans son développement en C#, en utilisant MonoGame, un outil logiciel facilitant la création d'un jeu en fournissant de quoi afficher des rectangles, remplis de couleurs ou d'images, et quelles règles leur appliquer à chaque itération, avant mise à jour de l'affichage.
+En deuxième année, j'ai dirigé et développé en grande partie un projet libre de fin d'année. Comme beaucoup d'étudiant en informatique je voulais réaliser un jeu, et me suis lancé dans son développement en C#, en utilisant MonoGame, un outil logiciel facilitant la création d'un jeu en fournissant de quoi afficher des rectangles, remplis de couleurs ou d'images, et quelles règles leur appliquer à chaque itération, avant mise à jour de l'affichage. Pour la réalisation de ce jeu, j'ai développer pleins d'outils pour gérer la vitesse et les collisions entre les entités, pour cela le calcul d'angles et de distances, la trigonométrie et le théorème de Pythagore m'ont été très utile.
 
 Après l'obtention de mon DUT, je n'ai pas trouvé d'alternance et donc pas été pris en licence pro. Je me suis donc dirigé vers une deuxième année de licence en informatique dans le but de réaliser un master par la suite. Lors de cette année, il nous a été demandé de réaliser un projet de client-serveur employant des sockets pour une communication en temps réel, j'ai pu réutiliser mon projet de C et les connaissances de mon DUT avec bien entendu la technique pour simuler une interface graphique dans un environnement console, créant avec succès [Ohen, un jeu multijoueur en ligne](https://github.com/hedocode/ohen/blob/master/ohen-c/README.md).
 
@@ -1588,7 +1588,7 @@ Les fois où j'ai appris le plus rapidement des concept était encore une fois �
 
 #### Jeux en ligne et MMO
 
-#### Chiffrement
+#### Chiffrement actuels
 
 - RSA  1977
 - Chiffrement sur courbes elliptiques 1985
@@ -1597,37 +1597,28 @@ Les fois où j'ai appris le plus rapidement des concept était encore une fois �
 
 ### Concepts et outils de programmation
 
-Stucture de données
-
-1. Vecteurs
-2. Matrices
-
-3. Parallélisation
-
-4. Pointeurs mémoires
-
-5. Calculs distribués
-
-6. 
-   
-7. Pop SMTP
-
-1. Habitudes de programmation
-   1. Language naturel, formel, informatique, et construites
+1. Pop SMTP
+2. Habitudes de programmation
+   1. Langage naturel, formel, informatique, et construites
    2. Syntaxe, vocabulaire et Grammaire
    3. Pseudo Code parlé & Lojban
-   4. Ligne de commande
-   5. Commentaires et documentation
-   6. Interfaces logicielles avancées
-   7. Interopérabilité instantanée inter-appareils
-   8. Gestionnaires de version 
-   9. Programation Orientée Objet 
-   10. Cadriciels
-   11. API
-   12. Cloud
-   13. Tests et Vérification
-   14. CI / CD
-   15. Microservices
+   4. Interfaces logicielles avancées
+   5. Interopérabilité instantanée inter-appareils
+   6. Cadriciels
+   7. API
+   8. Cloud
+
+#### Ligne de commande
+
+L'interface la plus simple informatiquement parlant est la ligne de commande, elle a un avantage. Celui d'être totalement textuelle.
+
+
+
+#### Types et structure de donnée
+
+Types primitifs, Vecteurs, Matrices
+
+
 
 #### Bases de la programmation objet
 
@@ -1765,6 +1756,29 @@ https://hal.science/hal-02970135/document
 
 
 
+#### Optimisations
+
+##### Techniques
+
+1. Parallélisation
+2. Pointeurs mémoires
+3. Calculs distribués
+
+
+
+##### Managériales
+
+1. Tests et Vérification
+2. CI / CD
+3. Commentaires et documentation
+4. Gestionnaires de version 
+
+Git est un logiciel de gestion de versions décentralisé sous licence GNU GPL. C'est un logiciel libre et gratuit, initié en **2005** par Linus Torvalds le créateur de Linux lors de la création de son noyau. Linus ne voulait pas réaliser ce projet seul et a rapidement compris que la qualité d'un logiciel viendrai des débats houleux entre ses collaborateurs et l'implémentation de la meilleure idée à la fin. graphe d'historique de modifications de fichiers visualisable avec gource.
+
+5. Microservices
+
+
+
 #### Quelqu'un à généralement la solution
 
 En programmation objet, il existe des Patrons de conceptions, ils trouvent leur racines dans l'architecture. L'architecte en bâtiment Christopher Alexander publie l'essai ***A Pattern Language**: Towns, Buildings, Construction* en **1977**. Cette œuvre à définit de manière casuistique, à la manière du [Code de Hammurabi](#Code-de-Hammurabi), les problèmes rencontrés en architecture et leurs solutions.
@@ -1788,12 +1802,6 @@ Liskov et sa substitution : Si une instance de véhicule doit pouvoir être remp
 Interfaces séparées : Il vaut mieux créer plusieurs interfaces spécifiques quitte à ce qu'elles n'ai qu'une seule méthode ou fonction, plutôt qu'une seule interface générale possédant plusieurs fonctions. Cela permet d'avoir une granularité plus fine et de pouvoir à l'aide de la composition, obtenir des interfaces composés uniquement des méthodes dont on a besoin.
 
 Dépendances inversés : Bien que les classes dépendent d'abstraction telles que les interfaces, il faut le plus souvent possible ne pas travailler avec mais utiliser les interfaces, cela permet notamment de respecter le principe de Liskov. On part du concept général pour traiter le plus de cas et aller vers le particulier au besoin.
-
-
-
-#### Git
-
-Git est un logiciel de gestion de versions décentralisé sous licence GNU GPL. C'est un logiciel libre et gratuit, initié en **2005** par Linus Torvalds le créateur de Linux lors de la création de son noyau. Linus ne voulait pas réaliser ce projet seul et a rapidement compris que la qualité d'un logiciel viendrai des débats houleux entre ses collaborateurs et l'implémentation de la meilleure idée à la fin. graphe d'historique de modifications de fichiers visualisable avec gource.
 
 
 
@@ -1843,20 +1851,7 @@ Contrairement à la définition de Wikipédia, qui déclare qu'elle désigne le 
 
 Un fait est la naissance d'une information émanant du matériel à un moment donné t. Pour autant, le fait n'existe plus une fois ce moment t passé, il n'en reste que les conséquences physiques et l'idée de cette action qui en est la cause. Plusieurs observateurs peuvent avoir une version différente des faits, propre à leur subjectivité et vérités relatives. Le fait en lui même est une vérité absolue et pure que l'on ne peut qu'approximer. Seul l'acteur des faits peut réellement savoir ce qui c'est passé à condition bien sur qu'il soit conscient. 
 
-
-
-### Consciences
-
-La conscience est le fait d'analyser et comprendre une information émanant dans notre cerveau, elle ne nécessite pas forcement la perception pour autant, certaines personnes dont la vision est totalement obscurcie et qui ne sont donc pas capable de voir peuvent pour autant avoir conscience de si une lumière est allumée devant leurs yeux, on appelle ça la vision aveugle[^1]. La conscience est donc le fait d'activer une information, de la lire et d'être capable de lire d'information comme quoi on est en train de lire.
-
-Les théories les plus récentes de la conscience disent que c'est le fait d'avoir une information disponible à un moment T pour la partager à l'ensemble des traitements du cortex cérébral. Pour autant avoir conscience d'une information ne signifie pas forcement avoir conscience de soi, ceci relève de la métacognition. 
-
-https://www.youtube.com/watch?v=dGo5Whv-VCU
-mémoire onirique
-
-Percevoir la réalité c'est rêver de la réalité, notre conscience est limité par la réalité physique, le rêve pur n'est contraint que par notre conscience
-
-[^1]: https://www.frcneurodon.org/comprendre-le-cerveau/a-la-decouverte-du-cerveau/la-conscience
+### Habitudes
 
 
 
@@ -1875,8 +1870,6 @@ baki episode 22
 informations parasites quand je travaille sur une fonction je nai pas besoin de voir autre chose que ses dependances. le divertissement n'est pas necessaire non plus. L'informatique et l'algorythmiques nous permettent de repliquer a l'infini une information ou un traitement logique de donnée. 
 
 croyances limitantes et mauvaise foi
-
-### Habitudes
 
 
 
@@ -1974,7 +1967,13 @@ Les deux vont de pair, il ne sert à rien d'être dans la précipitation, on peu
 
 ### Standardisation & Universalité
 
+L'uniformiusation à permi d'avoir un langage commun au même titre que la logique mathématique. Le système métrique 
 
+
+
+### Base
+
+Les bases sont les fondations d'un système numéraire, notre base 10 permet de multiplier et diviser par 2, et 5, la base 12, par 2, 3, 4 et 6.
 
 ### IO
 
@@ -2022,7 +2021,18 @@ https://onlinelibrary.wiley.com/doi/abs/10.1002/cne.21974
 
 https://en.wikipedia.org/wiki/Mental_chronometry
 
+### Consciences
 
+La conscience est le fait d'analyser et comprendre une information émanant dans notre cerveau, elle ne nécessite pas forcement la perception pour autant, certaines personnes dont la vision est totalement obscurcie et qui ne sont donc pas capable de voir peuvent pour autant avoir conscience de si une lumière est allumée devant leurs yeux, on appelle ça la vision aveugle[^1]. La conscience est donc le fait d'activer une information, de la lire et d'être capable de lire d'information comme quoi on est en train de lire.
+
+Les théories les plus récentes de la conscience disent que c'est le fait d'avoir une information disponible à un moment T pour la partager à l'ensemble des traitements du cortex cérébral. Pour autant avoir conscience d'une information ne signifie pas forcement avoir conscience de soi, ceci relève de la métacognition. 
+
+https://www.youtube.com/watch?v=dGo5Whv-VCU
+mémoire onirique
+
+Percevoir la réalité c'est rêver de la réalité, notre conscience est limité par la réalité physique, le rêve pur n'est contraint que par notre conscience
+
+[^1]: https://www.frcneurodon.org/comprendre-le-cerveau/a-la-decouverte-du-cerveau/la-conscience
 
 
 
@@ -2317,7 +2327,11 @@ imaginez un casque multisensoriel visuel qui permette a laide d'onduloanalyse de
 
 ### Développement
 
+En tant que chef d'entreprise, je me fiche du langage que tu utilise, fait le en patate ou en carotte si tu veux, mais réalise les fonctionnalités demandés, interconnecte les et fait en sorte que ça marche de manière pérenne, je me fiche du temps que ça prends, quand tu aura fini ta tâche, documentée elle sera, par n'importe qui elle pourra être reprise, et optimisée tu l'aura.
 
+
+
+Tout devrait être automatique, je suis ravi que le prélèvement à la source ai permis d'automatiser les impôts, mais ça devrait également être le cas pour les aides, les assurances, mutuelles, et tout recours aux droits qui nous sont conférés, les loi devrait être des algorithmes, le système devrait être juste et positif, pour tous, réguler les ordres de grandeurs, réduire les inégalités, être réalisé pour le bien commun et non l'avarice, l'excentricité et la démesure.
 
 
 
