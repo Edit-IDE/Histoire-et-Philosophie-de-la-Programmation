@@ -691,17 +691,21 @@ François Véron Duverger de Forbonnais => François Quesnay & Vincent de Gourna
 
 #### Philosophes contemporains
 
-Les penseurs de cette époque ont hérité des savoirs du siècle des lumière, la science fait désormais partie intégrante des réflexions de la société. Kant actif vers la fin de l'époque moderne à eu une forte influence notamment au début de l'époque contemporaine. Georg Wilhelm Friedrich Hegel, né en **1770** est connu pour sa dialectique du maître et de l'esclave. Selon lui travailler pour un maître fait acquérir de plus en plus de compétences à l’esclave, et le maître à force de se faire servir perd de ses compétence, l’esclave à alors l'opportunité de devenir maître à son tour voire effectuer une inversion de contrôle. Le travail est donc un facteur d'émancipation et de libération, et un vrai maître doit continuer d'apprendre et ne pas se reposer sur ses sous-fifres, en plus de faire preuve d'une reconnaissance sincère nécessaire à la sanité de leur relation. Il reprendra la notion de système de Vauban et Condillac et l'appliqua à son enseignement de la philosophie.
+Les penseurs de cette époque ont hérité des savoirs du siècle des lumière, la science fait désormais partie intégrante des réflexions de la société. Rousseau et Kant, actifs vers la fin de l'époque moderne ont eu une forte influence notamment au début de l'époque contemporaine. Ils ont notamment influencé l'idéaliste Georg Wilhelm Friedrich Hegel, né en 1770. Il reprendra également la notion de système de Vauban et Condillac et l'appliqua à son enseignement de la philosophie dans "*Phénoménologie de L'Esprit*" qui l'a rendu connu pour sa dialectique du maître et de l'esclave. Selon lui travailler pour un maître fait acquérir de plus en plus de compétences à l’esclave, et le maître à force de se faire servir perd de ses compétence, l’esclave à alors l'opportunité de devenir maître à son tour voire effectuer une inversion de contrôle. Le travail est donc un facteur d'émancipation et de libération, et un vrai maître doit continuer d'apprendre et ne pas se reposer sur ses sous-fifres, en plus de faire preuve d'une reconnaissance sincère nécessaire à la sanité de leur relation.
 
-Bernard Bolzano 1781
+L'idéalisme sera par la suite critiqué par Bernard Bolzano né en 1781, qui à l'instar de ? déclarera que les idées existent indépendamment du monde des idées propres à celui qui pense. Ce philosophe logicien a proposer son œuvre "*Théorie de la science*" pour tenter d'unifier la logique globale, pensant la chose telle un système, un tout composé de parties distinctes de ce dernier. Il a introduit le mot objet comme quelque chose qui est représenté par une idée. À l'inverse, une idée abstraite qui serait irréalisable ne possède donc pas d'objet et ainsi rien de concret. L'idée du "rien" n'a d'ailleurs par définition pas d'objet. 
 
-Charles Darwin 1809
+> Ce concept d'objet de Bolzano me fait étrangement penser à la notion de classe abstraite en programmation objet, qui est une idée ne pouvant être instanciée en objet tant qu'elle n'est pas étendue par une autre classe non abstraite permettant elle la création d'un dit objet.
 
-Herbert Spencer 1820 pestazolli 
+
+
+Le terme biologie, en tant que science de l'étude des êtres vivants, a été inventé par Jean-Baptiste de Lamarck. Il est à l'origine de la théorie transformiste ayant réfuté le fixisme déclarant jusqu'alors que les espèces végétales et animales seraient immuables et n'évoluerait pas dans le temps. Dans *Philosophie zoologique*[^1], il est le premier penseur à exposer la théorie de l'évolution et spéculer que l'homme descends probablement du singe. Célèbre pour avoir révolutionné la biologie, Charles Darwin a repris les travaux de Lamarck et publia l'*Origine des espèces* en 1859. Dans ce texte fondateur de la théorie de l’évolution et de la sélection naturelle, il prouve scientifiquement la mutabilité des être vivants que d'autres penseurs n'ont pu prouver de l'Antiquité au moyen âge. Enfin, Herbert Spencer viendra appliquer ses théories au sciences humaines, inventant ainsi le darwinisme social.
+
+[^1]: https://gallica.bnf.fr/ark:/12148/bpt6k5675762f
 
 Ernst Mach 1838
 
-Peirce 1839 influencera John Dewey
+Peirce 1839, influencé par Bolzano, influencera à son tour John Dewey
 
 Nietzsche 1844
 
@@ -807,9 +811,11 @@ Créée en **1886**, devint Unisys après sa fusion en 1986 avec Sperry Univac, 
 
 #### Pédagogie contemporaine
 
-Le pédagogue Friedrich Fröbel, né le 21 avril **1782** est l'inventeur des jardins d'enfants. De 1808 a 1810 il fréquentera Pestalozzi et appris de lui jusqu'à rédiger son premier ouvrage notable "Bref exposé des principes d'éducation et de formation de Pestalozzi, d'après Pestalozzi lui même".
+Le pédagogue Friedrich Fröbel, né le 21 avril 1782 est l'inventeur des jardins d'enfants. De 1808 à 1810 il fréquentera Pestalozzi et appris de lui jusqu'à rédiger son premier ouvrage notable "Bref exposé des principes d'éducation et de formation de Pestalozzi, d'après Pestalozzi lui même".
 
-John Dewey, né le 20 octobre **1859**, a été un philosophe et pédagogue des Etats-Unis, qui sera imprégné de la théorie de l'évolution de Charles Darwin et du pragmatisme de Peirce et James. En 1899 il publira *The School and Society*[^1]. Il y déclara que l'école est à la fois socialiste et individualiste. Ce que tout le monde attends de l'école est une progression et un développement des individus qui y travaillent. À l'instar de ses prédécesseurs comme Rousseau, il insistera également sur l'importance du travail manuel, permettant aux élèves de ne pas être passifs face à une leçon ou bêtement répondre à des questions, mais de devenir actif, productif et même créatif. Il regrette également que l'enseignement mutuel soit devenu "un crime d'école", sanctionnant tout élève aidant son prochain comme s'il avait lui même triché. Par la suite il fait remarquer que dans le monde du travail, il y a rarement une ambiance studieuse et scolaire. Les gens se parlent, bougent, font preuve d'autonomie et expérimentent. Enfin il explique que des élèves qui ont en leur possession de la laine fraîche et une fleur de coton à maturité, sont pleinement capable par expérimentation de la réalité d'en extraire des déduction, et par exemple de comprendre pourquoi le coton demande plus de travail d'extraction et d'assemblage que la laine, plus facile à filer et qu'il suffit de récolter après la tonte.
+Dès 1792, le mathématicien philosophe et homme politique Nicolas de Condorcet soumet un projet de réforme du système éducatif à l'Assemblée nationale législative, prônant l'enseignement laïc et la formation professionnelle continue mélangeant la théorie à la pratique. En 1793 Louis-Joseph Charlier à voulu rendre l'enseignement primaire obligatoire gratuit et laïc en France. Malheureusement, lors d'un déplacement de ce dernier, l'obligation et la gratuité sont retirés du texte, ne conservant que la laïcité. Certains s'en sont inspirés comme, l'État de New York qui en 1832 instaure l'école élémentaire gratuite et obligatoire. En France il a fallu attendre presque un siècle, entre 1879 et 1882, pour que Jules Ferry alors soit ministre de l'instruction publique ou président du conseil des ministres, rende l'instruction obligatoire et laïque à l'aide des lois scolaires portant son nom. La scolarisation n'était pas encore obligatoire, et encore aujourd'hui les parents peuvent assurer eux même l'instruction de leurs enfants ou les confier à un précepteur.
+
+John Dewey, né le 20 octobre 1859, a été un philosophe et pédagogue des Etats-Unis, qui sera imprégné de la théorie de l'évolution de Charles Darwin et du pragmatisme de Peirce et James. En **1899** il publira *The School and Society*[^1]. Il y déclara que l'école est à la fois socialiste et individualiste. Ce que tout le monde attends de l'école est une progression et un développement des individus qui y travaillent. À l'instar de ses prédécesseurs comme Rousseau, il insistera également sur l'importance du travail manuel, permettant aux élèves de ne pas être passifs face à une leçon ou bêtement répondre à des questions, mais de devenir actif, productif et même créatif. Il regrette également que l'enseignement mutuel soit devenu "un crime d'école", sanctionnant tout élève aidant son prochain comme s'il avait lui même triché. Par la suite il fait remarquer que dans le monde du travail, il y a rarement une ambiance studieuse et scolaire. Les gens se parlent, bougent, font preuve d'autonomie et expérimentent. Enfin il explique que des élèves qui ont en leur possession de la laine fraîche et une fleur de coton à maturité, sont pleinement capable par expérimentation de la réalité d'en extraire des déduction, et par exemple de comprendre pourquoi le coton demande plus de travail d'extraction et d'assemblage que la laine, plus facile à filer et qu'il suffit de récolter après la tonte.
 
 [^1]: https://archive.org/details/schoolsociety00deweiala/page/n8/mode/1up
 
@@ -1847,17 +1853,25 @@ La définition de l'information est controversée et difficile à établir clair
 
 Contrairement à la définition de Wikipédia, qui déclare qu'elle désigne le message et les symbole utilisés pour l'écrire, selon moi, malgré le fait évident que l'information n'est réelle qu'au moment ou elle se manifeste au moyen du matériel, elle n'est pour autant pas définie par son support, mais bien par la forme ou l'idée à laquelle son support fait référence. La quantification et / ou qualification lié au message étant la réelle information.
 
+### IO
+
+Entrées et sorties, Inputs et Outputs (IO), sont l'ensemble des paramètres et des valeurs de sorties. Avec elles seules on peut limiter les fonctionnalités possible à un certain contexte d'entrées et sorties attendues. C'est une sorte de double entonnoir, comme des portails, théoriquement bidirectionnels. On peut la mettre en relation avec la lecture et l'écriture, en C# .NET [`System.IO`](#https://learn.microsoft.com/en-us/dotnet/api/system.io?view=net-7.0) est ailleurs un namespace permettant d'accéder à des fonctions algorithmiques standard de lire et écrire des fichiers. Et par conséquent des dossiers, car oui, les dossiers sont des fichiers, contenant l'adresse mémoire de son contenu. 
+
 ### Faits
 
 Un fait est la naissance d'une information émanant du matériel à un moment donné t. Pour autant, le fait n'existe plus une fois ce moment t passé, il n'en reste que les conséquences physiques et l'idée de cette action qui en est la cause. Plusieurs observateurs peuvent avoir une version différente des faits, propre à leur subjectivité et vérités relatives. Le fait en lui même est une vérité absolue et pure que l'on ne peut qu'approximer. Seul l'acteur des faits peut réellement savoir ce qui c'est passé à condition bien sur qu'il soit conscient. 
 
 ### Habitudes
 
+### Rapports de force et ordres de grandeur
+
+Le rapport de force est universel et naturel, le premier est le nombre d'années qu'un individu à expérimenter la vie dans de bonnes conditions. On pourrait également le penser sous le prisme de la taille, nombre facile à se représenter proportionnellement à nos petites mètres de hauteur comparés au grattes ciels faisant jusqu'à 414 humains empilés. 
+
+Même de nos jours, une personne décidant de se salarier dans un travail dit alimentaire pour survivre se "vends" en échange de sa subsistance. Pour autant, c'est lui qui par son travail, assure les revenus du patron, et indirectement des autres salariés. Loi de Moore, Volume de donnée internet ou chat gpt, probabilités sachant que. le big deal Théorie du chaos et contextes intriqués, un grand tout.
 
 
 
-
-### Signaux forts et faibles 
+#### Signaux forts et faibles 
 
 anecdote prof sifflement 
 
@@ -1865,23 +1879,23 @@ baki episode 22
 
 
 
+### Viralité
+
+La viralité est un facteur mathématiquement calculable. C'est la moyenne de transmissions faites par les personnes atteintes par une information.
+
+
+
 ### Parasitage
 
-informations parasites quand je travaille sur une fonction je nai pas besoin de voir autre chose que ses dependances. le divertissement n'est pas necessaire non plus. L'informatique et l'algorythmiques nous permettent de repliquer a l'infini une information ou un traitement logique de donnée. 
+informations parasites quand je travaille sur une fonction je n’ai pas besoin de voir autre chose que ses dépendances. le divertissement n'est pas nécessaire non plus. L'informatique et l'algorithmique nous permettent de répliquer a l'infini une information ou un traitement logique de donnée. 
 
 croyances limitantes et mauvaise foi
 
 
 
-### Viralité
 
-La viralité est un facteur mathématiquement calculable. C'est la moyenne de transmissions faites par les personnes atteintes par une information.
 
-### Rapport de force et ordres de grandeur
 
-Le rapport de force est universel et naturel, le premier est le nombre d'années qu'un individu à expérimenter la vie dans de bonnes conditions. On pourrait également le penser sous le prisme de la taille, nombre facile à se représenter proportionnellement à nos petites mètres de hauteur comparés au grattes ciels faisant jusqu'à 414 humains empilés. 
-
-Même de nos jours, une personne décidant de se salarier dans un travail dit alimentaire pour survivre se "vends" en échange de sa subsistance. Pour autant, c'est lui qui par son travail, assure les revenus du patron, et indirectement des autres salariés. Loi de Moore, Volume de donnée internet ou chat gpt, probabilités sachant que. le big deal Théorie du chaos et contextes intriqués, un grand tout.
 
 ### Contexte et vérité
 
@@ -1905,25 +1919,9 @@ Il faut douter de tout même de ce que l'on sait, il faut challenger constamment
 
 Hiérarchie des preuves, et niveaux de preuves
 
-### Astrologie
-
-Oui le mois de naissance influe sur votre vie, mais cela n'a rien à voir avec des constellations à des années lumières, mais au soleil, qui est à la base même d'une révolution de la terre autout de lui, l'année elle même. En effet les maladies sont plus présentes en hiver et peuvent affecter le bébé lors de la gestation. Croire que la position des astres dans le ciels peuvent avoir une influence sur nous est scientifiquement ridicule, surtout sachant que l'on ne sait qu'il est au centre que relativement récemment et qu'encore aujourd'hui nous ne pouvons qu'approximer les distances entre les astres.
-
-Effet pygmalion 
-
-https://www.youtube.com/watch?v=AwCq4PwCnQE
 
 
 
-### Communication & Compréhension
-
-transparence, adéquation clarté crédibilité, réactivité
-
-En tant que président Politesse, Respect et Bienveillance seront les maîtres mots de ma philosophie d'entreprise. Veiller à bien faire et bien communiquer, bien travailler, bien apprendre et retransmettre, et essayer tout les jours, malgré les hauts et les bas, de devenir un peu meilleur que la veille.
-
-L'allégorie de la ligne ou celle de la caverne énoncée par Platon sont également la pour nous rappeler que la connaissance peut être hiérarchisée en fonction du contexte et niveau de compréhension.
-
-Il est intéressant d'abaisser son raisonnement en utilisant une métaphore pour expliquer simplement un concept à un initié, tout comme il est important de laisser cet initié le reformuler et corroboré pour vérifier sa compréhension, c'est ainsi que l'on valide la transmission d'une information et un apprentissage, en le testant.
 
 ### Apprentissage
 
@@ -1933,13 +1931,13 @@ A l'aide de schémas mentaux, nous associons un ensemble de concepts ou d'idées
 
 [^1]:  https://www.youtube.com/watch?v=RVB3PBPxMWg
 
+### Informatique et Éducation
 
+Récemment le développement de l'apprentissage et les écoles adoptant la pédagogie Montessori sont un peu revenu à la mode, certains établissements ne donnent plus de notes mais des appréciations ou validations de niveau. Conformément à la pensée de Céléstin Freinet, les estrades ne sont plus, ou du moins ne servent plus à mettre le professeur en exergue, qui de toute manière se retrouve souvent à passer dans les rangs pour accompagner ou surveiller les élèves lors des examens. Bien que les compétences numérique, sociales et civiques, ainsi qu'apprendre à apprendre, fasse partie du socle commun des connaissances et des compétences, je pense qu'elles sont négligées et que l'on devrais enseigner des choses plus concrètes comme le suggérait John Dewey dans *School and Society*. J'ai du attendre l'enseignement supérieur pour avoir un cours unique de quelques heures sur la mémorisation et l'auto-formation, et je regrette que l'on ne nous indique pas quels sont les droits et aides disponibles, que l'on soit en situation précaire ou chef d'entreprise en devenir. Actuellement, l'éducation n'apprends pas aux gens à bien vivre. Imposer un programme est nécessaire pour avoir une base commune, mais les gens ont une vie à côté qui les impact positivement ou négativement dans le scolaire. Certaines compétences générales qui devraient être universelles, comme la gestion d'un budget, d'un planning, la cuisine, l'entretien d'un foyer, ou les démarches administratives élémentaires comme les déclarations d'impôts ou les demandes d'aides, ne sont transmises que par les parents ou les enseignements supérieurs spécialisés.
 
-### Informatique et éducation
+Or selon moi le rôle de l'éducation devrait être de faire en sorte que toute personne ayant un objectif soit capable d'elle même trouver les pré-requis nécessaires et les appliquer. De plus nous avons de formidables références nationales comme https://legifrance.gouv.fr/,  https://www.service-public.fr/ ou https://gallica.bnf.fr/ ou internationales comme https://fr.wikipedia.org et elle ne sont que peu connues ou référencées. Nul n'est censé ignoré la loi mais seuls les professionnels la lise et la connaissent. L'éducation ne doit pas fournir tout les outils existants, mais apprendre à l'élève comment trouver les outils et informations dont il aura besoin en plus de lui apprendre à apprendre, et ainsi lui indiquer comment il peut s'autoformer. L'école et l'éducation nationale n'ont pas le monopole du savoir.
 
-Récemment le développement de l'apprentissage et les écoles adoptant la pédagogie Montessori sont un peu revenu à la mode, certains établissements ne donnent plus de notes mais des appréciations ou validations de niveau. Conformément à la pensée de Céléstin Freinet, les estrades ne sont plus, ou du moins ne servent plus à mettre le professeur en exergue, qui de toute manière se retrouve souvent à passer dans les rangs pour accompagner ou surveiller les élèves lors des examens. Enfin bien que les compétences numérique, sociales et civiques, ainsi qu'apprendre à apprendre, fasse partie du socle commun des connaissances et des compétences, je pense qu'elles sont négligées et que l'on devrais enseigner des choses plus concrètes comme le suggérait John Dewey dans *School and Society*. J'ai du attendre l'enseignement supérieur pour avoir un cours unique de quelques heures sur la mémorisation et l'auto-formation, et je regrette que l'on ne nous indique pas quels sont les droits et aides disponibles, que l'on soit en situation précaire ou chef d'entreprise en devenir. Actuellement, l'éducation n'apprends pas aux gens à bien vivre. Imposer un programme est nécessaire pour avoir une base commune, mais les gens ont une vie à côté qui les favorise ou pas dans le scolaire. 
-
-Toute personne ayant un objectif doit être capable d'elle même trouver les pré-requis nécessaires. Nous avons de formidables références nationales comme https://legifrance.gouv.fr/,  https://www.service-public.fr/ ou https://gallica.bnf.fr/ ou internationales comme https://fr.wikipedia.org
+Je n'ai pas encore parlé de la didactique, elle s’intéresse plus aux contenus des cours, contrairement à la pédagogie qui est la manière de les amener et de les transmettre d'un mentor à un apprenant, les deux sont complémentaires. La pédagogie possède le biais de l'Effet Dr. Fox, qui dit qu'un cours sera apprécié plus en fonction de la personnalité du professeur que du contenu du cours. Or je pense que son dernier et son architecture sont fondamentales et différents en fonction du mode de pensée et d'apprentissage des élèves, d'où l'intervention de la pédagogie pour diriger l'élève vers des exercices ou conversations adaptés à son raisonnement et lui permettant de comprendre les concepts.
 
 Des études montrent désormais que l'apprentissage se fait mieux par la récompense que la punition.[^1] Il est plus productif d'encourager un bon comportement que d'en réprimander un mauvais, bien que cela soit parfois nécessaire, il vaut toujours mieux orienter sa pédagogie de manière positive. 
 
@@ -1947,17 +1945,23 @@ Des études montrent désormais que l'apprentissage se fait mieux par la récomp
 
 Je pense que la pédagogie active et mutuelle des pédagogues contemporains est une belle utopie inspirée de Rousseau. En réalité un bon apprentissage est avant tout du ressort de l'apprenant. C'est d'ailleurs pourquoi il est au cœur de ces techniques d'apprentissages. Depuis Montaigne, l'adage "L'enfant n'est pas un vase que l'on remplit, mais un feu que l'on allume" est couramment repris. En effet, la plus forte source de motivation est intrinsèque, c'est celle qui émane de la pensée telle la conscience. Celle qui est infinie comme l'imagination. Celle dont né une volonté et satiété de savoir intarissable.
 
-La pédagogie active et plus généralement l'autodidaxie permettent à l'élève d'être acteur de son apprentissage, il choisit ce qu’il désire apprendre, quand, et comment ; bien que cela se passe souvent par le jeu dirigé puis libre. La motivation de l'étudiant devient intrinsèque au fur et à mesure qu'on lui donne de la liberté, ce qui favorise l'autonomie, la retenue, la prise de décision, et la gestion des conflits. L'adulte ou le mentor doit n'être qu'un médiateur entre l'élève et le savoir, un guide d'apprentissage.
+La pédagogie active et plus généralement l'autodidaxie permettent à l'élève d'être acteur de son apprentissage, il choisit ce qu’il désire apprendre, quand, et comment ; bien que cela se passe souvent par le jeu dirigé puis libre. La motivation de l'étudiant devient intrinsèque au fur et à mesure qu'on lui donne de la liberté, ce qui favorise l'autonomie, la retenue, la prise de décision, et la gestion des conflits. L'adulte ou le mentor doit n'être qu'un médiateur entre l'élève et le savoir, un guide d'apprentissage. Il doit selon moi lui faire part de ce qu'il sait vrai, le justifier, et admettre qu'il peut avoir tord. Le vrai respect ne s'obtient pas par l'autorité mais par le partage, tout en respectant la barrière sensible nécessaire à toute relation professionnelle. Il n'est pas grave de la franchir pour autant, la proximité permet une meilleur compréhension d'autrui, mais il faut savoir repartir de l'autre côté à n'importe quel moment.
 
->  ***Il doit lui faire part de ce qu'il sait vrai, le justifier, et admettre qu'il peut avoir tord. Le vrai respect ne s'obtient pas par l'autorité mais par le partage, tout en respectant la barrière sensible nécessaire à toute relation professionnelle. Il n'est pas grave de la franchir pour autant, la proximité permet une meilleur compréhension d'autrui, mais il faut savoir repartir de l'autre côté à n'importe quel moment.***
+Les logiciels éducatifs sont également un médium guidant l'apprentissage. Comme j'ai pu le dire précédemment, j'ai appris à lire à 2 ans et demi et sauté deux classes grâce à "Reader Rabbit, Learn to read with phonics". Je n'en suis pas un génie pour autant, et ce n'est pas pour faire preuve humilité. J'ai juste expérimenté un programme, réalisé par des développeurs qui avait une conscience de l'expérience utilisateurs, et qui pour se mettre dans la tête de leurs joueurs, ont inventé un scénario où un ordinateur, propose un vœux à une petite souris qui ne sait pas lire, retire alors l'intégralité des charactères écrits de sa ville. Le joueur doit alors retrouver les lettres de l'alphabet une part une et écouter le son qu'elles produisent, les mots qu'elles permettent de former. Guidant l'élève pour qu'il construise au fur et à mesure, à travers le jeu vidéo, des associations entre les caractères visuels, les sons et les formes qu'elles représentent dans le sens d'idées. Permettant ainsi la lecture textuelle et la compréhension qui en découle.
 
-Il en va de même pour les logiciels éducatifs. Comme j'ai pu le dire précédemment, j'ai appris à lire à 2 ans et demi et sauté deux classes grâce à "Reader Rabbit, Learn to read with phonics". Je n'en suis pas un génie pour autant, et ce n'est pas pour faire preuve humilité. J'ai juste expérimenter un programme, réalisé par des développeurs qui avait une conscience de l'expérience utilisateurs, et qui pour se mettre dans la tête de leurs joueurs, ont inventé un scénario où un ordinateur, propose à une petite souris qui ne sait pas lire, retire alors l'intégralité des charactères écrits de sa ville. Le joueur doit alors retrouver les lettres de l'alphabet une part une et écouter le son qu'elles produisent, les mots qu'elles permettent de former. Guidant l'élève pour qu'il construise au fur et à mesure, à travers le jeu vidéo, des associations entre les charactères visuels, les sons et les formes qu'elles représentent dans le sens d'idées. Permettant ainsi la lecture textuelle et la compréhension qui en découle.
+https://www.youtube.com/watch?v=Vl_S21D7j9w
 
-Le jeu développe les compétences sociales et cognitives de l'apprenti, qui n'est plus passif face à un cours qui lui est dispensé par une autorité qui sanctionne et récompense, mais découvre et s'approprie la connaissance par lui même. Bien que le jeu libre ai bien des avantages, le jeu dirigé permet de structurer l'apprentissage à l'aide d'un mentor favorisant l'acquisition de compétences, que le pédagogue transmet à ses disciples. Ce cadre réside dans l'analyse des difficultés et problèmes de l'étudiant, par la recherche des notions manquantes pour y palier, et l'élaboration d'un plan classique permettant d'y arriver, composé de cours, d'exercices, et enfin d'un examen, nécessaire à la validation individuelle de la théorie. Cette notion d'apprentissage actif "Learning by doing" se retrouve pour les langages de programmation comme avec le logiciel Rustlings ou Rust by example. Il existe d'autres langages et jeux en lignes utilisant le jeu pour faciliter l'apprentissage, parmis eux je pense notamment à Scratch, FlexboxFroggy, CodingGame, Logo.
+De manière générale, le jeu développe les compétences sociales et cognitives de l'apprenti, qui n'est plus passif face à un cours qui lui est dispensé par une autorité qui sanctionne et récompense, mais découvre et s'approprie la connaissance par lui même. Bien que le jeu libre ai bien des avantages, le jeu dirigé permet de structurer l'apprentissage à l'aide d'un mentor favorisant l'acquisition de compétences, que le pédagogue transmet à ses disciples. Ce cadre réside dans l'analyse des difficultés et problèmes de l'étudiant, par la recherche des notions manquantes pour y palier, et l'élaboration d'un plan classique permettant d'y arriver, composé de cours, d'exercices, et enfin d'un examen, nécessaire à la validation individuelle de la théorie. Cette notion d'apprentissage actif "Learning by doing" se retrouve pour les langages de programmation comme avec le logiciel Rustlings ou Rust by example. Il existe d'autres langages et jeux en lignes utilisant le jeu pour faciliter l'apprentissage, parmis eux je pense notamment à Scratch, FlexboxFroggy, CodingGame, Logo.
 
 La tablette pourrait remplacer les manuels scolaires, les cahiers, réduire les couts et le poids des cartables. Malgré le fait que certains pays l'ayant essayé ai fait marche arrière comme la Suède, je pense qu'avec un ludiciel adapté couvrant l'ensemble des matières de tout niveau à l'aide d'un arbre de compétence et gérant les communications entre les familles et les écoles, il serait possible d'harmoniser les enseignements et d'appliquer les programmes tout en réduisant le temps apprentissage. Quand j'ai appris à lire, les périphériques tactiles n'étaient pas encore démocratisés, j'avais alors un gros retard sur cette compétence. Il existe aujourd'hui multitude d'application mobiles pour apprendre à écrire. Sur une tablette possédant un stylet, un enfant peut en toute autonomie jouer pour acquérir cette habilité. Le problème et la crainte réelle des enseignants et des parent sont essentiellement la casse et le prix du renouvellement d'un tel appareil électronique accompagné des dérives liés aux possibilités illimitées d'un ordinateur pouvant distraire l'élève et le détourner de ses objectifs éducatifs. Je leur répondrais que leur rôle est d'enseigner la précaution et la discipline, l'élève pourra ainsi se charger lui même du reste. 
 
 Enfin je terminerai avec une citation de jeu vidéo, Maitre Yi dans League Of Legends dit "*Un vrai maître est un éternel étudiant*".
+
+###   Informatique et Cuisine
+
+La cuisine est selon moi une science combinatoire et une philosophie à part entière regroupant les mathématiques, la biologie, la physique-chimie, et plein d'autres sciences y compris sociales ou neurologique. C'est un grand tout, depuis l'antiquité, les recettes sont des formulations logiques, les ingrédient sont biologiques, leurs modifications par leurs préparations, formes, mélanges, et leurs méthodes de cuissons, sont physiques, les proportions quant à elles sont mathématiques. On sait aujourd'hui scientifiquement que notre alimentation conditionne notre santé, et que notre santé peut conditionner notre alimentation. En effet, le système humain et animal à besoin d'une entrée d'énergie constante pour contrebalancer son activité physique et neuronale. Sans cela ou avec une mauvaise alimentation, il parait logique d'avoir un système défaillant. C'est la source même de la vie. Pour autant, bien que ce soit un facteur pouvant influer sur les comportements, je pense qu'en dehors de scénario très précis, les décision peuvent, si la volonté est suffisante pour cela, transcender un pseudo-déterminisme alimentaire. La cuisine à quelque chose d'universel, tout peuple de la Terre à inventé indépendamment des autres ses propres recettes, cultures, élevages, croisement d'espèces volontaire ou non. La mondialisation est venue optimiser les agriculture et permettre des échanges de nourriture et des pratiques de cultures culinaires à l'échelle de la Terre.
+
+On sait aujourd'hui que les bactéries qui nous aident à digérer les aliments représentent une partie non négligeable de notre poids, nous vivons en symbiose avec eux à travers notre alimentation. En Informatique, et notamment en intelligence artificielle, les résultats dépendent également beaucoup des information avec lesquelles on alimente le système. Le résultat d'un algorithme, dépends des variables passées en entrée.
 
 ### Planifier et prendre son temps
 
@@ -1970,36 +1974,42 @@ Les deux vont de pair, il ne sert à rien d'être dans la précipitation, on peu
 L'uniformiusation à permi d'avoir un langage commun au même titre que la logique mathématique. Le système métrique 
 
 
-
 ### Base
 
 Les bases sont les fondations d'un système numéraire, notre base 10 permet de multiplier et diviser par 2, et 5, la base 12, par 2, 3, 4 et 6.
 
-### IO
 
-Entrées et sorties, Inputs et Outputs (IO), sont l'ensemble des paramètres et des valeurs de sorties. Avec elles seules on peut limiter les fonctionnalités possible à un certain contexte d'entrées et sorties attendues. C'est une sorte de double entonnoir, comme des portails, théoriquement bidirectionnels. On peut la mettre en relation avec la lecture et l'écriture, en C# .NET [`System.IO`](#https://learn.microsoft.com/en-us/dotnet/api/system.io?view=net-7.0) est ailleurs un namespace permettant d'accéder à des fonctions algorithmiques standard de lire et écrire des fichiers. Et par conséquent des dossiers, car oui, les dossiers sont des fichiers, contenant l'adresse mémoire de son contenu. 
+### Communication & Compréhension
+
+L'allégorie de la ligne ou celle de la caverne énoncée par Platon sont également la pour nous rappeler que la connaissance peut être hiérarchisée en fonction du contexte et niveau de compréhension.
+
+Il est intéressant d'abaisser son raisonnement en utilisant une métaphore pour expliquer simplement un concept à un initié, tout comme il est important de laisser cet initié le reformuler et corroboré pour vérifier sa compréhension, c'est ainsi que l'on valide la transmission d'une information et un apprentissage, en le testant.
+
+transparence, adéquation clarté crédibilité, réactivité
+
+En tant que président Politesse, Respect et Bienveillance seront les maîtres mots de ma philosophie d'entreprise. Veiller à bien faire et bien communiquer, bien travailler, bien apprendre et retransmettre, et essayer tout les jours, malgré les hauts et les bas, de devenir un peu meilleur que la veille.
 
 
-
-###   Informatique et Cuisine
-
-La cuisine est selon moi une science combinatoire et une philosophie à part entière regroupant les mathématiques, la biologie, la physique-chimie, et plein d'autres sciences y compris sociales ou neurologique. C'est un grand tout, depuis l'antiquité, les recettes sont des formulations logiques, les ingrédient sont biologiques, leurs modifications par leurs préparations, formes, mélanges, et leurs méthodes de cuissons, sont physiques, les proportions quant à elles sont mathématiques. On sait aujourd'hui scientifiquement que notre alimentation conditionne notre santé, et que notre santé peut conditionner notre alimentation. En effet, le système humain et animal à besoin d'une entrée d'énergie constante pour contrebalancer son activité physique et neuronale. Sans cela ou avec une mauvaise alimentation, il parait logique d'avoir un système défaillant. C'est la source même de la vie. Pour autant, bien que ce soit un facteur pouvant influer sur les comportements, je pense qu'en dehors de scénario très précis, les décision peuvent, si la volonté est suffisante pour cela, transcender un pseudo-déterminisme alimentaire. La cuisine à quelque chose d'universel, tout peuple de la Terre à inventé indépendamment des autres ses propres recettes, cultures, élevages, croisement d'espèces volontaire ou non. La mondialisation est venue optimiser les agriculture et permettre des échanges de nourriture et des pratiques de cultures culinaires à l'échelle de la Terre.
-
-On sait aujourd'hui que les bactéries qui nous aident à digérer les aliments représentent une partie non négligeable de notre poids, nous vivons en symbiose avec eux à travers notre alimentation. En Informatique, et notamment en intelligence artificielle, les résultats dépendent également beaucoup des information avec lesquelles on alimente le système. Le résultat d'un algorithme, dépends des variables passées en entrée.
 
 ### Professionnalisme
 
-On agit tous différemment dans le contexte professionnel. Effectuer un métier n'est pas compliqué, le réaliser avec des gens l'est plus. Il faut tellement de compétences managériales qu'il nous faut. Quand tu est dans le milieu professionnel, tu exerce une fonction, ou une liste de fonctions définies par le contrat de travail.
+J'aimerai appliquer la dialectique à l'entreprise, avec des visioconférences 1:1
 
-J'aimerai appliquer la dialectique à l'entreprise, avec des visioconférences 1:1 
+On agit tous différemment dans le contexte professionnel. Effectuer un métier n'est pas compliqué, le réaliser avec des gens l'est plus. Il faut tellement de compétences managériales qu'il nous faut. Quand je suis dans le milieu professionnel, j'exerce une fonction, ou une liste de fonctions définies par le contrat de travail.
 
-
-
-On ne comprend l'essence des concepts qu'en généralisant et remontant au niveau du groupe social voulu. En discrétisant les information à la granularité voulue. Tolérance face à la différance entre réalité qu'on imagine et qu'on expérimente. Dans une entreprise nous somme tous concernés par rapport à un même produit.  Norbert Ellias nous apprends que l'individu et la société ne sont pas deux choses séparés. On est tous responsable de nos actes quels qu'ils soient. 
+On ne comprend l'essence des concepts qu'en généralisant et remontant au niveau du groupe social voulu. En discrétisant les information à la granularité voulue. Tolérance face à la différence entre réalité qu'on imagine et qu'on expérimente. Dans une entreprise nous somme tous concernés par rapport à un même produit. Norbert Ellias nous apprends que l'individu et la société ne sont pas deux choses séparés. On est tous responsable de nos actes quels qu'ils soient. 
 
 De nos jours j'ai souvent entendu parler de philosophie d'entreprise. L'entreprise étant une entité morale, elle se compose d'un groupe de personnes physiques réunies pour accomplir quelque chose en commun. Ce groupe peut aussi réunir des personnes physiques et des personnes morales. Cela corresponds à une secte, qui est un terme connoté négativement mais qui, comme beaucoup de mots, est poly-sémantique, il possède plusieurs définitions, celle que l'on retient généralement n'est pas celle de la secte mais de la dérive sectaire. En effet, d'un point de vue étymologique, le mot secte provient du latin "secta", signifiant "voie que l'on suit, parti, cause, doctrine". Or quand je travaille en groupe avec d'autres personnes, je le fait de pair avec mes collègues, suivant ensemble une même voie, pendant une période définie de travail, comme tout salarié qui vends a son employeur.
 
 En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une même cause, est comme internet, la rue ou tout autre environnement dans lequel nous évoluons, c'est une indifférence, ce n'est ni bien, ni mal, cela ne dépends de ce que l'on en fait et à qu'elles fins. Nous devons tous un jour faire face au fait que nous sommes influencés et conditionnés par notre environnement et notre histoire, nos habitudes, et les groupes d'humains dans lesquels nous avons évolués. Le réel problèmes sont les dérives, notamment le fait de vénérer une autorité austère qu'on ne peut discuter, mais aussi tout les heurts qui nous sont propres. Pour le reste, la vie bats son plein et continue de parcourir le temps en faisant ce qu'elle a à faire, vivre. En réalisant EditIDE, je ne sais pas comment cet outil va être utilisé, mais je sais désormais que je veut créer des indifférences, et aller du global vers le particulier.
+
+
+
+### Astrologie
+
+Oui le mois de naissance influe sur votre vie, mais cela n'a rien à voir avec des constellations à des années lumières, mais au soleil, qui est à la base même d'une révolution de la terre autour de lui, l'année elle même. En effet les maladies sont plus présentes en hiver et peuvent affecter le bébé lors de la gestation. Croire que la position des astres dans le ciels peuvent avoir une influence sur nous est scientifiquement ridicule, surtout sachant que l'on ne sait qu'il est au centre que relativement récemment et qu'encore aujourd'hui nous ne pouvons qu'approximer les distances entre les astres.
+
+https://www.youtube.com/watch?v=AwCq4PwCnQE
 
 ### Divin
 
@@ -2007,7 +2017,33 @@ Je suis agnostique, je ne sais des Dieux s'ils sont ou pas. Je pense que l'entit
 
 
 
+### Effets des croyances
+
+Croyance en la réincarnation, DMT.
+
+Prophétie autoréalisatrice : Effet Pygmalion, golem. Méthode Coué, Menace du stéréotype.
+
+Effet hawtorne, savoir que l'on est testé augmente la motivation, lorsque qu'un étudiant sait qu'il à un teste en fin de séance sur le cours qui lui est prodigé alors il sera naturellement plus attentif.
+
+Effet Mathieu venant de la phrase de l'évangile selon Matthieu disant : "Car on donnera à celui qui a, et il sera dans l'abondance, mais à celui qui n'a pas on ôtera même ce qu'il a"
+
+De manière générale, nos attentes conditionnent nos réactions.
+
+
+
 ### Intelligence
+
+À l’heure où j’écris ça, le monde est plongé dans la mode des Intelligences Artificielles, technologie qui se base sur quelque chose de très général (réseaux de neurones et systèmes pondérés), pour accumuler des informations très spécifiques, afin de pouvoir répondre à des questions les concernant.
+
+L'intelligence du latin *intellego* signifie étymologiquement capacité à percevoir et comprendre. Ce mot est intimement lié au discernement et aux choix. Elle est selon moi la capacité d'utiliser ses connaissances et sa compréhension pour s'adapter à une situation et faire un choix ou proposer une solution à un problème. 
+
+https://fr.wiktionary.org/wiki/intelligence#:~:text=(%20XII%20e%20si%C3%A8cle)%20Emprunt%C3%A9%20au,%2C%20choisir%2C%20lire%20%C2%BB).
+
+https://fr.wikipedia.org/wiki/Intelligence
+
+ChatGPT n'est pas capable de raisonnement mais il fourni une solution mathématique probabiliste à un énoncé textuel. Il connais les mots qui le compose, sait qu'il y a tant de probabilité qu'ils y soient liés et les assemble de manière à proposer une réponse elle même textuelle.
+
+
 
 Comment aurais-je pu parler d'intelligence sans parler de l'organe biologique dont elle émane, le cerveau. La moitié des cellules constituant ce dernier sont des neurones, la partie restante sont les cellules de soutien dites gliales, électriquement silencieuses, voire isolantes comme la myéline. Les astrocytes font partie de cette deuxième catégorie et forment la frontière entre le système sanguin et le cerveau, assurant à ce dernier l'apport de nutriment provenant du sang et permettant à l'inverse d'évacuer les déchets du cerveaux dans le système sanguin. Des astrocytes humains ont été greffés sur des souris et celles-ci ont trouvé la sortie 2 fois plus vite que les souris "naturelles", elles jouent un rôle clé dans la mémoire et l'apprentissage, et donc dans l'intelligence. Il y'a donc désormais des preuves scientifiques prouvant que la biologie et la génétique influence cela, pour autant, les facteurs sont bien trop multiples, et je pense qu'il faut se concentrer sur ceux que l'on peut éthiquement contrôler, avec la certitude de bienfaits. L'intelligence est plus globale et dépendante d'un environnement donné. Comme l'aurai dit Einstein, dont le cerveau à été analysé et a permit d'avancer sur les recherches portant sur les astrocytes : "on ne doit pas juger un poisson à sa capacité à grimper à un arbre". Le test de QI n'est selon moi pas représentatif de l'intelligence d'une personne, car elle n'évalue pas la capacité d'une personne à vivre au mieux possible dans son environnement. Cette intelligence ce fait ailleurs de manière collective avec l'aide et l'accompagnement de services publics comme privés. L'intelligence est de faire les meilleures connexions entre les informations que l'on a en tête et celles qui sont perçues à un moment T de la vie de l'individu. Elle n'est donc selon moi pas fixe, parfois on fait des choses stupides, d'autre fois brillantes, mais un idiot ne peut faire exprès d'être intelligent, alors que l'inverse l'est. Vouloir être brillant tout le temps est fade et prétentieux, mais faire de son mieux est précieux. L'intelligence humaine réside dans le chaos de la pluralité de visions du monde. L'intelligence en elle même serait selon moi un tout tendant vers un fonctionnement optimal, et dont la limite inatteignable est la perfection. 
 
@@ -2023,6 +2059,9 @@ https://en.wikipedia.org/wiki/Mental_chronometry
 
 ### Consciences
 
+Je pense que l'intelligence émane du matériel de la même manière que l'information, un comportement est considéré comme intelligent lorsqu'il apporte une solution innovante, qui nous était alors inconnue. Mais pour toute personne connaissant cette dite solution, ce choix paraîtrai alors juste normal, voire idiot si on se rends compte qu'il est imparfait ou ne prends pas en compte des détails importants. 
+
+
 La conscience est le fait d'analyser et comprendre une information émanant dans notre cerveau, elle ne nécessite pas forcement la perception pour autant, certaines personnes dont la vision est totalement obscurcie et qui ne sont donc pas capable de voir peuvent pour autant avoir conscience de si une lumière est allumée devant leurs yeux, on appelle ça la vision aveugle[^1]. La conscience est donc le fait d'activer une information, de la lire et d'être capable de lire d'information comme quoi on est en train de lire.
 
 Les théories les plus récentes de la conscience disent que c'est le fait d'avoir une information disponible à un moment T pour la partager à l'ensemble des traitements du cortex cérébral. Pour autant avoir conscience d'une information ne signifie pas forcement avoir conscience de soi, ceci relève de la métacognition. 
@@ -2035,6 +2074,16 @@ Percevoir la réalité c'est rêver de la réalité, notre conscience est limit�
 [^1]: https://www.frcneurodon.org/comprendre-le-cerveau/a-la-decouverte-du-cerveau/la-conscience
 
 
+
+### Metagame
+
+Intelligence économique, politique et théorie des jeux.
+
+Choix et Theorie des jeux
+
+Jouez au jeu, suivez le pacte d’Ulysse.
+
+https://ayowel.github.io/trust/
 
 
 
@@ -2252,11 +2301,13 @@ https://c4model.com/
 
 #### Se programmer
 
+La mode n'est que passagère, il n'y a que les habitudes de vies et s'en tenir à un plan structuré et cohérent qui reste dans l'histoire. Il n'y a pas de bons ou de mauvais moments pour agir, il y a le moment et l’agissement qu'on y fait ou pas. La volonté est la seule capacité mentale capable de reprogrammer la pensée et ses habitudes. Il faut apprendre à dire non et encore plus savoir se dire non à soi-même.
+
+
+
 facilité d'utilisation, utilité, satisfaction, l'utilisation de l'application doit dépasser les attentes et promesses faites en amont
 
-5V de l'information sont volume vitesse variété véracité valeur, pour ecrire ce memoire cest surtout le volume et la bonne variete ou proportion ainsi que la veracité qui a été au coeur de mes preocupations
-
-La mode n'est que passagère, il n'y a que les habitudes de vies et s'en tenir à un plan structuré et cohérent qui reste dans l'histoire.
+5V de l'information sont volume vitesse variété véracité valeur, pour écrire ce mémoire c’est surtout le volume et la bonne variété ou proportion ainsi que la véracité qui a été au coeur de mes préoccupations
 
 Actuellement, malgré les bonnes pratiques prônées, peu sont mises en application et beaucoup de fois je me retrouve a effectuer des copier coller avec une légère modification, alors que ma philosophie est que chaque copier coller devrait être une fonction réutilisable avec pour paramètre les variables amenées a changer ou être configurable.
 
@@ -2264,31 +2315,17 @@ Actuellement, malgré les bonnes pratiques prônées, peu sont mises en applicat
 
 J'ai longtemps haï l'écriture et je ne l'ai que rarement pratiquée, mais désormais, j'apprécie savoir et pouvoir partager de manière claire et la plus explicite possible, mes idées et ce que je sais comme étant vrai.
 
+Quand j'écris ma pensée, définie par son intention est claire, j'ai du mal a comprendre les philosophes antiques qui auraient dit ne pas vouloir transmettre leurs pensés à l'écrit car elle ne peut alors plus se défendre elle même. Bien que rappelons le a cet époque l'imprimerie n"existe pas encore, rendant la tâche plus complexe et rebutante.
 
 
-En toute humilité je sais que je peut paraître orgueilleux ou insolent, désolé si certains se sentent humiliés, jen suis desole, je men excuse.
+
+En toute humilité je sais que je peut paraître orgueilleux ou insolent, désolé si certains se sentent humiliés, j’en suis désolé, je m’en excuse.
 
 Ma motivation est intrinsèque mais toute gratification supplémentaire est la bienvenue.
 
-je ne me defini que par mon systeme de pensee, non pas par mon expereience ou mes groupes sociaux 
+je ne me defini que par mon systeme de pensee, non pas par mon expérience ou mes groupes sociaux 
 
 
-
-
-
-À l’heure où j’écris ça, le monde est plongé dans la mode des Intelligences Artificielles, technologie qui se base sur quelque chose de très général (réseaux de neurones et systèmes pondérés), pour accumuler des informations très spécifiques, afin de pouvoir répondre à des questions les concernant.
-
-L'intelligence est selon moi la capacité d'utiliser ses connaissances et sa compréhension pour proposer une solution à un problème.
-
-https://fr.wiktionary.org/wiki/intelligence#:~:text=(%20XII%20e%20si%C3%A8cle)%20Emprunt%C3%A9%20au,%2C%20choisir%2C%20lire%20%C2%BB).
-
-https://fr.wikipedia.org/wiki/Intelligence
-
-ChatGPT n'est pas capable de raisonnement mais il fourni une solution mathématique probabiliste à un énoncé textuel. Il connais les mots qui le compose, sait qu'il y a tant de probabilité qu'ils y soient liés et les assemble de manière à proposer une réponse elle même textuelle.
-
-
-
-Quand j'écris ma pensée, définie par son intention est claire, j'ai du mal a comprendre les philosophes antiques qui auraient dit ne pas vouloir transmettre leurs pensés à l'écrit car elle ne peut alors plus se défendre elle même. Bien que rappelons le a cet époque l'imprimerie n"existe pas encore, rendant la tâche plus complexe et rebutante.
 
 
 
@@ -2404,18 +2441,6 @@ Lorsque je commet une erreur, j'en assume la responsabilité, mais je me justifi
 ##### Critique
 
 Selon moi la critique constructive est positive pour le maître et l'apprenant des lors quelle s'effectue avec une communication positive tout en analysant les défauts et planifiant un programme pour les corriger. 
-
-
-
-#### Metagame
-
-Intelligence économique, politique et théorie des jeux.
-
-Choix et Theorie des jeux
-
-Jouez au jeu, suivez le pacte d'Ullyse.
-
-https://ayowel.github.io/trust/
 
 
 
