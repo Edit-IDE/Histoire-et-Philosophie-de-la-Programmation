@@ -252,7 +252,7 @@ Il aurait été le premier à dire que la Terre était ronde, à découvrir les 
 
 Le théorème de Pythagore, bien qu'il porte son nom, était déjà connu du temps de la Mésopotamie, plus d'un millénaire avant lui. Il l'a malgré tout sûrement popularisé et fait entré dans les communautés scientifique de l'époque, et de celles qui suivent. Euclide en fera la plus ancienne démonstration connue, trois siècles après.
 
-Il est le premier à avoir, à travers sa philosophie et son enseignement, conçu le monde à l'aide des mathématiques, pour lui, toute chose est nombre. La quantification a en effet permis à l’humanité de comprendre et expliquer le monde qui l'entoure.
+Il est le premier à avoir, à travers sa philosophie et son enseignement, conçu le monde à l'aide des mathématiques, pour lui, toute chose est nombre. La quantification a en effet permis à l’humanité de comprendre et expliquer le monde qui l'entoure. ***L'unité de tout système est universelle, la solitude de nos esprit enfermés dans des boites crâniennes nous le rappellent chaque jour.***
 
 
 
@@ -1863,7 +1863,11 @@ Un fait est la naissance d'une information émanant du matériel à un moment do
 
 ### Habitudes
 
+
+
 ### Rapports de force et ordres de grandeur
+
+Les bases sont les fondations d'un système numéraire, notre base 10 permet de multiplier et diviser par 2, et 5, la base 12, par 2, 3, 4 et 6. Elles permettent des systèmes et des ordres de grandeurs, le système décimal commun possède les dizaines, centaines, milliers, etc... que toute personne ayant fait des mathématiques connait bien.
 
 Le rapport de force est universel et naturel, le premier est le nombre d'années qu'un individu à expérimenter la vie dans de bonnes conditions. On pourrait également le penser sous le prisme de la taille, nombre facile à se représenter proportionnellement à nos petites mètres de hauteur comparés au grattes ciels faisant jusqu'à 414 humains empilés. 
 
@@ -1974,11 +1978,6 @@ Les deux vont de pair, il ne sert à rien d'être dans la précipitation, on peu
 L'uniformiusation à permi d'avoir un langage commun au même titre que la logique mathématique. Le système métrique 
 
 
-### Base
-
-Les bases sont les fondations d'un système numéraire, notre base 10 permet de multiplier et diviser par 2, et 5, la base 12, par 2, 3, 4 et 6.
-
-
 ### Communication & Compréhension
 
 L'allégorie de la ligne ou celle de la caverne énoncée par Platon sont également la pour nous rappeler que la connaissance peut être hiérarchisée en fonction du contexte et niveau de compréhension.
@@ -2013,21 +2012,25 @@ https://www.youtube.com/watch?v=AwCq4PwCnQE
 
 ### Divin
 
-Je suis agnostique, je ne sais des Dieux s'ils sont ou pas. Je pense que l'entité qui à créé l'univers et celle qui pourrait être omnisciente ne sont pas forcement la même entité. Pour autant, je pense que le divin est omniprésent, chaque bonne action, chaque amélioration à du divin en elle. Le bien est universel, on ne doit pas faire à son prochain, ce que l'on aimerai pas qu'il nous fasse. On doit demander pardon et s'excuser pour nos erreurs. Remercier chaque personne qui nous rends biens et services. Ces morales également transmises par les textes sacrés devraient être là pour nous inspirer le bien, par pour être utilisé fanatiquement dans le but d'exposer sa vérité qu'elle qu'elle soit. Les sages antiques nous ont transmis la raison et la tempérance. Les philosophes modernes quand à eux, l'absence de jugement et le fait qu'il faille parfois limiter son savoir pour laisser une place à la croyance et comprendre la manière de penser des gens. Pour autant à cette période, dans le but de ce rapprocher de la vérité, les sciences prévalent sur la religion, et s'en est ainsi depuis le siècle des lumière. Science et religion ne sont pas incompatibles pour autant, bien au contraire. Le divin réside dans notre attribution de se qui est juste ou mauvais en fonction de notre système de croyance. Malgré mon manque manifeste de rigueur, j'aspire à consciencieusement suivre la science et sa logique qui nous rapproche le plus purement de l'information véritable, factuelle, démontrable par expérimentation. Depuis toujours, dans le but de se rapprocher du divin, l'humanité améliore continuellement les conditions de leurs descendants, et ce avec l'environnement et tout aléas qu'on ne peut encore y contrôler. Pour autant, on doit juger sur le pari pas le résultat, pour accéder à la raison et au savoir, le hasard doit être limité. Selon moi la vraie question à se poser a une information serait "Est ce que c'est scientifiquement démontrable ?" Celle a se poser vis à vis d'une croyance serait quant à elle : "What if ?" autrement dit : "Que se passerai t'il si je me mettais à croire ça ?".
+Je suis agnostique, je ne sais des Dieux s'ils sont ou pas. Je pense que l'entité qui à créé l'univers et celle qui pourrait être omnisciente ne sont pas forcement la même entité. Pour autant, je pense que le divin est omniprésent, chaque bonne action, chaque amélioration à du divin en elle. Le bien est universel, on ne doit pas faire à son prochain, ce que l'on aimerai pas qu'il nous fasse. On doit demander pardon et s'excuser pour nos erreurs. Remercier chaque personne qui nous rends biens et services. Ces morales également transmises par les textes sacrés devraient être là pour nous inspirer le bien, par pour être utilisé fanatiquement dans le but d'exposer sa vérité quelle qu'elle soit. Les sages antiques nous ont transmis la raison et la tempérance. Les philosophes modernes quand à eux, l'absence de jugement et le fait qu'il faille parfois limiter son savoir pour laisser une place à la croyance et comprendre la manière de penser des gens. Pour autant à cette période, dans le but de ce rapprocher de la vérité, les sciences prévalent sur la religion, et s'en est ainsi depuis le siècle des lumière. Science et religion ne sont pas incompatibles pour autant, bien au contraire. Le divin réside dans notre attribution de se qui est juste ou mauvais en fonction de notre système de croyance. Malgré mon manque manifeste de rigueur, j'aspire à consciencieusement suivre la science et sa logique qui nous rapproche le plus purement de l'information véritable, factuelle, démontrable par expérimentation. Depuis toujours, dans le but de se rapprocher du divin, l'humanité améliore continuellement les conditions de leurs descendants, et ce avec l'environnement et tout aléas qu'on ne peut encore y contrôler. Pour autant, on doit juger sur le pari pas le résultat, pour accéder à la raison et au savoir, le hasard doit être limité. Selon moi la vraie question à se poser a une information serait "Est ce que c'est scientifiquement démontrable ?" Celle a se poser vis à vis d'une croyance serait quant à elle : "What if ?" autrement dit : "Que se passerai t'il si je me mettais à croire ça ?".
 
 
 
 ### Effets des croyances
 
-Croyance en la réincarnation, DMT.
+Une prophétie autoréalisatrice est une croyance personnelle ou une attente d'autrui qui influence nos réactions et notre futur positivement ou négativement, ces deux effets sont appelés respectivement Pygmalion, et Golem en hommage à la mythologie grecque et juive.
 
-Prophétie autoréalisatrice : Effet Pygmalion, golem. Méthode Coué, Menace du stéréotype.
+La fameuse Méthode Coué, se base sur une répétition de l'Effet Pygmalion. Il existe également un effet Hawthorne disant que lorsqu'savoir que l'on est testé augmente la motivation, lorsque qu'un étudiant sait qu'il à un teste en fin de séance sur le cours qui lui est prodigué alors il sera naturellement plus attentif.
 
-Effet hawtorne, savoir que l'on est testé augmente la motivation, lorsque qu'un étudiant sait qu'il à un teste en fin de séance sur le cours qui lui est prodigé alors il sera naturellement plus attentif.
+loi de murphy. Menace du stéréotype.
+
+
 
 Effet Mathieu venant de la phrase de l'évangile selon Matthieu disant : "Car on donnera à celui qui a, et il sera dans l'abondance, mais à celui qui n'a pas on ôtera même ce qu'il a"
 
 De manière générale, nos attentes conditionnent nos réactions.
+
+Parmi les gens qui n'ont pas peur de la mort on retrouve ceux qui croient en la réincarnation, ou certains qui aurait consommer de la DMT, cette drogue libérée par le cerveau lors de la mort comme un dernier petit plaisir accordé par la biologie.
 
 
 
