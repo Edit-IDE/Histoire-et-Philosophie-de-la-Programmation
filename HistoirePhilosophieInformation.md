@@ -20,7 +20,7 @@ Après l'obtention de mon Baccalauréat scientifique en 2016, débarquant alors 
 
 Je n'avais alors jamais vraiment travaillé de ma vie, je ne faisait pas mes devoirs, et malgré cela obtenais toujours la moyenne tant bien que mal, voyant cette dernière chuter année après année. Je n'était évidement pas prêt à la complexité et la rigueur du C ou de Bash. Jusque là mon apprentissage de la discipline sur ma calculatrice était purement empirique, l'enseignement de la programmation nous a quant à lui été introduit sur papier, en commençant par les concepts, nous permettant d'avoir la théorie pour comprendre la pratique, j'ai donc été noyé par la quantité d'information et ne les comprenais souvent qu'après les contrôles, lors de la correction, me rendant compte de mes erreurs et réajustant ma version de ce qui était correct en fonction. J'étais tellement largué en contrôle que lorsque j'ai réalisé mon premier projet de C, comprenant alors pleinement la théorie en me l'appropriant par la pratique, réalisant 80% du projet par moi même, le professeur en question m'a mis une note bien moindre qu'au camarade ayant réalisé les 20% restants, donnant malgré tout la moyenne au dernier de notre trinôme.
 
-[Ce projet est toujours disponible sur mon GitHub](https://github.com/hedocode/StudentResidenceManager), il s'agissait d'un gestionnaire de résidence étudiante, et moi qui haïssait alors la ligne de commande toute moche et très peu conviviale ou facile à utiliser, j'étais alors le seul étudiant de la promo à avoir réalisé tout l'affichage en changeant la couleur de fond et du texte, dans le but de simuler une interface graphique, à l'instar des premiers BIOS et des interfaces console interactives que l'on peut avoir encore aujourd'hui, comme `dpkg-reconfigure` sur linux, qui est soit y en passant car j'ai eu le cas récemment, le meilleur moyen de changer la langue de son clavier pour passer de QWERTY à AZERTY de façon permanente en utilisant la ligne de commande.
+[Ce projet est toujours disponible sur mon GitHub](https://github.com/hedocode/StudentResidenceManager), il s'agissait d'un gestionnaire de résidence étudiante, et moi qui haïssait alors la ligne de commande toute moche et très peu conviviale ou facile à utiliser, j'étais alors le seul étudiant de la promo à avoir réalisé tout l'affichage en changeant la couleur de fond et du texte, dans le but de simuler une interface graphique, à l'instar des premiers BIOS et des interfaces console interactives que l'on peut avoir encore aujourd'hui, comme `dpkg-reconfigure` sur Linux, qui est soit y en passant car j'ai eu le cas récemment, le meilleur moyen de changer la langue de son clavier pour passer de QWERTY à AZERTY de façon permanente en utilisant la ligne de commande.
 
 ![](./assets/dpkg-reconfigure.png)
 
@@ -325,15 +325,13 @@ Diogène de Sinope, un des cyniques les plus connus, aurait même déclaré voul
 
 ##### Platon
 
-Né à Athènes peu après la mort de Périclès vers -**428**, Platon faisait la distinction entre le monde intelligible et sensible, il est pour cela parfois considéré comme idéaliste. Ce mouvement est caractérisé par l'axiome que toute réalité est liée à une idée, ou états d'esprit des observateurs, sans lequel le monde n'existe pas de manière autonome, n'étant qu'une représentation que l'on en fait. Plaçant la pensée au dessus, et comme plus importante que le monde matériel, à l'inverse du matérialisme qui ne sera en réalité explicité que bien plus tard, au 18 ème siècle, prônant que l'esprit et la conscience ne sont le résultat d’interactions matérielles.
+Né à Athènes peu après la mort de Périclès vers -**428**, Platon faisait la distinction entre le monde intelligible et sensible, il est pour cela parfois considéré comme idéaliste. Ce mouvement est caractérisé par le postulat que toute réalité est liée à une idée, ou états d'esprit des observateurs, sans lequel le monde n'existe pas de manière autonome, n'étant qu'une représentation que l'on en fait. Plaçant la pensée au dessus, et comme plus importante que le monde matériel, à l'inverse du matérialisme qui ne sera en réalité explicité que bien plus tard, au 18 ème siècle, prônant que l'esprit et la conscience ne sont le résultat d’interactions matérielles.
 
 Cependant Platon déclare que les deux mondes forment une dualité ontologique "de ce qui est". Dans la théorie des formes et des idées qu'il formula, il soutient que l'esprit forme des abstractions intelligibles de ce que nous percevons du réel à travers notre sensibilité, des modèles, ou archétypes, permettant d’assimiler une information, et ainsi de la reconnaître, voire la comprendre. Les idées existent donc au delà de la pensée, elles sont immuables et universelles.
 
 Il émettra pour cela l'analogie de la ligne qui définit une hiérarchie qui se veut épistémologique, c'est à dire un discours sur la science de la connaissance. Cette hiérarchie classe les pensées allant de l'intellect reconnaissant des formes ou modèles, à la pensée visualisant des hypothèses, puis quittant le monde des réalités intelligibles scientifique ; rejoints les opinions, composés des croyances et des conjectures, à l'origine de la théorie de la caverne et de ses ombres projetés, formant des images.
 
-Il fonda l’Académie, à Athènes, basée sur l'école Pythagoricienne, qui forma nombre de philosophes jusqu’à l'an -86.
-
-Vers l'an -407 il fut introduit à Socrate, avec qui il partages bien d'idées, notamment concernant la démocratie, déclarant qu'un dirigeant doit être philosophe, avoir conscience de ses actes et du monde qu'il entoure, du bien et du mal. Il fut d'ailleurs impliqué en politique avant de la fuir lorsque le gouvernement despotique des Trente tyrans commit nombre d’exécutions et actes injustes.
+Vers l'an -407 il fut introduit à Socrate, avec qui il partages bien d'idées, notamment concernant la démocratie, déclarant qu'un dirigeant doit être philosophe, avoir conscience de ses actes et du monde qu'il entoure, du bien et du mal. Il fut d'ailleurs impliqué en politique avant de la fuir lorsque le gouvernement despotique des Trente tyrans commit nombre d’exécutions et actes injustes. Il fonda l’Académie, à Athènes, basée sur l'école Pythagoricienne, qui forma nombre de philosophes jusqu’à l'an -86. 
 
 Simone Weil à dans son livre *La Source grecque* rapporté de lui qu'il affirmait et répétait ne rien avoir inventé, ne suivant qu'une tradition et s'inspirant des autres penseurs le précédent, notamment les Pythagoriciens.
 
@@ -347,7 +345,7 @@ Sa définition moderne, présente dans le Larousse, comme sur Wikipédia, vient 
 
 Ces connaissances abstraites, ce sont les nombres, ainsi que les opérations, formules et théorèmes qui nous permettent de les utiliser.
 
-Cette abstraction que sont les mathématiques, basée initialement sur des axiomes tangibles, règles que l'on admet comme vraies, s’est petit à petit détachée de toute contrainte physique, et à ainsi donner naissances à deux disciplines, les mathématiques appliquées, et les mathématiques pures. 
+Cette abstraction que sont les mathématiques, basée initialement sur des axiomes tangibles, règles que l'on admet comme vraies sans démonstration, s’est petit à petit détachée de toute contrainte physique, et à ainsi donner naissances à deux disciplines, les mathématiques appliquées, et les mathématiques pures. 
 
 **400 ans avant J.-C.**, Platon à contribué à cette distinction dans la Grèce Antique, séparant la technique de calcul ; "appropriée pour l’homme d’affaire et de guerre", qui doit quantifier et gérer ses troupes, gains et pertes ; de la théorie des nombre "nécessaire au philosophe pour surplomber la mer des changements et s’emparer de ce qui est véritable".
 
@@ -681,11 +679,13 @@ C'est la période actuelle, le début est défini par la révolution industriell
 
 
 
-#### Physiocratie & Libéralisme
+#### Genèse du libéralisme
 
-Locke, David Hume, Adam Smith,
+Au début de cette période, François Véron Duverger de Forbonnais était économiste et membre du comité des finances au début de la Révolution française. Il est à l'origine de la théorie des cycles, et a inspiré Vincent de Gournay, auteur de l'adage "Laisser-faire, laisser passer", décrivant sa volonté de ne pas influencer le marché économique par des aides de l'État dont il dénonce la bureaucratie, terme qu'il à également inventé. Cette théorie et cet adage ont eux même influencé le mouvement des Physiocrates, créé par le médecin économiste François Quesnay ainsi que le fameux philosophe économiste et marquis Victor de Mirabeau, après qu'ils se soient rencontrés à Versailles en juillet 1757. Deux ans plus tard, en 1759, Quesnay formulera son *Tableau économique*. C'est la première représentation graphique simplifiée du fonctionnement de l'économie, décrite à travers ses flux d'échanges. La Physiocratie se caractérise par l'idée que la richesse d'un pays est représentée par la somme de celle de ses habitants, et que la valeur ne naîtrai en réalité que de l'agriculture, la terre étant selon eux la seule source de richesse, en opposition avec le mercantilisme dont la rentabilité se base sur le commerce extérieur de marchandise et la collecte de l'or. Pour autant, tout deux se rejoignent sur le libéralisme économique, le fameux "laissez-faire, laisser passer", et ne sont pas opposés à la monarchie contrairement à John Locke ou Montesquieu qui ont popularisé la notion de séparation des pouvoirs. Les physiocrates sont cependant plus favorable à ce qu'ils appellent un "despotisme légal", où le souverain ne serais pas absolu ni arbitraire, mais se conformerai aux lois de la nature et de la science, en plus de proposer une réduction des impôts et des fonctionnaires avec la mise en place d'un impôt unique et un État minimal. On leur doit la vérification constitutionnelle les lois.
 
-François Véron Duverger de Forbonnais => François Quesnay & Vincent de Gournay => Anne Robert Jacques Turgot ; Etienne Bonnot de Condillac, Montesquieu.
+Plusieurs personnalités comme le duc de Choiseul ou Anne Robert Jacques Turgot ont été proches des physiocrates et ont permis la réforme de la ferme générale avec le libre échange des grains, accompagné par des réduction des dépenses de l'État et le refus d'augmenter les taxes, considérées comme des fardeaux affaiblissent l'économie à l'instar de leurs prédécesseurs comme John Locke, David Hume ou Étienne Bonnot de Condillac. Enfin, Adam Smith a abouti et compilé le travail de tout ses prédécesseurs pour  populariser les idées qu'il partageait avec eux.
+
+
 
 
 
@@ -797,15 +797,9 @@ Ces travaux ont par la suite étés démocratisés par un de ses élèves et ass
 
 
 
-#### NCR
+La Nationnal Cash Register (NCR) à été créée en **1884**
 
-La Nationnal Cash Register à été créée en **1884**
-
-
-
-#### Burroughs Corporation
-
-Créée en **1886**, devint Unisys après sa fusion en 1986 avec Sperry Univac, anciennement Remington.
+Burroughs Corporation Créée en **1886**, devint Unisys après sa fusion en 1986 avec Sperry Univac, anciennement Remington.
 
 
 
@@ -1762,7 +1756,7 @@ https://hal.science/hal-02970135/document
 
 
 
-#### Optimisations
+#### Performances et Optimisations
 
 ##### Techniques
 
@@ -2078,6 +2072,102 @@ Percevoir la réalité c'est rêver de la réalité, notre conscience est limit�
 
 
 
+### Anticipation
+
+L'imagination nous permet de se projeter dans les différents scénarios possibles, on commence a croire qu'une chose va et on se demande alors : 'Qu'est ce qui se passerai probablement si cela se produit ?"
+
+example avec la compiltion rust qui empeche les top 10 des erreurs
+
+extrm prog
+
+Planning poker, reu tech, mais pas d'analyse commune -> rework et pair programming.
+
+On m'a reprocher mon manque de rigueur, mais personne ne fait les choses correctement en amont de mon travail de technicien. Les cahiers des charges sont incomplets, le cahier des charges technique inexistant.
+
+Ce qui m'agace le plus dans la rédaction des tickets, au delà du manque d'information, c'est l'information incorrecte qui pousse à suivre le déroulement indiqué pour ne pas avoir la finalité problématique décrite. On se retrouve dans l'incapacité de reproduire le problème qui nous laisse penser qu'il n'y a potentiellement pas de problème.
+
+imaginez un casque multisensoriel visuel qui permette a laide d'onduloanalyse de voir les temperatures, les zones radioactiactives,
+
+
+
+### Temps 
+
+Tout est temps, c'est l’écoulement des choses, l'itération des actions qui s'écrivent et se succèdent.
+
+### Division du travail
+
+Maisons d'échanges, Babbage était fasciné par la division mentale du travail qui s'y opérait, comme De Prony s'étant inspiré d'Adam Smith
+
+https://fr.wikipedia.org/wiki/Division_du_travail
+
+
+
+
+
+### Développement
+
+En tant que chef d'entreprise, je me fiche du langage que tu utilise, fait le en patate ou en carotte si tu veux, mais réalise les fonctionnalités demandés, interconnecte les et fait en sorte que ça marche de manière pérenne, je me fiche du temps que ça prends, quand tu aura fini ta tâche, documentée elle sera, par n'importe qui elle pourra être reprise, et optimisée tu l'aura.
+
+
+
+Tout devrait être automatique, je suis ravi que le prélèvement à la source ai permis d'automatiser les impôts, mais ça devrait également être le cas pour les aides, les assurances, mutuelles, et tout recours aux droits qui nous sont conférés, les loi devrait être des algorithmes, le système devrait être juste et positif, pour tous, réguler les ordres de grandeurs, réduire les inégalités, être réalisé pour le bien commun et non l'avarice, l'excentricité et la démesure.
+
+
+
+### Développement personnel
+
+On invente rien en réalité, on découvre le monde, on essaye de comprendre ses règles et les utiliser chacun a notre manière avec notre perception, sensibilite et connaissances.
+
+###### Rigueur et retravail
+
+Démarche itérative avec demande de feed-back à chaque changement, besoin de ne pas renvoyer la balle mais de demander conseil sur le moment si possible pour encore plus d'agilité
+
+###### Amélioration continue
+
+Doute constant et remise en question en sont la clé.
+
+###### Do it now
+
+J'ai souvent entendu dire "ce n'est pas ce qui est demandé ni prioritaire, on fera ça plus tard", et bien évidement, la plupart du temps cela fini par n'être jamais fait. Dans les projets informatique c'est ainsi que la dette technique s'immisce, des fonctionnalités qui s’accumulent, des développements qui s’enchaînent, et pallie aux problèmes qu'avec des corrections rapides, s’attaquant aux causes plutôt qu'aux conséquences.
+
+Dès que l'on constate un problème, il faut avoir le réflexe de réaliser la tâche dans la foulée, ou de la planifier pour ne pas que l'information se perde. 
+
+
+
+###### Aide
+
+Il n'y a jamais de mal à demander de l'aide, nous vivons dans un monde où cela demande pourtant beaucoup d'effort, hors quand on est en difficulté, c'est parfois peut être l'aide qui devrait venir à nous, et pas l'inverse.
+
+Je me suis toujours efforcé de venir en aide ceux qui en avait vraiment besoin, pendant la période Covid j'ai héberger deux amis qui se sont retrouvés à la rue. C'était une période difficile mais je suis content d'avoir pu leur fournir un endroit neutre, avec le stricte nécessaire, du temps pour se reposer, et une oreille pour les écouter.
+
+J'ai même parfois aider des gens qui m'avait fait des crasses à nettoyer les leurs, et je ne regrette pas, peut être que grâce à cela ils se sont rendu compte qu'ils ont agit injustement, et que la bonté transcende les mauvais actes ; et même si ce n'est pas le cas, j'ai agis, et agirais toujours selon ma morale et ce qui me semble bien.
+
+Ce qui fait la force de l'humanité, c'est l'amitié et l'entraide, sans cela cette dernière n'aurais jamais réussi à aller aussi loin dans l'histoire. "Seul on va plus vite, ensemble, on va plus loin."
+
+
+
+##### STOP
+
+Dans le monde du travail, comme personnel, il faut savoir imposer son rythme et le justifier, tout comme savoir prendre des pauses et du recul pour analyser, afin de partir dans la bonne direction plutôt que d'avancer continuellement de manière imprécise et inefficace. Il est important de prendre soin de soi avant tout, cependant, quelqu'un qui bloque sur un problème n'avance plus et peut retarder les autre également. 
+
+On entends souvent parler de Lean Startup comme livre de référence, et il y a une notion dedans qui est rarement reprise mais que je trouve très importante, lorsqu'il y a un problème dans une chaîne de production, il est mieux de tout arrêter pour éviter qu'il n'impacte le reste. Cela permet également de trouver une solution ensemble et que tout le monde ai connaissance du problème, et ce dans un but informatif et préventif.
+
+Les confinements comme celui que l'on a eu lors de la période du Covid nous le confirme également. Il vaut parfois mieux tout mettre en pause pour éviter de foncer dans le mur et mieux repartir par la suite.
+
+
+
+##### Justification
+
+Lorsque je commet une erreur, j'en assume la responsabilité, mais je me justifie souvent. Cela me permet d'identifier les causes du problème, et ainsi de clarifier la situation pour éviter de le reproduire. Dans le livre Lean Startup il est mentionné une phrase qui m'a marquée. L'idée est que lorsqu'une erreur survient, il est de notre responsabilité d'avoir rendue la faute si facile à commettre. Autrement dit, lorsqu'une personne faillit à sa tâche, il ne faut pas remettre en question sa responsabilité ou sa compétence, mais se demander pourquoi l'environnement n'a pas permis la réussite de l'action et rendu la situation d'échec si probable qu'elle c'est produite.
+
+
+
+##### Critique
+
+Selon moi la critique constructive est positive pour le maître et l'apprenant des lors quelle s'effectue avec une communication positive tout en analysant les défauts et planifiant un programme pour les corriger. 
+
+
+
 ### Metagame
 
 Intelligence économique, politique et théorie des jeux.
@@ -2104,6 +2194,8 @@ https://ayowel.github.io/trust/
    9. Intelligence, Ambiguïtés et apprentissage : Nous sommes tous des IAs
    10. Apprentissage par l’erreur, sans elle rien ne serais possible le succès ne s’obtient qu’en résolvant des micro problèmes 
    11. On fait avec ce qu’on a, alors obligé d’accumuler, ça donne des (cf Cadriciels)
+
+
 
 
 
@@ -2144,6 +2236,20 @@ Et un réel décalage entre offre et demande, nous observons des signaux forts c
 ### Pourquoi un outil censé résoudre un problème en cause parfois des bloquants ?
 
 Les outils no-code fleurissent ses dernières années, ils permettent certes la réalisation de produits plus rapidement qu'un partant d'un cadriciel et en le codant soi même. Cependant dès que l'on désire un rendu différant de ce qui est proposé par le service, cela provoque un blocage, nécessitant l'intervention d'un développeur et de code, les services le proposant sera alors considéré comme low-code et non no-code.
+
+### Qu'elle est l'origine des bugs ?
+
+A l'exception d'une erreur matérielle venant corrompre la mémoire ou interférer avec un signal, une ne machine fait que ce que son programme lui indique, les bugs sont donc presque toujours dus à une erreur humaine. Elle vient soit du besoin initial mal compris, transmis, ou implémenté, soit d'un enchaînement d'implémentation causant des effets de bords et venant modifier des fonctionnalités existantes pouvant devenir incompatibles avec les nouvelles demandes et besoins.
+
+Les erreurs fatales viennent généralement de problème mémoire ou de langages non compilés, qui n'ont donc pas de programme obligeant l’absence d'erreur avant usage. Et en tant que développeur, je peut vous dire que si on le processus ne force pas les utilisateur d'un outil à faire les chose bien et corriger tout les potentiels problème, ils vont juste s'accumuler et former de la dette technique.
+
+### Comment l'interface permet et conditionne l'accès aux fonctionnalités ?
+
+L'interface relie un élément graphique à une fonctionnalité, toute interaction de l'utilisateur doit lui indiquer ce qu'il peut faire par la suite.
+
+Un utilisateur averti sais qu'il a sur son clavier des touches de modification comme CTRL, SHIFT, ou ALT permettant appliquer des effets, qu'il peut réaliser des sélection multiple, passer à l'élément suivant avec la touche tabulation, cocher ou découcher une case avec espace, valider avec entrée, supprimer avec la touche du même nom ou la touche retour. Je pense 
+
+##### Etude de cas UX/UI FL Studio VS Ableton
 
 
 
@@ -2224,13 +2330,19 @@ Télécharger NGINX,
 
 ##### Étape 4 : Configurer un nom de domaine (Facultative)
 
+Première possibilité, votre box possède une IP fixe ou une option pour qu'elle le soit. Si c'est 
+
 
 
 #### Lancement du site au démarrage
 
+Sur Windows il suffit de trouver le dossier Démarrage ou Startup, il est censé être situé au chemin `C://` mais la solution la plus facile pour y accéder est de faire `Windows + R` de taper `%startup%` et de valider. Vous pouvez ensuite épingler le dossier au menu d'accès rapide pour le retrouver plus facilement. Tout raccourci que vous mettez dedans sera exécuté au démarrage. Il ne manque donc plus qu'a réaliser un script avec la commande 
+
 
 
 #### Bureau à distance
+
+Je suis l'heureux détenteur d'un ordinateur portable Asus Zenbook, il est très compact mais à l'inconvénient de beaucoup chauffer. À mon arrivée à Hexagone j'ai donc décidé d'acheter un mini PC et l'utiliser à distance. Pour cela, j'ai activer le bureau à distance de Windows, cela se fait très simplement dans les paramètres. Ensuite il suffit d'activer le port 3389 comme indiqué ci-dessus. Si vous le faites il faut cependant avoir un mot de passe avec assez d'entropie, pour cela il doit être assez long et contenir assez de caractères différents, incluant des minuscules, majuscules, chiffres, et caractères spéciaux. Malgré cette disposition, des botnet peuvent tenter de réaliser de multiples tentatives de connexion ou trouver une faille de sécurité dans le protocole et interférer avec votre système. Il convient donc de ne pas ouvrir le port 3389 et d'installer un VPN pour accéder au réseau local de manière sécurisée.
 
 
 
@@ -2255,16 +2367,6 @@ Medias
 
 
 
-
-### Qu'elle est l'origine des bugs ?
-
-### Comment l'interface permet et conditionne l'accès aux fonctionnalités ?
-
-L'interface relie un élément graphique à une fonctionnalité, toute interaction de l'utilisateur doit lui indiquer ce qu'il peut faire par la suite.
-
-Un utilisateur averti sais qu'il a sur son clavier des touches de modification comme CTRL, SHIFT, ou ALT permettant appliquer des effets, qu'il peut réaliser des sélection multiple, passer à l'élément suivant avec la touche tabulation, cocher ou découcher une case avec espace, valider avec entrée, supprimer avec la touche du même nom ou la touche retour.
-
-##### Etude de cas UX/UI FL Studio VS Ableton
 
 
 
@@ -2301,6 +2403,10 @@ https://en.wikipedia.org/wiki/High_availability
 https://c4model.com/
 
 
+
+
+
+### FOUTOIR
 
 #### Se programmer
 
@@ -2339,111 +2445,7 @@ je ne me defini que par mon systeme de pensee, non pas par mon expérience ou me
 
 A la manière de Platon, je n'ai rien inventé, les idées sont immuables et universelles, elles n'appartiennent à personne.
 
-Tout est temps, c'est l’écoulement des choses, l'itération des actions qui s'écrivent et se succèdent.
 
-
-
-### Division du travail
-
-Maisons d'échanges, Babbage était fasciné par la division mentale du travail qui s'y opérait, comme De Prony s'étant inspiré d'Adam Smith
-
-https://fr.wikipedia.org/wiki/Division_du_travail
-
-
-
-### Anticipation
-
-L'imagination nous permet de se projeter dans les différents scénarios possibles, on commence a croire qu'une chose va et on se demande alors : 'Qu'est ce qui se passerai probablement si cela se produit ?"
-
-example avec la compiltion rust qui empeche les top 10 des erreurs
-
-Planning poker, reu tech, mais pas d'analyse commune -> reqwork extrm prog
-
-imaginez un casque multisensoriel visuel qui permette a laide d'onduloanalyse de voir les temperatures, les zones radioactiactives,
-
-
-
-
-
-### Développement
-
-En tant que chef d'entreprise, je me fiche du langage que tu utilise, fait le en patate ou en carotte si tu veux, mais réalise les fonctionnalités demandés, interconnecte les et fait en sorte que ça marche de manière pérenne, je me fiche du temps que ça prends, quand tu aura fini ta tâche, documentée elle sera, par n'importe qui elle pourra être reprise, et optimisée tu l'aura.
-
-
-
-Tout devrait être automatique, je suis ravi que le prélèvement à la source ai permis d'automatiser les impôts, mais ça devrait également être le cas pour les aides, les assurances, mutuelles, et tout recours aux droits qui nous sont conférés, les loi devrait être des algorithmes, le système devrait être juste et positif, pour tous, réguler les ordres de grandeurs, réduire les inégalités, être réalisé pour le bien commun et non l'avarice, l'excentricité et la démesure.
-
-
-
-#### Travail Personnel
-
-
-
-##### Developpement informatique
-
-
-
-###### Moteur de jeu
-
-Base sur Monogame, héritier de Microsoft XNA, j'ai développer toute une API qui s’avère exister aujourd'hui, je ne sais pas si elle existait a époque.
-
-Le théorème de Pythagore et la trigonométrie m'ont été très utile
-
-
-
-
-
-##### Développement personnel
-
-On invente rien en réalité, on découvre le monde, on essaye de comprendre ses règles et les utiliser chacun a notre manière avec notre perception, sensibilite et connaissances.
-
-###### Rigueur et retravail
-
-Démarche itérative avec demande de feed-back à chaque changement, besoin de ne pas renvoyer la balle mais de demander conseil sur le moment si possible pour encore plus d'agilité
-
-###### Amélioration continue
-
-Doute constant et remise en question en sont la clé.
-
-###### Do it now
-
-J'ai souvent entendu dire "ce n'est pas ce qui est demandé ni prioritaire, on fera ça plus tard", et bien évidement, la plupart du temps cela fini par n'être jamais fait. Dans les projets informatique c'est ainsi que la dette technique s'immisce, des fonctionnalités qui s’accumulent, des développements qui s’enchaînent, et pallie aux problèmes qu'avec des corrections rapides, s’attaquant aux causes plutôt qu'aux conséquences.
-
-Dès que l'on constate un problème, il faut avoir le réflexe de réaliser la tâche dans la foulée, ou de la planifier pour ne pas que l'information se perde. 
-
-
-
-###### Aide
-
-Il n'y a jamais de mal à demander de l'aide, nous vivons dans un monde où cela demande pourtant beaucoup d'effort, hors quand on est en difficulté, c'est parfois peut être l'aide qui devrait venir à nous, et pas l'inverse.
-
-Je me suis toujours efforcé de venir en aide ceux qui en avait vraiment besoin, pendant la période Covid j'ai héberger deux amis qui se sont retrouvés à la rue. C'était une période difficile mais je suis content d'avoir pu leur fournir un endroit neutre, avec le stricte nécessaire, du temps pour se reposer, et une oreille pour les écouter.
-
-J'ai même parfois aider des gens qui m'avait fait des crasses à nettoyer les leurs, et je ne regrette pas, peut être que grâce à cela ils se sont rendu compte qu'ils ont agit injustement, et que la bonté transcende les mauvais actes ; et même si ce n'est pas le cas, j'ai agis, et agirais toujours selon ma morale et ce qui me semble bien.
-
-Ce qui fait la force de l'humanité, c'est l'amitié et l'entraide, sans cela cette dernière n'aurais jamais réussi à aller aussi loin dans l'histoire. "Seul on va plus vite, ensemble, on va plus loin."
-
-
-
-##### STOP
-
-Dans le monde du travail, comme personnel, il faut savoir imposer son rythme et le justifier, tout comme savoir prendre des pauses et du recul pour analyser, afin de partir dans la bonne direction plutôt que d'avancer continuellement de manière imprécise et inefficace. Il est important de prendre soin de soi avant tout, cependant, quelqu'un qui bloque sur un problème n'avance plus et peut retarder les autre également. 
-
-On entends souvent parler de Lean Startup comme livre de référence, et il y a une notion dedans qui est rarement reprise mais que je trouve très importante, lorsqu'il y a un problème dans une chaîne de production, il est mieux de tout arrêter pour éviter qu'il n'impacte le reste. Cela permet également de trouver une solution ensemble et que tout le monde ai connaissance du problème, et ce dans un but informatif et préventif.
-
-Les confinements comme celui que l'on a eu lors de la période du Covid nous le confirme également. Il vaut parfois mieux tout mettre en pause pour éviter de foncer dans le mur et mieux repartir par la suite.
-
-
-
-##### Justification
-
-Lorsque je commet une erreur, j'en assume la responsabilité, mais je me justifie souvent. Cela me permet d'identifier les causes du problème, et ainsi de clarifier la situation pour éviter de le reproduire. Dans le livre Lean Startup il est mentionné une phrase qui m'a marquée. L'idée est que lorsqu'une erreur survient, il est de notre responsabilité d'avoir rendue la faute si facile à commettre. Autrement dit, lorsqu'une personne faillit à sa tâche, il ne faut pas remettre en question sa responsabilité ou sa compétence, mais se demander pourquoi l'environnement n'a pas permis la réussite de l'action et rendu la situation d'échec si probable qu'elle c'est produite.
-
-
-
-##### Critique
-
-Selon moi la critique constructive est positive pour le maître et l'apprenant des lors quelle s'effectue avec une communication positive tout en analysant les défauts et planifiant un programme pour les corriger. 
 
 
 
@@ -2481,25 +2483,27 @@ Aujourd'hui des entreprises utilisent du code Open Source dans leur business, ce
 
 
 
-Richard stallman annonce le projet GNU le 27 Septembre **1983**, en 1985 il fonde le FSF, la Free Software Foundation. Ou Free ne signifie par gratuit dans le sens de prix mais dans le sens de liberté. Le language C est alors grandement utilisé.
-
- Il invente également en 1989 la licence GNU General Public Licence, plus connu sous le nom de GPL.
-
-
+Richard Stallman annonce le projet GNU le 27 Septembre **1983**, en 1985 il fonde le FSF, la Free Software Foundation. Ou Free ne signifie par gratuit dans le sens de prix mais dans le sens de liberté. Le langage C est alors grandement utilisé. Il invente également en 1989 la licence GNU General Public Licence, plus connu sous le nom de GPL.
 
 En 1987 Andrew S. Tanenbaum invente Minix un système d'exploitation UNIX avec une architecture 16 bit. Inspiré par Minix, Linus à donc créer **Linux en 1991**, avec un nouveau Kernel, lineage, sous licence GPL. Leur coopération donnera GNU/Linux qui est une suite embarquée d'éditeurs comme bash, emac, la GNU C Library et le compilateur GCC, et pleins d'autres 
 
 
 
-#### Opensource
-
-
-
-#### Logiciel libre
+#### Opensource & logiciel libre
 
 Le free software 
 
 
+
+
+
+
+
+#### Philosophie
+
+https://fr.wikipedia.org/wiki/Philosophie_de_l%27information
+
+Philip Kindred Dick : "La réalité, c'est ce qui continue d'exister lorsque l'on cesse d'y croire"
 
 
 
@@ -2519,13 +2523,13 @@ C'est très difficile pour le chercheur qui fait la découverte, de savoir et de
 
 
 
-
-
 Un ludiciel doit être vivant, animé, utilisé, collaboratif.
 
 file drop upload on paths 
 
 Comment reproduire le problème ? => Cypress test
+
+
 
 Complexité du problème à résoudre
 
@@ -2534,8 +2538,6 @@ Gestion des erreurs et des bogues
 Gestion de la maintenance et des mises à jour
 
 Compatibilité et interopérabilité
-
-Performance et optimisation
 
 Sécurité
 
@@ -2546,12 +2548,6 @@ Contraintes de temps et de budget
 Collaboration et travail d'équipe : Dans de nombreux projets, plusieurs développeurs doivent collaborer et travailler ensemble sur le même code, ce qui peut entraîner des conflits de version, des problèmes d'intégration et de coordination.
 
 
-
-#### Philosophie
-
-https://fr.wikipedia.org/wiki/Philosophie_de_l%27information
-
-Philip Kindred Dick : "La réalité, c'est ce qui continue d'exister lorsque l'on cesse d'y croire"
 
 ##### One thing at a time
 
@@ -2573,7 +2569,7 @@ Python Notebook
 
 
 
-##### Accessibility
+##### Accessibilité
 
 
 
@@ -2591,13 +2587,7 @@ Il arrive que des design soient validés alors qu'ils ne sont tout bonnement pas
 
 Tout ses problèmes arrivent car rien n'est centralisé, à une heure ou la collaboration est mise en avant comme jamais. 
 
-Dans EditIDE, tout ce ferait sur le site lui même. Le design et l'intégration ne ferait désormais plus qu'un, les développeurs front ne seraient chargés que de dynamiser les design déjà intégrés avec les appels API du back qui seraient autogénérés. 
-
-
-
-#### De l'information à la vérité
-
-Pour être sur d'une information, il est nécessaire d'assister à sa démonstration ou à sa preuve et de la constater par soi même. Comme pour les bulles enveloppes. L'observation est généralement à la base de l'acquisition de l'information, comme pour l'astronomie, ensuite, on la questionne de manière ouverte et fermée. Si on veut une quantification il faut retirer les choix neutre en ne proposant que des choix pairs l'information perçue pour la mettre à l'épreuve, ensuite, on revoit la documentation existante et effectue une doxographie pour comparer nos conclusions avec le consensus.
+Dans EditIDE, tout ce ferait sur le site lui même. Le design et l'intégration ne ferait désormais plus qu'un, les développeurs front ne seraient chargés que de dynamiser les design déjà intégrés avec les appels API du back qui seraient auto-générés. 
 
 
 
@@ -2635,13 +2625,11 @@ Vue macro, vu micro, questions individuelles précises, groupe permet d'avoir le
 
 
 
-
+##### A posteriori
 
 Restaurer l'information perdue, vesuvius challenge https://scrollprize.org/
 
-
-
-On a récemment avéré que les techniques de peinture des grand maitres ont étés transmises par Leonard de Vinci qui expérimentait de nouvelles techniques de peintures comme une première couche à base de plomb nommée Plombonacrite
+On a récemment avéré que les techniques de peinture des grand maîtres ont étés transmises par Léonard de Vinci qui expérimentait de nouvelles techniques de peintures comme une première couche à base de plomb nommée Plombonacrite
 
 https://www.journaldugeek.com/2023/10/16/un-accelerateur-de-particules-revele-un-nouveau-secret-de-la-joconde/?utm_source=pocket-newtab-fr-fr
 
