@@ -681,7 +681,7 @@ C'est la période actuelle, le début est défini par la révolution industriell
 
 #### Genèse du libéralisme
 
-Au début de cette période, François Véron Duverger de Forbonnais était économiste et membre du comité des finances au début de la Révolution française. Il est à l'origine de la théorie des cycles, et a inspiré Vincent de Gournay, auteur de l'adage "Laisser-faire, laisser passer", décrivant sa volonté de ne pas influencer le marché économique par des aides de l'État dont il dénonce la bureaucratie, terme qu'il à également inventé. Cette théorie et cet adage ont eux même influencé le mouvement des Physiocrates, créé par le médecin économiste François Quesnay ainsi que le fameux philosophe économiste et marquis Victor de Mirabeau, après qu'ils se soient rencontrés à Versailles en juillet 1757. Deux ans plus tard, en 1759, Quesnay formulera son *Tableau économique*. C'est la première représentation graphique simplifiée du fonctionnement de l'économie, décrite à travers ses flux d'échanges. La Physiocratie se caractérise par l'idée que la richesse d'un pays est représentée par la somme de celle de ses habitants, et que la valeur ne naîtrai en réalité que de l'agriculture, la terre étant selon eux la seule source de richesse, en opposition avec le mercantilisme dont la rentabilité se base sur le commerce extérieur de marchandise et la collecte de l'or. Pour autant, tout deux se rejoignent sur le libéralisme économique, le fameux "laissez-faire, laisser passer", et ne sont pas opposés à la monarchie contrairement à John Locke ou Montesquieu qui ont popularisé la notion de séparation des pouvoirs. Les physiocrates sont cependant plus favorable à ce qu'ils appellent un "despotisme légal", où le souverain ne serais pas absolu ni arbitraire, mais se conformerai aux lois de la nature et de la science, en plus de proposer une réduction des impôts et des fonctionnaires avec la mise en place d'un impôt unique et un État minimal. On leur doit la vérification constitutionnelle les lois.
+Au début de cette période, François Véron Duverger de Forbonnais était économiste et membre du comité des finances au début de la Révolution française. Il est à l'origine de la théorie des cycles, et a inspiré Vincent de Gournay, auteur de l'adage "Laisser-faire, laisser passer", décrivant sa volonté de ne pas influencer le marché économique par des aides de l'État dont il dénonce la bureaucratie, terme qu'il à également inventé. Cette théorie et cet adage ont eux même influencé le mouvement des Physiocrates, créé par le médecin économiste François Quesnay ainsi que le fameux philosophe économiste et marquis Victor de Mirabeau, après qu'ils se soient rencontrés à Versailles en juillet 1757. Deux ans plus tard, en 1759, Quesnay formulera son *Tableau économique*. C'est la première représentation graphique simplifiée du fonctionnement de l'économie, décrite à travers ses flux d'échanges. La Physiocratie se caractérise par l'idée que la richesse d'un pays est représentée par la somme de celle de ses habitants, et que la valeur ne naîtrai en réalité que de l'agriculture, la terre étant selon eux la seule source de richesse, en opposition avec le mercantilisme dont la rentabilité se base sur le commerce extérieur de marchandise et la collecte de l'or. Pour autant, tout deux se rejoignent sur le libéralisme économique, le fameux "laissez-faire, laisser passer", et ne sont pas opposés à la monarchie contrairement à John Locke ou Montesquieu qui ont popularisé la notion de séparation des pouvoirs. Les physiocrates sont cependant plus favorable à ce qu'ils appellent un "despotisme légal", où le souverain ne serais pas absolu ni arbitraire, mais se conformerai aux lois de la nature et de la science, en plus de proposer une réduction des impôts et des fonctionnaires avec la mise en place d'un impôt unique et un État minimal. On leur doit également la vérification constitutionnelle les lois.
 
 Plusieurs personnalités comme le duc de Choiseul ou Anne Robert Jacques Turgot ont été proches des physiocrates et ont permis la réforme de la ferme générale avec le libre échange des grains, accompagné par des réduction des dépenses de l'État et le refus d'augmenter les taxes, considérées comme des fardeaux affaiblissent l'économie à l'instar de leurs prédécesseurs comme John Locke, David Hume ou Étienne Bonnot de Condillac. Enfin, Adam Smith a abouti et compilé le travail de tout ses prédécesseurs pour  populariser les idées qu'il partageait avec eux.
 
@@ -691,9 +691,9 @@ Plusieurs personnalités comme le duc de Choiseul ou Anne Robert Jacques Turgot 
 
 #### Philosophes contemporains
 
-Les penseurs de cette époque ont hérité des savoirs du siècle des lumière, la science fait désormais partie intégrante des réflexions de la société. Rousseau et Kant, actifs vers la fin de l'époque moderne ont eu une forte influence notamment au début de l'époque contemporaine. Ils ont notamment influencé l'idéaliste Georg Wilhelm Friedrich Hegel, né en 1770. Il reprendra également la notion de système de Vauban et Condillac et l'appliqua à son enseignement de la philosophie dans "*Phénoménologie de L'Esprit*" qui l'a rendu connu pour sa dialectique du maître et de l'esclave. Selon lui travailler pour un maître fait acquérir de plus en plus de compétences à l’esclave, et le maître à force de se faire servir perd de ses compétence, l’esclave à alors l'opportunité de devenir maître à son tour voire effectuer une inversion de contrôle. Le travail est donc un facteur d'émancipation et de libération, et un vrai maître doit continuer d'apprendre et ne pas se reposer sur ses sous-fifres, en plus de faire preuve d'une reconnaissance sincère nécessaire à la sanité de leur relation.
+Les penseurs de cette époque ont hérité des savoirs du siècle des lumière, la science fait désormais partie intégrante des réflexions de la société. Rousseau et Kant, actifs vers la fin de l'époque moderne ont eu une forte influence notamment au début de l'époque contemporaine. Ils ont notamment influencé l'idéaliste Georg Wilhelm Friedrich Hegel, né en 1770. Il reprendra également la notion de système de Vauban et Condillac et l'appliqua à son enseignement de la philosophie dans "*Phénoménologie de L'Esprit*" qui l'a rendu connu pour sa dialectique du maître et de l'esclave. Selon lui travailler pour un maître fait acquérir de plus en plus de compétences à l’esclave, et le maître à force de se faire servir, perds de ses compétence, l’esclave a alors l'opportunité de devenir maître à son tour, voire effectuer une inversion de contrôle. Le travail est donc un facteur d'émancipation et de libération, et un vrai maître doit continuer d'apprendre et ne pas se reposer sur ses sous-fifres, en plus de faire preuve d'une reconnaissance sincère nécessaire à la sanité de leur relation.
 
-L'idéalisme sera par la suite critiqué par Bernard Bolzano né en 1781, qui à l'instar de ? déclarera que les idées existent indépendamment du monde des idées propres à celui qui pense. Ce philosophe logicien a proposer son œuvre "*Théorie de la science*" pour tenter d'unifier la logique globale, pensant la chose telle un système, un tout composé de parties distinctes de ce dernier. Il a introduit le mot objet comme quelque chose qui est représenté par une idée. À l'inverse, une idée abstraite qui serait irréalisable ne possède donc pas d'objet et ainsi rien de concret. L'idée du "rien" n'a d'ailleurs par définition pas d'objet. 
+L'idéalisme sera par la suite critiqué par Bernard Bolzano né en 1781, qui à l'instar de ? déclarera que les idées existent indépendamment du monde des idées propres à celui qui pense. Ce philosophe logicien a proposé son œuvre "*Théorie de la science*" pour tenter d'unifier la logique globale, pensant la chose telle un système, un tout composé de parties distinctes de ce dernier. Il a introduit le mot objet comme quelque chose qui est représenté par une idée. À l'inverse, une idée abstraite qui serait irréalisable ne possède donc pas d'objet et ainsi rien de concret. L'idée du "rien" n'a d'ailleurs par définition pas d'objet. 
 
 > Ce concept d'objet de Bolzano me fait étrangement penser à la notion de classe abstraite en programmation objet, qui est une idée ne pouvant être instanciée en objet tant qu'elle n'est pas étendue par une autre classe non abstraite permettant elle la création d'un dit objet.
 
@@ -717,11 +717,27 @@ Le mathématicien Carl Friedrich Gauss, Né en **1777**
 
 
 
+#### Pédagogie contemporaine
+
+Le pédagogue Friedrich Fröbel, né le 21 avril 1782 est l'inventeur des jardins d'enfants. De 1808 à 1810 il fréquentera Pestalozzi et appris de lui jusqu'à rédiger son premier ouvrage notable "Bref exposé des principes d'éducation et de formation de Pestalozzi, d'après Pestalozzi lui même". Diz ans après la naissance de Frobel, c'est en 1792 que le mathématicien philosophe et homme politique Nicolas de Condorcet soumet un projet de réforme du système éducatif à l'Assemblée nationale législative, prônant l'enseignement laïc et la formation professionnelle continue mélangeant la théorie à la pratique. Un an après, en 1793, Louis-Joseph Charlier à voulu rendre l'enseignement primaire obligatoire gratuit et laïc en France. Malheureusement, lors d'un déplacement de ce dernier, l'obligation et la gratuité sont retirés du texte, ne conservant que la laïcité. Certains s'en sont inspirés, comme l'État de New York qui en 1832 instaure l'école élémentaire gratuite et obligatoire. En France il a fallu attendre presque un siècle, entre 1879 et 1882, pour que Jules Ferry alors ministre de l'instruction publique ou président du conseil des ministres, rende l'instruction obligatoire et laïque, à l'aide des lois scolaires portant son nom. La scolarisation n'était pas encore obligatoire, et encore aujourd'hui les parents peuvent assurer eux même l'instruction de leurs enfants ou les confier à un précepteur.
+
+John Dewey, né le 20 octobre 1859, a été un philosophe et pédagogue des Etats-Unis, qui sera imprégné de la théorie de l'évolution de Charles Darwin et du pragmatisme de Peirce et James. En **1899** il publira *The School and Society*[^1]. Il y déclara que l'école est à la fois socialiste et individualiste. Ce que tout le monde attends de l'école est une progression et un développement des individus qui y travaillent. À l'instar de ses prédécesseurs comme Rousseau, il insistera également sur l'importance du travail manuel, permettant aux élèves de ne pas être passifs face à une leçon ou bêtement répondre à des questions, mais de devenir actif, productif et même créatif. Il regrette également que l'enseignement mutuel soit devenu "un crime d'école", sanctionnant tout élève aidant son prochain comme s'il avait lui même triché. Par la suite il fait remarquer que dans le monde du travail, il y a rarement une ambiance studieuse et scolaire. Les gens se parlent, bougent, font preuve d'autonomie et expérimentent. Enfin il explique que des élèves qui ont en leur possession de la laine fraîche et une fleur de coton à maturité, sont pleinement capable par expérimentation de la réalité d'en extraire des déduction, et par exemple de comprendre pourquoi le coton demande plus de travail d'extraction et d'assemblage que la laine, plus facile à filer et qu'il suffit de récolter après la tonte.
+
+[^1]: https://archive.org/details/schoolsociety00deweiala/page/n8/mode/1up
+
+Francisco Ferrer est né la même année que John Dewey, il fonda l'école moderne en 1901 qu'il résumera ainsi : 
+
+> « Fonder des écoles nouvelles où seront appliqués directement des principes répondant à l'idéal que se font de la société et des hommes ceux qui réprouvent les conventions, les préjugés, les cruautés, les fourberies et les mensonges sur lesquels est basée la société moderne. [...] Notre enseignement n'accepte ni les dogmes ni les usages car ce sont là des formes qui emprisonnent la vitalité mentale (...) Nous ne répandons que des solutions qui ont été démontrées par des faits, des théories ratifiées par la raison, et des vérités confirmées par des preuves certaines. L'objet de notre enseignement est que le cerveau de l'individu doit être l'instrument de sa volonté. Nous voulons que les vérités de la science brillent de leur propre éclat et illuminent chaque intelligence, de sorte que, mises en pratique, elles puissent donner le bonheur à l'humanité, sans exclusion pour personne par privilège odieux. »
+
+Son projet aura une influence sur les école modernes des états-unis, mais il ne pu continuer le sien car il fut condamné par la monarchie de l'époque comme étant à l'origine de la semaine tragique du 26 juillet au 2 août 1909, faisant 112 morts, lors d'attaques sur des élises et couvent catholiques, l'Eglise catholique étant à ce moment un fort support de la monarchie qui l'as persécuté.
+
+Maria Montessori, naquis en Italie le 31 août **1870**. Elle a initialement étudié la médecine et une fois diplômée, elle fut assistante dans une clinique psychiatrique où elle rencontrera des enfants en retard scolaire. Elle développera ainsi un intérêt pour l'éducation et devient pédagogue. Pour approfondir ses connaissances en la matière, elle étudia les textes et méthodes éducatives dédiées aux enfants déficients tels que les travaux d'Édouard Séguin, ou de Jean Itard qui a travaillé auprès de sourds muets ainsi que sur le fameux cas de Victor, "Enfant sauvage de l'Aveyron". Elle est même partie en France pour récupérer leurs travaux et les traduire en Italien une fois rentrée. Pendant une cinquantaine d'année, elle étudiera les élèves de milieux défavorisés et développera des outils pédagogiques matériels qui rencontreront un succès grandissant au fur et à mesure que les enfants déficients obtiennent de meilleurs résultats aux examens de lecture et d'écriture. Elle validera ainsi son intuition première qui était que les enfants déficients avait plus besoin de pédagogie que de soins médicaux. Enfin elle étendra sa méthode aux enfants "normaux" et participera à la Ligue internationale pour l'éducation nouvelle, à l'instar de ses confrères comme John Dewey et Adolphe Ferrière. Ce dernier est né le 30 août **1879** et il deviendra complètement sourd à seulement 20 ans des suite d'une maladie. Il du renoncer à enseigner mais continua à travailler dans le domaine de l'éducation. En 1909 il réalise sa première publication nommée "*Projet d'école nouvelle*", puis il créera la Ligue internationale pour l'éducation nouvelle en 1921, pour laquelle il rédigera également la charte éponyme. Enfin, Célestin Freinet, né le 15 octobre **1896**, viendra regrouper les méthodes de ses prédécesseurs et ainsi influencer l'enseignement institutionnel moderne. Inspiré de John Dewey, et ayant rencontré Adolphe Ferrière, il popularisera des méthodes aussi révolutionnaires qu'eux. Parmi elles, la correspondance, permettant de communiquer avec des étudiants d'autres établissements ; ou l'imprimerie mobile permettant aux élèves d'analyser et d'écrire un texte de leur choix quelque soit leur niveau en écriture. Malgré cela, la proportion d'établissement utilisant ses techniques ne dépassera pas plus que quelques pourcents.
+
 
 
 #### Premières machines de saisie
 
-La dactylographie, est comme son étymologie grecque l'indique, écrire avec les doigts. En 1714, Henry Mill breveta la première machine à écrire mais on ne sait si elle a été construite et utilisée. Par la suite, en 1829 William Austin Burt créé The Typographer mais je n'ai trouvé que peu d'information la dessus, il faudra attendre 1837, année à laquelle un italien nommé Guiseppe Rivezza réalise le clavesin scribe. Cette machine inspirée des pianos sera la plus complète jusqu'à l'apparition de la Remington. Entre temps Jean Claude Pingeron et François Pierre Foucaut qui est un ami de Louis Braille, vont respectivement en 1780 et 1839, inventer des machines permettant aux aveugles de taper des textes raphigraphique avec leurs doigts. Permettant de faciliter le dialogue entre les non voyant et des voyants, notamment des membres de leurs familles. Les aventures de Tom Sawyer de Mark Twain, sera la première œuvre littéraire à être écrite intégralement sur machine à écrire lors de sa publication en 1872. Par la suite, l'entreprise Remington Arms créée en 1816 et qui sera renommée E.Remington and Sons, fabriquait initialement, comme son nom l'indique, des armes à feu, puis du matériel agricole et des machines à coudre. En **1874** cette entreprise créera la "type-writter" Remington, elle nous à apporter les claviers QWERTYUIOP, et la suite alphabétique présente sur beaucoup de claviers, FGHJKL.   Une vingtaine d'années plus tard, la pratique sera assez démocratisée pour que Georges Buisson alors sténographe à l'Assemblée Nationale, organise et réalise des concours de vitesse dactylographique.
+La dactylographie, est comme son étymologie grecque l'indique, écrire avec les doigts. En 1714, Henry Mill breveta la première machine à écrire mais on ne sait si elle a été construite et utilisée. Par la suite, en 1829 William Austin Burt créé The Typographer mais je n'ai trouvé que peu d'information la dessus, il faudra attendre 1837, année à laquelle un italien nommé Guiseppe Rivezza réalise le clavesin scribe. Cette machine inspirée des pianos sera la plus complète jusqu'à l'apparition de la Remington. Entre temps Jean Claude Pingeron et François Pierre Foucaut qui est un ami de Louis Braille, vont respectivement en 1780 et 1839, inventer des machines permettant aux aveugles de taper des textes raphigraphique avec leurs doigts. Permettant de faciliter le dialogue entre les non voyant et des voyants, notamment des membres de leurs familles. Les aventures de Tom Sawyer de Mark Twain, sera la première œuvre littéraire à être écrite intégralement sur machine à écrire lors de sa publication en 1872. Par la suite, l'entreprise Remington Arms créée en 1816, fabriquait initialement, comme son nom l'indique, des armes à feu, puis du matériel agricole et des machines à coudre. En **1874** cette entreprise créera la "type-writter" Remington, elle nous à apporter les claviers QWERTYUIOP, et la suite alphabétique présente sur beaucoup de claviers, FGHJKL. Une vingtaine d'années plus tard, la pratique sera assez démocratisée pour que Georges Buisson alors sténographe à l'Assemblée Nationale, organise et réalise des concours de vitesse dactylographique.
 
 
 
@@ -729,93 +745,57 @@ La dactylographie, est comme son étymologie grecque l'indique, écrire avec les
 
 Depuis **1766**, Almanach nautique est éditée chaque année, cette bible du marin est le premier projet de table permanent. Avant d'être automatisée, elle était calculée par deux personnes différentes et validée par un dernier qui comparait les résultats. Lorsque deux des auteurs principaux, les astronomes Malachy Hitchins et Nevil Maskelyne meurent respectivement en 1809 et 1811, l'ouvrage sombre pendant 20 ans, croulant sous les erreurs. 
 
-L'arithmomètre développée par Thomas de Colmar en **1820**, sera la première machine à addition commercialisée. Elle n'a cependant jamais été produite en grande quantité car elle était réalisé à la main à raison d'un ou deux exemplaires par mois. De plus, le procédé de calcul était très lent, la plupart des utilisateur ni voyait pas de gain de temps lors de petit calculs, rendant son utilisation quasiment exclusive aux assurances et ingénieurs, qui utilisent des calculs mettant en œuvre des grand nombres supérieur au million. Malgré son bas coût de 150$, la demande pour ce produit resta donc faible.
+L'Arithmomètre développée par Thomas de Colmar en **1820**, sera la première machine à addition commercialisée. Elle n'a cependant jamais été produite en grande quantité car elle était réalisé à la main à raison d'un ou deux exemplaires par mois. De plus, le procédé de calcul était très lent, la plupart des utilisateur ni voyait pas de gain de temps lors de petit calculs, rendant son utilisation quasiment exclusive aux assurances et ingénieurs, qui utilisent des calculs mettant en œuvre des grand nombres supérieur au million. Malgré son bas coût de 150$, la demande pour ce produit resta donc faible.
 
-La première personne à avoir automatiser l'édition de tables de calcul est Charles Babbage, qui a initialement travaillé avec des calculateurs humains, "computers"  en anglais. La conception de telles tables étaient fastidieuses à superviser et encore plus à calculer et réaliser. Il a œuvré à développer une machine basée sur les méthodes de calcul de l'époque, réalisées par des gens qui étaient coiffeurs, ayant perdu leur travail suite à la révolution française, période après laquelle la coiffure étant vue comme symbole de l'aristocratie, à été délaissé. Ils effectuaient essentiellement des additions et des soustraction, sous la supervision de mathématiciens qui leurs prépareraient les formules d'après la méthode des différences finies. D'où le nom de la machine qu'il a inventé en **1834**, la machine a différences. Ayant l'expérience du milieu, il voulait réaliser un système fiable, résilient a l'erreur. Cette dernière pouvait provenir du calcul, mais arrivant le plus souvent lors de l'impression, il à donc fait en sorte, dès la phase de design, que sa machine prépare directement le texte en résultant pour l'impression. C'est une approche très intéressante réduisant les intermédiaires et automatisant toute la chaine de création, que je reprendrais plus tard. La machine est à ce moment déjà un outil qui peut guider et réduire les erreurs, ce qui à l'époque était crucial, notamment en mer ou une erreur de calcul ou d'impression sur l'almanach du navigateur pouvait mener a la perte de tout un navire et de son équipage. De 1820 à 1830 il à visiter beaucoup d'usines en Europe dans le but de trouver des idée pour sa machine à différences, il n'en trouva pas beaucoup mais cela lui a permis de devenir un économiste des machines industrielles à son époque. A peine eu t'il conçu la machine à différence, qu'il eu oublier la finalité de base : réaliser des tables de calcul, et embrassa l'idée d'une machine capable de calculer tout ce qu'un humain pourrait lui demander, la Machine Analytique. De son vivant, seul le concept existait, elle ne vu le jour que grâce à son fils, qui après une tentative infructueuse en 1888, revint à la charge et réalisa en 1906 une machine fonctionnelle qu'il eu présenté devant l'académie royale anglaise d'astronomie, après quoi il en fit don au musée des sciences de Londres en 1910.
+La première personne à avoir automatiser l'édition de tables de calcul est Charles Babbage. Il a initialement travaillé avec des calculateurs humains, "computers"  en anglais, sa langue natale. La conception de telles tables étaient fastidieuses à superviser et encore plus à calculer et réaliser. Il a œuvré à développer une machine basée sur les méthodes de calcul de l'époque, réalisées par des gens qui étaient coiffeurs, ayant perdu leur travail suite à la révolution française, période après laquelle la coiffure étant vue comme symbole de l'aristocratie, a été délaissée. Ils effectuaient essentiellement des additions et des soustraction, sous la supervision de mathématiciens qui leurs prépareraient les formules d'après la méthode des différences finies. D'où le nom de la machine qu'il a inventé en **1834**, "la machine à différences". Ayant l'expérience du milieu, il voulait réaliser un système fiable, résilient a l'erreur. Cette dernière pouvait provenir du calcul, mais arrivant le plus souvent lors de l'impression, il à donc fait en sorte, dès la phase de design, que sa machine prépare directement le texte en résultant pour l'impression. C'est une approche très intéressante réduisant les intermédiaires et automatisant toute la chaine de création, que je reprendrais plus tard. La machine est à ce moment déjà un outil qui peut guider et réduire les erreurs, ce qui à l'époque était crucial, notamment en mer où une erreur de calcul ou d'impression sur l'almanach du navigateur pouvait mener à la perte de tout un navire et de son équipage. De 1820 à 1830 il a visité beaucoup d'usines en Europe dans le but de trouver des idées pour sa machine à différences, il n'en trouva pas beaucoup mais cela lui a permis de devenir un économiste des machines industrielles à son époque. À peine eu t'il conçu la machine à différence, qu'il eu oublié la finalité de base : réaliser des tables de calcul, et il embrassa alors l'idée d'une machine capable de calculer tout ce qu'un humain pourrait lui demander, la Machine Analytique. De son vivant, seul le concept existait, elle ne vu le jour que grâce à son fils, qui après une tentative infructueuse en 1888, revint à la charge et réalisa en 1906 une machine fonctionnelle qu'il eu présenté devant l'académie royale anglaise d'astronomie, après quoi il en fit don au musée des sciences de Londres en 1910.
 
-L'Arithmaurel, créé en **1842** par Timoleon Maurel, avec Arithmomètre et le cylindre de Leibneiz pour inspiration, sera une machine à calculer utilisable en renseignant simplement les valeurs (opérandes) et les opérateurs. C'est une grande avancée en termes d'expérience utilisateur, cependant sa conception à grande échelle n'as pas été possible à cause des limitations techniques de l'époques. La division quand à elle reste fastidieuse et demande à l'utilisateur d'effectuer un ensemble de soustraction avec beaucoup d'attention.
+70 ans avant apparait l'Arithmaurel, créé en **1842** par Timoleon Maurel, avec l'Arithmomètre et le cylindre de Leibneiz pour inspiration. Cette machine à calculer était utilisable en renseignant simplement les valeurs (opérandes) et les opérateurs. C'est une grande avancée en termes d'expérience utilisateur, malheureusement sa conception à grande échelle n'as pas été possible à cause des limitations techniques de l'époques. La division quand à elle restait fastidieuse car elle demande à l'utilisateur d'effectuer un ensemble de soustraction avec beaucoup d'attention. Plusieurs calculateurs analogiques très spécifiques feront également leur apparition comme des planétaires, ou la machine à prévoir la marée de Lord Kelvin créée en **1872**, qui a permis de réaliser des tables de marées de divers ports et ainsi éviter aux bateaux de s'échouer sur les rochers ou plages proche des ports la nuit. 
 
-Plusieures calculateurs spécifiques feront également leur apparition comme la machine à prévoir la marée de Lord Kelvin en **1872**.
-
-Inventé aux États-Unis par Dorr E. Felt en **1887**, le comptomètre reprend l'idée du clavier à touche de l'arithmomètre. Le principe de l'addition reste aussi simple que celui de la Pascaline. Par contre, la soustraction est différente et procède par addition du complément à 9 qui est inscrit en minuscule sur chaque touche du clavier.
-
-En **1889**, le mécanisme des calculatrices à crosse est breveté par le Français Louis Troncet, sous le nom d'Arithmographe
-
-
-
-#### Genèse de la programmation
-
-Un programme est une prévision écrite, c'est l'ordre du jour, c'est ce qui permet de répondre a la question quoi faire quand ?  Le tout premier programme informatique à été imaginé par Ada Lovelace en **1842**, à 27 ans. 10 ans auparavant, elle rencontre Charles Babbage, avec qui elle travailla, notamment sur la machine analytique, pour laquelle elle conçu ce dit programme.
-
-En **1847** George Boole, invente un algèbre binaire éponyme. Basé sur vrai et faux, 1 et 0, l'algèbre booléen formule et démocratise les tables de vérités des différentes portes et fonctions logiques.
-
-Hermann Hollerith est l'inventeur de la mécanographie, c'est un ingénieur américain qui a été recruté en tant que statisticien au Bureau de recensement des États Unis.
-
-Dans la fin du 18è siècle, en 1790, le premier recensement estimait la population des États-Unis à 3.9 millions d'individus. En 1840, 28 greffiers ont travailler à la réalisation d'une estimation de 17.1 millions. Enfin, le recensement de 1880 avec 1495 greffiers qui devait scrupuleusement pointer avec une couleur d'encre particulière pour chaque statistique effectuée. 
-
-Avec la méthode automatisée par cartes perforées d'Hermann Hollerith en **1890**, la création d'un tableau statistique à été accélérée de 10 fois par rapport à ses concurrents, remplaçant bon nombre de greffiers.
-
-Il a construit une machine à statistiques à cartes perforées qui exploite des cartes 12x6cm regroupant les 210 cases nécessaires pour recevoir toutes les informations nécessaires. Son invention à permis d'effectuer le recensement, auparavant manuel en seulement six ans. Par la suite il a améliorer le fonctionnement de cette machine en utilisant un métier à tisser Jacquard, pour mécaniser la lecture des fiches de recensement et améliorer son efficacité sur une idée de l'un de ses collègues.
-
-Enfin, il finit par quitter l'administration et fonde la Tabulating Machine Company en 1896 qui fusionnera en 1911 avec 3 autres entreprise pour fonder la Computing-Tabulating-Recording Company (CTR), qui deviendra plus tard l'International Business Machines Corporation, IBM.
+Dorr E. Felt dévoile le comptomètre en **1887** aux États-Unis, il l'as réaliser en reprenant l'idée du clavier à touche de l'arithmomètre. Le principe de l'addition reste aussi simple que celui de la Pascaline. Par contre, la soustraction est différente et procède par addition du complément à 9 qui est inscrit en minuscule sur chaque touche du clavier. Enfin, en **1889**, le mécanisme des calculatrices à crosse est breveté par le Français Louis Troncet, sous le nom d'Arithmographe. Ces machines à calculer encore primitives ont rapidement changer avec le développement de tout un champ de recherche qui nait dans l'époque contemporaine.
 
 
 
 #### Inventions éléctroniques
 
-Depuis les penseurs grecs de l'Antiquité, l'humanité à connaissance de l'électricité statique que l'on peut obtenir en frottant de l'ambre. En effet *êlektron* signifie ambre jaune en grec ancien, et le mot magnétisme viendrai de la magnésie, pierre servant d'aimant naturel depuis la nuit des temps. En 1745, juste avant l'époque contemporaine, Pieter van Musschenbroek professeur de physique dans la ville de Leyde aux Pays-Bas, découvre que l'on peut stocker des charges électriques dans deux électrodes opposées par un isolant, créant ainsi un ancêtre du condensateur nommé Bouteille de Leyde, capable de renvoyer des décharges spectaculaires qui seront utilisés pour divertir les gens dans les foires, ou des centaines de courtisans de Louis XV et lui même à Versailles. Plusieurs appareils de mesure des charges électriques verront le jour comme l'électroscope puis l'électromètre. Charles Coulomb étudiera à son tour les phénomènes électrostatiques et découvrira en 1785 la formule de l'intensité de la force électrique entre deux particules chargés, représenté par le produit des charges et la droite entre elles, plus la distance et courte plus la force sera grande. La découverte de la pile électronique de Volta en 1800 a quant à elle instantanément reçu une renommée internationale. L’intérêt pour ce domaine de recherche se développe alors à une vitesse folle. En 1820 Hans Chistian Orsted montre qu'un courant électrique peut dérégler une boussole, dont le principe est connu depuis le premier siècle et l'utilisation popularisée vers le 10 ème siècle. Onze ans plus tard, en 1831, Michael Faraday énonce une loi éponyme permettant de relier le courant électrique aux champs magnétiques, cette loi sera complétée par les travaux d'André-Marie Ampère qui proposera un théorème reliant le champ magnétique aux courants électriques, enfin en 1873 Maxwell unifie définitivement les champs électriques et magnétique dans la théorie de l'électromagnétisme. Entre temps, apparaissent des applications concrètes comme la roue de Barlow, premier moteur électrique en 1822, le premier électroaimant en 1825, l'induction en 1831, et l'année suivante, le premier alternateur nommé machine de Pixii. Ces technologies seront améliorés à force d'itérations, ouvrant nombres de possibilités comme la suppléance des machines à vapeur par des machine dynamoélectrique.
+Depuis les penseurs grecs de l'Antiquité, l'humanité à connaissance de l'électricité statique que l'on peut obtenir en frottant de l'ambre. En effet *êlektron* signifie ambre jaune en grec ancien, et le mot magnétisme viendrai de la magnésie, pierre servant d'aimant naturel depuis la nuit des temps. En 1745, juste avant l'époque contemporaine, Pieter van Musschenbroek professeur de physique dans la ville de Leyde aux Pays-Bas, découvre que l'on peut stocker des charges électriques dans deux électrodes opposées par un isolant, créant ainsi un ancêtre du condensateur nommé Bouteille de Leyde, capable de renvoyer des décharges spectaculaires qui seront utilisés pour divertir les gens dans les foires, ou des centaines de courtisans de Louis XV et lui même à Versailles. Plusieurs appareils de mesure des charges électriques verront le jour comme l'électroscope puis l'électromètre. Charles Coulomb étudiera à son tour les phénomènes électrostatiques et découvrira en 1785 la formule de l'intensité de la force électrique entre deux particules chargés, représenté par le produit des charges et la droite entre elles, plus la distance et courte plus la force sera grande. La découverte de la pile électronique de Volta en 1800 a quant à elle instantanément reçu une renommée internationale. L’intérêt pour ce domaine de recherche se développe alors à une vitesse folle. En 1820 Hans Chistian Orsted montre qu'un courant électrique peut dérégler une boussole, dont le principe est connu depuis le premier siècle et l'utilisation popularisée vers le 10 ème siècle. Onze ans plus tard, en 1831, Michael Faraday énonce une loi éponyme permettant de relier le courant électrique aux champs magnétiques, cette loi sera complétée par les travaux d'André-Marie Ampère qui proposera un théorème reliant le champ magnétique aux courants électriques, enfin en 1873 Maxwell unifie définitivement les champs électriques et magnétique dans la théorie de l'électromagnétisme.
 
-Bien après Robert Hooke, qui inventa le téléphone à ficelle en 1665, le physicien italien Antonio Meucci débarque en Amérique lors de l'année 1850 dans le but de promouvoir ses inventions dont le *Telettrofono* qu'il aurait utilisé pour parler avec sa femme immobilisée par l'arthrite. En 1871 il fonde même une entreprise et tente de protéger ses inventions bien qu'il n'ai pas assez de fond financiers pour s'offrir un réel brevet. L'homme que l'on connait comme l'inventeur du téléphone en aurait donc subtiliser l'idée lors d'une visite aux bureaux de Western Union Telegraph où Meucci aurait entreposer son Télettrophone. C'est ainsi qu'Alexander Graham Bell, professeur de diction à l'université de Boston, mari et fils de femmes sourdes, dépose à son tour un brevet[^1], quelques heures après Elisha Gray à qui l'invention du téléphone à été refusée, et qui inventa le télégraphe musical la même année, ancêtre du synthétiseur.
+Entre temps, apparaissent des applications concrètes comme la roue de Barlow, premier moteur électrique en 1822, le premier électroaimant en 1825, l'induction en 1831, et l'année suivante, le premier alternateur nommé machine de Pixii. Ces technologies seront améliorés à force d'itérations, ouvrant nombres de possibilités comme la suppléance des machines à vapeur par des machine dynamoélectrique.
+
+Bien après, Robert Hooke, qui inventa le téléphone à ficelle en 1665 ; le physicien italien Antonio Meucci débarque en Amérique lors de l'année 1850 dans le but de promouvoir ses inventions, dont le *Telettrofono* qu'il aurait utilisé pour parler avec sa femme immobilisée par l'arthrite. En 1871 il fonde même une entreprise et tente de protéger ses inventions bien qu'il n'ai pas assez de fond financiers pour s'offrir un réel brevet. L'homme que l'on connait comme l'inventeur du téléphone en aurait donc subtilisé l'idée lors d'une visite aux bureaux de Western Union Telegraph où Meucci aurait entreposé son Télettrophone. C'est ainsi qu'Alexander Graham Bell, professeur de diction à l'université de Boston, mari et fils de femmes sourdes, dépose à son tour un brevet[^1], quelques heures après Elisha Gray à qui l'invention du téléphone à été refusée, et qui inventa le télégraphe musical la même année, ancêtre du synthétiseur.
 
 [ ^1]: https://patents.google.com/patent/US174465A/en?inventor=Alexander+Graham+Bell&sort=old - https://patents.google.com/patent/US178399A/en?inventor=Alexander+Graham+Bell&sort=old
 
-De la même manière, Edison récupère en **1879** le brevet pour la lampe à filament, qu'il n'a pas inventé mais démocratisée et améliorée, devenant le pionnier dans les lampes électriques. Il était donc essentiellement un homme d'affaire, considéré comme l'inventeur le plus prolifique, il est également à l'origine des premiers bureaux de recherches industriels, ainsi que les films vidéos. Nikola Tesla a travaillé avec lui, il finit pourtant par finir son aventure en indépendant. Il a inventé le moteur asynchrone et l'alimentation polyphasée[^1], et ainsi travaillé sur le réseau de distribution d’électricité basé sur cette même technologie alternative. Après quoi il c'est fortement intéresse à la très haute fréquence et à la technologie sans fil, espérant un jour pouvoir transmettre de l'électricité à travers l'atlantique. Il s'est brièvement intéressé aux rayons X, faisant de lui un des pionniers de l'imagerie radio, peut être même le premier. Après avoir appris que Wilhelm Röntgen avait découvert les rayons X quelques mois après lui, et que les dangers de ce type de rayonnements se fasse sentir chez lui et son assistant, il décide alors de s'orienter dans les automates radio-contrôlés, qui feront de lui le premier concepteur de robot télécommandé.
+De la même manière, Edison récupère en **1879** le brevet pour la lampe à filament, qu'il n'a pas inventé mais démocratisé et amélioré, devenant malgré ceci le pionnier dans les lampes électriques. Il était donc essentiellement un homme d'affaire, considéré comme l'inventeur le plus prolifique, il est également à l'origine des premiers bureaux de recherches industriels, ainsi que des films vidéos. Nikola Tesla a travaillé avec lui, il finit pourtant par finir son aventure en indépendant. Il a inventé le moteur asynchrone et l'alimentation polyphasée[^1], et ainsi travaillé sur le réseau de distribution d’électricité basé sur cette même technologie alternative. Après quoi il s'est fortement intéressé à la très haute fréquence et à la technologie sans fil, espérant un jour pouvoir transmettre de l'électricité à travers l'océan atlantique. Il s'est brièvement intéressé aux rayons X, faisant de lui un des pionniers de l'imagerie radio, peut être même le premier. Mais après avoir appris que Wilhelm Röntgen avait découvert les rayons X quelques mois après lui, et que les dangers de ce type de rayonnements se fasse sentir chez lui et son assistant, il décide alors de s'orienter dans les automates radio-contrôlés, qui feront de lui le premier concepteur de robot télécommandé.
 
 Pour en revenir à l'électricité, Lucien Gaulard viendra par la suite améliorer les travaux de Tesla sur l'alimentation polyphasée en inventant le transformateur, permettant d'augmenter la tension d'un alternateur pour faciliter le transport de l'énergie dans des lignes à hautes tensions.
 
 [^1]: https://patents.google.com/patent/US359748
 
-Albert Einstein Né en **1879** il mettra en place la relativité générale et tentera d'unifier les interactions gravitationnelles et éléctromagnétiques, ce qui aurait pu initier une théorie du tout factorisant et simplifiant les formules et calculs physiques et permettant de concevoir plus simplement le monde.
+Albert Einstein naquis en **1879**, il mettra en place la relativité générale et tentera d'unifier les interactions gravitationnelles et électromagnétiques, ce qui aurait pu initier une théorie du tout factorisant et simplifiant les formules et calculs physiques en plus de permettre de concevoir plus simplement le monde.
 
-Louis Lumière invente les plaques photographiques sèches instantanées prêtes à l'emploi aussi appellées Étiquettes bleues en 1881. Georges Eastman Kodak a inventera le premier appareil photo en 1884. S'en suivra En 1895, Georges Demenÿ invente une caméra de prise de vues animées nommée biographe. Le Kinétographe d'Edison en 1890, et en 1895 Cinématographe des frères lumières avec l'aide de Jules Carpentier.
+Louis Lumière invente les plaques photographiques sèches instantanées prêtes à l'emploi aussi appelées *Étiquettes bleues* en 1881. Trois ans après, Georges Eastman Kodak inventa le premier appareil photo en 1884. S'en suivra, Georges Demenÿ qui en 1895 invente une caméra de prise de vues animées nommée biographe, puis viendra le Kinétographe d'Edison en 1890, et enfin, en 1895, le Cinématographe des frères lumières avec l'aide de Jules Carpentier.
 
 https://www.victorian-cinema.net/machines
 
-En **1893**, André Blondel, ingénieur français polytechnique invente l'oscillographe bifilaire, une machine électromécanique permettant d'étudier des courants alternatifs à l'aide de graphiques, et maintenant plus largement toute évolution d'un signal électronique dans le temps.
+En **1893**, André Blondel, ingénieur français polytechnique invente l'oscillographe bifilaire, une machine électromécanique permettant d'étudier des courants alternatifs à l'aide de graphiques, et maintenant plus largement toute évolution d'un signal électronique dans le temps. Il inventera de nombreux autres dispositifs de mesures électriques comme un hystérésimètre et un wattmètre, il est également à l'origine avec l'aide de deux autres ingénieurs du barrage de Génissiat. Par la suite, l'outil se perfectionnera avec l'ajout d'un écran cathodique, puis sa numérisation par LeCroy, Phillips et Tektronix.
 
-Il inventera de nombreux autres dispositifs de mesures électriques comme un hystérésimètre et un wattmètre, il est également à l'origine avec l'aide de deux autres ingénieurs du barrage de Génissiat. Par la suite, l'outil se perfectionnera avec l'ajout d'un écran cathodique, puis sa numérisation par LeCroy, Phillips et Tektronix
+Au début du 20ème siècle, c'est en **1904** que John Ambrose Fleming, à ne pas confondre avec les biologistes Walther Flemming et Alexander Fleming qui ont respectivement découverts la mitose et la pénicilline à la même période, se base sur des travaux de Thomas Edison datant de 1883 et de Frederick Guthrie en 1873, pour appliquer leurs technologie dans le but de remplacer les détecteurs magnétique des radio et permettre d'amplifier leurs signaux. Il invente ainsi le *kenotron*, premier tube a vide, ancêtre des diodes et semi-conducteurs.
 
-En **1904** John Ambrose Fleming, se base sur des travaux de Thomas Edison de 1883 et de Frederick Guthrie en 1873, mais c'est lui qui à appliqué cette technologie pour remplacer les détecteurs magnétique des radio et permettre d'amplifier leurs signaux.
+Le principe du semiconducteur à été découvert en 1874 par Karl Ferdinand Braun, qui s'est rendu compte que l'on pouvait faire passer un courant électrique dans une direction donnée à l'aide d'un fin fil de métal et d'un crystal de galène, inventant ainsi la diode. Cette découverte a été réutilisée dans les tubes à vides de Fleming, permettant d'avoir des bascules allumée / éteinte avec un signal directionnel. Par la suite Lee De Forest inventera l'Audion en **1906** avec l'ajout d'une électrode intermédiaire ç une diode, permettant de convertir une variation de courant en variation de tension et de puissance, permettant ainsi l'amplification d'un signal. William Eccles renommera cette invention triode en 1919. Tout deux ont contribuer pour beaucoup dans le développement des circuits électroniques et de la transmission sans fil avec la naissance de la radio.
 
-Le principe du semiconducteur à été découvert par Karl Ferdinand Braun en 1874 qui s'est rendu compte que l'on pouvait faire passer un courant électrique dans une direction donnée, à l'aide d'un fin fil de métal et d'un crystal de galène, inventant ainsi la diode. Cette découverte sera réutilisée plus tard dans les tubes à vides, permettant d'avoir des bascules allumée / éteinte avec un signal directionnel. Par la suite Lee De Forest inventera l'Audion en **1906** avec l'ajout d'une électrode intermédiaire ç une diode, permettant de convertir une variation de courant en variation de tension et de puissance, permettant ainsi l'amplification d'un signal. William Eccles renommera cette invention triode en 1919. Tout deux ont contribuer pour beaucoup dans le développement des circuits électroniques et de la transmission sans fil avec la naissance de la radio.
-
-Boris Rosing est un scientifique russe d'origines néerlandaises ayant inventer les tubes cathodiques en **1907**, avec l'aide des travaux de Ferdinand Braun. Il à par la suite déposer des brevets et démontrer le principe de fonctionnement en détail à l'aide de schémas expliquant l'hystérésis magnétique.
-
-Les tubes cathodiques ont longtemps fait partis de nos écrans de télévisions qui affichaient une image à l'aide d'une cellule photoélectrique, dont le faisceau était dévié augmentant ou diminuant le nombre d'électrons qui passait et faisant ainsi varier la luminosité du faisceau avant qu'il atteigne l'écran projetant une image en noir et blanc.
-
-Ces travaux ont par la suite étés démocratisés par un de ses élèves et assistant de travail nommé Vladimir Zvorykine, qui à inventer l'iconoscope permettant de capter les images qui seront retransmises sur ces écrans et qui devint rapidement pionnier de la télévision aux États-Unis et en Allemagne, bien que rapidement concurrencé par Philo Farnsworth qui fut le premier à réaliser une chaîne de télévision avec émission-réception.
+Entre 1869 et 1875, William Crooke découvre les rayons cathodique lors de la réalisations de lampes thermoïoniques, ou tubes à décharge électrique portant son nom. Une vingtaine d'année plus tard, c'est Ferdinand Braun qui en 1897 développa également un tube cathodique éponymes. Enfin, Boris Rosing, un scientifique russe d'origines néerlandaises, a utilisé des tubes cathodiques de Braun, le système de disques de l'ingénieur Paul Nipkov et des cellules photoélectriques, réalisant ainsi les fondations d'un système de télévision mécanique lors de l'année **1907**. Après quoi il s'est empressé de déposer des brevets et démontrer le principe de fonctionnement en détail à l'aide de schémas expliquant l'hystérésis magnétique. Ces travaux ont par la suite étés démocratisés par un de ses élèves et assistant de travail nommé Vladimir Zvorykine, qui à inventer l'iconoscope permettant de capter les images qui seront retransmises sur ces écrans et qui devint rapidement pionnier de la télévision aux États-Unis et en Allemagne, bien que rapidement concurrencé par Philo Farnsworth qui fut le premier à réaliser une chaîne de télévision avec émission-réception. Les tubes cathodiques ont longtemps fait partis de nos écrans de télévisions qui affichaient une image à l'aide d'une cellule photoélectrique, dont le faisceau était dévié, augmentant ou diminuant le nombre d'électrons qui passait, faisant ainsi varier la luminosité du faisceau avant qu'il atteigne l'écran, projetant ainsi une image en nuances de gris.
 
 
 
-La Nationnal Cash Register (NCR) à été créée en **1884**
+#### Genèse de la programmation
 
-Burroughs Corporation Créée en **1886**, devint Unisys après sa fusion en 1986 avec Sperry Univac, anciennement Remington.
+Un programme est une prévision écrite, c'est ce qui permet de répondre a la question quoi faire quand ?  Le tout premier programme informatique à été imaginé par Ada Lovelace en **1842**, à 27 ans. 10 ans auparavant, elle rencontre Charles Babbage, avec qui elle travailla, notamment sur la machine analytique, pour laquelle elle conçu ce dit programme.
+
+En **1847** George Boole, invente un algèbre binaire éponyme. Basé sur vrai et faux, 1 et 0, l'algèbre booléen formule et démocratise les tables de vérités des différentes portes et fonctions logiques.
+
+Hermann Hollerith est l'inventeur de la mécanographie, c'est un ingénieur américain qui a été recruté en tant que statisticien au Bureau de recensement des États Unis. Dans la fin du 18è siècle, en 1790, le premier recensement estimait la population des États-Unis à 3.9 millions d'individus. En 1840, 28 greffiers ont travaillés à la réalisation d'une estimation de 17.1 millions. Enfin, le recensement de 1880 a nécessité 1495 greffiers qui devait scrupuleusement pointer avec une couleur d'encre particulière pour chaque statistique effectuée. Avec la méthode automatisée par cartes perforées d'Hermann Hollerith dévoilée l'an **1890**, la création d'un tableau statistique à été accélérée de 10 fois par rapport à ses concurrents, remplaçant bon nombre de greffiers. Il a construit une machine à statistiques à cartes perforées qui exploite des cartes 12x6cm regroupant les 210 cases nécessaires pour recevoir toutes les informations nécessaires. Son invention a permis d'effectuer le recensement auparavant manuel en seulement six ans. Par la suite,  sur une idée de l'un de ses collègues, il a amélioré le fonctionnement de cette machine en utilisant un métier à tisser Jacquard pour mécaniser la lecture des fiches de recensement et améliorer son efficacité. Enfin, il finit par quitter l'administration et fonde la Tabulating Machine Company en 1896 qui fusionnera en 1911 avec 3 autres entreprise pour fonder la Computing-Tabulating-Recording Company (CTR), qui deviendra plus tard l'International Business Machines Corporation, IBM. 
 
 
-
-#### Pédagogie contemporaine
-
-Le pédagogue Friedrich Fröbel, né le 21 avril 1782 est l'inventeur des jardins d'enfants. De 1808 à 1810 il fréquentera Pestalozzi et appris de lui jusqu'à rédiger son premier ouvrage notable "Bref exposé des principes d'éducation et de formation de Pestalozzi, d'après Pestalozzi lui même".
-
-Dès 1792, le mathématicien philosophe et homme politique Nicolas de Condorcet soumet un projet de réforme du système éducatif à l'Assemblée nationale législative, prônant l'enseignement laïc et la formation professionnelle continue mélangeant la théorie à la pratique. En 1793 Louis-Joseph Charlier à voulu rendre l'enseignement primaire obligatoire gratuit et laïc en France. Malheureusement, lors d'un déplacement de ce dernier, l'obligation et la gratuité sont retirés du texte, ne conservant que la laïcité. Certains s'en sont inspirés comme, l'État de New York qui en 1832 instaure l'école élémentaire gratuite et obligatoire. En France il a fallu attendre presque un siècle, entre 1879 et 1882, pour que Jules Ferry alors soit ministre de l'instruction publique ou président du conseil des ministres, rende l'instruction obligatoire et laïque à l'aide des lois scolaires portant son nom. La scolarisation n'était pas encore obligatoire, et encore aujourd'hui les parents peuvent assurer eux même l'instruction de leurs enfants ou les confier à un précepteur.
-
-John Dewey, né le 20 octobre 1859, a été un philosophe et pédagogue des Etats-Unis, qui sera imprégné de la théorie de l'évolution de Charles Darwin et du pragmatisme de Peirce et James. En **1899** il publira *The School and Society*[^1]. Il y déclara que l'école est à la fois socialiste et individualiste. Ce que tout le monde attends de l'école est une progression et un développement des individus qui y travaillent. À l'instar de ses prédécesseurs comme Rousseau, il insistera également sur l'importance du travail manuel, permettant aux élèves de ne pas être passifs face à une leçon ou bêtement répondre à des questions, mais de devenir actif, productif et même créatif. Il regrette également que l'enseignement mutuel soit devenu "un crime d'école", sanctionnant tout élève aidant son prochain comme s'il avait lui même triché. Par la suite il fait remarquer que dans le monde du travail, il y a rarement une ambiance studieuse et scolaire. Les gens se parlent, bougent, font preuve d'autonomie et expérimentent. Enfin il explique que des élèves qui ont en leur possession de la laine fraîche et une fleur de coton à maturité, sont pleinement capable par expérimentation de la réalité d'en extraire des déduction, et par exemple de comprendre pourquoi le coton demande plus de travail d'extraction et d'assemblage que la laine, plus facile à filer et qu'il suffit de récolter après la tonte.
-
-[^1]: https://archive.org/details/schoolsociety00deweiala/page/n8/mode/1up
-
-Francisco Ferrer est né la même année que John Dewey, il fonda l'école moderne en 1901 qu'il résumera ainsi : *« Fonder des écoles nouvelles où seront appliqués directement des principes répondant à l'idéal que se font de la société et des hommes ceux qui réprouvent les conventions, les préjugés, les cruautés, les fourberies et les mensonges sur lesquels est basée la société moderne. [...] Notre enseignement n'accepte ni les dogmes ni les usages car ce sont là des formes qui emprisonnent la vitalité mentale (...) Nous ne répandons que des solutions qui ont été démontrées par des faits, des théories ratifiées par la raison, et des vérités confirmées par des preuves certaines. L'objet de notre enseignement est que le cerveau de l'individu doit être l'instrument de sa volonté. Nous voulons que les vérités de la science brillent de leur propre éclat et illuminent chaque intelligence, de sorte que, mises en pratique, elles puissent donner le bonheur à l'humanité, sans exclusion pour personne par privilège odieux. »* Son projet aura une influence sur les école modernes des états-unis, mais il ne pu continuer le sien car il fut condamné par la monarchie de l'époque comme étant à l'origine de la semaine tragique du 26 juillet au 2 août 1909, faisant 112 morts, lors d'attaques sur des élises et couvent catholiques, l'Eglise catholique étant à ce moment un fort support de la monarchie.
-
-Maria Montessori, née en Italie le 31 août **1870**, a initialement étudié la médecine. Une fois diplômée, elle a été assistante dans une clinique psychiatrique où elle rencontrera des enfants en retard scolaire. Elle développera ainsi un intérêt pour l'éducation et devient pédagogue. Pour approfondir ses connaissances en la matière, elle étudia les textes et méthodes éducatives dédiées aux enfants déficients tels que les travaux d'Édouard Séguin ou Jean Itard qui a travaillé auprès de sourds muets ainsi que sur le fameux cas de Victor, "Enfant sauvage de l'Aveyron". Elle est même partie en France pour récupérer leurs travaux et les traduire en Italien une fois rentrée. Pendant une cinquantaine d'année, elle étudiera les élèves de milieux défavorisés et développera des outils pédagogiques matériels qui rencontreront un succès grandissant au fur et à mesure que les enfants déficients obtiennent de meilleurs résultats aux examens de lecture et d'écriture. Elle validera ainsi son intuition première qui était que les enfants déficients avait plus besoin de pédagogie que de soins médicaux. Enfin elle étendra sa méthode aux enfants "normaux" et participera à la Ligue internationale pour l'éducation nouvelle, à l'instar de ses confrères comme John Dewey et Adolphe Ferrière. Ce dernier est né le 30 août **1879** et il deviendra complètement sourd à seulement 20 ans des suite d'une maladie. Il du renoncer à enseigner mais continua à travailler dans le domaine de l'éducation. En 1909 il réalise sa première publication nommée "*Projet d'école nouvelle*", puis il créera la Ligue internationale pour l'éducation nouvelle en 1921 pour laquelle il rédigera également la charte. Célestin Freinet, né le 15 octobre **1896**, viendra regrouper les méthodes de ses prédécesseurs et ainsi influencer l'enseignement institutionnel moderne. Inspiré de John Dewey, et ayant rencontré Adolphe Ferrière, il popularisera des méthodes aussi révolutionnaires qu'eux. Parmi elles, la correspondance, permettant de communiquer avec des étudiants d'autres établissements ; ou l'imprimerie mobile permettant aux élèves d'analyser et d'écrire un texte de leur choix quelque soit leur niveau en écriture. Malgré cela, la proportion d'établissement utilisant ses techniques ne dépassera pas plus que quelques pourcents.
 
 
 
@@ -823,49 +803,41 @@ Maria Montessori, née en Italie le 31 août **1870**, a initialement étudié l
 
 ### Après la première guerre mondiale
 
-
-
 En 9 décembre **1905**, l'abrogation du régime concordataire de 1802 sépare l'État et l'Église, mettant fin à l'affrontement violent qui a opposé deux conceptions de la place des Églises dans la société française pendant environ vingt-cinq ans.
 
-
-
-C'est la première guerre à impliquer simultanément tout les pays, les machines de bureau deviennent électromécaniques, l'humain peut désormais rapidement transmettre des messages sur de longues distances à ses congénères à l'aide des télégraphes
-
-
-
-#### Tabulatrices
-
-Première tabulatrice avec impression en **1920** par Hollerith
+C'est la première guerre à impliquer simultanément tout les pays, les machines de bureau deviennent électromécaniques, l'humain peut désormais rapidement transmettre des messages sur de longues distances à ses congénères à l'aide des télégraphes. L'informatique naissante cherchera à vendre des machine mécanographiques dans le monde entier, elles serviront les gouvernement les plus puissant et également les pires de l'époque,  Thomas Watson, après avoir travaillé à la récente et bien portante Nationnal Cash Register company (NCR), est embauché en 1914 pour diriger la regroupement d'entreprise de la CTR. 
 
 
 
-#### Moore School
+#### Tabulatrices & Téléscripteur
 
-**1923**
+Dans un atelier de mécanographie, de multiples stations d'outils étaient présentes, parmi ces outils, les perforatrices chargées de créer et vérifier les données en perforant des cartes, les trieuses responsables de créer les différents lots de cartes, les interclasseurs capables de réunir deux lots de cartes avec des informations différentes en une seule grâce à une colonne de donnée commune aux deux, et les reproductrices permettant de copier des cartes perforées en une seule perforation. Jusque là, ces premier outils mécanographique étaient appelés machines à statistiques. Les opérateurs devaient à chaque fois reprogrammer la tabulatrice à l'aide du tableau de connexion représentant le programme à l'aide de câbles permettant d'envoyer les données d'entrés dans les différents modules de calcul, puis de l'exécuter et enfin récupérer le résultat affiché sur des roues totalisatrices gravées pour enfin le recopier à la main et produire de nouveaux programmes en cartes perforés à partir de ces résultats. En 1920, Hollerith présente la première machine avec module d'impression et tableaux de connexion amovibles interchangeable permettant de rapidement changer le programme d'une machine, qui sera désormais appelée tabulatrice.
 
-
-
-#### Téléscripteur
-
-1925
+Le téléscripteur à été inventé en 1925
 
 
 
-#### John Forbes Nash
+#### Théorie des jeux
 
-Né en **1928**, théorie des jeux.
+La théorie des jeux, comme son nom l'indique, étudie les jeux et plus notamment le comportement des joueurs et leurs décisions. Elle se base sur l'hypothèse qu'ils effectuent toujours un choix rationnel en fonction des connaissances à leur disposition, et ce dans le but de maximiser leurs gains et à minimiser leurs pertes.
+
+Ernst Zermelo, un assistant de Max Planck, a jeté les bases de la formalisation mathématique des jeux à somme nulle avec un article "*Sur une application de la théorie des ensembles à la théorie du jeu d'échecs*" publié en 1913. Emile Borel pionnier de la théorie des mesure, des probabilités, et des jeux, publiera un article sur ce dernier domaine dans les *Comptes rendus hebdomadaires des séances de l'Académie des sciences* du 1er juillet 1921[^1]. Puis en 1940 il publia également un guide de "*Théorie mathématique du bridge à la portée de tous*" coécrit avec l'aide d'André Chéron.
+
+[^1]: https://gallica.bnf.fr/ark:/12148/bpt6k31267.image.r=Comptes+rendus+hebdomadaires+des+s%C3%A9ances+de+l.f1304.pagination.langFR
+
+Ces théories seront également appliqués au jeux économiques, Antoine Augustin Cournot fut pionnier en 1838 dans ses "*Recherches sur les principes mathématiques de la théorie des richesses*" dans lesquelles il analysa un duopole et vint a être l'un des premier à déclarer qu'il existe un équilibre entre l'offre et la demande. Il faudra attendre 1944 pour qu'Oskar Morgenstern et John von Neumann formalisent ce domaine de recherche dans leur ouvrage "*Théorie des jeux et du comportement économique*". Enfin, John Forbes Nash, aboutira les travaux de Cournot et inventera lui aussi un équilibre a son nom, le fameux équilibre de Nash.
 
 
 
-#### Bande magnétique cassettes audio 
+#### Bande magnétique audio 
 
-**1930**
+Lors de l'Exposition universelle de Paris qui a eu lieu en 1900, Valdemar Poulsen présente son invention d'un système d'enregistrement magnétique sur fil nommé télégraphone. Inspiré par ces travaux Fritz Pfleumer invente la bande magnétique en 1928 dans le but d'enregistrer du son comme ça sera le cas la même année avec le magnétophone de Karl Stille lui même inspiré du télégraphone. Quelques années après sera perfectionné la bande magnétique en acier, et une dizaine années plus tard, vers 1940, naitra la première bande magnétique en [matière plastique](https://fr.wikipedia.org/wiki/Matière_plastique).
 
 
 
 #### IBM 601 
 
-**1931**
+Ce calculateur électromécanique sorti en **1931** est la première machine d'IBM capable de multiplier deux nombre provenant de cartes en entrée et de perforer la valeur en résultant. Elle est d'ailleurs surnommée ma Multiplying Punch
 
 
 
@@ -875,9 +847,17 @@ En **1932**, l'ingénieur Gustav Tauschek, invente une nouvelle méthode de mém
 
 
 
-#### RADAR
+#### Détections par ondes
 
-**1934**
+Le radar est un outil de détection et estimation de la distance utilisant les ondes radio (RAdio Detection And Ranging). Sa création découle des travaux de James Clerk Maxwell et Heinrich Rudolf Hertz utilisés par Albert Hull, l'inventeur du magnétron, machine capable de convertir l'énergie cinétique des électrons en ondes électromagnétiques à l'aide de tubes à vide. En **1934**, la Compagnie générale de télégraphie Sans Fil française (CSF) étudie le magnétron et développe les premiers radars décimétriques[^1].
+
+[^1]: https://web.archive.org/web/20090116093441/http://www.radar-france.fr/brevet%20radar1934.htm
+
+Dans le début des années 1900 le sonar à déjà été bien étudié et mis en application, et pour cause, il utilise le son audible par l'oreille humaine, comme onde permettant le calcul de distances. Rudolf Kühnhold était spécialiste du domaine mais décida en 1931 de se consacrer aux ondes électromagnétiques, la même année que le dépôt de brevet de la CSF il abouti simultanément à cette dernière, la création d'un système de télémètre radio.
+
+C'est année suivante, en 1935 que Robert Watson-Watt, que l'on retiendra comme l'inventeur officiel du radar, dépose un brevet [^1] avec des indications pour l'améliorer. Prouvant efficacité de son système en détectant des avions a 27km puis l'améliorant jusqu'à 100km, il met fin aux développement concurrents comme le sonar, et commence la mise en place d'un réseau de radar côtier nommé Chain Home. En 1937 les premières stations étaient opérationnelles et elle jouerons un role crucial en 1940 lors de la bataille d'Angleterre.
+
+[^1]: https://worldwide.espacenet.com/patent/search/family/001739501/publication/GB593017A?q=pn%3DGB593017
 
 
 
@@ -910,15 +890,13 @@ Son histoire nous montre qu'avec de la motivation et le soutien de nos proches, 
 
 
 
-#### Atanasoff Berry Computer 
+#### Calculs balistique
 
-**1937**, première utilisation des tubes à vides
+En 1923, la Moore School, un établissement de formation d'ingénieur en électronique voit le jour. A la même période apparait le Ballistic Research Laboratory, qui comme son nom l'indique, est un établissement de recherche en  balistique. Ces deux établissement auront une importance cruciale dans le développement de l'informatique.
 
+En **1937**, un professeur de mathématiques et de physique nommé John Vincent Atanasoff entreprends, avec l'aide de Clifford Berry un de ses étudiants diplômé, la création d'une machine à calculer électronique. Deux ans plus tard, en 1939 une machine rudimentaire est alors existante mais incomplète, elle sera nommée Atanasoff Berry Computer (ABC). Pendant son développement, ils ont apporté des idées pionnières et innovantes comme l'arithmétique binaire, l'utilisation d'éléments de commutation électronique, ou encore la parallélisation. La construction de cette machine est d'ailleurs la première à intégrer des tubes à vides. En 1940 ils présentent la machine à John Mauchly, qui a voulu apporter une solution à la réalisation de tables de tir, permettant de régler correctement une arme balistique pour atteindre sa cible avec si possible un seul réglage plutôt que de devoir faire un essai approximatif et réajuster en fonction de la trajectoire observée comme c'était le cas jusque là. En 1942 la machine est testé avec succès et sera utilisée pour trouver des solutions à des équations linéaires. 
 
-
-#### John Horton Conway
-
-**1937**
+-> ENIAC
 
 
 
@@ -942,7 +920,7 @@ Plusieurs calculateurs seront construit pour l'effort de guerre, que se soit pou
 
 #### Colossus / Harvard Mark 1
 
-IBM ASCC (Automatic Sequence Controlled Calculator, Relay Switches qui pouvaient casser **1944**
+L'IBM Automatic Sequence Controlled Calculator (ASCC) datant de **1944** est le premier calculateur entièrement automatique. Une fois lancé, il calculait pendant des heures en suivant le programme qui lui était donné à l'aide de cartes perforées. Ces avancés lui ont valu une couverture médiatique dans la presse, voyant cette machine comme un robot intelligent pouvant trouver toutes les réponses mathématiques. Cette machine ne possédait pourtant pas encore de branchement conditionnel alors que la machine analytique de Babbage, bien que jamais construite, stipulait déjà cette fonctionnalité. Les programmes était alors très long et il possédait des Relay Switches qui pouvaient casser. L'ASCC a permis la réalisation de tables et la réalisations de premières expérimentations notamment par Grace Hopper.
 
 https://www.youtube.com/watch?v=MOUg25dJM4c
 
@@ -956,7 +934,7 @@ Cette architecture à permis à permis au stockage de posséder les instructions
 
 La mort de leur investisseur principal lors d'un trajet en avion les poussera à revendre leur entreprise à Remington par la suite.
 
-Remington Racheté par Sperry Corporation qui deviendra Unisys après fusion avec Burroughs
+Remington Racheté par Sperry Corporation après fusion avec la Burroughs Corporation en 1986, deviendra Unisys, 100 ans après sa création en 1886
 
 Même si il a été pensé par 2 hommes, l'ENIAC à été programmé par 6 femmes, qui ont du documenter, coder et brancher des millions de cables, il a été réalisé à la Moore School de l'université de Pennsylvanie à partir de juin 1943
 
@@ -1325,7 +1303,9 @@ Katherine_Johnson
 
 
 
+#### John Horton Conway
 
+1937 il invente le jeu de la vie en **1970**
 
 
 
@@ -1464,6 +1444,8 @@ Ward Cunningam créa le premier wiki en 1995 il est encore disponible tel quel[^
 
 [^1]: http://wiki.c2.com/
 
+
+
 #### Ordinateur quantique
 
 En **1998** IBM créé le premier ordinateur quantique sur les travaux de Rolf Landauer
@@ -1597,16 +1579,17 @@ Les fois où j'ai appris le plus rapidement des concept était encore une fois �
 
 ### Concepts et outils de programmation
 
-1. Pop SMTP
-2. Habitudes de programmation
-   1. Langage naturel, formel, informatique, et construites
-   2. Syntaxe, vocabulaire et Grammaire
-   3. Pseudo Code parlé & Lojban
-   4. Interfaces logicielles avancées
-   5. Interopérabilité instantanée inter-appareils
-   6. Cadriciels
-   7. API
-   8. Cloud
+#### Langages
+
+Nous parlons communément un langage naturel, spontané, qui bien qu'il possède des règles de syntaxe, un vocabulaire et une grammaire définis, ne nécessite pas systématiquement de les suivre à la lettre pour communiquer. Le langage formel ou construit comme le code informatique ou le Lojban nécessite quand a lui une rigueur stricte sans quoi il ne peut être interprété par la 
+
+formel, informatique, et construites
+
+Syntaxe, vocabulaire et Grammaire
+
+Pseudo Code parlé & Lojban
+
+
 
 #### Ligne de commande
 
@@ -1849,7 +1832,7 @@ Contrairement à la définition de Wikipédia, qui déclare qu'elle désigne le 
 
 ### IO
 
-Entrées et sorties, Inputs et Outputs (IO), sont l'ensemble des paramètres et des valeurs de sorties. Avec elles seules on peut limiter les fonctionnalités possible à un certain contexte d'entrées et sorties attendues. C'est une sorte de double entonnoir, comme des portails, théoriquement bidirectionnels. On peut la mettre en relation avec la lecture et l'écriture, en C# .NET [`System.IO`](#https://learn.microsoft.com/en-us/dotnet/api/system.io?view=net-7.0) est ailleurs un namespace permettant d'accéder à des fonctions algorithmiques standard de lire et écrire des fichiers. Et par conséquent des dossiers, car oui, les dossiers sont des fichiers, contenant l'adresse mémoire de son contenu. 
+Entrées et sorties, Inputs et Outputs (IO), sont l'ensemble des paramètres et des valeurs de sorties. Avec elles seules on peut limiter les fonctionnalités possible à un certain contexte d'entrées et sorties attendues. C'est une sorte de double entonnoir, comme des portails, théoriquement bidirectionnels. On peut la mettre en relation avec la lecture et l'écriture, en C# .NET [`System.IO`](#https://learn.microsoft.com/en-us/dotnet/api/system.io?view=net-7.0) est ailleurs un espace de noms (namespace) permettant d'accéder à des fonctions algorithmiques standard de lire et écrire des fichiers. Et par conséquent des dossiers, car oui, les dossiers sont des fichiers, contenant l'adresse mémoire de son contenu. 
 
 ### Faits
 
@@ -1859,13 +1842,19 @@ Un fait est la naissance d'une information émanant du matériel à un moment do
 
 
 
-### Rapports de force et ordres de grandeur
+### Puissances et ordres de grandeur et précision
 
-Les bases sont les fondations d'un système numéraire, notre base 10 permet de multiplier et diviser par 2, et 5, la base 12, par 2, 3, 4 et 6. Elles permettent des systèmes et des ordres de grandeurs, le système décimal commun possède les dizaines, centaines, milliers, etc... que toute personne ayant fait des mathématiques connait bien.
+Les bases sont les fondations d'un système numéraire, notre base 10 permet de multiplier et diviser par 2, et 5, la base 12, par 2, 3, 4 et 6. Elles permettent des systèmes et des ordres de grandeurs, le système décimal commun possède les puissances de dix que tout le monde connait : dizaines, centaines, milliers, etc...
 
-Le rapport de force est universel et naturel, le premier est le nombre d'années qu'un individu à expérimenter la vie dans de bonnes conditions. On pourrait également le penser sous le prisme de la taille, nombre facile à se représenter proportionnellement à nos petites mètres de hauteur comparés au grattes ciels faisant jusqu'à 414 humains empilés. 
+Ces puissances peuvent représenter des paliers symboliques pouvant représenter un rapport de force qui est universel et naturel. Dans les relations humaines, la différence de puissances entre deux personnes dépend selon moi du nombre d'années de vie qu'un individu a expérimenté dans de bonnes conditions. On pourrait également le penser sous le prisme de la taille, nombre facile à se représenter proportionnellement à nos petites mètres de hauteur comparés au grattes ciels faisant jusqu'à 414 humains empilés. Cet exemple absurde me permet d'introduire le fait que le Burj Khalifa ai couté 1,5 milliard de dollars, ce qui représente environ 1000 vies de travail à 2000€ par mois pendant 40 ans (sans dépense). Si de telles projet d'envergure sont réalisables depuis les paramides et autres merveilles du monde, c'est grâce à un travail coopératif et à un rapport de force démentiel entre les maitre d'ouvrage et les maitres d'oeuvre, puis entre les maitres d'oeuvres et les salariés, et tout ceux en dessous.
 
-Même de nos jours, une personne décidant de se salarier dans un travail dit alimentaire pour survivre se "vends" en échange de sa subsistance. Pour autant, c'est lui qui par son travail, assure les revenus du patron, et indirectement des autres salariés. Loi de Moore, Volume de donnée internet ou chat gpt, probabilités sachant que. le big deal Théorie du chaos et contextes intriqués, un grand tout.
+En informatique la composition décrit le fait que dans chaque boite, on peut avoir une autre boite, c'est l'idée abstraite de la poupée russe poussée à l'infini. Je pense que ce grand tout, suis une logique de composition. On peut le voir à différentes granularité et plus il est grand plus sa vie est longue. Certains principes sont similaires quelque soit l'ordre de grandeur, d'autres, sont propres à certains. Lorsque l'on fait face à un problème informationnel, il convient de définir son périmètre, pour analyser et gérer précisément la zone voulue. L'informatique nous permet désormais d'avoir une interface pour naviguer précisément dans une simulation réaliste et visualiser ses ordres de grandeur.
+
+Loi de Moore, Volume de donnée internet ou chat gpt, probabilités sachant que. le big deal Théorie du chaos et contextes intriqués, un grand tout.
+
+
+
+Même de nos jours, une personne décidant de se salarier dans un travail dit alimentaire pour survivre se "vends" en échange de sa subsistance. Pour autant, c'est lui qui par son travail, assure les revenus du patron, et indirectement des autres salariés.
 
 
 
@@ -1874,8 +1863,6 @@ Même de nos jours, une personne décidant de se salarier dans un travail dit al
 anecdote prof sifflement 
 
 baki episode 22
-
-
 
 ### Viralité
 
@@ -2096,7 +2083,7 @@ Tout est temps, c'est l’écoulement des choses, l'itération des actions qui s
 
 ### Division du travail
 
-Maisons d'échanges, Babbage était fasciné par la division mentale du travail qui s'y opérait, comme De Prony s'étant inspiré d'Adam Smith
+Charles Babbage a visité des maison d'échanges bancaires, et autres établissement de gestion, comme le bureau du cadastre qui du réaliser des cartes à jour pour établir une taxation. Il était fasciné par la division mentale du travail qui s'y opérait, la personne en charge du cadastre était le Baron Gaspard De Prony qui a également réaliser les *Grandes tables de logarithme* en seulement deux ans grâce à ses lectures des travaux d'Adam Smith, notamment de son œuvre "*Recherches sur la nature et les causes de la richesse des nations*". Ce dernier à été le premier à décrire le principe de division du travail. Ce principe sera par la suite réutilisé pour optimiser les temps de formations du personnel et de réalisation d'un produit. 
 
 https://fr.wikipedia.org/wiki/Division_du_travail
 
@@ -2183,17 +2170,17 @@ https://ayowel.github.io/trust/
 1. Philosophie personnelle
    1. Réalisation de projets WMD (WYSIWYG meta dogfood)
       1. Markdown
-      2. 
-   3. La magie c'est de défaire et savoir refaire
-   4. LA DONNEE (collecte, emplacement géographique, valeur)
-   5. Un programme est un contrat.
+   2. La magie c'est de défaire et savoir refaire
+   3. LA DONNEE (collecte, emplacement géographique, valeur)
+   4. Un programme est un contrat.
       1. Qu'il , soit moral ou non
-   6. Biais humain, machine, et réalité de la donnée (illusions de captation, interprétation, context)
-   7. Choix et Theorie des jeux
-   8. Sécurité, permissions, et contraintes.
-   9. Intelligence, Ambiguïtés et apprentissage : Nous sommes tous des IAs
-   10. Apprentissage par l’erreur, sans elle rien ne serais possible le succès ne s’obtient qu’en résolvant des micro problèmes 
-   11. On fait avec ce qu’on a, alors obligé d’accumuler, ça donne des (cf Cadriciels)
+   5. Biais humain, machine, et réalité de la donnée (illusions de captation, interprétation, context)
+   6. Sécurité, permissions, et contraintes.
+   7. Intelligence, Ambiguïtés et apprentissage : Nous sommes tous des IAs
+   8. Apprentissage par l’erreur, sans elle rien ne serais possible le succès ne s’obtient qu’en résolvant des micro problèmes 
+   9. Interopérabilité instantanée inter-appareils, édition live multiutilisateur 
+   10. API
+   11. Cloud
 
 
 
@@ -2639,13 +2626,13 @@ https://pubs.acs.org/doi/10.1021/jacs.3c07000
 
 ## Postface : Rétrospective et métacognition
 
-J'ai écris ce mémoire en commençant par de la prise de note puis en rédigeant, reliant petit à petit toutes les idées et concepts dont je voulais parler. En soit comme beaucoup de personnalités évoqués dans mon œuvre, je n'ai rien inventé, j'ai découvert plein d'informations et me suis contenté de les compiler à la manière de Vitruve, ou d'un ordinateur.
+J'ai écris ce mémoire en commençant par de la prise de note puis en rédigeant, reliant petit à petit toutes les idées et concepts dont je voulais parler. En soit comme beaucoup de personnalités évoqués dans mon œuvre, je n'ai rien inventé, j'ai découvert plein d'informations et me suis contenté de les compiler à la manière de Vitruve, ou d'un ordinateur. Chaque idée ou sujet que je voulais évoquer m'as demandé des heures de recherches et de lecture pour rédiger un maigre paragraphe résumant le thème étudié aux informations que je trouvais les plus pertinentes. 
 
 Dès que j'avais une idée ou une information qui pouvait se relier à mon mémoire, je dégainais mon téléphone, activait mon VPN pour me connecter au réseau de mon appartement et ainsi accéder à mon serveur Windows, tournant h24 sur un mini-pc à 500 euros que je me suis acheté avant d'intégrer l'école hexagone, avec le premier salaire de mon alternance et la jolie prime obtenue pour avoir rejoint l'entreprise dès que possible un mois avant la rentrée scolaire. 
 
 J'ai parfois rencontrer des problèmes pour retrouver des informations, pour Raymond Lulle par example, j'ai dû récupérer la page en catalan pour mieux comprendre le lien entre Lulle et la logique combinatoire et computationnelle qui a inspiré Leibniz. En effet, certains concepts comme l'automatic programming, ne possède pas de page wikipédia ni de définition en français. J'ai très souvent croiser les versions anglais et francaises des pages wikipédia que je consultait pour être sur de la source et de la véracité des informations. J'ai également pu lire des textes historiques fantastiques comme le texte *As we may think* de Vannevar Bush, prouvant encore une fois que beaucoup d'inventions et informations qui n'ont été connue du grand public par la suite était déjà accessible aux plus curieux.
 
-Je n'ai pas pu tout garder, et j'ai du parler de personnes qui ont écris des choses ou fait des choses regrettable, j'ai pourtant parler de Lancaster qui dans lors de son enseignement a brutalisé des enfants. Je n'ai jusque là pas mentionner Rousseau qui disait que "Toute l'éducation des femmes doit être relative aux hommes, leur plaire, leur être utile, se faire aimer, honorer d'eux, les élever jeunes, les soigner grands, les consoler, leur rendre la vie agréable et douce. Voilà les devoir d'une femme dans tous les temps et ce qu'on doit leur apprendre dès leur enfance." car je n'ai pu valider son apparence sexiste par la lecture du texte et de son contexte. Personnellement je pense que ce genre d'injonction ne devrait pas être genré au féminin, au risque même d'en priver les Hommes dans le sens de l'humanité. De la même manière, Nicole-Claude Mathieu à déclarer que la féminité est "imposée aux femmes, et de la masculinité, apprise aux hommes", et je souhaite à tout le monde d'apprendre sans jamais se laisser imposer quoi que ce soit, n'hésitez pas à fuir, ça s'apprends également au même titre que le courage, qui n'est rappelons le, pas l'absence de peur, mais sa capacité à les gérer. Enfin, je n'ai pas garder certains philosophes comme Locke ou Voltaire, car ils n'apportaient pas assez à mon sujet également.
+Je n'ai pas pu tout garder, et j'ai du parler de personnes qui ont écris des choses ou fait des choses regrettable, j'ai pourtant parler de Lancaster qui dans lors de son enseignement a brutalisé des enfants. Je n'ai jusque là pas mentionner Rousseau qui disait que "Toute l'éducation des femmes doit être relative aux hommes, leur plaire, leur être utile, se faire aimer, honorer d'eux, les élever jeunes, les soigner grands, les consoler, leur rendre la vie agréable et douce. Voilà les devoir d'une femme dans tous les temps et ce qu'on doit leur apprendre dès leur enfance." car je n'ai pu valider son apparence sexiste par la lecture du texte et de son contexte. Personnellement je pense que ce genre d'injonction ne devrait pas être genré au féminin, au risque même d'en priver les Hommes dans le sens de l'humanité. De la même manière, Nicole-Claude Mathieu à déclarer que la féminité est "imposée aux femmes, et de la masculinité, apprise aux hommes", et je souhaite à tout le monde d'apprendre sans jamais se laisser imposer quoi que ce soit, n'hésitez pas à fuir, ça s'apprends également au même titre que le courage, qui n'est rappelons le, pas l'absence de peur, mais sa capacité à les gérer.
 
 
 
