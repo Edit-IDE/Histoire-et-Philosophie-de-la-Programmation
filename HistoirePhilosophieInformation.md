@@ -526,7 +526,7 @@ Comme beaucoup, les historiens ne savent pas grand chose de sa vie, mais ils sav
 
 
 
-#### Occidentalisation des savoirs de l'Âge d'or arabes
+#### Occidentalisation des savoirs de l'Âge d'or arabe
 
 Sylvestre II, né en **950** et mort en 1003, aussi connu sous le nom de Gerbert d'Aurillac, aurait demandé à l'astronome Lupitus de Barcelone, un traité sur les astrolabe. Les historiens ne savent pas si elle lui est parvenue mais il a introduit des concepts de la science arabe en Occident. Lors d'un séjour de 3 ans en Catalogne, il aurait en effet consulté des manuscrits traduits de l'arabe, dans lesquels il aurait pu avoir pris connaissances des chiffres indo-arabes, ainsi que l'écriture décimale positionnelle. Il a inventé un abaque, fonctionnant de la même manière que l'on poserai une addition sur papier, dont une version pourrait avoir été réalisé avec cette notation des chiffres.
 
@@ -783,7 +783,7 @@ Au début du 20ème siècle, c'est en **1904** que John Ambrose Fleming, à ne p
 
 Le principe du semiconducteur à été découvert en 1874 par Karl Ferdinand Braun, qui s'est rendu compte que l'on pouvait faire passer un courant électrique dans une direction donnée à l'aide d'un fin fil de métal et d'un crystal de galène, inventant ainsi la diode. Cette découverte a été réutilisée dans les tubes à vides de Fleming, permettant d'avoir des bascules allumée / éteinte avec un signal directionnel. Par la suite Lee De Forest inventera l'Audion en **1906** avec l'ajout d'une électrode intermédiaire ç une diode, permettant de convertir une variation de courant en variation de tension et de puissance, permettant ainsi l'amplification d'un signal. William Eccles renommera cette invention triode en 1919. Tout deux ont contribuer pour beaucoup dans le développement des circuits électroniques et de la transmission sans fil avec la naissance de la radio.
 
-Entre 1869 et 1875, William Crooke découvre les rayons cathodique lors de la réalisations de lampes thermoïoniques, ou tubes à décharge électrique portant son nom. Une vingtaine d'année plus tard, c'est Ferdinand Braun qui en 1897 développa également un tube cathodique éponymes. Enfin, Boris Rosing, un scientifique russe d'origines néerlandaises, a utilisé des tubes cathodiques de Braun, le système de disques de l'ingénieur Paul Nipkov et des cellules photoélectriques, réalisant ainsi les fondations d'un système de télévision mécanique lors de l'année **1907**. Après quoi il s'est empressé de déposer des brevets et démontrer le principe de fonctionnement en détail à l'aide de schémas expliquant l'hystérésis magnétique. Ces travaux ont par la suite étés démocratisés par un de ses élèves et assistant de travail nommé Vladimir Zvorykine, qui à inventer l'iconoscope permettant de capter les images qui seront retransmises sur ces écrans et qui devint rapidement pionnier de la télévision aux États-Unis et en Allemagne, bien que rapidement concurrencé par Philo Farnsworth qui fut le premier à réaliser une chaîne de télévision avec émission-réception. Les tubes cathodiques ont longtemps fait partis de nos écrans de télévisions qui affichaient une image à l'aide d'une cellule photoélectrique, dont le faisceau était dévié, augmentant ou diminuant le nombre d'électrons qui passait, faisant ainsi varier la luminosité du faisceau avant qu'il atteigne l'écran, projetant ainsi une image en nuances de gris.
+*Tube de Geissler*. Entre 1869 et 1875, William Crooke découvre les rayons cathodique lors de la réalisations de lampes thermoïoniques, ou tubes à décharge électrique portant son nom. Une vingtaine d'année plus tard, c'est Ferdinand Braun qui en 1897 développa également un tube cathodique éponymes. Enfin, Boris Rosing, un scientifique russe d'origines néerlandaises, a utilisé des tubes cathodiques de Braun, le système de disques de l'ingénieur Paul Nipkov et des cellules photoélectriques, réalisant ainsi les fondations d'un système de télévision mécanique lors de l'année **1907**. Après quoi il s'est empressé de déposer des brevets et démontrer le principe de fonctionnement en détail à l'aide de schémas expliquant l'hystérésis magnétique. Ces travaux ont par la suite étés démocratisés par un de ses élèves et assistant de travail nommé Vladimir Zvorykine, qui à inventer l'iconoscope permettant de capter les images qui seront retransmises sur ces écrans et qui devint rapidement pionnier de la télévision aux États-Unis et en Allemagne, bien que rapidement concurrencé par Philo Farnsworth qui fut le premier à réaliser une chaîne de télévision avec émission-réception. Les tubes cathodiques ont longtemps fait partis de nos écrans de télévisions qui affichaient une image à l'aide d'une cellule photoélectrique, dont le faisceau était dévié, augmentant ou diminuant le nombre d'électrons qui passait, faisant ainsi varier la luminosité du faisceau avant qu'il atteigne l'écran, projetant ainsi une image en nuances de gris.
 
 
 
@@ -818,6 +818,8 @@ Le téléscripteur à été inventé en 1925
 
 
 #### Théorie des jeux
+
+***Pari de Pascal***
 
 La théorie des jeux, comme son nom l'indique, étudie les jeux et plus notamment le comportement des joueurs et leurs décisions. Elle se base sur l'hypothèse qu'ils effectuent toujours un choix rationnel en fonction des connaissances à leur disposition, et ce dans le but de maximiser leurs gains et à minimiser leurs pertes.
 
@@ -858,6 +860,10 @@ Dans le début des années 1900 le sonar à déjà été bien étudié et mis en
 C'est année suivante, en 1935 que Robert Watson-Watt, que l'on retiendra comme l'inventeur officiel du radar, dépose un brevet [^1] avec des indications pour l'améliorer. Prouvant efficacité de son système en détectant des avions a 27km puis l'améliorant jusqu'à 100km, il met fin aux développement concurrents comme le sonar, et commence la mise en place d'un réseau de radar côtier nommé Chain Home. En 1937 les premières stations étaient opérationnelles et elle jouerons un role crucial en 1940 lors de la bataille d'Angleterre.
 
 [^1]: https://worldwide.espacenet.com/patent/search/family/001739501/publication/GB593017A?q=pn%3DGB593017
+
+***Déjà en 1936, les Britanniques réalisèrent que la Luftwaffe se tournerait vers les bombardements nocturnes si les raids de jour se révélaient infructueux. Watson-Watt chargea un autre de ses assistants du Radio Research Station, Edward George Bowen, du développement d'un radar qui puisse être transporté à bord d'un chasseur. En effet, le contact visuel nocturne d'un bombardier n'était que de 300 m et le réseau Chain Home de détection n'avait pas assez de précision pour amener les chasseurs si près de leur cible.***
+
+***Bowen estima qu'un radar à bord d'un aéronef ne devait pas dépasser 90 kg et 230 litres en volume, sans requérir plus de 500 W de puissance. Pour réduire la traînée de l'antenne en réduisant son diamètre, la longueur d'onde du faisceau ne devait pas dépasser 1 mètre ce qui était difficile pour la technologie de l'époque. Néanmoins, ce type de système fut perfectionné en 1940 et fut essentiel pour mettre fin au « Blitz » de 1941. Bowen monta également de tels radars sur les avions de patrouille maritime dans la lutte aux sous-marins.***
 
 
 
@@ -1277,13 +1283,7 @@ L'ensemble de ces travaux seront réutilisés pour la réalisation du transistor
 
 
 
-En 1958, Jack Kilby ingénieur chez Texas Instruments, réalise le premier circuit imprimé, qui sera plus tard connu sous le nom de puce électronique, en reliant manuellement deux transistors en utilisant du germanium, bien qu'il fut longtemps oublié, il fini par obtenir le prix Nobel de physique en 2000.
-
-La même année, Robert Norton Noyce qui travaille alors à Fairchild Semiconductor qu'il a cofonder un an avant, fait la même découverte et popularise les circuits intégrés en silicium à la base de l’électronique et encore utilisés aujourd'hui, éclipsant ainsi Kilby.
-
-Suite à un désaccord au sein des dirigeants de Fairchild, il décide, avec Gordon Earle Moore, également cofondateur, de quitter cette entreprise pour fonder Intel.
-
-De la même manière que Backus avait constaté que le matériel devenait de plus en plus fiable et de moins en moins cher pour de meilleures performances, Moore inventa en 1965 une loi éponyme postulant que les semi-conducteurs aurait une progression linéaire de leur performances, qui doublerai ainsi tout les deux ans.
+En 1958, Jack Kilby ingénieur chez Texas Instruments, réalise le premier circuit imprimé, qui sera plus tard connu sous le nom de puce électronique, en reliant manuellement deux transistors en utilisant du germanium, bien qu'il fut longtemps oublié, il fini par obtenir le prix Nobel de physique en 2000. La même année, toujours en 1958 Robert Norton Noyce qui travaille alors à Fairchild Semiconductor qu'il a cofondé un an avant, fait indépendamment la même découverte et popularise les circuits intégrés en silicium à la base de l’électronique encore utilisée aujourd'hui, éclipsant ainsi Kilby. Suite à un désaccord au sein des dirigeants de Fairchild, il décide, avec Gordon Earle Moore, également cofondateur, de quitter cette entreprise pour fonder Intel. De la même manière que Backus avait constaté que le matériel devenait de plus en plus fiable et de moins en moins cher pour de meilleures performances, Moore inventa en 1965 une loi éponyme postulant que les semi-conducteurs aurait une progression linéaire de leur performances, qui doublerai ainsi tout les deux ans.
 
 En **1969**, le microprocesseur est inventé par Federico Faggin, et Marcian Hoff, un ingénieur et physicien d'Intel, 
 
@@ -1305,19 +1305,7 @@ Katherine_Johnson
 
 #### John Horton Conway
 
-1937 il invente le jeu de la vie en **1970**
-
-
-
-
-
-SSH > Arpanet
-
-CSS ZenGarden
-
-JScript > Javascript
-
-CSS a permi de diversifier l'apparence des sites webs, les frameworks et themes (Foundation / bootstrap) ont re généraliser et harmoniser l'affichage des sites, réduisant la créativité au profit de l'accessibilitée
+1937 il invente le jeu de la vie en **1970**, les règles sont très simple mais comme l'as dit Leonard de Vinci, la simplicité est l'ultime sophistication.
 
 
 
@@ -1428,11 +1416,31 @@ Optical Storage Disc **1980**
 
 #### Cerveau dans une cuve
 
-C'est une reformulation moderne du malin génie de Descartes, imaginée par Hilary Putnam en 1926, cette expérience de pensée invite à s'imaginer que notre cerveau pourrait être placé dans une cuve, et qu'il recevrait des stimulis envoyés par une machine, chargée de nous simuler le monde extérieur. La problématique étant alors de savoir si ce cerveau à raison de croire de qu'il perçoit.
+C'est une reformulation moderne du malin génie de Descartes, imaginée par Hilary Putnam en 1981, cette expérience de pensée invite à s'imaginer que notre cerveau pourrait être placé dans une cuve, et qu'il recevrait des stimulis envoyés par une machine, chargée de nous simuler le monde extérieur. La problématique étant alors de savoir si ce cerveau à raison de croire de qu'il perçoit.
 
 La thèse serait ainsi de dire que comme les signaux envoyés aux cerveaux ne correspondent à rien de tangible dans notre monde, alors il est dans l'illusion.
 
 L'antithèse, revient à justifier que le stimuli étant identique, il est tout à fait légitime du point de vue du cerveau, de dire qu'il le reconnaît bien.
+
+
+
+#### Logiciel libre
+
+Richard Stallman annonce le projet GNU le 27 Septembre **1983**, en 1985 il fonde le FSF, la Free Software Foundation. Ou Free ne signifie par gratuit dans le sens de prix mais dans le sens de liberté. Le langage C est alors grandement utilisé. Il invente également en 1989 la licence GNU General Public Licence, plus connu sous le nom de GPL.
+
+En 1987 Andrew S. Tanenbaum invente Minix un système d'exploitation UNIX avec une architecture 16 bit. Inspiré par Minix, Linus à donc créer **Linux en 1991**, avec un nouveau Kernel, lineage, sous licence GPL. Leur coopération donnera GNU/Linux qui est une suite embarquée d'éditeurs comme bash, emac, la GNU C Library et le compilateur GCC, et pleins d'autres.
+
+Aujourd'hui la grande majorité des entreprises utilisent du code Open Source dans leur business, certains utilisent même à tord des logiciels GPL sans savoir que cette licence est contaminante et peut faire que leur logiciel devrait légalement être libre de facto. D'autres licences permettent aux entreprises d'utiliser des librairies pour un usage commercial. Certains projets Open Sources comme Symfony ont donné naissances à multitudes de Business à commencer par le leur, SensioLabs, qui fournissent des conférences et formations payantes, et sponsorise certaines entreprises experts dans cette technologie.
+
+
+
+#### Cadriciels et Open Source
+
+CSS a permi de diversifier l'apparence des sites webs, les frameworks et themes comme Foundation ou bootstrap ont regénéraliser et harmoniser l'affichage des sites, réduisant la créativité au profit de l'accessibilitée. Tout cadre vient limiter la liberté, généralement pour le bien commun.
+
+Symfony, un outil logiciel facilitant la réalisation d'application webs, ne permet pas de surcharger l'attribut "name" d'un champ de formulaire, le retrait de requêtes expires ne marche pas... L'installation d'un de leurs plugin React m'a récemment causer defaut. J'ai eu, par la force des choses, à contacter la personne chargée de la documentation de Symphony. Un certain [Ryan](https://github.com/weaverryan), qui est "Symfony docs lead, writer at SymfonyCasts". Ce fût une expérience riche ou j'ai découvert un environnement qui m'est familier, bien que je n'ai pas souvent réaliser de l'open source avant. Une pipeline qui sors des erreurs à des lignes qui n'existent pas sur ma version, et qui malgré ça permet d'assurer la qualité de la documentation rédigée en RST ou DOCtor-RST, à l'aide de tests de compilation.
+
+
 
 
 
@@ -1764,7 +1772,7 @@ Git est un logiciel de gestion de versions décentralisé sous licence GNU GPL. 
 
 #### Quelqu'un à généralement la solution
 
-En programmation objet, il existe des Patrons de conceptions, ils trouvent leur racines dans l'architecture. L'architecte en bâtiment Christopher Alexander publie l'essai ***A Pattern Language**: Towns, Buildings, Construction* en **1977**. Cette œuvre à définit de manière casuistique, à la manière du [Code de Hammurabi](#Code-de-Hammurabi), les problèmes rencontrés en architecture et leurs solutions.
+En programmation objet, il existe des Patrons de conceptions qui trouvent leur racines dans l'architecture. L'architecte en bâtiment Christopher Alexander publie l'essai *A Pattern Language : Towns, Buildings, Construction* en **1977**. Cette œuvre à définit de manière casuistique, à la manière du [Code de Hammurabi](#Code-de-Hammurabi), les problèmes rencontrés en architecture et leurs solutions.
 
 Cette notion à permit de catégoriser les patrons algorithmiques selon trois classes, les *créateurs* solutionnent des problèmes d'[instanciation](https://fr.wikipedia.org/wiki/Instanciation) et de configuration des classes et des objets, les *structuraux* indiquent comment organiser les classes d'un programme et leurs l'interfaces ; et les *comportementaux* définissent l'organisation des [objets](https://fr.wikipedia.org/wiki/Objet_(informatique)) pour que ceux-ci s'échangent des informations en fonction de leurs responsabilités.
 
@@ -1811,7 +1819,7 @@ Suite à Atom publié par GitHub le 26 février 2014, bien avant son rachat en 2
 
 ## Essai
 
-Avant d'arriver à cette partie qui répond pleinement à la problématique, je vais à travers cet essai décrire ma philosophie personnelle découlant de l'ensemble de mon vécu et de mes connaissances. Mais avant tout, j'en suis venu à plusieurs notes sur l'information, semblables à celles écrites en préambule à la fin de l'introduction.
+Avant d'arriver à l'ultime partie qui répond pleinement à la problématique, je vais à travers cet essai décrire ma philosophie personnelle découlant de l'ensemble de mon vécu et de mes connaissances. Mais avant tout, j'en suis venu à plusieurs notes sur l'information, semblables à celles écrites en préambule à la fin de l'introduction.
 
 
 
@@ -1828,27 +1836,31 @@ Avant d'arriver à cette partie qui répond pleinement à la problématique, je 
 
 La définition de l'information est controversée et difficile à établir clairement à cause de son usage et des abus de langages. La définition philosophique donnée par le Centre National de Ressources Textuelles et Lexicales (CNRTL.fr) est selon moi la plus proche. Elle indique que l'information est la transmission d'une forme, dans le sens de concept et référence au monde des idées propre à l'intellect, comme le décrit Platon dans sa classification des connaissance, découlant de son analogie de la ligne. En effet l'étymologie latine "*informare*" signifie donner forme ou se former une idée de quelque chose.
 
-Contrairement à la définition de Wikipédia, qui déclare qu'elle désigne le message et les symbole utilisés pour l'écrire, selon moi, malgré le fait évident que l'information n'est réelle qu'au moment ou elle se manifeste au moyen du matériel, elle n'est pour autant pas définie par son support, mais bien par la forme ou l'idée à laquelle son support fait référence. La quantification et / ou qualification lié au message étant la réelle information.
+Contrairement à la définition de Wikipédia, qui déclare qu'elle désigne le message et les symbole utilisés pour l'écrire,  l'information n'est selon moi réelle qu'au moment ou elle se manifeste au moyen du matériel. C'est à dire qu'elle n'est  pas définie par son support, mais bien par la forme ou l'idée à laquelle son support fait référence. La quantification et / ou qualification lié au message étant la réelle information. Pour preuve, une information chiffrée avec des méthodes modernes est totalement illisible et ne témoigne absolument pas de l'idée qu'elle véhicule. Ce n'est que lors du déchiffrement que l'information est être révélée.
+
+Un fait est ainsi la naissance d'une information émanant d'une action matérielle se manifestant à un moment donné t. Pour autant, le fait n'existe plus une fois ce moment t passé, il n'en reste plus que les conséquences physiques et l'idée de cette action qui en est la cause. Plusieurs observateurs peuvent avoir une version différente des faits, propre à leur subjectivité et vérités relatives. Le fait en lui même est une vérité absolue et pure que l'on ne peut qu'approximer. Seul l'acteur des faits peut réellement savoir ce qui c'est passé à condition bien sur qu'il soit conscient. 
 
 ### IO
 
-Entrées et sorties, Inputs et Outputs (IO), sont l'ensemble des paramètres et des valeurs de sorties. Avec elles seules on peut limiter les fonctionnalités possible à un certain contexte d'entrées et sorties attendues. C'est une sorte de double entonnoir, comme des portails, théoriquement bidirectionnels. On peut la mettre en relation avec la lecture et l'écriture, en C# .NET [`System.IO`](#https://learn.microsoft.com/en-us/dotnet/api/system.io?view=net-7.0) est ailleurs un espace de noms (namespace) permettant d'accéder à des fonctions algorithmiques standard de lire et écrire des fichiers. Et par conséquent des dossiers, car oui, les dossiers sont des fichiers, contenant l'adresse mémoire de son contenu. 
-
-### Faits
-
-Un fait est la naissance d'une information émanant du matériel à un moment donné t. Pour autant, le fait n'existe plus une fois ce moment t passé, il n'en reste que les conséquences physiques et l'idée de cette action qui en est la cause. Plusieurs observateurs peuvent avoir une version différente des faits, propre à leur subjectivité et vérités relatives. Le fait en lui même est une vérité absolue et pure que l'on ne peut qu'approximer. Seul l'acteur des faits peut réellement savoir ce qui c'est passé à condition bien sur qu'il soit conscient. 
+Entrées et sorties, Inputs et Outputs (IO), sont l'ensemble des paramètres et des valeurs retournant d'une fonction. Avec elles seules on peut définir les fonctionnalités possibles à un certain contexte d'entrées et sorties attendues. C'est une sorte de double entonnoir, comme des portails, théoriquement bidirectionnels. On peut la mettre en relation avec la lecture et l'écriture, en C# .NET [`System.IO`](#https://learn.microsoft.com/en-us/dotnet/api/system.io?view=net-7.0) est ailleurs un espace de noms (namespace) permettant d'accéder à des fonctions algorithmiques standard de lire et écrire des fichiers et par conséquent des dossiers. Puisque oui, les dossiers sont des fichiers, contenant l'adresse mémoire de son contenu. En réalité, tout n'est que variables et fonction mathématiques. Les fichiers sont des variables, et les actions que l'on peut réaliser à l'aide de fichiers de code sont des fonctions, elles mêmes composées de variables. 
 
 ### Habitudes
 
+La mode n'est que passagère, il n'y a que les habitudes de vies et s'en tenir à un plan structuré, cohérent et à forte plus-value qui reste dans l'Histoire. Il n'y a pas de bons ou de mauvais moments pour agir, il y a le moment et l’agissement qu'on y fait ou pas. La volonté est la seule capacité mentale capable de reprogrammer la pensée et ses habitudes. Il faut apprendre à dire non et encore plus savoir se dire non à soi-même.
 
+Une habitude provient d'un signal, suivi d'une envie, puis d'une action récompensée, et enfin, elle est pleinement constituée par la répétition qui la caractérise. Les habitudes sont fondamentales dans l'addiction, on fini par faire ce qu'on a l'habitude de faire, dire ce qu'on a l'habitude de dire. On ne change pas ou peu notre manière de penser car cela nous coûterait trop d'efforts sans garantie de résultat. Mais si on attends toujours d'avoir une preuve de résultat, on n'expérimenterai alors jamais. N'ayez pas peur de changer vos habitudes, qu'elles soient bonnes ou mauvaises, toutes les habitudes occupent une part très importante de notre temps. Et si l'on veut occuper ce dernier d'actions variées, il convient alors de parfois changer même nos bonnes habitudes.
 
-### Puissances et ordres de grandeur et précision
+### Valeurs
 
-Les bases sont les fondations d'un système numéraire, notre base 10 permet de multiplier et diviser par 2, et 5, la base 12, par 2, 3, 4 et 6. Elles permettent des systèmes et des ordres de grandeurs, le système décimal commun possède les puissances de dix que tout le monde connait : dizaines, centaines, milliers, etc...
+La valeur d'une chose ne dépends que du prix qu'un acheteur est prêt à dépenser pour l'acheter. Les valeurs d'une personne ne dépendent quand à elle que du prix qu'elle est prête à accepter pour les renier. En informatique, la valeur est l'information que l'on stocke dans une variable. 
 
-Ces puissances peuvent représenter des paliers symboliques pouvant représenter un rapport de force qui est universel et naturel. Dans les relations humaines, la différence de puissances entre deux personnes dépend selon moi du nombre d'années de vie qu'un individu a expérimenté dans de bonnes conditions. On pourrait également le penser sous le prisme de la taille, nombre facile à se représenter proportionnellement à nos petites mètres de hauteur comparés au grattes ciels faisant jusqu'à 414 humains empilés. Cet exemple absurde me permet d'introduire le fait que le Burj Khalifa ai couté 1,5 milliard de dollars, ce qui représente environ 1000 vies de travail à 2000€ par mois pendant 40 ans (sans dépense). Si de telles projet d'envergure sont réalisables depuis les paramides et autres merveilles du monde, c'est grâce à un travail coopératif et à un rapport de force démentiel entre les maitre d'ouvrage et les maitres d'oeuvre, puis entre les maitres d'oeuvres et les salariés, et tout ceux en dessous.
+### Rapport de force, ordres de grandeur et précision
 
-En informatique la composition décrit le fait que dans chaque boite, on peut avoir une autre boite, c'est l'idée abstraite de la poupée russe poussée à l'infini. Je pense que ce grand tout, suis une logique de composition. On peut le voir à différentes granularité et plus il est grand plus sa vie est longue. Certains principes sont similaires quelque soit l'ordre de grandeur, d'autres, sont propres à certains. Lorsque l'on fait face à un problème informationnel, il convient de définir son périmètre, pour analyser et gérer précisément la zone voulue. L'informatique nous permet désormais d'avoir une interface pour naviguer précisément dans une simulation réaliste et visualiser ses ordres de grandeur.
+Les bases sont les fondations d'un système numéraire, notre base 10 permet de multiplier et diviser par 2, et 5, la base 12, par 2, 3, 4 et 6. Un base donne lieu à des ordres de grandeurs, le système décimal commun possède les puissances de dix que tout le monde connaît : dizaines, centaines, milliers, etc...
+
+Ces puissances peuvent représenter des paliers symboliques pouvant représenter un rapport de force qui est universel et naturel. Dans les relations humaines, la différence de puissances entre deux personnes dépend selon moi principalement du nombre d'années de vie qu'un individu a expérimenté dans de bonnes conditions. On pourrait également le penser sous le prisme de la taille, nombre facile à se représenter proportionnellement à nos petites mètres de hauteur, que l'on peut rapporter aux grattes ciels faisant jusqu'à 414 humains empilés. Cet exemple absurde me permet d'introduire le fait que le Burj Khalifa ai coûte 1,5 milliard de dollars, ce qui représente environ 1000 vies de travail à 2000€ par mois pendant 40 ans (sans dépense). Si de tels projets d'envergure sont réalisables depuis l'époque des pyramides et autres merveilles du monde, c'est grâce à un travail coopératif et à un rapport de force démentiel entre les maître d'ouvrage et les maîtres d’œuvre, puis entre les maîtres d’œuvres et les salariés, puis tout ceux en dessous. Cette hiérarchie naturelle est nécessaire à l'aboutissement de tout projet ou société d'envergure, c'est pourquoi la bourgeoisie n'as jamais était contre bien qu'elle ai défendu une séparation des pouvoir dans le but d'éviter un despotisme absolu et tyrannique. L'autorité agit fortement sur les comportement et prises de décisions, l'expérience de Milgram nous prouve même qu'elle peut nous faire faire des choses qui vont à l'encontre de nos principes.
+
+En informatique la composition décrit le fait que dans chaque boite, on peut avoir une autre boite, c'est l'idée abstraite de la poupée russe poussée à l'infini. Je pense que ce grand tout, suis une logique de composition. On peut le voir à différentes granularité et plus il est grand plus sa vie est longue. Certains principes sont similaires quelque soit l'ordre de grandeur, d'autres, sont propres à certains. Lorsque l'on fait face à un problème informationnel, il convient de définir son périmètre, pour analyser et gérer précisément la zone voulue. L'informatique nous permet désormais d'avoir une interface pour naviguer précisément dans une simulation réaliste et visualiser ses ordres de grandeur. [c4model](https://c4model.com/)
 
 Loi de Moore, Volume de donnée internet ou chat gpt, probabilités sachant que. le big deal Théorie du chaos et contextes intriqués, un grand tout.
 
@@ -1858,11 +1870,9 @@ Même de nos jours, une personne décidant de se salarier dans un travail dit al
 
 
 
-#### Signaux forts et faibles 
+#### Signaux forts et faibles
 
-anecdote prof sifflement 
-
-baki episode 22
+En communication comme en électronique, un signal fort peut perturber voire totalement stopper un système. C'est le cas dans l’épisode 22 de la série Baki dans lequel un combattant spécialisé en environnement fait taire toute une arène en criant extrêmement fort. Tout étudiant l'a déjà expérimenté, on a tous déjà été dans une situation ou un groupe bruyant se tait après qu'une autorité ai hausser la voix.
 
 ### Viralité
 
@@ -1914,6 +1924,8 @@ L'apprentissage commence généralement avec de la mémorisation, s'ensuit une c
 
 A l'aide de schémas mentaux, nous associons un ensemble de concepts ou d'idées liées, permettant de formuler facilement des phrases compréhensibles et retransmissibles. L'humain à la chance d'être multimodal et d'avoir plusieurs "périphériques" biologiques. Une fois qu'il a capté une information grâce à un d'entre eux, il doit la revoir ou se la répéter à intervalles réguliers et assez courts afin de la mémoriser. D'après ce que l'on a vu précédemment cela fait sens, la répétition de la perception de cette information par l'esprit va lui permettre de créer plus d'amorces et constituer des schémas mentaux. La reformulation sous forme de questions que l'on peut se poser pour tester ses connaissance permet un apprentissage plus rapide. Reformuler dans le but de réexpliquer permet également de diversifier son apprentissage [^1]
 
+Apprentissage par l’erreur, sans elle rien ne serais possible le succès ne s’obtient qu’en résolvant des micro problèmes 
+
 [^1]:  https://www.youtube.com/watch?v=RVB3PBPxMWg
 
 ### Informatique et Éducation
@@ -1948,16 +1960,6 @@ La cuisine est selon moi une science combinatoire et une philosophie à part ent
 
 On sait aujourd'hui que les bactéries qui nous aident à digérer les aliments représentent une partie non négligeable de notre poids, nous vivons en symbiose avec eux à travers notre alimentation. En Informatique, et notamment en intelligence artificielle, les résultats dépendent également beaucoup des information avec lesquelles on alimente le système. Le résultat d'un algorithme, dépends des variables passées en entrée.
 
-### Planifier et prendre son temps
-
-Les deux vont de pair, il ne sert à rien d'être dans la précipitation, on peut être rapide mais il ne faut pas oublier la rigueur ou tenter de faires plusieurs choses à la fois. Il vaut mieux prendre une pose ou faire quelque chose pendant une attente, que d'être happer et l'oublier. Et si on doit changer de tâche, alors il faut la noter et mieux, la planifier. Malgré la planification il faut aussi accepter que tout et n'importe quoi peut arriver à n'importe quel moment dans la vie de chacun et donc savoir être indépendant, c'est également pourquoi le partage de connaissance est important en entreprise. Lors de mon alternance chez SoeMan j'ai pu participer à des réunions d'on-boarding après quoi nous réalisions des comptes rendus. De Bussac Multimedia, nous avions en plus la chance de pouvoir partager initialement des petits posts de blogs, et plus tard de présenter des diaporama et démonstrations de ce que l'on voulait dans des sessions afterwork. Actuellement chez ABGX, nous avons même tout nos vendredis après midi de dédié à un projet interne annexe de notre choix. Pour autant on ne planifie que les tâches à faire, pas exactement quand, on définit un ordre, une pile des tâches à réaliser avec des priorités et urgences. Tout les workflow de travail que j'ai pu voir ont leurs avantages et leurs inconvénients, pour autant c'est chez ABGX que j'ai retrouver ce qui personnellement me convient le plus parmi toutes mes expériences, j'ai immensément apprécié être à plein temps sur la refonte graphique de SoEMan mais je n'avais plus l'impression d'être utile dans l'avancement du logiciel à cette période, chez De Bussac au contraire, j'avais la sensation d'être en symbiose avec mon emploi du temps qui régissait mon activité professionnelle avec malgré tout un certain confort. Ce même confort qui m'a appris à prendre mon temps chez ABGX, m'apportant malgré tout une sensation de décélération qui m'a parfois frustré. Pour autant, c'est celle qui m'a remis en phase avec le travail. Dans le travail comme en voiture, il faut adapter votre vitesse à votre environnement. Même sur une piste de course comme en formule 1, les meilleures temps sont réalisés en ayant la vitesse la plus optimale dans les conditions matérielles à ce moment.
-
-### Amélioration continue
-
-### Standardisation & Universalité
-
-L'uniformiusation à permi d'avoir un langage commun au même titre que la logique mathématique. Le système métrique 
-
 
 ### Communication & Compréhension
 
@@ -1967,7 +1969,7 @@ Il est intéressant d'abaisser son raisonnement en utilisant une métaphore pour
 
 transparence, adéquation clarté crédibilité, réactivité
 
-En tant que président Politesse, Respect et Bienveillance seront les maîtres mots de ma philosophie d'entreprise. Veiller à bien faire et bien communiquer, bien travailler, bien apprendre et retransmettre, et essayer tout les jours, malgré les hauts et les bas, de devenir un peu meilleur que la veille.
+En tant que président d'une SASU Politesse, Respect et Bienveillance seront les maîtres mots de ma philosophie d'entreprise. Veiller à bien faire et bien communiquer, bien travailler, bien apprendre et retransmettre, et essayer tout les jours, malgré les hauts et les bas, de devenir un peu meilleur que la veille.
 
 
 
@@ -1983,7 +1985,19 @@ De nos jours j'ai souvent entendu parler de philosophie d'entreprise. L'entrepri
 
 En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une même cause, est comme internet, la rue ou tout autre environnement dans lequel nous évoluons, c'est une indifférence, ce n'est ni bien, ni mal, cela ne dépends de ce que l'on en fait et à qu'elles fins. Nous devons tous un jour faire face au fait que nous sommes influencés et conditionnés par notre environnement et notre histoire, nos habitudes, et les groupes d'humains dans lesquels nous avons évolués. Le réel problèmes sont les dérives, notamment le fait de vénérer une autorité austère qu'on ne peut discuter, mais aussi tout les heurts qui nous sont propres. Pour le reste, la vie bats son plein et continue de parcourir le temps en faisant ce qu'elle a à faire, vivre. En réalisant EditIDE, je ne sais pas comment cet outil va être utilisé, mais je sais désormais que je veut créer des indifférences, et aller du global vers le particulier.
 
+### Prestation vs édition de logiciel
 
+Le modèle économique d'une entreprise influence énormément les comportement de ses salariés. Contraintes de temps et de budget
+
+Les prestataires vendent du temps, et ont donc naturellement tendance à avoir des deadline plus courtes et par conséquent plus de pression. Cela nécessite également une équipe commerciale solide capable de décrocher assez de projet pour faire travailler l'entreprise pendant les prochaines années. En contrepartie, ce n'est pas un logiciel ou site maintenable qui est demandé, mais il faut qu'il soit assez bien réalisé et fonctionnel pour être livré le plus rapidement possible afin d'en dégager une marge. 
+
+Les éditeurs logiciels quant a eux le louent généralement en tant que service ou le vendent en tant que bien, le nerf de la guerre réside alors dans la maintenabilité du logiciel auquel doit être ajouté des fonctionnalités au fil du temps. Plus le logiciel grossit, plus il est compliqué de maitriser les effets de bord et de comprendre l'intégralité du logiciel et de son historique. Ils ont cependant la chance d'avoir conçu une sorte de distributeur automatique qui n'a pas besoin d'action humaine.
+
+### Division du travail
+
+Charles Babbage a visité des maison d'échanges bancaires, et autres établissement de gestion, comme le bureau du cadastre qui du réaliser des cartes à jour pour établir une taxation. Il était fasciné par la division mentale du travail qui s'y opérait, la personne en charge du cadastre était le Baron Gaspard De Prony qui a également réaliser les *Grandes tables de logarithme* en seulement deux ans grâce à ses lectures des travaux d'Adam Smith, notamment de son œuvre "*Recherches sur la nature et les causes de la richesse des nations*". Ce dernier à été le premier à décrire le principe de division du travail. Ce principe sera par la suite réutilisé pour optimiser les temps de formations du personnel et de réalisation d'un produit. 
+
+https://fr.wikipedia.org/wiki/Division_du_travail
 
 ### Astrologie
 
@@ -2061,7 +2075,7 @@ Percevoir la réalité c'est rêver de la réalité, notre conscience est limit�
 
 ### Anticipation
 
-L'imagination nous permet de se projeter dans les différents scénarios possibles, on commence a croire qu'une chose va et on se demande alors : 'Qu'est ce qui se passerai probablement si cela se produit ?"
+L'imagination nous permet de se projeter dans les différents scénarios possibles, si on commence a croire qu'une chose va se passer, on se demande alors : 'Qu'est ce qui arriverai probablement si cela se produit ?"
 
 example avec la compiltion rust qui empeche les top 10 des erreurs
 
@@ -2069,35 +2083,23 @@ extrm prog
 
 Planning poker, reu tech, mais pas d'analyse commune -> rework et pair programming.
 
-On m'a reprocher mon manque de rigueur, mais personne ne fait les choses correctement en amont de mon travail de technicien. Les cahiers des charges sont incomplets, le cahier des charges technique inexistant.
-
-Ce qui m'agace le plus dans la rédaction des tickets, au delà du manque d'information, c'est l'information incorrecte qui pousse à suivre le déroulement indiqué pour ne pas avoir la finalité problématique décrite. On se retrouve dans l'incapacité de reproduire le problème qui nous laisse penser qu'il n'y a potentiellement pas de problème.
-
-imaginez un casque multisensoriel visuel qui permette a laide d'onduloanalyse de voir les temperatures, les zones radioactiactives,
-
-
-
 ### Temps 
 
 Tout est temps, c'est l’écoulement des choses, l'itération des actions qui s'écrivent et se succèdent.
 
-### Division du travail
+### A posteriori
 
-Charles Babbage a visité des maison d'échanges bancaires, et autres établissement de gestion, comme le bureau du cadastre qui du réaliser des cartes à jour pour établir une taxation. Il était fasciné par la division mentale du travail qui s'y opérait, la personne en charge du cadastre était le Baron Gaspard De Prony qui a également réaliser les *Grandes tables de logarithme* en seulement deux ans grâce à ses lectures des travaux d'Adam Smith, notamment de son œuvre "*Recherches sur la nature et les causes de la richesse des nations*". Ce dernier à été le premier à décrire le principe de division du travail. Ce principe sera par la suite réutilisé pour optimiser les temps de formations du personnel et de réalisation d'un produit. 
+Restaurer l'information perdue, vesuvius challenge https://scrollprize.org/
 
-https://fr.wikipedia.org/wiki/Division_du_travail
+On a récemment avéré que les techniques de peinture des grand maîtres ont étés transmises par Léonard de Vinci qui expérimentait de nouvelles techniques de peintures comme une première couche à base de plomb nommée Plombonacrite
 
+https://www.journaldugeek.com/2023/10/16/un-accelerateur-de-particules-revele-un-nouveau-secret-de-la-joconde/?utm_source=pocket-newtab-fr-fr
 
-
-
-
-### Développement
-
-En tant que chef d'entreprise, je me fiche du langage que tu utilise, fait le en patate ou en carotte si tu veux, mais réalise les fonctionnalités demandés, interconnecte les et fait en sorte que ça marche de manière pérenne, je me fiche du temps que ça prends, quand tu aura fini ta tâche, documentée elle sera, par n'importe qui elle pourra être reprise, et optimisée tu l'aura.
+https://pubs.acs.org/doi/10.1021/jacs.3c07000
 
 
 
-Tout devrait être automatique, je suis ravi que le prélèvement à la source ai permis d'automatiser les impôts, mais ça devrait également être le cas pour les aides, les assurances, mutuelles, et tout recours aux droits qui nous sont conférés, les loi devrait être des algorithmes, le système devrait être juste et positif, pour tous, réguler les ordres de grandeurs, réduire les inégalités, être réalisé pour le bien commun et non l'avarice, l'excentricité et la démesure.
+
 
 
 
@@ -2105,15 +2107,33 @@ Tout devrait être automatique, je suis ravi que le prélèvement à la source a
 
 On invente rien en réalité, on découvre le monde, on essaye de comprendre ses règles et les utiliser chacun a notre manière avec notre perception, sensibilite et connaissances.
 
-###### Rigueur et retravail
+#### Planifier et prendre son temps
 
-Démarche itérative avec demande de feed-back à chaque changement, besoin de ne pas renvoyer la balle mais de demander conseil sur le moment si possible pour encore plus d'agilité
+Les deux vont de pair, il ne sert à rien d'être dans la précipitation, on peut être rapide mais il ne faut pas oublier la rigueur ou tenter de faires plusieurs choses à la fois. Il vaut mieux prendre une pose ou faire quelque chose pendant une attente, que d'être happer et l'oublier. Et si on doit changer de tâche, alors il faut la noter et mieux, la planifier. Malgré la planification il faut aussi accepter que tout et n'importe quoi peut arriver à n'importe quel moment dans la vie de chacun et donc savoir être indépendant, c'est également pourquoi le partage de connaissance est important en entreprise. Lors de mon alternance chez SoeMan j'ai pu participer à des réunions d'on-boarding après quoi nous réalisions des comptes rendus. De Bussac Multimedia, nous avions en plus la chance de pouvoir partager initialement des petits posts de blogs, et plus tard de présenter des diaporama et démonstrations de ce que l'on voulait dans des sessions afterwork. Actuellement chez ABGX, nous avons même tout nos vendredis après midi de dédié à un projet interne annexe de notre choix. Pour autant on ne planifie que les tâches à faire, pas exactement quand, on définit un ordre, une pile des tâches à réaliser avec des priorités et urgences. Tout les workflow de travail que j'ai pu voir ont leurs avantages et leurs inconvénients, pour autant c'est chez ABGX que j'ai retrouver ce qui personnellement me convient le plus parmi toutes mes expériences, j'ai immensément apprécié être à plein temps sur la refonte graphique de SoEMan mais je n'avais plus l'impression d'être utile dans l'avancement du logiciel à cette période, chez De Bussac au contraire, j'avais la sensation d'être en symbiose avec mon emploi du temps qui régissait mon activité professionnelle avec malgré tout un certain confort. Ce même confort qui m'a appris à prendre mon temps chez ABGX, m'apportant malgré tout une sensation de décélération qui m'a parfois frustré. Pour autant, c'est celle qui m'a remis en phase avec le travail. Dans le travail comme en voiture, il faut adapter votre vitesse à votre environnement. Même sur une piste de course comme en formule 1, les meilleures temps sont réalisés en ayant la vitesse la plus optimale dans les conditions matérielles à ce moment.
 
-###### Amélioration continue
+#### Rigueur et retravail
+
+Démarche itérative avec demande de feed-back à chaque changement, besoin de ne pas renvoyer la balle mais de demander conseil sur le moment si possible pour encore plus d'agilité. On m'a reprocher mon manque de rigueur, mais personne ne fait les choses correctement en amont de mon travail de technicien. Les cahiers des charges sont incomplets, le cahier des charges technique inexistant.
+
+Ce qui m'agace le plus dans la rédaction des tickets, au delà du manque d'information, c'est l'information incorrecte qui pousse à suivre le déroulement indiqué pour ne pas avoir la finalité problématique décrite. On se retrouve dans l'incapacité de reproduire le problème qui nous laisse penser qu'il n'y a potentiellement pas de problème.
+
+#### Amélioration continue
 
 Doute constant et remise en question en sont la clé.
 
-###### Do it now
+
+
+#### Standardisation & Universalité
+
+L’uniformisation à permi d'avoir un langage commun au même titre que la logique mathématique. Le système métrique aussi
+
+Actuellement, malgré les bonnes pratiques prônées, peu sont mises en application et beaucoup de fois je me retrouve a effectuer des copier coller avec une légère modification, alors que ma philosophie est que chaque copier coller devrait être une fonction réutilisable avec pour paramètre les variables amenées a changer ou être configurable. Cela me permet de standardiser l'ensemble de mon code et de le factoriser au plus simple.
+
+Interopérabilité instantanée inter-appareils, édition live multiutilisateur 
+
+
+
+#### Do it now
 
 J'ai souvent entendu dire "ce n'est pas ce qui est demandé ni prioritaire, on fera ça plus tard", et bien évidement, la plupart du temps cela fini par n'être jamais fait. Dans les projets informatique c'est ainsi que la dette technique s'immisce, des fonctionnalités qui s’accumulent, des développements qui s’enchaînent, et pallie aux problèmes qu'avec des corrections rapides, s’attaquant aux causes plutôt qu'aux conséquences.
 
@@ -2121,7 +2141,7 @@ Dès que l'on constate un problème, il faut avoir le réflexe de réaliser la t
 
 
 
-###### Aide
+#### Aide
 
 Il n'y a jamais de mal à demander de l'aide, nous vivons dans un monde où cela demande pourtant beaucoup d'effort, hors quand on est en difficulté, c'est parfois peut être l'aide qui devrait venir à nous, et pas l'inverse.
 
@@ -2133,7 +2153,7 @@ Ce qui fait la force de l'humanité, c'est l'amitié et l'entraide, sans cela ce
 
 
 
-##### STOP
+#### STOP
 
 Dans le monde du travail, comme personnel, il faut savoir imposer son rythme et le justifier, tout comme savoir prendre des pauses et du recul pour analyser, afin de partir dans la bonne direction plutôt que d'avancer continuellement de manière imprécise et inefficace. Il est important de prendre soin de soi avant tout, cependant, quelqu'un qui bloque sur un problème n'avance plus et peut retarder les autre également. 
 
@@ -2143,23 +2163,33 @@ Les confinements comme celui que l'on a eu lors de la période du Covid nous le 
 
 
 
-##### Justification
+#### Justification
 
 Lorsque je commet une erreur, j'en assume la responsabilité, mais je me justifie souvent. Cela me permet d'identifier les causes du problème, et ainsi de clarifier la situation pour éviter de le reproduire. Dans le livre Lean Startup il est mentionné une phrase qui m'a marquée. L'idée est que lorsqu'une erreur survient, il est de notre responsabilité d'avoir rendue la faute si facile à commettre. Autrement dit, lorsqu'une personne faillit à sa tâche, il ne faut pas remettre en question sa responsabilité ou sa compétence, mais se demander pourquoi l'environnement n'a pas permis la réussite de l'action et rendu la situation d'échec si probable qu'elle c'est produite.
 
 
 
-##### Critique
+#### Critique
 
 Selon moi la critique constructive est positive pour le maître et l'apprenant des lors quelle s'effectue avec une communication positive tout en analysant les défauts et planifiant un programme pour les corriger. 
 
 
 
+#### Développement informatique
+
+Collaboration et travail d'équipe : Dans de nombreux projets, plusieurs développeurs doivent collaborer et travailler ensemble sur le même code, ce qui peut entraîner des conflits de version, des problèmes d'intégration et de coordination.
+
+En tant que chef d'entreprise, je me fiche du langage que tu utilise, fait le en patate ou en carotte si tu veux, mais réalise les fonctionnalités demandés, interconnecte les et fait en sorte que ça marche de manière pérenne, je me fiche du temps que ça prends, quand tu aura fini ta tâche, documentée elle sera, par n'importe qui elle pourra être reprise, et optimisée tu l'aura.
+
+
+
+Tout devrait être automatique, je suis ravi que le prélèvement à la source ai permis d'automatiser les impôts, mais ça devrait également être le cas pour les aides, les assurances, mutuelles, et tout recours aux droits qui nous sont conférés, les loi devrait être des algorithmes, le système devrait être juste et positif, pour tous, réguler les ordres de grandeurs, réduire les inégalités, être réalisé pour le bien commun et non l'avarice, l'excentricité et la démesure.
+
+
+
 ### Metagame
 
-Intelligence économique, politique et théorie des jeux.
-
-Choix et Theorie des jeux
+Intelligence économique, politique, choix et théorie des jeux.
 
 Jouez au jeu, suivez le pacte d’Ulysse.
 
@@ -2167,20 +2197,8 @@ https://ayowel.github.io/trust/
 
 
 
-1. Philosophie personnelle
-   1. Réalisation de projets WMD (WYSIWYG meta dogfood)
-      1. Markdown
-   2. La magie c'est de défaire et savoir refaire
-   3. LA DONNEE (collecte, emplacement géographique, valeur)
-   4. Un programme est un contrat.
-      1. Qu'il , soit moral ou non
-   5. Biais humain, machine, et réalité de la donnée (illusions de captation, interprétation, context)
-   6. Sécurité, permissions, et contraintes.
-   7. Intelligence, Ambiguïtés et apprentissage : Nous sommes tous des IAs
-   8. Apprentissage par l’erreur, sans elle rien ne serais possible le succès ne s’obtient qu’en résolvant des micro problèmes 
-   9. Interopérabilité instantanée inter-appareils, édition live multiutilisateur 
-   10. API
-   11. Cloud
+1. La magie c'est de défaire et savoir refaire
+2. Biais humain, machine, et réalité de la donnée (illusions de captation, interprétation, context)
 
 
 
@@ -2339,23 +2357,20 @@ Maintenant que l'infrastructure réseau nécessaire est en place, je vais expliq
 
 Medias
 
-
-
 2SIG Interfaces
 
 1. Structure
-
 2. Style
-
 3. Interaction
+4. Gestion de la donnée
 
-4. Gestion de la donnée 
-
-
-
+La donnée est la matière première d'un système d'information, sa collecte, son stockage à un emplacement géographique. Elle peut être à l'origine de bugs, si on attends une donnée numérique et que l'on a une donnée textuelle à la place, il faut gérer le cas, autrement il y a fort à parier que cela provoquerai un plantage car on ne peut pas additionner un nombre avec une cacahuète. Il convient de tester la robustesse de ses fonctionnalités en passant toute sorte de données de différant types et longueur sans jamais que le programme ne plante. Dans la réalité, on ne teste souvent que les cas qui marchent et le jour ou le format de donnée change, on corrige le plantage avec un patch tel une rustine sur une chambre à air sans prendre en compte les autres usures de cette dernière.
 
 
 
+
+
+### Qu'elle est la plus-value d'EditIDE ?
 
 Web builders are bad.
 
@@ -2363,176 +2378,18 @@ Web builders are bad.
 
 
 
+Un ludiciel doit être vivant, animé, utilisé, collaboratif.
 
+Réalisation de projets WMD (WYSIWYG meta dogfood) à commencer par les articles markdown
 
 Flux de travail d'EditIDE
 
 1. Gestion projet
 2. API
 3. Interface
-
-
-
-
-
-
-
-___
-
-
-
-
-
-https://fr.wikipedia.org/wiki/Utilisabilit%C3%A9
-
-https://en.wikipedia.org/wiki/High_availability
-
-https://c4model.com/
-
-
-
-
-
-### FOUTOIR
-
-#### Se programmer
-
-La mode n'est que passagère, il n'y a que les habitudes de vies et s'en tenir à un plan structuré et cohérent qui reste dans l'histoire. Il n'y a pas de bons ou de mauvais moments pour agir, il y a le moment et l’agissement qu'on y fait ou pas. La volonté est la seule capacité mentale capable de reprogrammer la pensée et ses habitudes. Il faut apprendre à dire non et encore plus savoir se dire non à soi-même.
-
-
-
-facilité d'utilisation, utilité, satisfaction, l'utilisation de l'application doit dépasser les attentes et promesses faites en amont
-
-5V de l'information sont volume vitesse variété véracité valeur, pour écrire ce mémoire c’est surtout le volume et la bonne variété ou proportion ainsi que la véracité qui a été au coeur de mes préoccupations
-
-Actuellement, malgré les bonnes pratiques prônées, peu sont mises en application et beaucoup de fois je me retrouve a effectuer des copier coller avec une légère modification, alors que ma philosophie est que chaque copier coller devrait être une fonction réutilisable avec pour paramètre les variables amenées a changer ou être configurable.
-
-
-
-J'ai longtemps haï l'écriture et je ne l'ai que rarement pratiquée, mais désormais, j'apprécie savoir et pouvoir partager de manière claire et la plus explicite possible, mes idées et ce que je sais comme étant vrai.
-
-Quand j'écris ma pensée, définie par son intention est claire, j'ai du mal a comprendre les philosophes antiques qui auraient dit ne pas vouloir transmettre leurs pensés à l'écrit car elle ne peut alors plus se défendre elle même. Bien que rappelons le a cet époque l'imprimerie n"existe pas encore, rendant la tâche plus complexe et rebutante.
-
-
-
-En toute humilité je sais que je peut paraître orgueilleux ou insolent, désolé si certains se sentent humiliés, j’en suis désolé, je m’en excuse.
-
-Ma motivation est intrinsèque mais toute gratification supplémentaire est la bienvenue.
-
-je ne me defini que par mon systeme de pensee, non pas par mon expérience ou mes groupes sociaux 
-
-
-
-
-
-[...]
-
-
-
-
-A la manière de Platon, je n'ai rien inventé, les idées sont immuables et universelles, elles n'appartiennent à personne.
-
-
-
-
-
-#### Prestation vs édition de logiciel
-
-Le modèle économique d'une entreprise influence énormément les comportement de ses salariés.
-
-Les prestataires vendent du temps, et ont donc naturellement tendance à avoir des deadline plus courtes et par conséquent plus de pression. Cela nécessite également une équipe commerciale solide capable de décrocher assez de projet pour faire travailler l'entreprise pendant les prochaines années. En contrepartie, ce n'est pas un logiciel ou site maintenable qui est demandé, mais il faut qu'il soit assez bien réalisé et fonctionnel pour être livré le plus rapidement possible afin d'en dégager une marge. 
-
-Les éditeurs logiciels quant a eux le louent généralement en tant que service ou le vendent en tant que bien, le nerf de la guerre réside alors dans la maintenabilité du logiciel auquel doit être ajouté des fonctionnalités au fil du temps. Plus le logiciel grossit, plus il est compliqué de maitriser les effets de bord et de comprendre l'intégralité du logiciel et de son historique. Ils ont cependant la chance d'avoir conçu une sorte de distributeur automatique qui n'a pas besoin d'action humaine.
-
-
-
-#### Cadriciel et Open Source
-
-Symfony, un outil logiciel facilitant la réalisation d'application webs, ne permet pas de surcharger l'attribut "name" d'un champ de formulaire, le retrait de requêtes expires ne marche pas... L'installation d'un de leurs plugin React m'a récemment causer defaut. J'ai eu, par la force des choses, à contacter la personne chargée de la documentation de Symphony. Un certain [Ryan](https://github.com/weaverryan), qui est "Symfony docs lead, writer at SymfonyCasts". Ce fût une expérience riche ou j'ai découvert un environnement qui m'est familier, bien que je n'ai pas souvent réaliser de l'open source avant. Une pipeline qui sors des erreurs à des lignes qui n'existent pas sur ma version, et qui malgré ça permet d'assurer la qualité de la documentation rédigée en RST ou DOCtor-RST, à l'aide de tests de compilation.
-
-
-
-#### ChatGPT
-
-Oui, j'ai utilisé ChatGPT pour écrire cet ouvrage, mais aucun texte n'en est extrait. Pourquoi ? Je tenais à rédiger moi même, comme je vous l'aurais expliqué à l'oral. Le passage sur Richard Stallman à neanmoins vu le jour grâce au modèle de génération de texte qu'est ChatGPT. J'ai voulu retrouver qui à prononcer une phrase dans le reportage : "Révoltes et révolutions technologiques | La Californie ! | ARTE"
-
-Voici le dialogue qui en est à l'origine :
-
-
-
-![](assets\ChatGPTRichardStallman.png)
-
-
-
-J'ai donc découvert que OpenAI n'aurais évidement pas été racheté par Microsoft s'il avait été sous licence GNU. Et que le homebrew club à été autant fier que déçu qu'IBM lance un ordinateur commercial, utilisant leur code.
-
-Aujourd'hui des entreprises utilisent du code Open Source dans leur business, certains utilisent à tors des logiciels GPL sans savoir que cette licence est contaminante et peut faire que leur logiciel devrait légalement être libre de facto. D'autres licences permettent aux entreprises d'utiliser des librairies pour un usage commercial. Certains projets Open Sources comme Symfony ont donné naissances à multitudes de Business à commencer par le leur, SensioLabs, qui fournissent des conférences et formations payantes, et sponsorise certaines entreprises experts dans cette technologie.
-
-
-
-Richard Stallman annonce le projet GNU le 27 Septembre **1983**, en 1985 il fonde le FSF, la Free Software Foundation. Ou Free ne signifie par gratuit dans le sens de prix mais dans le sens de liberté. Le langage C est alors grandement utilisé. Il invente également en 1989 la licence GNU General Public Licence, plus connu sous le nom de GPL.
-
-En 1987 Andrew S. Tanenbaum invente Minix un système d'exploitation UNIX avec une architecture 16 bit. Inspiré par Minix, Linus à donc créer **Linux en 1991**, avec un nouveau Kernel, lineage, sous licence GPL. Leur coopération donnera GNU/Linux qui est une suite embarquée d'éditeurs comme bash, emac, la GNU C Library et le compilateur GCC, et pleins d'autres 
-
-
-
-#### Opensource & logiciel libre
-
-Le free software 
-
-
-
-
-
-
-
-#### Philosophie
-
-https://fr.wikipedia.org/wiki/Philosophie_de_l%27information
-
-Philip Kindred Dick : "La réalité, c'est ce qui continue d'exister lorsque l'on cesse d'y croire"
-
-
-
-Comment est ce que je pense, imagine et souhaite aider a créer un avenir de la programmation ?
-
-A travers ma philosophie, à l'aide de l'intelligence et la . 
-
-"Peut on le faire et doit on le faire ?
-
-On peut dire oui on peut dire non, mais pour moi
-
-C'est mauvais de ne pas connaître si on peut connaître, c'est mauvais de ne pas savoir ce que l'on peut savoir, Ce veut dire qu'il faut préparer tout les engins toutes les techniques ou pratiques que la science permette."
-
-C'est très difficile pour le chercheur qui fait la découverte, de savoir et de peser immédiatement, les possibilités ultérieures. C'est le cas dans le jeu de la vie 
-
-
-
-
-
-Un ludiciel doit être vivant, animé, utilisé, collaboratif.
-
-file drop upload on paths 
-
-Comment reproduire le problème ? => Cypress test
-
-
-
-Complexité du problème à résoudre
-
-Gestion des erreurs et des bogues
-
-Gestion de la maintenance et des mises à jour
-
-Compatibilité et interopérabilité
-
-Sécurité
-
-Contraintes de temps et de budget
-
-Évolution rapide des technologies
-
-Collaboration et travail d'équipe : Dans de nombreux projets, plusieurs développeurs doivent collaborer et travailler ensemble sur le même code, ce qui peut entraîner des conflits de version, des problèmes d'intégration et de coordination.
+4. Sécurité et permissions.
+5. Mise en ligne
+6. Comment reproduire le problème ? => Cypress test
 
 
 
@@ -2544,15 +2401,11 @@ Where AM I ? (Path)
 
 ##### WYSIWYG
 
+Elementor / Typora / Python Notebook
+
 plus besoin d'alt tab entre votre ide et le navigateur 
 
 NO MORE CLI NO MORE BLOCNOTE
-
-Elementor
-
-Typora
-
-Python Notebook
 
 
 
@@ -2608,23 +2461,56 @@ Vue macro, vu micro, questions individuelles précises, groupe permet d'avoir le
 
 
 
+### Qu'elle sont les conditions de succès d'un logiciel ?
+
+facilité d'utilisation, utilité, satisfaction, l'utilisation de l'application doit dépasser les attentes et promesses faites en amont
+
+5V de l'information sont volume vitesse variété véracité valeur, pour écrire ce mémoire c’est surtout le volume et la bonne variété ou proportion ainsi que la véracité qui a été au coeur de mes préoccupations
+
+
+
+___
+
+### FOUTOIR
+
+En toute humilité je sais que je peut paraître orgueilleux ou insolent, désolé si certains se sentent humiliés, j’en suis désolé, je m’en excuse.
+
+Ma motivation est intrinsèque mais toute gratification supplémentaire est la bienvenue.
+
+je ne me défini que par mon système de pensée, non pas par mon expérience ou mes groupes sociaux
+
+
+A la manière de Platon, je n'ai rien inventé, les idées sont immuables et universelles, elles n'appartiennent à personne.
 
 
 
 
-##### A posteriori
 
-Restaurer l'information perdue, vesuvius challenge https://scrollprize.org/
+https://fr.wikipedia.org/wiki/Utilisabilit%C3%A9
 
-On a récemment avéré que les techniques de peinture des grand maîtres ont étés transmises par Léonard de Vinci qui expérimentait de nouvelles techniques de peintures comme une première couche à base de plomb nommée Plombonacrite
+https://en.wikipedia.org/wiki/High_availability
 
-https://www.journaldugeek.com/2023/10/16/un-accelerateur-de-particules-revele-un-nouveau-secret-de-la-joconde/?utm_source=pocket-newtab-fr-fr
 
-https://pubs.acs.org/doi/10.1021/jacs.3c07000
+
+#### Philosophie
+
+https://fr.wikipedia.org/wiki/Philosophie_de_l%27information
+
+Philip Kindred Dick :
+
+>  "La réalité, c'est ce qui continue d'exister lorsque l'on cesse d'y croire"
+
+Openheimer: 
+
+>  "Peut on le faire et doit on le faire ? On peut dire oui on peut dire non, mais pour moi. C'est mauvais de ne pas connaître si on peut connaître, c'est mauvais de ne pas savoir ce que l'on peut savoir, Ce veut dire qu'il faut préparer tout les engins toutes les techniques ou pratiques que la science permette." C'est très difficile pour le chercheur qui fait la découverte, de savoir et de peser immédiatement, les possibilités ultérieures. C'est le cas dans le jeu de la vie 
+
+
 
 
 
 ## Postface : Rétrospective et métacognition
+
+J'ai longtemps haï l'écriture et je ne l'ai que rarement pratiquée, mais désormais, j'apprécie savoir et pouvoir partager de manière claire et la plus explicite possible, mes idées et ce que je sais comme étant scientifiquement vrai. Quand j'écris ma pensée, je peut la relire comme si je m'entendais la prononcer, et ainsi la reformuler jusqu’à ce que son intention soit claire. J'ai ainsi du mal a comprendre les philosophes antiques qui auraient dit ne pas vouloir transmettre leurs pensées à l'écrit car elle ne peut alors plus se défendre elle même. Bien que rappelons le a cet époque l'imprimerie n'existe pas encore, rendant la tâche plus complexe et rebutante.
 
 J'ai écris ce mémoire en commençant par de la prise de note puis en rédigeant, reliant petit à petit toutes les idées et concepts dont je voulais parler. En soit comme beaucoup de personnalités évoqués dans mon œuvre, je n'ai rien inventé, j'ai découvert plein d'informations et me suis contenté de les compiler à la manière de Vitruve, ou d'un ordinateur. Chaque idée ou sujet que je voulais évoquer m'as demandé des heures de recherches et de lecture pour rédiger un maigre paragraphe résumant le thème étudié aux informations que je trouvais les plus pertinentes. 
 
@@ -2636,6 +2522,18 @@ Je n'ai pas pu tout garder, et j'ai du parler de personnes qui ont écris des ch
 
 
 
+Oui, j'ai utilisé Wikipédia et ChatGPT pour écrire cet ouvrage, mais aucun texte n'en est extrait. Pourquoi ? Je tenais à rédiger moi même, comme je vous l'aurais expliqué à l'oral. Le passage sur Richard Stallman à néanmoins vu le jour grâce au modèle de génération de texte qu'est ChatGPT. J'ai voulu retrouver qui à prononcer une phrase dans le reportage : "Révoltes et révolutions technologiques | La Californie ! | ARTE"
+
+Voici le dialogue qui en est à l'origine :
+
+
+
+![](assets\ChatGPTRichardStallman.png)
+
+J'ai donc découvert que OpenAI n'aurais évidement pas été racheté par Microsoft s'il avait été sous licence GNU. Et que le homebrew club à été autant fier que déçu qu'IBM lance un ordinateur commercial utilisant leur code.
+
+
+
 J'ai écrit ce mémoire en gardant en tête que ma relation pédagogique avec le Docteur Pachon à commencé par une action provocatrice et insolence de ma part. Avec l'accord de ce dernier, j'ai rédigé ce paragraphe pour rétablir publiquement la vérité quand à ce qui c'est réellement passé et à m'excuser publiquement. En effet, l'information a été déformée. Bien qu'elle ai garder l'idée globale que la prévention est importante et qu'il vaut mieux être averti par quelqu'un de bien intentionné, au moment des faits M. Pachon ne me connait pas, il ne sait pas si l'accès non autorisé à son ordinateur n'a pas permis un grief plus important que la simple saisie du mot croissant dans la recherche Windows, qui représente réellement la seule interaction que j'ai eu avec son poste. C'est pourquoi j'ai pleinement accepté et compris non seulement sa réaction mais également sa volonté justifiée de me sanctionner. Comme je l'ai mentionner à l'oral aux gens avec qui j'ai pu en reparler et dans mon mail d'excuse, mon approche était maladroite et suite à des "dramas X" (initialement Twitter), l'officier de Gendarmerie Matthieu Audibert (https://twitter.com/MattAudibert) a rappelé que dans la loi : tout accès à "un système de traitement automatisé de données est puni de trois ans d'emprisonnement et de 100 000€ d'amende."[^1] Je ne saurais donc ni contester la loi, ni le ressenti du Docteur Pachon lors de cet évènement dont j'ai été l'acteur initial. L'éthique doit être reliée à la morale sinon elle  n'aurait pas lieu d'être.
 
 Encore merci à tous d'être l'individu que vous êtes. Tâchez d'être encore meilleur(e)s jours après jours mais faites le et vivez pour vous-même. Pour le moment, si vous avez lu ce texte, vous faites surement parti de l'humanité.
@@ -2643,6 +2541,7 @@ Encore merci à tous d'être l'individu que vous êtes. Tâchez d'être encore m
 Tant que j'y pense, voici une liste de projet qui me sont venus en tête lors de la rédaction de ce mémoire :
 
 - Faire un autocompléteur pour une langue parlée pour la rédaction écrite
+- Il existe déjà des casque de VR permettant de visualiser les zones couvertes par le wifi, imaginez un casque multisensoriel visuel qui permette a laide d'onduloanalyse de voir les temperatures, les zones radioactiactives,
 
 Puisque j'ai beaucoup travaillé sur l'écriture mémoire qui m'a tant appris, je finirai sur une citation de Célestin Freinet sur l'imprimerie et plus généralement sur l'écriture en tant qu'exercice pédagogique : 
 
