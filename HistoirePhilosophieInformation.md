@@ -1759,10 +1759,10 @@ https://hal.science/hal-02970135/document
 
 ##### Managériales
 
-1. Tests et Vérification
-2. CI / CD
-3. Commentaires et documentation
-4. Gestionnaires de version 
+Dans une grande partie des lignes de production il a une équipe dédiée aux tests et à la vérification. Elle est chargée de s'assurer que le produit est conforme à leurs attentes ou à celles formulées dans un document dédié comme un cahier des charges idéalement technique. Dans le monde de la production logicielle, nous avons la chance de pouvoir l'automatiser à l'aide de pratiques DevOps, intégration et déploiement continus (CI / CD) permettent non seulement de vérifier le bon fonctionnement d'une liste de fonctionnalités mais également de les mettre automatiquement à disposition du public lorsqu'elles sont toutes valides.
+
+1. Commentaires et documentation
+2. Gestionnaires de version 
 
 Git est un logiciel de gestion de versions décentralisé sous licence GNU GPL. C'est un logiciel libre et gratuit, initié en **2005** par Linus Torvalds le créateur de Linux lors de la création de son noyau. Linus ne voulait pas réaliser ce projet seul et a rapidement compris que la qualité d'un logiciel viendrai des débats houleux entre ses collaborateurs et l'implémentation de la meilleure idée à la fin. graphe d'historique de modifications de fichiers visualisable avec gource.
 
