@@ -676,9 +676,9 @@ Le terme biologie, en tant que science de l'étude des êtres vivants, a été i
 
 [^1]: https://gallica.bnf.fr/ark:/12148/bpt6k5675762f
 
-Ernst Mach 1838
+Ernst Mach est né en 1838, il est un physicien empiriste, il a beaucoup travailler sur la dynamique des fluides, notamment le comportement des ondes dans ces derniers, et les vitesses supersoniques. C'est d'ailleurs pourquoi on lui doit la notation de la vitesse en Mach qui représente la vitesse d'un objet dans un fluide comparée à la vitesse du son dans ce même fluide. Egalement épistémologue, il a inventé une philosophie de la science. Ces travaux ont inspiré Einstein 
 
-Peirce 1839, influencé par Bolzano, influencera à son tour John Dewey
+Charles Sanders Peirce est né un an après Ernst Mach, influencé par Bolzano,  il influencera à son tour John Dewey et bien d'autres. Il a été philosophe mais surtout scientifique et logicien, il a poser les bases des tables de vérité qui utilisent encore aujourd'hui sa notation comme la flèche de Peirce.
 
 Nietzsche 1844
 
