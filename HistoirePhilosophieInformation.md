@@ -1441,7 +1441,9 @@ En **1998** IBM créé le premier ordinateur quantique sur les travaux de Rolf L
 
 ### Bilan passé
 
-J'ai pu remarquer à travers l'Histoire que les inventions de savants et créateurs ne sortent que rarement de nulle part. Leurs origines proviennent souvent de (re)découvertes des principes existants, qu'ils compilent et les réutilisent à leur manières, améliorant les idées de leurs prédécesseur et réalisant de meilleurs outils à force d'itérations innovantes. Des inventions comme le Radar ou la pile de Volta trouvent leur inspiration dans des observations de la nature avec les chauves souris qui se guident à l'aide de l'écholocalisation, ou les anguilles électriques capable de produire des courants allant jusqu'à 860V et 2A. Certaines personnes seront les pionnières dans leur domaine, mais généralement accompagnés par d'autres car les idées naissent d'une combinaison d'autres déjà existantes dans le contexte mondial à un moment donné. Il est en effet impossible de savoir qui à eu l'idée d'une chose pour la première fois, on ne retiendra naturellement que la première personne à avoir populariser le terme ou l'idée, parfois à travers la commercialisation d'un produit, d'autre fois grâce à une publication scientifique ou dépôt d'un brevet, et certaines informations plus ésotériques ne se transmettrons que par la parole, conservant ainsi un secret relatif. Plus récemment, en 2023, de simples utilisateurs d'application mobile découvriront ce que les mathématiciens recherchent depuis des siècles, comme ça a été le cas des pavages apériodiques et notamment de celui d'ein Stein (une tuile en allemand).
+J'ai pu remarquer à travers l'Histoire que les inventions de savants et créateurs ne sortent que rarement de nulle part. Leurs origines proviennent souvent de (re)découvertes des principes existants, qu'ils compilent et les réutilisent à leur manières, améliorant les idées de leurs prédécesseur et réalisant de meilleurs outils à force d'itérations innovantes. Des inventions comme le Radar ou la pile de Volta trouvent leur inspiration dans des observations de la nature, notamment des animaux avec les chauves souris qui se guident à l'aide de l'écholocalisation, ou les anguilles électriques capable de produire des courants allant jusqu'à 860V et 2A. Les personnes pionnières dans leur domaine sont généralement suivies par foule de passionnés car les idées naissent d'une combinaison d'autres déjà existantes dans le contexte mondial à un moment donné. Il est en effet impossible de savoir qui à eu l'idée d'une chose pour la première fois, on ne retiendra naturellement que la première personne à avoir populariser le terme ou l'idée, parfois à travers la commercialisation d'un produit, d'autre fois grâce à une publication scientifique ou dépôt d'un brevet. Certaines informations plus ésotériques ne se transmettrons que par la parole, conservant ainsi un secret relatif.
+
+Les découvertes ne sont pas toujours l'œuvre de savants ou de personnes renommés. En 2023, de simples utilisateurs d'application mobile découvriront ce que les mathématiciens recherchent depuis des siècles. ça a été le cas d'une forme dite d'ein Stein (une tuile en allemand), que les chercheurs ne pensaient pas possible jusque là alors qu'elle est en réalité très simple. Cette dernière  permet de réaliser un pavage apériodiques c'est à dire de recouvrir une surface plane par emboitement de copies de cette forme, sans qu'elle ne se répète à l'identique comme les carreaux d'une grille.
 
 Bien que les prémices de l'informatique viennent de l'Époque moderne, au 17 ème siècle, période avec un besoin grandissant de calcul ; elle naquit après la révolution industrielle, au 19&nbsp;ème siècle lors de l'Époque contemporaine, et ne commence à réellement émerger qu'après la seconde guerre mondiale qui marque le début d'une nouvelle ère de progrès technologiques, accompagnée d'une forte augmentation de la démographie mondiale causée par le baby boom. Les machines à calculer ne datent pas d'aujourd'hui, le premier programme quand à lui à été imaginé en 1842, pour autant, il faudra attendre 1950 pour voir apparaître l'assembleur et les premiers langages de haut niveau. 
 
@@ -2460,11 +2462,15 @@ ___
 
 ### FOUTOIR
 
+
+
+#### 12 24 36 48 361248 2520=9x8x7x5
+
 En toute humilité je sais que je peut paraître orgueilleux ou insolent, désolé si certains se sentent humiliés, j’en suis désolé, je m’en excuse.
 
 Ma motivation est intrinsèque mais toute gratification supplémentaire est la bienvenue.
 
-je ne me défini que par mon système de pensée, non pas par mon expérience ou mes groupes sociaux
+je ne me défini que par mon système de pensée, non pas par mon apparence corporelle qui me dégoute ni par mon expérience ou mes groupes sociaux
 
 
 A la manière de Platon, je n'ai rien inventé, les idées sont immuables et universelles, elles n'appartiennent à personne.
@@ -2489,7 +2495,11 @@ Philip Kindred Dick :
 
 Openheimer: 
 
->  "Peut on le faire et doit on le faire ? On peut dire oui on peut dire non, mais pour moi. C'est mauvais de ne pas connaître si on peut connaître, c'est mauvais de ne pas savoir ce que l'on peut savoir, Ce veut dire qu'il faut préparer tout les engins toutes les techniques ou pratiques que la science permette." C'est très difficile pour le chercheur qui fait la découverte, de savoir et de peser immédiatement, les possibilités ultérieures. C'est le cas dans le jeu de la vie 
+>  "Peut on le faire et doit on le faire ? On peut dire oui on peut dire non, mais pour moi. C'est mauvais de ne pas connaître si on peut connaître, c'est mauvais de ne pas savoir ce que l'on peut savoir, Ce veut dire qu'il faut préparer tout les engins toutes les techniques ou pratiques que la science permette."
+
+C'est très difficile pour le chercheur qui fait la découverte, de savoir et de peser immédiatement, les possibilités ultérieures.
+
+C'est le cas dans le jeu de la vie 
 
 
 
