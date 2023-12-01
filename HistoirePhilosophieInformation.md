@@ -2560,6 +2560,8 @@ Tant que j'y pense, voici une liste de projet qui me sont venus en tête lors de
 - Faire un autocompléteur pour une langue parlée pour la rédaction écrite
 - Il existe déjà des casque de VR permettant de visualiser les zones couvertes par le wifi, imaginez un casque multisensoriel visuel qui permette a laide d'onduloanalyse de voir les temperatures, les zones radioactiactives,
 
+Si il y'a bien quelque chose que l'on ne peut comprendre qu'en étant seul, c'est bien qu'être adulte concomite avec faire tout les jours un peu plus attention au soi de demain.
+
 Puisque j'ai beaucoup travaillé sur l'écriture mémoire qui m'a tant appris, je finirai sur une citation de Célestin Freinet sur l'imprimerie et plus généralement sur l'écriture en tant qu'exercice pédagogique : 
 
 > Dans la pratique, on ne se lasse jamais d’imprimer et les adultes se laissent prendre eux aussi à la minutie d’une technique qui permet la transcription en une forme magnifiée et définitive des textes auxquels on veut donner vie et harmonie. L’enfant qui compose un texte le sent naître sous sa main ; il lui donne une nouvelle vie, il le fait sien. Il n’y a désormais plus d’intermédiaire dans le processus qui conduit de la pensée ébauchée, puis exprimée, au journal qu’ils postent pour les correspondants : tous les échelons y sont : écriture, mise au point collective, composition, illustration, disposition sur la presse, encrage, tirage, groupage, agrafage. C’est justement cette continuité artisanale qui constitue l’essentiel de la portée pédagogique de l’imprimerie à l’école. Elle corrige ce qu’a d’irrationnel en éducation cette croyance que d’autres peuvent créer pour nous notre propre culture.
@@ -2583,7 +2585,7 @@ Je me suis retenu de partager des posts LinkedIn tels que celui-ci. https://www.
 
 ## Annexes
 
-
+Mon œuvre peut être vendue avec mon accord mais elle est libre et sera toujours accessible comme c'est le cas actuellement sur GitHub ! :) Si vous voulez lire cela sur un libre rien ne vous empêche d'en payer un ou concevoir un vous même.
 
 #### Bibliographie
 
@@ -2679,7 +2681,7 @@ https://www.youtube.com/watch?v=avTMg2THEvM
 
 
 
-
+Lean Startup
 
 
 
