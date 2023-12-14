@@ -2,43 +2,43 @@
 
 Dorian Blanchard
 
-Mémoire de fin d'étude pour la validation du diplôme résultant de mon parcours en Administration des systèmes d'information.
+Mémoire de fin d'étude pour la validation du diplôme résultant de mon parcours en Administration des systèmes d'information à l'École Hexagone.
 
 
 
 ## Résumé
 
-Cet ouvrage, conformément à son titre et aux recherches qu'il a nécessité, énonce le passé, le présent, et ma pensée concernant le futur de la gestion de l'information. L'étude des connaissances existantes sur ce sujet vous replongera sûrement dans vos cours d'Histoire, elle mettra en situation le présent avec un abrégé allant de la préhistoire jusqu’à l'état actuel du monde scientifique, et plus particulièrement de l'informatique. Cette discipline récente permet désormais de solutionner et automatiser beaucoup de tâches pénibles, mais sa pratique en elle même reste fastidieuse. C'est pourquoi j'en ai fait le cœur de ma problématique, que je l'analyse pour la repenser dans un essai philosophique, et que la dernière partie se nomme "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?". À l'aide des parties précédentes analysant son origine, la conclusion proposera ainsi une solution informatique innovante, combinant des technologies et pratiques existantes pour se simplifier elle même en utilisant de la rétro-action, et de la méta-programmation à travers une interface graphique simple et agréable.
+Cet ouvrage, conformément à son titre et aux recherches qu'il a nécessité, énonce le passé, le présent, et ma pensée concernant le futur de la gestion de l'information. L'étude des connaissances existantes sur ce sujet vous replongera sûrement dans vos cours d'Histoire. Cet état de l'art mettra en situation le présent avec un abrégé allant de la préhistoire jusqu’à l'état actuel du monde scientifique, et plus particulièrement de l'informatique. Cette discipline récente permet désormais de solutionner et automatiser beaucoup de tâches pénibles, mais sa pratique en elle même reste fastidieuse. C'est pourquoi j'en ai fait le cœur de ma problématique, que j'analyse pour la repenser dans un essai philosophique, et que la dernière partie se nomme "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?". À l'aide des parties précédentes analysant son origine, la conclusion proposera ainsi une solution informatique innovante, combinant des technologies existantes pour se simplifier elle même en utilisant de la rétro-action, et de la méta-programmation à travers une interface graphique simple et agréable.
 
 <div style="page-break-after: always;"></div>
 
 ## Préface
 
-Avant de vous raconter l'histoire de l'information, je vais brièvement vous parler de la mienne en toute vulnérabilité, abordant surtout mon rapport à la discipline qu'est l'informatique. De cette manière vous pourrez mieux comprendre et mon identité, et les raisons qui m'ont pousser à effectuer des recherches sur l'Histoire et la Philosophie de l'Information, pour finir par conclure sur les possibles améliorations de l'expérience développeur.
+Avant de vous raconter l'histoire de l'information, je vais brièvement vous parler de la mienne en toute vulnérabilité, abordant surtout mon rapport à la discipline qu'est l'informatique. De cette manière vous pourrez mieux comprendre mon identité, et les raisons qui m'ont poussé à effectuer des recherches sur l'Histoire et la Philosophie de l'Information, pour finir par conclure sur les possibles améliorations de l'expérience développeur.
 
 Après l'obtention de mon Baccalauréat scientifique en 2016, débarquant alors en DUT informatique, je n'avais programmé qu'en BASIC sur une calculatrice Texas Instrument. À cette époque je n'étais qu'un gamin ayant sauté la grande section et le cours primaire pour avoir su lire à 2 ans et demi grâce au logiciel éducatif Lapin malin. Je débarque donc à Clermont-Ferrand du haut de mes de 17 ans, découvrant l'indépendance dans un 9m² fibré du CROUS, dans lequel j'ai utilisé pendant 3 ans un réseau privé virtuel (VPN) pour contourner les limitations du réseau RENATER, et pouvoir ainsi jouer à League Of Legends avec 5 millisecondes de latence.
 
-Je n'avais alors jamais vraiment travaillé de ma vie, je ne faisais pas mes devoirs, et malgré cela j'obtenais toujours la moyenne tant bien que mal, voyant cette dernière chuter année après année. Je n'étais évidement pas prêt à la complexité et la rigueur du C ou de Bash. Jusque là, mon apprentissage de cette discipline sur ma calculatrice était purement empirique. Lors de la première année de DUT, l'enseignement de la programmation nous a été introduit sur papier, en commençant donc par la théorie que l'on avait pour la majorité jamais pratiquée et donc du mal à conceptualiser. Comme je n'avais pas encore l'habitude de travailler régulièrement, j'ai logiquement été noyé par la quantité d'information et ne les comprenais souvent qu'après les contrôles, lors de la correction, me rendant compte de mes erreurs et réajustant ma version de ce qui était correct en fonction. J'étais tellement largué en contrôle que lorsque j'ai réalisé mon premier projet de C, comprenant alors pleinement la théorie en me l'appropriant par la pratique, réalisant 80% du projet par moi même, le professeur en question m'a mis une note bien moindre qu'au camarade ayant réalisé les 20% restants, donnant malgré tout la moyenne au dernier de notre trinôme.
+Je n'avais alors jamais vraiment travaillé de ma vie, je ne faisais pas mes devoirs, et malgré cela j'obtenais toujours la moyenne tant bien que mal, voyant cette dernière chuter année après année. Je n'étais évidement pas prêt à la complexité et la rigueur du C ou de Bash. Jusque là, mon apprentissage de cette discipline sur ma calculatrice était purement empirique. Lors de la première année de DUT, l'enseignement de la programmation nous a été introduit sur papier, en commençant donc par la théorie que l'on avait pour la majorité jamais pratiquée et donc du mal à conceptualiser. Comme je n'avais pas encore l'habitude de travailler régulièrement, j'ai logiquement été noyé par la quantité d'information et ne les comprenais souvent qu'après les contrôles, lors de la correction, me rendant compte de mes erreurs et réajustant ma version de ce qui était correct en fonction. J'étais tellement largué en contrôle que lorsque j'ai réalisé mon premier projet de C, comprenant alors pleinement la théorie en me l'appropriant par la pratique, réalisant 80% du projet par moi même, le professeur en question m'a attribuer une note bien moindre qu'au camarade ayant réalisé les 20% restants, donnant malgré tout la moyenne au dernier de notre trinôme.
 
-[Ce projet est toujours disponible sur mon GitHub](https://github.com/hedocode/StudentResidenceManager), il s'agit d'un gestionnaire de résidence étudiante, et moi qui haïssait alors la ligne de commande toute moche et très peu conviviale ou facile à utiliser, j'étais alors le seul étudiant de la promotion à avoir réalisé tout l'affichage en changeant la couleur de fond et du texte, dans le but de simuler une interface graphique, à l'instar des premiers BIOS et des interfaces console interactives que l'on peut avoir encore aujourd'hui, comme `dpkg-reconfigure` sur Linux, qui est soit dit en passant car j'ai eu le cas récemment, le meilleur moyen de changer la langue de son clavier pour passer de QWERTY à AZERTY de façon permanente en utilisant la ligne de commande.
+[Ce projet est toujours disponible sur mon GitHub](https://github.com/hedocode/StudentResidenceManager), il s'agit d'un gestionnaire de résidence étudiante. Moi qui haïssait alors la ligne de commande toute moche et très peu conviviale ou facile à utiliser, étais alors le seul étudiant de la promotion à avoir réalisé les affichages en changeant la couleur de fond et du texte. J'ai ainsi simuler une interface graphique plus agréable, à l'instar des premiers BIOS et des interfaces console interactives que l'on peut avoir encore aujourd'hui comme `dpkg-reconfigure` sur Linux, qui est soit dit en passant car j'ai eu le cas récemment : le meilleur moyen de changer la langue de son clavier pour passer de QWERTY à AZERTY de façon permanente en utilisant la ligne de commande.
 
 ![](./assets/dpkg-reconfigure.png)
 
 J'ai rapidement découvert les compilateurs, qui indiquent les erreurs tant bien que mal, qui ont parfois eux même des erreurs ou manques de précisions, nécessitant de comprendre pleinement son fonctionnement et son propre code pour arriver à trouver et corriger le problème. Cela peut être décourageant pour beaucoup, et c'est d'ailleurs certainement une des raisons pour lesquelles une bonne partie des élèves abandonnent en première année.
 
-En deuxième année, j'ai dirigé et développé en grande partie un projet libre de fin d'année. Comme beaucoup d'étudiant en informatique je voulais réaliser un jeu, et me suis lancé dans son développement en C#, en utilisant MonoGame, un outil logiciel facilitant la création d'un jeu en fournissant de quoi afficher des rectangles, remplis de couleurs ou d'images, et quelles règles leur appliquer à chaque itération, avant mise à jour de l'affichage. Pour la réalisation de ce jeu, j'ai développé pleins d'outils pour gérer la vitesse et les collisions entre les entités. À cet effet, le calcul d'angles et de distances, la trigonométrie ou encore le théorème de Pythagore m'ont tous été très utiles.
+En deuxième année, j'ai dirigé et développé en grande partie un projet libre de fin d'année. Comme beaucoup d'étudiant en informatique je voulais réaliser un jeu, et me suis lancé dans son développement en utilisant C# et MonoGame, un outil logiciel facilitant la création d'un jeu en fournissant de quoi afficher des rectangles, remplis de couleurs ou d'images, et quelles règles leur appliquer à chaque itération, avant mise à jour de l'affichage. Pour compléter les fonctionnalités qui m'étaient fournies, j'ai développé mes propres outils logiciel pour gérer la vitesse et les collisions entre les entités. À cet effet, le calcul d'angles et de distances, la trigonométrie ou encore le théorème de Pythagore m'ont tous été très utiles.
 
 Après l'obtention de mon DUT, je n'ai pas trouvé d'alternance et donc pas été pris en licence professionnelle. Je me suis donc dirigé vers une deuxième année de licence en informatique dans le but de réaliser un master par la suite. Lors de cette année, il nous a été demandé de réaliser un projet de client-serveur employant des sockets pour une communication en temps réel, j'ai pu réutiliser mon projet de C et les connaissances de mon DUT avec bien entendu la technique pour simuler une interface graphique dans un environnement console, créant avec succès [Ohen, un jeu multijoueur en ligne](https://github.com/hedocode/ohen/blob/master/ohen-c/README.md).
 
-Pour autant, je me suis vite rendu compte qu'il me manquait des bases pour allez au bout de ce cursus, notamment le vocabulaire mathématique enseigné dans la première année de licence que je n'avais pas réalisé, et la motivation nécessaire pour réussir dans cette formation plus théorique, nécessitant d'entrer en Master après pour aboutir un Bac + 5. J'ai donc abandonné. En attendant la fin de l'année, j'ai failli être défaillant dans la seule matière qui me plaisait. Me rendant compte de cela, j'ai travaillé intensément pendant une semaine pour effectuer le projet demandé, codant ainsi le [Jeu de la vie de Conway](#John-Horton-Conway) en utilisant Monogame et C#, deux outils que je maîtrisait bien. J'ai alors pu retourner voir le professeur de cette matière avec un projet fini, bien que rendu en retard, et n'ai ainsi pas été considéré défaillant. Ce projet est également disponible sur mon GitHub dans une [compilation de mes projets MonoGames](#https://github.com/hedocode/MyMonoGames/tree/main), avec un [installeur Windows](#https://github.com/hedocode/MyMonoGames/releases/tag/v0.0.0).
+Pour autant, je me suis vite rendu compte qu'il me manquait des bases pour allez au bout de ce cursus, notamment le vocabulaire mathématique enseigné dans la première année de licence que je n'avais pas réalisé, et la motivation nécessaire pour réussir dans cette formation plus théorique, nécessitant par la suite d'entrer en Master pour aboutir un Bac + 5. J'ai donc abandonné. En attendant la fin de l'année scolaire, j'ai failli être défaillant dans la seule matière qui me plaisait. Me rendant compte de cela, j'ai travaillé intensément pendant une semaine pour effectuer le projet demandé, codant ainsi le [Jeu de la vie de Conway](#John-Horton-Conway) en utilisant Monogame et C#, deux outils que je maîtrisait bien. J'ai alors pu retourner voir le professeur de cette matière avec un projet fini, bien que rendu en retard, et n'ai ainsi pas été considéré défaillant. Ce projet est également disponible sur mon GitHub dans une [compilation de mes projets MonoGames](https://github.com/hedocode/MyMonoGames/tree/main), avec un [installeur Windows](https://github.com/hedocode/MyMonoGames/releases/tag/v0.0.0).
 
-Cette année à été à la fois la pire et la meilleure de ma vie, une fois que j'eus abandonné, j'étais complètement perdu mais résolu à trouver une solution et aller de l'avant. J'avais du mal à savoir ce que j'allais faire, j’étais atterré par mon échec ainsi que le manque de soutien et de volonté qui aurait pu me permettre de rattraper les lacunes de la première année de licence informatique que je n'avais pas réalisé. Je suis content d'avoir eu la jugeote nécessaire, ainsi qu'un bon ami qui m'a permis d'avoir une alternance en tant que Développeur Full-Stack chez l'éditeur de logiciel CRM nommé SoEMan Group, et ainsi finir par intégrer la licence professionnelle web, après un an d'incertitude et de remise en question. Cette première alternance m'a permit de mieux comprendre SQL et PHP que pendant de mes cours, j'ai même pu reprendre un projet de refonte graphique de l'affichage de l’application web pour la rendre fonctionnelle sur toutes tailles d'écrans, ce projet a lui même été repris et aboutit par la suite. J'ai beaucoup apprécié cette première expérience de développement front-end car j'ai moi-même maquetter les affichages avant de les réaliser et que je pouvais voir concrètement l'effet du code, sans avoir cette sensation de boite noire incompréhensible que procure le développement back-end.
+Cette année a été à la fois la pire et la meilleure de ma vie, une fois que j'eus abandonné, j'étais complètement perdu mais résolu à trouver une solution et aller de l'avant. J'avais du mal à savoir ce que j'allais faire, j’étais atterré par mon échec ainsi que le manque de soutien et de volonté qui aurait pu me permettre de rattraper les lacunes de la première année de licence informatique que je n'avais pas réalisé. Je suis content d'avoir eu la jugeote nécessaire, ainsi qu'un bon ami qui m'a permis d'avoir une alternance en tant que Développeur Full-Stack chez l'éditeur de logiciel CRM nommé SoEMan Group, et ainsi finir par intégrer la licence professionnelle web, après un an d'incertitude et de remise en question. Cette première alternance m'a permit de mieux comprendre SQL et PHP que pendant de mes cours, j'ai même pu reprendre un projet de refonte graphique de l'affichage de l’application web pour la rendre fonctionnelle sur toutes tailles d'écrans, ce projet a lui même été repris et aboutit par la suite. J'ai beaucoup apprécié cette première expérience de développement front-end car j'ai moi-même maquetté les affichages avant de les réaliser, pouvant voir concrètement l'effet du code sur l'affichage, sans avoir cette sensation de boite noire incompréhensible que procure le développement de la gestion de l'information dans le back-end.
 
-Durant cette année de Licence professionnelle web, que j'ai obtenu en bout de course avec un minable 9.96, j'ai eu l'idée d'un projet informatique qui me permettrait de réaliser tout les autres plus facilement. J'ai donc, le 27 octobre 2019, commencé un prototype de logiciel d'environnement de développement intégré (IDE) alors nommé KIDE.
+Durant cette année de Licence professionnelle web, que j'ai obtenue en bout de course avec un minable 9.96, j'ai eu l'idée d'un projet informatique qui me permettrait de réaliser tout les autres plus facilement. J'ai donc, le 27 octobre 2019, commencé un prototype de logiciel d'environnement de développement intégré (IDE) alors nommé KIDE.
 
-Après obtention de mon diplôme de niveau Bac + 3, j'ai été embauché le 25 décembre 2019 par l'agence web clermontoise De Bussac Multimédia, en tant que développeur Front-End. J'y ai travaillé pendant 2 ans et 6 mois, finissant Lead Développeur Front-End sur un projet React important et complexe. Ce premier CDI m'a permis d'apprendre à maîtriser des compétences qui ne nous avait pas été enseignées lors de mon cursus plus orienté Back-End. Les dates limites et l'exigence du rendu y était très importantes, j'ai du améliorer ma productivité et ma rigueur pour arriver à mes objectifs. Sans cette expérience je n'aurais pas connu l'École Hexagone ni eu la volonté et la rigueur nécessaire à l'aboutissement cette fin d'étude que j'ai réalisée en alternance chez ABGX en tant que développeur Full-Stack, continuant mon éternel apprentissage et aboutissant ainsi un Bac + 5 avec la réalisation de ce mémoire.
+Après obtention de mon diplôme de niveau Bac + 3, j'ai été embauché le 25 décembre 2019 par l'agence web clermontoise De Bussac Multimédia, en tant que développeur Front-End. J'y ai travaillé pendant 2 ans et 6 mois, finissant Lead Dev sur un projet React important et complexe. Ce premier CDI m'a permis d'apprendre à maîtriser des compétences qui ne nous avait pas été enseignées lors de mon cursus plus orienté Back-End. Les dates limites et l'exigence du rendu y était très importantes, j'ai du améliorer ma productivité et ma rigueur pour arriver à mes objectifs. Sans cette expérience je n'aurais pas connu l'École Hexagone ni eu la volonté et la rigueur nécessaire à l'aboutissement cette fin d'étude que j'ai réalisée en alternance chez ABGX en tant que développeur Full-Stack sur une solution logicielle de gestion de la radioprotection, continuant mon éternel apprentissage et obtenant ainsi un Bac + 5 avec la réalisation de ce mémoire.
 
-Depuis le 27 octobre et durant toutes ses années, ma détermination à développer un IDE convivial et intuitif n'a cessé de grandir. À l'issue de mon contrat d'alternance, je sais d'or et déjà que je vais créer une entreprise et réaliser des missions de prestations pour financer la réalisation de ce projet. Le problème auquel il répondra sera celui de ce mémoire.
+Depuis le 27 octobre 2019 et durant toutes ses années, ma détermination à développer un IDE convivial et intuitif n'a cessé de grandir. À l'issue de mon contrat d'alternance, je sais d'or et déjà que je vais créer une entreprise et réaliser des missions de prestations pour financer la réalisation de ce projet. Le problème auquel il répondra sera celui de ce mémoire.
 
 ## Remerciements
 
@@ -56,18 +56,18 @@ Enfin, merci à toute personne qui lit actuellement ce texte.
 
 ## Introduction
 
-La transmission d'information s'est fiabilisée au fil des époques, avec l'usage d'outils physique ; notamment des tablettes, plaques permettant de dessiner, d'écrire, lire, compter ; et ce jusqu'à pouvoir automatiser son traitement et son stockage, à l'aide de l'informatique, dont l'histoire ne commence concrètement qu'à la fin du 19 ème siècle.
+La transmission d'information s'est fiabilisée au fil des époques, avec l'usage d'outils physique ; notamment des tablettes, plaques permettant de dessiner, d'écrire, lire, compter ; et ce jusqu'à pouvoir automatiser son traitement et son stockage, à l'aide de l'informatique, dont l'histoire ne commence concrètement qu'à la fin du 19<sup>ème</sup> siècle.
 
 De nos jours, nous interagissons quotidiennement avec des ordinateurs, que ce soit à l'aide de la programmation, ou des interfaces hommes-machines qui en sont issues. Pourtant, la grande majorité des utilisateurs, et même des personnes travaillant dans le domaine des Technologies de l'Information et de la Communication, ne connaissent pas la plupart des événements majeurs de son histoire.
 
 Moi même n'ayant pas cette connaissance lorsque j'ai entrepris la rédaction de ce mémoire, j'ai décidé de me documenter et de rédiger un format accessible, avec ce qui m'a semblé être nécessaire pour comprendre le sujet, et ainsi le partager à vous, lecteurs de cet ouvrage.
 
-Pour la rédaction de ce dernier, j'ai acquis 4 livres : 
+Pour la rédaction de ce dernier, j'ai acquis 4 livres venant compléter mes recherches internet : 
 
-- la 4e édition de "Computer, A History of the Information Machine" de Martin Campbell-Kelly, professeur émérite britannique, spécialisé dans l'histoire de l'informatique. Coécrite avec William F.Aspray, Jeffrey R. Yost, Honghong Tinn, et Gerardo Con Diaz.
-- "The history of the computer : people, inventions, and technology that changed our world" de Rachel Ignotofsky
-- "Histoire illustrée de l'informatique" d'Emmanuel Lazard et Pierre Mounier-Kuhn.
-- "Transmettre" de Christophe André, Céline Alvarez, Catherine Gueguen, Matthieu Ricard, Frédéric Lenoir, Ilios Kotsou, Caroline Lesire
+- la 4<sup>ème</sup> édition de "*Computer, A History of the Information Machine*" de Martin Campbell-Kelly, professeur émérite britannique, spécialisé dans l'histoire de l'informatique. Coécrite avec William F.Aspray, Jeffrey R. Yost, Honghong Tinn, et Gerardo Con Diaz.
+- "*The history of the computer : people, inventions, and technology that changed our world*" de Rachel Ignotofsky
+- "*Histoire illustrée de l'informatique*" d'Emmanuel Lazard et Pierre Mounier-Kuhn.
+- "*Transmettre*" de Christophe André, Céline Alvarez, Catherine Gueguen, Matthieu Ricard, Frédéric Lenoir, Ilios Kotsou, Caroline Lesire
 
 Les trois premiers livres ont chacun leurs avantages grâce à une approche différente d'un même sujet, sur lequel je m'attendais à trouver plus de bibliographie. Contrairement à ceux-ci, j'ai essayé d'avoir une démarche plus globale que l'informatique et l'ordinateur, qui sont des concepts très récent. Et ce en abordant le thème général qu'est l'information, tout en y ajoutant de la philosophie, ainsi que mon humble analyse subjective car j'aime penser, et que l'apprentissage des mathématiques et de l'informatique ont changé ma manière de concevoir le monde dans lequel nous vivons. Ce sont selon moi des philosophies à part entière, apportant des syntaxes et un vocabulaire, nécessitant un apprentissage constant de schémas de pensés dignes d'un logicien.
 
@@ -79,7 +79,7 @@ Je m’intéresserai également à l'apprentissage qui représente l’acquisiti
 
 L'ensemble de ses sujets, et l'information en général, prennent une place de plus en plus importante dans nos quotidien, cela s'accompagne d'un volume exponentiel d'informations mondialement échangées. Nous avons développés une relation symbiotique avec la technologie, qui nous permet aujourd'hui de communiquer et de jouer presque instantanément au niveau mondial, améliorant même parfois les conditions de vie et la santé, on parle d'ailleurs désormais de télé-santé. Pour autant, comme toutes les technologies récentes ayant un impact majeur, vient un rejet et une techno-phobie d'une certaine partie de la population pas encore convertie à son usage.
 
-Avec mon point de vue de développeur web, je dresserai ensuite un [bilan de l’état actuel de l'informatique](#Pratiques-actuelles), de son marché, ses opportunités, ainsi qu'une étude de sa pratique moderne ; et ce afin d'en [identifier les problèmes](#Comprendre-la-problématique) que l'on y rencontre pour en dégager de possibles solutions, dressant ainsi un [essai](#Essai) philosophique expliquant ma projection en tant qu'acteur et éditeur de logiciels, pour [le futur de cette discipline](#EditIDE-ou-"Comment-repenser-la-gestion-de-l'information-pour-moderniser-l'expérience-développeur-?"), plus particulièrement la pratique que je souhaite en avoir en tant que créateur de services et contenu web.
+Avec mon point de vue de développeur web, je dresserai ensuite un [bilan de l’état actuel de l'informatique](#Pratiques-actuelles), de son marché, ses opportunités, ainsi qu'une étude de sa pratique moderne ; et ce afin d'en [identifier les problèmes](#Comprendre-la-problématique) que l'on y rencontre pour en dégager de possibles solutions. Avant d'arriver à la mise en place technique de ses solutions, je dresserai un [essai](#Essai) philosophique résumant ma vision de l'information, qui sera donc suivie de ma projection en tant qu'acteur et éditeur de logiciels pour [le futur de cette discipline](#EditIDE-ou-"Comment-repenser-la-gestion-de-l'information-pour-moderniser-l'expérience-développeur-?"), plus particulièrement la pratique que je souhaite en avoir en tant que créateur de services et contenus web.
 
 
 
@@ -108,11 +108,11 @@ Mais avant de parler des méthodes modernes et répondre à cette question, il m
 
 ## Histoire
 
-La première manière pour un être vivant de marquer l'histoire est universelle, c’est celle des fossiles et des dinosaures, celle d’avoir existé et laissé une trace, une information, stockée sur un support physique, sur notre Terre. La deuxième est l’art de sculpter des outils, actuellement estimé 3 millions d’années avant notre ère. La troisième est le dessin, au travers de la peinture ou de la gravure, dont les plus anciennes preuves sont rupestres, et âgées de 65 millénaires.
+La première manière pour un être vivant de marquer l'Histoire est universelle, c’est celle des fossiles et des dinosaures, celle d’avoir existé et laissé une trace, une information, stockée sur un support physique, sur notre Terre. La deuxième est l’art de sculpter des outils, actuellement estimé 3 millions d’années avant notre ère. La troisième est le dessin, au travers de la peinture ou de la gravure, dont les plus anciennes preuves sont rupestres, et âgées de 65 millénaires.
 
-Relativement aux dates précédentes, l’écriture ne vient que récemment, elle a été attestée en Mésopotamie il y a 5 millénaires. Pourtant, c'est elle qui nous permettra à nous, humains, d'écrire notre Histoire, de transmettre des volumes d'informations variées, véridiques comme les faits ou de qualité comme des idées. Écrire permet de faire naître une information et potentiellement de la rendre éternelle. Les paroles s’envolent les écrits restent, c'est pourquoi la littérature est importante.
+Relativement aux dates précédentes, l’écriture ne vient que récemment, elle a été attestée en Mésopotamie il y a 5 millénaires. Pourtant, c'est elle qui nous permettra à nous, humains, d'écrire notre Histoire, de transmettre des volumes d'informations variées, véridiques comme les faits, ou de qualité comme des idées. Écrire permet de faire naître une information et potentiellement de la rendre éternelle. Les paroles s’envolent les écrits restent, c'est pourquoi la littérature est importante.
 
-D'un point de vue Historique, notre génération laissera toujours une trace. Que ce soit sur un disque dur quelque part dans un grenier, dans un datacenter ou une web archive. Et même si tout disparaissait, il y aurait une preuve immuable et indestructible à échelle de la Terre. Les isotopes lourds que nous avons créés avec l'apparition des industries nucléaire seraient, même dans le cas d'un retour à l'âge de pierre causant un rude hiver civilisationnel, la preuve de l'existence de la nôtre.
+D'un point de vue Historique, notre génération laissera toujours une trace. Que ce soit sur un disque dur quelque part dans un grenier, dans un datacenter ou une archive internet. Et même si tout les humains disparaissait, il y aurait une preuve immuable et indestructible à échelle de la Terre. Les isotopes lourds que nous avons créés avec l'apparition des industries nucléaire seraient, même dans le cas d'un retour à l'âge de pierre causant un rude hiver civilisationnel, la preuve de l'existence de la nôtre.
 
 
 
@@ -123,13 +123,13 @@ Avant même la naissance de l'écriture qui marque la fin de la préhistoire, le
 
 
 
-#### Abaques
+#### Genèse des Abaques
 
 Un abaque est un instrument facilitant le calcul. C'est un outil mnémonique utilisant la numération et permettant d'enregistrer un nombre pour se libérer de la mémoire. Son étymologie est un mélange de grec et d'hébreu, elle explique bien sa représentation et son usage. La poussière (de l'hébreu abaq), et la tablette (du grec akos), servaient de support pour l'écrit. Même sans dépôt de poussière naturelle, il est possible de volontairement recouvrir une tablette, et ainsi réécrire à volonté avec du sable, ou toute autre poudres.
 
 À la préhistoire, ce mot n'existait pas, les humain n'avait pas encore de tablettes, de nombres ni de textes leurs permettant de représenter une quantité. Le plus vieux système de quantification connu est le bâton de comptage, daté à **-40000**. C'est un système unaire, il permet de quantifier des unités, représentées par la répétition d'un symbole, généralement un trait, aussi appelé marque de dénombrement. Le plus ancien est l'Os de Lebombo. L'ensemble d'Os d'Ishango est cependant plus connu. Il serait hypothétiquement une des premières preuves de connaissance humaine des mathématiques et de l'arithmétique. Sur un des os, les 4 nombres premiers entre 10 et 20 sont présent, soit 11, 13, 17, et 19 ; un autre semble démontrer les additions et les multiplication, notamment la duplication, avec la juxtaposition des nombres 3 et 6 puis 4 et 8.
 
-Cette méthode unaire est longtemps restée, à l'époque, un berger pouvait s'assurer que l'intégralité de son troupeau était rentré en comparant deux comptages, à l'aide de cailloux par exemple, chacun représentant une bête. De nos jours elle à été mécanisée pour approximer par groupes de dix les manifestants a l'aide de compteurs manuels.
+Cette méthode unaire est longtemps restée, à l'époque, un berger pouvait s'assurer que l'intégralité de son troupeau était rentré en comparant deux comptages, à l'aide de cailloux par exemple, chacun représentant une bête. De nos jours elle à été mécanisée pour approximer par groupes de dix les manifestants à l'aide de compteurs manuels.
 
 J'ai également eu l'opportunité de visiter la grotte de Thaïs, où a été retrouvé un os de quelques centimètres aux multiples gravures. Daté en **-12 500**, il a été nommé Os coché. En 1991, l’archéologue américain Alexander Marschack, démontra qu’il ne s’agit pas comme les historiens le pensait alors, d’une représentation décorative, mais d’un système d’enregistrement du temps, possiblement un calendrier basé sur des observations astronomiques. Cette hypothèse est actuellement, en 2024, le sujet d'une étude européenne menée par un groupe de chercheur à l'université de Bordeaux.
 
@@ -139,15 +139,15 @@ L'homme préhistorique avait donc sûrement déjà des systèmes de comptage des
 
 #### Premières villes et sociétés
 
-Jusqu'alors, l'humain était un chasseur-cueilleur nomade, et contrairement à ce que l'on pourrait croire, il aurait rarement été hostile à ses congénères lorsqu'il les croise, ayant déjà bien assez de problèmes avec la nature. La sédentarisation prends place en **-9000**, l'agriculture apparaît à la même période, au Proche et Moyen Orient actuel, dans le *croisant fertile*, avec par conséquent un besoin de stockage grandissant, auquel répondra la démocratisation de la vannerie, du tissage et surtout de la poterie, alors que la terre cuite était principalement utilisée pour des figurines décoratives. À partir de **-7000** fleurirons alors villes et cités comme Urkesh, Ninive, ou Assur ; capitale Assyrienne, et Guzana capitale du royaume autagoniste Araméen. Suivis par Uruk et Lagash vers **-5000**, puis Ur vers **-4000**. Les premières civilisation apparaîtrons plus tard comme celle de Sumer vers **-3500**, ou celle de la vallée de l'Indus (à qui l'humanité doit entre autre les égouts) vers **-2600**, bien que son développement ai commencé à l'apparition des premières villes et cités. L'arrivé du stockage de biens a causé l’apparition des premiers conflits d'envergure. Avant cela, les humains avait une densité de population trop faible pour que cela n'arrive, le rapport gain / perte n'en valant que rarement le coût. L'humanité à donc du, suite à la sédentarisation, trouver des moyen de réguler son jeu de la vie humaine, et trouver des systèmes composés de règles, permettant de conserver l'ordre et éviter la discorde.
+Jusqu'alors, l'humain était un chasseur-cueilleur nomade, et contrairement à ce que l'on pourrait croire, il aurait rarement été hostile à ses congénères lorsqu'il les croise, ayant déjà bien assez de problèmes avec la nature. La sédentarisation prends place en **-9000**, l'agriculture apparaît à la même période dans le *croisant fertile* situé au Proche et Moyen Orient actuel, avec par conséquent un besoin de stockage grandissant auquel répondra la démocratisation de la vannerie, du tissage et surtout de la poterie. Jusqu'alors la terre cuite était principalement utilisée pour des figurines décoratives. À partir de **-7000** fleurirons alors villes et cités comme Urkesh, Ninive, ou Assur ; capitale Assyrienne, et Guzana capitale du royaume antagoniste Araméen. Suivis par Uruk et Lagash vers **-5000**, puis Ur vers **-4000**. Les premières civilisation apparaîtrons plus tard comme celle de Sumer vers **-3500**, ou celle de la vallée de l'Indus (à qui l'humanité doit entre autre les égouts) vers **-2600**, bien que son développement ai commencé à l'apparition des premières villes et cités. L'arrivé du stockage de biens a causé l’apparition des premiers conflits d'envergure. Avant cela, les scientifiques estiment que les humains avait une densité de population trop faible pour que cela n'arrive, le rapport gain / perte n'en valant que rarement le coût. L'humanité à donc du, suite à la sédentarisation, trouver des moyen de réguler son jeu de la vie humaine, et trouver des systèmes composés de règles, permettant de conserver l'ordre et éviter la discorde.
 
 
 
 #### Bulle enveloppe
 
-Il y a presque 6000 ans de cela, en Mésopotamie, vers l'an **-3900**, étaient utilisées des sphères d'argile appelées bulles enveloppe, ou bulle comptable. Des des calculs, du latin "calculus", signifiant petit cailloux, étaient stockés en son sein, pour en comptabiliser le contenu. La signature se faisait en déroulant un sceau-cylindre, orné de motifs représentant des dieux ou le pouvoir. Il servait à imprimer les motifs creusés dessus afin de pouvoir les imprimer sur de l'argile. Ce motif indiquait généralement le possesseur à la manière d'une signature. Certains étaient en matériaux plus ou moins précieux, et comportait parfois des écritures cunéiformes.
+Il y a presque 6000 ans de cela, en Mésopotamie, vers l'an **-3900**, étaient utilisées des sphères d'argile appelées bulles enveloppe, ou bulle comptable. Des calculs, du latin "calculus", signifiant petit cailloux, étaient stockés en son sein, pour en comptabiliser le contenu. La signature se faisait en déroulant un sceau-cylindre, orné de motifs représentant des dieux ou le pouvoir. Il servait à imprimer les motifs creusés dessus afin de pouvoir les imprimer sur de l'argile. Ce motif indiquait généralement le possesseur à la manière d'une signature. Certains étaient en matériaux plus ou moins précieux, et comportait parfois des écritures cunéiformes.
 
-L'humain avait à ce moment inventé un système permettant de garantir le transport et l'échange de marchandise par un transporteur, tout en garantissant sa provenance et la quantité de marchandise. En effet, un destinataire pouvait ainsi faire confiance à un transporteur concernant la provenance, grâce à la signature ; et la quantité, en comparant le nombre de marchandises au nombre d'unités présente dans la bulle après l'avoir cassé. Si elle l'était avant sa livraison, alors celle ci pouvait alors être invalidée.
+Les Mésopotamiens avaient donc inventé un système permettant de garantir le transport et l'échange de marchandise par un transporteur, tout en garantissant des informations comme sa provenance et la quantité de marchandise. En effet, un destinataire pouvait ainsi faire confiance à un transporteur concernant la provenance, grâce à la signature ; et la quantité, en comparant le nombre de marchandises au nombre d'unités présente dans la bulle après l'avoir cassé. Si elle l'était avant sa livraison, alors celle ci pouvait alors être invalidée.
 
 
 
@@ -172,21 +172,20 @@ L'algèbre babylonienne vers **-3000**, utilisait un système sexagésimal, pote
   -  avec en plus la notion de comparaison et d'équation
      -  si après la soustraction `a - b` il reste `c` , alors `a > b` car `a = b + c`
 
-La division se pratiquait avec la multiplication par l'inverse, les archéologues ont retrouvé de multiples tables d'inverse en Mésopotamie.
 
-La racine carrée était obtenue grâce aux tables de carrés, pour celles manquante, l'humain pratiquait une approximation par interpolation linéaire, estimation de la valeur sur une courbe entre deux points connues.
+Pour la multiplication, et afin d'avoir le résultat d'un calcul plus rapidement. Les mathématiciens du début de l'antiquité ont tout simplement calculer toutes les combinaisons de multiplications entre les chiffres. Créant ainsi ce que toute personne introduite aux mathématique a du apprendre par cœur un jour, les tables de multiplications. Les historiens pensent que division se pratiquait avec la multiplication par l'inverse car les archéologues ont retrouvé de multiples tables d'inverse en Mésopotamie. La racine carrée était obtenue grâce aux tables de carrés, et pour les valeurs manquante, les mathématiciens de l'époque devaient pratiquer une approximation par interpolation linéaire, c'est à dire une estimation de la valeur sur une courbe entre deux points connus.
 
-Cette discipline qu'est l'Algèbre est à ce moment de l'histoire avérée, mais pas encore nommée, du moins pas en tant que telle, il faudra attendre le moyen âge pour cela.
+Cette discipline qu'est l'Algèbre est donc à ce moment de l'histoire avérée, mais pas encore nommée, du moins pas en tant que telle, il faudra attendre le Moyen-âge pour cela.
 
 
 
 #### Quipu
 
-Cet outil utilisé par les incas signifie "nœud", ou "compte" en quechua, il est en effet possible de faire un nœud simple avec plusieurs boucles, permettant ainsi d'enregistrer un chiffre, et donc des nombres, en base 10. Le plus ancien connu à été retrouvé sur le site archéologique de Caral, au Pérou, il est daté vers l'an **-2500** ; le climat chaud et sec a contribuer sa bonne conservation.
+Cet outil utilisé par les incas signifie "nœud", ou "compte" en quechua, il est en effet possible de faire un nœud simple avec plusieurs boucles, permettant ainsi d'enregistrer un chiffre, et donc des nombres, en base 10. Le plus ancien connu à été retrouvé sur le site archéologique de Caral, au Pérou. Il est daté vers l'an **-2500**, le climat chaud et sec a contribuer sa bonne conservation.
 
-L'empire Inca ayant été constitué de plus de 12 millions d'individus, cet outil a été au cœur de son administration et a permis de recenser la population et gérer l'économie. Des experts du quipu comme Gary Urton, professeur d'Anthropologie américain spécialisé en civilisation pré-colombienne, se sont même rendus compte que plus d'un tiers comportaient des informations autres que des chiffres, aussi appelées informations qualitatives, en opposition aux informations quantitatives. Cet outil à donc également servi à transmettre des messages, composé d'un vocabulaire créé à partir de différentes couleurs, types de fils, de nœuds, ainsi que leurs positions et orientations.
+L'empire Inca ayant été constitué de plus de 12 millions d'individus, cet outil a été au cœur de son administration et a permis le stockage d'information nécessaire au recensement de la population et la gestion de l'économie. Des experts du quipu comme Gary Urton, professeur d'Anthropologie américain spécialisé en civilisation pré-colombienne, se sont même rendus compte que plus d'un tiers comportaient des informations autres que des chiffres, aussi appelées informations qualitatives, en opposition aux informations quantitatives. Cet outil à donc également servi à transmettre des messages, composé d'un vocabulaire créé à partir de différentes couleurs, types de fils, de nœuds, ainsi que leurs positions et orientations.
 
-Notez qu'en mathématique il existe une branche très intéressante appelée une théorie des nœuds, elle fait partie de la sous branche de la topologie, c'est à dire l'étude de la déformation d'un objet sans arrachage ni recollage. Cet outil nous montre qu'a travers la manipulation des fils et des nœuds, certaines civilisations ont pu écrire, autrement qu'en inscrivant des symbole sur une surface.
+Notez qu'en mathématique il existe une branche très intéressante appelée une théorie des nœuds, elle fait partie de la sous branche de la topologie, c'est à dire l'étude de la déformation d'un objet sans arrachage ni recollage. Cet outil nous montre qu'a travers la manipulation des fils et des nœuds, certaines civilisations ont pu écrire et lire des informations, autrement qu'en inscrivant des symboles sur une surface.
 
 
 
@@ -206,7 +205,7 @@ Ce texte babylonien daté vers **-1750**, est à ce jour le texte de loi connu l
 
 #### Grèce antique
 
-Les premiers écrits de référence sur les mathématiques, la physique, l'astronomie, et bien entendu la philosophie nous viennent de cette période. Le 5 ème siècle sera souvent décrit comme celui de Périclès, qui débuta sa carrière politique en 470 à l'âge de 25 ans. Il fera construire l’Acropole, son Parthénon, et commanda de multiples sculpture à Phidias. Athènes sera décrite comme la capitale intellectuelle, artistique et politique de la Grèce antique. La guerre du Péloponnèse opposera Spartes à Thèbes et Athènes, Socrate première figure philosophique à l'influence ayant marqué un avant et un après, aura vécu à cette période et été enrôlé en tant qu'hoplite lors de ce conflit.
+Les premiers écrits de référence sur les mathématiques, la physique, l'astronomie, et bien entendu la philosophie nous viennent de cette période. Le 5<sup>ème</sup> siècle sera souvent décrit comme celui de Périclès, qui débuta sa carrière politique en 470 à l'âge de 25 ans. Il fera construire l’Acropole, son Parthénon, et commanda de multiples sculpture à Phidias. Athènes sera décrite comme la capitale intellectuelle, artistique et politique de la Grèce antique. La guerre du Péloponnèse opposera Spartes à Thèbes et Athènes, Socrate première figure philosophique dont l'influence a marqué un avant et un après, a été enrôlé en tant qu'hoplite lors de ce conflit. Bien qu'il ai marqué un tournant dans la philosophie, je vais commencer avec un philosophe pré-socratique tout aussi connu.
 
 
 
@@ -228,27 +227,25 @@ Le plus ancien système d'encryption connu est la scytale spartiate vers **-600*
 
 Quelques années avant Jésus Christ, Jules César encodait ses messages en utilisant un code éponyme. Cette encryption simple utilisait un décalage d'un certain nombre de lettres de l'alphabet. A vaut D, B vaut E, Z vaut C, etc...
 
-On remarque que l’encryption était dès le début utilisée pour transmettre des messages sensibles, notamment liés à la guerre. Cet outil a d'ailleurs été considéré comme arme de guerre jusqu’à récemment, où la plupart des techniques de cryptographies issues du domaine militaire sont devenues publiques. Malgré cela, encore aujourd'hui, les gouvernements appellent à retirer l'anonymat sur internet ou à avoir des portes dérobées dans les chiffrements afin d'en permette la lecture par une autorité en cas de besoin.
+On remarque que l’encryption était dès le début utilisée pour transmettre des informations sensibles, notamment liés à la guerre. Cet outil a d'ailleurs été considéré comme arme de guerre jusqu’à récemment, où la plupart des techniques de cryptographies issues du domaine militaire sont devenues publiques. Malgré cela, encore aujourd'hui, les gouvernements appellent à retirer l'anonymat sur internet ou à avoir des portes dérobées dans les chiffrements afin d'en permette la lecture par une autorité en cas de besoin.
 
 
 
 ##### Pythagore
 
-Né vers l'an **-580**, Pythagore, fonda lui aussi un établissement d'enseignement, l'école Pythagoricienne, qui deviendra progressivement une confrérie, voire une sorte de secte, à la fois religieuse et scientifique, où les femmes et les étrangers auraient étaient admis, sous réserve de passer de multiples paliers. On y étudiait notamment 4 matières : l'arithmétique, la musique, la géométrie, et l'astronomie.
+Né vers l'an **-580**, Pythagore, fonda lui aussi un établissement d'enseignement nommé école Pythagoricienne, qui deviendra progressivement une confrérie, voire une sorte de secte, à la fois religieuse et scientifique, où les femmes et les étrangers auraient étaient admis, sous réserve de passer de multiples paliers. On y étudiait notamment 4 matières : l'arithmétique, la musique, la géométrie, et l'astronomie.
 
 Il aurait été le premier à dire que la Terre était ronde, à découvrir les lois harmoniques en musique, et même la première personnalité connue adepte du végétarisme, qu'il associait à une volonté de ne pas consommer la vie animale, que l'on doit ôter avec abomination, pour "qu'un corps s’engraisse d’un autre corps".
 
 Le théorème de Pythagore, bien qu'il porte son nom, était déjà connu du temps de la Mésopotamie, plus d'un millénaire avant lui. Il l'a malgré tout sûrement popularisé et fait entré dans les communautés scientifique de l'époque, et de celles qui suivent. Euclide en fera la plus ancienne démonstration connue, trois siècles après.
 
-On se souviendra de Pythagore comme le premier à avoir, à travers sa philosophie et son enseignement, conçu le monde à l'aide des mathématiques, pour lui, toute chose est nombre. La quantification a en effet permis à l’humanité de comprendre et expliquer le monde qui l'entoure. ***L'unité de tout système est universelle, la solitude de nos esprit enfermés dans des boites crâniennes nous le rappellent chaque jour.***
+L'humanité se souviendra de Pythagore comme le premier à avoir, à travers sa philosophie et son enseignement, conçu le monde à l'aide des mathématiques. Pour lui, toute chose est nombre. La quantification a en effet permis à l’humanité de comprendre et expliquer le monde qui l'entoure. L'unité de tout système est universelle, la solitude de nos esprit enfermés dans des boites crâniennes nous le rappellent chaque jour.
 
 
 
 ##### Dialectique
 
-La dialectique est étymologiquement l'art de parler en conservant et distinguant sa parole de celle de son interlocuteur. Elle repose sur un dialogue où les deux participants tentent de se convaincre mutuellement dans le but de se rapprocher de la vérité. La première personne connue à l'avoir mis en évidence est le philosophe présocratique Zénon d'Élée, né en **-490**. C'est devenu une technique classique de raisonnement au Moyen Âge, qui se structure généralement en une thèse, une antithèse, et une synthèse, qui tends généralement vers un compromis, ou du moins un dépassement du manichéisme et de ses stéréotypes. C'est une structure philosophique basique, que l'on enseigne encore aujourd'hui.
-
-J'apprécie personnellement la définition de Platon, qui résume bien la chose dans sa vision de l'usage du dialogue, il décrit la dialectique comme reposant sur la confrontation de plusieurs positions de manière à dépasser l'opinion, afin que chacun se rapproche un peu de la vérité.
+La dialectique est étymologiquement l'art de parler en conservant et distinguant sa parole ou sa pensée de celle de son interlocuteur. Elle repose sur un dialogue où les deux participants confrontent mutuellement leurs informations et raisonnements dans le but de se rapprocher conjointement de la vérité. La première personne connue à l'avoir mis en évidence est le philosophe présocratique Zénon d'Élée, né en **-490**. C'est devenu une technique classique de raisonnement au Moyen Âge, qui se structure généralement en une thèse, une antithèse, et une synthèse, qui tends généralement vers un compromis, ou du moins un dépassement de l'opinion manichéenne et de ses stéréotypes. C'est une structure philosophique basique, que l'on enseigne encore aujourd'hui.
 
 
 
@@ -260,13 +257,11 @@ La rhétorique quand à elle, est l'art d'impacter les esprits par son discours,
 
 ##### Sophistes et Sophismes 
 
-Né en **-490**, Protagoras est un philosophe pré-socratique considéré comme sophiste, qui ont été une opposition forte aux philosophes de la suite de ce récit. Les raisons les plus probables sont qu'il était une personnalité forte, célèbre et critiquée du fait qu'il était un enseignant itinérant, cherchant un salaire ainsi qu'un statut toujours plus élevé contre son enseignement, alors que monnayer son savoir était à l'époque interdit. Il serait également à l'origine de *l'éristique*, l'art de la discorde, de la dispute et plus globalement du débat ; variante proche de la rhétorique, qu'il a également enseigné.
+Né en **-490**, Protagoras est un philosophe pré-socratique considéré comme faisant parti des sophistes, qui ont été très critiqué par philosophes de la suite de ce récit. Les raisons les plus probables de cette opposition à Protagoras sont qu'il eu été une personnalité forte et célèbre. Il fut enseignant itinérant, cherchant un salaire ainsi qu'un statut toujours plus élevé contre son enseignement, alors que monnayer son savoir était à l'époque inédit. Il serait également à l'origine de *l'éristique*, l'art de la discorde, de la dispute et plus globalement du débat ; variante proche de la rhétorique, qu'il a également enseigné.
 
 Les sophistes ont par conséquent étés perçus comme des gens avides, prêts à tout pour monnayer leur savoir à des prix toujours plus fous, au détriment même de la vérité, usant de la rhétorique de manière perverse et fallacieuse, ce qui à donné naissance au mot et à la pratique qu'est le *sophisme*. Tout raisonnement, même si la finalité est véridique, peut être considéré comme tel dès lors qu'il n'est pas logique, valide, s'appuie sur un biais, ou use de stratagème visant à prouver la véridicité de ses dires, en jouant sur la crédibilité ou les émotions (ethos et pathos), plus que sur la la raison  ou le discours en lui même (logos).
 
-Pour beaucoup de personnalités de temps aussi éloignés, il est compliqué de démêler le vrai du faux, il aurait commencé sa vie comme modeste porteur de fardeau, bien qu'ayant potentiellement de la famille ou des proches aisés et dont il se serait visiblement rapproché au fil du temps.
-
-Il est entre autre connu pour avoir été agnostique, disant des dieux, qu'il "ne savais ni s'ils sont ni s'ils ne sont pas", ce qui lui aurait potentiellement valu, comme beaucoup d'autres à cette période, une condamnation pour impiété. Il a également déclaré que "l'homme est la mesure de toute chose", introduisant le principe fondamental du relativisme, soit le fait qu'une vérité énoncée n'est jamais objective, donc biaisée et conçue qu'au travers de la subjectivité et de la perception de celui qui l'affirme.
+Pour beaucoup de personnalités de temps aussi éloignés, il est compliqué de démêler le vrai du faux, il aurait commencé sa vie comme modeste porteur de fardeau, bien qu'ayant potentiellement de la famille ou des proches aisés et dont il se serait visiblement rapproché au fil du temps. Beaucoup de sources disent qu'il était agnostique, disant des dieux, qu'il "ne savais ni s'ils sont ni s'ils ne sont pas", ce qui lui aurait potentiellement valu, comme beaucoup d'autres à cette période, une condamnation pour impiété. Il a également déclaré que "l'homme est la mesure de toute chose", introduisant le principe fondamental du relativisme, soit le fait qu'une vérité énoncée n'est jamais objective, donc biaisée et conçue qu'au travers de la subjectivité et de la perception de celui qui l'affirme.
 
 
 
@@ -274,7 +269,7 @@ Il est entre autre connu pour avoir été agnostique, disant des dieux, qu'il "n
 
 L'Athénien Socrate est né vers **-470**, il est fils d'une sage-femme, et créateur de la maïeutique, l'art de faire accoucher les âmes. En questionnant un sujet, il pouvait lui faire prendre conscience d'une connaissance enfouie en lui. Il est également le père d'une méthode de réfutation nommée *elenchos*, consistant à challenger la thèse de son adversaire en la poussant à l'absurde, dans le but d'y révéler son côté irréel. Marcheur parleur, il n'a jamais écrit, ses dires ont été relatés par ses disciples. Il a étudié la nature, puis sa pensée s'est concentrée sur l'homme, qui doit selon lui s'étudier lui même tel un anthropologue. Cicéron dira que "Socrate le premier invita la philosophie à descendre du ciel, l'installa dans les villes, l'introduisit jusque dans les foyers, et lui imposa l'étude de la vie, des mœurs, des choses bonnes et mauvaises". En effet, après Pythagore qui n'enseignait pas la philosophie, c'est la plus ancienne des personnalité connues à avoir eu une influence si importante grâce à un enseignement public et gratuit de cette discipline.
 
-Selon lui : "Les sages sont en fait des gens qui pensent l'être, ils s'imaginent des connaissances et ignorent ce qu'ils ne savent point", cela rejoint à la fois la maïeutique et son opposition avec les sophistes, dont son ancien maître Protagoras. Il avait un sens exacerbé du bien et du mal, ainsi que de la justice. Il a défendu des généraux accusés de ne pas avoir récupéré des corps de leurs soldats mort, à cause d'une tempête, et ce seul contre l'opinion publique, en faveur de ce qui lui paraissait juste. Il était également contre la loi du talion, insistant sur le fait que l'on ne doit pas répondre à l'injustice par l'injustice, et au mal par le mal. Longtemps accusé d'avoir des croyances différentes et déviantes de la religion de l'époque, il fut condamné pour l'impiété et corruption de la jeunesse. Accusé à tord, il fit malgré tout preuve d'une arrogance qui causera sa perte, contre-plaidant à la peine de mort en disant qu'il devrait manger gratuitement jusqu’à la fin de ses jours. Cela n'a vraisemblablement pas plu au jury, qui le condamna à la ciguë, alors poison d'état, qu'il finira par boire, acceptant pleinement son jugement, bien qu'injuste. La légende dit même qu'il aurait pu s'évader mais qu'il a préféré accepter l'injustice que de la commettre. Il aurait également été contre la démocratie, qui "n'accorde pas assez d'importance au savoir et à ceux qui la détiennent". En effet, la majorité bien qu'elle permet souvent de se rapprocher de la vérité, peut aussi avoir tord, notamment sur des sujets précis nécessitant la connaissances d'experts.
+Selon lui : "Les sages sont en fait des gens qui pensent l'être, ils s'imaginent des connaissances et ignorent ce qu'ils ne savent point", cela rejoint à la fois la maïeutique et son opposition avec les sophistes, dont son ancien maître Protagoras. Il avait un sens exacerbé du bien et du mal, ainsi que de la justice. Socrate a défendu des généraux accusés de ne pas avoir récupéré des corps de leurs soldats mort à cause d'une tempête, et ce seul contre l'opinion publique, en faveur de ce qui lui paraissait juste. Il était également contre la loi du talion, insistant sur le fait que l'on ne doit pas répondre à l'injustice par l'injustice, et au mal par le mal. Longtemps accusé d'avoir des croyances différentes et déviantes de la religion de l'époque, il fut condamné pour l'impiété et corruption de la jeunesse. Accusé à tord, il fit malgré tout preuve d'une arrogance qui causera sa perte, contre-plaidant à la peine de mort en disant qu'il devrait manger gratuitement jusqu’à la fin de ses jours. Cela n'a vraisemblablement pas plu au jury, qui le condamna à la ciguë, alors poison d'état, qu'il finira par boire, acceptant pleinement son jugement, bien qu'injuste. La légende dit même qu'il aurait pu s'évader mais qu'il a préféré accepter l'injustice que de la commettre. Il aurait également été contre la démocratie, qui "n'accorde pas assez d'importance au savoir et à ceux qui la détiennent". En effet, la majorité bien qu'elle permet souvent de se rapprocher de la vérité, peut aussi avoir tord, notamment sur des sujets précis nécessitant la connaissances d'experts.
 
 https://www.youtube.com/watch?v=yp_UUPR6gfg
 
@@ -284,7 +279,7 @@ https://www.youtube.com/watch?v=xqqzMjfFa10
 
 ##### Atomisme
 
-À cette période né la pensée d'une unité indivisible avec le concept d'atome, élément microscopique que l'on pensait insécable, composant la matière. Le philosophe présocratique Leucippe, élève de Zénon d'Élée et influencé par Pythagore, invente donc la philosophie atomiste vers **-440**, Démocrite puis Épicure et Lavoisier vont par la suite participer à l'évolution ce mouvement, dont la réalité ne serait formée que de plein, de vide et de mouvement. Cette pensée émane à un moment où les mythes, fables et religions sont doucement mises en doute. Plusieurs philosophes dont Socrate, seront jugés pour impiété, cette période marqua donc la naissance d'un courant de pensé qui se lia rapidement avec l'apprentissage de la mort, et son rôle dans la vie de l'être réel, que l'on retrouvera dans le stoïcisme et l'épicurisme.
+À cette période nait la pensée d'une unité indivisible avec le concept d'atome, élément microscopique que l'on pensait insécable, composant la matière. Le philosophe présocratique Leucippe, élève de Zénon d'Élée et influencé par Pythagore, invente donc la philosophie atomiste vers **-440**, Démocrite puis Épicure et Lavoisier vont par la suite participer à l'évolution ce mouvement, dont la réalité ne serait formée que de plein, de vide et de mouvement. Cette pensée émane à un moment où les mythes, fables et religions sont doucement mises en doute. Plusieurs philosophes dont Socrate, seront jugés pour impiété, cette période marqua donc la naissance d'un courant de pensé qui se lia rapidement avec l'apprentissage de la mort, et son rôle dans la vie de l'être réel, que l'on retrouvera dans le stoïcisme et l'épicurisme.
 
 
 
@@ -298,13 +293,13 @@ Diogène de Sinope, un des cyniques les plus connus, aurait même déclaré voul
 
 ##### Platon
 
-Né à Athènes peu après la mort de Périclès vers -**428**, Platon faisait la distinction entre le monde intelligible et sensible, il est pour cela parfois considéré comme idéaliste. Ce mouvement est caractérisé par le postulat que toute réalité est liée à une idée, ou états d'esprit des observateurs, sans lequel le monde n'existe pas de manière autonome, n'étant qu'une représentation que l'on en fait. Plaçant la pensée au dessus, et comme plus importante que le monde matériel, à l'inverse du matérialisme qui ne sera en réalité explicité que bien plus tard, au 18 ème siècle, prônant que l'esprit et la conscience ne sont le résultat d’interactions matérielles.
+Né à Athènes peu après la mort de Périclès vers -**428**, Platon faisait la distinction entre le monde intelligible et sensible, il est pour cela parfois considéré comme idéaliste. Ce mouvement est caractérisé par le postulat que toute réalité est liée à une idée, ou états d'esprit des observateurs, sans lequel le monde n'existe pas de manière autonome, n'étant qu'une représentation que l'on en fait. Plaçant la pensée au dessus, et comme plus importante que le monde matériel, à l'inverse du matérialisme qui ne sera en réalité explicité que bien plus tard, au 18<sup>ème</sup> siècle, prônant que l'esprit et la conscience ne sont que le résultat d’interactions matérielles.
 
 Cependant Platon déclare que les deux mondes forment une dualité ontologique "de ce qui est". Dans la théorie des formes et des idées qu'il formula, il soutient que l'esprit forme des abstractions intelligibles de ce que nous percevons du réel à travers notre sensibilité, des modèles, ou archétypes, permettant d’assimiler une information, et ainsi de la reconnaître, voire la comprendre. Les idées existent donc au delà de la pensée, elles sont immuables et universelles.
 
-Il émettra pour cela l'analogie de la ligne qui définit une hiérarchie qui se veut épistémologique, c'est à dire un discours sur la science de la connaissance. Cette hiérarchie classe les pensées allant de l'intellect reconnaissant des formes ou modèles, à la pensée visualisant des hypothèses, puis quittant le monde des réalités intelligibles scientifique ; rejoints les opinions, composés des croyances et des conjectures, à l'origine de la théorie de la caverne et de ses ombres projetés, formant des images.
+Il émettra pour cela l'analogie de la ligne qui définit une hiérarchie dite épistémologique, c'est à dire un discours sur la science de la connaissance. Cette hiérarchie classe les pensées allant de l'intellect reconnaissant des formes ou modèles, à la pensée visualisant des hypothèses, puis quittant le monde des réalités intelligibles scientifique ; rejoints les opinions, composés des croyances et des conjectures, à l'origine de la théorie de la caverne et de ses ombres projetés, formant des images.
 
-Vers l'an -407 il fut introduit à Socrate, avec qui il partages bien d'idées, notamment concernant la démocratie, déclarant qu'un dirigeant doit être philosophe, avoir conscience de ses actes et du monde qu'il entoure, du bien et du mal. Il fut d'ailleurs impliqué en politique avant de la fuir lorsque le gouvernement despotique des Trente tyrans commit nombre d’exécutions et actes injustes. Il fonda l’Académie, à Athènes, basée sur l'école Pythagoricienne, qui forma nombre de philosophes jusqu’à l'an -86. 
+Vers l'an -407 il fut introduit à Socrate, avec qui il partage bien des idées, notamment concernant la démocratie, déclarant qu'un dirigeant doit être philosophe, avoir conscience de ses actes et du monde qu'il entoure, du bien et du mal. Il fut d'ailleurs impliqué en politique avant de la fuir lorsque le gouvernement despotique des Trente tyrans commit nombre d’exécutions et actes injustes. Il fonda l’Académie, à Athènes, basée sur l'école Pythagoricienne, qui forma nombre de philosophes jusqu’à l'an -86. 
 
 Dans le livre *La Source grecque*, Simone Weil a rapporté de lui qu'il affirmait et répétait ne rien avoir inventé, ne suivant qu'une tradition et s'inspirant des autres penseurs le précédent, notamment les Pythagoriciens.
 
@@ -314,23 +309,21 @@ Dans le livre *La Source grecque*, Simone Weil a rapporté de lui qu'il affirmai
 
 Étymologiquement, ce mot signifie en latin « qui aime apprendre », ou en grec, « qui provient d’une leçon », autrement dit : du savoir d’autrui.
 
-Sa définition moderne, présente dans le Larousse, comme sur Wikipédia, vient corroborer cette étymologie, indiquant que c’est un ensemble de connaissances abstraites résultant de raisonnements logiques, appliqués à des objets tangibles, telles que les formes physiques, les structures qu’elles constituent, et leurs transformations possibles à l’aide des relations existantes entres ces objets.
-
-Ces connaissances abstraites, ce sont les nombres, ainsi que les opérations, formules et théorèmes qui nous permettent de les utiliser.
+Sa définition moderne, présente dans le Larousse, comme sur Wikipédia, vient corroborer cette étymologie, indiquant que c’est un ensemble de connaissances abstraites résultant de raisonnements logiques, appliqués à des objets tangibles, telles que les formes physiques, les structures qu’elles constituent, et leurs transformations possibles à l’aide des relations existantes entres ces objets. Ces connaissances abstraites, ce sont les nombres, ainsi que les opérations, formules et théorèmes qui nous permettent de les utiliser.
 
 Cette abstraction que sont les mathématiques, basée initialement sur des axiomes tangibles, règles que l'on admet comme vraies sans démonstration, s’est petit à petit détachée de toute contrainte physique, et à ainsi donner naissances à deux disciplines, les mathématiques appliquées, et les mathématiques pures. 
 
-**400 ans avant J.-C.**, Platon à contribué à cette distinction dans la Grèce Antique, séparant la technique de calcul ; "appropriée pour l’homme d’affaire et de guerre", qui doit quantifier et gérer ses troupes, gains et pertes ; de la théorie des nombre "nécessaire au philosophe pour surplomber la mer des changements et s’emparer de ce qui est véritable".
+**400 ans avant J.-C.**, Platon à contribué à cette distinction, séparant la technique de calcul ; "appropriée pour l’homme d’affaire et de guerre", qui doit quantifier et gérer ses troupes, gains et pertes ; de la théorie des nombre "nécessaire au philosophe pour surplomber la mer des changements et s’emparer de ce qui est véritable".
 
 Les mathématiques pures, tendent à la généralité, ou en langage de mathématicien, vers la factorisation, c’est à dire la simplification d’un concept sous une forme plus courte, et facile à comprendre, et donc à transmettre et réutiliser. Notez que c'est également une notion très utilisée en programmation, la refactorisation. Elle fait parti des bonnes habitudes et de l'amélioration continue.
+
+Les mathématiques appliquées, quand à elles, utilisent ces concepts sur des domaines très spécifiques, pour exemple, la géométrie, étymologiquement "science de la mesure du terrain", à été développée dans l’Égypte antique pendant **les trois siècles avant J.-C.** , à partir du besoin de mesurer la superficie d’un champ, aussi appelée arpentage.
 
 
 
 ##### Sténographie
 
-Ce processus de réécriture syntaxique, trouve ses plus vieilles traces connues à la même période, le langage SMS à été avéré grâce au bibliographe et doxographe, Diogène Laërce, les premières traces remontent ainsi à **405 avant J.-C**., date à laquelle Xénophon, élève de Socrate, a usé de *sténographie* pour transcrire les discours de son maître, face au besoin d'écrire rapidement et idéalement à la vitesse de la parole.[^1] La sténographie, du grec ancien "écriture courte", est un procédé de tachygraphie signifiant "écriture rapide".
-
-Les mathématiques appliquées, quand à elles, utilisent ces concepts sur des domaines très spécifiques, pour exemple, la géométrie, étymologiquement "science de la mesure du terrain", à été développée dans l’Égypte antique pendant **les trois siècles avant J.-C.** , à partir du besoin de mesurer la superficie d’un champ, aussi appelée arpentage.
+La sténographie, du grec ancien "écriture courte", est un procédé de tachygraphie signifiant "écriture rapide". Ce processus de réécriture syntaxique trouve ses plus vieilles traces connues à la même période, le langage SMS a ainsi été avéré grâce au bibliographe et doxographe Diogène Laërce qui a documenté beaucoup d'informations sur les personnalités grecques antique. Les premières traces d'abréviations remontent ainsi à **405 avant J.-C**., date à laquelle Xénophon, élève de Socrate, a usé de *sténographie* pour transcrire les discours de son maître, face au besoin d'écrire rapidement et idéalement à la vitesse de la parole.[^1] 
 
 [^1]: https://gallica.bnf.fr/ark:/12148/btv1b84470700/f95.item.zoom
 
@@ -338,7 +331,7 @@ Les mathématiques appliquées, quand à elles, utilisent ces concepts sur des d
 
 ##### Géométrie Euclidienne
 
-Vers la fin du 4 ème siècle avant J.-C. qu'Euclide rédige *Éléments[^1]*, un traité de mathématique sur la géométrie et l’arithmétique, qui a posé les bases de ces discipline. Cet ouvrage à été réédité de multiples fois et traduit par de nombreux savants, dont certains cités quelques paragraphes plus loin. Il est a l'origine de la méthode de calcul du PGCD qui est nommée algorithme d'Euclide, la division Euclidienne, et bien sur sa géométrie.
+Vers la fin du 4<sup>ème</sup> siècle avant J.-C., Euclide rédige *Éléments[^1]*, un traité de mathématique sur la géométrie et l’arithmétique qui a posé les bases de ces discipline. Cet ouvrage à été réédité de multiples fois et traduit par de nombreux savants, dont certains cités quelques paragraphes plus loin. Il est a l'origine de la méthode de calcul du PGCD qui est nommée algorithme d'Euclide, la division Euclidienne, et bien sur sa géométrie.
 
 En définitive, cette discipline que sont les mathématiques est une philosophie en soit, c'est a dire un système d'idées permettant de conceptualiser et visualiser le monde tout en le quantifiant. Même étymologiquement il y a une proximité entre les deux mots pour le savoir, par le partage de connaissance, dispensé lors d'une leçon d'autrui.
 
@@ -348,7 +341,7 @@ En définitive, cette discipline que sont les mathématiques est une philosophie
 
 ##### Aristote
 
-Né en **-384** dans la ville Macédonienne de Stagire, Aristote étudia 20 ans à l’Académie de Platon, et fonda par la suite le Lycée. Il est à l'origine des syllogismes, étymologiquement ensemble de discours logiques. Ce sont des raisonnements logiques constitués d'au moins trois propositions, la dernière étant une conclusion déduite, précédée de prémisses qui doivent s'avérer vraies pour que la conclusion le soit également. L’exemple le plus connu étant "Tout les hommes sont mortels, or Socrate est un homme, donc Socrate est mortel".
+Né en **-384** dans la ville Macédonienne de Stagire, Aristote étudia 20 ans à l’Académie de Platon, et fonda par la suite le Lycée. Il est à l'origine des syllogismes, étymologiquement ensemble de discours logiques. Ce sont des raisonnements logiques constitués d'au moins trois propositions, la dernière étant une conclusion déduite, précédée de prémisses qui doivent s'avérer vrais pour que la conclusion le soit également. L’exemple le plus connu étant "Tout les hommes sont mortels, or Socrate est un homme, donc Socrate est mortel".
 
 La science de la biologie est née grâce à Aristote et Théophraste, respectivement en charge de documenter la faune et la flore. Aristote s'intéressa donc logiquement à la nature, déclarant que tout être vivant possède une âme, bien que hiérarchisant ce propos à la manière de Platon et son analogie de la ligne ; disant que les plantes n'ont qu'une âme végétative, que les animaux l'ont en plus d'une âme sensitive, et que l'homme à également une âme intellectuelle en plus des deux premières. Il à également défendu l'idée d'une terre sphérique, justifiée par la courbure des éclipses de lunes et la force centripète, bien qu'il pensait être dans un système géo-centré avec l'ensemble des astres tournant autour de la Terre. Il était confiant en la sensation, qui permet la perception et la cognition du monde réel, et ne nécessite selon lui pas un scepticisme constant, mais nuança son propos en disant que c'est une première ouverture vers le savoir, qu'il faut mélanger avec le savoir d'autrui, de gens sérieux, expert du domaine, et sans prendre ce qui est dit pour véridique, mais pour tester leur capacité à se rapprocher du réel et d'une vérité universelle.
 
@@ -509,17 +502,17 @@ De 722 à 1100 l'Espagne reprends jusqu'à la moitié de ses territoires occupé
 
 Ayant vécu de **1170** à **1250**, Leonardo Fibonacci est le "chaînon manquant", qui aurait importé la notation indo-arabe aux mathématiques occidentales à une période où les chiffres romains prédominent. Il a en effet été éduqué à Béjaïa en actuelle Algérie, et aurait ramené entre autre cette fameuse notation à Pise, où son père était marchant et notaire public des douanes. Il est également réputé pour sa fameuse suite, liée au nombre d'or, proportion qu'il n'a pas évoquée mais que l'on retrouve dans beaucoup de choses y compris des structures produites par la nature.
 
-Opposé à Averroès, le philosophe espagnol Ramon Llull, né en **1234**, est parfois considéré comme un illuminé. Il dira avoir rencontré Dieu, qui lui aurait donné un système lui permettant de mémoriser l'ensemble de sa connaissance. Ce système utilise des roues développant une création épistémologique relationnelle, basé sur des paires et des triples. 36 combinaisons, de neuf éléments pris deux à deux et un tableau de combinaisons ternaires, donnant lieu à 252 triplets possibles. Leibniz adoptera 300 ans plus tard son idée qu'il repensera comme un « alphabet de la pensée logique », ce même alphabet sera repensé en binaire par George Boole au 19ème siècle. Il découvrira beaucoup d'idées reprises dans l'informatique comme la théorie des graphes, l'alphabet et ses logiques combinatoires. En 2001, la découverte des manuscrits perdus *Ars notandi*, *Ars eleccionis* et *Alia ars eleccionis*, sera reconnu comme l'origine du paradoxe de Condorcet qui ne sera popularisé qu'au 18 ème siècle par le marquis du même nom.
+Opposé à Averroès, le philosophe espagnol Ramon Llull, né en **1234**, est parfois considéré comme un illuminé. Il dira avoir rencontré Dieu, qui lui aurait donné un système lui permettant de mémoriser l'ensemble de sa connaissance. Ce système utilise des roues développant une création épistémologique relationnelle, basé sur des paires et des triples. 36 combinaisons, de neuf éléments pris deux à deux et un tableau de combinaisons ternaires, donnant lieu à 252 triplets possibles. Leibniz adoptera 300 ans plus tard son idée qu'il repensera comme un « alphabet de la pensée logique », ce même alphabet sera repensé en binaire par George Boole au 19ème siècle. Il découvrira beaucoup d'idées reprises dans l'informatique comme la théorie des graphes, l'alphabet et ses logiques combinatoires. En 2001, la découverte des manuscrits perdus *Ars notandi*, *Ars eleccionis* et *Alia ars eleccionis*, sera reconnu comme l'origine du paradoxe de Condorcet qui ne sera popularisé qu'au 18<sup>ème</sup> siècle par le marquis du même nom.
 
 
 
 #### Typographie
 
-Le mot *typographie* se compose de « type » qui signifie « empreinte », et de « graphie » qui signifie « écriture ». C'est l’art d’assembler des caractères mobiles afin de créer des mots, des phrases, et de les imprimer. Cette technique a été détaillée vers **1440** par Gutenberg, qui n’a pas inventé l’imprimerie en soit mais l'a popularisée avec l'ensemble des techniques mécaniques qui y sont liées.
+En grec, *týpos* signifie frappe, coup ou pression et peut également indiquer la marque qui en résulte. La typographie est donc l’art d'écrire en appliquant des caractères mobiles, tampons munis d'un symbole appelé glyphe. Un ensemble de glyphes représentant un alphabet complet forme une fonte ou police de caractère. Avec ces derniers il est donc possible de créer des mots, des phrases, et de les imprimer. Cette technique a été détaillée vers **1440** par Gutenberg, qui n’a pas inventé l’imprimerie mais l'a popularisée avec l'ensemble des techniques mécaniques qui y sont liées.
 
 En effet, les caractères mobiles existait depuis leur invention en 1040 par un inventeur chinois nommé Bi Sheng ; et la xylographie permettait déjà l'impression à l'aide de gravures sur bois, malgré son usure après plusieurs utilisations.
 
-La popularisation de l'imprimerie a permis l'automatisation d'une transmission écrite qui était alors manuelle, baissant les coûts et améliorant la vitesse de production et de diffusion des informations. La lecture qui était alors un privilège réservé aux plus riches devient alors accessible, la transmission orale ne prévaut plus et chacun peut avoir un libre examen des œuvres littéraires.
+La popularisation de l'imprimerie a permis l'automatisation d'une transmission écrite qui était alors manuelle, réduisant les erreurs et les coûts tout en améliorant la vitesse de production et de diffusion des informations. La lecture qui était alors un privilège réservé aux plus riches devient alors accessible, la transmission orale ne prévaut plus et chacun peut avoir un libre examen des œuvres littéraires.
 
 
 
@@ -622,7 +615,7 @@ En **1650**, le clermontois polymathe Blaise Pascal, invente la Pascaline trois 
 
 hexagrammes mystique de Pascal
 
-Les cartes perforées sont des morceau de papiers rigide dont la présence ou absence de trou corresponds à une information binaire. La plus ancienne utilisation des cartes perforée est avérée dès 1502 avec la première orgue de Barbarie, ancêtre de la boite à musique. A partir du 16e siècle, que des automates sont réalisés avec. En **1725**, le lyonnais Basile Bouchon, met au point le premier système de programmation d’un métier à tisser à l'aide d'un ruban perforé. En 1728, son assistant nommé Jean-Baptiste Falcon, à l'idée de remplacer le ruban par une série de cartes perforées reliées entre elles. Jacques de Vaucanson, célèbre Grenoblois inventeur d'automates musicaux et à objectif de divertir, réutilise ce concept en remplaçant ruban et cartes perforées par un cylindre métallique à pointes. Enfin Joseph Marie Jacquard à mis en œuvre les procédés déjà existants pour réaliser un métier à tisser éponyme en **1801**, date à partir de laquelle il passe une bonne dizaine d'année à démocratiser et perfectionner la machine programmable. Programmer avec des cartes perforées demandais déjà une rigueur importante car l'ordre des cartes était très importantes et qu'un simple coup de vent ou inadvertance pouvait mettre des jours de travail a la poubelle.
+Les cartes perforées sont des morceau de papiers ou de carton, souple ou rigide, dont la présence ou absence de trou corresponds à une information binaire. La plus ancienne utilisation des cartes perforée est avérée dès 1502 avec la première orgue de Barbarie, ancêtre de la boite à musique. A partir du 16e siècle, des automates sont réalisés avec. En **1725**, le lyonnais Basile Bouchon, met au point le premier système de programmation d’un métier à tisser semi-automatique à l'aide d'un fragile ruban de papiers perforé permettant de le programmer. Trois ans après, en 1728, son assistant nommé Jean-Baptiste Falcon, à l'idée de remplacer le ruban par une série de solides cartes en cartons perforées reliées entre elles, améliorant la robustesse de cette machine. De 1745 à 1755, le célèbre Grenoblois inventeur d'automates Jacques Vaucanson automatise la machine à l'aide de système hydrauliques, remplaçant les cartes perforées par un cylindre métallique à pointes.
 
 
 
@@ -648,7 +641,7 @@ https://gallica.bnf.fr/ark:/12148/bpt6k505471/f682.item
 
 ### Époque contemporaine
 
-C'est la période actuelle, le début en est défini par la révolution industrielle qui a commencée en **1760** au Royaume-Unis, le besoin de calcul, de gestion et d'automatisation est alors grandissant. La France aboli la monarchie en 1792, les États deviennent pour la plupart des républiques, l'ancien régime et les empires coloniaux prennent fin, l'esclavage est aboli, et les deux guerres mondiales prendront lieu par la suite. Dans le monde anglo-saxon, cette période ne commence qu'en 1945 à la fin de la seconde guerre mondiale.
+C'est la période actuelle, le début en est défini par la révolution industrielle qui a commencée en **1760** au Royaume-Unis, le besoin de calcul, de gestion et d'automatisation est alors grandissant. La France aboli la monarchie en 1792, les États deviennent pour la plupart des républiques, l'ancien régime et les empires coloniaux prennent fin, l'esclavage est aboli, et les deux guerres mondiales prendront lieu par la suite. Dans le monde anglo-saxon, cette période ne commence qu'en 1945 après les deux guerres mondiale.
 
 
 
@@ -668,15 +661,15 @@ Les penseurs de cette époque ont hérité des savoirs du siècle des lumière, 
 
 Le terme biologie, en tant que science de l'étude des êtres vivants, a été inventé par Jean-Baptiste de Lamarck. Il est à l'origine de la théorie transformiste ayant réfuté le fixisme déclarant jusqu'alors que les espèces végétales et animales seraient immuables et n'évoluerait pas dans le temps. Dans *Philosophie zoologique*[^1], il est le premier penseur à exposer la théorie de l'évolution et spéculer que l'homme descends probablement du singe. Célèbre pour avoir révolutionné la biologie, Charles Darwin a repris les travaux de Lamarck et publia l'*Origine des espèces* en 1859. Dans ce texte fondateur de la théorie de l’évolution et de la sélection naturelle, il prouve scientifiquement la mutabilité des être vivants que d'autres penseurs n'ont pu prouver de l'Antiquité au moyen âge. Enfin, Herbert Spencer viendra appliquer ces théories au sciences humaines, inventant ainsi le darwinisme social.
 
+L'idée globale de cycle répété est universel de part la nature même de notre système solaire et de l'univers. C'est une notion qui existe depuis l'antiquité. Souvent appelée *Éternel retour*, ce terme sera repris par Nietzsche. Bergson lui, après son *Essai sur les données immédiates de la pensée* et *Matière et mémoire* qui traitent de la relation du corps à l'esprit, reprendra à son tour cette idée de répétition et d'amélioration évoquant une *Évolution créatrice*, d'après le titre d'une de ses œuvres datant de 1907. Il y explique et parvient à convaincre le lecteur que la nature même se répète et invente sans cesse de nouvelles entités.
+
 [^1]: https://gallica.bnf.fr/ark:/12148/bpt6k5675762f
 
-Ernst Mach est né en 1838, il est un physicien empiriste, il a beaucoup travailler sur la dynamique des fluides, notamment le comportement des ondes dans ces derniers, et les vitesses supersoniques. C'est d'ailleurs pourquoi on lui doit la notation de la vitesse en Mach qui représente la vitesse d'un objet dans un fluide comparée à la vitesse du son dans ce même fluide. Egalement épistémologue, il a inventé une philosophie de la science. Ces travaux ont inspiré Einstein 
+Ernst Mach est né en 1838, il est un physicien empiriste, il a beaucoup travailler sur la dynamique des fluides, notamment le comportement des ondes dans ces derniers, et les vitesses supersoniques. C'est d'ailleurs pourquoi on lui doit la notation de la vitesse en Mach qui représente la vitesse d'un objet dans un fluide comparée à la vitesse du son dans ce même fluide. Egalement épistémologue, il a inventé une philosophie de la science. Ces travaux ont inspiré Albert Einstein qui sera actif une cinquantaine d'année après lui. 
 
-Nietzsche 1844
+Nietzsche 1844 Eternel retour
 
-Bergson 1859
-
-Albert Einstein 1879
+Bergson 1859 Evolution créatrice
 
 Le mathématicien Carl Friedrich Gauss, Né en **1777**
 
@@ -746,7 +739,7 @@ Bien après Robert Hooke, qui inventa le téléphone à ficelle en 1665 ; le phy
 
 Au début du 20ème siècle, c'est en **1904** que John Ambrose Fleming (à ne pas confondre avec les biologistes Walther Flemming et Alexander Fleming qui ont respectivement découverts la mitose et la pénicilline à la même période) se base sur des travaux de Thomas Edison datant de 1883 et de Frederick Guthrie en 1873, pour appliquer leurs technologie dans le but de remplacer les détecteurs magnétique des radio et permettre d'amplifier leurs signaux. Il invente ainsi le *kénotron*, premier tube à vide, ancêtre des diodes et semi-conducteurs.
 
-Le principe du semi-conducteur à été découvert en 1874 par Karl Ferdinand Braun, qui s'est rendu compte que l'on pouvait faire passer un courant électrique dans une direction donnée à l'aide d'un fin fil de métal et d'un crystal de galène, inventant ainsi la diode. Cette découverte a été réutilisée dans les tubes à vides de Fleming, permettant d'avoir des bascules allumée / éteinte avec un signal directionnel. Par la suite Lee De Forest inventera l'Audion en **1906** avec l'ajout d'une électrode intermédiaire à une diode, permettant de convertir une variation de courant en variation de tension et de puissance, permettant ainsi l'amplification d'un signal. William Eccles renommera cette invention triode en 1919. Tout deux ont contribuer pour beaucoup dans le développement des circuits électroniques et de la transmission sans fil avec la naissance de la radio.
+Le principe du semi-conducteur à été découvert en 1874 par Karl Ferdinand Braun, qui s'est rendu compte que l'on pouvait faire passer un courant électrique dans une direction donnée à l'aide d'un fin fil de métal et d'un crystal de galène, inventant ainsi la diode. Cette découverte a été réutilisée dans les tubes à vides de Fleming, permettant d'avoir des bascules allumée / éteinte avec un signal directionnel. Par la suite Lee De Forest inventera l'Audion en **1906** avec l'ajout d'une électrode intermédiaire à une diode, permettant de convertir une variation de courant en variation de tension et de puissance, permettant ainsi l'amplification d'un signal. William Eccles renommera cette invention triode en 1919. Tout deux ont contribués pour beaucoup dans le développement des circuits électroniques et de la transmission sans fil avec la naissance de la radio.
 
 
 
@@ -782,11 +775,13 @@ En **1847** George Boole, abouti le travail de ses prédécesseurs en inventant 
 
 https://www.youtube.com/watch?v=RQYuyHNLPTQ
 
-Petit retour en arrière, en l'an 1725, Basile Bouchon invente un métier à tisser semi-automatique qui possède un fragile ruban de papiers perforé permettant de le programmer, 3 ans plus tard, en 1728, Jean-Baptiste Falcon utilise des cartes perforées en carton reliées entre elles pour améliorer la robustesse de cette machine. De 1745 à 1755, le mécanicien Jacques Vaucanson automatise la machine à l'aide de système hydrauliques dont il dote ses automates. A la même période apparaissent les machines à coudre. Enfin, en 1800, Joseph Marie Jacquard invente le métier à tisser Jacquard, complétement automatisé. Cette machine inspirera Charles Babbage, la première personne à avoir automatiser l'édition de tables de calcul. Il a initialement travaillé avec des calculateurs humains, "computers" en anglais, sa langue natale. La conception de telles tables étaient fastidieuses à superviser et encore plus à calculer et réaliser. Il a œuvré à développer une machine basée sur les méthodes de calcul de l'époque, réalisées par des gens qui étaient coiffeurs, ayant perdu leur travail suite à la révolution française, période après laquelle la coiffure étant vue comme symbole de l'aristocratie, a été délaissée. Ils effectuaient essentiellement des additions et des soustraction, sous la supervision de mathématiciens qui leurs prépareraient les formules d'après la méthode des différences finies. D'où le nom de la machine qu'il a inventé en **1834**, "la machine à différences". Ayant l'expérience du milieu, il voulait réaliser un système fiable, résilient a l'erreur. Cette dernière pouvait provenir du calcul, mais arrivant le plus souvent lors de l'impression, il à donc fait en sorte, dès la phase de design, que sa machine prépare directement le texte en résultant pour l'impression. C'est une approche très intéressante réduisant les intermédiaires et automatisant toute la chaine de création, que je reprendrais plus tard. La machine est à ce moment déjà un outil qui peut guider et réduire les erreurs, ce qui à l'époque était crucial, notamment en mer où une erreur de calcul ou d'impression sur l'almanach du navigateur pouvait mener à la perte de tout un navire et de son équipage. De 1820 à 1830 il a visité beaucoup d'usines en Europe dans le but de trouver des idées pour sa machine à différences, il n'en trouva pas beaucoup mais cela lui a permis de devenir un économiste des machines industrielles à son époque. À peine eu t'il conçu la machine à différence, qu'il eu oublié la finalité de base : réaliser des tables de calcul, et il embrassa alors l'idée d'une machine capable de calculer tout ce qu'un humain pourrait lui demander, la Machine Analytique. De son vivant, seul le concept existait, elle ne vu le jour que grâce à son fils, qui après une tentative infructueuse en 1888, revint à la charge et réalisa en 1906 une machine fonctionnelle qu'il eu présenté devant l'académie royale anglaise d'astronomie, après quoi il en fit don au musée des sciences de Londres en 1910.
+Petit retour en arrière. Dans la section [Premières machines à calculer](#Premières-machines-à-calculer) de l'époque moderne, j'ai introduit Basile Bouchon, Jean-Baptiste Falcon, et Vaucanson qui ont prototype le métier à tisser automatisé. Pour finir de tisser cette partie de l'histoire, Joseph Marie Jacquard invente en 1800 le métier à tisser Jacquard, complétement automatisé. Cette machine inspirera Charles Babbage, la première personne à avoir automatiser l'édition de tables de calcul. Il a initialement travaillé avec des calculateurs humains, "computers" en anglais, sa langue natale. La conception de telles tables étaient fastidieuses à superviser et encore plus à calculer et réaliser. Il a œuvré à développer une machine basée sur les méthodes de calcul de l'époque, réalisées par des gens qui étaient coiffeurs, ayant perdu leur travail suite à la révolution française, période après laquelle la coiffure étant vue comme symbole de l'aristocratie, a été délaissée. Ils effectuaient essentiellement des additions et des soustraction, sous la supervision de mathématiciens qui leurs prépareraient les formules d'après la méthode des différences finies. D'où le nom de la machine qu'il a inventé en **1834**, "la machine à différences". Ayant l'expérience du milieu, il voulait réaliser un système fiable, résilient a l'erreur. Cette dernière pouvait provenir du calcul, mais arrivant le plus souvent lors de l'impression, il à donc fait en sorte, dès la phase de design, que sa machine prépare directement le texte en résultant pour l'impression. C'est une approche très intéressante réduisant les intermédiaires et automatisant toute la chaine de création, que je reprendrais plus tard. La machine est à ce moment déjà un outil qui peut guider et réduire les erreurs, ce qui à l'époque était crucial, notamment en mer où une erreur de calcul ou d'impression sur l'almanach du navigateur pouvait mener à la perte de tout un navire et de son équipage. De 1820 à 1830 il a visité beaucoup d'usines en Europe dans le but de trouver des idées pour sa machine à différences, il n'en trouva pas beaucoup mais cela lui a permis de devenir un économiste des machines industrielles à son époque. À peine eu t'il conçu la machine à différence, qu'il eu oublié la finalité de base : réaliser des tables de calcul, et il embrassa alors l'idée d'une machine capable de calculer tout ce qu'un humain pourrait lui demander, la Machine Analytique. De son vivant, seul le concept existait, elle ne vu le jour que grâce à son fils, qui après une tentative infructueuse en 1888, revint à la charge et réalisa en 1906 une machine fonctionnelle qu'il eu présenté devant l'académie royale anglaise d'astronomie, après quoi il en fit don au musée des sciences de Londres en 1910.
 
 Pour en revenir à l'industrie du textile, c'est à la même période apparaissent les machines à coudre. Il est avéré que les humains savent coudre depuis la préhistoire, en 2016 des russes ont retrouver une aiguille qui aurait 50000 ans. Quelques années avant le début de la période contemporaine, Charles Fredrick Wiesenthal dépose le premier brevet de machine à coudre en 1755. Au début des années 1800, Josef Madersperger commence à développer une machine à coudre qui présentera pour la première fois en 1814. C'est en 1830 que Barthélemy Thimonnier dépose un brevet pour la première machine à coudre fiable. La même année, il décroche un contrat pour la réalisation d'uniformes de l'armée Française avant que toutes ses machines soit détruites par des ouvriers craignant de perdre leurs emplois. En 1846, c'est Elias Howe qui dépose un brevet pour la première machine à coudre capable de faire des points noués, améliorée par Allen B. Wilson seulement 3 ans après. Cette machine sera améliorée par bien d'autres personnes, et popularisée par Isaac Merritt Singer, créateur de la marque de machine à coudre Singer encore existante, qui a racheter toute sortes de brevet et optimiser la processus de création pour réduire les coûts et rendre le produit accessible aux particuliers.
 
-Le métier Jacquard et les travaux de Charles Babbage sont donc à l'origine de la programmation. Un programme est une prévision écrite, c'est ce qui permet de répondre a la question "Quoi faire quand ?". Le tout premier programme informatique à été imaginé pour cette fameuse Machine Analytique par Ada Lovelace en **1842**, à 27 ans. 10 ans auparavant, elle rencontre Charles Babbage, avec qui elle travailla, notamment sur la machine analytique, pour laquelle elle conçu ce dit programme. Héritant de toutes les technologies et concepts énoncés précédemment dans cette section, Hermann Hollerith invente la mécanographie. Cet ingénieur américain a été recruté en tant que statisticien au Bureau de recensement des États Unis. Dans la fin du 18è siècle, en 1790, le premier recensement estimait la population des États-Unis à 3.9 millions d'individus. En 1840, 28 greffiers ont travaillés à la réalisation d'une estimation de 17.1 millions. Enfin, le recensement de 1880 a nécessité 1495 greffiers qui devait scrupuleusement pointer avec une couleur d'encre particulière pour chaque statistique effectuée. Avec la méthode automatisée par cartes perforées d'Hermann Hollerith dévoilée l'an **1890**, la création d'un tableau statistique à été accélérée de 10 fois par rapport à ses concurrents, remplaçant bon nombre de greffiers. Il a construit une machine à statistiques à cartes perforées qui exploite des cartes 12x6cm regroupant les 210 cases nécessaires pour recevoir toutes les informations nécessaires. Son invention a permis d'effectuer le recensement auparavant manuel en seulement six ans. Par la suite,  sur une idée de l'un de ses collègues, il a amélioré le fonctionnement de cette machine en utilisant un métier à tisser Jacquard pour mécaniser la lecture des fiches de recensement et améliorer son efficacité. Enfin, il finit par quitter l'administration et fonde la Tabulating Machine Company en 1896 qui fusionnera en 1911 avec 3 autres entreprise pour fonder la Computing-Tabulating-Recording Company (CTR), qui deviendra en 1924 l'International Business Machines Corporation, IBM. 
+Le métier Jacquard et les travaux de Charles Babbage sont donc à l'origine de la programmation. Un programme est une prévision écrite, c'est ce qui permet de répondre a la question "Quoi faire quand ?". Le tout premier programme informatique à été imaginé pour cette fameuse Machine Analytique par Ada Lovelace en **1842**, à 27 ans. 10 ans auparavant, elle rencontre Charles Babbage, avec qui elle travailla, notamment sur la machine analytique, pour laquelle elle conçu ce dit programme. Héritant de toutes les technologies et concepts énoncés précédemment dans cette section, Hermann Hollerith inventera la mécanographie 50 ans après qu'Ada ai écrit le premier programme informatique. Cet ingénieur américain a été recruté en tant que statisticien au Bureau de recensement des États Unis.
+
+Dans la fin du 18è siècle, en 1790, le premier recensement estimait la population des États-Unis à 3.9 millions d'individus. En 1840, 28 greffiers ont travaillés à la réalisation d'une estimation de 17.1 millions. Enfin, le recensement de 1880 a nécessité 1495 greffiers qui devait scrupuleusement pointer avec une couleur d'encre particulière pour chaque statistique effectuée. Avec la méthode automatisée par cartes perforées d'Hermann Hollerith dévoilée l'an **1890**, la création d'un tableau statistique à été accélérée de 10 fois par rapport à ses concurrents, remplaçant bon nombre de greffiers. Il a construit une machine à statistiques à cartes perforées qui exploite des cartes 12x6cm regroupant les 210 cases nécessaires pour recevoir toutes les informations nécessaires. Son invention a permis d'effectuer le recensement auparavant manuel en seulement six ans. Par la suite,  sur une idée de l'un de ses collègues, il a amélioré le fonctionnement de cette machine en utilisant un métier à tisser Jacquard pour mécaniser la lecture des fiches de recensement et améliorer son efficacité. Enfin, il finit par quitter l'administration et fonde la Tabulating Machine Company en 1896 qui fusionnera en 1911 avec 3 autres entreprise pour fonder la Computing-Tabulating-Recording Company (CTR), qui deviendra en 1924 l'International Business Machines Corporation, IBM. 
 
 
 
@@ -794,7 +789,7 @@ Le métier Jacquard et les travaux de Charles Babbage sont donc à l'origine de 
 
 [Retour](#Sommaire)
 
-### Première guerre mondiale et entre deux guerres
+### Guerres mondiales
 
 En 9 décembre **1905**, l'abrogation du régime concordataire de 1802 sépare l'État et l'Église, mettant fin à l'affrontement violent qui a opposé deux conceptions de la place des Églises dans la société française pendant environ vingt-cinq ans.
 
@@ -848,9 +843,9 @@ C'est année suivante, en 1935 que Robert Watson-Watt, que l'on retiendra comme 
 
 #### Alan Turing 
 
-En **1936** il invente une expérience de pensée présentant une machine nommée d'après son nom. Cette machine de Turing est à la base de l'informatique théorique, c'est une métaphore du fonctionnement de tout appareil de calcul, elle à poser les bases de la complexité algorithmique et de la calculabilité. Imaginez un **ruban infini** composé de cases numérotées, toutes ces cases possèdent initialement un zéro. Sur ce ruban est situé un **agent** capable de lire et écrire les symboles sur le ruban, ainsi que de se déplacer sur la case précédente ou suivante. Un **registre** viendra mémoriser la suite d'états allant de celui initial, jusqu'à actuel, le nombre d'état est limité et fini. Enfin, cet état permet grâce à une **table d'action** d'indiquer à la machine quel action réaliser, que ce soit un déplacement, une lecture ou une écriture, ainsi que le nouvel état après réalisation de l'action. Si aucune action ne correspond à l'état actuel et au symbole qui bien d'être lu alors la machine s'arrête.
+En **1936** il invente une expérience de pensée présentant une machine nommée d'après son nom. Cette machine de Turing est à la base de l'informatique théorique, c'est une métaphore du fonctionnement de tout appareil de calcul, elle à posé les bases de la complexité algorithmique et de la calculabilité. Imaginez un **ruban infini** composé de cases numérotées, toutes ces cases possèdent initialement un zéro. Sur ce ruban est situé un **agent** capable de lire et écrire les symboles sur le ruban, ainsi que de se déplacer sur la case précédente ou suivante. Un **registre** viendra mémoriser la suite d'**états** allant de celui initial, jusqu'à actuel, le nombre d'état est limité et fini. Enfin, cet état permet grâce à une **table d'action** d'indiquer à la machine quel action réaliser, que ce soit un déplacement, une lecture ou une écriture, ainsi que le nouvel état après réalisation de l'action. Si aucune action ne correspond à l'état actuel et au symbole qui bien d'être lu alors la machine s'arrête.
 
-Avec ses quatre simples composant, on peut comme Alan l'indique dans sa publication, créer une Machine de Turing universelle, capable de simuler le comportement de n'importe quelle autre machine de Turing, on dit alors qu'elle est Turing-complète. C'est ainsi la raison pour laquelle on peut utiliser un ordinateur pour simuler une machine virtuelle, ou utiliser des jeux Turing-complete comme Minecraft[^1] Terraria[^2]  ou Factorio[^3] pour reproduire une processeur, un affichage graphique, et ainsi une version simplifié du jeu à l'intérieur de son propre monde virtuel. Il existe également un ludiciel du même nom qui guide le joueur et l'élève, on peut y apprendre l’électronique pas à pas, dans un logiciel qui simule sa logique, et permet de reproduire des circuits complexes et comprendre le fonctionnement des langages assembleurs, qui naîtrons 13 ans après l'expérience de pensée de Turing.[^4]
+Avec ses quatre simples composant, il est possible, tout comme Alan l'indique dans sa publication, de créer une Machine de Turing universelle, capable de simuler le comportement de n'importe quelle autre machine de Turing, Un tel système est Turing-complet. C'est ainsi la raison pour laquelle on peut utiliser un ordinateur pour simuler une machine virtuelle, ou utiliser des jeux Turing-complete comme Minecraft[^1] Terraria[^2]  ou Factorio[^3] pour reproduire une processeur, un affichage graphique, et ainsi une version simplifié du jeu à l'intérieur de son propre monde virtuel. Il existe également un ludiciel du même nom qui guide le joueur et l'élève, on peut y apprendre l’électronique pas à pas, dans un logiciel qui simule sa logique, et permet de reproduire des circuits complexes et comprendre le fonctionnement des langages assembleurs, qui naîtrons 13 ans après l'expérience de pensée de Turing.[^4]
 
 [^1]: https://www.youtube.com/watch?v=-BP7DhHTU-I
 [^2]: https://www.youtube.com/watch?v=7lVAFcDX4eM
@@ -891,12 +886,6 @@ Créée en 01/01/**1939**, HP réalisait initialement des instruments de mesure.
 
 
 
-
-
-[Retour](#Sommaire)
-
-### Seconde guerre mondiale
-
 #### Colossus Mark 1
 
 Plusieurs calculateurs seront construit pour l'effort de guerre, que se soit pour effectuer différents calculs balistiques ou pour la cryptanalyse. Le Colossus Mark 1 sera par exemple utilisé pour déchiffrer les messages produits par les machines de Lorenz, utilisés par l'Allemagne nazie pour faire communiquer les haut dirigeants de Berlin et ceux des différents corps d'armée en utilisant un chiffrement de flux en continue. La version 2 du Colossus sera quand à elle utilisé pour le débarquement de Normandie.
@@ -908,26 +897,6 @@ Plusieurs calculateurs seront construit pour l'effort de guerre, que se soit pou
 L'IBM Automatic Sequence Controlled Calculator (ASCC) datant de **1944** est le premier calculateur entièrement automatique. Une fois lancé, il calculait pendant des heures en suivant le programme qui lui était donné à l'aide de cartes perforées. Ces avancés lui ont valu une couverture médiatique dans la presse, voyant cette machine comme un robot intelligent pouvant trouver toutes les réponses mathématiques. Cette machine ne possédait pourtant pas encore de branchement conditionnel alors que la machine analytique de Babbage, bien que jamais construite, stipulait déjà cette fonctionnalité. Les programmes était alors très long et il possédait des Relay Switches qui pouvaient casser. L'ASCC a permis la réalisation de tables et la réalisations de premières expérimentations notamment par Grace Hopper.
 
 https://www.youtube.com/watch?v=MOUg25dJM4c
-
-
-
-#### Architecture de von Neumann
-
-Beaucoup d'ordinateurs ont été réalisés en **1945** dont l'EDVAC l'ENIAC, le SSEC succédant au ASCC, et le Z4. Von Neumann lors de ses travaux sur l'EDVAC, à décrit cette architecture qui sera réutilisée par Turing, Mauchly et Eckert pour l'ENIAC, ainsi que sur tout les ordinateurs à partir de cette date.
-
-Cette architecture à permis à permis au stockage de posséder les instructions du programme et la donnée à traiter sur le même support, permettant également aux instructions du programme d'être également traités comme de la donnée, et donc de pouvoir être lu et réécrite.
-
-La mort de leur investisseur principal lors d'un trajet en avion les poussera à revendre leur entreprise à Remington par la suite.
-
-Remington Racheté par Sperry Corporation après fusion avec la Burroughs Corporation en 1986, deviendra Unisys, 100 ans après sa création en 1886
-
-Même si il a été pensé par 2 hommes, l'ENIAC à été programmé par 6 femmes, qui ont du documenter, coder et brancher des millions de cables, il a été réalisé à la Moore School de l'université de Pennsylvanie à partir de juin 1943
-
-Ils formeront la Eckert-Mauchly Computer Corporation en 1946
-
-
-
-Elisabeth Findler Jake, nom de domaines, whois nom de domaine (page jaunes) Alors que la silicon vallait est encore loin.
 
 
 
@@ -957,7 +926,7 @@ https://www.w3.org/History/1945/vbush/vbush.txt
 
 [Retour](#Sommaire)
 
-### Guerre froide et course à l'espace
+### Guerre froide
 
 La seconde guerre mondiale prends fin et c'est officiellement l'époque contemporaine pour les anglo-saxons. C'est l'avènement du nucléaire, de l'ère de l'informatique, mais aussi de la décolonisation et de la guerre froide. Les besoins de calculs sont plus importants que jamais, aéronefs, nucléaire militaire, civil, et gestion de l'énergie sont au cœur des réflexions et stratégies des pays du monde.
 
@@ -967,41 +936,25 @@ De grands projets à forte complexité en découlent, elle amènent à un besoin
 
 
 
-#### Temps réel
+#### Genèse de l'informatique moderne
 
-Initialement chiffré à 200'000 dollars pour deux ans de développement, pour finalement atteindre les 8 millions de dollars pour huit ans ; un projet américain top secret nommé *Project Whirlwind* visait à simuler de l'espace aérien des États-Unis. Bien qu'il ai coûté une fortune, cet ordinateur constitué initialement de tubes à vides, puis par la suite l'un des premiers à avoir utilisé de la mémoire à tores de ferrites, mais surtout ayant permis des sorties en temps réel ; a influencé cette technologie et battit les fondations de l'industrie informatique jusqu'à aujourd'hui.
+Beaucoup d'ordinateurs ont été réalisés en **1945**, au crépuscule des deux guerres. Parmis eux, l'EDVAC, l'ENIAC, le SSEC succédant au ASCC, et le Z4. Von Neumann lors de ses travaux sur l'EDVAC, à décrit une architecture qui a permis au stockage de posséder les instructions du programme et la donnée à traiter sur le même support, permettant également aux instructions du programme d'être traités comme de la donnée, et donc de pouvoir être lu et réécrite. Cette architecture sera réutilisée par Alan Turing, Mauchly et Eckert pour l'ENIAC, ainsi que sur tout les ordinateurs à partir de cette date. 
 
-Cet ordinateur devant simuler les sorties d'un avion, et même potentiellement de n'importe quel avion sur le territoire américain, il est évident que pour que le pilote ai une expérience réaliste, les affichages et donc les valeurs sorties de l’ordinateur doivent toujours être à jour, nécessitant du temps réel. C'est pourquoi Jay W. Forrester, la personne en charge du projet, fit la rencontre de Perry O. Crawford Jr. Ce pionnier de l'informatique était alors l'un des premier si ce n'est le premier, à avoir réalisé et par la suite promu, les mérites des ordinateurs numériques au profit des analogues, notamment pour ce genre de problème de temps réel, et ce avant même que de tels ordinateurs ne soit construit, le premier étant l'ENIAC en 1945. Crawford et Forrester l'ont découvert à la fin de la guerre, lorsque les projets secret militaire ont alors été révélé, à l'occasion d'une conférence du MIT sur les Techniques de Calcul Avancés.
+La mort de leur investisseur principal lors d'un trajet en avion les poussera à revendre leur entreprise à Remington par la suite.
 
-Mais alors que les budgets sont revus à la baisse à cause de la fin de la guerre, le projet Whirlwind est mis en danger, et sa faisabilité à court terme remise en cause. Arrive alors la guerre froide, avec la menace de bombe nucléaire, missiles et bombardiers russes, capables d'arriver aux États-Unis en passant par le pôle nord.
+Remington Racheté par Sperry Corporation après fusion avec la Burroughs Corporation en 1986, deviendra Unisys, 100 ans après sa création en 1886
 
+Même si il a été pensé par 2 hommes, l'ENIAC à été programmé par 6 femmes, qui ont du documenter, coder et brancher des millions de cables, il a été réalisé à la Moore School de l'université de Pennsylvanie à partir de juin 1943
 
+Ils formeront la Eckert-Mauchly Computer Corporation en 1946
 
-George Valley, professeur de physique au MIT, faisant alors parti du conseil scientifique de l'armée de l'air américaine, fit en **1950** un rapport déclarant que le système de défense anti-aérienne américain était catastrophique. Les informations du système de radar était à ce moment traités manuellement avant d'être relayées à un centre de contrôle et de commande. Les problèmes de communication et de couverture radar rendant impossible une alerte rapide en cas de tentative d'attaque par le pôle nord.
+Elisabeth Findler Jake, nom de domaines, whois nom de domaine (page jaunes) Alors que la silicon vallait est encore loin.
 
-Valley sera par conséquent responsable du projet qui sera nommé Semi-Automatic Group Environment (SAGE), ayant pour but de solutionner ces problèmes. Pour la réalisation de ce projet, il chercha alors un moyen informatique pour améliorer la récupération, les communication et le traitement des données radar. Bien qu'il eu écho du Projet Whirlwind en mal, il décida de se se renseigner par lui même. Se rendant compte des progrès impressionnant qui avaient été réalisés, et qui par chance avait enfin permis l’exécution de programmes de tests ; il relança le projet avec les fond nécessaires, rendant le système opérationnel l'année suivante, en 1951. À partir de ce moment, le Whirlwind fusionne avec SAGE.
+Le tube de Williams-Kilburn, développé en 1946 ou 1947 par Frederic Calland Williams et Tom Kilburn, utilise les tubes cathodiques de Boris Rosing pour enregistrer des données binaires. La **Small-Scale Experimental Machine (SSEM)**, premier ordinateur à architecture de von Neumann les utilisait pour sa mémoire vive. Le test de cette nouvelle technologie sur la SSEM, aussi appelé Manchester Baby étant concluant en **1948**, la production d'un autre ordinateur à été lancé.
 
-Un réseau de 23 centres de directions est alors distribué dans tout le pays, et des opérateurs commencent à analyser les engins volants, qu'ils soit civils ou militaire, alliés ou ennemis, sur des écran cathodiques.
-
-Crawford avait prédit que le temps réel ne permettrait pas seulement la simulation d'un avion, mais la visualisation en temps réel de tout le trafic aérien, comme c'est le cas aujourd'hui en source ouverte. Les circuits imprimés, écrans cathodiques et mémoire à tores seront grâce à ce projet, et aux intervenant comme IBM, Burroughs, ou Bell ; rapidement démocratisés et vendus aux particulier dans les années 1960. Le développement des écran causera également la naissance de nouvelles interfaces bien plus pratiques.
-
-Ce système en temps réel donnera lieu, dans les années suivantes, au projet SABRE de réservation aériennes, jusqu'alors manuel et fastidieux, qui sera lui même généralisé à bien d'autres système comme le bancaire avec l'apparition des cartes de crédits, distributeurs automatiques, codes barres, et plus tard paiements en ligne. Plus récemment, les usa ont déclarer que les ovnis sont un problème de sécurité nationale, cela laisse penser que se système est surement encore dans les tuyaux.
+Manchester Mark I. En 1948 les travaux commencent pour voir le jour en **1949**, décrit comme un cerveau électronique par la presse, des neuro-scientifiques s'y intéressent rapidement, à une période ou naît la cybernétique.
 
 
-
-#### IBM 602 & 603
-
-IBM 602 & 603 **1946**
-
-
-
-#### Trackball
-
-1946
-
-
-
-#### Norbert Wiener
 
 En **1947** par le mathématicien Norbert Wiener décrit la **cybernétique**, l'étude des mécanismes d'information des systèmes complexes et leur analogies entre les organismes vivants et les machines. Ils mettent en avant la rétroaction, et la téléologie très présente dans ce domaine. La cybernétique trouve son origine étymologique du grec kubernêtikê qui signifie gouverner dans le sens de diriger un navire. 
 
@@ -1013,39 +966,15 @@ Le mouvement cybernétique ralliera de nombreux mathématicien dont John Von Neu
 
 
 
-#### SSEM
-
-Le tube de Williams-Kilburn, développé en 1946 ou 1947 par Frederic Calland Williams et Tom Kilburn, utilise les tubes cathodiques de Boris Rosing pour enregistrer des données binaires. La Small-Scale Experimental Machine (SSEM), premier ordinateur à architecture de von Neumann les utilisait pour sa mémoire vive. Le test de cette nouvelle technologie sur la SSEM, aussi appelé Manchester Baby étant concluant en **1948**, la production d'un autre ordinateur à été lancé.
-
-
-
-#### Manchester Mark I
-
-En 1948 les travaux commencent pour voir le jour en 1949, décrit comme un cerveau électronique par la presse, des neuro-scientifiques s'y intéressent rapidement, à une période ou naît la cybernétique.
-
-
-
-#### Théorie de l'information
-
 1948 Claude Shannon
 
-**Warren Weaver**, né le 17 juillet 1894 est principalement connu comme un des pionniers de la traduction automatique, il a également assister Shannon dans le développement de la théorie de l'information
+**Warren Weaver**, né le 17 juillet 1894 est principalement connu comme un des pionniers de la traduction automatique, il a également assister Shannon dans le développement de la **théorie de l'information**.
 
 
 
-#### IBM 604
-
-1948
 
 
 
-#### IBM 407
-
-1949 imprimante 150 lignes par minutes
-
-
-
-#### Origines de l'Assembleur
 
 Jusqu'alors, les instruction était écrites en binaire, Maurice Wilkes et David Wheeler, qui en **1949** travaillèrent sur l'Electronic Delay Storage Automatic Calculator (EDSAC), et le Binary Automatic Computer (BINAC), ont récupérer l'idée d'une notation utilisée par Von Neuman et Herman Goldstine.
 
@@ -1055,76 +984,15 @@ Wilkes, se rendant compte que l'ordinateur, capable de manipuler les nombres et 
 
 
 
-#### IBM CPC
-
-Rival de l'EDSAC et du BINAC, il fait son apparition la même année en **1949**, fait à partir du IBM 604 et du IBM 402
-
-Premier compilateur (A-0 System Grace Hopper 1951)
 
 
 
-#### Ferranti Mark I
-
-Le Ferranti Mark 1, aussi connu comme le Manchester Electronic Computer, est le premier ordinateur électronique généraliste commercialisé du monde et le second au monde après l’ordinateur électromécanique Z4. Il a été créé en **1951**. Alan Turing l'a utilisé pour modéliser des processus de morphogenèse, devenant pionnier de la bio-informatique. Il a aussi été employé pour jouer de la musique ou aux échecs. Il ne sera vendu qu'a raison de 7 exemplaires avant d'être succédé par le Ferranti Mercury
-
-
-
-#### Compilateurs et premiers languages de haut niveau
 
 L'Universal Automatic Computer I (UNIVAC) est sorti en **1951**, c'est alors une filiale de Remington Rand, MAGNETIC TAPE STORAGE start and stop tape rapidement avec des servomoteurs, plastic -> déforme -----> métal résistant, travail pour écrire et lire dessus
 
 Pour la réalisation de cet ordinateur, Grace Hopper, docteur en mathématiques, officier de la marine, et informaticienne américaine ; créé en **1951** le Arithmetic Language ou A-0 system, qui sera le premier compilateur. Il aura plusieurs version jusqu’à arriver au B-0 Flow-matic, développé entre 1955 et 1959. Comme tout les compilateurs, il prends un code et le converti en code machine exécutable, ce que le A-0 réalisait déjà en établissant des liens entre les programmes et sous-programmes ainsi que leurs paramètres.
 
 
-
-
-
-#### Leo I
-
-Descendant de l'EDSAC créé par Maurice Wilkes, le Lyons Electronic Office est créé en **1951**. Il est le premier ordinateur utilisé pour des opérations commerciales.
-
-J'ai pu lire que le LEO I était le premier ordinateur à avoir un système d'exploitation, mais il n’est avéré que pour le LEO III en 1961 qui pouvait ouvrir plusieurs programmes en même temps à l'aide du multitasking. Il est cependant possible que le LEO I avait un système d'exploitation lui permettant de faciliter l'accès aux ressources, voire faire du traitement par lots. Cet ordinateur pouvait calculer et imprimer 40 fiches de paie en une heure, soit un peu moins d'une par minute.
-
-
-
-La première occurrence que j'ai trouvée dans une archive du MIT de Douglas T. Ross, est la suivante, qui a sûrement été utilisée pour l'UNIVAC 1103 réalisé en 1953. 
-
->  Another innovation triggered by my needs was the
-> creation of the Director Tape utility program
-> [WWJQ54p7] -- the first real Operating System
-> command language system (to use present-day
-> terms) to eliminate the computer operator
-> function for my elaborate, multi-tape runs.
-
-
-
-
-
-L'UNIVAC I a fait grandement peur à IBM qui craignant de perdre une partie importante du marché civil, bien que cela ne fut pas le cas. Leur réponse à été de confier la réalisation d'un ordinateur à Nathaniel Rochester, qui a travaillé sur la technologie Radar, m les éléments arithmétiques du projet Whirlwind I, les prémices de l'intelligence lors de travaux d'études sur la reconnaissance de schémas et la théorie de l'information qu'il a dirigé à IBM, en plus d'être l'un des conférenciers de la conférence de Dartmouth qui se tiendra en 1956 avec John McCarthy, Marvin Minsky et Claude Shannon.
-
-IBM dévoila ainsi le modèle IBM 701 en **1952**, premier ordinateur scientifique produit en masse, aussi connu sous le nom de Defense Calculator. Il possédait une mémoire tambour, utilisant le premier langage assembleur, conçu par Rochester.
-
-L'année d'après en **1953**, John Backus, alors ingénieur d'IBM, créé le Speedcoding, un interpréteur qui a été le premier langage de programmation de haut niveau créé pour un ordinateur IBM. Bien qu'il s'appelle Speedcoding, et qu'il ai facilité le développement en fournissant des instructions pour les fonctions mathématiques, le fait que ce soit un interpréteur le rendait particulièrement lent, 10 à 20 fois plus que du code machine, de plus, il prenait 30% de la mémoire à lui seul. Malgré cela, il a permis la prise en charge des nombres à virgule flottante sur les ordinateurs IBM 701.
-
-L'IBM 702 lui succédera la même année, il est le premier ordinateur muni de dérouleur de bandes magnétiques, il était moins puissant que le 701 ou le ERA 1103 mais avait contrairement à eux, les civils pour cible commerciale. Contrairement à l'UNIVAC, sa mémoire n'était pas constituée de ligne à retard analogiques, mais elle était électrostatique en utilisant des tubes de William, deux fois plus rapide et plus fiable. De plus, contrairement au monolithe qu'était l'UNIVAC, son design étant modulaire et composé de boites reliées entre elles, l'ordinateur pouvait être transporté dans la majorité des ascenseurs. Après son annonce, IBM arrive à réaliser 50 commandes en 10 mois.
-
-Toujours en **1953**, est développée la mémoire à tores magnétique qui a révolutionné pendant une vingtaine d'année la mémoire vive. Constitué d'anneaux de ferrite polarisés, correspondant à un bit de 0 ou 1 en fonction du sens du champ magnétique, tous traversés par des fils conducteurs.
-
-Se basant sur l'hystérésis, faire passer un courant dans un fil permettait de lire, ou d'écrire si le courant est assez élevé, la valeur des tores.
-
-Cette technologie à poussé IBM a rééditer ses modèles 701 et 702 avec ce type de mémoire, en plus de la création de nouveau modèles l'utilisant comme le 650, 704 et 705 EDPM.
-
-
-
-L'année suivante, en **1954** sortira l'IBM 650, modèle le plus populaire des années 50, et pour cause, il coûtait seulement un quart du prix d'un 701, et a été vendu à de nombreuses universités, créant toute une génération de programmeur. Faisant de lui le premier ordinateur produit en masse dans le monde et la première machine d'IBM à réaliser un profit significatif.
-
-Créé aux États-Unis en **1955**, le TRAnsistor DIgital Computer sera quand à lui premier ordinateur à transistors.
-
-
-
-
-
-#### Premiers langages de haut niveau opérationnels
 
 En **1957**, Backus invente le Formula Translator ou FORTRAN, un langage de programmation haut niveau qui produira des programmes binaires aussi performants que ceux des programmeurs expérimentés. Il à initialement conçu ce langage comme une solution à un problème, suite à la constatation que plus de la moitié des coûts des centres informatiques était dus aux salaires des développeurs qui passent jusqu’à la moitié de leurs temps à tester et debugger plutôt qu'a produire du code, à cela s'ajoute le fait que le coût des machine devenant de moins en moins cher, ce pourcentage ne ferait alors qu'augmenter si rien n'était fait. C'est en présentant cette logique à son supérieur qu'il eu l'autorisation de travailler sur ce projet qui n'a à son début que peut de reconnaissance, considéré comme un projet de recherche tentant de réaliser l'impossible et n'ayant aucune garantie de résultats.
 
@@ -1154,7 +1022,7 @@ Ces abstractions sont de plus haut niveau et indépendant du matériel, les lang
 
 
 
-##### Lisp
+Lisp
 
 **1958** John Mc Carthy
 
@@ -1172,11 +1040,97 @@ L'ordinateur trouve lui même les solutions pour nous, très lié à l'intellige
 
 
 
-#### IBM 1401
+#### Temps réel
 
-Fabriqué entre **1959** et 1965, il a été l'ordinateur à transistor le plus vendu, notamment grâce à la politique marketing d'IBM qui a adopté une vision globale, dans l'objectif de prendre en compte le maximum d'utilisateurs et donc clients potentiels. Cette politique avait déjà fait ses preuves avec le modèle 650. IBM à ainsi créer plus qu'un ordinateur, un système complet, avec une imprimante pouvant imprimer 600 lignes par minutes, principale raison d'achat ayant fait son succès. En plus de cela, avec ses transistors flambants neufs et bien plus fiables que les tubes à vide, il a rendu obsolète les ordinateurs en étant munis en même temps que les machines électromécaniques qui était encore utilisées par soucis monétaires.
+Initialement chiffré à 200'000 dollars pour deux ans de développement, pour finalement atteindre les 8 millions de dollars pour huit ans ; un projet américain top secret nommé *Project Whirlwind* visait à simuler de l'espace aérien des États-Unis. Bien qu'il ai coûté une fortune, cet ordinateur constitué initialement de tubes à vides, puis par la suite l'un des premiers à avoir utilisé de la mémoire à tores de ferrites, mais surtout ayant permis des sorties en temps réel ; a influencé cette technologie et battit les fondations de l'industrie informatique jusqu'à aujourd'hui.
+
+Cet ordinateur devant simuler les sorties d'un avion, et même potentiellement de n'importe quel avion sur le territoire américain, il est évident que pour que le pilote ai une expérience réaliste, les affichages et donc les valeurs sorties de l’ordinateur doivent toujours être à jour, nécessitant du temps réel. C'est pourquoi Jay W. Forrester, la personne en charge du projet, fit la rencontre de Perry O. Crawford Jr. Ce pionnier de l'informatique était alors l'un des premier si ce n'est le premier, à avoir réalisé et par la suite promu, les mérites des ordinateurs numériques au profit des analogues, notamment pour ce genre de problème de temps réel, et ce avant même que de tels ordinateurs ne soit construit, le premier étant l'ENIAC en 1945. Crawford et Forrester l'ont découvert à la fin de la guerre, lorsque les projets secret militaire ont alors été révélé, à l'occasion d'une conférence du MIT sur les Techniques de Calcul Avancés.
+
+Mais alors que les budgets sont revus à la baisse à cause de la fin de la guerre, le projet Whirlwind est mis en danger, et sa faisabilité à court terme remise en cause. Arrive alors la guerre froide, avec la menace de bombe nucléaire, missiles et bombardiers russes, capables d'arriver aux États-Unis en passant par le pôle nord.
+
+
+
+George Valley, professeur de physique au MIT, faisant alors parti du conseil scientifique de l'armée de l'air américaine, fit en **1950** un rapport déclarant que le système de défense anti-aérienne américain était catastrophique. Les informations du système de radar était à ce moment traités manuellement avant d'être relayées à un centre de contrôle et de commande. Les problèmes de communication et de couverture radar rendant impossible une alerte rapide en cas de tentative d'attaque par le pôle nord.
+
+Valley sera par conséquent responsable du projet qui sera nommé Semi-Automatic Group Environment (SAGE), ayant pour but de solutionner ces problèmes. Pour la réalisation de ce projet, il chercha alors un moyen informatique pour améliorer la récupération, les communication et le traitement des données radar. Bien qu'il eu écho du Projet Whirlwind en mal, il décida de se se renseigner par lui même. Se rendant compte des progrès impressionnant qui avaient été réalisés, et qui par chance avait enfin permis l’exécution de programmes de tests ; il relança le projet avec les fond nécessaires, rendant le système opérationnel l'année suivante, en 1951. À partir de ce moment, le Whirlwind fusionne avec SAGE.
+
+Un réseau de 23 centres de directions est alors distribué dans tout le pays, et des opérateurs commencent à analyser les engins volants, qu'ils soit civils ou militaire, alliés ou ennemis, sur des écran cathodiques.
+
+Crawford avait prédit que le temps réel ne permettrait pas seulement la simulation d'un avion, mais la visualisation en temps réel de tout le trafic aérien, comme c'est le cas aujourd'hui en source ouverte. Les circuits imprimés, écrans cathodiques et mémoire à tores seront grâce à ce projet, et aux intervenant comme IBM, Burroughs, ou Bell ; rapidement démocratisés et vendus aux particulier dans les années 1960. Le développement des écran causera également la naissance de nouvelles interfaces bien plus pratiques.
+
+Ce système en temps réel donnera lieu, dans les années suivantes, au projet SABRE de réservation aériennes, jusqu'alors manuel et fastidieux, qui sera lui même généralisé à bien d'autres système comme le bancaire avec l'apparition des cartes de crédits, distributeurs automatiques, codes barres, et plus tard paiements en ligne. Plus récemment, les usa ont déclarer que les ovnis sont un problème de sécurité nationale, cela laisse penser que se système est surement encore dans les tuyaux.
+
+
+
+
+
+Le Ferranti Mark 1, aussi connu comme le Manchester Electronic Computer, est le premier ordinateur électronique généraliste commercialisé du monde et le second au monde après l’ordinateur électromécanique Z4. Il a été créé en **1951**. Alan Turing l'a utilisé pour modéliser des processus de morphogenèse, devenant pionnier de la bio-informatique. Il a aussi été employé pour jouer de la musique ou aux échecs. Il ne sera vendu qu'a raison de 7 exemplaires avant d'être succédé par le Ferranti Mercury
+
+
+
+Descendant de l'EDSAC créé par Maurice Wilkes, le Lyons Electronic Office (LEO 1) est créé en **1951**. Il est le premier ordinateur utilisé pour des opérations commerciales.
+
+J'ai pu lire que le LEO I était le premier ordinateur à avoir un système d'exploitation, mais il n’est avéré que pour le LEO III en 1961 qui pouvait ouvrir plusieurs programmes en même temps à l'aide du multitasking. Il est cependant possible que le LEO I avait un système d'exploitation lui permettant de faciliter l'accès aux ressources, voire faire du traitement par lots. Cet ordinateur pouvait calculer et imprimer 40 fiches de paie en une heure, soit un peu moins d'une par minute.
+
+
+
+La première occurrence que j'ai trouvée dans une archive du MIT de Douglas T. Ross, est la suivante, qui a sûrement été utilisée pour l'UNIVAC 1103 réalisé en 1953. 
+
+>  Another innovation triggered by my needs was the creation of the Director Tape utility program [WWJQ54p7] -- the first real Operating System command language system (to use present-day terms) to eliminate the computer operator function for my elaborate, multi-tape runs.
+
+
+
+#### Âge d'or d'IBM
+
+IBM 602 & 603 **1946**
+
+IBM 604 1948
+
+IBM 407 1949 imprimante 150 lignes par minutes
+
+IBM CPC. Rival de l'EDSAC et du BINAC, il fait son apparition la même année en **1949**, fait à partir du IBM 604 et du IBM 402. Premier compilateur (A-0 System Grace Hopper 1951)
+
+L'UNIVAC I a fait grandement peur à IBM qui craignant de perdre une partie importante du marché civil, bien que cela ne fut pas le cas. Leur réponse à été de confier la réalisation d'un ordinateur à Nathaniel Rochester, qui a travaillé sur la technologie Radar, m les éléments arithmétiques du projet Whirlwind I, les prémices de l'intelligence lors de travaux d'études sur la reconnaissance de schémas et la théorie de l'information qu'il a dirigé à IBM, en plus d'être l'un des conférenciers de la conférence de Dartmouth qui se tiendra en 1956 avec John McCarthy, Marvin Minsky et Claude Shannon.
+
+IBM dévoila ainsi le modèle IBM 701 en **1952**, premier ordinateur scientifique produit en masse, aussi connu sous le nom de Defense Calculator. Il possédait une mémoire tambour, utilisant le premier langage assembleur, conçu par Rochester.
+
+L'année d'après en **1953**, John Backus, alors ingénieur d'IBM, créé le Speedcoding, un interpréteur qui a été le premier langage de programmation de haut niveau créé pour un ordinateur IBM. Bien qu'il s'appelle Speedcoding, et qu'il ai facilité le développement en fournissant des instructions pour les fonctions mathématiques, le fait que ce soit un interpréteur le rendait particulièrement lent, 10 à 20 fois plus que du code machine, de plus, il prenait 30% de la mémoire à lui seul. Malgré cela, il a permis la prise en charge des nombres à virgule flottante sur les ordinateurs IBM 701.
+
+L'IBM 702 lui succédera la même année, il est le premier ordinateur muni de dérouleur de bandes magnétiques, il était moins puissant que le 701 ou le ERA 1103 mais avait contrairement à eux, les civils pour cible commerciale. Contrairement à l'UNIVAC, sa mémoire n'était pas constituée de ligne à retard analogiques, mais elle était électrostatique en utilisant des tubes de William, deux fois plus rapide et plus fiable. De plus, contrairement au monolithe qu'était l'UNIVAC, son design étant modulaire et composé de boites reliées entre elles, l'ordinateur pouvait être transporté dans la majorité des ascenseurs. Après son annonce, IBM arrive à réaliser 50 commandes en 10 mois.
+
+Toujours en **1953**, est développée la mémoire à tores magnétique qui a révolutionné pendant une vingtaine d'année la mémoire vive. Constitué d'anneaux de ferrite polarisés, correspondant à un bit de 0 ou 1 en fonction du sens du champ magnétique, tous traversés par des fils conducteurs.
+
+Se basant sur l'hystérésis, faire passer un courant dans un fil permettait de lire, ou d'écrire si le courant est assez élevé, la valeur des tores.
+
+Cette technologie à poussé IBM a rééditer ses modèles 701 et 702 avec ce type de mémoire, en plus de la création de nouveau modèles l'utilisant comme le 650, 704 et 705 EDPM.
+
+
+
+L'année suivante, en **1954** sortira l'IBM 650, modèle le plus populaire des années 50, et pour cause, il coûtait seulement un quart du prix d'un 701, et a été vendu à de nombreuses universités, créant toute une génération de programmeur. Faisant de lui le premier ordinateur produit en masse dans le monde et la première machine d'IBM à réaliser un profit significatif.
+
+Créé aux États-Unis en **1955**, le TRAnsistor DIgital Computer sera quand à lui premier ordinateur à transistors.
+
+IBM 1401 Fabriqué entre **1959** et 1965, il a été l'ordinateur à transistor le plus vendu, notamment grâce à la politique marketing d'IBM qui a adopté une vision globale, dans l'objectif de prendre en compte le maximum d'utilisateurs et donc clients potentiels. Cette politique avait déjà fait ses preuves avec le modèle 650. IBM à ainsi créer plus qu'un ordinateur, un système complet, avec une imprimante pouvant imprimer 600 lignes par minutes, principale raison d'achat ayant fait son succès. En plus de cela, avec ses transistors flambants neufs et bien plus fiables que les tubes à vide, il a rendu obsolète les ordinateurs en étant munis en même temps que les machines électromécaniques qui était encore utilisées par soucis monétaires.
 
 Par la même occasion, IBM invente le Report Program Generator (RPG), un langage de programmation haut niveau facile à comprendre, permettant aux comptables et techniciens de tabulatrices de se "reconvertir", en utilisant des concepts qu'ils connaissent et utilisaient déjà sur les panneaux de contrôles, où ils branchaient des câbles pour implémenter les entrées, calculs, et sorties. Ils pouvaient ainsi programmer sans apprendre toutes les arcanes de l'assembleur, du COBOL, ou encore du FORTRAN. Malgré cela, beaucoup de client préféraient demander les logiciels directement à IBM, qui avait un monopole si important qu'ils pouvaient se permettre de les livrer "gratuitement" avec les machines qu'ils louaient.
+
+
+
+IBM System 360 : Alors que Control Data Corporation (CDC) s'attaque au marché scientifique, fournissant des ordinateurs avec un meilleur rapport performance / prix, les plaçant 3 ème derrière UNIVAC et le leader IBM ; que General Electric annonce 3 ordinateurs bas, moyen et haut de gamme ; que la Radio Corporation of America (RCA) et Honeywell décident de réaliser un ordinateur compatible avec le 1401 et d'autres machines IBM ; cette dernière se rends compte que ses concurrents ont déceler une opportunité et qu'ils doivent réagir à cette menace mettant en danger leur domination sur la marché.
+
+IBM lance alors une gamme d'ordinateurs compatibles entre eux, ayant la même architecture, et capable d’exécuter les mêmes logiciels ; ce qui n'était à ce moment pas le cas, posant problème autant à ses clients qu'à IBM même, ces machines alors très spécialisées n'offrait pas une grande interopérabilité ou possibilité de changements de logiciel comme de matériel et périphériques, voire chaîne de production, nécessitant des experts de la machine en question.
+
+Contrairement aux machine à cartes perforées, les ordinateurs n'avait donc à ce moment pas de normes et standards, nécessitant parfois de recoder un même programme sur X machines différentes, un processus très onéreux.
+
+IBM décide alors de concevoir le System/360 en 1962, il n'a pas été économe pour autant, 5 billion de dollars, c'est plus que le budget du projet Manhattan. Cela a provoqué des différent monumentaux dans leurs équipes, ils ont été obligés d'isoler celle en charge du 360.
+
+Niveau marketing ils aurait pu tout anoncer d'un coup mais ont décider d'anoncer machine par machine permettant une adoption progressive comme cela avait été le cas pour le passage des machines electromécaniques aux ordinateurs dans les années 50.
+
+Alors qu'Honeywell lance en 1963 le modèle 200 compatible IBM 1401, qu'IBM décida de rendre progressivement obsolète, et lance en **1964** la communication du System/360 dans 63 villes des États Unis et 14 pays étrangers, 6 ordinateurs et 44 périphériques.
+
+S'en suit plus de 5 billions de chiffre d'affaire, 30 ans de croissance, "l'ordinateur a été fait par IBM et a fait IBM".
+
+Cet ordinateur avait pourtant bien des défauts, il ne supportait pas le temps partagé, permettant d'être utilisé par plusieurs utilisateurs en même temps.
 
 
 
@@ -1194,9 +1148,11 @@ Par la même occasion, IBM invente le Report Program Generator (RPG), un langage
 
 
 
-#### Souris
+#### Périphériques de pointage
 
-Inventée en **1963** par Douglas Engelbart, elle ne sera présentée au public qu'en 1968. Cet informaticien réalisera également le système d'exploitation NLS, ses travaux serons financés par Joseph Carl Robnett Licklider qui financera également ARPANET
+Trackball 1946
+
+Inventée en **1963** par Douglas Engelbart, la souris ne sera présentée au public qu'en 1968. Cet informaticien réalisera également le système d'exploitation NLS, ses travaux serons financés par Joseph Carl Robnett Licklider qui financera également ARPANET
 
 
 
@@ -1205,24 +1161,6 @@ Inventée en **1963** par Douglas Engelbart, elle ne sera présentée au public 
 Luciano Floridi est né à Rome le 16 novembre **1964**, ce philosophe est l'un des plus important théoriciens de la Philosophie de l'information et de l'éthique de l'informatique. Il a fondé et dirige plusieurs groupes de recherche dans ces domaines.
 
 
-
-#### IBM System 360
-
-Alors que Control Data Corporation (CDC) s'attaque au marché scientifique, fournissant des ordinateurs avec un meilleur rapport performance / prix, les plaçant 3 ème derrière UNIVAC et le leader IBM ; que General Electric annonce 3 ordinateurs bas, moyen et haut de gamme ; que la Radio Corporation of America (RCA) et Honeywell décident de réaliser un ordinateur compatible avec le 1401 et d'autres machines IBM ; cette dernière se rends compte que ses concurrents ont déceler une opportunité et qu'ils doivent réagir à cette menace mettant en danger leur domination sur la marché.
-
-IBM lance alors une gamme d'ordinateurs compatibles entre eux, ayant la même architecture, et capable d’exécuter les mêmes logiciels ; ce qui n'était à ce moment pas le cas, posant problème autant à ses clients qu'à IBM même, ces machines alors très spécialisées n'offrait pas une grande interopérabilité ou possibilité de changements de logiciel comme de matériel et périphériques, voire chaîne de production, nécessitant des experts de la machine en question.
-
-Contrairement aux machine à cartes perforées, les ordinateurs n'avait donc à ce moment pas de normes et standards, nécessitant parfois de recoder un même programme sur X machines différentes, un processus très onéreux.
-
-IBM décide alors de concevoir le System/360 en 1962, il n'a pas été économe pour autant, 5 billion de dollars, c'est plus que le budget du projet Manhattan. Cela a provoqué des différent monumentaux dans leurs équipes, ils ont été obligés d'isoler celle en charge du 360.
-
-Niveau marketing ils aurait pu tout anoncer d'un coup mais ont décider d'anoncer machine par machine permettant une adoption progressive comme cela avait été le cas pour le passage des machines electromécaniques aux ordinateurs dans les années 50.
-
-Alors qu'Honeywell lance en 1963 le modèle 200 compatible IBM 1401, qu'IBM décida de rendre progressivement obsolète, et lance en **1964** la communication du System/360 dans 63 villes des États Unis et 14 pays étrangers, 6 ordinateurs et 44 périphériques.
-
-S'en suit plus de 5 billions de chiffre d'affaire, 30 ans de croissance, "l'ordinateur a été fait par IBM et a fait IBM".
-
-Cet ordinateur avait pourtant bien des défauts, il ne supportait pas le temps partagé, permettant d'être utilisé par plusieurs utilisateurs en même temps.
 
 
 
@@ -1286,7 +1224,7 @@ Katherine_Johnson
 
 https://www.youtube.com/watch?v=8DBhTXM_Br4
 
-Théorie des noeux, qui trouve des usages dans la créations de matérieux composites et l'analyse de l'ADN1937 il invente le jeu de la vie en **1970**, les règles sont très simple mais comme l'as dit Leonard de Vinci, la simplicité est l'ultime sophistication.
+Théorie des noeux, qui trouve des usages dans la créations de matérieux composites et l'analyse de l'ADN. 1937 il invente le jeu de la vie en **1970**, les règles sont très simple mais comme l'as dit Leonard de Vinci, la simplicité est l'ultime sophistication.
 
 
 
@@ -1363,9 +1301,9 @@ Présenté en 1978 mais sorti en **1980**, le Minitel est un ordinateur connect�
 
 
 
-#### Cerveau Chinois
+#### Expériences de pensée
 
-C'est une expérience de pensée considérant que si chaque membre d'une immense nation comme la Chine, était invité à simuler l'action d'un neurone, constitué d'axones et de dendrites, en utilisant des émetteurs bidirectionnels, et ce afin de reconstituer un cerveau, alors un tel système pourrait-il avoir un esprit ou une conscience ?
+Le *cerveau chinois* est une expérience de pensée considérant que si chaque membre d'une immense nation comme la Chine, était invité à simuler l'action d'un neurone, constitué d'axones et de dendrites, en utilisant des émetteurs bidirectionnels, et ce afin de reconstituer un cerveau, alors un tel système pourrait-il avoir un esprit ou une conscience ?
 
 L'affirmative repose sur une pensée fonctionnaliste, l'idée est que ce qui réalise la même fonction est capable de réaliser les mêmes résultats, et dans notre cas, l'obtention d'états mentaux et de conscience.
 
@@ -1377,9 +1315,7 @@ Par ailleurs cela pose la question du bateau de Thésée, si l'on était capable
 
 
 
-#### La chambre chinoise
-
-Cette expérience de pensée à été imaginée par un philosophe américain nommé John Searle vers **1980**. Alors qu'il lit un livre sur l'intelligence artificielle et la manière dont la machine interprète et créer du texte, il se demanda alors si un programme informatique pouvait recréer un esprit numérique.
+La deuxième expérience de pensée est la *chambre chinoise*, elle a été imaginée par un philosophe américain nommé John Searle vers **1980**. Alors qu'il lit un livre sur l'intelligence artificielle et la manière dont la machine interprète et créer du texte, il se demanda alors si un programme informatique pouvait recréer un esprit numérique.
 
 Il énonce alors une situation ou un humain n'ayant aucune connaissance du chinois est enfermé dans une pièce, avec une table de questions et réponse à des phrases chinoises. Un examinateur extérieur parlant réellement chinois (sinophone) lui pose alors des questions, le programme humain se repose alors sur la syntaxe des phrases, retrouvant la réponse correspondante et l'appliquant, produisant des réponses. Du point de vue de l'examinateur sinophone les réponses qu'il obtient correspondent bien à celles d'un de ses semblables. Pour autant, elle sont produites par quelqu'un qui ne parle pas un mot de chinois, et ne comprends sûrement pas le sens des phrases qu'il reçoit ou émet. 
 
@@ -1389,25 +1325,23 @@ Cela à permis de redéfinir plus précisément l'intentionnalité, à la fois c
 
 
 
+La dernière expérience de pensée que je veux vous présenter est le *cerveau dans une cuve*. C'est une reformulation moderne du malin génie de Descartes, imaginée par Hilary Putnam en 1981, cette expérience de pensée invite à s'imaginer que notre cerveau pourrait être placé dans une cuve, et qu'il recevrait des stimuli envoyés par une machine, chargée de nous simuler le monde extérieur. La problématique étant alors de savoir si ce cerveau à raison de croire de qu'il perçoit.
+
+La thèse serait ainsi de dire que comme les signaux envoyés aux cerveaux ne correspondent à rien de tangible dans notre monde, alors il est dans l'illusion. L'antithèse, revient à justifier que le stimuli étant identique, il est tout à fait légitime du point de vue du cerveau, de dire qu'il le reconnaît bien.
+
+
+
 #### Mémoire flash et stockage optique
 
 Optical Storage Disc **1980**
 
 
 
-#### Cerveau dans une cuve
-
-C'est une reformulation moderne du malin génie de Descartes, imaginée par Hilary Putnam en 1981, cette expérience de pensée invite à s'imaginer que notre cerveau pourrait être placé dans une cuve, et qu'il recevrait des stimulis envoyés par une machine, chargée de nous simuler le monde extérieur. La problématique étant alors de savoir si ce cerveau à raison de croire de qu'il perçoit.
-
-La thèse serait ainsi de dire que comme les signaux envoyés aux cerveaux ne correspondent à rien de tangible dans notre monde, alors il est dans l'illusion.
-
-L'antithèse, revient à justifier que le stimuli étant identique, il est tout à fait légitime du point de vue du cerveau, de dire qu'il le reconnaît bien.
-
 
 
 #### Logiciel libre
 
-Richard Stallman annonce le projet GNU le 27 Septembre **1983**, en 1985 il fonde le FSF, la Free Software Foundation. Ou Free ne signifie par gratuit dans le sens de prix mais dans le sens de liberté. Le langage C est alors grandement utilisé. Il invente également en 1989 la licence GNU General Public Licence, plus connu sous le nom de GPL.
+Richard Stallman annonce le projet GNU le 27 Septembre **1983**, en 1985 il fonde le FSF, la Free Software Foundation. Où Free ne signifie par gratuit dans le sens de prix mais dans le sens de liberté. Le langage C est alors grandement utilisé. Il invente également en 1989 la licence GNU General Public Licence, plus connu sous le nom de GPL.
 
 En 1987 Andrew S. Tanenbaum invente Minix un système d'exploitation UNIX avec une architecture 16 bit. Inspiré par Minix, Linus à donc créer **Linux en 1991**, avec un nouveau Kernel, lineage, sous licence GPL. Leur coopération donnera GNU/Linux qui est une suite embarquée d'éditeurs comme bash, emac, la GNU C Library et le compilateur GCC, et pleins d'autres.
 
@@ -1429,6 +1363,8 @@ Symfony, un outil logiciel facilitant la réalisation d'application webs, ne per
 
 https://fr.wikipedia.org/wiki/ENQUIRE (**1990** Tim Berners Lee) web semantique Rose Dieng Kuntz
 
+1994 W3C, HTML, CSS, PNG, SVG, etc... -> Netscape 
+
 Ward Cunningam créa le premier wiki en 1995 il est encore disponible tel quel[^1], il fut un développeur Smalltalk 
 
 [^1]: http://wiki.c2.com/
@@ -1441,7 +1377,7 @@ En **1998** IBM créé le premier ordinateur quantique sur les travaux de Rolf L
 
 ### Bilan passé
 
-J'ai pu remarquer à travers l'Histoire que les inventions de savants et créateurs ne sortent que rarement de nulle part. Leurs origines proviennent souvent de (re)découvertes des principes existants, qu'ils compilent et les réutilisent à leur manières, améliorant les idées de leurs prédécesseur et réalisant de meilleurs outils à force d'itérations innovantes. Des inventions comme le Radar ou la pile de Volta trouvent leur inspiration dans des observations de la nature, notamment des animaux avec les chauves souris qui se guident à l'aide de l'écholocalisation, ou les anguilles électriques capable de produire des courants allant jusqu'à 860V et 2A. Les personnes pionnières dans leur domaine sont généralement suivies par foule de passionnés car les idées naissent d'une combinaison d'autres déjà existantes dans le contexte mondial à un moment donné. Il est en effet impossible de savoir qui à eu l'idée d'une chose pour la première fois, on ne retiendra naturellement que la première personne à avoir populariser le terme ou l'idée, parfois à travers la commercialisation d'un produit, d'autre fois grâce à une publication scientifique ou dépôt d'un brevet. Certaines informations plus ésotériques ne se transmettrons que par la parole, conservant ainsi un secret relatif.
+J'ai pu remarquer à travers l'Histoire que les inventions de savants et créateurs ne sortent que rarement de nulle part. Leurs origines proviennent souvent de (re)découvertes des principes existants, qu'ils compilent et les réutilisent à leur manières, améliorant les idées de leurs prédécesseur et réalisant de meilleurs outils à force d'itérations innovantes. Des inventions comme le Radar ou la pile de Volta trouvent leur inspiration dans des observations de la nature, notamment des animaux avec les chauves souris qui se guident à l'aide de l'écholocalisation, ou les anguilles électriques capable de produire des courants allant jusqu'à 860V et 2A. Les personnes pionnières dans leur domaine sont généralement suivies par foule de passionnés car les idées naissent d'une combinaison d'autres déjà existantes dans le contexte mondial à un moment donné. Il est en effet impossible de savoir qui à eu l'idée d'une chose pour la première fois, on ne retiendra naturellement que la première personne à avoir populariser le terme ou l'idée, parfois à travers la commercialisation d'un produit, d'autre fois grâce à une publication scientifique ou au dépôt d'un brevet. Certaines informations plus ésotériques ne se transmettrons que par la parole, conservant ainsi un secret relatif.
 
 Les découvertes ne sont pas toujours l'œuvre de savants ou de personnes renommés. En 2023, de simples utilisateurs d'application mobile découvriront ce que les mathématiciens recherchent depuis des siècles. Ça a été le cas du problème einstein essayant de trouver une forme dite d'*ein stein* (une tuile en allemand), que les chercheurs ne pensaient pas possible jusque là. En réalité elle est très simple et peut se construire en découpant trois hexagone liés en suivant les médiatrice de leurs côtés. Cette dernière ressemble à un t-shirt ou un chapeau et permet de réaliser un pavage apériodique à tuile unique c'est à dire de recouvrir une surface plane par un emboîtement de copies de cette forme, sans qu'elle ne se répète à l'identique comme les carreaux d'une grille. Pour ce faire il faut parfois avoir recours à une tuile inversé, problème qui a été réglé avec la découverte d'une autre forme, le spectre.
 
@@ -1461,7 +1397,9 @@ L'informatique est désormais omniprésente, la terre est entourée de satellite
 
 [^1]: https://www.technologyreview.com/2023/02/14/1067869/rust-worlds-fastest-growing-programming-language/
 
-Pour le reste, la majorité des langages ont leur propres qualités notament grâce à leur communautés et aux outils qu'elles ont développés, le Python est toujours une référence pour le traitement de la donnée, et le JavaScript à standardiser la gestion des 
+Pour le reste, la majorité des langages ont leur propres qualités notament grâce à leur communautés et aux outils qu'elles ont développés, le Python est toujours une référence pour le traitement de la donnée, et le JavaScript à standardiser la gestion des interactions utilisateurs et la dynamisation des interfaces graphiques.
+
+Le matériel quand à lui à beaucoup évolué, les ordinateurs se sont petits à petit miniaturisés, devenant portables et mobiles, offrant même désormais des expériences immersives réalistes grâce aux casques de réalité virtuelles. Depuis les années 2000, l'automatisation et la robotiques immiscent dans notre quotidien et dans les ménages à travers la domotique. Robots aspirateurs, drones munis de caméras, voitures autonomes, nos outils du quotidien deviennent autonomes et réduisent notre charge de travail. Mais ce qui nous intéresse dans le cadre de ce mémoire, ce n'est pas la matériel mais l'information et la logique qui en émane. La population mondiale utilise de plus en plus les technologies de l'information et internet. C'est pourquoi la grande majorité des entreprises se modernisent et veulent avoir une gestion informationnelle fiable accompagnée d'une visibilité mondiale fournie par les réseaux informatiques.
 
 
 
@@ -1469,9 +1407,9 @@ https://fr.wikipedia.org/wiki/Th%C3%A9orie_g%C3%A9n%C3%A9rale_des_syst%C3%A8mes
 
 
 
-Les gens suivent l'autorité, la loi, mais la loi est parfois fausse, la seule loi qui doivent etre suivit est la science, la raidon pure pouvant etre prouvée.
+Les gens suivent l'autorité, la loi, mais la loi est parfois fausse, la seule loi qui doit être suivie est la science, la raison pure pouvant être prouvée.
 
-En tant qu'animal humaine on ne s'en porte pourtant que mieux de juste suivre les instructions et juste faire ce que l'on doit ou a envie de faire.
+En tant qu'animal humain on ne s'en porte pourtant que mieux de juste suivre les instructions et juste faire ce que l'on doit ou a envie de faire.
 
 
 
@@ -1531,29 +1469,7 @@ itération, stop de toute la chaine de production si problème pour éviter de c
 
 
 
-### Appareils
-
-Ordinateurs portables Mobiles Tablettes Casques de réalité virtuelles
-
-
-
-
-
 ### Usages et industrie du logiciel
-
-#### Navigation web
-
-
-
-#### Automatisation
-
-#### Robotique
-
-- Honda asimo 2000
-- Roomba **2002**
-- Darpa Grand Challenge **2005**
-- DJI **2013** Premier drone commercial autonome
-- Boston Dynamics 
 
 #### Aide à la décision
 
@@ -1736,17 +1652,11 @@ https://hal.science/hal-02970135/document
 
 #### Performances et Optimisations
 
-##### Techniques
+Il est possible de répartir la puissance de calcul entre plusieurs cœurs de processeurs à l'aide de sous processus (fils / threads) [^1]. On peut également la répartir entre plusieurs machines, c'est ce que l'on appelle le calcul distribué. De manière générale, lorsque l'on découpe une tâche en sous-tâches réalisables par plusieurs acteurs, on réduit la charge de travail entre les acteurs dans une logique de parallélisation.
 
-1. Parallélisation
-2. Pointeurs mémoires
-3. Calculs distribués
+[^1]: https://www.iso.org/obp/ui/#iso:std:iso-iec:2382:ed-1:v2:fr
 
-
-
-##### Managériales
-
-Dans une grande partie des lignes de production il a une équipe dédiée aux tests et à la vérification. Elle est chargée de s'assurer que le produit est conforme à leurs attentes ou à celles formulées dans un document dédié comme un cahier des charges idéalement technique. Dans le monde de la production logicielle, nous avons la chance de pouvoir l'automatiser à l'aide de pratiques DevOps, intégration et déploiement continus (CI / CD) permettent non seulement de vérifier le bon fonctionnement d'une liste de fonctionnalités mais également de les mettre automatiquement à disposition du public lorsqu'elles sont toutes valides.
+La gestion permet donc d'optimiser les charges et temps de travails. Une fois que le projet est abouti, il faut le tester et s'assurer que la qualité du produit est conforme aux exigences et besoins utilisateurs. Dans une grande partie des lignes de production il a une équipe dédiée aux tests et à la vérification. Elle est chargée de s'assurer que le produit est conforme à leurs attentes ou à celles formulées dans un document dédié comme un cahier des charges idéalement technique. Dans le monde de la production logicielle, nous avons la chance de pouvoir l'automatiser à l'aide de pratiques DevOps, intégration et déploiement continus (CI / CD) permettent non seulement de vérifier le bon fonctionnement d'une liste de fonctionnalités mais également de les mettre automatiquement à disposition du public lorsqu'elles sont toutes valides.
 
 1. Commentaires et documentation
 
@@ -1762,6 +1672,8 @@ Git est un logiciel de gestion de versions décentralisé sous licence GNU GPL. 
 
 
 #### Quelqu'un à généralement la solution
+
+Lorsqu'un développeur ne trouve pas intuitivement comment implémenter la logique de façon algorithmique, il se retrouve souvent sur des forums de discussion comme StackOverflow ou désormais sur des outils conversationnels de génération de texte comme ChatGPT. De manière générale, il ne sert à rien de réinventer la roue, si quelqu'un a la solution autant juste l'utiliser. C'est d'ailleurs pourquoi les cadriciels et outils logiciels en tout genre sont aujourd'hui indispensables. 
 
 En programmation objet, il existe des Patrons de conceptions qui trouvent leur racines dans l'architecture. L'architecte en bâtiment Christopher Alexander publie l'essai *A Pattern Language : Towns, Buildings, Construction* en **1977**. Cette œuvre à définit de manière casuistique, à la manière du [Code de Hammurabi](#Code-de-Hammurabi), les problèmes rencontrés en architecture et leurs solutions.
 
@@ -1823,33 +1735,41 @@ Avant d'arriver à l'ultime partie qui répond pleinement à la problématique, 
 
 
 
-### Information
-
 La définition de l'information est controversée et difficile à établir clairement à cause de son usage et des abus de langages. La définition philosophique donnée par le Centre National de Ressources Textuelles et Lexicales (CNRTL.fr) est selon moi la plus proche. Elle indique que l'information est la transmission d'une forme, dans le sens de concept et référence au monde des idées propre à l'intellect, comme le décrit Platon dans sa classification des connaissance, découlant de son analogie de la ligne. En effet l'étymologie latine "*informare*" signifie donner forme ou se former une idée de quelque chose.
 
-Contrairement à la définition de Wikipédia, qui déclare qu'elle désigne le message et les symbole utilisés pour l'écrire,  l'information n'est selon moi réelle qu'au moment ou elle se manifeste au moyen du matériel. C'est à dire qu'elle n'est  pas définie par son support, mais bien par la forme ou l'idée à laquelle son support fait référence. La quantification et / ou qualification lié au message étant la réelle information. Pour preuve, une information chiffrée avec des méthodes modernes est totalement illisible et ne témoigne absolument pas de l'idée qu'elle véhicule. Ce n'est que lors du déchiffrement que l'information est être révélée.
+Contrairement à la définition de Wikipédia, qui déclare qu'elle désigne le message et les symbole utilisés pour l'écrire, l'information n'est selon moi réelle qu'au moment ou elle se manifeste au moyen du matériel. C'est à dire qu'elle n'est pas définie par son support, mais bien par la forme ou l'idée à laquelle son support fait référence. La quantification et / ou qualification lié au message étant la réelle information. Pour preuve, une information chiffrée avec des méthodes modernes est totalement illisible telle quelle et ne témoigne absolument pas de l'idée qu'elle véhicule. Ce n'est factuellement qu'après déchiffrement que l'information est être révélée.
 
-Un fait est ainsi la naissance d'une information émanant d'une action matérielle se manifestant à un moment donné t. Pour autant, le fait n'existe plus une fois ce moment t passé, il n'en reste plus que les conséquences physiques et l'idée de cette action qui en est la cause. Plusieurs observateurs peuvent avoir une version différente des faits, propre à leur subjectivité et vérités relatives. Le fait en lui même est une vérité absolue et pure que l'on ne peut qu'approximer. Seul l'acteur des faits peut réellement savoir ce qui c'est passé à condition bien sur qu'il soit conscient. 
+Un fait est ainsi la naissance d'une information émanant d'une action matérielle se manifestant à un moment donné t. Pour autant, le fait n'existe plus une fois ce moment t passé, il n'en reste plus que les conséquences physiques et l'idée de cette action qui en est la cause. Plusieurs observateurs peuvent avoir une version différente des faits, propre à leur subjectivité et vérités relatives. Le fait en lui même est une vérité absolue et pure que l'on ne peut qu'approximer. Seul l'acteur des faits peut réellement savoir ce qui c'est passé à condition bien sur qu'il soit conscient. Comment peut-on en tant que spectateur approximer la vérité quand à une action réalisée par un acteur ?
 
-### IO
 
-Entrées et sorties, Inputs et Outputs (IO), sont l'ensemble des paramètres et des valeurs retournant d'une fonction. Avec elles seules on peut définir les fonctionnalités possibles à un certain contexte d'entrées et sorties attendues. C'est une sorte de double entonnoir, comme des portails, théoriquement bidirectionnels. On peut la mettre en relation avec la lecture et l'écriture, en C# .NET [`System.IO`](#https://learn.microsoft.com/en-us/dotnet/api/system.io?view=net-7.0) est ailleurs un espace de noms (namespace) permettant d'accéder à des fonctions algorithmiques standard de lire et écrire des fichiers et par conséquent des dossiers. Puisque oui, les dossiers sont des fichiers, contenant l'adresse mémoire de son contenu. En réalité, tout n'est que variables et fonction mathématiques. Les fichiers sont des variables, et les actions que l'on peut réaliser à l'aide de fichiers de code sont des fonctions, elles mêmes composées de variables. 
 
-### Habitudes
 
-La mode n'est que passagère, il n'y a que les habitudes de vies et s'en tenir à un plan structuré, cohérent et à forte plus-value qui reste dans l'Histoire. Il n'y a pas de bons ou de mauvais moments pour agir, il y a le moment et l’agissement qu'on y fait ou pas. La volonté est la seule capacité mentale capable de reprogrammer la pensée et ses habitudes. Il faut apprendre à dire non et encore plus savoir se dire non à soi-même.
+
+Entrées et sorties, Inputs et Outputs (IO), sont le couple de paramètres entrants et des valeurs sortantes d'une fonction. Avec elles seules on peut définir les fonctionnalités possibles à un certain contexte d'entrées et sorties attendues. On peut deviner ou comprendre la logique cachée derrière. C'est une sorte de double entonnoir, comme des portails, théoriquement bidirectionnels. On peut la mettre en relation avec la lecture et l'écriture, en C# .NET [`System.IO`](#https://learn.microsoft.com/en-us/dotnet/api/system.io?view=net-7.0) est ailleurs un espace de noms (namespace) permettant d'accéder à des fonctions algorithmiques standard de lire et écrire des fichiers et par conséquent des dossiers. Puisque oui, les dossiers sont des fichiers, contenant l'adresse mémoire de son contenu. En réalité, tout n'est que variables et fonction mathématiques. Les fichiers sont des variables, et les actions que l'on peut réaliser à l'aide de fichiers de code sont des fonctions, elles mêmes composées de variables. Les entrées et sorties peuvent être comparés aux sensations et aux réactions physiques. La boite noire qu'est le cerveau de l'acteur, avec son raisonnement propre est quand à elle comparable au code back end que l'on ne peut percevoir depuis l'interface client. Enfin, après avoir lu et analyser notre environnement et écrivons une réponse physique à travers nos expressions corporelles, faciales, et verbale. Il y'a toute sorte de comportements et de réactions contrôlées ou non que l'on répète. 
+
+
+
+
 
 Une habitude provient d'un signal, suivi d'une envie, puis d'une action récompensée, et enfin, elle est pleinement constituée par la répétition qui la caractérise. Les habitudes sont fondamentales dans l'addiction, on fini par faire ce qu'on a l'habitude de faire, dire ce qu'on a l'habitude de dire. On ne change pas ou peu notre manière de penser car cela nous coûterait trop d'efforts sans garantie de résultat. Mais si on attends toujours d'avoir une preuve de résultat, on n'expérimenterai alors jamais. N'ayez pas peur de changer vos habitudes, qu'elles soient bonnes ou mauvaises, toutes les habitudes occupent une part très importante de notre temps. Et si l'on veut occuper ce dernier d'actions variées, il convient alors de parfois changer même nos bonnes habitudes.
 
-### Valeurs
+La mode n'est que passagère, il n'y a que les habitudes de vies et s'en tenir à un plan structuré, cohérent et à forte plus-value qui reste dans l'Histoire. Il n'y a pas de bons ou de mauvais moments pour agir, il y a le moment et l’agissement qu'on y fait ou pas. La volonté est la seule capacité mentale capable de reprogrammer la pensée et ses habitudes. Il faut apprendre à dire non et encore plus savoir se dire non à soi-même.
 
-La valeur d'une chose ne dépends que du prix qu'un acheteur est prêt à dépenser pour l'acheter. Les valeurs d'une personne ne dépendent quand à elle que du prix qu'elle est prête à accepter pour les renier. En informatique, la valeur est l'information que l'on stocke dans une variable. 
 
-### Rapport de force, ordres de grandeur et précision
 
-Les bases sont les fondations d'un système numéraire, notre base 10 permet de multiplier et diviser par 2, et 5, la base 12, par 2, 3, 4 et 6. Un base donne lieu à des ordres de grandeurs, le système décimal commun possède les puissances de dix que tout le monde connaît : dizaines, centaines, milliers, etc...
 
-Ces puissances peuvent représenter des paliers symboliques pouvant représenter un rapport de force qui est universel et naturel. Dans les relations humaines, la différence de puissances entre deux personnes dépend selon moi principalement du nombre d'années de vie qu'un individu a expérimenté dans de bonnes conditions. On pourrait également le penser sous le prisme de la taille, nombre facile à se représenter proportionnellement à nos petites mètres de hauteur, que l'on peut rapporter aux grattes ciels faisant jusqu'à 414 humains empilés. Cet exemple absurde me permet d'introduire le fait que le Burj Khalifa ai coûte 1,5 milliard de dollars, ce qui représente environ 1000 vies de travail à 2000€ par mois pendant 40 ans (sans dépense). Si de tels projets d'envergure sont réalisables depuis l'époque des pyramides et autres merveilles du monde, c'est grâce à un travail coopératif et à un rapport de force démentiel entre les maître d'ouvrage et les maîtres d’œuvre, puis entre les maîtres d’œuvres et les salariés, puis tout ceux en dessous. Cette hiérarchie naturelle est nécessaire à l'aboutissement de tout projet ou société d'envergure, c'est pourquoi la bourgeoisie n'as jamais était contre bien qu'elle ai défendu une séparation des pouvoir dans le but d'éviter un despotisme absolu et tyrannique. L'autorité agit fortement sur les comportement et prises de décisions, l'expérience de Milgram nous prouve même qu'elle peut nous faire faire des choses qui vont à l'encontre de nos principes.
+
+Derrière les habitudes de quelqu'un et ses actions de manière générale, se cache des valeurs. La valeur d'une chose ne dépends que du prix qu'un acheteur est prêt à dépenser pour l'acheter. Les valeurs d'une personne ne dépendent quand à elle que du prix qu'elle est prête à accepter pour les renier. En informatique, la valeur est l'information que l'on stocke dans une variable.
+
+Pour une personne, les valeurs peuvent représenter le système de pensée, ou un point de vue, une prise de position. Ses valeurs peuvent également apporter une comparaison et sentiment de supériorité, de grandeur. Qui n'est que rarement factuel et généralement purement subjectif.
+
+
+
+
+
+Nous allons donc désormais voir comment le rapport de force, et les ordres de grandeurs, permettent non seulement de comparer des objets en les regroupant par puissances en fonction de la précision recherchée. Mais avant ça nous allons revenir aux bases. Elles sont les fondations de tout système, notre système numéraire possède une base 10 qui permet de multiplier et diviser par 2, et 5, la base 12, par 2, 3, 4 et 6. Un base donne lieu à des ordres de grandeurs, le système décimal commun possède les puissances de dix que tout le monde connaît : dizaines, centaines, milliers, etc...
+
+Ces puissances peuvent représenter des paliers symboliques pouvant représenter un rapport de force qui est universel et naturel. Dans les relations humaines, la différence de puissances entre deux personnes dépend selon moi principalement du nombre d'années de vie qu'un individu a expérimenté dans de bonnes conditions. On pourrait également le penser sous le prisme de la taille, nombre facile à se représenter proportionnellement à nos petites mètres de hauteur, que l'on peut rapporter aux grattes ciels faisant jusqu'à 414 humains empilés. Cet exemple absurde me permet d'introduire le fait que le Burj Khalifa ai coûté 1,5 milliard de dollars, ce qui représente environ 1000 vies de travail à 2000€ par mois pendant 40 ans (sans dépense). Si de tels projets d'envergure sont réalisables depuis l'époque des pyramides et autres merveilles du monde, c'est grâce à un travail coopératif et à un rapport de force démentiel entre les maître d'ouvrage et les maîtres d’œuvre, puis entre les maîtres d’œuvres et les salariés, puis tout ceux en dessous. Cette hiérarchie naturelle est nécessaire à l'aboutissement de tout projet ou société d'envergure, c'est pourquoi la bourgeoisie n'as jamais été contre, bien qu'elle ai défendu une séparation des pouvoir dans le but d'éviter un despotisme absolu et tyrannique. L'autorité agit fortement sur les comportement et prises de décisions, l'expérience de Milgram nous prouve même qu'elle peut nous faire faire des choses qui vont à l'encontre de nos principes. 
 
 En informatique la composition décrit le fait que dans chaque boite, on peut avoir une autre boite, c'est l'idée abstraite de la poupée russe poussée à l'infini. Je pense que ce grand tout, suis une logique de composition. On peut le voir à différentes granularité et plus il est grand plus sa vie est longue. Certains principes sont similaires quelque soit l'ordre de grandeur, d'autres, sont propres à certains. Lorsque l'on fait face à un problème informationnel, il convient de définir son périmètre, pour analyser et gérer précisément la zone voulue. L'informatique nous permet désormais d'avoir une interface pour naviguer précisément dans une simulation réaliste et visualiser ses ordres de grandeur. [c4model](https://c4model.com/)
 
@@ -1861,13 +1781,13 @@ Même de nos jours, une personne décidant de se salarier dans un travail dit al
 
 
 
-#### Signaux forts et faibles
+### Signaux forts et faibles
 
 En communication comme en électronique, un signal fort peut perturber voire totalement stopper un système. C'est le cas dans l’épisode 22 de la série Baki dans lequel un combattant spécialisé en environnement fait taire toute une arène en criant extrêmement fort. Tout étudiant l'a déjà expérimenté, on a tous déjà été dans une situation ou un groupe bruyant se tait après qu'une autorité ai hausser la voix.
 
 ### Viralité
 
-La viralité est un facteur mathématiquement calculable. C'est la moyenne de transmissions faites par les personnes atteintes par une information.
+La viralité est un facteur mathématiquement calculable. C'est la moyenne de transmissions faites par les personnes atteintes par une information. Une information est virale dès que son facteur dépasse 1, autrement dis dès que la moyenne des personnes en sa possession la retransmettent à plus d'une autre personne.
 
 
 
@@ -2178,15 +2098,13 @@ En tant que chef d'entreprise, je me fiche du langage que tu utilise, fait le en
 
 
 
-Tout devrait être automatique, je suis ravi que le prélèvement à la source ai permis d'automatiser les impôts, mais ça devrait également être le cas pour les aides, les assurances, mutuelles, et tout recours aux droits qui nous sont conférés, les loi devrait être des algorithmes, le système devrait être juste et positif, pour tous, réguler les ordres de grandeurs, réduire les inégalités, être réalisé pour le bien commun et non l'avarice, l'excentricité et la démesure.
+Tout devrait être automatique, je suis ravi que le prélèvement à la source ai permis d'automatiser les impôts, mais ça devrait également être le cas pour les aides, les assurances, mutuelles, et tout recours aux droits qui nous sont conférés, les loi devrait être des algorithmes, le système devrait être juste et positif, pour tous, réguler les ordres de grandeurs, réduire les inégalités, être réalisé pour le bien commun et non l'avarice, l'excentricité et la démesure. Pour autant ce système devrait être vérifié et potentiellement validé par l'humain.
 
 
 
 ### Metagame
 
-Toute forme de vie réponds à un algorithme très simple. Comment maximiser mes récompenses en minimisant mes efforts ?
-
-Intelligence économique, politique, choix et théorie des jeux.
+Toute forme de vie réponds à un algorithme très simple. Comment réussir sans me tromper ? Comment maximiser mes récompenses en minimisant mes efforts ? Comment obtenir plus de plaisir que de douleur ? La vie ne recherche que plus de plus et moins de moins. Comment peut-on à l'aide de l'Intelligence économique ou d'autres disciplines, analyser les situations qui se présentent à nous sous le prisme de la théorie des jeux pour effectuer les meilleurs choix.
 
 Jouez au jeu, suivez le pacte d’Ulysse.
 
@@ -2205,7 +2123,7 @@ https://ayowel.github.io/trust/
 
 ## EditIDE ou "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?"
 
-
+Toute personne en dehors de l'informatique est naturellement rebutée ou surprise par toutes ses lignes de textes, qu'elle soient de commande ou de code. L'expérience développeur est aujourd'hui bien plus proche du bloc-note que des interfaces intuitives et agréable, voire fun à utiliser, que l'on peut produire avec. Les développeurs travaillent sur une technologie futuriste dont l'usage est encore archaïque. Les outils no-code fleurissent ses dernières années, ils permettent certes la réalisation de produits plus rapidement qu'un partant d'un cadriciel et en le codant soi même. Cependant dès que l'on désire un rendu différant de ce qui est proposé par le service, cela provoque un blocage, nécessitant l'intervention d'un développeur et de code, les services le proposant sera alors considéré comme low-code et non no-code. Ma solution se rapprocherai plus du Low-Code, mes interfaces vont afficher le code, mais les mots clefs et la syntaxe qui le constituent n'auront plus besoin d'être appris par le développeur. Seuls les concepts clés et la logique importent. Mon motif directeur dans le développement d'EditIDE à été, est et restera de toujours plus simplifier son rétro-fonctionnement. L'interface doit se décrire elle même comme un personnage se présenterai à autrui. Allant toujours des concepts globaux au cas précis. L'utilisateur doit, quel que soit la page du logiciel sur laquelle il est, comprendre ce qu'il peut faire, et trouver ce qu'il cherche. 
 
 ### Pourquoi la programmation est-elle aussi peu démocratisée ?
 
@@ -2237,7 +2155,7 @@ Et un réel décalage entre offre et demande, nous observons des signaux forts c
 
 ### Pourquoi un outil censé résoudre un problème en cause parfois des bloquants ?
 
-Les outils no-code fleurissent ses dernières années, ils permettent certes la réalisation de produits plus rapidement qu'un partant d'un cadriciel et en le codant soi même. Cependant dès que l'on désire un rendu différant de ce qui est proposé par le service, cela provoque un blocage, nécessitant l'intervention d'un développeur et de code, les services le proposant sera alors considéré comme low-code et non no-code.
+
 
 ### Qu'elle est l'origine des bugs ?
 
@@ -2474,7 +2392,7 @@ Vue macro, vu micro, questions individuelles précises, groupe permet d'avoir le
 
 facilité d'utilisation, utilité, satisfaction, l'utilisation de l'application doit dépasser les attentes et promesses faites en amont
 
-5V de l'information sont volume vitesse variété véracité valeur, pour écrire ce mémoire c’est surtout le volume et la bonne variété ou proportion ainsi que la véracité qui a été au coeur de mes préoccupations
+
 
 
 
@@ -2482,7 +2400,11 @@ ___
 
 ### FOUTOIR
 
+La pratique c'est faire, la théorie c'est subir.
 
+J'aspire à apprendre jusqu'à ce que nul Dieusseries ne m'échappent.
+
+La philosophie a de divin que comme tout les arts et sciences elle nait d'une **pensée logique combinatoire** dont les concepts valent autant au niveau de l'infiniment petit que de l'infiniment grand. 
 
 #### 12 24 36 48 361248 2520=9x8x7x5
 
@@ -2527,19 +2449,23 @@ C'est le cas dans le jeu de la vie
 
 ## Postface : Rétrospective et métacognition
 
-J'ai longtemps haï l'écriture et je ne l'ai que rarement pratiquée, mais désormais, j'apprécie savoir et pouvoir partager de manière claire et la plus explicite possible, mes idées et ce que je sais comme étant scientifiquement vrai. Quand j'écris ma pensée, je peut la relire comme si je m'entendais la prononcer, et ainsi la reformuler jusqu’à ce que son intention soit claire. J'ai ainsi du mal a comprendre les philosophes antiques qui auraient dit ne pas vouloir transmettre leurs pensées à l'écrit car elle ne peut alors plus se défendre elle même. Bien que rappelons le a cet époque l'imprimerie n'existe pas encore, rendant la tâche plus complexe et rebutante.
+J'ai longtemps haï l'écriture et je ne l'ai que rarement pratiquée, mais désormais, j'apprécie savoir et pouvoir partager de manière claire et la plus explicite possible, mes idées et ce que je sais comme étant scientifiquement vrai. Quand j'écris ma pensée, je peut la relire comme si je m'entendais la prononcer, et ainsi la reformuler jusqu’à ce que son intention soit claire. J'ai ainsi du mal a comprendre les philosophes antiques qui auraient dit ne pas vouloir transmettre leurs pensées à l'écrit car elle ne peut alors plus se défendre elle même. Bien que rappelons le, à cette époque l'imprimerie n'existe pas encore, rendant la tâche plus complexe et rebutante.
 
-J'ai écris ce mémoire en commençant par de la prise de note puis en rédigeant, reliant petit à petit toutes les idées et concepts dont je voulais parler. En soit comme beaucoup de personnalités évoqués dans mon œuvre, je n'ai rien inventé, j'ai découvert plein d'informations et me suis contenté de les compiler à la manière de Vitruve, ou d'un ordinateur. Chaque idée ou sujet que je voulais évoquer m'as fait parcourir des dizaines d'onglets Wikipédia, et demandé des heures de recherches et de lecture pour finir par  rédiger un maigre paragraphe résumant le thème étudié aux informations que je trouvais les plus pertinentes. 
+J'ai écris ce mémoire en commençant par de la prise de note puis en rédigeant, reliant petit à petit toutes les idées et concepts dont je voulais parler. En soit comme beaucoup de personnalités évoqués dans mon œuvre, je n'ai rien inventé, j'ai découvert plein d'informations et me suis contenté de les compiler à la manière de Vitruve, ou d'un ordinateur. Chaque idée ou sujet que je voulais évoquer m'as fait parcourir livres et dizaines d'onglets Wikipédia, et demandé des heures de recherches et de lecture pour finir par  rédiger un maigre paragraphe résumant le thème étudié aux informations que je trouvais les plus pertinentes. 
 
 Dès que j'avais une idée ou une information qui pouvait se relier à mon mémoire, je dégainais mon téléphone, activais mon VPN pour me connecter au réseau de mon appartement et ainsi accéder à un Windows a distance. Ce dernier tourne h24 sur un mini-pc à 500 euros que j'ai acheté avant d'intégrer l'école hexagone, avec le premier salaire de mon alternance et la jolie prime obtenue pour avoir rejoint l'entreprise dès que possible un mois avant la rentrée scolaire. 
 
-J'ai parfois rencontré des problèmes pour retrouver des informations, pour Raymond Lulle par exemple, j'ai dû récupérer la page en catalan pour mieux comprendre le lien entre Lulle et la logique combinatoire et computationnelle qui a inspiré Leibniz. En effet, certains concepts comme l'*automatic programming*, ne possède pas de page Wikipédia ni de définition en français. J'ai très souvent croiser les versions anglais et françaises des pages Wikipédia que je consultait pour être sur de la source et de la véracité des informations. J'ai également pu lire des textes historiques fantastiques comme *School and Society* de John Dewey, *How to Make Our Ideas Clear* de Charles S. Peirce ou le texte *As we may think* de Vannevar Bush, prouvant encore une fois que beaucoup d'inventions et informations qui n'était pas encore connues du grand public, était déjà accessible aux plus curieux.
+J'ai parfois rencontré des problèmes pour retrouver des informations, pour Raymond Lulle par exemple, j'ai dû récupérer la page en catalan pour mieux comprendre le lien entre Lulle et la logique combinatoire et computationnelle qui a inspiré Leibniz, puis croiser avec le livre *Histoire de l'informatique illustrée*. En effet, certains concepts comme l'*automatic programming*, ne possède pas de page Wikipédia ni de définition en français. J'ai donc très souvent croiser les versions anglaises et françaises des pages Wikipédia que je consultaient ainsi que leurs bibliographie pour être sur de la source et de la véracité des informations. Cela m'as permis de découvrir et lire des textes historiques fantastiques comme *School and Society* de John Dewey, *How to Make Our Ideas Clear* de Charles S. Peirce ou le texte *As we may think* de Vannevar Bush, prouvant encore une fois que beaucoup d'inventions et informations qui n'était pas encore connues du grand public, était déjà accessible aux plus curieux.
 
-Je n'ai pas pu tout garder, et j'ai du parler de personnes qui ont écris des choses ou fait des choses regrettable, j'ai pourtant parler de Lancaster qui dans lors de son enseignement a brutalisé des enfants. Rousseau disait que "Toute l'éducation des femmes doit être relative aux hommes, leur plaire, leur être utile, se faire aimer, honorer d'eux, les élever jeunes, les soigner grands, les consoler, leur rendre la vie agréable et douce. Voilà les devoir d'une femme dans tous les temps et ce qu'on doit leur apprendre dès leur enfance." car je n'ai pu valider son apparence sexiste par la lecture du texte et de son contexte. Personnellement je pense que ce genre d'injonction ne devrait pas être genré au féminin, au risque même d'en priver les Hommes dans le sens de l'humanité. De la même manière, Nicole-Claude Mathieu à déclarer que la féminité est "imposée aux femmes, et de la masculinité, apprise aux hommes", et je souhaite à tout le monde d'apprendre sans jamais se laisser imposer quoi que ce soit, n'hésitez pas à fuir, ça s'apprends également au même titre que le courage, qui n'est rappelons le, pas l'absence de peur, mais sa capacité à les gérer.
+Je n'ai pas pu tout garder, et j'ai du parler de personnes qui ont écris des choses ou fait des choses regrettable, j'ai pourtant parler de Lancaster qui dans lors de son enseignement a brutalisé des enfants, ou de Rousseau qui disait que "Toute l'éducation des femmes doit être relative aux hommes, leur plaire, leur être utile, se faire aimer, honorer d'eux, les élever jeunes, les soigner grands, les consoler, leur rendre la vie agréable et douce. Voilà les devoir d'une femme dans tous les temps et ce qu'on doit leur apprendre dès leur enfance". Personnellement je pense que ce genre d'injonction ne devrait pas être genré au féminin, au risque même d'en priver les Hommes dans le sens de l'humanité. De la même manière, Nicole-Claude Mathieu à déclarer que la féminité est "imposée aux femmes, et de la masculinité, apprise aux hommes", et je souhaite à tout le monde d'apprendre sans jamais ne se laisser imposer quoi que ce soit, n'hésitez pas à fuir, ça s'apprends également au même titre que le courage, qui n'est rappelons le, pas l'absence de peurs, mais sa capacité à les gérer.
 
 
 
-Oui, j'ai utilisé Wikipédia et ChatGPT pour écrire cet ouvrage, mais aucun texte n'en est extrait. Pourquoi ? Je tenais à rédiger moi même, comme je vous l'aurais expliqué à l'oral. Le passage sur Richard Stallman à néanmoins vu le jour grâce au modèle de génération de texte qu'est ChatGPT. J'ai voulu retrouver qui à prononcer une phrase dans le reportage : "Révoltes et révolutions technologiques | La Californie ! | ARTE"
+5V de l'information sont volume vitesse variété véracité valeur, pour écrire ce mémoire c’est surtout le volume et la bonne variété ou proportion ainsi que la véracité qui a été au coeur de mes préoccupations
+
+
+
+Oui, j'ai utilisé Wikipédia et ChatGPT pour écrire cet ouvrage, mais aucun texte n'en est extrait. Pourquoi ? Je tenais à rédiger moi même, comme je vous l'aurais expliqué à l'oral. De plus les Intelligences Artificielles pourraient ne pas avoir le droit d'auteur ainsi que d'exploitation commerciale et je me prévaux de l'utiliser comme source sure, au même titre que toutes les autres. Le passage sur Richard Stallman à néanmoins vu le jour grâce au modèle de génération de texte qu'est ChatGPT. J'ai voulu retrouver qui à prononcer une phrase dans le reportage : "Révoltes et révolutions technologiques | La Californie ! | ARTE"
 
 Voici le dialogue qui en est à l'origine :
 
@@ -2558,6 +2484,7 @@ Encore merci à tous d'être l'individu que vous êtes. Tâchez d'être encore m
 Tant que j'y pense, voici une liste de projet qui me sont venus en tête lors de la rédaction de ce mémoire :
 
 - Faire un autocompléteur pour une langue parlée pour la rédaction écrite
+- editeur markdown prenant en compte les lang html
 - Il existe déjà des casque de VR permettant de visualiser les zones couvertes par le wifi, imaginez un casque multisensoriel visuel qui permette a laide d'onduloanalyse de voir les temperatures, les zones radioactiactives,
 
 Si il y'a bien quelque chose que l'on ne peut comprendre qu'en étant seul, c'est bien qu'être adulte concomite avec faire tout les jours un peu plus attention au soi de demain.
