@@ -1781,29 +1781,39 @@ Même de nos jours, une personne décidant de se salarier dans un travail dit al
 
 
 
-### Signaux forts et faibles
+**Communication & Compréhension**
+
+L'allégorie de la ligne ou celle de la caverne énoncée par Platon sont également la pour nous rappeler que la connaissance peut être hiérarchisée en fonction du contexte et niveau de compréhension.
+
+Il est intéressant d'abaisser son raisonnement en utilisant une métaphore pour expliquer simplement un concept à un initié, tout comme il est important de laisser cet initié le reformuler et corroboré pour vérifier sa compréhension, c'est ainsi que l'on valide la transmission d'une information et un apprentissage, en le testant.
+
+transparence, adéquation clarté crédibilité, réactivité
+
+En tant que président d'une SASU Politesse, Respect et Bienveillance seront les maîtres mots de ma philosophie d'entreprise. Veiller à bien faire et bien communiquer, bien travailler, bien apprendre et retransmettre, et essayer tout les jours, malgré les hauts et les bas, de devenir un peu meilleur que la veille.
+
+
+
+
 
 En communication comme en électronique, un signal fort peut perturber voire totalement stopper un système. C'est le cas dans l’épisode 22 de la série Baki dans lequel un combattant spécialisé en environnement fait taire toute une arène en criant extrêmement fort. Tout étudiant l'a déjà expérimenté, on a tous déjà été dans une situation ou un groupe bruyant se tait après qu'une autorité ai hausser la voix.
 
-### Viralité
+
 
 La viralité est un facteur mathématiquement calculable. C'est la moyenne de transmissions faites par les personnes atteintes par une information. Une information est virale dès que son facteur dépasse 1, autrement dis dès que la moyenne des personnes en sa possession la retransmettent à plus d'une autre personne.
 
 
 
-### Parasitage
 
-informations parasites quand je travaille sur une fonction je n’ai pas besoin de voir autre chose que ses dépendances. le divertissement n'est pas nécessaire non plus. L'informatique et l'algorithmique nous permettent de répliquer a l'infini une information ou un traitement logique de donnée. 
+
+Informations parasites. Quand je travaille sur une fonction je n’ai pas besoin de voir autre chose que ses dépendances. le divertissement n'est pas nécessaire non plus. L'informatique et l'algorithmique nous permettent de répliquer a l'infini une information ou un traitement logique de donnée. 
 
 croyances limitantes et mauvaise foi
 
+Désinformation 
 
 
 
-
-
-
-### Contexte et vérité
+**Contexte et vérité**
 
 La vérité peut être absolue ou relative, l'absolue ne peut être approché qu'en la définissant dans un contexte partiel dont on aura jamais une pleine compréhension car il nous est impossible de capter et mémoriser toutes les informations y ayant donné lieu.
 
@@ -1815,13 +1825,15 @@ De plus, nous l'avons vu au chapitre décrivant Antiquité, l'art du dialogue qu
 
 En effet la dialectique indique bien qu'il est fondamental de garder sa parole distincte de celle de son interlocuteur, que l'on ne doit pas prendre comme une vérité absolue mais analyser pour en dégager les raisonnements logiques. Il n'y a rien à gagner à avoir raison, l'humanité évolue en échangeant des idées permettant de s'instruire, et d'apprendre.
 
-### Doute
-
-Il faut douter de tout même de ce que l'on sait, il faut challenger constamment sa vérité relative pour la remettre en question et s'approcher de l'absolu. Toute notre expérience de la vie introduit des biais dans nos apprentissages. Bien qu'il y'est un certain déterminisme dans le monde, il est multifactoriel. On est certain de rien qui ne soit pas vérifié et prouvé ou que l'on expérimente soit même avec une bonne proportion de réussite.
 
 
+**Doute**
 
-### Preuves
+Il faut douter de tout même de ce que l'on sait, il faut challenger constamment sa vérité relative pour la remettre en question et s'approcher de l'absolu. Toute notre expérience de la vie introduit des biais dans nos apprentissages. Bien qu'il y ai un certain déterminisme dans le monde, il est multifactoriel. On est certain de rien qui ne soit pas vérifié et prouvé ou que l'on expérimente soit même avec une bonne proportion de réussite. Biais humain, machine, et réalité de la donnée (illusions de captation, interprétation, context)
+
+
+
+**Preuves**
 
 Hiérarchie des preuves, et niveaux de preuves
 
@@ -1867,48 +1879,19 @@ Enfin je terminerai avec une citation de jeu vidéo, Maitre Yi dans League Of Le
 
 ###   Informatique et Cuisine
 
-La cuisine est selon moi une science combinatoire et une philosophie à part entière regroupant les mathématiques, la biologie, la physique-chimie, et plein d'autres sciences y compris sociales ou neurologique. C'est un grand tout, depuis l'antiquité, les recettes sont des formulations logiques, les ingrédient sont biologiques, leurs modifications par leurs préparations, formes, mélanges, et leurs méthodes de cuissons, sont physiques, les proportions quant à elles sont mathématiques. On sait aujourd'hui scientifiquement que notre alimentation conditionne notre santé, et que notre santé peut conditionner notre alimentation. En effet, le système humain et animal à besoin d'une entrée d'énergie constante pour contrebalancer son activité physique et neuronale. Sans cela ou avec une mauvaise alimentation, il parait logique d'avoir un système défaillant. C'est la source même de la vie. Pour autant, bien que ce soit un facteur pouvant influer sur les comportements, je pense qu'en dehors de scénario très précis, les décision peuvent, si la volonté est suffisante pour cela, transcender un pseudo-déterminisme alimentaire. La cuisine à quelque chose d'universel, tout peuple de la Terre à inventé indépendamment des autres ses propres recettes, cultures, élevages, croisement d'espèces volontaire ou non. La mondialisation est venue optimiser les agriculture et permettre des échanges de nourriture et des pratiques de cultures culinaires à l'échelle de la Terre.
+La cuisine est selon moi une science combinatoire et une philosophie à part entière regroupant les mathématiques, la biologie, la physique-chimie, et plein d'autres sciences y compris sociales ou neurologique. C'est un grand tout, depuis l'antiquité, les recettes sont des formulations logiques, les ingrédients sont biologiques, leurs modifications par leurs préparations, formes, mélanges, et leurs méthodes de cuissons, sont physiques, les proportions quant à elles sont mathématiques. On sait aujourd'hui scientifiquement que notre alimentation conditionne notre santé, et que notre santé peut conditionner notre alimentation. En effet, le système humain et animal à besoin d'une entrée d'énergie constante pour contrebalancer son activité physique et neuronale. Sans cela ou avec une mauvaise alimentation, il parait logique d'avoir un système défaillant. C'est la source même de la vie. Pour autant, bien que ce soit un facteur pouvant influer sur les comportements, je pense qu'en dehors de scénario très précis, les décision peuvent, si la volonté est suffisante pour cela, transcender un pseudo-déterminisme alimentaire. La cuisine à quelque chose d'universel, tout peuple de la Terre à inventé indépendamment des autres ses propres recettes, cultures, élevages, croisement d'espèces volontaire ou non. La mondialisation est venue optimiser les agriculture et permettre des échanges de nourriture et des pratiques de cultures culinaires à l'échelle de la Terre.
 
 On sait aujourd'hui que les bactéries qui nous aident à digérer les aliments représentent une partie non négligeable de notre poids, nous vivons en symbiose avec eux à travers notre alimentation. En Informatique, et notamment en intelligence artificielle, les résultats dépendent également beaucoup des information avec lesquelles on alimente le système. Le résultat d'un algorithme, dépends des variables passées en entrée.
 
 
-### Communication & Compréhension
-
-L'allégorie de la ligne ou celle de la caverne énoncée par Platon sont également la pour nous rappeler que la connaissance peut être hiérarchisée en fonction du contexte et niveau de compréhension.
-
-Il est intéressant d'abaisser son raisonnement en utilisant une métaphore pour expliquer simplement un concept à un initié, tout comme il est important de laisser cet initié le reformuler et corroboré pour vérifier sa compréhension, c'est ainsi que l'on valide la transmission d'une information et un apprentissage, en le testant.
-
-transparence, adéquation clarté crédibilité, réactivité
-
-En tant que président d'une SASU Politesse, Respect et Bienveillance seront les maîtres mots de ma philosophie d'entreprise. Veiller à bien faire et bien communiquer, bien travailler, bien apprendre et retransmettre, et essayer tout les jours, malgré les hauts et les bas, de devenir un peu meilleur que la veille.
 
 
 
-### Professionnalisme
 
-J'aimerai appliquer la dialectique à l'entreprise, avec des visioconférences 1:1
 
-On agit tous différemment dans le contexte professionnel. Effectuer un métier n'est pas compliqué, le réaliser avec des gens l'est plus. Il faut tellement de compétences managériales qu'il nous faut. Quand je suis dans le milieu professionnel, j'exerce une fonction, ou une liste de fonctions définies par le contrat de travail.
 
-On ne comprend l'essence des concepts qu'en généralisant et remontant au niveau du groupe social voulu. En discrétisant les information à la granularité voulue. Tolérance face à la différence entre réalité qu'on imagine et qu'on expérimente. Dans une entreprise nous somme tous concernés par rapport à un même produit. Norbert Ellias nous apprends que l'individu et la société ne sont pas deux choses séparés. On est tous responsable de nos actes quels qu'ils soient. 
 
-De nos jours j'ai souvent entendu parler de philosophie d'entreprise. L'entreprise étant une entité morale, elle se compose d'un groupe de personnes physiques réunies pour accomplir quelque chose en commun. Ce groupe peut aussi réunir des personnes physiques et des personnes morales. Cela corresponds à une secte, qui est un terme connoté négativement mais qui, comme beaucoup de mots, est poly-sémantique, il possède plusieurs définitions, celle que l'on retient généralement n'est pas celle de la secte mais de la dérive sectaire. En effet, d'un point de vue étymologique, le mot secte provient du latin "secta", signifiant "voie que l'on suit, parti, cause, doctrine". Or quand je travaille en groupe avec d'autres personnes, je le fait de pair avec mes collègues, suivant ensemble une même voie, pendant une période définie de travail, comme tout salarié qui vends a son employeur.
 
-En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une même cause, est comme internet, la rue ou tout autre environnement dans lequel nous évoluons, c'est une indifférence, ce n'est ni bien, ni mal, cela ne dépends de ce que l'on en fait et à qu'elles fins. Nous devons tous un jour faire face au fait que nous sommes influencés et conditionnés par notre environnement et notre histoire, nos habitudes, et les groupes d'humains dans lesquels nous avons évolués. Le réel problèmes sont les dérives, notamment le fait de vénérer une autorité austère qu'on ne peut discuter, mais aussi tout les heurts qui nous sont propres. Pour le reste, la vie bats son plein et continue de parcourir le temps en faisant ce qu'elle a à faire, vivre. En réalisant EditIDE, je ne sais pas comment cet outil va être utilisé, mais je sais désormais que je veut créer des indifférences, et aller du global vers le particulier.
-
-### Prestation vs édition de logiciel
-
-Le modèle économique d'une entreprise influence énormément les comportement de ses salariés. Contraintes de temps et de budget
-
-Les prestataires vendent du temps, et ont donc naturellement tendance à avoir des deadline plus courtes et par conséquent plus de pression. Cela nécessite également une équipe commerciale solide capable de décrocher assez de projet pour faire travailler l'entreprise pendant les prochaines années. En contrepartie, ce n'est pas un logiciel ou site maintenable qui est demandé, mais il faut qu'il soit assez bien réalisé et fonctionnel pour être livré le plus rapidement possible afin d'en dégager une marge. 
-
-Les éditeurs logiciels quant a eux le louent généralement en tant que service ou le vendent en tant que bien, le nerf de la guerre réside alors dans la maintenabilité du logiciel auquel doit être ajouté des fonctionnalités au fil du temps. Plus le logiciel grossit, plus il est compliqué de maitriser les effets de bord et de comprendre l'intégralité du logiciel et de son historique. Ils ont cependant la chance d'avoir conçu une sorte de distributeur automatique qui n'a pas besoin d'action humaine.
-
-### Division du travail
-
-Charles Babbage a visité des maison d'échanges bancaires, et autres établissement de gestion, comme le bureau du cadastre qui du réaliser des cartes à jour pour établir une taxation. Il était fasciné par la division mentale du travail qui s'y opérait, la personne en charge du cadastre était le Baron Gaspard De Prony qui a également réaliser les *Grandes tables de logarithme* en seulement deux ans grâce à ses lectures des travaux d'Adam Smith, notamment de son œuvre "*Recherches sur la nature et les causes de la richesse des nations*". Ce dernier à été le premier à décrire le principe de division du travail. Ce principe sera par la suite réutilisé pour optimiser les temps de formations du personnel et de réalisation d'un produit. 
-
-https://fr.wikipedia.org/wiki/Division_du_travail
 
 ### Astrologie
 
@@ -2012,11 +1995,23 @@ https://www.journaldugeek.com/2023/10/16/un-accelerateur-de-particules-revele-un
 
 https://pubs.acs.org/doi/10.1021/jacs.3c07000
 
+### Metagame
+
+Lorsque des joueurs poussent assez l'analyse d'un jeu, ils arrivent à en comprendre assez bien le fonctionnement pour être capable d'utiliser et de profiter des règles. Une peuvent alors avoir une approche stratégique leurs permettant de dépasser les limitations fixées ou espérées par les concepteurs du jeu. L'idée du meta-jeu est d'appliquer la théorie des jeux de manière à trouver une technique dont les chances de victoires sont les plus hautes possibles. Même sur les jeux les plus simples comme Tetris, les joueurs ont trouvés des technique de frappe comme l'hypertapping ou le rolling dans le but d'effectuer plus d'actions par secondes avec leurs manettes, leur permettant même d'aller au delà du niveau "maximum" à partir duquel la vitesse de chute des formes s'arrête d'accélérer.
+
+Toute forme de vie réponds à un algorithme très simple. Comment réussir sans me tromper ? Comment maximiser mes récompenses en minimisant mes efforts ? Comment obtenir plus de plaisir que de douleur ? La vie ne recherche que plus de plus et moins de moins. Comment peut-on à l'aide de l'Intelligence économique ou d'autres disciplines, analyser les situations qui se présentent à nous sous le prisme de la théorie des jeux pour effectuer les meilleurs choix.
+
+https://ayowel.github.io/trust/
 
 
 
 
 
+La vie est un jeu, on peut donc y appliquer les mêmes notions. Jouez au jeu, suivez le pacte d’Ulysse.
+
+La magie c'est de défaire et savoir refaire
+
+Cette métacognition et la rétroaction permettent ainsi de se comprendre soi même et d'adapter ses comportements et habitudes, on parle alors de 
 
 ### Développement personnel
 
@@ -2066,8 +2061,6 @@ J'ai même parfois aider des gens qui m'avait fait des crasses à nettoyer les l
 
 Ce qui fait la force de l'humanité, c'est l'amitié et l'entraide, sans cela cette dernière n'aurais jamais réussi à aller aussi loin dans l'histoire. "Seul on va plus vite, ensemble, on va plus loin."
 
-
-
 #### STOP
 
 Dans le monde du travail, comme personnel, il faut savoir imposer son rythme et le justifier, tout comme savoir prendre des pauses et du recul pour analyser, afin de partir dans la bonne direction plutôt que d'avancer continuellement de manière imprécise et inefficace. Il est important de prendre soin de soi avant tout, cependant, quelqu'un qui bloque sur un problème n'avance plus et peut retarder les autre également. 
@@ -2078,13 +2071,13 @@ Les confinements comme celui que l'on a eu lors de la période du Covid nous le 
 
 
 
-#### Justification
+Justification
 
 Lorsque je commet une erreur, j'en assume la responsabilité, mais je me justifie souvent. Cela me permet d'identifier les causes du problème, et ainsi de clarifier la situation pour éviter de le reproduire. Dans le livre Lean Startup il est mentionné une phrase qui m'a marquée. L'idée est que lorsqu'une erreur survient, il est de notre responsabilité d'avoir rendue la faute si facile à commettre. Autrement dit, lorsqu'une personne faillit à sa tâche, il ne faut pas remettre en question sa responsabilité ou sa compétence, mais se demander pourquoi l'environnement n'a pas permis la réussite de l'action et rendu la situation d'échec si probable qu'elle c'est produite.
 
 
 
-#### Critique
+Critique
 
 Selon moi la critique constructive est positive pour le maître et l'apprenant des lors quelle s'effectue avec une communication positive tout en analysant les défauts et planifiant un programme pour les corriger. 
 
@@ -2102,18 +2095,39 @@ Tout devrait être automatique, je suis ravi que le prélèvement à la source a
 
 
 
-### Metagame
-
-Toute forme de vie réponds à un algorithme très simple. Comment réussir sans me tromper ? Comment maximiser mes récompenses en minimisant mes efforts ? Comment obtenir plus de plaisir que de douleur ? La vie ne recherche que plus de plus et moins de moins. Comment peut-on à l'aide de l'Intelligence économique ou d'autres disciplines, analyser les situations qui se présentent à nous sous le prisme de la théorie des jeux pour effectuer les meilleurs choix.
-
-Jouez au jeu, suivez le pacte d’Ulysse.
-
-https://ayowel.github.io/trust/
 
 
+Professionnalisme
 
-1. La magie c'est de défaire et savoir refaire
-2. Biais humain, machine, et réalité de la donnée (illusions de captation, interprétation, context)
+J'aimerai appliquer la dialectique à l'entreprise, avec des visioconférences 1:1
+
+On agit tous différemment dans le contexte professionnel. Effectuer un métier n'est pas compliqué, le réaliser avec des gens l'est plus. Il faut tellement de compétences managériales qu'il nous faut. Quand je suis dans le milieu professionnel, j'exerce une fonction, ou une liste de fonctions définies par le contrat de travail.
+
+On ne comprend l'essence des concepts qu'en généralisant et remontant au niveau du groupe social voulu. En discrétisant les information à la granularité voulue. Tolérance face à la différence entre réalité qu'on imagine et qu'on expérimente. Dans une entreprise nous somme tous concernés par rapport à un même produit. Norbert Ellias nous apprends que l'individu et la société ne sont pas deux choses séparés. On est tous responsable de nos actes quels qu'ils soient. 
+
+De nos jours j'ai souvent entendu parler de philosophie d'entreprise. L'entreprise étant une entité morale, elle se compose d'un groupe de personnes physiques réunies pour accomplir quelque chose en commun. Ce groupe peut aussi réunir des personnes physiques et des personnes morales. Cela corresponds à une secte, qui est un terme connoté négativement mais qui, comme beaucoup de mots, est poly-sémantique, il possède plusieurs définitions, celle que l'on retient généralement n'est pas celle de la secte mais de la dérive sectaire. En effet, d'un point de vue étymologique, le mot secte provient du latin "secta", signifiant "voie que l'on suit, parti, cause, doctrine". Or quand je travaille en groupe avec d'autres personnes, je le fait de pair avec mes collègues, suivant ensemble une même voie, pendant une période définie de travail, comme tout salarié qui vends a son employeur.
+
+En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une même cause, est comme internet, la rue ou tout autre environnement dans lequel nous évoluons, c'est une indifférence, ce n'est ni bien, ni mal, cela ne dépends de ce que l'on en fait et à qu'elles fins. Nous devons tous un jour faire face au fait que nous sommes influencés et conditionnés par notre environnement et notre histoire, nos habitudes, et les groupes d'humains dans lesquels nous avons évolués. Le réel problèmes sont les dérives, notamment le fait de vénérer une autorité austère qu'on ne peut discuter, mais aussi tout les heurts qui nous sont propres. Pour le reste, la vie bats son plein et continue de parcourir le temps en faisant ce qu'elle a à faire, vivre. En réalisant EditIDE, je ne sais pas comment cet outil va être utilisé, mais je sais désormais que je veut créer des indifférences, et aller du global vers le particulier.
+
+
+
+
+
+Prestation vs édition de logiciel
+
+Le modèle économique d'une entreprise influence énormément les comportement de ses salariés. Contraintes de temps et de budget
+
+Les prestataires vendent du temps, et ont donc naturellement tendance à avoir des deadline plus courtes et par conséquent plus de pression. Cela nécessite également une équipe commerciale solide capable de décrocher assez de projet pour faire travailler l'entreprise pendant les prochaines années. En contrepartie, ce n'est pas un logiciel ou site maintenable qui est demandé, mais il faut qu'il soit assez bien réalisé et fonctionnel pour être livré le plus rapidement possible afin d'en dégager une marge. 
+
+Les éditeurs logiciels quant a eux le louent généralement en tant que service ou le vendent en tant que bien, le nerf de la guerre réside alors dans la maintenabilité du logiciel auquel doit être ajouté des fonctionnalités au fil du temps. Plus le logiciel grossit, plus il est compliqué de maitriser les effets de bord et de comprendre l'intégralité du logiciel et de son historique. Ils ont cependant la chance d'avoir conçu une sorte de distributeur automatique qui n'a pas besoin d'action humaine.
+
+
+
+Division du travail
+
+Charles Babbage a visité des maison d'échanges bancaires, et autres établissement de gestion, comme le bureau du cadastre qui du réaliser des cartes à jour pour établir une taxation. Il était fasciné par la division mentale du travail qui s'y opérait, la personne en charge du cadastre était le Baron Gaspard De Prony qui a également réaliser les *Grandes tables de logarithme* en seulement deux ans grâce à ses lectures des travaux d'Adam Smith, notamment de son œuvre "*Recherches sur la nature et les causes de la richesse des nations*". Ce dernier à été le premier à décrire le principe de division du travail. Ce principe sera par la suite réutilisé pour optimiser les temps de formations du personnel et de réalisation d'un produit. 
+
+https://fr.wikipedia.org/wiki/Division_du_travail
 
 
 
@@ -2123,17 +2137,15 @@ https://ayowel.github.io/trust/
 
 ## EditIDE ou "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?"
 
-Toute personne en dehors de l'informatique est naturellement rebutée ou surprise par toutes ses lignes de textes, qu'elle soient de commande ou de code. L'expérience développeur est aujourd'hui bien plus proche du bloc-note que des interfaces intuitives et agréable, voire fun à utiliser, que l'on peut produire avec. Les développeurs travaillent sur une technologie futuriste dont l'usage est encore archaïque. Les outils no-code fleurissent ses dernières années, ils permettent certes la réalisation de produits plus rapidement qu'un partant d'un cadriciel et en le codant soi même. Cependant dès que l'on désire un rendu différant de ce qui est proposé par le service, cela provoque un blocage, nécessitant l'intervention d'un développeur et de code, les services le proposant sera alors considéré comme low-code et non no-code. Ma solution se rapprocherai plus du Low-Code, mes interfaces vont afficher le code, mais les mots clefs et la syntaxe qui le constituent n'auront plus besoin d'être appris par le développeur. Seuls les concepts clés et la logique importent. Mon motif directeur dans le développement d'EditIDE à été, est et restera de toujours plus simplifier son rétro-fonctionnement. L'interface doit se décrire elle même comme un personnage se présenterai à autrui. Allant toujours des concepts globaux au cas précis. L'utilisateur doit, quel que soit la page du logiciel sur laquelle il est, comprendre ce qu'il peut faire, et trouver ce qu'il cherche. 
+Toute personne en dehors de l'informatique est naturellement rebutée ou surprise par toutes ses lignes de textes, qu'elle soient de commande ou de code. L'expérience développeur est aujourd'hui bien plus proche du bloc-note que des interfaces intuitives et agréable, voire fun à utiliser, que l'on peut produire avec. Les développeurs travaillent sur une technologie futuriste dont l'usage est encore archaïque. Les outils no-code fleurissent ses dernières années, ils permettent certes la réalisation de produits plus rapidement qu'un partant d'un cadriciel et en le codant soi même. Cependant dès que l'on désire un rendu différant de ce qui est proposé par le service, cela provoque un blocage, nécessitant l'intervention d'un développeur et de code. Les services proposant à la fois des outils visuels et des éditeurs de code sera alors considérée comme low-code. Ma solution se rapprocherai plus de ce mode de fonctionnement, mes interfaces vont afficher le code, mais les mots clefs et la syntaxe qui le constituent seront représentés par des symboles et n'auront plus besoin d'être appris par le développeur. Seuls les concepts clés et la logique importent. Mon motif directeur dans le développement d'EditIDE à été, est et restera de toujours plus simplifier son rétro-fonctionnement. L'interface doit se décrire elle même comme un personnage se présenterai à autrui. L'utilisateur doit, quel que soit la page du logiciel sur laquelle il est, comprendre ce qu'il peut faire, et trouver ce qu'il cherche. Allant toujours des concepts globaux au cas précis.
+
+Derrière la question fondamentale de ma problématique résident plusieurs questions annexes auxquelles je vais d'abord répondre.
 
 ### Pourquoi la programmation est-elle aussi peu démocratisée ?
 
-Soyons franc, pas tout le monde n'a besoin de savoir coder. La meilleur qualité d'un codeur n'est d'ailleurs pas savoir coder, c'est sa capacité à proposer une solution logique à un problème de donnée.
+Soyons franc, pas tout le monde n'a besoin de savoir coder. La meilleur qualité d'un codeur n'est d'ailleurs pas savoir coder, c'est sa capacité à proposer une solution logique à un problème de donnée. C'est pourquoi je vais répondre à cette question avec quelques informations statistiques.
 
-Je vais donc répondre à cette question avec quelques informations statistiques.
-
-En 2013, 1 personne sur 623 était développeur professionnel, soit 0,16 % de la population mondiale. Et 1 personne sur 387 savait alors coder, soit 0.26%. En novembre 2022, la population a dépassé les 8 milliards d'habitants, celle des développeurs représente alors 27.7 millions, soit 0.35%.
-
-La même année, 40 % des recruteurs prévoyaient d’embaucher 50 développeurs ou plus. L’étude liée à cette information note également que le pourcentage de ceux qui recrutent de 201 à 500 personnes a doublé par rapport à 2021. Le problème le plus notable est dans le web où il y'a 60 postes disponible pour 38 développeur en demande d'emploi.
+En 2013, 1 personne sur 623 était développeur professionnel, soit 0,16 % de la population mondiale. Et 1 personne sur 387 savait alors coder, soit 0.26%. En novembre 2022, la population a dépassé les 8 milliards d'habitants, celle des développeurs représente alors 27.7 millions, soit 0.35%. La même année, 40 % des recruteurs prévoyaient d’embaucher 50 développeurs ou plus. L’étude liée à cette information note également que le pourcentage de ceux qui recrutent de 201 à 500 personnes a doublé par rapport à 2021. Le problème le plus notable est dans le web où il y'a 60 postes disponible pour 38 développeur en demande d'emploi.
 
 - 70 % des développeurs plébiscitent le travail à distance - complet ou partiel.
 - 57 % des recruteurs se déclarent prêts à se passer du CV du processus de recrutement. 
@@ -2143,25 +2155,19 @@ La même année, 40 % des recruteurs prévoyaient d’embaucher 50 développeurs
 
 [^1]: https://www.codingame.com/work/fr/codingame-coderpad-tech-hiring-survey-2022/
 
-Il y'a donc des opportunités immenses pour les autodidactes et les écoles en informatique. Mais la discipline requiert des études avancés, et qui ne sont pas ou trop peu enseigné lors de l'instruction obligatoire au lycée.
+Il y a donc des opportunités immenses pour les autodidactes et les écoles en informatique. Mais la discipline requiert des études avancées, et qui ne sont pas ou trop peu enseigné lors de l'instruction obligatoire au lycée.
 
-C'est également une discipline en constant changement, qui requiert beaucoup de connaissances et de pratique. Les développeurs expérimentés sont logiquement très recherché. Pour les mêmes raison, c'est dur d'être dévoué à se domaine, nombre de personnes le quitteront pour quelque chose qui leur convient mieux. Cependant c'est une science et technologie qui est désormais omniprésente dans nos vies et apprentissages. Je suis donc d'avis qu'une généralisation de l'introduction à la programmation en cours de technologie au collège, permettrait aux élèves de savoir si ce domaine les intéresse, d'avoir la possibilité de choisir de prendre cette discipline au lycée, ou juste de pouvoir apprendre par lui même tout en continuant dans une autre voie.
+C'est également une discipline en constant changement, qui requiert beaucoup de connaissances et de pratique. Les développeurs expérimentés sont logiquement très recherché. Pour les mêmes raison, il est compliqué d'être dévoué à se domaine, nombre de personnes le quitteront pour quelque chose qui leur convient mieux. Cependant c'est une science et technologie qui est désormais omniprésente dans nos vies et apprentissages. Je suis donc d'avis qu'une généralisation de l'introduction à la programmation en cours de technologie au collège, permettrait aux élèves de savoir si ce domaine les intéresse, d'avoir la possibilité de choisir de prendre cette discipline au lycée, ou juste de pouvoir apprendre par lui même tout en continuant dans une autre voie.
 
-Il y’a un manque d’experts, de personnes compétentes et qualifiées, les années que nous vivons sont saturées d'informations, et l'accumulation de mauvaises nouvelles déprime les uns, là où les tsunamis de désinformation et canulars font rire et haïr les autres. La vérité finissant presque par ironiquement nous consoler.
-
-Et un réel décalage entre offre et demande, nous observons des signaux forts comme ceux autour de la blockchain, technologie ayant un réel intérêt et pouvant jouer un rôle important, notamment dans les systèmes administrant nos sociétés mondialement interconnectées, mais qui présentent cependant un effet Duning Kruger assez important ces derniers temps.
-
-
-
-### Pourquoi un outil censé résoudre un problème en cause parfois des bloquants ?
+Il y a un manque d’experts, de personnes compétentes et qualifiées, accompagnée d'un réel décalage entre l'offre et la demande. Le marché émet des signaux forts comme ceux autour de la blockchain, technologie ayant un réel intérêt et pouvant jouer un rôle crucial, notamment dans les systèmes administrant nos sociétés mondialement interconnectées, mais qui présentent cependant un effet Duning Kruger assez important ces derniers temps (j'ose espérer que l'on a passé la montagne de la stupidité). Les années que nous vivons sont saturées d'informations, et l'accumulation de mauvaises nouvelles déprime les uns, là où les tsunamis de désinformation et canulars font rire et haïr les autres. La vérité finissant presque par ironiquement nous consoler.
 
 
 
 ### Qu'elle est l'origine des bugs ?
 
-A l'exception d'une erreur matérielle venant corrompre la mémoire ou interférer avec un signal, une ne machine fait que ce que son programme lui indique, les bugs sont donc presque toujours dus à une erreur humaine. Elle vient soit du besoin initial mal compris, transmis, ou implémenté, soit d'un enchaînement d'implémentation causant des effets de bords et venant modifier des fonctionnalités existantes pouvant devenir incompatibles avec les nouvelles demandes et besoins.
+À l'exception d'une erreur matérielle venant corrompre la mémoire ou interférer avec un signal, une machine en état de marche ne fait que ce que son programme lui indique. Les bugs sont donc presque toujours dus à une erreur humaine. Elle vient soit d'un besoin initial mal compris, transmis, ou implémenté, soit d'un enchaînement d'implémentations causant des effets de bords et venant modifier des fonctionnalités existantes pouvant devenir incompatibles avec les nouvelles demandes et besoins.
 
-Les erreurs fatales viennent généralement de problème mémoire ou de langages non compilés, qui n'ont donc pas de programme obligeant l’absence d'erreur avant usage. Et en tant que développeur, je peut vous dire que si on le processus ne force pas les utilisateur d'un outil à faire les chose bien et corriger tout les potentiels problème, ils vont juste s'accumuler et former de la dette technique.
+Les erreurs fatales viennent généralement de problème mémoire ou de langages non compilés, qui n'ont donc pas de programme obligeant l’absence d'erreur avant usage. Et en tant que développeur, je peut vous dire que si le processus ne force pas les utilisateurs d'un outil à faire les chose correctement et corriger tout les potentiels problèmes, ils vont juste s'accumuler et former ce que l'on appelle de la dette technique.
 
 ### Comment l'interface permet et conditionne l'accès aux fonctionnalités ?
 
