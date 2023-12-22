@@ -1,8 +1,14 @@
 # 1. Histoire et Philosophie de l'Information
 
-Dorian Blanchard - Mémoire de fin d'études : Rendu du 7 novembre 2023
 
 
+Dorian Blanchard
+
+Mémoire de fin d'étude pour la validation du diplôme résultant de mon parcours en Administration des systèmes d'information à l'École Hexagone.
+
+ Rendu du 10 janvier 2024
+
+<div style="page-break-after: always;"></div>
 
 ## 1.1. Résumé
 
@@ -245,7 +251,7 @@ Cet ouvrage, conformément à son titre et aux recherches qu'il a nécessité, �
 
 ## 1.3. Préface
 
-Présentation de mon parcours et des gros projets sur lequels j'ai travaillé en tant qu'étudiant, ou professionnel.
+Présentation de mon parcours et des gros projets sur lesquels j'ai travaillé en tant qu'étudiant, ou professionnel.
 
 ## 1.4. Remerciements
 
@@ -287,6 +293,15 @@ Je m’intéresserai également à l'apprentissage qui représente l’acquisiti
 L'ensemble de ses sujets, et l'information en général, prennent une place de plus en plus importante dans nos quotidien, cela s'accompagne d'un volume exponentiel d'informations mondialement échangées. Nous avons développés une relation symbiotique avec la technologie, qui nous permet aujourd'hui de communiquer et de jouer presque instantanément au niveau mondial, améliorant même parfois les conditions de vie et la santé, on parle d'ailleurs désormais de télé-santé. Pour autant, comme toutes les technologies récentes ayant un impact majeur, vient un rejet et une techno-phobie d'une certaine partie de la population pas encore convertie à son usage.
 
 Avec mon point de vue de développeur web, je dresserai ensuite un [bilan de l’état actuel de l'informatique](#Pratiques-actuelles), de son marché, ses opportunités, ainsi qu'une étude de sa pratique moderne ; et ce afin d'en [identifier les problèmes](#Comprendre-la-problématique) que l'on y rencontre pour en dégager de possibles solutions, dressant ainsi un [essai](#Essai) philosophique expliquant ma projection en tant qu'acteur et éditeur de logiciels, pour [le futur de cette discipline](#EditIDE-ou-"Comment-repenser-la-gestion-de-l'information-pour-moderniser-l'expérience-développeur-?"), plus particulièrement la pratique que je souhaite en avoir en tant que créateur de services et contenu web.
+
+
+
+
+
+![Exemple d'illustration](D:\Textes\EditIDE\Histoire-et-Philosophie-de-la-Programmation\assets\bug_cost_fr.png)
+
+| Example d'illustration[^i1] |
+| :-------------------------: |
 
 
 
@@ -2596,8 +2611,15 @@ Je définit les mots que j'utilise dans le développement même du mémoire.
 
 #### 1.13.0.4. Table des illustrations
 
+
+
+[^i1]: Example d'illustration
+
+
+
 http://toastytech.com/guis
 
 
 
 #### 1.13.0.5. Page d’évaluation 
+

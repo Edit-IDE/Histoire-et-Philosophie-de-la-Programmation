@@ -193,6 +193,10 @@ tt {
 	*/
 }
 
+.md-fences {
+	font-size: 0.7em;
+}
+
 
 code,
 pre {

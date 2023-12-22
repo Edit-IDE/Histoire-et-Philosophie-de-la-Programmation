@@ -46,6 +46,8 @@ Je ne remercierai jamais assez mes parents et grand parents, qui ont eu la chanc
 
 Merci à toutes les personnes et enseignants des entreprises et écoles qui m'ont accueillis, lors de ma scolarité, et de mon début de carrière, me transmettant une majeure partie ce que je sais aujourd'hui, et ce dans la bienveillance, grâce à des processus itératifs d'amélioration continue.
 
+Merci tout particulièrement à l'Ecole Hexagone et à ABGX sans lesquels je n'aurais sans doute pas pris le temps d'écrire ce mémoire et donc ni découvert toutes les informations qu'il contient ni affuter mon esprit, ma volonté, détermination et rigueur.
+
 Merci aux logiciels libres, à l'open source, à Wikipédia et tout leurs contributeurs.
 
 Merci à toutes et tous, car nos métiers et découvertes ne sont que rarement le fruit d'un génie isolé, mais bien d'une collaboration et de l'amélioration d'idées antérieures.
@@ -65,8 +67,8 @@ Moi même n'ayant pas cette connaissance lorsque j'ai entrepris la rédaction de
 Pour la rédaction de ce dernier, j'ai acquis 4 livres venant compléter mes recherches internet : 
 
 - la 4<sup>ème</sup> édition de "*Computer, A History of the Information Machine*" de Martin Campbell-Kelly, professeur émérite britannique, spécialisé dans l'histoire de l'informatique. Coécrite avec William F.Aspray, Jeffrey R. Yost, Honghong Tinn, et Gerardo Con Diaz.
-- "*The history of the computer : people, inventions, and technology that changed our world*" de Rachel Ignotofsky
-- "*Histoire illustrée de l'informatique*" d'Emmanuel Lazard et Pierre Mounier-Kuhn.
+- "*The history of the computer : people, inventions, and technology that changed our world*" de Rachel Ignotofsky, illustratrice et autrice de livres à succès sur la participation des femmes dans les sciences.
+- "*Histoire illustrée de l'informatique*" d'Emmanuel Lazard et Pierre Mounier-Kuhn, respectivement maître de conférence à l'Université Paris Dauphine et historien chercheur au CNRS et à l'université Paris-Sorbonne.
 - "*Transmettre*" de Christophe André, Céline Alvarez, Catherine Gueguen, Matthieu Ricard, Frédéric Lenoir, Ilios Kotsou, Caroline Lesire
 
 Les trois premiers livres ont chacun leurs avantages grâce à une approche différente d'un même sujet, sur lequel je m'attendais à trouver plus de bibliographie. Contrairement à ceux-ci, j'ai essayé d'avoir une démarche plus globale que l'informatique et l'ordinateur, qui sont des concepts très récent. Et ce en abordant le thème général qu'est l'information, tout en y ajoutant de la philosophie, ainsi que mon humble analyse subjective car j'aime penser, et que l'apprentissage des mathématiques et de l'informatique ont changé ma manière de concevoir le monde dans lequel nous vivons. Ce sont selon moi des philosophies à part entière, apportant des syntaxes et un vocabulaire, nécessitant un apprentissage constant de schémas de pensés dignes d'un logicien.
@@ -1250,7 +1252,9 @@ Inspiré par le memex décrit par Vannevar Bush, Ivan Edward Sutherland invente 
 
 Ce laboratoire d'études travailla sur les premières interfaces graphiques et éditeurs permettant de modifier un document directement depuis son rendu visuel, on appelle ceci la technologie "What You See Is What You Get" ou WYSYWYG. Le premier logiciel à implémenter cette technologie et permettre le repositionnement du curseur et la sélection de texte à l'aide d'une souris est l'éditeur de documents Xerox Bravo sorti en 1974, peu après l'ordinateur Xerox Alto, qui a été révélé le 1er Mars 1973. Cet ordinateur est le premier à fournir une interface graphique, et ainsi ne plus être dépendant de la ligne de commande. Il introduira également les métaphores de bureau, documents, classeurs, et corbeille, familiers à tout employé de bureau. L'ensemble interface graphique et pointeur favorisa grandement l'adoption et la démocratisation des ordinateurs, cela deviendra un standard omniprésent dans nos interactions avec machine.
 
-Alan Kay à dirigé le développement de Smalltalk, créé en 1972 au Xerox Parc, c'est un langage de programmation objet et surtout le premier à avoir un environnement de développement complétement graphique indépendant de la ligne de commande ou d'un éditeur de texte. Il fut intégré au Xerox DoRADO, héritié du Xerox Alto, avec pour objectif d'être un système bien plus performant. Plus tard, en 1996, Smalltalk deviendra Squeak encore disponible et utilisé aujourd'hui. Squeak est inspiré de Logo, qui est à la fois une famille de langages de programmation et une philosophie de l'éducation. C'est le résultats de travaux sur le cognitivisme promu par Marvin Minsky et les travaux sur l'éducation de Jean Piaget promus par Seymour Pagert.
+Alan Kay à dirigé le développement de Smalltalk, créé en 1972 au Xerox Parc, c'est un langage de programmation objet et surtout le premier à avoir un environnement de développement complétement graphique indépendant de la ligne de commande ou d'un éditeur de texte. Il fut intégré au Xerox DoRADO, héritié du Xerox Alto, avec pour objectif d'être un système bien plus performant. Plus tard, en 1996, Smalltalk deviendra Squeak encore disponible et utilisé aujourd'hui. Squeak est inspiré de Logo, qui est à la fois une famille de langages de programmation et une philosophie de l'éducation. C'est le résultats de travaux sur le cognitivisme promu par Marvin Minsky et les travaux sur l'éducation de Jean Piaget promus par Seymour Pagert. Son succésseur est Pharo, il est utilisé par des universités pour apprendre la programmation orientée objet, sa syntaxe est simple et efficace.
+
+https://pharo.org/web/
 
 
 
@@ -1379,11 +1383,11 @@ En **1998** IBM créé le premier ordinateur quantique sur les travaux de Rolf L
 
 J'ai pu remarquer à travers l'Histoire que les inventions de savants et créateurs ne sortent que rarement de nulle part. Leurs origines proviennent souvent de (re)découvertes des principes existants, qu'ils compilent et les réutilisent à leur manières, améliorant les idées de leurs prédécesseur et réalisant de meilleurs outils à force d'itérations innovantes. Des inventions comme le Radar ou la pile de Volta trouvent leur inspiration dans des observations de la nature, notamment des animaux avec les chauves souris qui se guident à l'aide de l'écholocalisation, ou les anguilles électriques capable de produire des courants allant jusqu'à 860V et 2A. Les personnes pionnières dans leur domaine sont généralement suivies par foule de passionnés car les idées naissent d'une combinaison d'autres déjà existantes dans le contexte mondial à un moment donné. Il est en effet impossible de savoir qui à eu l'idée d'une chose pour la première fois, on ne retiendra naturellement que la première personne à avoir populariser le terme ou l'idée, parfois à travers la commercialisation d'un produit, d'autre fois grâce à une publication scientifique ou au dépôt d'un brevet. Certaines informations plus ésotériques ne se transmettrons que par la parole, conservant ainsi un secret relatif.
 
-Les découvertes ne sont pas toujours l'œuvre de savants ou de personnes renommés. En 2023, de simples utilisateurs d'application mobile découvriront ce que les mathématiciens recherchent depuis des siècles. Ça a été le cas du problème einstein essayant de trouver une forme dite d'*ein stein* (une tuile en allemand), que les chercheurs ne pensaient pas possible jusque là. En réalité elle est très simple et peut se construire en découpant trois hexagone liés en suivant les médiatrice de leurs côtés. Cette dernière ressemble à un t-shirt ou un chapeau et permet de réaliser un pavage apériodique à tuile unique c'est à dire de recouvrir une surface plane par un emboîtement de copies de cette forme, sans qu'elle ne se répète à l'identique comme les carreaux d'une grille. Pour ce faire il faut parfois avoir recours à une tuile inversé, problème qui a été réglé avec la découverte d'une autre forme, le spectre.
+Les découvertes ne sont pas toujours l'œuvre de savants ou de personnes renommés. En 2023, de simples utilisateurs d'application mobile découvriront ce que les mathématiciens recherchent depuis des siècles. Ça a été le cas du problème einstein essayant de trouver une forme géométrique unique dite d'*ein stein* (une tuile en allemand), que les chercheurs ne pensaient pas possible jusque là. En réalité elle est très simple et peut se construire en découpant trois hexagone liés en suivant les médiatrice de leurs côtés. Cette dernière ressemble à un t-shirt ou un chapeau et permet de réaliser un pavage apériodique à tuile unique c'est à dire de recouvrir une surface plane par un emboîtement de copies de cette forme, sans qu'elle ne se répète à l'identique comme les carreaux d'une grille. Pour ce faire il faut parfois avoir recours à une tuile inversé, problème qui a été réglé avec la découverte d'une autre forme, le spectre.
 
 
 
-Bien que les prémices de la gestion de l'information automatisée viennent de l'Époque moderne, au 17 ème siècle, période avec un besoin grandissant de calcul ; l'informatique naquit après la révolution industrielle, au 19&nbsp;ème siècle lors de l'Époque contemporaine, et ne commence à réellement émerger qu'après la seconde guerre mondiale qui marque le début d'une nouvelle ère de progrès technologiques, accompagnée d'une forte augmentation de la démographie mondiale causée par le baby boom. Les machines à calculer ne datent pas d'aujourd'hui, le premier programme quand à lui à été imaginé en 1842, pour autant, il faudra attendre 1950 pour voir apparaître l'assembleur et les premiers langages de haut niveau. 
+Bien que les prémices de la gestion de l'information automatisée viennent du 17<sup>ème</sup> siècle lors de l'Époque moderne, période avec un besoin grandissant de calcul ; l'informatique naquit après la révolution industrielle, au 19&nbsp;ème siècle lors de l'Époque contemporaine, et ne commence à réellement émerger qu'après la seconde guerre mondiale qui marque le début d'une nouvelle ère de progrès technologiques, accompagnée d'une forte augmentation de la démographie mondiale causée par le baby boom. Les machines à calculer ne datent pas d'aujourd'hui, le premier programme quand à lui à été imaginé en 1842, pour autant, il faudra attendre 1950 pour voir apparaître l'assembleur et les premiers langages de haut niveau. 
 
 L'informatique moderne comme toutes les technologies, a d'abord exploré les possibilités en créant de multiples outils et techniques, puis sa démocratisation a nécessiter une standardisation. Des consensus se sont alors formés, ils ont établit des normes, simplifier et harmoniser les outils et techniques en les rendant universels. C'est le cas du web avec le W3C et HTML, CSS et JS, ou des protocoles réseaux comme TCP/IP, HTTP, et j'en passe. Tous établissent des bases communes à suivre pour établir des systèmes de communications sécurisés.
 
@@ -1773,7 +1777,9 @@ Ces puissances peuvent représenter des paliers symboliques pouvant représenter
 
 En informatique la composition décrit le fait que dans chaque boite, on peut avoir une autre boite, c'est l'idée abstraite de la poupée russe poussée à l'infini. Je pense que ce grand tout, suis une logique de composition. On peut le voir à différentes granularité et plus il est grand plus sa vie est longue. Certains principes sont similaires quelque soit l'ordre de grandeur, d'autres, sont propres à certains. Lorsque l'on fait face à un problème informationnel, il convient de définir son périmètre, pour analyser et gérer précisément la zone voulue. L'informatique nous permet désormais d'avoir une interface pour naviguer précisément dans une simulation réaliste et visualiser ses ordres de grandeur. [c4model](https://c4model.com/)
 
-Loi de Moore, Volume de donnée internet ou chat gpt, probabilités sachant que. le big deal Théorie du chaos et contextes intriqués, un grand tout.
+L'industrie informatique est toujours régit par la Loi de Moore qui veux que l'on ai matériellement 2 fois plus de transistors par unité de surface. Il se peut que cette loi finisse par faire fasse à un mur, un palier, ou toute contrainte, qu'elle soit physique ou économique, bloque la progression et la capacité de l'industrie des semi-conducteurs à la source matérielle de l'informatique. Le volume de donnée est également passé au crible et il s'avère que notre capacité à stocker l'information générée par nos actions informatique sur internet est moindre.
+
+Probabilités sachant que. le big deal Théorie du chaos et contextes intriqués, un grand tout.
 
 
 
@@ -1891,24 +1897,6 @@ On sait aujourd'hui que les bactéries qui nous aident à digérer les aliments 
 
 
 
-
-
-### Astrologie
-
-Oui le mois de naissance influe sur votre vie, mais cela n'a rien à voir avec des constellations à des années lumières, mais au soleil, qui est à la base même d'une révolution de la terre autour de lui, l'année elle même. En effet les maladies sont plus présentes en hiver et peuvent affecter le bébé lors de la gestation. Croire que la position des astres dans le ciels peuvent avoir une influence sur nous est scientifiquement ridicule, surtout sachant que l'on ne sait qu'il est au centre que relativement récemment et qu'encore aujourd'hui nous ne pouvons qu'approximer les distances entre les astres.
-
-https://www.youtube.com/watch?v=AwCq4PwCnQE
-
-### Divin
-
-Je suis agnostique, je ne sais des Dieux s'ils sont ou pas. Je pense que l'entité qui à créé l'univers et celle qui pourrait être omnisciente ne sont pas forcement la même entité. Pour autant, je pense que le divin est omniprésent, chaque bonne action, chaque amélioration à du divin en elle. Le bien est universel, on ne doit pas faire à son prochain, ce que l'on aimerai pas qu'il nous fasse. On doit demander pardon et s'excuser pour nos erreurs. Remercier chaque personne qui nous rends biens et services. Ces morales également transmises par les textes sacrés devraient être là pour nous inspirer le bien, par pour être utilisé fanatiquement dans le but d'exposer sa vérité quelle qu'elle soit. Les sages antiques nous ont transmis la raison et la tempérance. Les philosophes modernes quand à eux, l'absence de jugement et le fait qu'il faille parfois limiter son savoir pour laisser une place à la croyance et comprendre la manière de penser des gens. Pour autant à cette période, dans le but de ce rapprocher de la vérité, les sciences prévalent sur la religion, et s'en est ainsi depuis le siècle des lumière. Science et religion ne sont pas incompatibles pour autant, bien au contraire. Le divin réside dans notre attribution de se qui est juste ou mauvais en fonction de notre système de croyance. Malgré mon manque manifeste de rigueur, j'aspire à consciencieusement suivre la science et sa logique qui nous rapproche le plus purement de l'information véritable, factuelle, démontrable par expérimentation. Depuis toujours, dans le but de se rapprocher du divin, l'humanité améliore continuellement les conditions de leurs descendants, et ce avec l'environnement et tout aléas qu'on ne peut encore y contrôler. Pour autant, on doit juger sur le pari pas le résultat, pour accéder à la raison et au savoir, le hasard doit être limité. Selon moi la vraie question à se poser face à une information douteuse serait "Est ce que c'est scientifiquement démontrable ?" Celle a se poser vis à vis d'une croyance serait quant à elle : "What if ?" autrement dit : "Que se passerai t'il si je me mettais à croire ça ?".
-
-> "It was there noticed that the action of thought is excited by the irritation of doubt, and ceases when belief is attained; so that the production of belief is the sole function of thought."
->
-> Charles S. Peirce - *How to make Ideas clear*
-
-
-
 ### Effets des croyances
 
 Une prophétie autoréalisatrice est une croyance personnelle ou une attente d'autrui qui influence positivement ou négativement nos réactions futures, ces deux effets sont appelés respectivement Pygmalion, et Golem en hommage à la mythologie grecque et juive.
@@ -1925,7 +1913,45 @@ De manière générale, nos attentes conditionnent nos réactions.
 
 Parmi les gens qui n'ont pas peur de la mort on retrouve ceux qui croient en la réincarnation, ou certains qui aurait consommer de la DMT, cette drogue libérée par le cerveau lors de la mort comme un dernier petit plaisir accordé par la biologie.
 
+Pour autant croire en quelque chose d'absurdement faux ne le rends pas plus vrai pour autant.
 
+### Astrologie
+
+Oui le mois de naissance influe sur votre vie, mais cela n'a rien à voir avec des constellations à des années lumières, mais au soleil, qui est à la base même d'une révolution de la terre autour de lui, l'année elle même. En effet les maladies sont plus présentes en hiver et peuvent affecter le bébé lors de la gestation. Croire que la position des astres dans le ciels peuvent avoir une influence sur nous est scientifiquement ridicule, surtout sachant que l'on ne sait qu'il est au centre que relativement récemment et qu'encore aujourd'hui nous ne pouvons qu'approximer les distances entre les astres. Chacun croit ce qu'il veut et peut même ne pas être sur de l'existence d'une chose mais le souhaiter et le prier pour autant.
+
+https://www.youtube.com/watch?v=AwCq4PwCnQE
+
+### Divin
+
+Je suis agnostique, je ne sais des Dieux s'ils sont ou pas. Je pense que l'entité qui à créé l'univers et celle qui pourrait être omnisciente ne sont pas forcement la même entité. Pour autant, je pense que le divin est omniprésent, chaque bonne action, chaque amélioration à du divin en elle. Le bien est universel, on ne doit pas faire à son prochain, ce que l'on aimerai pas qu'il nous fasse. On doit demander pardon et s'excuser pour nos erreurs. Remercier chaque personne qui nous rends biens et services. Ces morales également transmises par les textes sacrés devraient être là pour nous inspirer le bien, par pour être utilisé fanatiquement dans le but d'exposer sa vérité quelle qu'elle soit. Les sages antiques nous ont transmis la raison et la tempérance. Les philosophes modernes quand à eux, l'absence de jugement et le fait qu'il faille parfois limiter son savoir pour laisser une place à la croyance et comprendre la manière de penser des gens. Pour autant à cette période, dans le but de ce rapprocher de la vérité, les sciences prévalent sur la religion, et s'en est ainsi depuis le siècle des lumière. Science et religion ne sont pas incompatibles pour autant, bien au contraire. Le divin réside dans notre attribution de se qui est juste ou mauvais en fonction de notre système de croyance. Malgré mon manque manifeste de rigueur, j'aspire à consciencieusement suivre la science et sa logique qui nous rapproche le plus purement de l'information véritable, factuelle, démontrable par expérimentation. Depuis toujours, dans le but de se rapprocher du divin, l'humanité améliore continuellement les conditions de leurs descendants, et ce avec l'environnement et tout aléas qu'on ne peut encore y contrôler. Pour autant, on doit juger sur le pari pas le résultat, pour accéder à la raison et au savoir, le hasard doit être limité. Selon moi la vraie question à se poser face à une information douteuse serait "Est ce que c'est scientifiquement démontrable ?" Celle a se poser vis à vis d'une croyance serait quant à elle : "What if ?" autrement dit : "Que se passerai t'il si je me mettais à croire ça ?".
+
+> "It was there noticed that the action of thought is excited by the irritation of doubt, and ceases when belief is attained; so that the production of belief is the sole function of thought."
+>
+> Charles S. Peirce - *How to make Ideas clear*
+
+
+
+Ce rapport a la croyance permet **l'anticipation**. L'imagination nous permet de se projeter dans les différents scénarios possibles, si on commence a croire qu'une chose va se passer, on se demande alors : 'Qu'est ce qui arriverai probablement si cela se produit ?"
+
+example avec la compiltion rust qui empeche les top 10 des erreurs
+
+extrm prog
+
+Planning poker, reu tech, mais pas d'analyse commune -> rework et pair programming.
+
+
+
+Tout est **temps**, c'est l’écoulement des choses, l'itération des actions qui s'écrivent et se succèdent.
+
+
+
+L'humain est de plus en plus capable de comprendre ou restituer des faits **a posteriori**. Il est même en mesure de restaurer des informations que les experts pensaient perdue. Les technologies comme les rayons X, le Lidar sont très utilisés en archéologie afin de ne pas avoir a profaner des œuvres scellées. Plus récemment, il s'est avéré que les techniques de peinture des grand maîtres ont étés transmises par Léonard de Vinci qui expérimentait de nouvelles techniques de peintures comme l'application d'une première couche à base de plomb nommée Plombonacrite. Les intelligence artificielles ont également permis de déchiffrer des parties d'un manuscrit calciné lors du vesuvius challenge https://scrollprize.org/
+
+On a récemment 
+
+https://www.journaldugeek.com/2023/10/16/un-accelerateur-de-particules-revele-un-nouveau-secret-de-la-joconde/?utm_source=pocket-newtab-fr-fr
+
+https://pubs.acs.org/doi/10.1021/jacs.3c07000
 
 ### Intelligence
 
@@ -1971,29 +1997,7 @@ Percevoir la réalité c'est rêver de la réalité, notre conscience est limit�
 
 
 
-### Anticipation
 
-L'imagination nous permet de se projeter dans les différents scénarios possibles, si on commence a croire qu'une chose va se passer, on se demande alors : 'Qu'est ce qui arriverai probablement si cela se produit ?"
-
-example avec la compiltion rust qui empeche les top 10 des erreurs
-
-extrm prog
-
-Planning poker, reu tech, mais pas d'analyse commune -> rework et pair programming.
-
-### Temps 
-
-Tout est temps, c'est l’écoulement des choses, l'itération des actions qui s'écrivent et se succèdent.
-
-### A posteriori
-
-Restaurer l'information perdue, vesuvius challenge https://scrollprize.org/
-
-On a récemment avéré que les techniques de peinture des grand maîtres ont étés transmises par Léonard de Vinci qui expérimentait de nouvelles techniques de peintures comme une première couche à base de plomb nommée Plombonacrite
-
-https://www.journaldugeek.com/2023/10/16/un-accelerateur-de-particules-revele-un-nouveau-secret-de-la-joconde/?utm_source=pocket-newtab-fr-fr
-
-https://pubs.acs.org/doi/10.1021/jacs.3c07000
 
 ### Metagame
 
@@ -2023,7 +2027,7 @@ Les deux vont de pair, il ne sert à rien d'être dans la précipitation, on peu
 
 #### Rigueur et retravail
 
-Démarche itérative avec demande de feed-back à chaque changement, besoin de ne pas renvoyer la balle mais de demander conseil sur le moment si possible pour encore plus d'agilité. On m'a reprocher mon manque de rigueur, mais personne ne fait les choses correctement en amont de mon travail de technicien. Les cahiers des charges sont incomplets, le cahier des charges technique inexistant.
+Démarche itérative avec demande de feed-back à chaque changement, besoin de ne pas renvoyer la balle mais de demander conseil sur le moment si possible pour encore plus d'agilité. On m'a souvent reprocher mon manque de rigueur, mais dans le monde professionnel, la plupart du temps, personne ne fait les choses correctement en amont de mon travail de technicien. Les cahiers des charges sont incomplets, le cahier des charges technique est inexistant.
 
 Ce qui m'agace le plus dans la rédaction des tickets, au delà du manque d'information, c'est l'information incorrecte qui pousse à suivre le déroulement indiqué pour ne pas avoir la finalité problématique décrite. On se retrouve dans l'incapacité de reproduire le problème qui nous laisse penser qu'il n'y a potentiellement pas de problème.
 
@@ -2207,29 +2211,41 @@ Il suffit pour cela de trois composantes reparties dans trois fichiers, ou centr
         
         <!-- Script d'habillage CSS -->
         <style>
+            * {
+                box-sizing: border-box;
+                transition: all 0.5s ease-in-out;
+            }
+
             body {
                 height: 100vh;
                 display: flex;
                 justify-content: center;
                 align-items: center;
+                background-color: #FEFEFE;
             }
-            
-            .inverted h1{
-                transform: rotateZ(180);
+
+            body.inverted {
+                background-color: #333;
             }
             
             h1 {
                 font-family: 'Alice', serif;
-                font-size: 15vw;
+                font-size: min(15vw, 75vh);
                 transition: all 0.5 ease-in-out;
+                color: #333;
+                cursor: pointer;
+            }
+
+            .inverted h1{
+                color: #FEFEFE;
             }
         </style>
         <!-- Notez que j'aurais pu l'importer depuis un fichier avec un link ayant un href="/style.css" -->
     </head>
     <body>
-        <h1 id="text" onclick="animate()">Bonjour</h1>
+        <h1 id="text" onclick="invert()">Bonjour</h1>
         <script>
-            function animate() {
+            function invert() {
                 const { body } = document;
                 body.classList.toggle("inverted")
             }
@@ -2246,23 +2262,61 @@ Allez dans le panneau de configuration de votre box et vous ouvrez le port qui p
 
 ![](.\assets\freebox.png)
 
-##### Etape 3 : mettre un serveur en service
+##### Etape 3 : mettre un serveur HTTPS en service
 
-Télécharger NGINX,
+Téléchargez NGINX👉https://nginx.org/en/download.html
 
-👉https://nginx.org/en/download.html
+Téléchargez Certbot et suivre les instruction, dans mon cas pour NGINX et Windows : https://certbot.eff.org/instructions?ws=nginx&os=windows
+
+Une fois installé, je m'assure que mon serveur NGINX est à l'arrêt et je créer un certificat avec la commande `certbot certonly --standalone`, il ne me reste alors plus qu'a importer le certificat et la clé privée dans un bloc `server` de ma configuration NGINX et définir l'emplacement de ma page web à l'aide de la directive `root`.
+
+```nginx
+worker_processes  1;
+
+events {
+    worker_connections  1024;
+}
+
+http {
+    include       mime.types;
+    default_type  application/octet-stream;
+    sendfile        on;
+    keepalive_timeout  65;
+    
+    server {
+        listen       443 ssl;
+        server_name  blanchardorian.fr;
+
+        ssl_certificate C:/Certbot/live/blanchardorian.fr/fullchain.pem;
+        ssl_certificate_key   C:/Certbot/live/blanchardorian.fr/privkey.pem;
+
+        root    C:/Users/admin/Desktop/bonjour;
+
+        location / {
+            index 
+                p;
+        }
+    }
+}
+```
 
 
 
-##### Étape 4 : Configurer un nom de domaine (Facultative)
+##### Étape 4 : Configurer un nom de domaine
 
-Première possibilité, votre box possède une IP fixe ou une option pour qu'elle le soit. Si c'est 
+Première possibilité, votre box possède une IP fixe ou une option pour qu'elle le soit. Si c'est le cas alors il suffit d'aller sur le site où vous avez réservé votre nom de domaine et ajouter une entrée DNS de type A si vous avez une adresse IPv4 ou AAAA si votre adresse IP est en version 6. 
+
+![](./assets/DNS_record.png)
+
+Si votre IP est susceptible de changer, les hébergeurs proposent généralement des solution de DNS dynamique, le concept est simple, lorsque votre adresse IP change, votre serveur doit contacter le service DNS et lui communiquer sa nouvelle adresse IP, avant d'avoir une IP statique j'ai eu recours à ce genre de méthode en utilisant l'API d'Infomaniak. Vous pouvez retrouver mon code sur  https://github.com/hedocode/nodeInfomaniakDynamicDNS
 
 
 
 #### Lancement du site au démarrage
 
-Sur Windows il suffit de trouver le dossier Démarrage ou Startup, il est censé être situé au chemin `C://` mais la solution la plus facile pour y accéder est de faire `Windows + R` de taper `%startup%` et de valider. Vous pouvez ensuite épingler le dossier au menu d'accès rapide pour le retrouver plus facilement. Tout raccourci que vous mettez dedans sera exécuté au démarrage. Il ne manque donc plus qu'a réaliser un script avec la commande 
+Sur Windows il suffit de trouver le dossier Démarrage ou Startup, il est situé dans le dossier utilisateur, quelque part dans le fameux `AppData\Roaming` mais la solution la plus facile pour y accéder est de faire `Windows + R` de taper `shell:startup` et de valider. Vous pouvez ensuite épingler le dossier au menu d'accès rapide pour le retrouver plus facilement. Tout raccourci que vous mettez dedans sera exécuté au démarrage. Dans mon cas je lance automatiquement nginx et attends 90 secondes avant de lancer le script de démarrage de mon serveur node dans la fenêtre numéro 1. 
+
+![](./assets/startup.png)
 
 
 
@@ -2274,16 +2328,15 @@ Je suis l'heureux détenteur d'un ordinateur portable Asus Zenbook, il est très
 
 ### Comment architecturer un système d'information ?
 
-Maintenant que l'infrastructure réseau nécessaire est en place, je vais expliquer la structure de fichiers et de dossiers que j'utilise. A la racine d'un projet logiciel, on retrouve toute sortes d'outils, qu'il convient d'organiser et de séparer dans leurs dossiers respectifs. Pour EditIDE, j'ai fait le choix d'utiliser **Cypress** pour automatiser mes tests en ayant une interface WYSIWYG ne permettant malheureusement pas l'édition, bien que fournissant des outils de sélection des éléments du site web à tester. J'ai donc un dossier contenant toutes les informations qu'il lui faut pour simuler le comportement d'un utilisateur final. J'ai également choisit d'intégrer **Docker** pour m'assurer que si le système de la personne voulant installer le projet possède des incompatibilités, alors il peut l'exécuter dans un conteneur. Cela permet également de faciliter l'installation, le seul prérequis devenant alors Docker.
+Maintenant que l'infrastructure réseau nécessaire est en place, je vais expliquer la structure de fichiers et de dossiers que j'utilise. À la racine d'un projet logiciel, se trouve toute sortes d'outils, qu'il convient d'organiser et de séparer dans leurs dossiers respectifs. Pour EditIDE, j'ai fait le choix d'utiliser **Cypress** pour automatiser mes tests en ayant une interface WYSIWYG ne permettant malheureusement pas l'édition, bien que fournissant des outils de sélection des éléments du site web à tester. J'ai donc un dossier `cypress`contenant toutes les informations qu'il lui faut pour simuler le comportement d'un utilisateur final. J'ai également un dossier `docker` que j'ai implémenté pour m'assurer que si le système de la personne voulant installer le projet possède des incompatibilités, alors il peut l'exécuter dans un conteneur. Cela permet également de faciliter l'installation, le seul prérequis devenant alors Docker. EditIDE étant un projet JS, à sa racine se trouve logiquement le dossier `node_modules`. J'ai également les dossiers `documentation` et `usersData`, contenant respectivement les données que leurs nom indique. Comme sur tout mes périphériques de stockage, j'organise mon dossier `medias` en fonction du type de document, les quatre types principaux et donc sous-dossier étant **texte** (ou font / police d'écriture), **images**, **audio**, et **vidéo**. 
 
-Medias
+Enfin, le septième et dernier dossier a être situé à la racine est `code_source`, il est toujours explicite et contient le code du `model` de donnée constitué de classes et de schémas de validation JSON,  l'`admin_interface` décrivant la structure, le style et les interactions des pages webs. Comme j'utilise le cadriciel Fastify, je développe des plugins que je range dans le dossier `fastify-plugins` en attendant de les publier sur le gestionnaire de paquets NodeJS (npm) et pouvoir les installer comme dépendances. Pour finir, le dossier `server` représente le point d'entrée de mon application logicielle, les scripts qu'il contient permettent de lancer le serveur avec différents paramètres plugins, et configuration en fonction de l'environnement ou des tests automatisés.
 
-2SIG Interfaces
 
-1. Structure
-2. Style
-3. Interaction
-4. Gestion de la donnée
+
+Le découpage de mon application en plugin est cruciale, chacun contient son propre `model`, ses `services` et ses "handlers" ou "contrôleurs" qui définissent comment une requête  définis dans le fichier `plugin.js` à leur racine. 
+
+
 
 La donnée est la matière première d'un système d'information, sa collecte, son stockage à un emplacement géographique. Elle peut être à l'origine de bugs, si on attends une donnée numérique et que l'on a une donnée textuelle à la place, il faut gérer le cas, autrement il y a fort à parier que cela provoquerai un plantage car on ne peut pas additionner un nombre avec une cacahuète. Il convient de tester la robustesse de ses fonctionnalités en passant toute sorte de données de différant types et longueur sans jamais que le programme ne plante. Dans la réalité, on ne teste souvent que les cas qui marchent et le jour ou le format de donnée change, on corrige le plantage avec un patch tel une rustine sur une chambre à air sans prendre en compte les autres usures de cette dernière.
 
@@ -2291,11 +2344,11 @@ La donnée est la matière première d'un système d'information, sa collecte, s
 
 
 
-### Qu'elle est la plus-value d'EditIDE ?
+### Quelle est la plus-value d'EditIDE ?
 
-Web builders are bad.
+Il existe déjà de multiples éditeurs de site web WYSIWYG en ligne. En tant que développeur spécialisé affichage (front end), je n'y trouve pas mon compte. Ils génèrent des sites adaptatifs et pas responsifs, c'est à dire qu'ils s'adaptent à l'appareil et la taille d'écran initiale mais ne gère pas dynamiquement les changement de taille d'écran comme les rotations d'écrans ou encore, comme c'est de plus en plus le cas, les appareils pliables. La structure et le code de la page n'est pas facilement récupérable et personnalisable après coup.  
 
-![](./assets/wixux.png)
+![JeanneLePeillet.fr](./assets/wixux.png)
 
 
 
@@ -2396,7 +2449,7 @@ Vue macro, vu micro, questions individuelles précises, groupe permet d'avoir le
 
 ### Qu'elle sont les conditions de succès d'un logiciel ?
 
-facilité d'utilisation, utilité, satisfaction, l'utilisation de l'application doit dépasser les attentes et promesses faites en amont
+facilité d'utilisation, utilité, satisfaction, l'utilisation de l'application doit dépasser les désirs, attentes et promesses faites en amont. Le logiciel doit fournir à l'utilisateurs toutes les informations nécessaire à son auto-formation. Ce dernier doit pouvoir suivre son évolution et être récompensé pour sa progression.
 
 
 
@@ -2421,7 +2474,7 @@ Ma motivation est intrinsèque mais toute gratification supplémentaire est la b
 je ne me défini que par mon système de pensée, non pas par mon apparence corporelle qui me dégoute ni par mon expérience ou mes groupes sociaux
 
 
-A la manière de Platon, je n'ai rien inventé, les idées sont immuables et universelles, elles n'appartiennent à personne.
+A la manière de Platon, je n'ai rien inventé, les idées sont immuables et universelles, elles n'appartiennent à personne. Singe savant : https://libraryofbabel.info/bookmark.cgi?tdiscdstxldvqljko49
 
 
 
@@ -2489,13 +2542,14 @@ Encore merci à tous d'être l'individu que vous êtes. Tâchez d'être encore m
 
 Tant que j'y pense, voici une liste de projet qui me sont venus en tête lors de la rédaction de ce mémoire :
 
-- Faire un autocompléteur pour une langue parlée pour la rédaction écrite
-- editeur markdown prenant en compte les lang html
-- Il existe déjà des casque de VR permettant de visualiser les zones couvertes par le wifi, imaginez un casque multisensoriel visuel qui permette a laide d'onduloanalyse de voir les temperatures, les zones radioactiactives,
+- Faire un autocompléteur de langue naturelle pour la rédaction écrite.
+- Un Editeur Markdown prenant en compte les balises HTML `lang` 
+- Un enrouleur de câbles utilisant des techniques de couture.
+- Il existe déjà des casque de VR permettant de visualiser les zones couvertes par le wifi, imaginez un casque multisensoriel visuel qui permette a laide d'onduloanalyse de voir les températures, les zones radioactives,
 
 Si il y'a bien quelque chose que l'on ne peut comprendre qu'en étant seul, c'est bien qu'être adulte concomite avec faire tout les jours un peu plus attention au soi de demain.
 
-Puisque j'ai beaucoup travaillé sur l'écriture mémoire qui m'a tant appris, je finirai sur une citation de Célestin Freinet sur l'imprimerie et plus généralement sur l'écriture en tant qu'exercice pédagogique : 
+Puisque j'ai beaucoup travaillé sur l'écriture mémoire qui m'a tant appris, je finirai sur une citation de Célestin Freinet parlant de l'imprimerie et plus généralement de l'écriture en tant qu'exercice pédagogique : 
 
 > Dans la pratique, on ne se lasse jamais d’imprimer et les adultes se laissent prendre eux aussi à la minutie d’une technique qui permet la transcription en une forme magnifiée et définitive des textes auxquels on veut donner vie et harmonie. L’enfant qui compose un texte le sent naître sous sa main ; il lui donne une nouvelle vie, il le fait sien. Il n’y a désormais plus d’intermédiaire dans le processus qui conduit de la pensée ébauchée, puis exprimée, au journal qu’ils postent pour les correspondants : tous les échelons y sont : écriture, mise au point collective, composition, illustration, disposition sur la presse, encrage, tirage, groupage, agrafage. C’est justement cette continuité artisanale qui constitue l’essentiel de la portée pédagogique de l’imprimerie à l’école. Elle corrige ce qu’a d’irrationnel en éducation cette croyance que d’autres peuvent créer pour nous notre propre culture.
 > *Célestin Freinet, Le journal scolaire, 1967*
@@ -2522,7 +2576,13 @@ Mon œuvre peut être vendue avec mon accord mais elle est libre et sera toujour
 
 #### Bibliographie
 
-Transmette - Christophe André
+*Computer, A History of the Information Machine* - Martin Campbell-Kelly, William F.Aspray, Jeffrey R. Yost, Honghong Tinn, Gerardo Con Diaz.
+
+"*The history of the computer : people, inventions, and technology that changed our world*" - Rachel Ignotofsky
+
+*Histoire illustrée de l'informatique* - Emmanuel Lazard et Pierre Mounier-Kuhn
+
+*Transmettre* - Christophe André, Céline Alvarez, Catherine Gueguen, Matthieu Ricard, Frédéric Lenoir, Ilios Kotsou, Caroline Lesire
 
 
 
