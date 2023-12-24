@@ -149,7 +149,7 @@ Jusqu'alors, l'humain était un chasseur-cueilleur nomade, et contrairement à c
 
 Il y a presque 6000 ans de cela, en Mésopotamie, vers l'an **-3900**, étaient utilisées des sphères d'argile appelées bulles enveloppe, ou bulle comptable. Des calculs, du latin "calculus", signifiant petit cailloux, étaient stockés en son sein, pour en comptabiliser le contenu. La signature se faisait en déroulant un sceau-cylindre, orné de motifs représentant des dieux ou le pouvoir. Il servait à imprimer les motifs creusés dessus afin de pouvoir les imprimer sur de l'argile. Ce motif indiquait généralement le possesseur à la manière d'une signature. Certains étaient en matériaux plus ou moins précieux, et comportait parfois des écritures cunéiformes.
 
-Les Mésopotamiens avaient donc inventé un système permettant de garantir le transport et l'échange de marchandise par un transporteur, tout en garantissant des informations comme sa provenance et la quantité de marchandise. En effet, un destinataire pouvait ainsi faire confiance à un transporteur concernant la provenance, grâce à la signature ; et la quantité, en comparant le nombre de marchandises au nombre d'unités présente dans la bulle après l'avoir cassé. Si elle l'était avant sa livraison, alors celle ci pouvait alors être invalidée.
+Les Mésopotamiens avaient donc inventé un système de gestion de l'information permettant de garantir le transport et l'échange de marchandise par un transporteur, tout en garantissant des informations comme sa provenance et la quantité de marchandise. En effet, un destinataire pouvait ainsi faire confiance à un transporteur concernant la provenance, grâce à la signature ; et la quantité, en comparant le nombre de marchandises au nombre d'unités présente dans la bulle après l'avoir cassé. Si elle l'était avant sa livraison, alors celle ci pouvait alors être invalidée.
 
 
 
@@ -161,11 +161,11 @@ Marquée par l'invention la plus importante de notre histoire, en **-3250** dans
 
 #### Prémices de l'Algèbre
 
-Dès l’Antiquité, les égyptiens et les babyloniens avait déjà rédigés des textes comportant des problèmes, et des manières mathématiques pour les solutionner, tels que le Papyrus Rhind, qui explicite notamment des opérations comme la division, la multiplication.
+Dès l’Antiquité, les égyptiens et les babyloniens avait déjà rédigés des textes comportant des problèmes, et des manières mathématiques pour les solutionner, tels que le Papyrus Rhind, qui explicite notamment des opérations comme la division, la multiplication, et bien d'autres.
 
-L'algèbre babylonienne vers **-3000**, utilisait un système sexagésimal, potentiellement emprunté aux sumériens, de base 10 et 60. Encore utilisé de nos jours pour le temps, ou les angles, avec bien plus de distinctions d'opérations, que l'on peut aujourd'hui retrouver en programmation.
+L'algèbre babylonienne datée vers **-3000**, utilisait un système sexagésimal, potentiellement emprunté aux sumériens, de base 10, fondation du système décimal et 60, encore utilisée de nos jours pour le temps, ou les angles. Cet algèbre possédait plus de distinctions d'opérations que les simples additions, multiplications et divisions, certains concepts peuvent aujourd'hui se retrouver en programmation.
 
-- Deux pour l'addition :
+- Deux manières d'additionner :
   - L'empilement qui donne un troisième nombre à partir de deux autres. `a = b + c`
   - L'ajout par fusion d'un autre nombre, à un premier. `a += b` qui équivaut à l'empilement `a = a + b`
 - Idem pour la soustraction : 
@@ -217,19 +217,23 @@ Né vers l'an **-620**, Thalès fut un philosophe et mathématicien grec si impo
 
 Il est aussi l'un des fondateurs de astronomie, il travailla sur des éphémérides grâce auxquelles il a conseillé à des marins de se guider à l'aide de la petite ourse. Les tables de navigations encore utilisées de nos jours, et que les pionniers de l'informatique tenteront d'automatiser, trouvent donc leurs racines dans l'Antiquité, sûrement même avant Thalès.
 
-Par ailleurs, il est le premier à avoir découvert qu'une année, qui à l'époque était pensée comme une révolution du soleil autour la Terre, ne prenait pas 365 jours mais 365 jours et un quart, d'où les années bissextiles. Il est également le premier à avoir pris connaissance de l'électricité, grâce à l'ambre qui attire un tissu, ou les propriété d'aimantation de l'oxyde de fer ; ce qui lui vaut d’ailleurs d'être considéré comme le premier physicien. Enfin, il fonda l'école milésienne, qui inspirera les personnalités antiques qui suivent ce récit.
+Par ailleurs, il est le premier à avoir découvert qu'une année, qui à l'époque était pensée comme une révolution du soleil autour la Terre, ne prenait pas 365 jours mais 365 jours et un quart, d'où les années bissextiles. Il est également la première personne connue à avoir étudier l'électricité, grâce à l'ambre qui attire un tissu, ou les propriété d'aimantation de l'oxyde de fer ; ce qui lui vaut d’ailleurs d'être considéré comme le premier physicien. Enfin, il fonda l'école milésienne, qui inspirera les personnalités antiques qui suivent ce récit.
+
+[^1]: Les philosophes présocratiques: une histoire critique avec un choix de textes - Geoffrey Stephen Kirk, John Earle Raven, Malcolm Schofield, Dominic J. O'Meara - ISBN : 9782204052634
 
 
 
-##### Genèse de l'encryption
+##### Genèse du chiffrement
 
 Depuis longtemps, les humains ont eu besoin de communiquer des messages à de longues distances, sans qu'ils ne se fassent intercepter, et encore moins décoder et lus, voire pire, compris.
 
-Le plus ancien système d'encryption connu est la scytale spartiate vers **-600**. Utilisée pour transmettre des messages chiffrés par transposition sur un bande, généralement une ceinture en cuir portée pendant le transport, que l'on enroule autour d'un bâton pour l'écriture et la lecture. Le diamètre du bâton étant ainsi la clé d'encryption. Les lettres correspondait encore à leur propre valeur, et leur ordre dans le mot était conservé, malgré la présence de lettre entre chacune d’entre elles. Ces dernières étaient simplement mélangées, et l'enroulage permettait de les réaligner afin d'en permettre la lecture.
+Le plus ancien système de chiffrement connu est la scytale spartiate vers **-600**[^1]. Utilisée pour transmettre des messages chiffrés par transposition sur un bande, généralement une ceinture en cuir portée pendant le transport, que l'on enroule autour d'un bâton pour l'écriture et la lecture. Le diamètre du bâton étant ainsi la clé de chiffrement, deux bâtons de même diamètres pouvaient donc chiffrer et déchiffrer les mêmes messages. Les lettres correspondait encore à leur propre valeur, et leur ordre dans le mot était conservé, malgré la présence de lettre entre chacune d’entre elles. Ces dernières étaient simplement mélangées, et l'enroulage permettait de les réaligner afin d'en permettre la lecture.
 
-Quelques années avant Jésus Christ, Jules César encodait ses messages en utilisant un code éponyme. Cette encryption simple utilisait un décalage d'un certain nombre de lettres de l'alphabet. A vaut D, B vaut E, Z vaut C, etc...
+Quelques années avant Jésus Christ, Jules César encodait ses messages en utilisant un code éponyme. Ce chiffrement simple utilisait un décalage d'un certain nombre de lettres de l'alphabet. A vaut D, B vaut E, Z vaut C, etc...
 
-On remarque que l’encryption était dès le début utilisée pour transmettre des informations sensibles, notamment liés à la guerre. Cet outil a d'ailleurs été considéré comme arme de guerre jusqu’à récemment, où la plupart des techniques de cryptographies issues du domaine militaire sont devenues publiques. Malgré cela, encore aujourd'hui, les gouvernements appellent à retirer l'anonymat sur internet ou à avoir des portes dérobées dans les chiffrements afin d'en permette la lecture par une autorité en cas de besoin.
+On remarque que le chiffrement était dès le début utilisée pour transmettre des informations sensibles, notamment liés à la guerre. Cet outil a d'ailleurs été considéré comme arme de guerre jusqu’à récemment, où la plupart des techniques de cryptographies issues du domaine militaire sont devenues publiques. Malgré cela, encore aujourd'hui, les gouvernements appellent à retirer l'anonymat sur internet ou à avoir des portes dérobées dans les chiffrements afin d'en permette la lecture par une autorité en cas de besoin.
+
+[^1]: https://www.google.fr/books/edition/Les_vies_des_hommes_illustres/iYFZAAAAcAAJ?hl=fr&gbpv=1&pg=PA142&printsec=frontcover
 
 
 
@@ -930,47 +934,27 @@ https://www.w3.org/History/1945/vbush/vbush.txt
 
 ### Guerre froide
 
-La seconde guerre mondiale prends fin et c'est officiellement l'époque contemporaine pour les anglo-saxons. C'est l'avènement du nucléaire, de l'ère de l'informatique, mais aussi de la décolonisation et de la guerre froide. Les besoins de calculs sont plus importants que jamais, aéronefs, nucléaire militaire, civil, et gestion de l'énergie sont au cœur des réflexions et stratégies des pays du monde.
-
-L'arrivé du calcul et de la simulation informatique offrent un meilleur contrôle, ainsi qu'une prise de décision plus efficace, permettant de gérer de grandes structures, qu'elles soient civiles, militaires, ferroviaires, aériennes, ou autre.  
-
-De grands projets à forte complexité en découlent, elle amènent à un besoin de communication multimédia mondiale, pour que les gens puissent s'organiser et faire coopérer des spécialistes de tout les domaines concernés. Internet viendra résoudre ce problème à partir de 1970, amenant à la période de mondialisation intense que l'on vit encore actuellement en 2023.
+La seconde guerre mondiale prends fin et c'est officiellement l'époque contemporaine pour les anglo-saxons. C'est l'avènement du nucléaire, de l'ère de l'informatique, mais aussi de la décolonisation et de la guerre froide. Les besoins de calculs sont plus importants que jamais, aéronefs, nucléaire militaire, civil, et gestion de l'énergie sont au cœur des réflexions et stratégies des pays du monde. L'arrivé du calcul et de la simulation informatique offrent un meilleur contrôle, ainsi qu'une prise de décision plus efficace, permettant de gérer de grandes structures, qu'elles soient civiles, militaires, ferroviaires, aériennes, ou autre. De grands projets à forte complexité en découlent, elle amènent à un besoin de communication multimédia mondiale, pour que les gens puissent s'organiser et faire coopérer des spécialistes de tout les domaines concernés. Internet viendra résoudre ce problème à partir de 1970, amenant à la période de mondialisation intense que l'on vit encore actuellement en 2023.
 
 
 
 #### Genèse de l'informatique moderne
 
-Beaucoup d'ordinateurs ont été réalisés en **1945**, au crépuscule des deux guerres. Parmis eux, l'EDVAC, l'ENIAC, le SSEC succédant au ASCC, et le Z4. Von Neumann lors de ses travaux sur l'EDVAC, à décrit une architecture qui a permis au stockage de posséder les instructions du programme et la donnée à traiter sur le même support, permettant également aux instructions du programme d'être traités comme de la donnée, et donc de pouvoir être lu et réécrite. Cette architecture sera réutilisée par Alan Turing, Mauchly et Eckert pour l'ENIAC, ainsi que sur tout les ordinateurs à partir de cette date. 
+Beaucoup d'ordinateurs ont été réalisés en **1945**, au crépuscule des deux guerres. Parmi eux, l'EDVAC, l'ENIAC, le SSEC succédant au ASCC, et le Z4. Von Neumann lors de ses travaux sur l'EDVAC, à décrit une architecture qui a permis au stockage de posséder les instructions du programme et la donnée à traiter sur le même support, permettant également aux instructions du programme d'être traités comme de la donnée, et donc de pouvoir être lu et réécrite. Cette architecture sera réutilisée par Alan Turing, Mauchly et Eckert pour l'ENIAC, ainsi que sur tout les ordinateurs à partir de cette date. Même si il a été pensé par 2 hommes, l'ENIAC à été programmé par 6 femmes, qui ont documenter, coder et brancher des millions de câbles. Il a été réalisé à la Moore School de l'université de Pennsylvanie à partir de juin 1943. Des suites de la réalisation de l'ENIAC, Mauchly et Eckert formeront la Eckert-Mauchly Computer Corporation en 1946. Malheuresement, la mort de leur investisseur principal lors d'un trajet en avion les poussera à revendre leur entreprise à Remington par la suite. Elle sera ensuite racheté par Sperry Corporation après fusion avec la Burroughs Corporation en 1986, et deviendra Unisys, 100 ans après sa création en 1886.
 
-La mort de leur investisseur principal lors d'un trajet en avion les poussera à revendre leur entreprise à Remington par la suite.
 
-Remington Racheté par Sperry Corporation après fusion avec la Burroughs Corporation en 1986, deviendra Unisys, 100 ans après sa création en 1886
-
-Même si il a été pensé par 2 hommes, l'ENIAC à été programmé par 6 femmes, qui ont du documenter, coder et brancher des millions de cables, il a été réalisé à la Moore School de l'université de Pennsylvanie à partir de juin 1943
-
-Ils formeront la Eckert-Mauchly Computer Corporation en 1946
 
 Elisabeth Findler Jake, nom de domaines, whois nom de domaine (page jaunes) Alors que la silicon vallait est encore loin.
 
-Le tube de Williams-Kilburn, développé en 1946 ou 1947 par Frederic Calland Williams et Tom Kilburn, utilise les tubes cathodiques de Boris Rosing pour enregistrer des données binaires. La **Small-Scale Experimental Machine (SSEM)**, premier ordinateur à architecture de von Neumann les utilisait pour sa mémoire vive. Le test de cette nouvelle technologie sur la SSEM, aussi appelé Manchester Baby étant concluant en **1948**, la production d'un autre ordinateur à été lancé.
+Le tube de Williams-Kilburn, développé en 1946 ou 1947 par Frederic Calland Williams et Tom Kilburn, utilise les tubes cathodiques de Boris Rosing pour enregistrer des données binaires. La **Small-Scale Experimental Machine (SSEM)**, premier ordinateur à architecture de von Neumann, les utilisait pour sa mémoire vive. Le test de cette nouvelle technologie sur la SSEM, aussi appelé Manchester Baby étant concluant en **1948**, la production d'un autre ordinateur à été lancé. C'est ainsi que la réalisation du Manchester Mark I commence, pour voir le jour seulement un an après, en **1949**. Cette machine sera décrite comme un cerveau électronique par la presse, des neuro-scientifiques s'y intéressent rapidement, à une période ou naît la cybernétique.
 
-Manchester Mark I. En 1948 les travaux commencent pour voir le jour en **1949**, décrit comme un cerveau électronique par la presse, des neuro-scientifiques s'y intéressent rapidement, à une période ou naît la cybernétique.
-
-
-
-En **1947** par le mathématicien Norbert Wiener décrit la **cybernétique**, l'étude des mécanismes d'information des systèmes complexes et leur analogies entre les organismes vivants et les machines. Ils mettent en avant la rétroaction, et la téléologie très présente dans ce domaine. La cybernétique trouve son origine étymologique du grec kubernêtikê qui signifie gouverner dans le sens de diriger un navire. 
-
-L'une des premières machines pourvues de rétroaction est le régulateur à boules de James Watt en 1788 qui permettait de réguler la vitesse de rotation d'une vachine à vapeur.
+En effet, quelques années avant, plus précisément en **1947**, le mathématicien Norbert Wiener publie *La cybernétique*, il y introduit ce qui deviendra un domaine d'étude des mécanismes d'information des systèmes complexes et leur analogies entre les organismes vivants et les machines. Mettant notamment en avant la capacité d'un système de se réguler lui même, et les moyens mis en œuvre pour atteindre une finalité, soit respectivement la rétroaction, et la téléologie, deux notions aussi importantes que présentes dans ce domaine. La cybernétique trouve son origine étymologique du grec kubernêtikê qui signifie gouverner dans le sens de diriger un navire. L'une des premières machines pourvues de rétroaction est le régulateur à boules de James Watt en 1788 qui permettait de réguler la vitesse de rotation d'une machine à vapeur. Ce mouvement de pensée et la doctrine qui y est liée ralliera de nombreux scientifiques, penseurs et mathématicien, dont John Von Neumann. 
 
 https://fr.wikipedia.org/wiki/Auto-organisation
 
-Le mouvement cybernétique ralliera de nombreux mathématicien dont John Von Neumann.
 
 
-
-1948 Claude Shannon
-
-**Warren Weaver**, né le 17 juillet 1894 est principalement connu comme un des pionniers de la traduction automatique, il a également assister Shannon dans le développement de la **théorie de l'information**.
+**Warren Weaver**, né le 17 juillet 1894 est principalement connu comme un des pionniers de la traduction automatique, il a également assister Claude Shannon dans le développement de son article paru nommé *A Mathematical Theory of Communication* paru en **1948**. Il y introduit la théorie de l'information qui traite de comment coder l'information, si possible en la compressant voire la chiffrant en utilisant la cryptographie, et ce afin d'optimiser les transmissions d'informations au travers d'un moyen de communication, qu'il soit oral, téléphonique, électronique, ou autre. Son approche étant mathématique, il utilise beaucoup de notions de probabilité et d'incertitude, représentant tout ce qui pourrait interférer avec la transmission du message, ou encore les chances même que l'information qu'il véhicule soit véridique. C'est à partir de ce moment que l'on parlera de bits, contraction de **bi**nary digi**ts** ou nombre binaire en français. C'est l'unité de base de la science de l'information que l'on connait aujourd'hui sous le nom d'informatique.
 
 
 
@@ -1150,14 +1134,6 @@ Cet ordinateur avait pourtant bien des défauts, il ne supportait pas le temps p
 
 
 
-#### Périphériques de pointage
-
-Trackball 1946
-
-Inventée en **1963** par Douglas Engelbart, la souris ne sera présentée au public qu'en 1968. Cet informaticien réalisera également le système d'exploitation NLS, ses travaux serons financés par Joseph Carl Robnett Licklider qui financera également ARPANET
-
-
-
 #### Luciano Floridi 
 
 Luciano Floridi est né à Rome le 16 novembre **1964**, ce philosophe est l'un des plus important théoriciens de la Philosophie de l'information et de l'éthique de l'informatique. Il a fondé et dirige plusieurs groupes de recherche dans ces domaines.
@@ -1222,12 +1198,6 @@ Katherine_Johnson
 
 
 
-#### John Horton Conway
-
-https://www.youtube.com/watch?v=8DBhTXM_Br4
-
-Théorie des noeux, qui trouve des usages dans la créations de matérieux composites et l'analyse de l'ADN. 1937 il invente le jeu de la vie en **1970**, les règles sont très simple mais comme l'as dit Leonard de Vinci, la simplicité est l'ultime sophistication.
-
 
 
 
@@ -1242,13 +1212,19 @@ Jusqu'alors, l'informatique était essentiellement réservé aux domaines privé
 
 #### Genèse d'internet
 
-Arpanet et Cyclades **1969** et 1972 (Louis Pouzin)
+Un an après le lancement de Spoutnik, c'est en 1958 que le président américain de l'époque, Dwight David Eiseinhower, déclare le lancement d'un projet initialement nommé Advanced Research Projects Agency, soit ARPA ou DARPA après que le nom du projet ai été préfixé par le mot Defense. Le premier projet de cette agence fut de faire face aux besoins d'amélioration de la couverture et de la précision des réseaux de détection terrestres comme le radar, et de permettre à des sous-marins de la marine américaine de se géo-localiser précisément pour ainsi mieux calculer leurs tirs. La solution technique de ce projet du début des années 60 est un système de navigation par satellite nommé Transit, précurseur du projet NAVSTAR lancé en 1973 et opérationnel une vingtaine d'année plus tard, qui donnera finalement le système GPS, popularisé grâce à l'autorisation de libre diffusion de ses signaux par Bill Clinton en 2000, permettant un usage civil avec une précision à 10m près. Mais revenons en **1969**, année où le premier réseau informatique nommé ARPANET fit son apparition, notamment grâce à l'aide de scientifiques ayant travaillés sur le projet SAGE comme Joseph Licklider. Leur expérience sur le projet SAGE a apporté des connaissances en temps réel et partagé, ainsi qu'en interconnexions d'ordinateurs en réseau, permettant de mener à bien la réalisation de ce qui deviendra internet.
+
+Alors qu'elle travaille à l'institut de recherche de Stanford, Elisabeth Feinler est recrutée par Douglas Engelbart pour travailler un guide des ressources d'Arpanet en vue d'une conférence. En 1974, elle sera la principale instigatrice du Network Information Center (NIC), organisme de gestion du réseau informatique ARPANET. Le NIC sera à l'origine du système de nom de domaine (DNS), permettant de ne retenir qu'un mot comme `google.fr` qui sera traduit en adresse IP (`172.253.122.94`) ; ou encore du *WHOIS*, l'annuaire permettant de savoir à qui appartient un nom de domaine. Toujours en 1974 et pour les besoins d'ARPANET, Bob Kahn et Vinton Cerfs inventent le protocole TCP/IP pour palier au manque de gestion d'erreur du Network Control Protocol matériellement restreint aux premiers routeurs, les Interface Message Processor ou IMP. 
+
+Petit retour en 1971, le français Louis Pouzin, qui travaille alors à l'Institut Nationnal de Recherche en Informatique et en Automatique (INRIA), recrute Hubert Zimmermann pour développer le concept de paquet de données transmises sur un réseau, plus connu sous le nom de datagramme. Ce concept technologique a fortement contribuée au développement d'ARPANET. L'année d'après, en 1972 Louis Pouzin va commencer le développement de Cyclades, le premier réseau informatique Français. Quelques années après, l'ARPANET français sera abandonné au profit de Transpac, sorti en 1978. Année durant laquelle sera présenté le Minitel dont le réseau Télétel fera usage de Transpac, et qui verra également la finalisation du standard représentant les niveaux de communication réseau, j'ai nommé le modèle OSI de Charles Bachman, à qui on doit également les Systèmes de Gestion de Bases de Données (SGBD). Enfin, depuis sa création en 1980, la version 4 du protocole IP est le protocole standard, et ce malgré le fait que le nombre d'adresse IPv4 soit récemment arrivé à ses limites, auxquelles IPv6 pallie désormais grâce à une cohabitation des deux versions sur le réseau.
 
 
 
-#### Interfaces graphiques
 
-Inspiré par le memex décrit par Vannevar Bush, Ivan Edward Sutherland invente Sketchpad en 1963, il obtiendra à cet effet bien des honneurs et récompenses, dont un Turing Award en 1988. Cela inspirera à Douglas Engelbart la réalisation du oN-Line System (NLS), le premier système d'exploitation multi-utilisateur à utiliser la souris qu'il a lui même inventé, mais également les liens hypertextes, écrans à balayage et les interfaces graphiques et leurs fenêtres. Ce projet finira par être abandonné à cause de sa difficulté d'apprentissage, beaucoup de personnes ayant travaillé sur le projet décident alors d'aller travailler pour Xerox, qui en 1970, met en place le Palo Alto Research Center, plus connu sous le nom de Xerox Parc.
+
+#### Interfaces graphiques et périphériques de pointage
+
+Inspiré par le memex décrit par Vannevar Bush, Ivan Sutherland invente un logiciel d'édition d'images vectorielles pour la présentation de sa thèse de doctorat au MIT en 1963. L'écran affichait directement les formes dessinées par l'utilisateur à l'aide d'un crayon optique. Pour l'époque, le fait d'avoir une interface graphique et de pouvoir dessiner directement dessus en ayant le rendu en temps réel était une prouesse technique révolutionnaire. Il appellera son œuvre Sketchpad et obtiendra à cet effet bien des honneurs et récompenses, dont un Turing Award en 1988. Cela inspirera à Douglas Engelbart la réalisation du oN-Line System (NLS), le premier système d'exploitation multi-utilisateur à utiliser la souris qu'il a lui même inventé en 1963, mais également les liens hypertextes, écrans à balayage, les interfaces graphiques et leurs fenêtres. Ce projet sera présenté vers la fin de l'année 1968 lors d'une conférence de 90 minutes que l'on retiendra comme la "Mère de toutes les démonstration" (Mother of all demos), mais il sera rapidement abandonné à cause de sa difficulté d'apprentissage, beaucoup de personnes ayant travaillé sur le projet décident alors d'aller travailler pour Xerox, qui en 1970, met en place le Palo Alto Research Center, plus connu sous le nom de Xerox Parc.
 
 Ce laboratoire d'études travailla sur les premières interfaces graphiques et éditeurs permettant de modifier un document directement depuis son rendu visuel, on appelle ceci la technologie "What You See Is What You Get" ou WYSYWYG. Le premier logiciel à implémenter cette technologie et permettre le repositionnement du curseur et la sélection de texte à l'aide d'une souris est l'éditeur de documents Xerox Bravo sorti en 1974, peu après l'ordinateur Xerox Alto, qui a été révélé le 1er Mars 1973. Cet ordinateur est le premier à fournir une interface graphique, et ainsi ne plus être dépendant de la ligne de commande. Il introduira également les métaphores de bureau, documents, classeurs, et corbeille, familiers à tout employé de bureau. L'ensemble interface graphique et pointeur favorisa grandement l'adoption et la démocratisation des ordinateurs, cela deviendra un standard omniprésent dans nos interactions avec machine.
 
@@ -1260,48 +1236,23 @@ https://pharo.org/web/
 
 
 
-#### Ordinateurs personnels
+#### Ordinateurs personnels et jeux
 
-- Programma 101 1965
-
-- #### *Amstrad* **1968**
-
-- HP
-
-- *Altair 8800* 1975
-
-- Commodore PET 1977
-
-- Apple II 1977
-
-Présenté en 1978 mais sorti en **1980**, le Minitel est un ordinateur connecté à un réseau et donc appelé Terminal. Il utilisait le réseau Transpac pour faire tourner le sien, "Télétel" auquel il se connectait à l'aide d'un modem. Il possédait une mémoire de 8,25 ko, et un processeur Intel 8052
-
-- *Osborne 1* **1981**
-- Xerox Star **1981** premier ordinateur commercial avec une interface utilisateur graphique [^1]
-- *IBM PC 5150* **1981**
-- *Macintoch 128K* Sorti en **1984**, avec des icônes en skeuomorphisme 
+L'usage des ordinateurs devenant plus accessible au grand public, le marché à commencer à produire des ordinateurs dédiés au grand public, parmi eux, le Programma 101 de 1965, l'Amstrad en 1968, Altair 8800 en 1975, le Commodore PET en 1977, l'Apple II paru la même année ; le Minitel, dont j'ai parlé précédemment, l'Osborne 1, l'IBM PC 5150 et le et le Xerox Star[^1], tous disponibles aux tout début des années 1980. Ou encore le Macintoch 128K sorti quelques années après en **1984**, avec des icônes en skeuomorphisme, imitant des objets réels que l'ordinateur à remplacer en abstrayant leur fonctions, telle la disquette qui représenter une sauvegarde, ou la corbeille indiquant l'endroit où se retrouvent les fichiers qui vont être détruits.
 
 [^1]: http://toastytech.com/guis/star.html
 
+L'informatique devenant plus accessible et fun, des jeux vidéos ont fait leur apparition à la même période, les premiers furent essentiellement jeux simples comme le morpion, implémenté par le premier jeu vidéo connu datant de 1950, Bertie the Brain, permettant aux joueurs d'affronter "l'intelligence artificielle" pour la première fois. Il est rapidement suivi d'une implémentation du jeu de Nim qui consiste à partir de 20 unités pour que deux joueurs en retirent chacun leurs tours une, deux ou trois, jusqu'à ce que le joueur qui doive retirer la dernière unité ne perde. Suite à cela les deux premiers jeu vidéos multijoueur, Tennis for Two de 1958 qui inspirera par la suite Pong, et *Spacewar!* qui fut inventé en **1962** avant même les interfaces graphiques ou que l'ordinateur ne devienne grand public, et dont influence a également été retentissante.
+
+En 1970, John Horton Conway, célèbre mathématicien ayant travaillé sur la théorie des jeux, et des noeux[^noeud], invente un jeu pas comme les autres qu'il appella "jeu de la vie". C'est en réalité un automate cellulaire dont les règles sont très simples, il y a une grille constituée de cases blanches, et noires, si une case blanche à 3 cases noires voisines, elle deviendra elle même noire au tout d'après, si une case noire n'as pas 3 ou 4 cases noires voisines, elle meurt et devient blanche au tout d'après. Ces règles permettent des patterns inattendus qui n'étaient pas prévus initialement par son créateur. Mais comme Leonard de Vinci l'aurai déclaré : "La simplicité est l'ultime sophistication". À force de tests et d'itérations, on peut ainsi observer des structures stables, d'autres qui se déplacent, et bien d'autres. Les utilisateurs ont fini les utiliser pour recréer une machine de Turing à l'intérieur de ce jeu[^hoho], et même réimplémenter le jeu de la vie, dans le jeu de la vie.[^haha]
+
+[^hoho]: http://rendell-attic.org/gol/utm/index.htm
+[^haha]: https://oimo.io/works/life/
+[^noeud]: https://www.youtube.com/watch?v=8DBhTXM_Br4
+
+Enfin les bien connus Atari Pong en 1972, Pac man en 1980, ou Tetris en 1984 ont fait leur apparition aux prémices de l'industrie du jeu vidéo.
 
 
-#### Jeux vidéos
-
-- *Spacewar!* **1962**
-- Atari pong 1972
-- *Pac Man*  **1980**
-
-
-
-#### GPS
-
-**1973**
-
-
-
-#### Homebrew computer club
-
-1976 homebrew exhibits
 
 
 
@@ -1341,19 +1292,19 @@ Optical Storage Disc **1980**
 
 
 
+#### Logiciel libre, open source, et cadriciels 
 
+1976 homebrew computer club exhibits
 
-#### Logiciel libre
-
-Richard Stallman annonce le projet GNU le 27 Septembre **1983**, en 1985 il fonde le FSF, la Free Software Foundation. Où Free ne signifie par gratuit dans le sens de prix mais dans le sens de liberté. Le langage C est alors grandement utilisé. Il invente également en 1989 la licence GNU General Public Licence, plus connu sous le nom de GPL.
+Richard Stallman annonce le projet GNU le 27 Septembre **1983**, en 1985 il fonde le FSF, la Free Software Foundation. Où Free ne signifie pas (seulement) gratuit dans le sens de prix mais (également) dans le sens de liberté. Le langage C est alors grandement utilisé. Il invente également en 1989 la licence GNU General Public Licence, plus connu sous le nom de GPL.
 
 En 1987 Andrew S. Tanenbaum invente Minix un système d'exploitation UNIX avec une architecture 16 bit. Inspiré par Minix, Linus à donc créer **Linux en 1991**, avec un nouveau Kernel, lineage, sous licence GPL. Leur coopération donnera GNU/Linux qui est une suite embarquée d'éditeurs comme bash, emac, la GNU C Library et le compilateur GCC, et pleins d'autres.
 
 Aujourd'hui la grande majorité des entreprises utilisent du code Open Source dans leur business, certains utilisent même à tord des logiciels GPL sans savoir que cette licence est contaminante et peut faire que leur logiciel devrait légalement être libre de facto. D'autres licences permettent aux entreprises d'utiliser des librairies pour un usage commercial. Certains projets Open Sources comme Symfony ont donné naissances à multitudes de Business à commencer par le leur, SensioLabs, qui fournissent des conférences et formations payantes, et sponsorise certaines entreprises experts dans cette technologie.
 
+L'open source permet à tout le monde de vérifier que le code ne comporte pas de faille et éventuellement de le remonter aux développeurs si c'est le cas, voire de contribuer directement et proposer des solutions ou améliorations en tout genre. Cela permet également, sous réserve de respecter les licences, de modifier le logiciel pour en faire sa propre version.
 
-
-#### Cadriciels et Open Source
+Le logiciel libre, quand à lui est un pied de nez aux logiciels propriétaires
 
 CSS a permi de diversifier l'apparence des sites webs, les frameworks et themes comme Foundation ou bootstrap ont regénéraliser et harmoniser l'affichage des sites, réduisant la créativité au profit de l'accessibilitée. Tout cadre vient limiter la liberté, généralement pour le bien commun.
 
@@ -1375,23 +1326,19 @@ Ward Cunningam créa le premier wiki en 1995 il est encore disponible tel quel[^
 
 
 
-#### Ordinateur quantique
-
-En **1998** IBM créé le premier ordinateur quantique sur les travaux de Rolf Landauer
-
 ### Bilan passé
 
 J'ai pu remarquer à travers l'Histoire que les inventions de savants et créateurs ne sortent que rarement de nulle part. Leurs origines proviennent souvent de (re)découvertes des principes existants, qu'ils compilent et les réutilisent à leur manières, améliorant les idées de leurs prédécesseur et réalisant de meilleurs outils à force d'itérations innovantes. Des inventions comme le Radar ou la pile de Volta trouvent leur inspiration dans des observations de la nature, notamment des animaux avec les chauves souris qui se guident à l'aide de l'écholocalisation, ou les anguilles électriques capable de produire des courants allant jusqu'à 860V et 2A. Les personnes pionnières dans leur domaine sont généralement suivies par foule de passionnés car les idées naissent d'une combinaison d'autres déjà existantes dans le contexte mondial à un moment donné. Il est en effet impossible de savoir qui à eu l'idée d'une chose pour la première fois, on ne retiendra naturellement que la première personne à avoir populariser le terme ou l'idée, parfois à travers la commercialisation d'un produit, d'autre fois grâce à une publication scientifique ou au dépôt d'un brevet. Certaines informations plus ésotériques ne se transmettrons que par la parole, conservant ainsi un secret relatif.
 
-Les découvertes ne sont pas toujours l'œuvre de savants ou de personnes renommés. En 2023, de simples utilisateurs d'application mobile découvriront ce que les mathématiciens recherchent depuis des siècles. Ça a été le cas du problème einstein essayant de trouver une forme géométrique unique dite d'*ein stein* (une tuile en allemand), que les chercheurs ne pensaient pas possible jusque là. En réalité elle est très simple et peut se construire en découpant trois hexagone liés en suivant les médiatrice de leurs côtés. Cette dernière ressemble à un t-shirt ou un chapeau et permet de réaliser un pavage apériodique à tuile unique c'est à dire de recouvrir une surface plane par un emboîtement de copies de cette forme, sans qu'elle ne se répète à l'identique comme les carreaux d'une grille. Pour ce faire il faut parfois avoir recours à une tuile inversé, problème qui a été réglé avec la découverte d'une autre forme, le spectre.
+Les découvertes ne sont pas toujours l'œuvre de savants ou de personnes renommés. En 2023, de simples utilisateurs d'application mobile découvriront ce que les mathématiciens recherchent depuis des siècles. Ça a été le cas du problème einstein essayant de trouver une forme géométrique unique dite d'*ein stein* (une tuile en allemand), que les chercheurs ne pensaient pas possible jusque là. En réalité elle est très simple et peut se construire en découpant trois hexagones liés en suivant les médiatrice de leurs côtés. Cette dernière ressemble à un t-shirt ou un chapeau et permet de réaliser un pavage apériodique à tuile unique c'est à dire de recouvrir une surface plane par un emboîtement de copies de cette forme, sans qu'elle ne se répète à l'identique comme les carreaux d'une grille. Pour ce faire il faut parfois avoir recours à une tuile inversé, problème qui a été réglé avec la découverte d'une autre forme, le spectre.
 
-
+***Illustration de ces formes***
 
 Bien que les prémices de la gestion de l'information automatisée viennent du 17<sup>ème</sup> siècle lors de l'Époque moderne, période avec un besoin grandissant de calcul ; l'informatique naquit après la révolution industrielle, au 19&nbsp;ème siècle lors de l'Époque contemporaine, et ne commence à réellement émerger qu'après la seconde guerre mondiale qui marque le début d'une nouvelle ère de progrès technologiques, accompagnée d'une forte augmentation de la démographie mondiale causée par le baby boom. Les machines à calculer ne datent pas d'aujourd'hui, le premier programme quand à lui à été imaginé en 1842, pour autant, il faudra attendre 1950 pour voir apparaître l'assembleur et les premiers langages de haut niveau. 
 
 L'informatique moderne comme toutes les technologies, a d'abord exploré les possibilités en créant de multiples outils et techniques, puis sa démocratisation a nécessiter une standardisation. Des consensus se sont alors formés, ils ont établit des normes, simplifier et harmoniser les outils et techniques en les rendant universels. C'est le cas du web avec le W3C et HTML, CSS et JS, ou des protocoles réseaux comme TCP/IP, HTTP, et j'en passe. Tous établissent des bases communes à suivre pour établir des systèmes de communications sécurisés.
 
-Les recherches et compréhension récentes dans le domaine de la bio-informatique ou de la physique quantique ont permis d'imaginer une nouvelles manière de stocker de l'information dans de l'ADN ou dans des bits quantiques appelés qubits. La théorie des nœuds dont j'aurais aimé plus parler a trouvé des applications dans l'étude des protéines et plus généralement des molécules. Grâce à ces études, les scientifiques ont été capable d'inventer de nouvelles structures moléculaires plus solide que le kevlar. Ces nouvelles technologies ouvrent de nouveaux horizons, repoussant les limites du possible en solutionnant de multiples problèmes, nous permettant par la suite d'en trouver de nouveaux. Les systèmes de communication sont rapidement passés du télégraphe à l'appel téléphonique, jusqu'à l’avènement d'internet à la fin du siècle dernier. Cette mondialisation de l'information et son instantanéité nous permettent aujourd'hui de collaborer n'importe quand avec n'importe qui, où que l'on soit, d'avoir accès à des connaissances et de trouver réponse à nos questions.
+Les recherches et compréhension récentes dans le domaine de la bio-informatique ou de la physique quantique ont permis, sur les idées respectives de Richard Feynman et Rolf Landauer, de mettre en œuvre de nouvelles manière de stocker de l'information que ce soit dans de l'ADN, ou dans des bits quantiques appelés qubits. La théorie des nœuds dont j'aurais aimé plus parler a trouvé des applications dans l'étude des protéines et plus généralement des molécules. Grâce à ces études, les scientifiques ont été capable d'inventer de nouvelles structures moléculaires plus solide que le kevlar. Ces nouvelles technologies ouvrent de nouveaux horizons, repoussant les limites du possible en solutionnant de multiples problèmes, nous permettant par la suite d'en trouver de nouveaux. Les systèmes de communication sont rapidement passés du télégraphe à l'appel téléphonique, jusqu'à l’avènement d'internet à la fin du siècle dernier. Cette mondialisation de l'information et son instantanéité nous permettent aujourd'hui de collaborer n'importe quand avec n'importe qui, où que l'on soit, d'avoir accès à des connaissances et de trouver réponse à nos questions.
 
 [Retour](#Introduction)
 
@@ -1401,102 +1348,53 @@ L'informatique est désormais omniprésente, la terre est entourée de satellite
 
 [^1]: https://www.technologyreview.com/2023/02/14/1067869/rust-worlds-fastest-growing-programming-language/
 
-Pour le reste, la majorité des langages ont leur propres qualités notament grâce à leur communautés et aux outils qu'elles ont développés, le Python est toujours une référence pour le traitement de la donnée, et le JavaScript à standardiser la gestion des interactions utilisateurs et la dynamisation des interfaces graphiques.
+Pour le reste, la majorité des langages ont leur propres qualités notamment grâce à leur communautés et aux outils qu'elles ont développés, pour exemple, le Python est toujours une référence pour le traitement de la donnée, et le JavaScript a standardiser la gestion des interactions utilisateurs et la dynamisation des interfaces graphiques.
 
-Le matériel quand à lui à beaucoup évolué, les ordinateurs se sont petits à petit miniaturisés, devenant portables et mobiles, offrant même désormais des expériences immersives réalistes grâce aux casques de réalité virtuelles. Depuis les années 2000, l'automatisation et la robotiques immiscent dans notre quotidien et dans les ménages à travers la domotique. Robots aspirateurs, drones munis de caméras, voitures autonomes, nos outils du quotidien deviennent autonomes et réduisent notre charge de travail. Mais ce qui nous intéresse dans le cadre de ce mémoire, ce n'est pas la matériel mais l'information et la logique qui en émane. La population mondiale utilise de plus en plus les technologies de l'information et internet. C'est pourquoi la grande majorité des entreprises se modernisent et veulent avoir une gestion informationnelle fiable accompagnée d'une visibilité mondiale fournie par les réseaux informatiques.
-
-
+Le matériel quand à lui, a beaucoup évolué, les ordinateurs se sont petits à petit miniaturisés, devenant portables et mobiles, offrant même désormais des expériences immersives réalistes grâce aux casques de réalité virtuelles. Depuis les années 2000, l'automatisation et la robotiques s'immiscent dans notre quotidien et dans les ménages à travers la domotique. Robots aspirateurs, drones munis de caméras, voitures autonomes, nos outils de tout les jours deviennent autonomes et réduisent notre charge de travail. Mais ce qui nous intéresse dans le cadre de ce mémoire, ce n'est pas tant le matériel mais l'information et la logique qui en émane. La population mondiale utilise de plus en plus les technologies de l'information et internet. C'est pourquoi la grande majorité des entreprises se modernisent et veulent avoir une gestion informationnelle fiable accompagnée d'une visibilité mondiale fournie par les réseaux informatiques.
 
 https://fr.wikipedia.org/wiki/Th%C3%A9orie_g%C3%A9n%C3%A9rale_des_syst%C3%A8mes
 
 
 
-Les gens suivent l'autorité, la loi, mais la loi est parfois fausse, la seule loi qui doit être suivie est la science, la raison pure pouvant être prouvée.
+### Décisions et gestion de projet 
 
-En tant qu'animal humain on ne s'en porte pourtant que mieux de juste suivre les instructions et juste faire ce que l'on doit ou a envie de faire.
+Le management moderne à eu besoin de pouvoir former et guider efficacement ses employés et pour cela il à fallu trouver des outils et moyens mnémotechniques pour facilement analyser les facteurs influent sur l'activité d'une entreprise, une des plus ancienne est la carte heuristique plus connue sous le nom de carte mentale. Née de l'arbre de Porphyre, un philosophe néoplatonicien du 3è siècle, elle représente visuellement le cheminement de la pensée et l’interconnections des idées afin d'en extraire les toutes les informations importantes.
 
+Prendre une décision n'est pas chose aisée, il est parfois difficile de mesurer les tenants et aboutissants de nos choix. C'est pourquoi il est important de prendre du recul pour poser sur la table les différentes possibilités et acteurs de la situation. Beaucoup d'outils comme la carte mentale heuristique analysent d'abord un panel d'informations variés, parmi eux l'analyse Politique, Économique, Socioculturel, Technologique, Écologique, et Légal, nommée PESTEL permet de se poser des question sur les influences externes, et par la suite réaliser une analyse plus fine des parties prenantes. Elle peut également permettre de trouver des opportunités ou menaces à mettre dans une matrice multicritère ou dans un SWOT (Strenght Weakness Opportunity Threat).
 
+Une fois que l'on a analysé l'environnement du projet, ses avantages et inconvénients, internes et externes ; on peut être amenés à choisir entre plusieurs fournisseurs ou solutions, pour cela on peut appliquer la matrice multicritère. Chaque été, avec des amis, nous l'utilisons pour choisir dans quel AirBnb nous allons partir. Nous y renseignons une note pour le prix, l'emplacement géographique, la qualité du logement, etc... et obtenons un score moyen permettant de déterminer où nous partirons en vacances.
 
-### Méthodes d'aide à la structuration d'information 
+Après les décisions préliminaires, il est préférable de définir clairement le projet, s'il s'agit d'une entreprise, il convient de réaliser un plan d'affaire. Autrement, de manière générale, il est possible de réaliser une simple charte de projet. On y indique les dates de début et de fin, les principaux acteurs du projet et son nom, suivi de son périmètre et de ses objectifs. Un objectif est dit SMART s'il est **s**pécifique, **m**esurable, **a**tteignable, **r**éaliste et **t**emporel. Une fois que c'est fait, on peut déjà réaliser une planification grossière comportant les étapes clefs en réalisant une feuille de route ou roadmap en anglais. Il convient ensuite d'affiner cette planification en découpant les grandes parties d'un projet en petites tâches. Certaines dépendent d'autres et doivent par conséquent être réalisées à postériori. Hormis l'interdépendances des tâches, il est parfois compliqué de savoir quoi faire en premier parmi une grande liste de tâches. Pour les planifier et ordonnancer, la matrice d'Eisenhower est un outil élémentaire. Très proche des matrices de faisabilité et de priorisation, elle permet de classifier les tâches importantes et/ou urgentes, celles qui ne le sont pas, ainsi qu'à qui les confier.
 
-Le management moderne à eu besoin de pouvoir former et guider efficacement ses employés et pour cela il à fallu trouver des outils et moyens mnémotechniques pour facilement analyser les facteurs influent sur l'activité d'une entreprise, une des plus ancienne est la carte heuristique plus connue sous le nom de carte mentale. Née de l'arbre de porphyre, un philosophe néoplatonicien du 3è siècle, elle représente visuellement le cheminement de la pensée et l’interconnections des idées afin d'en extraire les toutes les informations importantes.
+Lorsque les prérequis ainsi que les conditions de réalisations des tâches et leurs priorités sont clarifiés, il est possible de définir un diagramme de GANTT pour les planifier précisément et visualiser leur déroulé attendu dans le temps sur un calendrier. Il ne reste plus qu'à suivre cette planification au mieux, bien que les estimations ne peuvent que rarement anticiper les risques imprévus. Si un problème apparaît lors de la réalisation d'une tâche, une méthode simple et efficace nommée "5 Why" indique que se poser 5 fois d'affilée la question "Pourquoi ?" permet généralement de trouver la source d'un problème. Dans le même genre nous avons également le diagramme d'Ishikawa qui permet de schématiser les différentes causes possible d'un événement ou effet. Inspiré des quatre causes d'Aristote, il est généralement construit en analysant les 5 M : Matière première constituante, Matériel utilisé, Méthode employée, Main-d’œuvre intervenant, et Milieu dans lequel l’événement apparaît.
 
-
-
-#### Décision
-
-Prendre une décision est n'est pas chose aisée, il est parfois difficile de mesurer les tenants et aboutissants de nos choix. C'est pourquoi il est important de prendre du recul pour poser sur la table les différentes possibilités et acteurs de la situation. Beaucoup d'outils comme la carte mentale heuristique analysent d'abord un panel d'informations variés, parmi eux l'analyse Politique, Économique, Socioculturel, Technologique, Écologique, et Légal, nommée PESTEL permet de se poser des question sur les influences externes, et par la suite réaliser une analyse plus fine des parties prenantes. Elle peut également permettre de trouver des éléments à mettre dans une matrice multicritère ou Strenght Weakness Opportunity Threat (SWOT).
-
-Une fois que l'on a analysé l'environnement du projet, ses avantages et inconvénient internes et externes, on peut être amenés à choisir entre plusieurs fournisseurs ou solutions, pour cela on peut appliquer la matrice multicritère. Chaque été, avec des amis, nous l'utilisons pour choisir dans quel AirBnb nous allons partir. Nous y renseignons une note pour le prix, l'emplacement géographique, la qualité du logement, etc... et obtenons un score moyen permettant de déterminer où nous partirons en vacances.
-
-Pour planifier et ordonnancer les tâches, la matrice d'Eisenhower est un outil élémentaire. Très proche des matrices de faisabilité et de priorisation, elle permet de classifier les tâches importantes et/ou urgentes, celles qui ne le sont pas, ainsi qu'à qui les confier.
-
-Si un problème apparaît lors de la réalisation d'une tâche, une méthode simple et efficace nommée "5 Why" indique que se poser 5 fois d'affillée la question "Pourquoi ?" permet généralement de trouver la source d'un problème. Dans le même genre nous avons également le diagramme d'Ishikawa qui permet de schématiser les différentes causes possible d'un événement ou effet. Inspiré des quatre causes d'Aristote, il est généralement construit en analysant les 5 M : Matière première constituante, Matériel utilisé, Méthode employée, Main-d’œuvre intervenant, et Milieu dans lequel l’événement apparaît.
-
-5S Supprimer, S'organiser, Scintiller, Standardiser, Suivre
-
-QQOQCCP est un acronyme résumant une méthode interrogative empirique qui trouve ses origines dans L'Éthique à Nicomaque d'Aristote[^1] Elle corresponds aux 7 questions fondamentales à se poser pour faire de tour d'une situation Quoi Quand Où Quand Comment Combien Pourquoi. Cela est très utilisé en journalisme pour découper l'information en priorité.
-
-Un objectif SMART doit être **s**pécifique, **m**esurable, **a**tteignable, **r**éaliste et **t**emporel.
+Ce n'est pas la seule méthode qui est inspirée d'Aristote, QQOQCCP est un acronyme compliqué résumant une méthode interrogative empirique simple qui trouve ses origines dans L'Éthique à Nicomaque.[^1] Elle corresponds aux 7 questions fondamentales à se poser pour faire de tour d'une situation  : Quoi Quand Où Quand Comment Combien Pourquoi. Cela est très utilisé en journalisme pour découper l'information en priorité.
 
 [^1]: Livre III, Chap. 2, fragment 1111a 2-20 - https://remacle.org/bloodwolf/philosophes/Aristote/nicom2.htm#II
 
-
-
-#### Gestion de projets 
-
-##### Roadmap
-
-###### Project charter
-
-###### GANTT
-
-###### Business Model
-
-###### Scrum
-
-
-
-
-
-#### Conception
-
-##### Design thinking
-
-##### Lean Startup
-
-##### MVP
-
-itération, stop de toute la chaine de production si problème pour éviter de contaminer le reste
-
-
+Il y a trois principales méthodologies de gestion et de réalisation de projet, la cascade (Waterfall), le cycle en V, et Scrum. Le modèle en cascade est très linéaire, on part d'un début pour arriver à une fin en passant par des étapes très définies. Le cycle en V fait correspondre les étapes préliminaires de définition du projet avec des étapes de tests et de validation qui ont lieu après l'implémentation. Scrum quand à lui est une méthode flexible plus appropriée aux projets complexes remplis d'imprévus. À la manière des autres méthodes, elle découpe le projet en différentes parties nommés "sprints", mais elle le fait tout au long du projet, et non pas de manière définitive à l'initialisation de ce dernier. Dans le cas de la réalisation d'un simple site web vitrine, le cycle en V est généralement la méthode utilisé, la complexité est moindre et un peut dérouler sa réalisation de manière linéaire, bien que l'on puisse théoriquement l'améliorer à postériori, c'est généralement comme un magazine, une fois qu'il est imprimé, on ne le modifie plus, ou peut éventuellement en faire une autre version quelques temps plus tard. Pour une application ou un logiciel, l'utilisation est plus dynamique, l'utilisateur à plus d'interactions possibles avec le produit et par conséquent plus d'envies, de demandes, de besoins, et de potentiellement de problèmes. C'est pourquoi la méthode Scrum est plus appropriée dans ce cas. On peut à toute étape du projet, recueillir les retours clients, définir un objectif, réfléchir aux manières d'y répondre, puis prototyper la meilleure solution retenue, pour enfin la tester. Ce processus est très proche du *design thinking*, cette méthode de création et de gestion de l'innovation permet de rapidement obtenir un produit minimal viable (MVP), sur lequel on peut par la suite itérer. Enfin, lors de ma lecture de Lean Startup, un concept de gestion de projet m'as particulièrement marqué. Lors de ces itérations, il convient arrêter toute la chaîne de production lors de l'apparition du moindre problème. Cela évite ainsi de contaminer la suite de la chaîne, et de propager une erreur jusqu'à l'étape finale de livraison.
 
 
 
 ### Usages et industrie du logiciel
 
-#### Aide à la décision
+Aujourd'hui le logiciel vient suppléer ces techniques de management. Le recueil et l'analyse de données permettent d'apporter une aide à la décision. La gestion des entreprises autrefois réalisée de têtes ou sur papiers avec de multiples dossiers est désormais centralisée dans des progiciels de gestion intégrés (Enterprise Ressource Planning ou ERP en anglais). L'apprentissage est facilité par des ludiciels comme Adibou, Lapin Malin, Duolingo, Gymglish, ou encore flexboxfroggy pour le CSS, codingame pour les langages de programmations, hackthebox pour la cybersécurité, et j'en passe. Malgré cela, l'industrie du jeux vidéo qui représente plus de 50% des 650 millards de valeur marchande du logiciel dans le monde, occulte les logiciels éducatifs en ligne, et ce à raison de 396 milliards de dollar de marché contre 166. Les progiciels quant à eux ne représentent que 50 milliards de dollars (sources : statista 2022). 
 
-#### Progiciel
-
-#### Ludiciel
-
-Les fois où j'ai appris le plus rapidement des concept était encore une fois à l'aide de jeux, la redstone de minecraft m'as transmis la logique créative et utile, flexboxfroggy.com m'as permis d'apprendre le 
-
-#### Jeux en ligne et MMO
-
-#### Chiffrement actuels
-
-- RSA  1977
-- Chiffrement sur courbes elliptiques 1985
+De mon expérience, j'ai pu constater la différance entre prestation de service informatique et édition de logiciel. Le modèle économique d'une entreprise influence énormément les comportement de ses salariés. Les contraintes de temps et de budget ne sont pas les mêmes, les projets s'organisent différemment. Les prestataires vendent du temps, et ont donc naturellement tendance à avoir des deadline plus courtes et par conséquent plus de pression. Cela nécessite également une équipe commerciale solide capable de décrocher assez de projet pour faire travailler l'entreprise pendant les prochaines années. En contrepartie, ce n'est pas un logiciel ou site maintenable qui est demandé, mais il faut qu'il soit assez bien réalisé et fonctionnel pour être livré le plus rapidement possible afin d'en dégager une marge. Les éditeurs logiciels quant a eux le louent généralement en tant que service ou le vendent en tant que bien, le nerf de la guerre réside alors dans la maintenabilité du logiciel auquel doit être ajouté des fonctionnalités au fil du temps. Plus le logiciel grossit, plus il est compliqué de maitriser les effets de bord et de comprendre l'intégralité du logiciel et de son historique. Ils ont cependant la chance d'avoir conçu une sorte de distributeur automatique qui n'a pas besoin d'action humaine.
 
 
+
+### Chiffrements actuels
+
+Il existe multitudes de méthodes de chiffrement d'information, tout développeur backend digne de se nom se doit de vérifier laquelle est utilisée et si elle n'as pas encore été compromise. La dernière version de Message Digest nommée MD5 à été inventée en 1991 et fut partiellement compromise seulement 5 ans plus tard en 1996. En 2004, des chercheurs chinois l'ont complétement craqué. Malgré les recommandations de changer de méthode de chiffrement, MD5 est parfois encore utilisé à tord pour chiffrer des mots de passe, alors que sa seule utilisation devrait être de chiffrer deux fichiers et comparer leurs signatures pour s'assurer qu'ils sont les mêmes, lors d'un téléchargement par exemple. Depuis, la version 6 de Message Digest est apparue, mais sa fonction reste cantonnée à la réalisation d'empreinte numériques de fichiers. Le développement de MD5 et MD6 ont été réalisés ou supervisés par **R**ivest Ronald. En 1977, en compagnie de **S**hamir Adi, et **A**dleman Leonard, est décrit pour la première fois la méthode de chiffrement asymétrique RSA, dont le brevet du MIT datant de 1983 a expiré en 2000. Ce chiffrement est utilisé dans les paiements électroniques et de manière générale pour chiffrer des données sur internet. En tant que développeur, on l'utilise souvent pour générer des clés permettant de se connecter à distance et de manière sécurisée à des terminal en ligne de commande (Secure SHell ou SSH). Bien qu'il existe des propositions d'attaque pour casser RSA, une clé suffisamment grande (>= 2048 ***bits***) est largement suffisante de nos jours. La révolution récente en terme de chiffrement utilise les courbes elliptiques, ce genre de courbe ne sont pas communes, il peut y avoir plusieurs valeurs en ordonnée pour une seule valeur en abscisse. Une droite passant par n'importe quel autre point qu'un sommet de cette courbe la croisera donc au moins 2 fois. Les propriétés mathématiques de ce genre de courbe rendent le chiffrement plus sûr. Des algorithmes de chiffrement utilisent ce genre de courbes, lorsque je le peut, et comme conseillé par GitLab, je génère mes clés en utilisant l'algorithme EdDSA. Ce dernier se base sur les courbes d'Edwards tordues dévoilées en 2008.
+
+***Illustration de courbe elliptique***
 
 ### Concepts et outils de programmation
 
 #### Langages
 
-Nous parlons communément un langage naturel, spontané, qui bien qu'il possède des règles de syntaxe, un vocabulaire et une grammaire définis, ne nécessite pas systématiquement de les suivre à la lettre pour communiquer. Le langage formel ou construit comme le code informatique ou le Lojban nécessite quand a lui une rigueur stricte sans quoi il ne peut être interprété par la 
+Nous parlons communément un langage naturel, spontané, qui bien qu'il possède des règles de syntaxe, un vocabulaire et une grammaire définis, ne nécessite pas systématiquement de les suivre à la lettre pour communiquer. Le langage formel ou construit comme le code informatique ou le Lojban nécessite quand a lui une rigueur stricte sans quoi il ne peut être interprété par la machine.
 
 formel, informatique, et construites
 
@@ -1513,6 +1411,8 @@ L'interface la plus simple informatiquement parlant est la ligne de commande, el
 
 
 #### Types et structure de donnée
+
+Comme évoqué précédemment, les deux grandes catégories d'informations sont quantitatives et qualitatives. Parmis les types de données, 
 
 Types primitifs, Vecteurs, Matrices
 
@@ -2013,7 +1913,7 @@ https://ayowel.github.io/trust/
 
 La vie est un jeu, on peut donc y appliquer les mêmes notions. Jouez au jeu, suivez le pacte d’Ulysse.
 
-La magie c'est de défaire et savoir refaire
+La magie c'est de défaire et savoir refaire sans que le spectateur ne comprenne la logique qui à lieu derrière la scène.
 
 Cette métacognition et la rétroaction permettent ainsi de se comprendre soi même et d'adapter ses comportements et habitudes, on parle alors de 
 
@@ -2112,18 +2012,6 @@ On ne comprend l'essence des concepts qu'en généralisant et remontant au nivea
 De nos jours j'ai souvent entendu parler de philosophie d'entreprise. L'entreprise étant une entité morale, elle se compose d'un groupe de personnes physiques réunies pour accomplir quelque chose en commun. Ce groupe peut aussi réunir des personnes physiques et des personnes morales. Cela corresponds à une secte, qui est un terme connoté négativement mais qui, comme beaucoup de mots, est poly-sémantique, il possède plusieurs définitions, celle que l'on retient généralement n'est pas celle de la secte mais de la dérive sectaire. En effet, d'un point de vue étymologique, le mot secte provient du latin "secta", signifiant "voie que l'on suit, parti, cause, doctrine". Or quand je travaille en groupe avec d'autres personnes, je le fait de pair avec mes collègues, suivant ensemble une même voie, pendant une période définie de travail, comme tout salarié qui vends a son employeur.
 
 En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une même cause, est comme internet, la rue ou tout autre environnement dans lequel nous évoluons, c'est une indifférence, ce n'est ni bien, ni mal, cela ne dépends de ce que l'on en fait et à qu'elles fins. Nous devons tous un jour faire face au fait que nous sommes influencés et conditionnés par notre environnement et notre histoire, nos habitudes, et les groupes d'humains dans lesquels nous avons évolués. Le réel problèmes sont les dérives, notamment le fait de vénérer une autorité austère qu'on ne peut discuter, mais aussi tout les heurts qui nous sont propres. Pour le reste, la vie bats son plein et continue de parcourir le temps en faisant ce qu'elle a à faire, vivre. En réalisant EditIDE, je ne sais pas comment cet outil va être utilisé, mais je sais désormais que je veut créer des indifférences, et aller du global vers le particulier.
-
-
-
-
-
-Prestation vs édition de logiciel
-
-Le modèle économique d'une entreprise influence énormément les comportement de ses salariés. Contraintes de temps et de budget
-
-Les prestataires vendent du temps, et ont donc naturellement tendance à avoir des deadline plus courtes et par conséquent plus de pression. Cela nécessite également une équipe commerciale solide capable de décrocher assez de projet pour faire travailler l'entreprise pendant les prochaines années. En contrepartie, ce n'est pas un logiciel ou site maintenable qui est demandé, mais il faut qu'il soit assez bien réalisé et fonctionnel pour être livré le plus rapidement possible afin d'en dégager une marge. 
-
-Les éditeurs logiciels quant a eux le louent généralement en tant que service ou le vendent en tant que bien, le nerf de la guerre réside alors dans la maintenabilité du logiciel auquel doit être ajouté des fonctionnalités au fil du temps. Plus le logiciel grossit, plus il est compliqué de maitriser les effets de bord et de comprendre l'intégralité du logiciel et de son historique. Ils ont cependant la chance d'avoir conçu une sorte de distributeur automatique qui n'a pas besoin d'action humaine.
 
 
 
@@ -2461,7 +2349,7 @@ ___
 
 La pratique c'est faire, la théorie c'est subir.
 
-J'aspire à apprendre jusqu'à ce que nul Dieusseries ne m'échappent.
+J'aspire à apprendre jusqu'à ce que plus rien ne me paraisse magique et que nul Dieuseries ne m'échappent.
 
 La philosophie a de divin que comme tout les arts et sciences elle nait d'une **pensée logique combinatoire** dont les concepts valent autant au niveau de l'infiniment petit que de l'infiniment grand. 
 
@@ -2477,6 +2365,10 @@ je ne me défini que par mon système de pensée, non pas par mon apparence corp
 A la manière de Platon, je n'ai rien inventé, les idées sont immuables et universelles, elles n'appartiennent à personne. Singe savant : https://libraryofbabel.info/bookmark.cgi?tdiscdstxldvqljko49
 
 
+
+Les gens suivent l'autorité, la loi, mais la loi est parfois fausse, la seule loi qui doit être suivie est la science, la raison pure pouvant être prouvée.
+
+En tant qu'animal humain on ne s'en porte pourtant que mieux de juste suivre les instructions et juste faire ce que l'on doit ou a envie de faire.
 
 
 
@@ -2545,7 +2437,7 @@ Tant que j'y pense, voici une liste de projet qui me sont venus en tête lors de
 - Faire un autocompléteur de langue naturelle pour la rédaction écrite.
 - Un Editeur Markdown prenant en compte les balises HTML `lang` 
 - Un enrouleur de câbles utilisant des techniques de couture.
-- Il existe déjà des casque de VR permettant de visualiser les zones couvertes par le wifi, imaginez un casque multisensoriel visuel qui permette a laide d'onduloanalyse de voir les températures, les zones radioactives,
+- Il existe déjà des casque de VR permettant de visualiser les zones couvertes par le wifi, imaginez un casque multisensoriel visuel qui permette à l'aide d'onduloanalyse de voir les températures, les zones radioactives, les flux d'air ou de gazs.
 
 Si il y'a bien quelque chose que l'on ne peut comprendre qu'en étant seul, c'est bien qu'être adulte concomite avec faire tout les jours un peu plus attention au soi de demain.
 
@@ -2586,6 +2478,10 @@ Mon œuvre peut être vendue avec mon accord mais elle est libre et sera toujour
 
 
 
+Arpanet, le monde en réseau - Tristan Gaston-Breton
+
+
+
 #### Webographie
 
 https://www.physique.usherbrooke.ca/~afaribau/essai/#:~:text=Les%20tables%20de%20calcul%20furent,aux%20cailloux%20selon%20leur%20position
@@ -2596,7 +2492,7 @@ https://theses.hal.science/tel-00125472/document
 
 http://serge.mehl.free.fr/
 
-
+https://groups.csail.mit.edu/medg/people/psz/Licklider.html
 
 https://monoskop.org/images/b/b0/Floridi_Luciano_Philosophy_and_Computing_An_Introduction_1999.pdf
 
