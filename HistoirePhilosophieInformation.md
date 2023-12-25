@@ -741,14 +741,6 @@ Bien après Robert Hooke, qui inventa le téléphone à ficelle en 1665 ; le phy
 
 
 
-##### Semis-conducteurs
-
-Au début du 20ème siècle, c'est en **1904** que John Ambrose Fleming (à ne pas confondre avec les biologistes Walther Flemming et Alexander Fleming qui ont respectivement découverts la mitose et la pénicilline à la même période) se base sur des travaux de Thomas Edison datant de 1883 et de Frederick Guthrie en 1873, pour appliquer leurs technologie dans le but de remplacer les détecteurs magnétique des radio et permettre d'amplifier leurs signaux. Il invente ainsi le *kénotron*, premier tube à vide, ancêtre des diodes et semi-conducteurs.
-
-Le principe du semi-conducteur à été découvert en 1874 par Karl Ferdinand Braun, qui s'est rendu compte que l'on pouvait faire passer un courant électrique dans une direction donnée à l'aide d'un fin fil de métal et d'un crystal de galène, inventant ainsi la diode. Cette découverte a été réutilisée dans les tubes à vides de Fleming, permettant d'avoir des bascules allumée / éteinte avec un signal directionnel. Par la suite Lee De Forest inventera l'Audion en **1906** avec l'ajout d'une électrode intermédiaire à une diode, permettant de convertir une variation de courant en variation de tension et de puissance, permettant ainsi l'amplification d'un signal. William Eccles renommera cette invention triode en 1919. Tout deux ont contribués pour beaucoup dans le développement des circuits électroniques et de la transmission sans fil avec la naissance de la radio.
-
-
-
 ##### Prémices de l'affichage numérique
 
 En 1857 apparait le *Tube de Geissler*, ancêtre de la lampe à décharge et des néons. Son inventeur est un physicien et mécanicien du même nom qui voulait démontrer la capacité d'un courant électrique à traverser un gaz sous basse pression pour créer un plasma dans une décharge luminosant. Entre 1869 et 1875, William Crooke découvre les rayons cathodique lors de la réalisations de lampes thermoïoniques, ou tubes à décharge électrique portant son nom. Une vingtaine d'année plus tard, c'est Ferdinand Braun qui en 1897 développa également un tube cathodique éponymes. Enfin, Boris Rosing, un scientifique russe d'origines néerlandaises, a utilisé des tubes cathodiques de Braun, le système de disques de l'ingénieur Paul Nipkov et des cellules photoélectriques, réalisant ainsi les fondations d'un système de télévision mécanique lors de l'année **1907**. Après quoi il s'est empressé de déposer des brevets et démontrer le principe de fonctionnement en détail à l'aide de schémas expliquant l'hystérésis magnétique. Ces travaux ont par la suite étés démocratisés par un de ses élèves et assistant de travail nommé Vladimir Zvorykine, qui à inventé l'iconoscope permettant de capter les images qui seront retransmises sur ces écrans et qui devint rapidement pionnier de la télévision aux États-Unis et en Allemagne, bien que rapidement concurrencé par Philo Farnsworth qui fut le premier à réaliser une chaîne de télévision avec émission-réception. Les tubes cathodiques ont longtemps fait partis de nos écrans de télévisions qui affichaient une image à l'aide d'une cellule photoélectrique, dont le faisceau était dévié, augmentant ou diminuant le nombre d'électrons qui passait, faisant ainsi varier la luminosité du faisceau avant qu'il atteigne l'écran, projetant ainsi une image en nuances de gris.
@@ -758,6 +750,14 @@ Louis Lumière invente les plaques photographiques sèches instantanées prêtes
 https://www.victorian-cinema.net/machines
 
 En **1893**, André Blondel, ingénieur français polytechnique invente l'oscillographe bifilaire, une machine électromécanique permettant d'étudier des courants alternatifs à l'aide de graphiques, et maintenant plus largement toute évolution d'un signal électronique dans le temps. Il inventera de nombreux autres dispositifs de mesures électriques comme un hystérésimètre et un wattmètre, il est également à l'origine avec l'aide de deux autres ingénieurs du barrage de Génissiat. Par la suite, l'outil se perfectionnera avec l'ajout d'un écran cathodique, puis sa numérisation par LeCroy, Phillips et Tektronix.
+
+
+
+##### Semi-conducteurs
+
+Au début du 20ème siècle, c'est en **1904** que John Ambrose Fleming (à ne pas confondre avec les biologistes Walther Flemming et Alexander Fleming qui ont respectivement découverts la mitose et la pénicilline à la même période) se base sur des travaux de Thomas Edison datant de 1883 et de Frederick Guthrie en 1873, pour appliquer leurs technologie dans le but de remplacer les détecteurs magnétique des radio et permettre d'amplifier leurs signaux. Il invente ainsi le *kénotron*, premier tube à vide, ancêtre des diodes et semi-conducteurs.
+
+Le principe du semi-conducteur à été découvert en 1874 par Karl Ferdinand Braun, qui s'est rendu compte que l'on pouvait faire passer un courant électrique dans une direction donnée à l'aide d'un fin fil de métal et d'un crystal de galène, inventant ainsi la diode. Cette découverte a été réutilisée dans les tubes à vides de Fleming, permettant d'avoir des bascules allumée / éteinte avec un signal directionnel. Par la suite Lee De Forest inventera l'Audion en **1906** avec l'ajout d'une électrode intermédiaire à une diode, permettant de convertir une variation de courant en variation de tension et de puissance, permettant ainsi l'amplification d'un signal. William Eccles renommera cette invention triode en 1919. Tout deux ont contribués pour beaucoup dans le développement des circuits électroniques et de la transmission sans fil avec la naissance de la radio.
 
 
 
@@ -803,15 +803,11 @@ C'est la première guerre à impliquer simultanément tout les pays, les machine
 
 
 
-#### Théorie des jeux
+#### Tabulatrices
 
-La théorie des jeux, comme son nom l'indique, étudie les jeux et plus notamment le comportement des joueurs et leurs décisions. Elle se base sur l'hypothèse qu'ils effectuent toujours un choix rationnel en fonction des connaissances à leur disposition, et ce dans le but de maximiser leurs gains et à minimiser leurs pertes. La plus ancienne démonstration de la sorte que je connaisse est le Pari de Blaise Pascal, déclarant que si Dieu n'existe pas, alors y croire ou pas n'as pas d'importance, mais dans l'hypothèse où il existe, alors il vaut mieux y croire pour ne pas finir en enfer. Le choix rationnel permettant les gains potentiels maximum serait ainsi de croire en Dieu.
+Dans un atelier de mécanographie, de multiples stations d'outils étaient présentes, parmi ces outils, les perforatrices chargées de créer et vérifier les données en perforant des cartes, les trieuses responsables de créer les différents lots de cartes, les interclasseurs capables de réunir deux lots de cartes avec des informations différentes en une seule grâce à une colonne de donnée commune aux deux, et les reproductrices permettant de copier des cartes perforées en une seule perforation. Jusque là, ces premier outils mécanographique étaient appelés machines à statistiques. Les opérateurs devaient à chaque fois reprogrammer la tabulatrice à l'aide du tableau de connexion représentant le programme à l'aide de câbles permettant d'envoyer les données d'entrés dans les différents modules de calcul, puis de l'exécuter et enfin récupérer le résultat affiché sur des roues totalisatrices gravées pour enfin le recopier à la main et produire de nouveaux programmes en cartes perforés à partir de ces résultats. En 1920, Hollerith présente la première machine avec module d'impression et tableaux de connexion amovibles interchangeable permettant de rapidement changer le programme d'une machine, qui sera désormais appelée tabulatrice. 11 ans plus tard, en 1931, IBM sort le modèle 601, ce calculateur électromécanique est la première machine d'IBM capable de multiplier deux nombre provenant de cartes en entrée et de perforer la valeur en résultant. Elle est d'ailleurs surnommée ma Multiplying Punch.
 
-Ernst Zermelo, un assistant de Max Planck, a jeté les bases de la formalisation mathématique des jeux à somme nulle avec un article "*Sur une application de la théorie des ensembles à la théorie du jeu d'échecs*" publié en 1913. Emile Borel pionnier de la théorie des mesure, des probabilités, et des jeux, publiera un article sur ce dernier domaine dans les *Comptes rendus hebdomadaires des séances de l'Académie des sciences* du 1er juillet 1921[^1]. Puis en 1940 il publia également un guide de "*Théorie mathématique du bridge à la portée de tous*" coécrit avec l'aide d'André Chéron.
-
-[^1]: https://gallica.bnf.fr/ark:/12148/bpt6k31267.image.r=Comptes+rendus+hebdomadaires+des+s%C3%A9ances+de+l.f1304.pagination.langFR
-
-Ces théories seront également appliqués au jeux économiques, Antoine Augustin Cournot fut pionnier en 1838 dans ses "*Recherches sur les principes mathématiques de la théorie des richesses*" dans lesquelles il analysa un duopole et vint a être l'un des premier à déclarer qu'il existe un équilibre entre l'offre et la demande. Il faudra attendre 1944 pour qu'Oskar Morgenstern et John von Neumann formalisent ce domaine de recherche dans leur ouvrage "*Théorie des jeux et du comportement économique*". Enfin, John Forbes Nash, aboutira les travaux de Cournot et inventera lui aussi un équilibre a son nom, le fameux équilibre de Nash.
+Les téléscripteurs auparavant utilisés par les opérateurs télégraphiques avant d'être rendus obsolètes par le téléphone seront réutilisés pour encoder des caractères qui seront convertis en binaire dans le bit de travailler et perforer des cartes à distance. En 1935 né le réseau Telegraph Exchange ou TELEX
 
 
 
@@ -819,15 +815,7 @@ Ces théories seront également appliqués au jeux économiques, Antoine Augusti
 
 Lors de l'Exposition universelle de Paris qui a eu lieu en 1900, Valdemar Poulsen présente son invention d'un système d'enregistrement magnétique sur fil nommé télégraphone. Inspiré par ces travaux Fritz Pfleumer invente la bande magnétique en 1928 dans le but d'enregistrer du son comme ça sera le cas la même année avec le magnétophone de Karl Stille lui même inspiré du télégraphone. Quelques années après sera perfectionné la bande magnétique en acier, et une dizaine années plus tard, vers 1940, naitra la première bande magnétique en [matière plastique](https://fr.wikipedia.org/wiki/Matière_plastique).
 
-En **1932**, l'ingénieur Gustav Tauschek, invente une nouvelle méthode de mémoire vive magnétique possèdent un temps de lecture de seulement quelques millisecondes contre plusieures centaines auparavant. La mémoire tambour sera réutilisé dans le Manchester Mark I, l'ENIAC, l'IBM 650, l'IBM 701, et l'UNIVAC 1103 (version scientifique)
-
-
-
-#### Tabulatrices
-
-Dans un atelier de mécanographie, de multiples stations d'outils étaient présentes, parmi ces outils, les perforatrices chargées de créer et vérifier les données en perforant des cartes, les trieuses responsables de créer les différents lots de cartes, les interclasseurs capables de réunir deux lots de cartes avec des informations différentes en une seule grâce à une colonne de donnée commune aux deux, et les reproductrices permettant de copier des cartes perforées en une seule perforation. Jusque là, ces premier outils mécanographique étaient appelés machines à statistiques. Les opérateurs devaient à chaque fois reprogrammer la tabulatrice à l'aide du tableau de connexion représentant le programme à l'aide de câbles permettant d'envoyer les données d'entrés dans les différents modules de calcul, puis de l'exécuter et enfin récupérer le résultat affiché sur des roues totalisatrices gravées pour enfin le recopier à la main et produire de nouveaux programmes en cartes perforés à partir de ces résultats. En 1920, Hollerith présente la première machine avec module d'impression et tableaux de connexion amovibles interchangeable permettant de rapidement changer le programme d'une machine, qui sera désormais appelée tabulatrice. 11 ans plus tard, en 1931, IBM sort le modèle 601, ce calculateur électromécanique est la première machine d'IBM capable de multiplier deux nombre provenant de cartes en entrée et de perforer la valeur en résultant. Elle est d'ailleurs surnommée ma Multiplying Punch.
-
-Les téléscripteurs auparavant utilisés par les opérateurs télégraphiques avant d'être rendus obsolètes par le téléphone seront réutilisés pour encoder des caractères qui seront convertis en binaire dans le bit de travailler et perforer des cartes à distance. En 1935 né le réseau Telegraph Exchange ou TELEX
+En temps, c'est en 1932 que l'ingénieur Gustav Tauschek, invente une nouvelle méthode de mémoire vive magnétique possédant un temps de lecture de seulement quelques millisecondes contre plusieurs centaines auparavant. Cette technologie dite mémoire tambour sera utilisé dans la conception de plusieurs machines dont le Manchester Mark I, l'ENIAC, l'IBM 650, l'IBM 701, et l'UNIVAC 1103 (version scientifique).
 
 
 
@@ -842,8 +830,6 @@ Dans le début des années 1900 le sonar à déjà été bien étudié et mis en
 C'est année suivante, en 1935 que Robert Watson-Watt, que l'on retiendra comme l'inventeur officiel du radar, dépose un brevet [^1] avec des indications pour l'améliorer. Prouvant efficacité de son système en détectant des avions a 27km puis l'améliorant jusqu'à 100km, il met fin aux développement concurrents comme le sonar, et commence la mise en place d'un réseau de radar côtier nommé Chain Home. En 1937 les premières stations étaient opérationnelles et elle jouerons un rôle crucial en 1940 lors de la bataille d'Angleterre, durant laquelle ils ont même monter des radars sur des engins volants dans le but de détecter les bombardiers.
 
 [^1]: https://worldwide.espacenet.com/patent/search/family/001739501/publication/GB593017A?q=pn%3DGB593017
-
-
 
 
 
@@ -878,9 +864,7 @@ Son histoire nous montre qu'avec de la motivation et le soutien de nos proches, 
 
 #### Calculs balistique
 
-La Moore School, un établissement de formation d'ingénieur en électronique voit le jour en 1923. À la même période apparaît le Ballistic Research Laboratory, qui comme son nom l'indique, est un établissement de recherche en  balistique. Ces deux établissement auront une importance cruciale dans le développement de l'informatique.
-
-En **1937**, un professeur de mathématiques et de physique nommé John Vincent Atanasoff entreprends, avec l'aide de Clifford Berry un de ses étudiants diplômé, la création d'une machine à calculer électronique. Deux ans plus tard, en 1939 une machine rudimentaire est alors existante mais incomplète, elle sera nommée Atanasoff Berry Computer (ABC). Pendant son développement, ils ont apporté des idées pionnières et innovantes comme l'arithmétique binaire, l'utilisation d'éléments de commutation électronique, ou encore la parallélisation. La construction de cette machine est d'ailleurs la première à intégrer des tubes à vides. En 1940 ils présentent la machine à John Mauchly, qui a voulu apporter une solution à la réalisation de tables de tir, permettant de régler correctement une arme balistique pour atteindre sa cible avec si possible un seul réglage plutôt que de devoir faire un essai approximatif et réajuster en fonction de la trajectoire observée comme c'était le cas jusque là. En 1942 la machine est testé avec succès et sera utilisée pour trouver des solutions à des équations linéaires. 
+La Moore School, un établissement de formation d'ingénieur en électronique voit le jour en 1923. À la même période apparaît le Ballistic Research Laboratory, qui comme son nom l'indique, est un établissement de recherche en  balistique. Ces deux établissement auront une importance cruciale dans le développement de l'informatique. En **1937**, un professeur de mathématiques et de physique nommé John Vincent Atanasoff entreprends, avec l'aide de Clifford Berry un de ses étudiants diplômé, la création d'une machine à calculer électronique. Deux ans plus tard, en 1939 une machine rudimentaire est alors existante mais incomplète, elle sera nommée Atanasoff Berry Computer (ABC). Pendant son développement, ils ont apporté des idées pionnières et innovantes comme l'arithmétique binaire, l'utilisation d'éléments de commutation électronique, ou encore la parallélisation. La construction de cette machine est d'ailleurs la première à intégrer des tubes à vides. En 1940 ils présentent la machine à John Mauchly, qui a voulu apporter une solution à la réalisation de tables de tir, permettant de régler correctement une arme balistique pour atteindre sa cible avec si possible un seul réglage plutôt que de devoir faire un essai approximatif et réajuster en fonction de la trajectoire observée comme c'était le cas jusque là. En 1942 la machine est testé avec succès et sera utilisée pour trouver des solutions à des équations linéaires. 
 
 -> ENIAC
 
@@ -903,6 +887,18 @@ Plusieurs calculateurs seront construit pour l'effort de guerre, que se soit pou
 L'IBM Automatic Sequence Controlled Calculator (ASCC) datant de **1944** est le premier calculateur entièrement automatique. Une fois lancé, il calculait pendant des heures en suivant le programme qui lui était donné à l'aide de cartes perforées. Ces avancés lui ont valu une couverture médiatique dans la presse, voyant cette machine comme un robot intelligent pouvant trouver toutes les réponses mathématiques. Cette machine ne possédait pourtant pas encore de branchement conditionnel alors que la machine analytique de Babbage, bien que jamais construite, stipulait déjà cette fonctionnalité. Les programmes était alors très long et il possédait des Relay Switches qui pouvaient casser. L'ASCC a permis la réalisation de tables et la réalisations de premières expérimentations notamment par Grace Hopper.
 
 https://www.youtube.com/watch?v=MOUg25dJM4c
+
+
+
+#### Théorie des jeux
+
+La théorie des jeux, comme son nom l'indique, étudie les jeux et plus notamment le comportement des joueurs et leurs décisions. Elle se base sur l'hypothèse qu'ils effectuent toujours un choix rationnel en fonction des connaissances à leur disposition, et ce dans le but de maximiser leurs gains et à minimiser leurs pertes. La plus ancienne démonstration de la sorte que je connaisse est le Pari de Blaise Pascal, déclarant que si Dieu n'existe pas, alors y croire ou pas n'as pas d'importance, mais dans l'hypothèse où il existe, alors il vaut mieux y croire pour ne pas finir en enfer. Le choix rationnel permettant les gains potentiels maximum serait ainsi de croire en Dieu.
+
+Ernst Zermelo, un assistant de Max Planck, a jeté les bases de la formalisation mathématique des jeux à somme nulle avec un article "*Sur une application de la théorie des ensembles à la théorie du jeu d'échecs*" publié en 1913. Emile Borel pionnier de la théorie des mesure, des probabilités, et des jeux, publiera un article sur ce dernier domaine dans les *Comptes rendus hebdomadaires des séances de l'Académie des sciences* du 1er juillet 1921[^1]. Puis en 1940 il publia également un guide de "*Théorie mathématique du bridge à la portée de tous*" coécrit avec l'aide d'André Chéron.
+
+[^1]: https://gallica.bnf.fr/ark:/12148/bpt6k31267.image.r=Comptes+rendus+hebdomadaires+des+s%C3%A9ances+de+l.f1304.pagination.langFR
+
+Ces théories seront également appliqués au jeux économiques, Antoine Augustin Cournot fut pionnier en 1838 dans ses "*Recherches sur les principes mathématiques de la théorie des richesses*" dans lesquelles il analysa un duopole et vint a être l'un des premier à déclarer qu'il existe un équilibre entre l'offre et la demande. Il faudra attendre 1944 pour qu'Oskar Morgenstern et John von Neumann formalisent ce domaine de recherche dans leur ouvrage "*Théorie des jeux et du comportement économique*". Enfin, John Forbes Nash, aboutira les travaux de Cournot et inventera lui aussi un équilibre a son nom, le fameux équilibre de Nash.
 
 
 
@@ -938,9 +934,11 @@ La seconde guerre mondiale prends fin et c'est officiellement l'époque contempo
 
 
 
+
+
 #### Genèse de l'informatique moderne
 
-Beaucoup d'ordinateurs ont été réalisés en **1945**, au crépuscule des deux guerres. Parmi eux, l'EDVAC, l'ENIAC, le SSEC succédant au ASCC, et le Z4. Von Neumann lors de ses travaux sur l'EDVAC, à décrit une architecture qui a permis au stockage de posséder les instructions du programme et la donnée à traiter sur le même support, permettant également aux instructions du programme d'être traités comme de la donnée, et donc de pouvoir être lu et réécrite. Cette architecture sera réutilisée par Alan Turing, Mauchly et Eckert pour l'ENIAC, ainsi que sur tout les ordinateurs à partir de cette date. Même si il a été pensé par 2 hommes, l'ENIAC à été programmé par 6 femmes, qui ont documenter, coder et brancher des millions de câbles. Il a été réalisé à la Moore School de l'université de Pennsylvanie à partir de juin 1943. Des suites de la réalisation de l'ENIAC, Mauchly et Eckert formeront la Eckert-Mauchly Computer Corporation en 1946. Malheuresement, la mort de leur investisseur principal lors d'un trajet en avion les poussera à revendre leur entreprise à Remington par la suite. Elle sera ensuite racheté par Sperry Corporation après fusion avec la Burroughs Corporation en 1986, et deviendra Unisys, 100 ans après sa création en 1886.
+Beaucoup d'ordinateurs ont été réalisés en **1945**, au crépuscule des deux guerres mondiales. Parmi eux, l'EDVAC, l'ENIAC, le SSEC succédant au ASCC, et le Z4. Von Neumann lors de ses travaux sur l'EDVAC, à décrit une architecture qui a permis au stockage de posséder les instructions du programme et la donnée à traiter sur le même support, permettant également aux instructions du programme d'être traités comme de la donnée, et donc de pouvoir être lu et réécrite. Cette architecture sera réutilisée par Alan Turing, Mauchly et Eckert pour l'ENIAC, ainsi que sur tout les ordinateurs à partir de cette date. Même si il a été pensé par 2 hommes, l'ENIAC à été programmé par 6 femmes, qui ont documenter, coder et brancher des millions de câbles. Il a été réalisé à la Moore School de l'université de Pennsylvanie à partir de juin 1943. Des suites de la réalisation de l'ENIAC, Mauchly et Eckert formeront la Eckert-Mauchly Computer Corporation en 1946. Malheuresement, la mort de leur investisseur principal lors d'un trajet en avion les poussera à revendre leur entreprise à Remington par la suite. Elle sera ensuite racheté par Sperry Corporation après fusion avec la Burroughs Corporation en 1986, et deviendra Unisys, 100 ans après sa création en 1886.
 
 
 
@@ -1134,12 +1132,6 @@ Cet ordinateur avait pourtant bien des défauts, il ne supportait pas le temps p
 
 
 
-#### Luciano Floridi 
-
-Luciano Floridi est né à Rome le 16 novembre **1964**, ce philosophe est l'un des plus important théoriciens de la Philosophie de l'information et de l'éthique de l'informatique. Il a fondé et dirige plusieurs groupes de recherche dans ces domaines.
-
-
-
 
 
 #### Premières applications de l'IA
@@ -1154,47 +1146,36 @@ L'année suivante, en 1966 Eliza sera révélée, une intelligence artificielle 
 
 
 
-#### Microprocesseur
+#### Du circuit électronique au microprocesseur
 
-Au début du 20 ème siècle, seront développés les circuits imprimés, composés de métal conducteurs appliqués sur une carte faite d'un matériau isolant aussi appelé diélectrique, réalisant ainsi des circuits électroniques complexes.
-
-En 1903 Albert Hanson dépose un premier brevet[^0] pour coller des fils conducteurs sur un papier de paraffine dans le but d'améliorer les branchements téléphoniques, posant les bases de cette technologie.
+Le circuit intégré et le microprocesseur ont en commun le fait d'avoir des origines plusieurs dizaines d'années avant leur démocratisation effective. C'est pourquoi j'ai besoin de faire un léger retour en arrière, avant même les deux guerres mondiales, à la période où apparaissent les [semi-conducteurs](#semi-conducteurs). En effet, les premiers prototypes de circuits imprimés apparaissent au début du 20<sup>ème</sup> siècle, composés de métal conducteurs appliqués sur une carte faite d'un matériau isolant aussi appelé diélectrique, ils ont été des premières tentatives de circuits électroniques complexes. En 1903 Albert Hanson dépose un premier brevet[^0] pour coller des fils conducteurs sur un papier de paraffine dans le but d'améliorer les branchements téléphoniques, posant les bases de cette technologie. Une vingtaine d'année plus tard, Charles Ducas déposa un brevet datant de 1925, pour un procédé utilisant la galvanoplastie électrolytique afin de graver un circuit électronique en utilisant un pochoir, décrivant par la même occasion la possibilité de réaliser des cartes ayant plusieurs couches de circuits conducteurs. [^1] Deux ans après, César Parolini réalisera également un brevet sur l'impression de motifs adhésifs en poudre de cuivre sur un diélectrique, suivant un procédé de Ducas et une idée de Thomas Edison. [^1.1] Enfin, c'est en 1943 que Paul Eisler dépose un autre brevet de gravure de motif conducteur, utilisant cette fois ci des feuilles de cuivre plaquées sur une base isolante servant de support au circuit électriques. [^2] 
 
 [^0]: https://worldwide.espacenet.com/patent/search/family/009975642/publication/?q=pn%3DGB269729A
-
-En 1925, Charles Ducas déposa un brevet utilisant la galvanoplastie électrolytique pour graver un circuit électronique en utilisant un pochoir, décrivant par la même occasion la possibilité de réaliser des cartes ayant plusieurs couches de circuits conducteurs [^1]
-
 [^1]: https://patents.google.com/patent/US1563731A/en?inventor=Ducas+Charles | https://worldwide.espacenet.com/patent/search?q=pn%3DUS1563731A
 
-En 1927, César Parolini réalisera également un brevet sur l'impression de motifs adhésifs en poudre de cuivre sur un diélectrique, suivant un procédé de Ducas et une idée de Thomas Edison. [^1.1]
-
 [^1.1]: https://worldwide.espacenet.com/patent/search/family/009975642/publication/GB269729A?q=pn%3DGB269729A
-
-En 1943 Paul Eisler, dépose un autre brevet de gravure de motif conducteur utilisant des feuilles cuivre plaquées sur une base isolante servant de support au circuit électriques [^2] 
-
 [^2]: https://worldwide.espacenet.com/patent/search/family/032233881/publication/GB639178A?q=pn%3DGB639178
 
-L'ensemble de ces travaux seront réutilisés pour la réalisation du transistor en 1947. Par la suite des améliorations comme les trous traversants plaqués initialement brevetés en 1961 par la Hazeltine Corporation ont permis des cartes plus fiables et complexes. Aujourd'hui, les cartes électroniques peuvent avoir une centaines de couches de circuits imprimés.
+En 1958, Jack Kilby ingénieur chez Texas Instruments, réalise le premier circuit intégré, qui sera plus tard connu sous le nom de puce électronique, en reliant manuellement deux transistors grâce à du germanium. Bien qu'il fut longtemps oublié, Kilby finira par obtenir le prix Nobel de physique en 2000. La même année, toujours en 1958, Robert Norton Noyce travaille alors à Fairchild Semiconductor qu'il a cofondé un an avant, il y réalise indépendamment la même découverte et popularise les circuits intégrés en silicium à la base de l’électronique encore utilisée aujourd'hui, éclipsant ainsi Kilby. Suite à un désaccord au sein des dirigeants de Fairchild, il décide avec Gordon Earle Moore, également cofondateur, de quitter cette entreprise pour fonder Intel. De la même manière que Backus avait constaté que le matériel devenait de plus en plus fiable et de moins en moins cher pour de meilleures performances, Moore inventa en 1965 une loi éponyme postulant que les semi-conducteurs aurait une progression linéaire de leur performances, qui doublerai ainsi tout les deux ans. Entre temps, des améliorations comme les trous traversants plaqués initialement brevetés en 1961 par la Hazeltine Corporation ont permis des cartes plus fiables et complexes. Aujourd'hui, les cartes électroniques peuvent avoir une centaines de couches de circuits imprimés.
 
 
 
-En 1958, Jack Kilby ingénieur chez Texas Instruments, réalise le premier circuit imprimé, qui sera plus tard connu sous le nom de puce électronique, en reliant manuellement deux transistors en utilisant du germanium, bien qu'il fut longtemps oublié, il fini par obtenir le prix Nobel de physique en 2000. La même année, toujours en 1958 Robert Norton Noyce qui travaille alors à Fairchild Semiconductor qu'il a cofondé un an avant, fait indépendamment la même découverte et popularise les circuits intégrés en silicium à la base de l’électronique encore utilisée aujourd'hui, éclipsant ainsi Kilby. Suite à un désaccord au sein des dirigeants de Fairchild, il décide, avec Gordon Earle Moore, également cofondateur, de quitter cette entreprise pour fonder Intel. De la même manière que Backus avait constaté que le matériel devenait de plus en plus fiable et de moins en moins cher pour de meilleures performances, Moore inventa en 1965 une loi éponyme postulant que les semi-conducteurs aurait une progression linéaire de leur performances, qui doublerai ainsi tout les deux ans.
+Pour réaliser des processeurs, il faut des transistors. Le principe de ses derniers est connus depuis un brevet datant de l'année 1925[^3], soumis par un doctorant dont la thèse à été tutorée par Max Plank, j'ai nommé Julius Edgar Lilienfeld. Il y décrit la méthode et un appareil capable de contrôler la tension, c'est à dire le voltage, d'un courant électrique. Cependant, la réalisation effective du transistor se fera en 1947 par des chercheurs américains du Laboratoire Bell. Un an après des français réalisent indépendamment un composant similaire nommé transistron. La presse spécialisée leur donnait l'avantage technique d'être plus stable et résistant, mais le gouvernement français était alors focalisé sur les recherches nucléaires. [^4]
 
-En **1969**, le microprocesseur est inventé par Federico Faggin, et Marcian Hoff, un ingénieur et physicien d'Intel, 
+
+
+Avant les années 70, les composants des processeurs était trop volumineux pour tenir sur les circuits imprimés fraichement créés une dizaine d'année avant. Mais en **1969** Federico Faggin et Marcian Hoff, respectivement ingénieur et physicien d'Intel, réalisent cet exploit et inventent le microprocesseur.
+
+[^3]: https://worldwide.espacenet.com/patent/search/family/035202468/publication/US1745175A?q=pn%3DUS1745175
+[^4]: https://spectrum.ieee.org/how-europe-missed-the-transistor Michael Riordan - How Europe Missed The Transistor
+
+
 
 
 
 #### Course à l'espace
 
-Spoutnik 1 **1957**
-
-En **1967**, Apollo 1 est un échec et la lune parait de nouveau inaccessible aux américains, sous Kennedy.
-
-Le programme Apollo Guidance Computer (AGC) réalisé en **1969** par Margaret Hamilton a été numérisé et rendu disponible sur [Github](https://github.com/chrislgarry/Apollo-11). Écrit en Assembly
-
-Apollo 11 sera finalement une réussite, les États-Unis rattrapent alors leur retard dans la course à l'espace jusqu'alors menée par l'URSS.
-
-Katherine_Johnson
+Spoutnik 1 à été lancé et mis en orbite par les russes en **1957**. C'est le premier satellite d'origine humaine et il n'a pas eu d'autres rôle que celui d'envoyer un signal sonore par ondes radio, un simple "bip-bip", l'espace de seulement 3 mois. Pourtant, dans le contexte de la guerre froide, cette prouesse russe à marquée les esprits, notamment américains, qui y voyaient la menace d'une attaque nucléaire par voie spatiale. D'autant plus qu'en 1961, les russes enchériront avec la mission Vostok 1, fesant de Youri Gagarine le premier homme à aller dans l'espace. L'Amérique et ses services spatiaux se sont alors mis pour objectif d'être le premier peuple humain à aller sur la lune. Dix ans après la mise en orbite de Spoutnik 1, suite à un incendie lors des tests censés précéder son lancement, la mission **Apollo 1** de **1967** est malheureusement un échec et la lune parait de nouveau inaccessible aux américains. Deux ans après, sous la direction de Charles Stark Draper ; Margaret Hamilton, qui a travaillé sur le projet SAGE, réalise avec l'équipe qu'elle supervise, le programme qui sera utilisé par le premier ordinateur à circuit intégré, le Apollo Guidance Computer (AGC), ce programme écrit en Assembleur a été numérisé et rendu disponible sur [GitHub](https://github.com/chrislgarry/Apollo-11). C'est notamment grâce à ce logiciel et aux calculs de trajectoires et de fenêtres de lancement réalisés et vérifiés par Katherine Johnson, que le 21 juillet 1969, Apollo 11 fut finalement une réussite. Le bien connu Niels Armstrong deviendra ainsi le premier homme à marcher sur la lune et les États-Unis ont rattraper leur retard dans la course à l'espace jusqu'alors menée par l'URSS.
 
 
 
@@ -1212,7 +1193,7 @@ Jusqu'alors, l'informatique était essentiellement réservé aux domaines privé
 
 #### Genèse d'internet
 
-Un an après le lancement de Spoutnik, c'est en 1958 que le président américain de l'époque, Dwight David Eiseinhower, déclare le lancement d'un projet initialement nommé Advanced Research Projects Agency, soit ARPA ou DARPA après que le nom du projet ai été préfixé par le mot Defense. Le premier projet de cette agence fut de faire face aux besoins d'amélioration de la couverture et de la précision des réseaux de détection terrestres comme le radar, et de permettre à des sous-marins de la marine américaine de se géo-localiser précisément pour ainsi mieux calculer leurs tirs. La solution technique de ce projet du début des années 60 est un système de navigation par satellite nommé Transit, précurseur du projet NAVSTAR lancé en 1973 et opérationnel une vingtaine d'année plus tard, qui donnera finalement le système GPS, popularisé grâce à l'autorisation de libre diffusion de ses signaux par Bill Clinton en 2000, permettant un usage civil avec une précision à 10m près. Mais revenons en **1969**, année où le premier réseau informatique nommé ARPANET fit son apparition, notamment grâce à l'aide de scientifiques ayant travaillés sur le projet SAGE comme Joseph Licklider. Leur expérience sur le projet SAGE a apporté des connaissances en temps réel et partagé, ainsi qu'en interconnexions d'ordinateurs en réseau, permettant de mener à bien la réalisation de ce qui deviendra internet.
+Un an après le lancement russe de Spoutnik, c'est en 1958 que le président américain de l'époque, Dwight David Eiseinhower, déclare le lancement d'un projet initialement nommé Advanced Research Projects Agency, soit ARPA ou DARPA après que le nom du projet ai été préfixé par le mot Defense. Le premier projet de cette agence fut de faire face aux besoins d'amélioration de la couverture et de la précision des réseaux de détection terrestres comme le radar, et de permettre à des sous-marins de la marine américaine de se géo-localiser précisément pour ainsi mieux calculer leurs tirs. La solution technique de ce projet du début des années 60 est un système de navigation par satellite nommé Transit, précurseur du projet NAVSTAR lancé en 1973 et opérationnel une vingtaine d'année plus tard, qui donnera finalement le système GPS, popularisé grâce à l'autorisation de libre diffusion de ses signaux par Bill Clinton en 2000, permettant un usage civil avec une précision à 10m près. Mais revenons en **1969**, année où le premier réseau informatique nommé ARPANET fit son apparition, notamment grâce à l'aide de scientifiques ayant travaillés sur le projet SAGE comme Joseph Licklider. Leur expérience sur le projet SAGE a apporté des connaissances en temps réel et partagé, ainsi qu'en interconnexions d'ordinateurs en réseau, permettant de mener à bien la réalisation de ce qui deviendra internet.
 
 Alors qu'elle travaille à l'institut de recherche de Stanford, Elisabeth Feinler est recrutée par Douglas Engelbart pour travailler un guide des ressources d'Arpanet en vue d'une conférence. En 1974, elle sera la principale instigatrice du Network Information Center (NIC), organisme de gestion du réseau informatique ARPANET. Le NIC sera à l'origine du système de nom de domaine (DNS), permettant de ne retenir qu'un mot comme `google.fr` qui sera traduit en adresse IP (`172.253.122.94`) ; ou encore du *WHOIS*, l'annuaire permettant de savoir à qui appartient un nom de domaine. Toujours en 1974 et pour les besoins d'ARPANET, Bob Kahn et Vinton Cerfs inventent le protocole TCP/IP pour palier au manque de gestion d'erreur du Network Control Protocol matériellement restreint aux premiers routeurs, les Interface Message Processor ou IMP. 
 
@@ -1323,6 +1304,12 @@ https://fr.wikipedia.org/wiki/ENQUIRE (**1990** Tim Berners Lee) web semantique 
 Ward Cunningam créa le premier wiki en 1995 il est encore disponible tel quel[^1], il fut un développeur Smalltalk 
 
 [^1]: http://wiki.c2.com/
+
+
+
+#### Philosophie de l'information
+
+Luciano Floridi est né à Rome le 16 novembre 1964, ce philosophe est l'un des plus important théoriciens de la Philosophie de l'information et de l'éthique de l'informatique. Il a fondé et dirige plusieurs groupes de recherche dans ces domaines. "Qu'est ce la philosophie de l'information ?" Metaphilosophie - **2002**
 
 
 
