@@ -213,9 +213,9 @@ Les premiers écrits de référence sur les mathématiques, la physique, l'astro
 
 ##### Thalès
 
-Né vers l'an **-620**, Thalès fut un philosophe et mathématicien grec si important, que tous furent d'accord pour dire qu'il était l'un des plus grands sages de la Grèce antique. Il eu vécu et étudié en Égypte où il détermina la hauteur de pyramides, prédit des éclipses, et théorisa les crues du Nil. Il exporta la science de la géométrie en Grèce et deux des plus vieux théorèmes géométrique qui portent son nom, encore étudiés aujourd'hui, bien que leurs démonstration n'ai été avérée que plus tard.
+Né vers l'an **-620**, Thalès fut un philosophe et mathématicien grec si important, que tout les récits qu'il nous restent furent d'accord pour dire qu'il était l'un des plus grands sages de la Grèce antique. Il eu vécu et étudié en Égypte où il détermina la hauteur de pyramides, prédit des éclipses, et théorisa les crues du Nil. Il exporta la science de la géométrie en Grèce et deux des plus vieux théorèmes géométrique qui portent son nom, encore étudiés aujourd'hui, bien que leurs démonstration n'ai été avérée que plus tard.
 
-Il est aussi l'un des fondateurs de astronomie, il travailla sur des éphémérides grâce auxquelles il a conseillé à des marins de se guider à l'aide de la petite ourse. Les tables de navigations encore utilisées de nos jours, et que les pionniers de l'informatique tenteront d'automatiser, trouvent donc leurs racines dans l'Antiquité, sûrement même avant Thalès.
+Il est aussi l'un des fondateurs de astronomie, il travailla sur des éphémérides grâce auxquelles il aurait conseillé à des marins de se guider à l'aide de la petite ourse. Cette constellation contient Vénus, la fameuse l'étoile du berger que l'on repère facilement car de notre point de vue, elle brille plus que les autres, apparaissant ainsi en premier dans le ciel lorsque le soleil passe sous l'horizon et cesse de nous éblouir. Les tables astronomiques et de navigations, qui sont encore utilisées de nos jours, et que les pionniers de l'informatique tenteront d'automatiser, trouvent donc leurs racines dans l'Antiquité, peut être même avant Thalès.
 
 Par ailleurs, il est le premier à avoir découvert qu'une année, qui à l'époque était pensée comme une révolution du soleil autour la Terre, ne prenait pas 365 jours mais 365 jours et un quart, d'où les années bissextiles. Il est également la première personne connue à avoir étudier l'électricité, grâce à l'ambre qui attire un tissu, ou les propriété d'aimantation de l'oxyde de fer ; ce qui lui vaut d’ailleurs d'être considéré comme le premier physicien. Enfin, il fonda l'école milésienne, qui inspirera les personnalités antiques qui suivent ce récit.
 
@@ -581,9 +581,7 @@ A cette période les philosophes ont donc redéfinit leur pensée en se rapproch
 
 Dans l'Antiquité, les gens le pratiquait à l'oral, des crieurs, messagers ou troubadours, annonçaient les faits importants sur la place publique. Le journalisme écrit trouverai potentiellement ses racines dans l'Empire Romain avec les *Acta Diurna*, traductible en l'ordre du jour. La République de Venise ou La Dynastie Han ont également publier des bulletins d'information. Cependant le journal comme on l'entends aujourd'hui, imprimé en masse, périodique et populaire naîtra en **1622** avec le *Weekly News* de Nathaniel Butter. Il sera rapidement copié et récupéré en France, où le journalisme est né grâce à Théophraste Renaudot et sa Gazette de 1631.
 
-L'histoire du journalisme est très liée au courant philosophique libéral introduit par Bernard Mandeville, puis John Locke, et Adam Smith. La liberté de la presse s'imposera contre la censure royale et sera même inscrite dans les droits de l'Homme et du citoyen de 1789. Les journaux et publications se développeront alors énormément jusqu'à la période suivante, nécessitant des "grossistes" de l'information. *L'Agence des feuilles politiques, correspondance générale* à été créée en 1835 par Charles-Louis Havas. C'est la première agence de presse qui deviendra par la suite la fameuse Agence France Presse encore existante et faisant référence, gage de qualité et de véracité de l'information.
-
-Vérification des faits, protection des sources. Benjamin Franklin.
+L'histoire du journalisme est très liée au courant philosophique libéral introduit par Bernard Mandeville, puis John Locke, et Adam Smith. La liberté de la presse s'imposera contre la censure royale et sera même inscrite dans les droits de l'Homme et du citoyen de 1789. Les journaux et publications se développeront alors énormément jusqu'à la période suivante, nécessitant des "grossistes" de l'information. *L'Agence des feuilles politiques, correspondance générale* à été créée en 1835 par Charles-Louis Havas. C'est la première agence de presse qui deviendra par la suite la fameuse Agence France Presse encore existante et faisant référence, gage de qualité et de véracité de l'information. La liberté de d'expression et de la presse sera réellement actée avec les lois de 1881. Au delà de ses droits, le journalisme a aussi le devoir de fournir une information fiable en vérifiant les faits et protégeant ses sources afin de permettre aux lanceurs d'alerte de ne pas être persécutés.
 
 
 
@@ -661,7 +659,7 @@ Plusieurs personnalités comme le duc de Choiseul ou Anne Robert Jacques Turgot 
 
 
 
-#### Philosophes contemporains
+#### Philosophie contemporaine
 
 Les penseurs de cette époque ont hérité des savoirs du siècle des lumière, la science fait désormais partie intégrante des réflexions de la société. Rousseau et Kant, actifs vers la fin de l'époque moderne ont eu une forte influence notamment au début de l'époque contemporaine. Ils ont notamment influencé l'idéaliste Georg Wilhelm Friedrich Hegel, né en 1770. Il reprendra également la notion de système de Vauban et Condillac et l'appliqua à son enseignement de la philosophie dans "*Phénoménologie de L'Esprit*" qui l'a rendu connu pour sa dialectique du maître et de l'esclave. Selon lui, travailler pour un maître fait acquérir de plus en plus de compétences à l’esclave, et le maître à force de se faire servir, perds de ses compétence, l’esclave a alors l'opportunité de devenir maître à son tour, voire effectuer une inversion de contrôle. Le travail est donc un facteur d'émancipation et de libération, et un vrai maître doit continuer d'apprendre et ne pas se reposer sur ses sous-fifres, en plus de faire preuve d'une reconnaissance sincère nécessaire à la sanité de leur relation.
 
@@ -797,9 +795,9 @@ Dans la fin du 18è siècle, en 1790, le premier recensement estimait la populat
 
 ### Guerres mondiales
 
-En 9 décembre **1905**, l'abrogation du régime concordataire de 1802 sépare l'État et l'Église, mettant fin à l'affrontement violent qui a opposé deux conceptions de la place des Églises dans la société française pendant environ vingt-cinq ans.
+Des suites de la [philosophie contemporaine](#Philosophie-contemporaine), la relation entre le peuple et la religion à beaucoup changée, l'État étant constitué de représentants du peuple, sa relation avec l'Eglise a suivi la même logique. C'est ainsi que le 9 décembre **1905**, ***<u>l'abrogation du régime concordataire de 1802 sépare l'État et l'Église, mettant fin à l'affrontement violent qui a opposé deux conceptions de la place des Églises dans la société française pendant environ vingt-cinq ans</u>***. À partir de cette date, la République garantit la liberté de conscience et de culte mais ne finance plus aucune religion. Il faudra tout de même attendre la fin des deux guerres, pour que la laïcité soit démocratisée dans les année 1960.
 
-C'est la première guerre à impliquer simultanément tout les pays, les machines de bureau deviennent électromécaniques, l'humain peut désormais rapidement transmettre des messages sur de longues distances à ses congénères à l'aide des télégraphes. L'informatique naissante cherchera à vendre des machine mécanographiques dans le monde entier, elles serviront les gouvernement les plus puissant et également les pires de l'époque, Thomas Watson, après avoir travaillé à la récente et bien portante Nationnal Cash Register company (NCR), est embauché en 1914 pour diriger la regroupement d'entreprise de la CTR, c'est lui qui fonda IBM après la guerre en 1924.
+Le conflit qui débute officiellement en 1914 est la première guerre à impliquer simultanément tout les pays, les machines de bureau deviennent électromécaniques, l'humain peut désormais rapidement transmettre des messages sur de longues distances à ses congénères à l'aide des télégraphes. L'informatique naissante cherchera à vendre des machine mécanographiques dans le monde entier, elles serviront les gouvernement les plus puissant et également les pires de l'époque, Thomas Watson, après avoir travaillé à la récente et bien portante Nationnal Cash Register company (NCR), est embauché en 1914 pour diriger la regroupement d'entreprise de la CTR, c'est lui qui fonda IBM après la guerre en 1924.
 
 
 
@@ -958,8 +956,6 @@ https://fr.wikipedia.org/wiki/Auto-organisation
 
 
 
-
-
 Jusqu'alors, les instruction était écrites en binaire, Maurice Wilkes et David Wheeler, qui en **1949** travaillèrent sur l'Electronic Delay Storage Automatic Calculator (EDSAC), et le Binary Automatic Computer (BINAC), ont récupérer l'idée d'une notation utilisée par Von Neuman et Herman Goldstine.
 
 Pour exemple, un ingénieur pouvait indiquer la notation `A 25 S` sur papier pour décrire l'instruction d'ajouter dans l'emplacement mémoire de numéro 25 l'entier court (**S**hort type : pouvant stocker les entiers de -32 767 à 32 767). Cette instruction serait alors récupérée par un technicien qui le convertira en binaire, obtenant `1110000000110010`. Une fois inscrite en binaire dans le système, il était compliqué de "debugger" et voir où était située l'erreur.
@@ -1110,45 +1106,29 @@ IBM décide alors de concevoir le System/360 en 1962, il n'a pas été économe 
 
 Niveau marketing ils aurait pu tout anoncer d'un coup mais ont décider d'anoncer machine par machine permettant une adoption progressive comme cela avait été le cas pour le passage des machines electromécaniques aux ordinateurs dans les années 50.
 
-Alors qu'Honeywell lance en 1963 le modèle 200 compatible IBM 1401, qu'IBM décida de rendre progressivement obsolète, et lance en **1964** la communication du System/360 dans 63 villes des États Unis et 14 pays étrangers, 6 ordinateurs et 44 périphériques.
-
-S'en suit plus de 5 billions de chiffre d'affaire, 30 ans de croissance, "l'ordinateur a été fait par IBM et a fait IBM".
-
-Cet ordinateur avait pourtant bien des défauts, il ne supportait pas le temps partagé, permettant d'être utilisé par plusieurs utilisateurs en même temps.
+Alors qu'Honeywell lance en 1963 le modèle 200 compatible IBM 1401, qu'IBM décida de rendre progressivement obsolète, et lance en **1964** la communication du System/360 dans 63 villes des États Unis et 14 pays étrangers, 6 ordinateurs et 44 périphériques. S'en suit plus de 5 billions de chiffre d'affaire, 30 ans de croissance, "l'ordinateur a été fait par IBM et a fait IBM". Cet ordinateur avait pourtant bien des défauts, il ne supportait pas le temps partagé, permettant d'être utilisé par plusieurs utilisateurs en même temps.
 
 
 
 
 
-#### Théorie algorithmique de l'information
+#### Émergence de l'Intelligence Artificielle
 
-**1960**
+Comme je l'ai évoqué précédemment, depuis la parution de *La cybernétique* de Norbert Wiener qui a contribué à l'analogie entre êtres vivants et machines, la capacité des ordinateurs à prendre de la donnée en entrée, la traiter et obtenir un résultat en sortie, a rapidement amené la presse à décrire cette technologique comme des machine pensantes, avec une vitesse de traitement bien plus rapide que celle d'un cerveau humain. L'idée d'une intelligence artificielle était donc présente depuis les premières machines capables de suppléer ou remplacer les calculateurs humains. Mais démocratisation du terme et la naissance de l'intelligence artificielle comme domaine de recherche, est considérée comme ayant eu lieu durant l'été 1956, avec la conférence de Darthmouth qui a eu lieu au collège du même nom. John Mc Carthy, qui du haut de ses 28 ans, y est a ce moment professeur de mathématique assistant, après avoir chercher un financement pour l'organisation de cet évènement, il parvint à rallier de grands noms du domaine comme Marvin Minsk, Claude Shannon, Nathaniel Rochester, lui même, et bien d'autres, pour un total de 11 conférenciers. 
 
+L'année qui suit, c'est en **1957** que le psychologue Frank Rosenblatt publie son livre *Le Perceptron*. Initialement prévu pour être une machine, l'idée en a été abstraite à une représentation mathématique et informatique d'un neurone biologique. Le perceptron représente désormais un algorithme d'apprentissage supervisé qui prends plusieurs entrées, généralement quantitative, c'est à dire des nombres, et retourne toujours un booléen en sortie (1 ou 0, vrai ou faux). Le perceptron simple n'est constitué que d'une seule couche ne peut classifier que les ensembles de valeurs ou disons de points, qui sont clairement séparable par une ligne entre elles. Pour les problèmes de classification de plus de deux ensembles séparés par des lignes courbes, il faudra attendre 1965 pour qu'Alexey Ivakhnenko, étende ce simple concept en chainant plusieurs couches de perceptrons, donnant ainsi naissance au deep-learning. A partir de cette date, d'autres procédés comme la descente de gradient ou la backpropagation ont permis d'améliorer cette technologie et de répondre à des problèmes de plus en plus complexes.
 
+C'est également en 1965 que deux informaticiens, un médecin et un chimistes inventent Dendral. Ce programme permet d'identifier des structures moléculaires en se basant sur les connaissances d'experts et des techniques d'analyses telles que la spectrométrie de masse. Le fait que ce programme interactif puisse imiter le raisonnement d'un expert du domaine fait qu'il est considéré comme le premier de la famille d'intelligences artificielles dites "systèmes experts". Dendral a par la suite été utilisé comme outil d'aide à la décision. En effet, pour déterminer des molécules complexes, le nombre de possibilité est important et donc difficile à définir par un humain, il offrait ainsi l'avantage de rapidement donner les différentes combinaisons réalisables, en se basant sur les règles de la chimie et la masse moléculaire donnée par la spectrométrie.
 
-#### Computionnalisme
+L'année suivante, le programme ELIZA sera révélée. C'est une intelligence artificielle conversationnelle crée en 1966, qui a pour but de simuler un psychothérapeute, notamment en tournant des affirmations de l'utilisateur en questions. Ce logiciel prenait les phrases de l'utilisateur en entrée, essayait d'identifier des tournures de phrases communes et potentiellement en extraire un ou plusieurs mots à réutiliser dans la réponse. Il était programmé pour utiliser des phrases comme "Je comprends." ou "Je suis désolé d'entendre que tu est [insérer un adjectif négatif]" dans le but de donner une illusion d'empathie qui poussera certains utilisateurs à ne pas faire la différence avec une conversation humaine, faisant ainsi d'ELIZA l'un des premiers robots conversationnels à passer le test de Turing.
 
-**1961**
-
-
-
-
-
-#### Premières applications de l'IA
-
-Percepton En **1957**, le psychologue Frank Rosenblatt 
-
-Dendral fut créé en **1965** par deux informaticiens, 1 médecin et 1 chimiste. Ce programme permet d'identifier des structures moléculaires en se basant sur les connaissances d'expert et des techniques d'analyses telles que la spectrométrie de masse. C'est le premier programme considéré comme "système expert".
-
-Il a par la suite été utilisé comme outil d'aide à la décision. Pour des molécules complexes, le nombre de possibilité étant plus grand, il permet d'obtenir rapidement les différentes combinaisons réalisable selon les règles de la chimie et la masse moléculaire donnée.
-
-L'année suivante, en 1966 Eliza sera révélée, une intelligence artificielle conversationnelle dans le but de simuler un psychothérapeute, notamment en tournant des affirmations de l'utilisateur en questions.
+Entre temps, de la même manière que la presse à comparer les machines au cerveau humain, Hilary Putnam, philosophe de l'esprit, du langage et des sciences a établit le computationnalisme en 1960. A cette époque, l'approche en vogue était le comportementalisme qui assumait que les individus réagissait aux stimuli extérieurs uniquement en fonction de reflexes ou de leurs expériences passées. Le computionnalisme quant à lui consiste à penser l'ensemble des capacité du cerveau humain, c'est à dire l'esprit, comme un système complexe de traitement de l'information. Ce système biologique est en effet capable de dérouler des étapes et passer par plusieurs états, à la manière d'un algorithme ou d'un automate, convertissant une entrée, en l'occurrence une pensée ou des sensations, en une réaction en sortie. Cette théorie est englobée dans le cognitivisme qui ne se cantonne pas qu'au traitement de l'information, mais inclue notamment tout le système de perception, d'attention, et même de motricité ou d'affects. Ces deux théories aboutiront au connexionnisme des années 1980 qui aborde les phénomènes mentaux en les modélisant avec des réseaux de neurones issus du simple Perceptron.
 
 
 
 #### Du circuit électronique au microprocesseur
 
-Le circuit intégré et le microprocesseur ont en commun le fait d'avoir des origines plusieurs dizaines d'années avant leur démocratisation effective. C'est pourquoi j'ai besoin de faire un léger retour en arrière, avant même les deux guerres mondiales, à la période où apparaissent les [semi-conducteurs](#semi-conducteurs). En effet, les premiers prototypes de circuits imprimés apparaissent au début du 20<sup>ème</sup> siècle, composés de métal conducteurs appliqués sur une carte faite d'un matériau isolant aussi appelé diélectrique, ils ont été des premières tentatives de circuits électroniques complexes. En 1903 Albert Hanson dépose un premier brevet[^0] pour coller des fils conducteurs sur un papier de paraffine dans le but d'améliorer les branchements téléphoniques, posant les bases de cette technologie. Une vingtaine d'année plus tard, Charles Ducas déposa un brevet datant de 1925, pour un procédé utilisant la galvanoplastie électrolytique afin de graver un circuit électronique en utilisant un pochoir, décrivant par la même occasion la possibilité de réaliser des cartes ayant plusieurs couches de circuits conducteurs. [^1] Deux ans après, César Parolini réalisera également un brevet sur l'impression de motifs adhésifs en poudre de cuivre sur un diélectrique, suivant un procédé de Ducas et une idée de Thomas Edison. [^1.1] Enfin, c'est en 1943 que Paul Eisler dépose un autre brevet de gravure de motif conducteur, utilisant cette fois ci des feuilles de cuivre plaquées sur une base isolante servant de support au circuit électriques. [^2] 
+Le microprocesseur est un circuit intégré, tout deux sont également des circuits imprimés, dont l'origine est plusieurs dizaines d'années avant leur démocratisation. C'est pourquoi j'ai besoin de faire un léger retour en arrière, avant même les deux guerres mondiales, à la période où apparaissent les [semi-conducteurs](#semi-conducteurs). En effet, les premiers prototypes de circuits imprimés apparaissent au début du 20<sup>ème</sup> siècle, composés de métal conducteurs appliqués sur une carte faite d'un matériau isolant aussi appelé diélectrique, ils ont été des premières tentatives de circuits électroniques complexes. En 1903 Albert Hanson dépose un premier brevet[^0] pour coller des fils conducteurs sur un papier de paraffine dans le but d'améliorer les branchements téléphoniques, posant les bases de cette technologie. Une vingtaine d'année plus tard, Charles Ducas déposa un brevet datant de 1925, pour un procédé utilisant la galvanoplastie électrolytique afin de graver un circuit électronique grâce à un pochoir, décrivant par la même occasion la possibilité de réaliser des cartes ayant plusieurs couches de circuits conducteurs. [^1] Deux ans après, César Parolini réalisera également un brevet sur l'impression de motifs adhésifs en poudre de cuivre sur un diélectrique, suivant un procédé de Ducas et une idée de Thomas Edison. [^1.1] Enfin, c'est en 1943 que Paul Eisler dépose un autre brevet de gravure de motif conducteur, utilisant cette fois ci des feuilles de cuivre plaquées sur une base isolante servant de support au circuit électriques. [^2] 
 
 [^0]: https://worldwide.espacenet.com/patent/search/family/009975642/publication/?q=pn%3DGB269729A
 [^1]: https://patents.google.com/patent/US1563731A/en?inventor=Ducas+Charles | https://worldwide.espacenet.com/patent/search?q=pn%3DUS1563731A
@@ -1261,7 +1241,7 @@ Cela à permis de redéfinir plus précisément l'intentionnalité, à la fois c
 
 
 
-La dernière expérience de pensée que je veux vous présenter est le *cerveau dans une cuve*. C'est une reformulation moderne du malin génie de Descartes, imaginée par Hilary Putnam en 1981, cette expérience de pensée invite à s'imaginer que notre cerveau pourrait être placé dans une cuve, et qu'il recevrait des stimuli envoyés par une machine, chargée de nous simuler le monde extérieur. La problématique étant alors de savoir si ce cerveau à raison de croire de qu'il perçoit.
+La dernière expérience de pensée que je veux vous présenter est le *cerveau dans une cuve*. C'est une reformulation moderne du malin génie de Descartes, imaginée par le computationnaliste Hilary Putnam en 1981, cette expérience de pensée invite à s'imaginer que notre cerveau pourrait être placé dans une cuve, et qu'il recevrait des stimuli envoyés par une machine, chargée de nous simuler le monde extérieur. La problématique étant alors de savoir si ce cerveau à raison de croire de qu'il perçoit.
 
 La thèse serait ainsi de dire que comme les signaux envoyés aux cerveaux ne correspondent à rien de tangible dans notre monde, alors il est dans l'illusion. L'antithèse, revient à justifier que le stimuli étant identique, il est tout à fait légitime du point de vue du cerveau, de dire qu'il le reconnaît bien.
 
