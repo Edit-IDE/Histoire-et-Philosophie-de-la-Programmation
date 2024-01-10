@@ -12,7 +12,11 @@ Mémoire de fin d'étude pour la validation du diplôme résultant de mon parcou
 
 ## 1.1. Résumé
 
-Cet ouvrage, conformément à son titre et aux recherches qu'il a nécessité, énonce le passé, le présent, et ma pensée concernant le futur de la gestion de l'information. L'étude des connaissances existantes sur ce sujet vous replongera sûrement dans vos cours d'Histoire, elle mettra en situation le présent avec un abrégé allant de la préhistoire jusqu’à l'état actuel du monde scientifique, et plus particulièrement de l'informatique. Cette discipline récente permet désormais de solutionner et automatiser beaucoup de tâches pénibles, mais sa pratique en elle même reste fastidieuse. C'est pourquoi j'en ai fait le cœur de ma problématique, que je l'analyse pour la repenser dans un essai philosophique, et que la dernière partie se nomme "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?". À l'aide des parties précédentes analysant son origine, la conclusion proposera ainsi une solution informatique innovante, combinant des technologies et pratiques existantes pour se simplifier elle même en utilisant de la rétro-action, et de la méta-programmation à travers une interface graphique simple et agréable.
+L'histoire de l'information, c'est celle de ceux qui y ont contribué au travers de leurs actes, lectures, écrits, et dires. La philosophie quant à elle représente l'amour du savoir, c'est la constitution d'une pensée dans le temps, et de l'âme informationnelle qu'elle émane à chaque instant de sa vie. Cette pensée, comme l'intelligence, peut être individuelle comme collective. Il n'y a pas d'autre réalité que l'instant présent, et je vais vous raconter ma vision de la réalité au moment où j'écrit ce texte, grâce aux ressources à ma disposition.
+
+Cet ouvrage, conformément à son titre et aux recherches qu'il a nécessité, énonce donc le passé, le présent, et ma pensée concernant le futur de la gestion de l'information. L'étude des connaissances existantes sur ce sujet vous replongera sûrement dans vos cours d'Histoire. Cet état de l'art mettra en situation le présent avec un abrégé allant de la préhistoire jusqu’à l'état actuel du monde scientifique, et plus particulièrement de l'informatique. En tant que développeur, j'ai pu voir en quoi cette discipline récente permet désormais de solutionner et automatiser beaucoup de tâches pénibles, mais aussi que sa pratique en elle même reste fastidieuse. C'est pourquoi j'en ai fait le cœur de ma problématique, que j'analyse pour la repenser dans un essai philosophique, et que la dernière partie se nomme "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?". À l'aide des parties précédentes analysant son origine, la conclusion proposera ainsi une solution informatique innovante, combinant des technologies existantes pour se simplifier elle même en utilisant de la rétro-action, et de la méta-programmation à travers une interface graphique simple et agréable.
+
+
 
 <div style="page-break-after: always;"></div>
 
@@ -255,15 +259,19 @@ Présentation de mon parcours et des gros projets sur lesquels j'ai travaillé e
 
 ## 1.4. Remerciements
 
-Je ne remercierai jamais assez mes parents et grand parents, qui ont eu la chance d'être propriétaires d'ordinateurs, et d'une connexion d'internet, avant ma naissance en 1999. Grâce à cela il ont eu la démarche raisonnée de m'introduire à cette technologie, sur des logiciels éducatifs qui m'ont permis de savoir lire à l'âge de 2 ans.
+Je ne remercierai jamais assez mes proches, amis, membres de ma famille, et notamment mes trois parents et mes grand parents paternels, qui ont eu la chance d'être propriétaires d'ordinateurs, et d'une connexion d'internet, avant ma naissance en 1999. Grâce à cela il ont eu la démarche raisonnée de m'introduire à cette technologie, sur des logiciels éducatifs qui m'ont permis de savoir lire à l'âge de 2 ans. Merci également à mes grands parents maternel qui m'ont transmis les bases de la musique et du chant grâce a leurs dévotion à la chorale et l'orchestre des messes de Rouffignac.
 
 Merci à toutes les personnes et enseignants des entreprises et écoles qui m'ont accueillis, lors de ma scolarité, et de mon début de carrière, me transmettant une majeure partie ce que je sais aujourd'hui, et ce dans la bienveillance, grâce à des processus itératifs d'amélioration continue.
+
+Merci tout particulièrement à l'École Hexagone et à ABGX sans lesquels je n'aurais sans doute pas pris le temps d'écrire ce mémoire et donc ni découvert toutes les informations qu'il contient, ni affuter mon esprit, ma volonté, détermination et rigueur.
 
 Merci aux logiciels libres, à l'open source, à Wikipédia et tout leurs contributeurs.
 
 Merci à toutes et tous, car nos métiers et découvertes ne sont que rarement le fruit d'un génie isolé, mais bien d'une collaboration et de l'amélioration d'idées antérieures.
 
 Enfin, merci à toute personne qui lit actuellement ce texte.
+
+Demandez vous pour qui vous le faites, la réponse devrait toujours être  `∀ (soi ∧ autrui)`. La réponse est mathématique et logique, et si elle n'est pas évidente, je vous donnerai de quoi déchiffrer cette syntaxe dans ce livre.
 
 
 
