@@ -8,7 +8,7 @@ Mémoire de fin d'étude pour la validation du diplôme résultant de mon parcou
 
 ## Bienvenue
 
-Ce document PDF a été généré avec du code Markdown édité en temps réel à l'aide du logiciel Typora. [Les textes en violet soulignés foncés sont des liens.](#Remerciements) La bibliographie sera indiquée avec des annotations préfixées par la lettre b, comme suit.[^b1]Pareil pour la webographie avec la lettre w.[^w1]Vidéographie avec la lettre v[^v1]. Et cetera.
+Ce document PDF a été généré avec du code Markdown édité en temps réel à l'aide du logiciel Typora. [Les textes en violet soulignés foncés sont des liens.](#Remerciements) La bibliographie sera indiquée avec des annotations préfixées par la lettre b, comme suit.[^b1]Pareil pour la webographie avec la lettre w.[^w1]Vidéographie avec la lettre v[^v1]. Code avec la lettre c[^c1]Et cetera.
 
 L'usage du pronom impersonnel "on" est proscrit, et je souhaite éviter l'usage d'annexes et de lexique / glossaire pour expliciter mon texte. Si vous êtes un(e) relecteur(ice), et que vous constatez quelque chose de tel ou ne comprenez pas une certaine partie, je vous remercierai de me l'indiquer afin que je puisse essayer retravailler le texte pour le rendre explicite et ainsi éviter aux futurs lecteurs de devoir aller chercher une définition, ou une page tierce afin de poursuivre sa lecture en ayant compris. Si un terme de vocabulaire vous pose problème ou vous à demandé l'usage d'un dictionnaire, j'adapterai   le texte pour l'expliciter si possible, autrement, je le rajouterai au lexique, ou l'expliquerai en note de bas de page. 
 
@@ -2127,7 +2127,11 @@ facilité d'utilisation, utilité, satisfaction, l'utilisation de l'application 
 
 
 
+### Futur
 
+Je ne dais pas encore de quoi sera fait le futur. Je pense que je vais devoir l'ecrire apres le present moment qui acheve ce livre. Je n'aurais nullement la pretention de dire qu'EditIDE est le futur, car pour cela il faudrai que le logiciel existe deja de maniere utilisable et utilisé.
+
+Encore merci de m'avoir lu.
 
 ___
 
@@ -2194,11 +2198,11 @@ Dès que j'avais une idée ou une information qui pouvait se relier à mon mémo
 
 J'ai parfois rencontré des problèmes pour retrouver des informations, pour Raymond Lulle par exemple, j'ai dû récupérer la page en catalan pour mieux comprendre le lien entre Lulle et la logique combinatoire et computationnelle qui a inspiré Leibniz, puis croiser avec le livre *Histoire de l'informatique illustrée*. En effet, certains concepts comme l'*automatic programming*, ne possède pas de page Wikipédia ni de définition en français. J'ai donc très souvent croiser les versions anglaises et françaises des pages Wikipédia que je consultaient ainsi que leurs bibliographie pour être sur de la source et de la véracité des informations. Cela m'as permis de découvrir et lire des textes historiques fantastiques comme *School and Society* de John Dewey, *How to Make Our Ideas Clear* de Charles S. Peirce ou le texte *As we may think* de Vannevar Bush, prouvant encore une fois que beaucoup d'inventions et informations qui n'était pas encore connues du grand public, était déjà accessible aux plus curieux.
 
-###### Je n'ai pas pu tout garder, et j'ai du parler de personnes qui ont écris des choses ou fait des choses regrettable, j'ai pourtant parler de Lancaster qui dans lors de son enseignement a brutalisé des enfants, ou de Rousseau qui disait que "Toute l'éducation des femmes doit être relative aux hommes, leur plaire, leur être utile, se faire aimer, honorer d'eux, les élever jeunes, les soigner grands, les consoler, leur rendre la vie agréable et douce. Voilà les devoir d'une femme dans tous les temps et ce qu'on doit leur apprendre dès leur enfance". Personnellement je pense que ce genre d'injonction ne devrait pas être genré au féminin, au risque même d'en priver les Hommes dans le sens de l'humanité. De la même manière, Nicole-Claude Mathieu à déclarer que la féminité est "imposée aux femmes, et de la masculinité, apprise aux hommes", et je souhaite à tout le monde d'apprendre sans jamais ne se laisser imposer quoi que ce soit, n'hésitez pas à fuir, ça s'apprends également au même titre que le courage, qui n'est rappelons le, pas l'absence de peurs, mais sa capacité à les gérer.
+Je n'ai pas pu tout garder, et j'ai du parler de personnes qui ont écris ou fait des choses regrettable, j'ai pourtant parler de Lancaster qui dans lors de son enseignement a brutalisé des enfants, ou de Rousseau qui disait que "*Toute l'éducation des femmes doit être relative aux hommes, leur plaire, leur être utile, se faire aimer, honorer d'eux, les élever jeunes, les soigner grands, les consoler, leur rendre la vie agréable et douce. Voilà les devoir d'une femme dans tous les temps et ce qu'on doit leur apprendre dès leur enfance*". Personnellement je pense que ce genre d'injonction ne devrait pas être genré au féminin, au risque même d'en priver les Hommes dans le sens de l'humanité. De la même manière, Nicole-Claude Mathieu à déclarer que la féminité est "*imposée aux femmes, et de la masculinité, apprise aux hommes*", et je souhaite à tout le monde d'apprendre sans jamais ne se laisser imposer quoi que ce soit, n'hésitez pas à fuir, ça s'apprends également au même titre que le courage, qui n'est rappelons le, pas l'absence de peurs, mais sa capacité à les gérer.
 
 
 
-5V de l'information sont volume vitesse variété véracité valeur, pour écrire ce mémoire c’est surtout le volume et la bonne variété ou proportion ainsi que la véracité qui a été au coeur de mes préoccupations. Comme mon mémoire a été rédigé en Markdown, son code est lisible et à la même structure que le document en résultant.
+5V de l'information sont volume vitesse variété véracité valeur, pour écrire ce mémoire c’est surtout le volume et la bonne variété ou proportion ainsi que la véracité qui a été au coeur de mes préoccupations. Comme mon mémoire a été rédigé en Markdown, son code est lisible et à la même structure que le document en résultant. J'ai donc ainsi pu le traiter comme de la donnée pour en extraire les 50 mots les plus utilisés à l'aide d'un programme Python[^c1]
 
 ![image-20240109211729812](C:\Users\admin\AppData\Roaming\Typora\typora-user-images\image-20240109211729812.png)
 
@@ -2328,6 +2332,8 @@ https://fr.wikipedia.org/wiki/%C3%89pist%C3%A9mologie
 
 https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_la_connaissance
 
+https://fr.wikipedia.org/wiki/Formule_de_Kelly
+
 
 
 https://www.youtube.com/watch?v=8KHuSw0W6OA
@@ -2360,13 +2366,72 @@ https://www.youtube.com/watch?v=Ag1AKIl_2GM
 
 https://www.youtube.com/watch?v=avTMg2THEvM
 
-
+https://www.youtube.com/watch?v=uL1FF_iwpr4
 
 Lean Startup
 
 
 
 https://www.amazon.fr/Building-Blocks-Teaching-Preschoolers-Special/dp/1557669678
+
+
+
+#### Code
+
+[^c1]: voir code en annexe
+
+```python
+import pandas as pan;
+import numpy as np;
+import io;
+import matplotlib.pyplot as plt;
+
+f = io.open("HistoirePhilosophieInformation.md", mode="r", encoding="utf-8")
+initialText = f.read()
+formattedText = initialText;
+
+charactersToRemove = ["#", "*", ",", "."]
+for char in charactersToRemove:
+    formattedText = formattedText.replace(char, "")
+    initialText = initialText.replace(char, "")
+
+charactersToReplaceBySpace = ["'", "’"]
+for char in charactersToReplaceBySpace:
+    formattedText = formattedText.replace(char, " ")
+
+
+def removeEmptyStrings(item):
+    return item != ""
+
+def displaySerie(serie): 
+    print(len(serie.index))
+    plt.figure(figsize=(20, 5))
+    plt.xticks(rotation=90)
+    plt.plot(serie.index, serie.values)
+    plt.show()
+
+def splitTextToWords(lines):
+    return pan.Series(
+        list(
+            filter(removeEmptyStrings, " ".join(lines).split(" "))
+        )
+    )
+
+lines = initialText.split("\n")
+formattedLines = formattedText.split("\n")
+wordList = splitTextToWords(lines);
+formattedWordList = splitTextToWords(formattedLines);
+
+values_count = formattedWordList.value_counts();
+
+values_more_than_5_letters = values_count[values_count.index.str.len() > 5].loc[lambda x : x > 20]
+
+print(f'Nombre de mots : {len(wordList)}');
+displaySerie(values_more_than_5_letters)
+
+```
+
+
 
 #### Lexique
 
