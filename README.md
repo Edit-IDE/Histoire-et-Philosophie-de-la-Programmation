@@ -1,10 +1,10 @@
-# Histoire et Philosophie de l'information
+# Origines et Évolution de l'Informatique
 
-Mémoire de fin d’année de 2e année de Mastère d’architecture des systèmes d’information à l’Ecole Hexagone.
+Mémoire de fin d’année de 2<sup>ème</sup> année de Mastère Architecture des Systèmes d'Information à l'École Hexagonee.
 
 
 
-## [Lire](./HistoirePhilosophieInformation.md)
+## [Lire](./OriginesEvolutionInformatique/OriginesEvolutionInformatique.md)
 
 
 
