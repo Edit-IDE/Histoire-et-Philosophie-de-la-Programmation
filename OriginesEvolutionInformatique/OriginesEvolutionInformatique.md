@@ -400,9 +400,9 @@ Pour faire la transition entre l'affichage numérique et les composants électro
 
 
 
-Au début du 20ème siècle, c'est en **1904** que John Ambrose Fleming (à ne pas confondre avec les biologistes Walther Flemming et Alexander Fleming qui ont respectivement découverts la mitose et la pénicilline à la même période) se base sur des travaux de Thomas Edison datant de 1883 et de Frederick Guthrie en 1873, pour appliquer leurs technologie dans le but de remplacer les détecteurs magnétique des radio et permettre d'amplifier leurs signaux. Il invente ainsi le *kénotron*, premier **tube à vide, ancêtre des diodes et semi-conducteurs**.
+Au début du 20ème siècle, c'est en **1904** que **John Ambrose Fleming** (à ne pas confondre avec les biologistes Walther Flemming et Alexander Fleming qui ont respectivement découverts la mitose et la pénicilline à la même période) se base sur des travaux de Thomas Edison datant de 1883 et de Frederick Guthrie en 1873, pour appliquer leurs technologie dans le but de remplacer les détecteurs magnétique des radio et permettre d'amplifier leurs signaux. Il invente ainsi le *kénotron*, premier **tube à vide, ancêtre des diodes et semi-conducteurs**.
 
-Le principe du semi-conducteur à été découvert en 1874 par Karl Ferdinand Braun, qui s'est rendu compte que l'on pouvait faire passer un courant électrique dans une direction donnée à l'aide d'un fin fil de métal et d'un crystal de galène, inventant ainsi la diode. Cette découverte a été réutilisée dans les tubes à vides de Fleming, permettant d'avoir des bascules allumée / éteinte avec un signal directionnel. Par la suite Lee De Forest inventera l'Audion en **1906** avec l'ajout d'une électrode intermédiaire à une diode, permettant de convertir une variation de courant en variation de tension et de puissance, permettant ainsi l'amplification d'un signal. William Eccles renommera cette invention triode en 1919. Tout deux ont contribués pour beaucoup dans le développement des circuits électroniques et de la transmission sans fil avec la naissance de la radio.
+Le principe du semi-conducteur à été découvert en **1874** par **Karl Ferdinand Braun**, le même qui a inventer les tubes cathodiques de Braun une vingtaine d'année après. Il s'est rendu compte que l'on pouvait faire passer un courant électrique dans une direction donnée à l'aide d'un fin fil de métal et d'un crystal de galène, inventant ainsi la **diode**. Cette découverte a été réutilisée dans les tubes à vides de Fleming, permettant d'avoir des bascules allumée / éteinte avec un signal directionnel. Par la suite **Lee De Forest** inventera l'Audion en **1906** avec l'ajout d'une électrode intermédiaire à une diode, permettant de convertir une variation de courant en variation de tension et de puissance, permettant ainsi l'amplification d'un signal. **William Eccles** renommera cette invention **triode** en 1919. Tout deux ont contribués pour beaucoup dans le développement des circuits électroniques et de la transmission sans fil avec la naissance de la radio.
 
 
 
@@ -410,11 +410,9 @@ Le principe du semi-conducteur à été découvert en 1874 par Karl Ferdinand Br
 
 Maintenant que la base matérielle est en place, je vais introduire la partie théorique de la logique qui régit l'informatique. **Bolzano** est un philosophe logicien né en 1781 qui a proposé son œuvre "*Théorie de la science*" pour tenter d'unifier la logique globale, pensant la chose telle un système, un tout composé de parties distinctes de ce dernier. Il a introduit le mot objet comme quelque chose qui est représenté par une idée. À l'inverse, une idée abstraite qui serait irréalisable ne possède donc pas d'objet et ainsi rien de concret. L'idée du "rien" n'a d'ailleurs par définition pas d'objet. Ce concept d'objet de Bolzano me fait étrangement penser à la notion de classe abstraite en programmation objet, qui est une idée ne pouvant être instanciée en objet tant qu'elle n'est pas étendue par une autre classe non abstraite permettant elle la création d'un dit objet.
 
-Entre **1844** et **1854**, **George Boole**, invente un algèbre binaire éponyme. Basé sur vrai et faux, 1 et 0, l'**algèbre booléen** formule les variables, opérations et fonctions logiques. Il a ainsi posé les bases de la logique moderne, qui sera reprise par les personnalités suivant ce récit. Un peu plus d'une dizaine d'années après la naissance de l'algèbre de Boole, **Charles Sanders Peirce**, influencé par Bolzano, en enseignera et répandra les concepts aux états-Unis à partir de 1867. Peirce a introduit le pragmatisme comme philosophie mais aussi méthode scientifique, partant d'axiomes intuitifs pour en dégager un raisonnement logique, sa philosophie pragmatique influença à son tour John Dewey et bien d'autres. Dans ce cadre, il a élaborer une catégorisation en trois niveaux de clarté, la priméité qui est de l'ordre de la sensation permettant d'avoir une vague idée de la chose perçue. Vient ensuite la secondéité, en tant qu'idée singulière reliée ou corrélée à une autre. Et enfin la tiercéité, qui est l'interprétation ou la représentation du concept en lui même comme quelque chose d'habituel.  Philosophe mais surtout scientifique et logicien, il a contribué à la notation logique et il est le premier a avoir réalisé une table de vérité.[^1] Aujourd'hui encore, sa notation dite flèche de Peirce (A↓B) est utilisée pour induire une porte NOR (ni A ni B) entre deux proposition logiques.
+Entre **1844** et **1854**, **George Boole**, invente un algèbre binaire éponyme. Basé sur vrai et faux, 1 et 0, l'**algèbre booléen** formule les variables, opérations et fonctions logiques. Il a ainsi posé les bases de la logique moderne, qui sera reprise par les personnalités suivant ce paragraphe. Un peu plus d'une dizaine d'années après la naissance de l'algèbre de Boole, **Charles Sanders Peirce**, influencé par Bolzano, en enseignera et répandra les concepts aux États-Unis à partir de 1867. Peirce a introduit le pragmatisme comme philosophie mais aussi méthode scientifique, partant d'axiomes intuitifs pour en dégager un raisonnement logique, sa philosophie pragmatique influença à son tour John Dewey et bien d'autres. Dans ce cadre, il a élaboré une catégorisation en trois niveaux de clarté, la priméité qui est de l'ordre de la sensation permettant d'avoir une vague idée de la chose perçue. Vient ensuite la secondéité, en tant qu'idée singulière reliée ou corrélée à une autre. Et enfin la tiercéité, qui est l'interprétation ou la représentation du concept en lui même comme quelque chose d'habituel.  Philosophe mais surtout scientifique et logicien, il a contribué à la notation logique et il est le premier a avoir réalisé une table de vérité.[^1] Aujourd'hui encore, sa notation dite flèche de Peirce (A↓B) est utilisée pour induire une porte NOR (ni A ni B) entre deux proposition logiques.
 
-Gottlob Frege, plus jeune d'une dizaine d'année, a fait correspondre plusieurs principes mathématiques à la logique et l'arithmétique, dont celui du philosophe David Hume. A cet effet, il a développé la pensée selon laquelle les principes mathématiques ont un équivalent en logique et même que la logique serait un domaine incluant les mathématiques en son sein, ce mouvement de pensée a été nommé logicisme. Il a également repris la caractéristique universelle de Leibniz et développé une notation logique qu'il a décrit dans un ouvrage nommé *Idéographie* (*Begriffsschrift* en allemand) publié en 1879. Il y fait correspondre des notations mathématiques à ses notations logique. C'est alors que Bertrand Russel lui envoie un paradoxe empêchant d'aboutir son œuvre, paradoxe qu'il solutionnera lui même par la suite. Frege, se basant potentiellement sur *How To Make Ideas Clear* de Peirce, et avec l'aide Bertrand Russel, fonda également le mouvement de la philosophie analytique dans le but de clarifier les pensées. Russel à par la suite coécrit une œuvre publiée en 1910 au fondement de la logique mathématique nommée *Principia Mathematica* avec l'aide d'Alfred North Whitehead qui sera à l'origine de la philosophie des processus. *Vorlesungen über die Algebra der Logik* de Ernst Schröder et Tractatus Logico-Philosophicus de Ludwig Wittgenstein
-
-Enfin, de nos jours, des suites d'un groupe de travail de Xerox voulant standardiser les charactères de code, la norme Unicode a petit à petit posé les bases des charactères logiques. De nos jours, nous  pouvons donc écrire des propositions avec les principaux caractères logiques suivants : 
+Gottlob Frege, plus jeune d'une dizaine d'année, a fait correspondre plusieurs principes mathématiques à la logique et l'arithmétique, dont celui du philosophe David Hume. A cet effet, il a développé la pensée selon laquelle les principes mathématiques ont un équivalent en logique et même que la logique serait un domaine incluant les mathématiques en son sein, ce mouvement de pensée a été nommé logicisme. Il a également repris la caractéristique universelle de Leibniz et développé une notation logique qu'il a décrit dans un ouvrage nommé *Idéographie* (*Begriffsschrift* en allemand) publié en 1879. Il y fait correspondre des notations mathématiques à ses notations logique. C'est alors que Bertrand Russel lui envoie un paradoxe empêchant d'aboutir son œuvre, paradoxe qu'il solutionnera lui même par la suite. Frege, se basant potentiellement sur *How To Make Ideas Clear* de Peirce, et avec l'aide Bertrand Russel, fonda également le mouvement de la philosophie analytique dans le but de clarifier les pensées. Russel à par la suite co-publié une œuvre de 1910 qui est au fondement de la logique mathématique. Elle est nommée *Principia Mathematica* et à été réalisée avec l'aide d'Alfred North Whitehead qui sera quant à lui le fondateur de la philosophie des processus. Par la suite, les travaux des logiciens cités précédemment seront repris et aboutit par le mathématicien et professeur d'université Ernst Schröder dans son *Vorlesungen über die Algebra der Logik* , puis par le philosophe Ludwig Wittgenstein dans *Tractatus Logico-Philosophicus*. Enfin, des suites d'un groupe de travail de Xerox voulant standardiser les charactères de code, la norme Unicode a petit à petit posé les bases des charactères logiques. De nos jours, nous pouvons donc écrire des propositions et des tables de vérités avec les principaux caractères logiques suivants : 
 
 | Caractères :    |    A ⇒ B     |   A ⇔ B    |       **¬** A       | A ∧ B  | A ∨ B  |     A ⊻ B     |   A ↓ B   |                     ∀A : B                     |     A ⊢ B      |
 | :-------------- | :----------: | :--------: | :-----------------: | :----: | :----: | :-----------: | :-------: | :--------------------------------------------: | :------------: |
@@ -434,11 +432,11 @@ Enfin, de nos jours, des suites d'un groupe de travail de Xerox voulant standard
 
 https://www.youtube.com/watch?v=RQYuyHNLPTQ
 
-Petit retour en arrière. Dans la section [Premières machines à calculer](#Premières-machines-à-calculer) de l'époque moderne, j'ai introduit Basile Bouchon, Jean-Baptiste Falcon, et Vaucanson qui ont prototype le métier à tisser automatisé. Pour finir de tisser cette partie de l'histoire, **Joseph Marie** Jacquard invente en **1800** le **métier à tisser Jacquard**, complètement automatisé. Cette machine inspirera Charles Babbage, la première personne à avoir automatiser l'édition de tables de calcul. Il a initialement travaillé avec des calculateurs humains, "computers" en anglais, sa langue natale. La conception de telles tables étaient fastidieuses à superviser et encore plus à calculer et réaliser. Il a œuvré à développer une machine basée sur les méthodes de calcul de l'époque, réalisées par des gens qui étaient coiffeurs, ayant perdu leur travail suite à la révolution française, période après laquelle la coiffure étant vue comme symbole de l'aristocratie, a été délaissée. Ils effectuaient essentiellement des additions et des soustraction, sous la supervision de mathématiciens qui leurs prépareraient les formules d'après la méthode des différences finies. D'où le nom de la machine qu'il a inventé en **1834**, "la machine à différences". Ayant l'expérience du milieu, il voulait réaliser un système fiable, résilient a l'erreur. Cette dernière pouvait provenir du calcul, mais arrivant le plus souvent lors de l'impression, il à donc fait en sorte, dès la phase de design, que sa machine prépare directement le texte en résultant pour l'impression. C'est une approche très intéressante réduisant les intermédiaires et automatisant toute la chaine de création, que je reprendrais plus tard. La machine est à ce moment déjà un outil qui peut guider et réduire les erreurs, ce qui à l'époque était crucial, notamment en mer où une erreur de calcul ou d'impression sur l'almanach du navigateur pouvait mener à la perte de tout un navire et de son équipage. De 1820 à 1830 il a visité beaucoup d'usines en Europe dans le but de trouver des idées pour sa machine à différences, il n'en trouva pas beaucoup mais cela lui a permis de devenir un économiste des machines industrielles à son époque. À peine eu t'il conçu la machine à différence, qu'il eu oublié la finalité de base : réaliser des tables de calcul, et il embrassa alors l'idée d'une machine capable de calculer tout ce qu'un humain pourrait lui demander, la Machine Analytique. De son vivant, seul le concept existait, elle ne vu le jour que grâce à son fils, qui après une tentative infructueuse en 1888, revint à la charge et réalisa en 1906 une machine fonctionnelle qu'il eu présenté devant l'académie royale anglaise d'astronomie, après quoi il en fit don au musée des sciences de Londres en 1910.
+Dans la section "[Premières machines à calculer](#Premières-machines-à-calculer)" du chapitre "époque moderne", j'ai introduis Basile Bouchon, Jean-Baptiste Falcon, et Vaucanson qui ont prototype le métier à tisser automatisé. Pour finir de tisser cette partie de l'histoire, **Joseph Marie** Jacquard invente en **1800** le **métier à tisser Jacquard**, complètement automatisé. Cette machine inspirera **Charles Babbage**, la première personne à avoir automatiser l'édition de tables de calcul. Il a initialement travaillé avec des calculateurs humains, "computers" en anglais, sa langue natale. La conception de telles tables étaient fastidieuses à superviser et encore plus à calculer et réaliser. Il a œuvré à développer une machine basée sur les méthodes de calcul de l'époque, réalisées par des gens qui étaient coiffeurs, ayant perdu leur travail suite à la révolution française, période après laquelle la coiffure étant vue comme symbole de l'aristocratie, a été délaissée. Ils effectuaient essentiellement des additions et des soustraction, sous la supervision de mathématiciens qui leurs prépareraient les formules d'après la méthode des différences finies. D'où le nom de la machine qu'il a inventé en **1834**, "la machine à différences". Ayant l'expérience du milieu, il voulait réaliser un système fiable, résilient a l'erreur. Cette dernière pouvait provenir du calcul, mais arrive le plus souvent lors de l'impression, il à donc fait en sorte, dès la phase de design, que sa machine prépare directement le texte en résultant pour l'impression. C'est une approche très intéressante, qui réduit les intermédiaires et automatise toute la chaine de création. La machine est un outil qui peut guider et réduire les erreurs, ce qui à l'époque était crucial, notamment en mer, où une erreur de calcul ou d'impression sur l'almanach du navigateur pouvait mener à la perte de tout un navire et de son équipage. De 1820 à 1830 il a visité beaucoup d'usines européennes dans le but de chercher des idées pour sa machine à différences. Il ne parvint pas à son objectif initial mais devint un économiste des machines industrielles de son époque. À peine eu t'il conçu la machine à différence, qu'il eu oublié la finalité de base : réaliser des tables de calcul, et il embrassa alors l'idée d'une machine capable de calculer tout ce qu'un humain pourrait lui demander, la Machine Analytique. De son vivant, seul le concept existait, elle ne vu le jour que grâce à son fils, qui après une tentative infructueuse en 1888, revint à la charge en 1906 et réalisa une machine fonctionnelle qu'il eu présenté devant l'académie royale anglaise d'astronomie, après quoi il en fit don au musée des sciences de Londres en 1910.
 
-Le métier Jacquard et les travaux de Charles Babbage sont donc à l'origine de la programmation. Un programme est une prévision écrite, c'est ce qui permet de répondre a la question "Quoi faire quand ?". Le tout premier programme informatique à été imaginé pour cette fameuse Machine Analytique par Ada Lovelace en **1842**, à 27 ans. 10 ans auparavant, elle rencontre Charles Babbage, avec qui elle travailla, notamment sur la machine analytique, pour laquelle elle conçu ce dit programme. Héritant de toutes les technologies et concepts énoncés précédemment dans cette section, Hermann Hollerith inventera la mécanographie 50 ans après qu'Ada ai écrit le premier programme informatique. Cet ingénieur américain a été recruté en tant que statisticien au Bureau de recensement des États Unis.
+Le métier Jacquard et les travaux de Charles Babbage sont donc à l'origine de la programmation. Un programme est une prévision écrite, c'est ce qui permet de répondre à la question "Quoi faire quand ?". Le tout **premier programme** informatique à été imaginé pour cette fameuse Machine Analytique par **Ada Lovelace** en **1842**, à 27 ans. 10 ans auparavant, elle rencontre Charles Babbage, avec qui elle travailla, notamment sur la machine analytique, pour laquelle elle conçu ce dit programme. Héritant de toutes les technologies et concepts énoncés précédemment dans cette section, **Hermann Hollerit**h inventera la **mécanographie** 50 ans après qu'Ada ai écrit le premier programme informatique. Cet ingénieur américain a été recruté en tant que statisticien au Bureau de **recensement** des États Unis.
 
-Dans la fin du 18<sup>ème</sup> siècle, en 1790, le premier recensement estimait la population des États-Unis à 3.9 millions d'individus. En 1840, 28 greffiers ont travaillés à la réalisation d'une estimation de 17.1 millions. Enfin, le recensement de 1880 a nécessité 1495 greffiers qui devait scrupuleusement pointer avec une couleur d'encre particulière pour chaque statistique effectuée. Avec la méthode automatisée par cartes perforées d'Hermann Hollerith dévoilée l'an **1890**, la création d'un tableau statistique à été accélérée de 10 fois par rapport à ses concurrents, remplaçant bon nombre de greffiers. Il a construit une machine à statistiques à cartes perforées qui exploite des cartes 12x6cm regroupant les 210 cases nécessaires pour recevoir toutes les informations nécessaires. Son invention a permis d'effectuer le recensement auparavant manuel en seulement six ans. Par la suite,  sur une idée de l'un de ses collègues, il a amélioré le fonctionnement de cette machine en utilisant un métier à tisser Jacquard pour mécaniser la lecture des fiches de recensement et améliorer son efficacité. Enfin, il finit par quitter l'administration et fonde la Tabulating Machine Company en 1896 qui fusionnera en 1911 avec 3 autres entreprise pour fonder la Computing-Tabulating-Recording Company (CTR). 
+Dans la fin du 18<sup>ème</sup> siècle, en 1790, le premier recensement estimait la population des États-Unis à 3.9 millions d'individus. En 1840, 28 greffiers ont travaillés à la réalisation d'une estimation de 17.1 millions. Enfin, le recensement de 1880 a nécessité 1495 greffiers qui devait scrupuleusement pointer avec une couleur d'encre particulière pour chaque statistique effectuée. Avec la méthode automatisée par cartes perforées d'Hermann Hollerith dévoilée l'an **1890**, la création d'un tableau statistique à été accélérée de 10 fois par rapport à ses concurrents, remplaçant bon nombre de greffiers. Il a construit une machine à statistiques à cartes perforées qui exploite des cartes 12x6cm regroupant les 210 cases nécessaires pour recevoir toutes les informations nécessaires. Son invention a permis d'effectuer le recensement auparavant manuel en seulement six ans. Par la suite, sur une idée de l'un de ses collègues, il a amélioré le fonctionnement de cette machine en utilisant un métier à tisser Jacquard pour mécaniser la lecture des fiches de recensement et améliorer son efficacité. Enfin, il finit par quitter l'administration et fonde la Tabulating Machine Company en 1896 qui fusionnera en 1911 avec 3 autres entreprise pour fonder la Computing-Tabulating-Recording Company (CTR). 
 
 
 
@@ -448,7 +446,15 @@ Dans la fin du 18<sup>ème</sup> siècle, en 1790, le premier recensement estima
 
 ### Guerres mondiales
 
-Des suites de la [philosophie contemporaine](#Philosophie-contemporaine), la relation entre le peuple et la religion à beaucoup changée, l'État étant constitué de représentants du peuple, sa relation avec l'Eglise a suivi la même logique. C'est ainsi que le 9 décembre **1905**, le régime concordataire qui définissait les certains des cultes les plus pratiqués comme services public depuis 1802, a été abrogé, séparant notamment l'État et l'Église, qui avait alors des avantages par rapport aux autres institutions religieuses. L'évènement déclencheur de cette abrogation est la fameuse affaire Dreyfus, pour laquelle Emile Zola à écrit "J'accuse !". À partir de cette abrogation, la République garantit la liberté de conscience et de culte mais ne finance plus aucune religion. Il faudra tout de même attendre la fin des deux guerres, pour que la laïcité soit démocratisée dans les année 1960.
+Des suites de la [philosophie contemporaine](#Philosophie-contemporaine), la relation entre le peuple et la religion à beaucoup changée, l'État étant constitué de représentants du peuple, sa relation avec l'Eglise a suivi la même logique. C'est ainsi que le 9 décembre **1905**, le régime concordataire qui définissait certains des cultes les plus pratiqués comme services public depuis 1802, a été abrogé, séparant notamment l'État et l'Église, qui avait alors des avantages par rapport aux autres institutions religieuses. L'évènement déclencheur de cette abrogation est la fameuse affaire Dreyfus, pour laquelle Emile Zola à écrit "J'accuse !". À partir de cette abrogation, la République garantit la liberté de conscience et de culte mais ne finance plus aucune religion. Il faudra tout de même attendre la fin des deux guerres, pour que la laïcité soit démocratisée dans les année 1960.
+
+Améliorations du stockage
+
+Lors de l'Exposition universelle de Paris qui a eu lieu en 1900, Valdemar Poulsen présente son invention d'un système d'enregistrement magnétique sur fil nommé télégraphone. Inspiré par ces travaux Fritz Pfleumer invente la bande magnétique en 1928 dans le but d'enregistrer du son comme ça sera le cas la même année avec le magnétophone de Karl Stille lui même inspiré du télégraphone. Quelques années après sera perfectionné la bande magnétique en acier, et une dizaine années plus tard, vers 1940, naitra la première bande magnétique en [matière plastique](https://fr.wikipedia.org/wiki/Matière_plastique).
+
+En temps, c'est en 1932 que l'ingénieur Gustav Tauschek, invente une nouvelle méthode de mémoire vive magnétique possédant un temps de lecture de seulement quelques millisecondes contre plusieurs centaines auparavant. Cette technologie dite mémoire tambour sera utilisé dans la conception de plusieurs machines dont le Manchester Mark I, l'ENIAC, l'IBM 650, l'IBM 701, et l'UNIVAC 1103 (version scientifique).
+
+
 
 Le conflit qui débute officiellement en 1914 est la première guerre à impliquer simultanément tout les pays, les machines de bureau deviennent électromécaniques, l'humain peut désormais rapidement transmettre des messages sur de longues distances à ses congénères à l'aide des télégraphes. Cette naissante industrie de l'information qu'est l'informatique cherchera à vendre des machine mécanographiques dans le monde entier. Elles serviront les gouvernement les plus puissant mais aussi les pires de cette époque, pendant laquelle une entreprise en particulier se démarquera des autres. Sa genèse en est marquée par la nouvelle technologie qu'est la mécanographie, et c'est Thomas Watson, qui après avoir travaillé à la récente et bien portante Nationnal Cash Register company (NCR), est embauché en 1914 pour diriger la regroupement d'entreprise de la CTR, et finira par fonder l'International Business Machines Corporation (IBM) après la guerre, en 1924.
 
@@ -456,17 +462,9 @@ Le conflit qui débute officiellement en 1914 est la première guerre à impliqu
 
 #### Tabulatrices
 
-Dans un atelier de mécanographie, de multiples stations d'outils étaient présentes, parmi ces outils, les perforatrices chargées de créer et vérifier les données en perforant des cartes, les trieuses responsables de créer les différents lots de cartes, les interclasseurs capables de réunir deux lots de cartes avec des informations différentes en une seule grâce à une colonne de donnée commune aux deux, et les reproductrices permettant de copier des cartes perforées en une seule perforation. Jusque là, ces premier outils mécanographique étaient appelés machines à statistiques. Les opérateurs devaient à chaque fois reprogrammer la tabulatrice à l'aide du tableau de connexion représentant le programme à l'aide de câbles permettant d'envoyer les données d'entrés dans les différents modules de calcul, puis de l'exécuter et enfin récupérer le résultat affiché sur des roues totalisatrices gravées pour enfin le recopier à la main et produire de nouveaux programmes en cartes perforés à partir de ces résultats. En 1920, Hollerith présente la première machine avec module d'impression et tableaux de connexion amovibles interchangeable permettant de rapidement changer le programme d'une machine, qui sera désormais appelée tabulatrice. 11 ans plus tard, en 1931, IBM sort le modèle 601, ce calculateur électromécanique est la première machine d'IBM capable de multiplier deux nombre provenant de cartes en entrée et de perforer la valeur en résultant. Elle est d'ailleurs surnommée ma Multiplying Punch.
+Dans un atelier de mécanographie, de multiples stations d'outils étaient présentes, parmi ces outils, les perforatrices chargées de créer et vérifier les données en perforant des cartes, les trieuses responsables de créer les différents lots de cartes, les interclasseurs capables de réunir deux lots de cartes avec des informations différentes en une seule grâce à une colonne de donnée commune aux deux, et les reproductrices permettant de copier des cartes perforées en une seule perforation. Jusque là, ces premier outils mécanographique étaient appelés machines à statistiques. Les opérateurs devaient à chaque fois reprogrammer la tabulatrice à l'aide du tableau de connexion. Ce dernier représente le programme à l'aide de câbles qui permettent d'envoyer les données d'entrés dans les différents modules de calcul, puis de l'exécuter et récupérer le résultat affiché sur des roues totalisatrices gravées, pour enfin le recopier à la main et produire de nouveaux programmes en cartes perforés à partir de ces résultats.  Ce processus était aussi long que mes phrases, c'est pourquoi, en **1920**, **Hollerith** présente la première machine avec module d'impression et tableaux de connexion amovibles interchangeable, permettant ainsi de rapidement changer le programme d'une machine, qui sera désormais appelée **tabulatrice**. 11 ans plus tard, en 1931, IBM sort le modèle 601, ce calculateur électromécanique est la première machine d'IBM capable de multiplier deux nombre provenant de cartes en entrée et de perforer la valeur en résultant. Elle est d'ailleurs surnommée ma Multiplying Punch.
 
-Les téléscripteurs auparavant utilisés par les opérateurs télégraphiques avant d'être rendus obsolètes par le téléphone seront réutilisés pour encoder des caractères qui seront convertis en binaire dans le bit de travailler et perforer des cartes à distance. En 1935 né le réseau Telegraph Exchange ou TELEX
-
-
-
-#### Améliorations du stockage
-
-Lors de l'Exposition universelle de Paris qui a eu lieu en 1900, Valdemar Poulsen présente son invention d'un système d'enregistrement magnétique sur fil nommé télégraphone. Inspiré par ces travaux Fritz Pfleumer invente la bande magnétique en 1928 dans le but d'enregistrer du son comme ça sera le cas la même année avec le magnétophone de Karl Stille lui même inspiré du télégraphone. Quelques années après sera perfectionné la bande magnétique en acier, et une dizaine années plus tard, vers 1940, naitra la première bande magnétique en [matière plastique](https://fr.wikipedia.org/wiki/Matière_plastique).
-
-En temps, c'est en 1932 que l'ingénieur Gustav Tauschek, invente une nouvelle méthode de mémoire vive magnétique possédant un temps de lecture de seulement quelques millisecondes contre plusieurs centaines auparavant. Cette technologie dite mémoire tambour sera utilisé dans la conception de plusieurs machines dont le Manchester Mark I, l'ENIAC, l'IBM 650, l'IBM 701, et l'UNIVAC 1103 (version scientifique).
+Les téléscripteurs auparavant utilisés par les opérateurs télégraphiques ont étés rendus obsolètes par le téléphone. Ils seront cependant réutilisés pour encoder des caractères qui seront convertis en binaire dans le but de travailler et perforer des cartes à distance. En 1935 né le réseau Telegraph Exchange ou TELEX
 
 
 
@@ -920,29 +918,19 @@ L'informatique est désormais omniprésente, la terre est entourée de satellite
 
 Pour le reste, la majorité des langages ont leur propres qualités notamment grâce à leur communautés et aux outils qu'elles ont développés, pour exemple, le Python est toujours une référence pour le traitement de la donnée, et le JavaScript a standardiser la gestion des interactions utilisateurs et la dynamisation des interfaces graphiques.
 
-Le matériel quand à lui, a beaucoup évolué, les ordinateurs se sont petits à petit miniaturisés, devenant portables et mobiles, offrant même désormais des expériences immersives réalistes grâce aux casques de réalité virtuelles. Depuis les années 2000, l'automatisation et la robotiques s'immiscent dans notre quotidien et dans les ménages à travers la domotique. Robots aspirateurs, drones munis de caméras, voitures autonomes, nos outils de tout les jours deviennent autonomes et réduisent notre charge de travail. Mais ce qui nous intéresse dans le cadre de ce mémoire, ce n'est pas tant le matériel mais l'information et la logique qui en émane. La population mondiale utilise de plus en plus les technologies de l'information et internet. C'est pourquoi la grande majorité des entreprises se modernisent et veulent avoir une gestion informationnelle fiable accompagnée d'une visibilité mondiale fournie par les réseaux informatiques. Dans le domaine logiciel, la mode est au applications no-code et low-code qui permettent notamment d'obtenir des sites et applications webs à l'aide d'interfaces WYSYWYG et de templates ou sections prédéfinies. Toute personnalisation requiert encore l'intervention de développeurs pour coder les fonctionnalités requises. 
+Le matériel quand à lui, a beaucoup évolué, les ordinateurs se sont petits à petit miniaturisés, devenant portables et mobiles, offrant même désormais des expériences immersives réalistes grâce aux casques de réalité virtuelles. Depuis les années 2000, l'automatisation et la robotiques s'immiscent dans notre quotidien et dans les ménages à travers la domotique. Robots aspirateurs, drones munis de caméras, voitures autonomes, nos outils de tout les jours deviennent autonomes et réduisent notre charge de travail. Mais ce qui nous intéresse dans le cadre de la problématique, ce n'est finalement pas tant le matériel mais l'information et la logique qui en émane. La population mondiale utilise de plus en plus les technologies de l'information et internet. C'est pourquoi la grande majorité des entreprises se modernisent et veulent avoir une gestion informationnelle fiable accompagnée d'une visibilité mondiale fournie par les réseaux informatiques. Dans le domaine logiciel, la mode est au applications no-code et low-code qui permettent notamment d'obtenir des sites et applications webs à l'aide d'interfaces WYSYWYG et de templates ou sections prédéfinies. Toute personnalisation requiert encore l'intervention de développeurs pour coder les fonctionnalités requises.
 
 https://fr.wikipedia.org/wiki/Th%C3%A9orie_g%C3%A9n%C3%A9rale_des_syst%C3%A8mes
 
 
 
-### Métiers du logiciel
-
-Back
-
-Front
-
-Design
-
-UX (Squelette de l'application et intéractions)
-
-UI (Habillage et direction artistique)
-
-Rédacteurs
-
 ### Décisions et gestion de projet
 
-Le management moderne à eu besoin de pouvoir former et guider efficacement ses employés et pour cela il à fallu trouver des outils et moyens mnémotechniques pour facilement analyser les facteurs influent sur l'activité d'une entreprise, une des plus ancienne est la carte heuristique plus connue sous le nom de carte mentale. Née de l'arbre de Porphyre, un philosophe néoplatonicien du 3è siècle, elle représente visuellement le cheminement de la pensée et l’interconnections des idées afin d'en extraire les toutes les informations importantes.
+Charles Babbage a visité des maison d'échanges bancaires, et autres établissement de gestion, comme le bureau du cadastre qui du réaliser des cartes à jour pour établir une taxation. Il était fasciné par la division mentale du travail qui s'y opérait, la personne en charge du cadastre était le Baron Gaspard De Prony qui a également réalisé les *Grandes tables de logarithme* en seulement deux ans grâce à ses lectures des travaux d'Adam Smith, notamment de son œuvre "*Recherches sur la nature et les causes de la richesse des nations*". Ce dernier à été le premier à décrire le principe de division du travail. Ce principe est utilisé depuis la nuit des temps pour optimiser les temps de formations du personnel et de réalisation d'un produit. 
+
+Le marché du logiciel s'est vite organisé pour diviser le travail en pôles. Comme évoqué en préface, l'équipe back corresponds aux développeurs en charge de la gestion de la données et la logique de traitement. Les développeurs front quant à eux sont en charge de récupérer de la donnée depuis le serveur et l'afficher selon les maquettes résultant de l'équipe conceptrice d'interface. Cette équipe est séparée en deux, expérience utilisateur (UX) mise en place avec le squelette et les interactions possibles, et l'interface utilisateur (UI) qui représente la direction artistique donnée à ce squelette en l'agençant proportionnellement et en lui donnant des couleurs. Enfin viennent les rédacteurs qui choisissent et testent les meilleures phrases possible pour attirer le lecteur.
+
+On comprends donc facilement que le management moderne à eu besoin de pouvoir former et guider efficacement ses employés. Pour cela il à fallu trouver des outils et moyens mnémotechniques afin de facilement analyser les facteurs influant sur l'activité d'une entreprise. Une des plus ancienne technique est la carte heuristique plus connue sous le nom de carte mentale. Née de l'arbre de Porphyre, un philosophe néoplatonicien du 3<sup>ème</sup> siècle, elle représente visuellement le cheminement de la pensée et l’interconnections des idées afin d'en extraire les toutes les informations importantes.
 
 Prendre une décision n'est pas chose aisée, il est parfois difficile de mesurer les tenants et aboutissants de nos choix. C'est pourquoi il est important de prendre du recul pour poser sur la table les différentes possibilités et acteurs de la situation. Beaucoup d'outils comme la carte mentale heuristique analysent d'abord un panel d'informations variés, parmi eux l'analyse Politique, Économique, Socioculturel, Technologique, Écologique, et Légal, nommée PESTEL permet de se poser des question sur les influences externes, et par la suite réaliser une analyse plus fine des parties prenantes. Elle peut également permettre de trouver des opportunités ou menaces à mettre dans une matrice multicritère ou dans un SWOT (Strenght Weakness Opportunity Threat).
 
@@ -960,51 +948,23 @@ Il y a trois principales méthodologies de gestion et de réalisation de projet,
 
 
 
-### Usages et industrie du logiciel
-
-Aujourd'hui le logiciel vient suppléer ces techniques de management. Le recueil et l'analyse de données permettent d'apporter une aide à la décision. La gestion des entreprises autrefois réalisée de têtes ou sur papiers avec de multiples dossiers est désormais centralisée dans des progiciels de gestion intégrés (Enterprise Ressource Planning ou ERP en anglais). L'apprentissage est facilité par des ludiciels comme Adibou, Lapin Malin, Duolingo, Gymglish, ou encore flexboxfroggy pour le CSS, codingame pour les langages de programmations, hackthebox pour la cybersécurité, et j'en passe. Malgré cela, l'industrie du jeux vidéo qui représente plus de 50% des 650 millards de valeur marchande du logiciel dans le monde, occulte les logiciels éducatifs en ligne, et ce à raison de 396 milliards de dollar de marché contre 166. Les progiciels quant à eux ne représentent que 50 milliards de dollars (sources : statista 2022). 
+Aujourd'hui le logiciel vient suppléer ces techniques de management. Le recueil et l'analyse de données permettent d'apporter une aide à la décision. La gestion des entreprises autrefois réalisée de têtes ou sur papiers avec de multiples dossiers est désormais centralisée dans des progiciels de gestion intégrés (Enterprise Ressource Planning ou ERP en anglais). L'apprentissage est facilité par des ludiciels comme Adibou, Lapin Malin, Duolingo, Gymglish, ou encore flexboxfroggy pour le CSS, codingame pour les langages de programmations, hackthebox pour la cybersécurité, et j'en passe. Malgré cela, l'industrie du jeux vidéo qui représente plus de 50% des 650 milliards de valeur marchande du logiciel dans le monde, occulte les logiciels éducatifs en ligne, et ce à raison de 396 milliards de dollar de marché contre 166. Les progiciels quant à eux ne représentent que 50 milliards de dollars (sources : statista 2022). 
 
 De mon expérience, j'ai pu constater la différance entre prestation de service informatique et édition de logiciel. Le modèle économique d'une entreprise influence énormément les comportement de ses salariés. Les contraintes de temps et de budget ne sont pas les mêmes, les projets s'organisent différemment. Les prestataires vendent du temps, et ont donc naturellement tendance à avoir des deadline plus courtes et par conséquent plus de pression. Cela nécessite également une équipe commerciale solide capable de décrocher assez de projet pour faire travailler l'entreprise pendant les prochaines années. En contrepartie, ce n'est pas un logiciel ou site maintenable qui est demandé, mais il faut qu'il soit assez bien réalisé et fonctionnel pour être livré le plus rapidement possible afin d'en dégager une marge. Les éditeurs logiciels quant a eux le louent généralement en tant que service ou le vendent en tant que bien, le nerf de la guerre réside alors dans la maintenabilité du logiciel auquel doit être ajouté des fonctionnalités au fil du temps. Plus le logiciel grossit, plus il est compliqué de maitriser les effets de bord et de comprendre l'intégralité du logiciel et de son historique. Ils ont cependant la chance d'avoir conçu une sorte de distributeur automatique qui n'a pas besoin d'action humaine.
 
 
 
-### Chiffrements actuels
-
-Il existe multitudes de méthodes de chiffrement d'information, tout développeur backend digne de se nom se doit de vérifier laquelle est utilisée et si elle n'as pas encore été compromise. La dernière version de Message Digest nommée MD5 à été inventée en 1991 et fut partiellement compromise seulement 5 ans plus tard en 1996. En 2004, des chercheurs chinois l'ont complétement craqué. Malgré les recommandations de changer de méthode de chiffrement, MD5 est parfois encore utilisé à tord pour chiffrer des mots de passe, alors que sa seule utilisation devrait être de chiffrer deux fichiers et comparer leurs signatures pour s'assurer qu'ils sont les mêmes, lors d'un téléchargement par exemple. Depuis, la version 6 de Message Digest est apparue, mais sa fonction reste cantonnée à la réalisation d'empreinte numériques de fichiers. Le développement de MD5 et MD6 ont été réalisés ou supervisés par **R**ivest Ronald. En 1977, en compagnie de **S**hamir Adi, et **A**dleman Leonard, est décrit pour la première fois la méthode de chiffrement asymétrique RSA, dont le brevet du MIT datant de 1983 a expiré en 2000. Ce chiffrement est utilisé dans les paiements électroniques et de manière générale pour chiffrer des données sur internet. En tant que développeur, on l'utilise souvent pour générer des clés permettant de se connecter à distance et de manière sécurisée à des terminal en ligne de commande (Secure SHell ou SSH). Bien qu'il existe des propositions d'attaque pour casser RSA, une clé suffisamment grande (>= 2048 ***bits***) est largement suffisante de nos jours. La révolution récente en terme de chiffrement utilise les courbes elliptiques, ce genre de courbe ne sont pas communes, il peut y avoir plusieurs valeurs en ordonnée pour une seule valeur en abscisse. Une droite passant par n'importe quel autre point qu'un sommet de cette courbe la croisera donc au moins 2 fois. Les propriétés mathématiques de ce genre de courbe rendent le chiffrement plus sûr. Des algorithmes de chiffrement utilisent ce genre de courbes, lorsque je le peut, et comme conseillé par GitLab, je génère mes clés en utilisant l'algorithme EdDSA. Ce dernier se base sur les courbes d'Edwards tordues dévoilées en 2008.
-
-***Illustration de courbe elliptique***
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+### Gestion de l'information
 
 Entrées et sorties, Inputs et Outputs (IO), sont le couple de paramètres entrants et des valeurs sortantes d'une fonction. Avec elles seules on peut définir les fonctionnalités possibles à un certain contexte d'entrées et sorties attendues. On peut deviner ou comprendre la logique cachée derrière. C'est une sorte de double entonnoir, comme des portails, théoriquement bidirectionnels. On peut la mettre en relation avec la lecture et l'écriture, en C# .NET [`System.IO`](#https://learn.microsoft.com/en-us/dotnet/api/system.io?view=net-7.0) est ailleurs un espace de noms (namespace) permettant d'accéder à des fonctions algorithmiques standard de lire et écrire des fichiers et par conséquent des dossiers. Puisque oui, les dossiers sont des fichiers, contenant l'adresse mémoire de son contenu. En réalité, tout n'est que variables et fonction mathématiques. Les fichiers sont des variables, et les actions que l'on peut réaliser à l'aide de fichiers de code sont des fonctions, elles mêmes composées de variables. Les entrées et sorties peuvent être comparés aux sensations et aux réactions physiques. La boite noire qu'est le cerveau de l'acteur, avec son raisonnement propre est quand à elle comparable au code back end que l'on ne peut percevoir depuis l'interface client. Enfin, après avoir lu et analyser notre environnement et écrivons une réponse physique à travers nos expressions corporelles, faciales, et verbale. Il y'a toute sorte de comportements et de réactions contrôlées ou non que l'on répète. 
 
 
 
-
-
-En informatique la composition décrit le fait que dans chaque boite, on peut avoir une autre boite, c'est l'idée abstraite de la poupée russe poussée à l'infini. Je pense que ce grand tout, suis une logique de composition. On peut le voir à différentes granularité et plus il est grand plus sa vie est longue. Certains principes sont similaires quelque soit l'ordre de grandeur, d'autres, sont propres à certains. Lorsque l'on fait face à un problème informationnel, il convient de définir son périmètre, pour analyser et gérer précisément la zone voulue. L'informatique nous permet désormais d'avoir une interface pour naviguer précisément dans une simulation réaliste et visualiser ses ordres de grandeur. [c4model](https://c4model.com/)
+Lorsque l'on fait face à un problème informationnel, il convient de définir son périmètre, pour analyser et gérer précisément la zone voulue. L'informatique nous permet désormais d'avoir une interface pour naviguer précisément dans une simulation réaliste et visualiser ses ordres de grandeur. [c4model](https://c4model.com/)
 
 L'industrie informatique est toujours régit par la Loi de Moore qui veux que l'on ai matériellement 2 fois plus de transistors par unité de surface. Il se peut que cette loi finisse par faire fasse à un mur, un palier, ou toute contrainte, qu'elle soit physique ou économique, bloque la progression et la capacité de l'industrie des semi-conducteurs à la source matérielle de l'informatique. Le volume de donnée est également passé au crible et il s'avère que notre capacité à stocker l'information générée par nos actions informatique sur internet est moindre.
 
@@ -1012,7 +972,7 @@ L'industrie informatique est toujours régit par la Loi de Moore qui veux que l'
 
 transparence, adéquation clarté crédibilité, réactivité,  -  consistance, engagement, accessibilité, authenticité, proactivité, évaluation
 
-En tant que président d'une SASU Politesse, Respect et Bienveillance seront les maîtres mots de ma philosophie d'entreprise. Veiller à bien faire et bien communiquer, bien travailler, bien apprendre et retransmettre, et essayer tout les jours, malgré les hauts et les bas, de devenir un peu meilleur que la veille.
+
 
 
 
@@ -1050,7 +1010,7 @@ Apprentissage par l’erreur, sans elle rien ne serais possible le succès ne s�
 
 [^1]:  https://www.youtube.com/watch?v=RVB3PBPxMWg
 
-### Informatique et Éducation
+
 
 Récemment le développement de l'apprentissage et les écoles adoptant la pédagogie Montessori sont un peu revenu à la mode, certains établissements ne donnent plus de notes mais des appréciations ou validations de niveau. Conformément à la pensée de Céléstin Freinet, les estrades ne sont plus, ou du moins ne servent plus à mettre le professeur en exergue, qui de toute manière se retrouve souvent à passer dans les rangs pour accompagner ou surveiller les élèves lors des examens. Bien que les compétences numérique, sociales et civiques, ainsi qu'apprendre à apprendre, fasse partie du socle commun des connaissances et des compétences, je pense qu'elles sont négligées et que l'on devrais enseigner des choses plus concrètes comme le suggérait John Dewey dans *School and Society*. J'ai du attendre l'enseignement supérieur pour avoir un cours unique de quelques heures sur la mémorisation et l'auto-formation, et je regrette que l'on ne nous indique pas quels sont les droits et aides disponibles, que l'on soit en situation précaire ou chef d'entreprise en devenir. Actuellement, l'éducation n'apprends pas aux gens à bien vivre. Imposer un programme est nécessaire pour avoir une base commune, mais les gens ont une vie à côté qui les impact positivement ou négativement dans le scolaire. Certaines compétences générales qui devraient être universelles, comme la gestion d'un budget, d'un planning, la cuisine, l'entretien d'un foyer, ou les démarches administratives élémentaires comme les déclarations d'impôts ou les demandes d'aides, ne sont transmises que par les parents ou les enseignements supérieurs spécialisés.
 
@@ -1076,27 +1036,15 @@ La tablette pourrait remplacer les manuels scolaires, les cahiers, réduire les 
 
 Enfin je terminerai avec une citation de jeu vidéo, Maitre Yi dans League Of Legends dit "*Un vrai maître est un éternel étudiant*".
 
-###   Informatique et Cuisine
-
 La cuisine est selon moi une science combinatoire et une philosophie à part entière regroupant les mathématiques, la biologie, la physique-chimie, et plein d'autres sciences y compris sociales ou neurologique. C'est un grand tout, depuis l'antiquité, les recettes sont des formulations logiques, les ingrédients sont biologiques, leurs modifications par leurs préparations, formes, mélanges, et leurs méthodes de cuissons, sont physiques, les proportions quant à elles sont mathématiques. On sait aujourd'hui scientifiquement que notre alimentation conditionne notre santé, et que notre santé peut conditionner notre alimentation. En effet, le système humain et animal à besoin d'une entrée d'énergie constante pour contrebalancer son activité physique et neuronale. Sans cela ou avec une mauvaise alimentation, il parait logique d'avoir un système défaillant. C'est la source même de la vie. Pour autant, bien que ce soit un facteur pouvant influer sur les comportements, je pense qu'en dehors de scénario très précis, les décision peuvent, si la volonté est suffisante pour cela, transcender un pseudo-déterminisme alimentaire. La cuisine à quelque chose d'universel, tout peuple de la Terre à inventé indépendamment des autres ses propres recettes, cultures, élevages, croisement d'espèces volontaire ou non. La mondialisation est venue optimiser les agriculture et permettre des échanges de nourriture et des pratiques de cultures culinaires à l'échelle de la Terre.
 
 On sait aujourd'hui que les bactéries qui nous aident à digérer les aliments représentent une partie non négligeable de notre poids, nous vivons en symbiose avec eux à travers notre alimentation. En Informatique, et notamment en intelligence artificielle, les résultats dépendent également beaucoup des information avec lesquelles on alimente le système. Le résultat d'un algorithme, dépends des variables passées en entrée.
-
-
-
-
-
-
-
-
 
 Concernant une croyance, selon moi la vraie question à se poser face à une information douteuse serait "Est ce que c'est scientifiquement démontrable ?" Celle a se poser vis à vis d'une croyance serait quant à elle : "What if ?" autrement dit : "Que se passerai t'il si je me mettais à croire ça ?".
 
 > "It was there noticed that the action of thought is excited by the irritation of doubt, and ceases when belief is attained; so that the production of belief is the sole function of thought."
 >
 > Charles S. Peirce - *How to make Ideas clear*
-
-
 
 Ce rapport a la croyance permet **l'anticipation**. L'imagination nous permet de se projeter dans les différents scénarios possibles, si on commence a croire qu'une chose va se passer, on se demande alors : 'Qu'est ce qui arriverai probablement si cela se produit ?"
 
@@ -1199,22 +1147,6 @@ J'aimerai appliquer la dialectique à l'entreprise, avec des visioconférences 1
 On agit tous différemment dans le contexte professionnel. Effectuer un métier n'est pas compliqué, le réaliser avec des gens l'est plus. Il faut tellement de compétences managériales qu'il nous faut. Quand je suis dans le milieu professionnel, j'exerce une fonction, ou une liste de fonctions définies par le contrat de travail.
 
 On ne comprend l'essence des concepts qu'en généralisant et remontant au niveau du groupe social voulu. En discrétisant les information à la granularité voulue. Tolérance face à la différence entre réalité qu'on imagine et qu'on expérimente. Dans une entreprise nous somme tous concernés par rapport à un même produit. Norbert Ellias nous apprends que l'individu et la société ne sont pas deux choses séparés. On est tous responsable de nos actes quels qu'ils soient. 
-
-De nos jours j'ai souvent entendu parler de philosophie d'entreprise. L'entreprise étant une entité morale, elle se compose d'un groupe de personnes physiques réunies pour accomplir quelque chose en commun. Ce groupe peut aussi réunir des personnes physiques et des personnes morales. Cela corresponds à une secte, qui est un terme connoté négativement mais qui, comme beaucoup de mots, est poly-sémantique, il possède plusieurs définitions, celle que l'on retient généralement n'est pas celle de la secte mais de la dérive sectaire. En effet, d'un point de vue étymologique, le mot secte provient du latin "secta", signifiant "voie que l'on suit, parti, cause, doctrine". Or quand je travaille en groupe avec d'autres personnes, je le fait de pair avec mes collègues, suivant ensemble une même voie, pendant une période définie de travail, comme tout salarié qui vends a son employeur.
-
-En réalité, une secte, comme tout groupe d'humain agissants ensemble pour une même cause, est comme internet, la rue ou tout autre environnement dans lequel nous évoluons, c'est une indifférence, ce n'est ni bien, ni mal, cela ne dépends de ce que l'on en fait et à qu'elles fins. Nous devons tous un jour faire face au fait que nous sommes influencés et conditionnés par notre environnement et notre histoire, nos habitudes, et les groupes d'humains dans lesquels nous avons évolués. Le réel problèmes sont les dérives, notamment le fait de vénérer une autorité austère qu'on ne peut discuter, mais aussi tout les heurts qui nous sont propres. Pour le reste, la vie bats son plein et continue de parcourir le temps en faisant ce qu'elle a à faire, vivre. En réalisant EditIDE, je ne sais pas comment cet outil va être utilisé, mais je sais désormais que je veut créer des indifférences, et aller du global vers le particulier.
-
-
-
-Division du travail
-
-Charles Babbage a visité des maison d'échanges bancaires, et autres établissement de gestion, comme le bureau du cadastre qui du réaliser des cartes à jour pour établir une taxation. Il était fasciné par la division mentale du travail qui s'y opérait, la personne en charge du cadastre était le Baron Gaspard De Prony qui a également réaliser les *Grandes tables de logarithme* en seulement deux ans grâce à ses lectures des travaux d'Adam Smith, notamment de son œuvre "*Recherches sur la nature et les causes de la richesse des nations*". Ce dernier à été le premier à décrire le principe de division du travail. Ce principe sera par la suite réutilisé pour optimiser les temps de formations du personnel et de réalisation d'un produit. 
-
-https://fr.wikipedia.org/wiki/Division_du_travail
-
-
-
-
 
 
 
@@ -1376,129 +1308,6 @@ https://hal.science/hal-02970135/document
 
 
 
-#### Quelqu'un à généralement la solution
-
-Lorsqu'un développeur ne trouve pas intuitivement comment implémenter la logique de façon algorithmique, il se retrouve souvent sur des forums de discussion comme StackOverflow ou désormais sur des outils conversationnels de génération de texte comme ChatGPT. De manière générale, il ne sert à rien de réinventer la roue, si quelqu'un a la solution autant juste l'utiliser. C'est d'ailleurs pourquoi les cadriciels et outils logiciels en tout genre sont aujourd'hui indispensables. 
-
-En programmation objet, il existe des Patrons de conceptions qui trouvent leur racines dans l'architecture. L'architecte en bâtiment Christopher Alexander publie l'essai *A Pattern Language : Towns, Buildings, Construction* en **1977**. Cette œuvre à définit de manière casuistique, à la manière du [Code de Hammurabi](#Code-de-Hammurabi), les problèmes rencontrés en architecture et leurs solutions.
-
-Cette notion à permit de catégoriser les patrons algorithmiques selon trois classes, les *créateurs* solutionnent des problèmes d'[instanciation](https://fr.wikipedia.org/wiki/Instanciation) et de configuration des classes et des objets, les *structuraux* indiquent comment organiser les classes d'un programme et leurs l'interfaces ; et les *comportementaux* définissent l'organisation des [objets](https://fr.wikipedia.org/wiki/Objet_(informatique)) pour que ceux-ci s'échangent des informations en fonction de leurs responsabilités.
-
-
-
-#### Principes SOLID
-
-Robert Cecil Martin aussi connu en tant que l'Oncle Bob est un ingénieur en informatique et écrivain ayant compléter les patrons de conception, et langages de modélisation en introduisant de multiples concepts de programmation, décrivant et argumentant des bonnes pratiques de cet art comme le fait de bien nommer les variables afin qu'elles explicitent leur utilité et les valeurs qu'elles stockent, de ne pas faire de copier coller que l'on modifie mais de plutôt faire des fonction réutilisables avec des paramètres pour faire varier un comportement. Dans la même logique de cohérence et d'uniformisation, il énonça les cinq principes fondamentaux de la programmation orientée objet.
-
-Simple responsabilité unique : une classe, une fonction ou une méthode doit avoir une et une seule responsabilité
-
-Ouvert / Fermé : tout élément d'une application, que ce soit une classe, une fonction ou autre, doit être fermée à la modification mais ouverte à l'extension. L'utilisateur doit pouvoir grâce à son API,  ses paramètres ou sa configuration, l'utiliser voire l'interconnecter à un autre logiciel.
-
-Liskov et sa substitution : Si une instance de véhicule doit pouvoir être remplacée par une instance de voiture, tel que voiture est un sous-type de véhicule, sans que cela ne modifie la cohérence du programme.
-
-Interfaces séparées : Il vaut mieux créer plusieurs interfaces spécifiques quitte à ce qu'elles n'ai qu'une seule méthode ou fonction, plutôt qu'une seule interface générale possédant plusieurs fonctions. Cela permet d'avoir une granularité plus fine et de pouvoir à l'aide de la composition, obtenir des interfaces composés uniquement des méthodes dont on a besoin.
-
-Dépendances inversés : Bien que les classes dépendent d'abstraction telles que les interfaces, il faut le plus souvent possible ne pas travailler avec mais utiliser les interfaces, cela permet notamment de respecter le principe de Liskov. On part du concept général pour traiter le plus de cas et aller vers le particulier au besoin.
-
-
-
-#### Debugger performances et Optimisations
-
-Lorsque l'on ne comprends pas du code qu'on a fait, on peut utiliser l'instruction `debugger;`.
-
-Une fois que l'on a le comportement voulu, on peut rencontrer des problèmes de performances et d'optimisation. Pour les règler il est possible de répartir la puissance de calcul entre plusieurs cœurs de processeurs à l'aide de sous processus (fils / threads) [^1]. On peut également la répartir entre plusieurs machines, c'est ce que l'on appelle le calcul distribué. De manière générale, lorsque l'on découpe une tâche en sous-tâches réalisables par plusieurs acteurs, on réduit la charge de travail entre les acteurs dans une logique de parallélisation.
-
-[^1]: https://www.iso.org/obp/ui/#iso:std:iso-iec:2382:ed-1:v2:fr
-
-La gestion permet donc d'optimiser les charges et temps de travails. Une fois que le projet est abouti, il faut le tester et s'assurer que la qualité du produit est conforme aux exigences et besoins utilisateurs. Dans une grande partie des lignes de production il a une équipe dédiée aux tests et à la vérification. Elle est chargée de s'assurer que le produit est conforme à leurs attentes ou à celles formulées dans un document dédié comme un cahier des charges idéalement technique. Dans le monde de la production logicielle, nous avons la chance de pouvoir l'automatiser à l'aide de pratiques DevOps, intégration et déploiement continus (CI / CD) permettent non seulement de vérifier le bon fonctionnement d'une liste de fonctionnalités mais également de les mettre automatiquement à disposition du public lorsqu'elles sont toutes valides.
-
-1. Commentaires et documentation
-
-   Chaque fonctionnalitée doit être documentée.
-
-   Chaque ligne devrait être commentée en langage naturel, un switch devrait permettre de basculer entre le code réel et commenté. Toute manquement déclancherai une notification sur la ligne en question.
-
-2. Gestionnaires de version 
-
-Git est un logiciel de gestion de versions décentralisé sous licence GNU GPL. C'est un logiciel libre et gratuit, initié en **2005** par Linus Torvalds le créateur de Linux lors de la création de son noyau. Linus ne voulait pas réaliser ce projet seul et a rapidement compris que la qualité d'un logiciel viendrai des débats houleux entre ses collaborateurs et l'implémentation de la meilleure idée à la fin. graphe d'historique de modifications de fichiers visualisable avec gource.
-
-5. Microservices
-
-
-
-#### VSCode
-
-Suite à Atom publié par GitHub le 26 février 2014, bien avant son rachat en 2018 par Microsoft, qui l'a refait en mieux, en sortant le 29 avril **2015** l'IDE le plus utilisé à ce jour Visual Studio Code.
-
-
-
-#### Intelligence artificielle
-
-- Deep Blue beats Gary Kasparov  in **1997**
-- Imagenet **2009**
-- Watson gagne Joepardy **2011**
-- Alphago **2015**
-
-
-
-
-
-[Retour](#Introduction)
-
-## EditIDE ou "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?"
-
-Jusqu'ici, le sujet portait sur la l'idée large de l'information, je l'ai petit à petit recentrer sur la programmation, qui est une pratique récente et dont les prérequis techniques ont pris longtemps à se mettre en place et évolue depuis à une vitesse exponentielle. Cette théorie est importante à observer et il y aurait beaucoup à dire la dessus. Les sociétés et groupes d'individu quels qu'ils soient est régit par leur organisation et leurs moyens interactions. La où les mathématiques ont permis de quantifier le monde, l'informatique étant les mathématiques et le logifie, en plus d'en permettre la représentation au travers d'une simulation informationnelle. De la même manière que j'avais recoder un moteur de jeu par dessus l'outil Monogame, j'ai lors de mon développement d'EditIDE, eu besoin créer un programme qui lise mes fichiers de code et les représente de manière abstraite. 
-
-En soit je pourrais faire des textes explicatifs ou vidéos expliquant comment coder, comme n'importe qu'elle personne capable de répéter un cours qu'il a réécrit à sa manière. Et j'aurais sûrement à le faire, ou le déléguer car le nerf de ma guerre sera surtout de rendre l'expérience de programmation accessible, intuitive et amusante, voire idéalement naturelle. En tant qu'ouvriers du code, remplir ces objectifs, reviens à fournir une interface textuelle, visuelle, et sonore, dans le cadre d'un jeux vidéo, même si celui ci ne consiste qu'a être témoin d'une scène. Les créateurs et/ou inventeurs des différentes interfaces hommes-machines (IHM) se sont efforcer de réaliser de telles scènes, usant de l'informatique pour imitant la nature, notre environnement ou notre histoire, jusqu'à nous permettre une immersion totale. Permise par la réalité virtuelle (VR) qui se démocratise lentement à raison de 85 millions d'utilisateurs en 2022 (virtuelle et augmentée confondue - Source : Statistica[^1]) . La réalité, qu'elle soit réelle, virtuelle, augmentée, ou mixte, se trouve être des outil industriel intuitifs et naturels aussi intéressant commercialement que pédagogiquement. Mais ce genre de matériel est encore un luxe trop peu répendu pour espérer avoir une adhésion facile et à un large public d'utilisateurs. C'est pourquoi je vais me baser sur mes compétences en technologies web actuelles. Que j'aimerai approfondir en Rust après mes études à l'Ecole Hexagone et l'obtention d'un prototype accessible sur internet. La première étape sera d'y faire un simple site web. Et c'est ce que je vais vous présenter dans la suite de cette ultime expliquant les fondations de ce projet que j'ai rapidement introduit [en préface de ce livre](#Préface).
-
-[^1]:https://fr.statista.com/infographie/28462/estimation-et-prevision-nombre-utilisateurs-casques-realite-virtuelle-augmentee-dans-le-monde/
-
-
-
-Toute personne en dehors de l'informatique est naturellement rebutée ou surprise par toutes ses lignes de textes, qu'elle soient de commande ou de code. L'expérience développeur est aujourd'hui bien plus proche du bloc-note que des interfaces intuitives et agréable, voire fun à utiliser, que l'on peut produire avec. Les développeurs travaillent sur une technologie futuriste dont l'usage est encore archaïque. Les outils no-code fleurissent ses dernières années, ils permettent certes la réalisation de produits plus rapidement qu'un partant d'un cadriciel et en le codant soi même. Cependant dès que l'on désire un rendu différant de ce qui est proposé par le service, cela provoque un blocage, nécessitant l'intervention d'un développeur et de code. Les services proposant à la fois des outils visuels et des éditeurs de code sera alors considérée comme low-code. Ma solution se rapprocherai plus de ce mode de fonctionnement, mes interfaces vont afficher le code, mais les mots clefs et la syntaxe qui le constituent seront représentés par des symboles et n'auront plus besoin d'être appris par le développeur. Seuls les concepts clés et la logique importent. Mon motif directeur dans le développement d'EditIDE à été, est et restera de toujours plus simplifier son rétro-fonctionnement. L'interface doit se décrire elle même comme un personnage se présenterai à autrui. L'utilisateur doit, quel que soit la page du logiciel sur laquelle il est, comprendre ce qu'il peut faire, et trouver ce qu'il cherche. Allant toujours des concepts globaux au cas précis.
-
-Derrière la question fondamentale de ma problématique résident plusieurs questions annexes auxquelles je vais d'abord répondre.
-
-### Pourquoi la programmation est-elle aussi peu démocratisée ?
-
-Soyons franc, pas tout le monde n'a besoin de savoir coder. La meilleur qualité d'un codeur n'est d'ailleurs pas savoir coder, c'est sa capacité à proposer une solution logique à un problème de donnée. C'est pourquoi je vais répondre à cette question avec quelques informations statistiques.
-
-En 2013, 1 personne sur 623 était développeur professionnel, soit 0,16 % de la population mondiale. Et 1 personne sur 387 savait alors coder, soit 0.26%. En novembre 2022, la population a dépassé les 8 milliards d'habitants, celle des développeurs représente alors 27.7 millions, soit 0.35%. La même année, 40 % des recruteurs prévoyaient d’embaucher 50 développeurs ou plus. L’étude liée à cette information note également que le pourcentage de ceux qui recrutent de 201 à 500 personnes a doublé par rapport à 2021. Le problème le plus notable est dans le web où il y'a 60 postes disponible pour 38 développeur en demande d'emploi.
-
-- 70 % des développeurs plébiscitent le travail à distance - complet ou partiel.
-- 57 % des recruteurs se déclarent prêts à se passer du CV du processus de recrutement. 
-- Le pourcentage de recruteurs qui recrutent des développeurs sans bagage académique a presque doublé (de 23% en 2021 à 39% en 2022). 
-- 42 % des recruteurs souhaitent utiliser des solutions d'évaluation basées sur les compétences pour améliorer la diversité. 
-- L'expérience candidat est la première priorité dans laquelle les recruteurs prévoient d'investir pour 2022. [^1]
-
-[^1]: https://www.codingame.com/work/fr/codingame-coderpad-tech-hiring-survey-2022/
-
-Il y a donc des opportunités immenses pour les autodidactes et les écoles en informatique. Mais la discipline requiert des études avancées, et qui ne sont pas ou trop peu enseigné lors de l'instruction obligatoire au lycée.
-
-C'est également une discipline en constant changement, qui requiert beaucoup de connaissances et de pratique. Les développeurs expérimentés sont logiquement très recherché. Pour les mêmes raison, il est compliqué d'être dévoué à se domaine, nombre de personnes le quitteront pour quelque chose qui leur convient mieux. Cependant c'est une science et technologie qui est désormais omniprésente dans nos vies et apprentissages. Je suis donc d'avis qu'une généralisation de l'introduction à la programmation en cours de technologie au collège, permettrait aux élèves de savoir si ce domaine les intéresse, d'avoir la possibilité de choisir de prendre cette discipline au lycée, ou juste de pouvoir apprendre par lui même tout en continuant dans une autre voie.
-
-Il y a un manque d’experts, de personnes compétentes et qualifiées, accompagnée d'un réel décalage entre l'offre et la demande. Le marché émet des signaux forts comme ceux autour de la blockchain, technologie ayant un réel intérêt et pouvant jouer un rôle crucial, notamment dans les systèmes administrant nos sociétés mondialement interconnectées, mais qui présentent cependant un effet Duning Kruger assez important ces derniers temps (j'ose espérer que l'on a passé la montagne de la stupidité). Les années que nous vivons sont saturées d'informations, et l'accumulation de mauvaises nouvelles déprime les uns, là où les tsunamis de désinformation et canulars font rire et haïr les autres. La vérité finissant presque par ironiquement nous consoler.
-
-
-
-### Qu'elle est l'origine des bugs ?
-
-À l'exception d'une erreur matérielle venant corrompre la mémoire ou interférer avec un signal, une machine en état de marche ne fait que ce que son programme lui indique. Les bugs sont donc presque toujours dus à une erreur humaine. Elle vient soit d'un besoin initial mal compris, transmis, ou implémenté, soit d'un enchaînement d'implémentations causant des effets de bords et venant modifier des fonctionnalités existantes pouvant devenir incompatibles avec les nouvelles demandes et besoins.
-
-Les erreurs fatales viennent généralement de problème mémoire ou de langages non compilés, qui n'ont donc pas de programme obligeant l’absence d'erreur avant usage. Et en tant que développeur, je peut vous dire que si le processus ne force pas les utilisateurs d'un outil à faire les chose correctement et corriger tout les potentiels problèmes, ils vont juste s'accumuler et former ce que l'on appelle de la dette technique.
-
-### Comment l'interface permet et conditionne l'accès aux fonctionnalités ?
-
-L'interface relie un élément graphique à une fonctionnalité, toute interaction de l'utilisateur doit lui indiquer ce qu'il peut faire par la suite.
-
-Un utilisateur averti sais qu'il a sur son clavier des touches de modification comme CTRL, SHIFT, ou ALT permettant appliquer des effets, qu'il peut réaliser des sélection multiple, passer à l'élément suivant avec la touche tabulation, cocher ou découcher une case avec espace, valider avec entrée, supprimer avec la touche du même nom ou la touche retour. Je pense 
-
-##### Etude de cas UX/UI FL Studio VS Ableton
-
-
-
-### Comment faire un logiciel en tant que service ?
-
 Imaginons que vous vouliez réaliser un logiciel et qu'il soit accessible en ligne, en réalité il vous suffit d'une connexion internet de trois fichier, d'un logiciel de serveur, et enfin d'un nom de domaine pour y accéder sans avoir à mémoriser une adresse IP.
 
 Ce que j'ai fait, tout le monde peut le faire, et comme l'humain ne comprends quelque chose que lorsque qu'il arrive le réexpliquer plus simplement, à le factoriser, rendre une information usinée, et bien je vais présenter plusieurs cas d'études et vous présenter ce qu'est EditIDE
@@ -1637,6 +1446,205 @@ Sur Windows il suffit de trouver le dossier Démarrage ou Startup, il est situé
 #### Bureau à distance
 
 Je suis l'heureux détenteur d'un ordinateur portable Asus Zenbook, il est très compact mais à l'inconvénient de beaucoup chauffer. À mon arrivée à Hexagone j'ai donc décidé d'acheter un mini PC et l'utiliser à distance. Pour cela, j'ai activer le bureau à distance de Windows, cela se fait très simplement dans les paramètres. Ensuite il suffit d'activer le port 3389 comme indiqué ci-dessus. Si vous le faites il faut cependant avoir un mot de passe avec assez d'entropie, pour cela il doit être assez long et contenir assez de caractères différents, incluant des minuscules, majuscules, chiffres, et caractères spéciaux. Malgré cette disposition, des botnet peuvent tenter de réaliser de multiples tentatives de connexion ou trouver une faille de sécurité dans le protocole et interférer avec votre système. Il convient donc de ne pas ouvrir le port 3389 et d'installer un VPN pour accéder au réseau local de manière sécurisée. L'avantage du Bureau à distance est que je peut à tout moment retrouver ma session telle que je l'avais laisser sur plusieurs périphériques différents, et couper cette même session à tout moment sans affecter le travail qui est en cours dessus. 
+
+
+
+Maintenant que notre serveur distribue notre site vitrine sur internet, nous pouvons attaquer le développement des fonctionnalités d'un logiciel en tant que service. Pour gérer un grand nombre d'utilisateurs d'un logiciel, il convient d'implémenter de l'authentification, ainsi que la gestion des rôle et des permissions. Dans EditIDE ma gestion est très simple, j'utilise des paquets permettant de gérer l'authentification et j'ai uniquement des entités Utilisateurs. Qui possèdent des attributs pouvant être utilisés par mes autres plugins dont ceux d'authentification.
+
+```js
+const validate = require("a-json-validation");
+const userSchema = require("./User.schema.js");
+
+class User {
+    constructor({
+        id,
+        username,
+        loginUserAttr = "username",
+        password,
+        roles,
+        email,
+        additionnalAttributes = {},
+    }) {
+        this._id = id;
+        this.username = username;
+        this.loginUserAttr = loginUserAttr;
+        this.password = password;
+        this.roles = roles;
+        this.email = email;
+        
+        Object.entries(additionnalAttributes).forEach(
+            ([key, value]) => {
+                this[key] = value;
+            }
+        );
+        
+        validate(
+            "User : " + this.id,
+            this,
+            userSchema
+        );
+    }
+}
+
+module.exports = User;
+```
+
+```js
+const securePassword = require("secure-password");
+
+async function AccountPlugin(fastify, options, next) {
+
+    fastify.register(require("./jwt"));
+    fastify.register(require("@fastify/cookie"));
+
+    fastify.decorateRequest(
+        "userHasRole",
+        function(role) {
+            return userHasRole(this, role);
+        }
+    );
+
+    fastify.decorateRequest(
+        "isUserConnected",
+        function () {
+            return isUserConnected(this);
+        }
+    );
+    
+    function signup(user) {
+        const hashedPassword = await securePassword().hash(
+            Buffer.from(user.password)
+        );
+    }
+}
+```
+
+
+
+
+
+#### Quelqu'un à généralement la solution
+
+Lorsqu'un développeur ne trouve pas intuitivement comment implémenter la logique de façon algorithmique, il se retrouve souvent sur des forums de discussion comme StackOverflow ou désormais sur des outils conversationnels de génération de texte comme ChatGPT. De manière générale, il ne sert à rien de réinventer la roue, si quelqu'un a la solution autant juste l'utiliser. C'est d'ailleurs pourquoi les cadriciels et outils logiciels en tout genre sont aujourd'hui indispensables. 
+
+En programmation objet, il existe des Patrons de conceptions qui trouvent leur racines dans l'architecture. L'architecte en bâtiment Christopher Alexander publie l'essai *A Pattern Language : Towns, Buildings, Construction* en **1977**. Cette œuvre à définit de manière casuistique, à la manière du [Code de Hammurabi](#Code-de-Hammurabi), les problèmes rencontrés en architecture et leurs solutions.
+
+Cette notion à permit de catégoriser les patrons algorithmiques selon trois classes, les *créateurs* solutionnent des problèmes d'[instanciation](https://fr.wikipedia.org/wiki/Instanciation) et de configuration des classes et des objets, les *structuraux* indiquent comment organiser les classes d'un programme et leurs l'interfaces ; et les *comportementaux* définissent l'organisation des [objets](https://fr.wikipedia.org/wiki/Objet_(informatique)) pour que ceux-ci s'échangent des informations en fonction de leurs responsabilités.
+
+
+
+#### Principes SOLID
+
+Robert Cecil Martin aussi connu en tant que l'Oncle Bob est un ingénieur en informatique et écrivain ayant compléter les patrons de conception, et langages de modélisation en introduisant de multiples concepts de programmation, décrivant et argumentant des bonnes pratiques de cet art comme le fait de bien nommer les variables afin qu'elles explicitent leur utilité et les valeurs qu'elles stockent, de ne pas faire de copier coller que l'on modifie mais de plutôt faire des fonction réutilisables avec des paramètres pour faire varier un comportement. Dans la même logique de cohérence et d'uniformisation, il énonça les cinq principes fondamentaux de la programmation orientée objet.
+
+Simple responsabilité unique : une classe, une fonction ou une méthode doit avoir une et une seule responsabilité
+
+Ouvert / Fermé : tout élément d'une application, que ce soit une classe, une fonction ou autre, doit être fermée à la modification mais ouverte à l'extension. L'utilisateur doit pouvoir grâce à son API,  ses paramètres ou sa configuration, l'utiliser voire l'interconnecter à un autre logiciel.
+
+Liskov et sa substitution : Si une instance de véhicule doit pouvoir être remplacée par une instance de voiture, tel que voiture est un sous-type de véhicule, sans que cela ne modifie la cohérence du programme.
+
+Interfaces séparées : Il vaut mieux créer plusieurs interfaces spécifiques quitte à ce qu'elles n'ai qu'une seule méthode ou fonction, plutôt qu'une seule interface générale possédant plusieurs fonctions. Cela permet d'avoir une granularité plus fine et de pouvoir à l'aide de la composition, obtenir des interfaces composés uniquement des méthodes dont on a besoin.
+
+Dépendances inversés : Bien que les classes dépendent d'abstraction telles que les interfaces, il faut le plus souvent possible ne pas travailler avec mais utiliser les interfaces, cela permet notamment de respecter le principe de Liskov. On part du concept général pour traiter le plus de cas et aller vers le particulier au besoin.
+
+
+
+#### Debugger performances et Optimisations
+
+Lorsque l'on ne comprends pas du code qu'on a fait, on peut utiliser l'instruction `debugger;`.
+
+Une fois que l'on a le comportement voulu, on peut rencontrer des problèmes de performances et d'optimisation. Pour les règler il est possible de répartir la puissance de calcul entre plusieurs cœurs de processeurs à l'aide de sous processus (fils / threads) [^1]. On peut également la répartir entre plusieurs machines, c'est ce que l'on appelle le calcul distribué. De manière générale, lorsque l'on découpe une tâche en sous-tâches réalisables par plusieurs acteurs, on réduit la charge de travail entre les acteurs dans une logique de parallélisation.
+
+[^1]: https://www.iso.org/obp/ui/#iso:std:iso-iec:2382:ed-1:v2:fr
+
+La gestion permet donc d'optimiser les charges et temps de travails. Une fois que le projet est abouti, il faut le tester et s'assurer que la qualité du produit est conforme aux exigences et besoins utilisateurs. Dans une grande partie des lignes de production il a une équipe dédiée aux tests et à la vérification. Elle est chargée de s'assurer que le produit est conforme à leurs attentes ou à celles formulées dans un document dédié comme un cahier des charges idéalement technique. Dans le monde de la production logicielle, nous avons la chance de pouvoir l'automatiser à l'aide de pratiques DevOps, intégration et déploiement continus (CI / CD) permettent non seulement de vérifier le bon fonctionnement d'une liste de fonctionnalités mais également de les mettre automatiquement à disposition du public lorsqu'elles sont toutes valides.
+
+1. Commentaires et documentation
+
+   Chaque fonctionnalitée doit être documentée.
+
+   Chaque ligne devrait être commentée en langage naturel, un switch devrait permettre de basculer entre le code réel et commenté. Toute manquement déclancherai une notification sur la ligne en question.
+
+2. Gestionnaires de version 
+
+Git est un logiciel de gestion de versions décentralisé sous licence GNU GPL. C'est un logiciel libre et gratuit, initié en **2005** par Linus Torvalds le créateur de Linux lors de la création de son noyau. Linus ne voulait pas réaliser ce projet seul et a rapidement compris que la qualité d'un logiciel viendrai des débats houleux entre ses collaborateurs et l'implémentation de la meilleure idée à la fin. graphe d'historique de modifications de fichiers visualisable avec gource.
+
+5. Microservices
+
+
+
+#### VSCode
+
+Suite à Atom publié par GitHub le 26 février 2014, bien avant son rachat en 2018 par Microsoft, qui l'a refait en mieux, en sortant le 29 avril **2015** l'IDE le plus utilisé à ce jour Visual Studio Code.
+
+
+
+#### Intelligence artificielle
+
+- Deep Blue beats Gary Kasparov  in **1997**
+- Imagenet **2009**
+- Watson gagne Joepardy **2011**
+- Alphago **2015**
+
+
+
+
+
+[Retour](#Introduction)
+
+## EditIDE ou "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?"
+
+La programmation est une pratique récente dont les prérequis techniques ont pris longtemps à se mettre en place et évolue depuis à une vitesse exponentielle. Là où les mathématiques ont permis de quantifier le monde, l'informatique étend les mathématiques et les logifie, en plus d'en permettre la représentation au travers d'une simulation informationnelle. De la même manière que j'avais recoder un moteur de jeu par dessus l'outil Monogame, j'ai lors de mon développement d'EditIDE, eu besoin créer un programme qui puisse lire ses propres fichiers de code et les représenter de manière abstraite. En tant qu'ouvriers du code, remplir ces objectifs, reviens à fournir une interface textuelle, visuelle, et sonore, dans le cadre d'un jeux vidéo, même si celui ci ne consiste qu'a être témoin d'une scène. Les créateurs et/ou inventeurs des différentes interfaces hommes-machines (IHM) se sont efforcer de réaliser de telles scènes, usant de l'informatique pour imitant la nature, notre environnement ou notre histoire, jusqu'à nous permettre une immersion totale. Permise par la réalité virtuelle (VR) qui se démocratise lentement à raison de 85 millions d'utilisateurs en 2022 (virtuelle et augmentée confondue - Source : Statistica[^1]) . La réalité, qu'elle soit réelle, virtuelle, augmentée, ou mixte, se trouve être des outil industriel intuitifs et naturels aussi intéressant commercialement que pédagogiquement. Mais ce genre de matériel est encore un luxe trop peu répendu pour espérer avoir une adhésion facile et à un large public d'utilisateurs. C'est pourquoi je vais me baser sur mes compétences en technologies web actuelles. Que j'aimerai approfondir en Rust après mes études à l'Ecole Hexagone et l'obtention d'un prototype accessible sur internet. La première étape sera d'y faire un simple site web. Et c'est ce que je vais vous présenter dans la suite de cette ultime expliquant les fondations de ce projet que j'ai rapidement introduit [en préface de ce livre](#Préface).
+
+[^1]:https://fr.statista.com/infographie/28462/estimation-et-prevision-nombre-utilisateurs-casques-realite-virtuelle-augmentee-dans-le-monde/
+
+
+
+Toute personne en dehors de l'informatique est naturellement rebutée ou surprise par toutes ses lignes de textes, qu'elle soient de commande ou de code. L'expérience développeur est aujourd'hui bien plus proche du bloc-note que des interfaces intuitives et agréable, voire fun à utiliser, que l'on peut produire avec. Les développeurs travaillent sur une technologie futuriste dont l'usage est encore archaïque. Les outils no-code fleurissent ses dernières années, ils permettent certes la réalisation de produits plus rapidement qu'un partant d'un cadriciel et en le codant soi même. Cependant dès que l'on désire un rendu différant de ce qui est proposé par le service, cela provoque un blocage, nécessitant l'intervention d'un développeur et de code. Les services proposant à la fois des outils visuels et des éditeurs de code sera alors considérée comme low-code. Ma solution se rapprocherai plus de ce mode de fonctionnement, mes interfaces vont afficher le code, mais les mots clefs et la syntaxe qui le constituent seront représentés par des symboles et n'auront plus besoin d'être appris par le développeur. Seuls les concepts clés et la logique importent. Mon motif directeur dans le développement d'EditIDE à été, est et restera de toujours plus simplifier son rétro-fonctionnement. L'interface doit se décrire elle même comme un personnage se présenterai à autrui. L'utilisateur doit, quel que soit la page du logiciel sur laquelle il est, comprendre ce qu'il peut faire, et trouver ce qu'il cherche. Allant toujours des concepts globaux au cas précis.
+
+Derrière la question fondamentale de ma problématique résident plusieurs questions annexes auxquelles je vais d'abord répondre.
+
+### Pourquoi la programmation est-elle aussi peu démocratisée ?
+
+Soyons franc, pas tout le monde n'a besoin de savoir coder. La meilleur qualité d'un codeur n'est d'ailleurs pas savoir coder, c'est sa capacité à proposer une solution logique à un problème de donnée. C'est pourquoi je vais répondre à cette question avec quelques informations statistiques.
+
+En 2013, 1 personne sur 623 était développeur professionnel, soit 0,16 % de la population mondiale. Et 1 personne sur 387 savait alors coder, soit 0.26%. En novembre 2022, la population a dépassé les 8 milliards d'habitants, celle des développeurs représente alors 27.7 millions, soit 0.35%. La même année, 40 % des recruteurs prévoyaient d’embaucher 50 développeurs ou plus. L’étude liée à cette information note également que le pourcentage de ceux qui recrutent de 201 à 500 personnes a doublé par rapport à 2021. Le problème le plus notable est dans le web où il y'a 60 postes disponible pour 38 développeur en demande d'emploi.
+
+- 70 % des développeurs plébiscitent le travail à distance - complet ou partiel.
+- 57 % des recruteurs se déclarent prêts à se passer du CV du processus de recrutement. 
+- Le pourcentage de recruteurs qui recrutent des développeurs sans bagage académique a presque doublé (de 23% en 2021 à 39% en 2022). 
+- 42 % des recruteurs souhaitent utiliser des solutions d'évaluation basées sur les compétences pour améliorer la diversité. 
+- L'expérience candidat est la première priorité dans laquelle les recruteurs prévoient d'investir pour 2022. [^1]
+
+[^1]: https://www.codingame.com/work/fr/codingame-coderpad-tech-hiring-survey-2022/
+
+Il y a donc des opportunités immenses pour les autodidactes et les écoles en informatique. Mais la discipline requiert des études avancées, et qui ne sont pas ou trop peu enseigné lors de l'instruction obligatoire au lycée.
+
+C'est également une discipline en constant changement, qui requiert beaucoup de connaissances et de pratique. Les développeurs expérimentés sont logiquement très recherché. Pour les mêmes raison, il est compliqué d'être dévoué à se domaine, nombre de personnes le quitteront pour quelque chose qui leur convient mieux. Cependant c'est une science et technologie qui est désormais omniprésente dans nos vies et apprentissages. Je suis donc d'avis qu'une généralisation de l'introduction à la programmation en cours de technologie au collège, permettrait aux élèves de savoir si ce domaine les intéresse, d'avoir la possibilité de choisir de prendre cette discipline au lycée, ou juste de pouvoir apprendre par lui même tout en continuant dans une autre voie.
+
+Il y a un manque d’experts, de personnes compétentes et qualifiées, accompagnée d'un réel décalage entre l'offre et la demande. Le marché émet des signaux forts comme ceux autour de la blockchain, technologie ayant un réel intérêt et pouvant jouer un rôle crucial, notamment dans les systèmes administrant nos sociétés mondialement interconnectées, mais qui présentent cependant un effet Duning Kruger assez important ces derniers temps (j'ose espérer que l'on a passé la montagne de la stupidité). Les années que nous vivons sont saturées d'informations, et l'accumulation de mauvaises nouvelles déprime les uns, là où les tsunamis de désinformation et canulars font rire et haïr les autres. La vérité finissant presque par ironiquement nous consoler.
+
+
+
+### Qu'elle est l'origine des bugs ?
+
+À l'exception d'une erreur matérielle venant corrompre la mémoire ou interférer avec un signal, une machine en état de marche ne fait que ce que son programme lui indique. Les bugs sont donc presque toujours dus à une erreur humaine. Elle vient soit d'un besoin initial mal compris, transmis, ou implémenté, soit d'un enchaînement d'implémentations causant des effets de bords et venant modifier des fonctionnalités existantes pouvant devenir incompatibles avec les nouvelles demandes et besoins.
+
+Les erreurs fatales viennent généralement de problème mémoire ou de langages non compilés, qui n'ont donc pas de programme obligeant l’absence d'erreur avant usage. Et en tant que développeur, je peut vous dire que si le processus ne force pas les utilisateurs d'un outil à faire les chose correctement et corriger tout les potentiels problèmes, ils vont juste s'accumuler et former ce que l'on appelle de la dette technique.
+
+### Comment l'interface permet et conditionne l'accès aux fonctionnalités ?
+
+L'interface relie un élément graphique à une fonctionnalité, toute interaction de l'utilisateur doit lui indiquer ce qu'il peut faire par la suite.
+
+Un utilisateur averti sais qu'il a sur son clavier des touches de modification comme CTRL, SHIFT, ou ALT permettant appliquer des effets, qu'il peut réaliser des sélection multiple, passer à l'élément suivant avec la touche tabulation, cocher ou découcher une case avec espace, valider avec entrée, supprimer avec la touche du même nom ou la touche retour. Je pense 
+
+##### Etude de cas UX/UI FL Studio VS Ableton
+
+
+
+### Comment faire un logiciel en tant que service ?
+
+Ce que j'ai fait, tout le monde peut le faire, et comme l'humain ne comprends quelque chose que lorsque qu'il arrive le réexpliquer plus simplement, à le factoriser, rendre une information usinée, et bien je vais présenter plusieurs cas d'études et vous présenter ce qu'est EditIDE
 
 
 
@@ -1844,7 +1852,7 @@ Je n'ai pas pu tout garder, et j'ai du parler de personnes qui ont écris ou fai
 
 La pratique du Big Data se repose sur cinq piliers qui correspondent aux 5V de l'information qui sont : volume, vitesse, variété, véracité, valeur. Pour la rédaction de ce mémoire le volume devait être contenu entre 80 et 85 pages A4, la progression du discours devait avoir une vitesse adaptée pour que le lecteur puisse suivre, les informations doivent être assez variées pour éviter la redondance, la véracité a aussi été au cœur de mes préoccupations lors de mes relectures de sources, et enfin chaque information doit ajouter de la valeur au texte. Comme mon mémoire a été rédigé en Markdown, son code est lisible et possède la même structure que le document en résultant. J'ai donc ainsi pu le traiter comme de la donnée pour avoir les 50 mots les plus utilisés à l'aide d'un programme Python[^c1]
 
-![](/home/abgx/workspace/Histoire-et-Philosophie-de-la-Programmation/assets/occurances_mots_memoire.png)
+![](../assets/occurances_mots_memoire.png)
 
 Cette première analyse m'as permis d'être sûr que les mots les plus utilisés soit bien en rapport avec le titre, ou le sous-titre, c'est à dire le sujet. Ensuite, je me suis amusé à compter le nombre de mots de chaque parties pour m'assurer d'avoir un entonnoir allant du général vers le particulier.
 
@@ -1856,7 +1864,7 @@ Voici le dialogue qui en est à l'origine :
 
 
 
-![](assets\ChatGPTRichardStallman.png)
+![](../assets/ChatGPTRichardStallman.png)
 
 J'ai donc découvert que OpenAI n'aurais évidement pas été racheté par Microsoft s'il avait été sous licence GNU. Et que le homebrew club à été autant fier que déçu qu'IBM lance un ordinateur commercial utilisant leur code.
 
@@ -1872,12 +1880,13 @@ Je ne sais pas si j'aurais pleinement répondu a la problématique mais j'ai éc
 
 
 
-Tant que j'y pense, voici une liste de projet qui me sont venus en tête lors de la rédaction de ce mémoire :
+Je fais désormais plus attentions à mes actes et à mes dires, la communication passe par la transparence, l'adéquation, la clarté, la crédibilité, et la réactivité.  -  consistance, engagement, accessibilité, authenticité, proactivité, évaluation
 
-- Faire un autocompléteur de langue naturelle pour la rédaction écrite.
-- Un Editeur Markdown prenant en compte les balises HTML `lang` 
-- Un enrouleur de câbles utilisant des techniques de couture.
-- Il existe déjà des casque de VR permettant de visualiser les zones couvertes par le wifi, imaginez un casque multi-sensoriel visuel qui permette à l'aide d'ondulo-analyse de voir les températures, les zones radioactives, les flux d'air ou de gazs.
+En tant que président d'une SASU Politesse, Respect et Bienveillance seront les maîtres mots de ma philosophie d'entreprise. Veiller à bien faire et bien communiquer, bien travailler, bien apprendre et retransmettre, et essayer tout les jours, malgré les hauts et les bas, de devenir un peu meilleur que la veille.
+
+
+
+Tant que j'y pense, voici une liste de projet qui me sont venus en tête lors de la rédaction de ce mémoire : Faire un autocompléteur de langue naturelle pour la rédaction écrite. Un Editeur Markdown prenant en compte les balises HTML `lang` . Un enrouleur de câbles utilisant des techniques de couture. Il existe déjà des casque de VR permettant de visualiser les zones couvertes par le wifi, imaginez un casque multi-sensoriel visuel qui permette à l'aide d'ondulo-analyse de voir les températures, les zones radioactives, les flux d'air ou de gazs.
 
 
 
