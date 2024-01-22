@@ -581,7 +581,7 @@ Beaucoup d'ordinateurs ont été réalisés en **1945**, au crépuscule des deux
 
 Le tube de Williams-Kilburn, développé en 1946 ou 1947 par Frederic Calland Williams et Tom Kilburn, utilise les tubes cathodiques de Boris Rosing pour enregistrer des données binaires. La **Small-Scale Experimental Machine (SSEM)**, premier ordinateur à architecture de von Neumann, les utilisait pour sa mémoire vive. Le test de cette nouvelle technologie sur la SSEM, aussi appelé Manchester Baby étant concluant en **1948**, la production d'un autre ordinateur à été lancé. C'est ainsi que la réalisation du Manchester Mark I commence, pour voir le jour seulement un an après, en **1949**. Cette machine sera décrite comme un cerveau électronique par la presse, des neuro-scientifiques s'y intéressent rapidement, à une période ou naît la cybernétique.
 
-En effet, quelques années avant, plus précisément en **1947**, le mathématicien Norbert Wiener publie *La cybernétique*, il y introduit ce qui deviendra un domaine d'étude des mécanismes d'information des systèmes complexes et leur analogies entre les organismes vivants et les machines. Mettant notamment en avant la capacité d'un système de se réguler lui même, et les moyens mis en œuvre pour atteindre une finalité, soit respectivement la rétroaction, et la téléologie, deux notions aussi importantes que présentes dans ce domaine. La cybernétique trouve son origine étymologique du grec kubernêtikê qui signifie gouverner dans le sens de diriger un navire. L'une des premières machines pourvues de rétroaction est le régulateur à boules de James Watt en 1788 qui permettait de réguler la vitesse de rotation d'une machine à vapeur. Ce mouvement de pensée et la doctrine qui y est liée ralliera de nombreux scientifiques, penseurs et mathématicien, dont John Von Neumann. 
+En effet, quelques années avant, plus précisément en **1947**, le mathématicien Norbert Wiener publie *La cybernétique*, il y introduit ce qui deviendra un domaine d'étude des mécanismes d'information des systèmes complexes et leur analogies entre les organismes vivants et les machines. Mettant notamment en avant la capacité d'un système de se réguler lui même, et les moyens mis en œuvre pour atteindre une finalité, soit respectivement la rétroaction, et la téléologie, deux notions aussi importantes que présentes dans ce domaine. La cybernétique trouve son origine étymologique du grec kubernêtikê qui signifie gouverner dans le sens de diriger un navire. L'une des premières machines pourvues de rétroaction est le régulateur à boules de James Watt en 1788 qui permettait de réguler la vitesse de rotation d'une machine à vapeur. Ce mouvement de pensée et la doctrine qui y est liée ralliera de nombreux scientifiques, penseurs et mathématicien, dont John Von Neumann.
 
 https://fr.wikipedia.org/wiki/Auto-organisation
 
@@ -888,6 +888,25 @@ Ward Cunningam créa le premier wiki en 1995 il est encore disponible tel quel[^
 
 
 
+
+
+#### Intelligence artificielle
+
+- Deep Blue beats Gary Kasparov  in **1997**
+- Imagenet **2009**
+- Watson gagne Joepardy **2011**
+- Alphago **2015**
+
+
+
+#### Environnements de développement
+
+Vim, Emacs,
+
+Suite à Atom publié par GitHub le 26 février 2014, bien avant son rachat en 2018 par Microsoft, qui l'a refait en mieux, en sortant le 29 avril **2015** l'IDE le plus utilisé à ce jour Visual Studio Code.
+
+Wix, squarespace, etc....
+
 ### Bilan passé
 
 J'ai pu remarquer à travers l'Histoire que les inventions de savants et créateurs ne sortent que rarement de nulle part. Leurs origines proviennent souvent de (re)découvertes des principes existants, qu'ils compilent et les réutilisent à leur manières, améliorant les idées de leurs prédécesseur et réalisant de meilleurs outils à force d'itérations innovantes. Des inventions comme le Radar ou la pile de Volta trouvent leur inspiration dans des observations de la nature, notamment des animaux avec les chauves souris qui se guident à l'aide de l'écholocalisation, ou les anguilles électriques capable de produire des courants allant jusqu'à 860V et 2A. Les personnes pionnières dans leur domaine sont généralement suivies par foule de passionnés car les idées naissent d'une combinaison d'autres déjà existantes dans le contexte mondial à un moment donné. Il est en effet impossible de savoir qui à eu l'idée d'une chose pour la première fois, on ne retiendra naturellement que la première personne à avoir populariser le terme ou l'idée, parfois à travers la commercialisation d'un produit, d'autre fois grâce à une publication scientifique ou au dépôt d'un brevet. Certaines informations plus ésotériques ne se transmettrons que par la parole, conservant ainsi un secret relatif.
@@ -912,23 +931,21 @@ Les recherches et compréhension récentes dans le domaine de la bio-informatiqu
 
 ## Pratiques actuelles
 
-L'informatique est désormais omniprésente, la terre est entourée de satellites en orbites, les continents sont interconnectés avec des câbles sous marins, 7 personnes sur 10 possèdent un smartphone, les demandes d'informations et démarches administratives se numérisent rapidement. La programmation est facilitée par l’apparition de langages haut niveau à la syntaxe simple avec des compilateurs plus explicites. Depuis 1950, bien que les interfaces graphiques aient permis de faciliter l'utilisation des ordinateurs, la programmation n'a plus été révolutionnée depuis les premiers langages haut niveau. Seul l'apparition du langage Rust, dont l'adoption dans les entreprises sera encore longue, à permis d'avoir un nouveau candidat avec des performances équivalentes au C et une expérience de développement plus agréable que les autres, et ce grâce à ses nouveaux concepts de gestion de la mémoire, évitant ainsi 70% des bugs selon Microsoft.[^1]
+L'informatique est désormais omniprésente, la terre est entourée de satellites en orbites, les continents sont interconnectés avec des câbles sous marins, 7 personnes sur 10 possèdent un smartphone, les demandes d'informations et démarches administratives se numérisent rapidement. La programmation est facilitée par l’apparition de langages haut niveau à la syntaxe simple avec des compilateurs plus explicites. Depuis 1950, bien que les interfaces graphiques aient permis de faciliter l'utilisation des ordinateurs, la programmation n'a plus été révolutionnée depuis les premiers langages haut niveau. Seul l'apparition du langage Rust, dont l'adoption dans les entreprises sera encore longue, à permis d'avoir un nouveau candidat avec des performances équivalentes au C et une expérience de développement plus agréable que les autres, et ce juste grâce à ses nouveaux concepts de gestion de la mémoire, évitant ainsi 70% des bugs selon Microsoft.[^1] Pour le reste, la majorité des langages ont leur propres qualités notamment grâce à leur communautés et aux outils qu'elles ont développés, pour exemple, le Python est toujours une référence pour le traitement de la donnée, et le JavaScript a standardisé la gestion des interactions utilisateurs et la dynamisation des interfaces graphiques.
+
+Le matériel quand à lui, a beaucoup évolué, les ordinateurs se sont petits à petit miniaturisés, devenant portables et mobiles, offrant même désormais des expériences immersives réalistes grâce aux casques de réalité virtuelles. Depuis les années 2000, l'automatisation et la robotiques s'immiscent dans notre quotidien et dans les ménages à travers la domotique. Robots aspirateurs, drones munis de caméras, voitures autonomes, nos outils de tout les jours deviennent autonomes et réduisent notre charge de travail. Mais ce qui nous intéresse dans le cadre de la problématique, ce n'est finalement pas tant le matériel mais l'information et la logique qui en émane. La population mondiale utilise de plus en plus les technologies de l'information et internet. C'est pourquoi la grande majorité des entreprises se modernisent et veulent avoir une gestion informationnelle fiable accompagnée d'une visibilité mondiale fournie par les réseaux informatiques. Dans le domaine logiciel, la mode est au applications no-code et low-code qui permettent notamment d'obtenir des sites et applications webs à l'aide d'interfaces WYSYWYG et de templates ou sections prédéfinies. Toute personnalisation requiert encore l'intervention de développeurs pour coder les fonctionnalités requises. Je vais donc dès maintenant présenter les techniques qui sont actuellement en place pour la réalisation de projets logiciels.
 
 [^1]: https://www.technologyreview.com/2023/02/14/1067869/rust-worlds-fastest-growing-programming-language/
-
-Pour le reste, la majorité des langages ont leur propres qualités notamment grâce à leur communautés et aux outils qu'elles ont développés, pour exemple, le Python est toujours une référence pour le traitement de la donnée, et le JavaScript a standardiser la gestion des interactions utilisateurs et la dynamisation des interfaces graphiques.
-
-Le matériel quand à lui, a beaucoup évolué, les ordinateurs se sont petits à petit miniaturisés, devenant portables et mobiles, offrant même désormais des expériences immersives réalistes grâce aux casques de réalité virtuelles. Depuis les années 2000, l'automatisation et la robotiques s'immiscent dans notre quotidien et dans les ménages à travers la domotique. Robots aspirateurs, drones munis de caméras, voitures autonomes, nos outils de tout les jours deviennent autonomes et réduisent notre charge de travail. Mais ce qui nous intéresse dans le cadre de la problématique, ce n'est finalement pas tant le matériel mais l'information et la logique qui en émane. La population mondiale utilise de plus en plus les technologies de l'information et internet. C'est pourquoi la grande majorité des entreprises se modernisent et veulent avoir une gestion informationnelle fiable accompagnée d'une visibilité mondiale fournie par les réseaux informatiques. Dans le domaine logiciel, la mode est au applications no-code et low-code qui permettent notamment d'obtenir des sites et applications webs à l'aide d'interfaces WYSYWYG et de templates ou sections prédéfinies. Toute personnalisation requiert encore l'intervention de développeurs pour coder les fonctionnalités requises.
-
-https://fr.wikipedia.org/wiki/Th%C3%A9orie_g%C3%A9n%C3%A9rale_des_syst%C3%A8mes
 
 
 
 ### Décisions et gestion de projet
 
-Charles Babbage a visité des maison d'échanges bancaires, et autres établissement de gestion, comme le bureau du cadastre qui du réaliser des cartes à jour pour établir une taxation. Il était fasciné par la division mentale du travail qui s'y opérait, la personne en charge du cadastre était le Baron Gaspard De Prony qui a également réalisé les *Grandes tables de logarithme* en seulement deux ans grâce à ses lectures des travaux d'Adam Smith, notamment de son œuvre "*Recherches sur la nature et les causes de la richesse des nations*". Ce dernier à été le premier à décrire le principe de division du travail. Ce principe est utilisé depuis la nuit des temps pour optimiser les temps de formations du personnel et de réalisation d'un produit. 
+Toute entreprise ou groupe d'humain travaillant sur un même projet doit en avoir une gestion planifiée. Cela ce met en place avec divers outils mais repose sur une bonne veille et sur des décisions adaptés, permettant in fine de découper le projet en tâches simples que l'on délègue à des techniciens pour leurs réalisation. Il convient de préparer suffisamment le travail pour qu'il soit réalisable facilement, plus l'information sera claire et précise, moins l'équipe aura besoin d'aller-retours entre les pôles. On ne veux pas éviter ses allers-retour pour autant, il faut travailler main dans la main et communiquer efficacement pour se répartir les tâches en fonction des responsabilités de chacun.
 
-Le marché du logiciel s'est vite organisé pour diviser le travail en pôles. Comme évoqué en préface, l'équipe back corresponds aux développeurs en charge de la gestion de la données et la logique de traitement. Les développeurs front quant à eux sont en charge de récupérer de la donnée depuis le serveur et l'afficher selon les maquettes résultant de l'équipe conceptrice d'interface. Cette équipe est séparée en deux, expérience utilisateur (UX) mise en place avec le squelette et les interactions possibles, et l'interface utilisateur (UI) qui représente la direction artistique donnée à ce squelette en l'agençant proportionnellement et en lui donnant des couleurs. Enfin viennent les rédacteurs qui choisissent et testent les meilleures phrases possible pour attirer le lecteur.
+Quand Charles Babbage a visité des maison d'échanges bancaires, et autres établissement de gestion, comme le bureau du cadastre qui du réaliser des cartes à jour pour établir une taxation, il était fasciné par la division mentale du travail qui s'y opérait. La personne en charge du cadastre était le Baron Gaspard De Prony qui a également réalisé les *Grandes tables de logarithme* en seulement deux ans grâce à ses lectures des travaux d'Adam Smith, notamment de son œuvre "*Recherches sur la nature et les causes de la richesse des nations*". Ce dernier à été le premier à décrire le principe de division du travail. Ce principe est utilisé depuis la nuit des temps pour optimiser les temps de formations du personnel et de réalisation d'un produit. 
+
+Le marché du logiciel s'est vite organisé pour diviser le travail en pôles. Comme évoqué en préface, l'équipe back corresponds aux développeurs en charge de la gestion de la données et la logique de traitement. Les développeurs front quant à eux sont en charge de récupérer de la donnée depuis le serveur et l'afficher selon les maquettes résultant de l'équipe conceptrice d'interface. Cette équipe est généralement aussi séparée en deux, l'équipe expérience utilisateur (UX) met en place le squelette de l'interface (wireframe) et les interactions possibles par l'utilisateur. Les concepteurs d'interface utilisateur (UI) représentent quand à eux la direction artistique donnée à ce squelette en l'agençant proportionnellement et en lui donnant des couleurs. Enfin viennent parfois les rédacteurs qui choisissent et testent les meilleures phrases possible pour attirer le lecteur et avoir un meilleur référencement sur les moteurs de recherche.
 
 On comprends donc facilement que le management moderne à eu besoin de pouvoir former et guider efficacement ses employés. Pour cela il à fallu trouver des outils et moyens mnémotechniques afin de facilement analyser les facteurs influant sur l'activité d'une entreprise. Une des plus ancienne technique est la carte heuristique plus connue sous le nom de carte mentale. Née de l'arbre de Porphyre, un philosophe néoplatonicien du 3<sup>ème</sup> siècle, elle représente visuellement le cheminement de la pensée et l’interconnections des idées afin d'en extraire les toutes les informations importantes.
 
@@ -936,109 +953,68 @@ Prendre une décision n'est pas chose aisée, il est parfois difficile de mesure
 
 Une fois que l'on a analysé l'environnement du projet, ses avantages et inconvénients, internes et externes ; on peut être amenés à choisir entre plusieurs fournisseurs ou solutions, pour cela on peut appliquer la matrice multicritère. Chaque été, avec des amis, nous l'utilisons pour choisir dans quel AirBnb nous allons partir. Nous y renseignons une note pour le prix, l'emplacement géographique, la qualité du logement, etc... et obtenons un score moyen permettant de déterminer où nous partirons en vacances.
 
-Après les décisions préliminaires, il est préférable de définir clairement le projet, s'il s'agit d'une entreprise, il convient de réaliser un plan d'affaire. Autrement, de manière générale, il est possible de réaliser une simple charte de projet. On y indique les dates de début et de fin, les principaux acteurs du projet et son nom, suivi de son périmètre et de ses objectifs. Un objectif est dit SMART s'il est **s**pécifique, **m**esurable, **a**tteignable, **r**éaliste et **t**emporel. Une fois que c'est fait, on peut déjà réaliser une planification grossière comportant les étapes clefs en réalisant une feuille de route ou roadmap en anglais. Il convient ensuite d'affiner cette planification en découpant les grandes parties d'un projet en petites tâches. Certaines dépendent d'autres et doivent par conséquent être réalisées à postériori. Hormis l'interdépendances des tâches, il est parfois compliqué de savoir quoi faire en premier parmi une grande liste de tâches. Pour les planifier et ordonnancer, la matrice d'Eisenhower est un outil élémentaire. Très proche des matrices de faisabilité et de priorisation, elle permet de classifier les tâches importantes et/ou urgentes, celles qui ne le sont pas, ainsi qu'à qui les confier.
+Après les décisions préliminaires, il est préférable de définir clairement le projet, s'il s'agit d'une entreprise, il convient de réaliser un plan d'affaire. Autrement, de manière générale, il est possible de réaliser une simple charte de projet. On y indique les dates de début et de fin, les principaux acteurs du projet et son nom, suivi de son périmètre et de ses objectifs. Un objectif est dit SMART s'il est **s**pécifique, **m**esurable, **a**tteignable, **r**éaliste et **t**emporel. Une fois que c'est fait, on peut déjà réaliser une planification grossière comportant les étapes clefs en réalisant une feuille de route ou "roadmap" en anglais. Il convient ensuite d'affiner cette planification en découpant les grandes parties d'un projet en petites tâches. Certaines dépendent d'autres et doivent par conséquent être réalisées à postériori. Hormis l'interdépendances des tâches, il est parfois compliqué de savoir quoi faire en premier parmi une grande liste de tâches. Pour les planifier et ordonnancer, la matrice d'Eisenhower est un outil élémentaire. Très proche des matrices de faisabilité et de priorisation, elle permet de classifier les tâches importantes et/ou urgentes, celles qui ne le sont pas, ainsi qu'à qui les confier.
 
-Lorsque les prérequis ainsi que les conditions de réalisations des tâches et leurs priorités sont clarifiés, il est possible de définir un diagramme de GANTT pour les planifier précisément et visualiser leur déroulé attendu dans le temps sur un calendrier. Il ne reste plus qu'à suivre cette planification au mieux, bien que les estimations ne peuvent que rarement anticiper les risques imprévus. Si un problème apparaît lors de la réalisation d'une tâche, une méthode simple et efficace nommée "5 Why" indique que se poser 5 fois d'affilée la question "Pourquoi ?" permet généralement de trouver la source d'un problème. Dans le même genre nous avons également le diagramme d'Ishikawa qui permet de schématiser les différentes causes possible d'un événement ou effet. Inspiré des quatre causes d'Aristote, il est généralement construit en analysant les 5 M : Matière première constituante, Matériel utilisé, Méthode employée, Main-d’œuvre intervenant, et Milieu dans lequel l’événement apparaît.
-
-Ce n'est pas la seule méthode qui est inspirée d'Aristote, QQOQCCP est un acronyme compliqué résumant une méthode interrogative empirique simple qui trouve ses origines dans L'Éthique à Nicomaque.[^1] Elle corresponds aux 7 questions fondamentales à se poser pour faire de tour d'une situation  : Quoi Quand Où Quand Comment Combien Pourquoi. Cela est très utilisé en journalisme pour découper l'information en priorité.
+Lorsque les prérequis ainsi que les conditions de réalisations des tâches et leurs priorités sont clarifiés, il est possible de définir un diagramme de GANTT pour les planifier précisément et visualiser leur déroulé attendu dans le temps sur un calendrier. Il ne reste plus qu'à suivre cette planification au mieux, bien que les estimations ne peuvent que rarement anticiper les risques imprévus. Si un problème apparaît lors de la réalisation d'une tâche, une méthode simple et efficace nommée "5 Why" indique que se poser 5 fois d'affilée la question "Pourquoi ?" permet généralement de trouver la source d'un problème. Dans le même genre nous avons également le diagramme d'Ishikawa qui permet de schématiser les différentes causes possible d'un événement ou effet. Inspiré des quatre causes d'Aristote, il est généralement construit en analysant les 5 M : Matière première constituante, Matériel utilisé, Méthode employée, Main-d’œuvre intervenant, et Milieu dans lequel l’événement apparaît. Ce n'est pas la seule méthode qui est inspirée d'Aristote, QQOQCCP est un acronyme compliqué résumant une méthode interrogative empirique simple qui trouve ses origines dans L'Éthique à Nicomaque.[^1] Elle corresponds aux 7 questions fondamentales à se poser pour faire de tour d'une situation : Qui, Quoi, Où, Quand, Comment, Combien, Pourquoi. Cela est très utilisé en journalisme pour découper l'information en priorité.
 
 [^1]: Livre III, Chap. 2, fragment 1111a 2-20 - https://remacle.org/bloodwolf/philosophes/Aristote/nicom2.htm#II
 
-Il y a trois principales méthodologies de gestion et de réalisation de projet, la cascade (Waterfall), le cycle en V, et Scrum. Le modèle en cascade est très linéaire, on part d'un début pour arriver à une fin en passant par des étapes très définies. Le cycle en V fait correspondre les étapes préliminaires de définition du projet avec des étapes de tests et de validation qui ont lieu après l'implémentation. Scrum quand à lui est une méthode flexible plus appropriée aux projets complexes remplis d'imprévus. À la manière des autres méthodes, elle découpe le projet en différentes parties nommés "sprints", mais elle le fait tout au long du projet, et non pas de manière définitive à l'initialisation de ce dernier. Dans le cas de la réalisation d'un simple site web vitrine, le cycle en V est généralement la méthode utilisé, la complexité est moindre et un peut dérouler sa réalisation de manière linéaire, bien que l'on puisse théoriquement l'améliorer à postériori, c'est généralement comme un magazine, une fois qu'il est imprimé, on ne le modifie plus, ou peut éventuellement en faire une autre version quelques temps plus tard. Pour une application ou un logiciel, l'utilisation est plus dynamique, l'utilisateur à plus d'interactions possibles avec le produit et par conséquent plus d'envies, de demandes, de besoins, et de potentiellement de problèmes. C'est pourquoi la méthode Scrum est plus appropriée dans ce cas. On peut à toute étape du projet, recueillir les retours clients, définir un objectif, réfléchir aux manières d'y répondre, puis prototyper la meilleure solution retenue, pour enfin la tester. Ce processus est très proche du *design thinking*, cette méthode de création et de gestion de l'innovation permet de rapidement obtenir un produit minimal viable (MVP), sur lequel on peut par la suite itérer. Enfin, lors de ma lecture de Lean Startup, un concept de gestion de projet m'as particulièrement marqué. Lors de ces itérations, il convient arrêter toute la chaîne de production lors de l'apparition du moindre problème. Cela évite ainsi de contaminer la suite de la chaîne, et de propager une erreur jusqu'à l'étape finale de livraison.
+Pour la réalisation du projet en lui même, il y a trois principales méthodologies de gestion, la cascade (Waterfall), le cycle en V, et Scrum. Le modèle en cascade est très linéaire, on part d'un début pour arriver à une fin en passant par des étapes très définies. Le cycle en V fait correspondre les étapes préliminaires de définition du projet avec des étapes de tests et de validation qui ont lieu après l'implémentation. Scrum quand à lui est une méthode flexible plus appropriée aux projets complexes remplis d'imprévus. À la manière des autres méthodes, elle découpe le projet en différentes parties nommés "sprints", mais elle le fait tout au long du projet, et non pas de manière définitive à l'initialisation de ce dernier. Dans le cas de la réalisation d'un simple site web vitrine, le cycle en V est généralement la méthode utilisé, la complexité est moindre et un peut dérouler sa réalisation de manière linéaire, bien que l'on puisse théoriquement l'améliorer à postériori, c'est généralement comme un magazine, une fois qu'il est imprimé, on ne le modifie plus, ou peut éventuellement en faire une autre version quelques temps plus tard. Pour une application ou un logiciel, l'utilisation est plus dynamique, l'utilisateur à plus d'interactions possibles avec le produit et par conséquent plus d'envies, de demandes, de besoins, et de potentiellement de problèmes. C'est pourquoi la méthode Scrum est plus appropriée dans ce cas. On peut à toute étape du projet, recueillir les retours clients, définir un objectif, réfléchir aux manières d'y répondre, puis prototyper la meilleure solution retenue, pour enfin la tester. Ce processus est très proche du *design thinking*, cette méthode de création et de gestion de l'innovation permet de rapidement obtenir un produit minimal viable (MVP), sur lequel on peut par la suite itérer. Enfin, lors de ma lecture de Lean Startup, un concept de gestion de projet m'as particulièrement marqué. Lors de ces itérations, il convient arrêter toute la chaîne de production lors de l'apparition du moindre problème. Cela évite ainsi de contaminer la suite de la chaîne, et de propager une erreur jusqu'à l'étape finale de livraison.
 
 
 
 Aujourd'hui le logiciel vient suppléer ces techniques de management. Le recueil et l'analyse de données permettent d'apporter une aide à la décision. La gestion des entreprises autrefois réalisée de têtes ou sur papiers avec de multiples dossiers est désormais centralisée dans des progiciels de gestion intégrés (Enterprise Ressource Planning ou ERP en anglais). L'apprentissage est facilité par des ludiciels comme Adibou, Lapin Malin, Duolingo, Gymglish, ou encore flexboxfroggy pour le CSS, codingame pour les langages de programmations, hackthebox pour la cybersécurité, et j'en passe. Malgré cela, l'industrie du jeux vidéo qui représente plus de 50% des 650 milliards de valeur marchande du logiciel dans le monde, occulte les logiciels éducatifs en ligne, et ce à raison de 396 milliards de dollar de marché contre 166. Les progiciels quant à eux ne représentent que 50 milliards de dollars (sources : statista 2022). 
 
-De mon expérience, j'ai pu constater la différance entre prestation de service informatique et édition de logiciel. Le modèle économique d'une entreprise influence énormément les comportement de ses salariés. Les contraintes de temps et de budget ne sont pas les mêmes, les projets s'organisent différemment. Les prestataires vendent du temps, et ont donc naturellement tendance à avoir des deadline plus courtes et par conséquent plus de pression. Cela nécessite également une équipe commerciale solide capable de décrocher assez de projet pour faire travailler l'entreprise pendant les prochaines années. En contrepartie, ce n'est pas un logiciel ou site maintenable qui est demandé, mais il faut qu'il soit assez bien réalisé et fonctionnel pour être livré le plus rapidement possible afin d'en dégager une marge. Les éditeurs logiciels quant a eux le louent généralement en tant que service ou le vendent en tant que bien, le nerf de la guerre réside alors dans la maintenabilité du logiciel auquel doit être ajouté des fonctionnalités au fil du temps. Plus le logiciel grossit, plus il est compliqué de maitriser les effets de bord et de comprendre l'intégralité du logiciel et de son historique. Ils ont cependant la chance d'avoir conçu une sorte de distributeur automatique qui n'a pas besoin d'action humaine.
+De mon expérience, j'ai pu constater la différance entre prestation de service informatique et édition de logiciel. Le modèle économique d'une entreprise influence énormément les comportement de ses salariés. Les contraintes de temps et de budget ne sont pas les mêmes, les projets s'organisent différemment. Les prestataires vendent du temps, et ont donc naturellement tendance à avoir des délais plus courtes et par conséquent plus de pression. Cela nécessite également une équipe commerciale solide capable de décrocher assez de projet pour faire travailler l'entreprise pendant les prochaines années. En contrepartie, ce n'est pas un logiciel ou site maintenable qui est demandé, mais il faut qu'il soit assez bien réalisé et fonctionnel pour être livré le plus rapidement possible afin d'en dégager une marge. Les éditeurs logiciels quant a eux le louent généralement en tant que service ou le vendent en tant que bien, le nerf de la guerre réside alors dans la maintenabilité du logiciel auquel doit être ajouté des fonctionnalités au fil du temps. Plus le logiciel grossit, plus il est compliqué de maitriser les effets de bord et de comprendre l'intégralité du logiciel et de son historique. Ils ont cependant la chance d'avoir conçu une sorte de distributeur automatique qui n'a pas besoin d'action humaine pour fonctionner. Pour conclure, qu'elle que soit le modèle d'entreprise, le développeur n'est que rarement en contact direct avec le client. Les chefs de projets sont en première ligne pour échanger avec eux. Les UX/UI peuvent également faire intermédiaires en consultant le client, mais ils doivent également en informer les chefs de projets. Si dessous la matrice RACI la plus courante actuellement dans l'industrie informatique.
 
 
 
+| Personne       | Réalisateur                                | Approbateurs    | Consultés       | Informés        |
+| -------------- | ------------------------------------------ | --------------- | --------------- | --------------- |
+| Client         | Besoin                                     | Chefs de projet | UX/UI           | Développeurs    |
+| Chef de projet | Cahier des charges fonctionnel et planning | Clients         | UX/UI           | Développeurs    |
+| UX/UI          | Spécifications visuelles et ergonomiques   | Développeurs    | Client          | Chefs de projet |
+| Développeurs   | Code source                                | Chefs de projet | Chefs de projet | Chefs de projet |
 
 
 
+Il convient de planifier et prendre son temps. Les deux vont de pair, il ne sert à rien d'être dans la précipitation. Un travailleur peut être rapide mais il ne lui faut pas oublier la rigueur, ou tenter de faires plusieurs choses à la fois. Il vaut mieux prendre une pause, que d'être happer par la réalisation d'une autre tâche et oublier de finaliser celle initiale. Et si on doit changer de tâche, alors il convient de la noter et mieux, la (re)planifier. Malgré la planification il faut aussi accepter que tout et n'importe quoi peut arriver à n'importe quel moment dans la vie de chacun et donc savoir être indépendant, c'est également pourquoi le partage de connaissance est important en entreprise. Lors de mon alternance chez SoeMan j'ai pu participer à des réunions d'on-boarding après quoi nous réalisions des comptes rendus. De Bussac Multimedia, nous avions en plus la chance de pouvoir partager initialement des petits posts de blogs, et plus tard de présenter des diaporama et démonstrations de ce que l'on voulait dans des sessions afterwork. Actuellement chez ABGX, nous avons même tout nos vendredis après midi de dédié à un projet interne annexe de notre choix. Pour autant on ne planifie que les tâches à faire, pas exactement quand, on définit un ordre, une pile des tâches à réaliser avec des priorités et urgences. Tout les workflow de travail que j'ai pu voir ont leurs avantages et leurs inconvénients, pour autant c'est chez ABGX que j'ai personnellement retrouvé ce qui me convient le plus parmi toutes mes expériences. J'ai immensément apprécié être à plein temps sur la refonte graphique de SoEMan mais je n'avais plus l'impression d'être utile dans l'avancement du logiciel durant cette période. Chez De Bussac au contraire, j'avais la sensation d'être en symbiose avec mon emploi du temps qui régissait mon activité professionnelle avec malgré tout un certain confort. Ce même confort qui m'a appris à prendre mon temps chez ABGX, m'apportant malgré tout une sensation de décélération qui m'a parfois frustré. Pour autant, c'est celle qui m'a remis en phase avec le travail. Dans le travail comme en voiture, il faut adapter votre vitesse à votre environnement. Même sur une piste de course comme en formule 1, les meilleures temps sont réalisés en ayant la vitesse la plus optimale dans les conditions matérielles à ce moment. J'ai souvent entendu dire "ce n'est pas ce qui est demandé ni prioritaire, on fera ça plus tard", et bien évidement, la plupart du temps cela fini par n'être jamais fait. Dans les projets informatique c'est ainsi que la dette technique s'immisce, des fonctionnalités qui s’accumulent, des développements qui s’enchaînent, et pallie aux problèmes qu'avec des corrections rapides, s’attaquant aux causes plutôt qu'aux conséquences. Dès que l'on constate un problème, il faut avoir le réflexe de réaliser la tâche dans la foulée, ou de la planifier pour ne pas que l'information se perde.
 
-### Gestion de l'information
-
-Entrées et sorties, Inputs et Outputs (IO), sont le couple de paramètres entrants et des valeurs sortantes d'une fonction. Avec elles seules on peut définir les fonctionnalités possibles à un certain contexte d'entrées et sorties attendues. On peut deviner ou comprendre la logique cachée derrière. C'est une sorte de double entonnoir, comme des portails, théoriquement bidirectionnels. On peut la mettre en relation avec la lecture et l'écriture, en C# .NET [`System.IO`](#https://learn.microsoft.com/en-us/dotnet/api/system.io?view=net-7.0) est ailleurs un espace de noms (namespace) permettant d'accéder à des fonctions algorithmiques standard de lire et écrire des fichiers et par conséquent des dossiers. Puisque oui, les dossiers sont des fichiers, contenant l'adresse mémoire de son contenu. En réalité, tout n'est que variables et fonction mathématiques. Les fichiers sont des variables, et les actions que l'on peut réaliser à l'aide de fichiers de code sont des fonctions, elles mêmes composées de variables. Les entrées et sorties peuvent être comparés aux sensations et aux réactions physiques. La boite noire qu'est le cerveau de l'acteur, avec son raisonnement propre est quand à elle comparable au code back end que l'on ne peut percevoir depuis l'interface client. Enfin, après avoir lu et analyser notre environnement et écrivons une réponse physique à travers nos expressions corporelles, faciales, et verbale. Il y'a toute sorte de comportements et de réactions contrôlées ou non que l'on répète. 
-
-
-
-Lorsque l'on fait face à un problème informationnel, il convient de définir son périmètre, pour analyser et gérer précisément la zone voulue. L'informatique nous permet désormais d'avoir une interface pour naviguer précisément dans une simulation réaliste et visualiser ses ordres de grandeur. [c4model](https://c4model.com/)
-
-L'industrie informatique est toujours régit par la Loi de Moore qui veux que l'on ai matériellement 2 fois plus de transistors par unité de surface. Il se peut que cette loi finisse par faire fasse à un mur, un palier, ou toute contrainte, qu'elle soit physique ou économique, bloque la progression et la capacité de l'industrie des semi-conducteurs à la source matérielle de l'informatique. Le volume de donnée est également passé au crible et il s'avère que notre capacité à stocker l'information générée par nos actions informatique sur internet est moindre.
+La réalisation d'un projet est donc un travail de groupe, mais aussi individuel, c'est pourquoi la formation du personnel est importante et que cette dernière passe par l'apprentissage personnel. Il convient, quel que soit votre métier, d'effectuer une veille stratégique pour vous même avoir une démarche d'amélioration continue, et ce en dehors de toute formation organisée par votre établissement. Être autodidacte vous permet d'être maître de vos connaissances et de votre travail. Cela ne signifie pas pour autant qu'il faut tout faire seul et soit même car il y'a généralement besoin d'un mentor pour apprendre, ou d'être capable de faire entendre et valoir ses opinions à autrui pour pouvoir mettre pleinement en application ses compétences.
 
 
 
-transparence, adéquation clarté crédibilité, réactivité,  -  consistance, engagement, accessibilité, authenticité, proactivité, évaluation
+### Développement personnel
 
-
-
-
-
-
-
-En communication comme en électronique, un signal fort peut perturber voire totalement stopper un système. C'est le cas dans l’épisode 22 de la série Baki dans lequel un combattant spécialisé en environnement fait taire toute une arène en criant extrêmement fort. Tout étudiant l'a déjà expérimenté, on a tous déjà été dans une situation ou un groupe bruyant se tait après qu'une autorité ai hausser la voix.
-
-
-
-La viralité est un facteur mathématiquement calculable. C'est la moyenne de transmissions faites par les personnes atteintes par une information. Une information est virale dès que son facteur dépasse 1, autrement dis dès que la moyenne des personnes en sa possession la retransmettent à plus d'une autre personne.
-
-
-
-
-
-Informations parasites. Quand je travaille sur une fonction je n’ai pas besoin de voir autre chose que ses dépendances. le divertissement n'est pas nécessaire non plus. L'informatique et l'algorithmique nous permettent de répliquer a l'infini une information ou un traitement logique de donnée. 
-
-croyances limitantes et mauvaise foi
-
-Désinformation 
-
-
-
-
-
-
-
-### Apprentissage
-
-L'apprentissage commence généralement avec de la mémorisation, s'ensuit une compréhension qui permet la résolutions de problèmes, enfin s'y ajoute la créativité que l'on débloque lorsque l'on à le savoir et le savoir faire. La mémorisation étant le terreau du savoir, il est important de comprendre que scientifiquement, on sait aujourd'hui que les humains ont, tout comme les machines, une mémoire de travail et une mémoire à long terme. Ses deux mémoires sont comparables à la RAM et aux stockages de masse. Le cerveau possède même un mécanisme d'encodage de l'information vers la mémoire à long terme et de récupération vers la mémoire de travail, les informations les plus importantes possèdent plus d'amorces, permettant de les retrouver et s'en souvenir plus facilement, avec bien sur certaines informations dont le signal se perd, dans l'oubli, nécessaire à trier et jeter ou archiver ce qui l'est moins, dans le cas de la mémoire à long terme, cela se produit en perdant des amorces au fur et a mesure du temps.
+L'apprentissage commence généralement avec de la mémorisation, s'ensuit une compréhension qui permet la résolutions de problèmes, enfin s'y ajoute la créativité que l'on débloque lorsque l'on à le savoir et le savoir faire. La mémorisation étant le terreau du savoir, il est important de comprendre que les scientifiques ont aujourd'hui prouvés que les humains ont, tout comme les machines, une mémoire de travail et une mémoire à long terme. Ses deux mémoires sont comparables à la RAM et aux stockages de masse. Le cerveau possède même un mécanisme d'encodage de l'information vers la mémoire à long terme et de récupération vers la mémoire de travail, les informations les plus importantes possèdent plus d'amorces, permettant de les retrouver et s'en souvenir plus facilement, avec bien sur certaines informations dont le signal se perd, dans l'oubli, nécessaire à trier et jeter ou archiver ce qui l'est moins, dans le cas de la mémoire à long terme, cela se produit en perdant des amorces au fur et a mesure du temps.
 
 A l'aide de schémas mentaux, nous associons un ensemble de concepts ou d'idées liées, permettant de formuler facilement des phrases compréhensibles et retransmissibles. L'humain à la chance d'être multimodal et d'avoir plusieurs "périphériques" biologiques. Une fois qu'il a capté une information grâce à un d'entre eux, il doit la revoir ou se la répéter à intervalles réguliers et assez courts afin de la mémoriser. D'après ce que l'on a vu précédemment cela fait sens, la répétition de la perception de cette information par l'esprit va lui permettre de créer plus d'amorces et constituer des schémas mentaux. La reformulation sous forme de questions que l'on peut se poser pour tester ses connaissance permet un apprentissage plus rapide. Reformuler dans le but de réexpliquer permet également de diversifier son apprentissage [^1]
-
-Apprentissage par l’erreur, sans elle rien ne serais possible le succès ne s’obtient qu’en résolvant des micro problèmes. N'apprennez pas par coeur, comprenez et retenez la logique derriere.
 
 [^1]:  https://www.youtube.com/watch?v=RVB3PBPxMWg
 
 
 
-Récemment le développement de l'apprentissage et les écoles adoptant la pédagogie Montessori sont un peu revenu à la mode, certains établissements ne donnent plus de notes mais des appréciations ou validations de niveau. Conformément à la pensée de Céléstin Freinet, les estrades ne sont plus, ou du moins ne servent plus à mettre le professeur en exergue, qui de toute manière se retrouve souvent à passer dans les rangs pour accompagner ou surveiller les élèves lors des examens. Bien que les compétences numérique, sociales et civiques, ainsi qu'apprendre à apprendre, fasse partie du socle commun des connaissances et des compétences, je pense qu'elles sont négligées et que l'on devrais enseigner des choses plus concrètes comme le suggérait John Dewey dans *School and Society*. J'ai du attendre l'enseignement supérieur pour avoir un cours unique de quelques heures sur la mémorisation et l'auto-formation, et je regrette que l'on ne nous indique pas quels sont les droits et aides disponibles, que l'on soit en situation précaire ou chef d'entreprise en devenir. Actuellement, l'éducation n'apprends pas aux gens à bien vivre. Imposer un programme est nécessaire pour avoir une base commune, mais les gens ont une vie à côté qui les impact positivement ou négativement dans le scolaire. Certaines compétences générales qui devraient être universelles, comme la gestion d'un budget, d'un planning, la cuisine, l'entretien d'un foyer, ou les démarches administratives élémentaires comme les déclarations d'impôts ou les demandes d'aides, ne sont transmises que par les parents ou les enseignements supérieurs spécialisés.
+Bien que les compétences numérique, sociales et civiques, ainsi qu'apprendre à apprendre, fasse partie du socle commun des connaissances et des compétences, je pense qu'elles sont négligées et que l'on devrais enseigner des choses plus concrètes comme le suggérait John Dewey dans *School and Society*. J'ai du attendre l'enseignement supérieur pour avoir un cours unique de quelques heures sur la mémorisation et l'auto-formation, et je regrette que l'on ne nous indique pas quels sont les droits et aides disponibles, que l'on soit en situation précaire ou chef d'entreprise en devenir. Actuellement, l'éducation n'apprends pas aux gens à bien vivre. Imposer un programme est nécessaire pour avoir une base commune, mais les gens ont une vie à côté qui les impact positivement ou négativement dans le scolaire. Certaines compétences générales qui devraient être universelles, comme la gestion d'un budget, d'un planning, la cuisine, l'entretien d'un foyer, ou les démarches administratives élémentaires comme les déclarations d'impôts ou les demandes d'aides, ne sont transmises que par les parents ou les enseignements supérieurs spécialisés.
 
-Or selon moi le rôle de l'éducation devrait être de faire en sorte que toute personne ayant un objectif soit capable d'elle même trouver les pré-requis nécessaires et les appliquer. De plus nous avons de formidables références nationales comme https://legifrance.gouv.fr/,  https://www.service-public.fr/ ou https://gallica.bnf.fr/ ou internationales comme https://fr.wikipedia.org et elle ne sont que peu connues ou référencées. Nul n'est censé ignoré la loi mais seuls les professionnels la lise et la connaissent. L'éducation ne doit pas fournir tout les outils existants, mais apprendre à l'élève comment trouver les outils et informations dont il aura besoin en plus de lui apprendre à apprendre, et ainsi lui indiquer comment il peut s'autoformer. L'école et l'éducation nationale n'ont pas le monopole du savoir. Elle permet malgré tout d'avoir des bases informationnelles testés et certifiées dans un périmètre définit par le programme qu'elles proposent.
+Or selon moi le rôle de l'éducation devrait être de faire en sorte que toute personne ayant un objectif soit capable d'elle même trouver les pré-requis nécessaires et les appliquer. De plus nous avons de formidables références nationales comme https://legifrance.gouv.fr/,  https://www.service-public.fr/ ou https://gallica.bnf.fr/ ou internationales comme https://fr.wikipedia.org et elle ne sont que peu consultées. Nul n'est censé ignoré la loi mais seuls les professionnels la lise et la connaissent. L'éducation ne doit pas fournir tout les outils existants, mais apprendre à l'élève comment trouver les outils et informations dont il aura besoin en plus de lui apprendre à apprendre, et ainsi lui indiquer comment il peut s'autoformer. L'école et l'éducation nationale n'ont pas le monopole du savoir. Elle permet malgré tout d'avoir des bases informationnelles testés et certifiées dans un périmètre définit par le programme qu'elles proposent.
 
 Je n'ai pas encore parlé de la didactique, elle s’intéresse plus aux contenus des cours, contrairement à la pédagogie qui est la manière de les amener et de les transmettre d'un mentor à un apprenant, les deux sont complémentaires. La pédagogie possède le biais de l'Effet Dr. Fox, qui dit qu'un cours sera apprécié plus en fonction de la personnalité du professeur que du contenu du cours. Or je pense que son dernier et son architecture sont fondamentales et différents en fonction du mode de pensée et d'apprentissage des élèves, d'où l'intervention de la pédagogie pour diriger l'élève vers des exercices ou conversations adaptés à son raisonnement et lui permettant de comprendre les concepts.
 
-Des études montrent désormais que l'apprentissage se fait mieux par la récompense que la punition.[^1] Il est plus productif d'encourager un bon comportement que d'en réprimander un mauvais, bien que cela soit parfois nécessaire, il vaut toujours mieux orienter sa pédagogie de manière positive. 
+L'apprentissage se fait souvent par l’erreur, sans elle rien ne serais possible. Le succès ne s’obtient qu’en résolvant des micro problèmes. N'apprenez pas par cœur, comprenez et retenez la logique derrière. Malgré le fait que l'erreur est bénéfique, des études montrent désormais que l'apprentissage se fait mieux par la récompense que la punition.[^1] Il est plus productif d'encourager un bon comportement que d'en réprimander un mauvais, bien que cela soit parfois nécessaire, il vaut toujours mieux orienter sa pédagogie de manière positive.  Je pense que la pédagogie active et mutuelle des pédagogues contemporains est une belle utopie inspirée de Rousseau. En réalité un bon apprentissage est avant tout du ressort de l'apprenant. C'est d'ailleurs pourquoi il est au cœur de ces techniques d'apprentissages. Depuis Montaigne, l'adage "L'enfant n'est pas un vase que l'on remplit, mais un feu que l'on allume" est couramment repris. En effet, la plus forte source de motivation est intrinsèque, c'est celle qui émane de la pensée telle la conscience. Celle qui est infinie comme l'imagination. Celle dont né une volonté et satiété de savoir intarissable. La pédagogie active et plus généralement l'autodidaxie permettent à l'élève d'être acteur de son apprentissage, il choisit ce qu’il désire apprendre, quand, et comment ; bien que cela se passe souvent par le jeu dirigé puis libre. La motivation de l'étudiant devient intrinsèque au fur et à mesure qu'on lui donne de la liberté, ce qui favorise l'autonomie, la retenue, la prise de décision, et la gestion des conflits. L'adulte ou le mentor doit n'être qu'un médiateur entre l'élève et le savoir, un guide d'apprentissage. Il doit selon moi lui faire part de ce qu'il sait vrai, le justifier, et admettre qu'il peut avoir tord. Le vrai respect ne s'obtient pas par l'autorité mais par le partage, tout en respectant la barrière sensible nécessaire à toute relation professionnelle. Il n'est pas grave de la franchir pour autant, la proximité permet une meilleur compréhension d'autrui, mais il faut savoir repartir de l'autre côté à n'importe quel moment.
 
 [^1]: https://www.inshs.cnrs.fr/fr/cnrsinfo/apprentissage-par-recompense-ou-par-punition-quelles-differences
 
-Je pense que la pédagogie active et mutuelle des pédagogues contemporains est une belle utopie inspirée de Rousseau. En réalité un bon apprentissage est avant tout du ressort de l'apprenant. C'est d'ailleurs pourquoi il est au cœur de ces techniques d'apprentissages. Depuis Montaigne, l'adage "L'enfant n'est pas un vase que l'on remplit, mais un feu que l'on allume" est couramment repris. En effet, la plus forte source de motivation est intrinsèque, c'est celle qui émane de la pensée telle la conscience. Celle qui est infinie comme l'imagination. Celle dont né une volonté et satiété de savoir intarissable.
+Les logiciels éducatifs sont également un médium guidant l'apprentissage. Comme j'ai pu le dire précédemment, j'ai appris à lire à 2 ans et demi et sauté deux classes grâce à "Reader Rabbit, Learn to read with phonics"[^2]. Je n'en suis pas un génie pour autant, et ce n'est pas pour faire preuve humilité. J'ai juste expérimenté un programme, réalisé par des développeurs qui avait une conscience de l'expérience utilisateurs, et qui pour se mettre dans la tête de leurs joueurs, ont inventé un scénario où un ordinateur, propose un vœux à une petite souris qui ne sait pas lire, et retire alors l'intégralité des charactères écrits de sa ville. Le joueur doit alors retrouver les lettres de l'alphabet et écouter le son qu'elles produisent, les mots qu'elles permettent de former. Ce procédé guide l'élève pour qu'il construise au fur et à mesure, à travers le jeu vidéo, des associations entre les caractères visuels, les sons et les formes qu'elles représentent dans le sens d'idées. Permettant ainsi la lecture textuelle et la compréhension qui en découle.
 
-La pédagogie active et plus généralement l'autodidaxie permettent à l'élève d'être acteur de son apprentissage, il choisit ce qu’il désire apprendre, quand, et comment ; bien que cela se passe souvent par le jeu dirigé puis libre. La motivation de l'étudiant devient intrinsèque au fur et à mesure qu'on lui donne de la liberté, ce qui favorise l'autonomie, la retenue, la prise de décision, et la gestion des conflits. L'adulte ou le mentor doit n'être qu'un médiateur entre l'élève et le savoir, un guide d'apprentissage. Il doit selon moi lui faire part de ce qu'il sait vrai, le justifier, et admettre qu'il peut avoir tord. Le vrai respect ne s'obtient pas par l'autorité mais par le partage, tout en respectant la barrière sensible nécessaire à toute relation professionnelle. Il n'est pas grave de la franchir pour autant, la proximité permet une meilleur compréhension d'autrui, mais il faut savoir repartir de l'autre côté à n'importe quel moment.
-
-Les logiciels éducatifs sont également un médium guidant l'apprentissage. Comme j'ai pu le dire précédemment, j'ai appris à lire à 2 ans et demi et sauté deux classes grâce à "Reader Rabbit, Learn to read with phonics". Je n'en suis pas un génie pour autant, et ce n'est pas pour faire preuve humilité. J'ai juste expérimenté un programme, réalisé par des développeurs qui avait une conscience de l'expérience utilisateurs, et qui pour se mettre dans la tête de leurs joueurs, ont inventé un scénario où un ordinateur, propose un vœux à une petite souris qui ne sait pas lire, retire alors l'intégralité des charactères écrits de sa ville. Le joueur doit alors retrouver les lettres de l'alphabet une part une et écouter le son qu'elles produisent, les mots qu'elles permettent de former. Guidant l'élève pour qu'il construise au fur et à mesure, à travers le jeu vidéo, des associations entre les caractères visuels, les sons et les formes qu'elles représentent dans le sens d'idées. Permettant ainsi la lecture textuelle et la compréhension qui en découle.
-
-https://www.youtube.com/watch?v=Vl_S21D7j9w
+[^2]: https://www.youtube.com/watch?v=Vl_S21D7j9w
 
 De manière générale, le jeu développe les compétences sociales et cognitives de l'apprenti, qui n'est plus passif face à un cours qui lui est dispensé par une autorité qui sanctionne et récompense, mais découvre et s'approprie la connaissance par lui même. Bien que le jeu libre ai bien des avantages, le jeu dirigé permet de structurer l'apprentissage à l'aide d'un mentor favorisant l'acquisition de compétences, que le pédagogue transmet à ses disciples. Ce cadre réside dans l'analyse des difficultés et problèmes de l'étudiant, par la recherche des notions manquantes pour y palier, et l'élaboration d'un plan classique permettant d'y arriver, composé de cours, d'exercices, et enfin d'un examen, nécessaire à la validation individuelle de la théorie. Cette notion d'apprentissage actif "Learning by doing" se retrouve pour les langages de programmation comme avec le logiciel Rustlings ou Rust by example. Il existe d'autres langages et jeux en lignes utilisant le jeu pour faciliter l'apprentissage, parmis eux je pense notamment à Scratch, FlexboxFroggy, CodingGame, Logo.
 
-La tablette pourrait remplacer les manuels scolaires, les cahiers, réduire les couts et le poids des cartables. Malgré le fait que certains pays l'ayant essayé ai fait marche arrière comme la Suède, je pense qu'avec un ludiciel adapté couvrant l'ensemble des matières de tout niveau à l'aide d'un arbre de compétence et gérant les communications entre les familles et les écoles, il serait possible d'harmoniser les enseignements et d'appliquer les programmes tout en réduisant le temps apprentissage. Quand j'ai appris à lire, les périphériques tactiles n'étaient pas encore démocratisés, j'avais alors un gros retard sur cette compétence. Il existe aujourd'hui multitude d'application mobiles pour apprendre à écrire. Sur une tablette possédant un stylet, un enfant peut en toute autonomie jouer pour acquérir cette habilité. Le problème et la crainte réelle des enseignants et des parent sont essentiellement la casse et le prix du renouvellement d'un tel appareil électronique accompagné des dérives liés aux possibilités illimitées d'un ordinateur pouvant distraire l'élève et le détourner de ses objectifs éducatifs. Je leur répondrais que leur rôle est d'enseigner la précaution et la discipline, l'élève pourra ainsi se charger lui même du reste. 
+La tablette pourrait remplacer les manuels scolaires, les cahiers, réduire les couts et le poids des cartables. Malgré le fait que certains pays l'ayant essayé ai fait marche arrière comme la Suède, je pense qu'avec un ludiciel adapté couvrant l'ensemble des matières de tout niveau à l'aide d'un arbre de compétence et gérant les communications entre les familles et les écoles, il serait possible d'harmoniser les enseignements et d'appliquer les programmes tout en réduisant le temps apprentissage. Quand j'ai appris à lire, les périphériques tactiles n'étaient pas encore démocratisés, j'avais alors un gros retard sur cette compétence. Il existe aujourd'hui multitude d'application mobiles pour apprendre à écrire. Sur une tablette possédant un stylet, un enfant peut en toute autonomie jouer pour acquérir cette habilité. Le problème et la crainte réelle des enseignants et des parent sont essentiellement la casse et le prix du renouvellement d'un tel appareil électronique, accompagné des dérives liés aux possibilités illimitées d'un ordinateur pouvant distraire l'élève et le détourner de ses objectifs éducatifs. Je leur répondrais que leur rôle est d'enseigner la précaution et la discipline, l'élève pourra ainsi se charger lui même du reste. Enfin je terminerai cette partie sur l'apprentissage avec une citation de jeu vidéo, Maitre Yi dans League Of Legends dit "*Un vrai maître est un éternel étudiant*".
 
-Enfin je terminerai avec une citation de jeu vidéo, Maitre Yi dans League Of Legends dit "*Un vrai maître est un éternel étudiant*".
 
-La cuisine est selon moi une science combinatoire et une philosophie à part entière regroupant les mathématiques, la biologie, la physique-chimie, et plein d'autres sciences y compris sociales ou neurologique. C'est un grand tout, depuis l'antiquité, les recettes sont des formulations logiques, les ingrédients sont biologiques, leurs modifications par leurs préparations, formes, mélanges, et leurs méthodes de cuissons, sont physiques, les proportions quant à elles sont mathématiques. On sait aujourd'hui scientifiquement que notre alimentation conditionne notre santé, et que notre santé peut conditionner notre alimentation. En effet, le système humain et animal à besoin d'une entrée d'énergie constante pour contrebalancer son activité physique et neuronale. Sans cela ou avec une mauvaise alimentation, il parait logique d'avoir un système défaillant. C'est la source même de la vie. Pour autant, bien que ce soit un facteur pouvant influer sur les comportements, je pense qu'en dehors de scénario très précis, les décision peuvent, si la volonté est suffisante pour cela, transcender un pseudo-déterminisme alimentaire. La cuisine à quelque chose d'universel, tout peuple de la Terre à inventé indépendamment des autres ses propres recettes, cultures, élevages, croisement d'espèces volontaire ou non. La mondialisation est venue optimiser les agriculture et permettre des échanges de nourriture et des pratiques de cultures culinaires à l'échelle de la Terre.
 
-On sait aujourd'hui que les bactéries qui nous aident à digérer les aliments représentent une partie non négligeable de notre poids, nous vivons en symbiose avec eux à travers notre alimentation. En Informatique, et notamment en intelligence artificielle, les résultats dépendent également beaucoup des information avec lesquelles on alimente le système. Le résultat d'un algorithme, dépends des variables passées en entrée.
+Pour continuer sur mon développement personnel, j'ai très tôt appris à cuisiner, et je continue aujourd'hui de le pratiquer afin d'améliorer ma propre expérience culinaire ainsi que mes connaissances annexes à cette discipline. La cuisine est selon moi une science combinatoire et une philosophie à part entière regroupant les mathématiques, la biologie, la physique-chimie, et plein d'autres sciences y compris sociales ou neurologique. C'est un grand tout, depuis l'antiquité, les recettes sont des formulations logiques, les ingrédients sont biologiques, leurs modifications par leurs préparations, formes, mélanges, et leurs méthodes de cuissons, sont physiques, les proportions quant à elles sont mathématiques. On sait aujourd'hui scientifiquement que notre alimentation conditionne notre santé, et que notre santé peut conditionner notre alimentation. En effet, le système humain et animal à besoin d'une entrée d'énergie constante pour contrebalancer son activité physique et neuronale. Sans cela ou avec une mauvaise alimentation, il parait logique d'avoir un système défaillant. C'est la source même de la vie. Pour autant, bien que ce soit un facteur pouvant influer sur les comportements, je pense qu'en dehors de scénario très précis, les décision peuvent, si la volonté est suffisante pour cela, transcender un pseudo-déterminisme alimentaire. La cuisine a quelque chose d'universel, tout peuple de la Terre à inventé indépendamment des autres ses propres recettes, cultures, élevages, croisement d'espèces volontaire ou non. La mondialisation est venue optimiser les agriculture et permettre des échanges de nourriture et des pratiques de cultures culinaires à l'échelle de la Terre. Les scientifiques nous ont fait savoir que les bactéries qui nous aident à digérer les aliments représentent une partie non négligeable de notre poids, nous vivons en symbiose avec eux à travers notre alimentation. En Informatique, et notamment en intelligence artificielle, les résultats dépendent également beaucoup des information avec lesquelles on alimente le système. Le résultat d'un algorithme, dépends des variables passées en entrée.
 
 Concernant une croyance, selon moi la vraie question à se poser face à une information douteuse serait "Est ce que c'est scientifiquement démontrable ?" Celle a se poser vis à vis d'une croyance serait quant à elle : "What if ?" autrement dit : "Que se passerai t'il si je me mettais à croire ça ?".
 
@@ -1060,15 +1036,53 @@ Planning poker, reu tech, mais pas d'analyse commune -> rework et pair programmi
 
 L'humain est de plus en plus capable de comprendre ou restituer des faits **a posteriori**. Il est même en mesure de restaurer des informations que les experts pensaient perdue. Les technologies comme les rayons X, le Lidar sont très utilisés en archéologie afin de ne pas avoir a profaner des œuvres scellées. Plus récemment, il s'est avéré que les techniques de peinture des grand maîtres ont étés transmises par Léonard de Vinci qui expérimentait de nouvelles techniques de peintures comme l'application d'une première couche à base de plomb nommée Plombonacrite. Les intelligence artificielles ont également permis de déchiffrer des parties d'un manuscrit calciné lors du vesuvius challenge https://scrollprize.org/
 
-On a récemment 
-
 https://www.journaldugeek.com/2023/10/16/un-accelerateur-de-particules-revele-un-nouveau-secret-de-la-joconde/?utm_source=pocket-newtab-fr-fr
 
 https://pubs.acs.org/doi/10.1021/jacs.3c07000
 
 
 
-### Metagame
+#### Standardisation & Universalité
+
+L’uniformisation à permi d'avoir un langage commun au même titre que la logique mathématique. Le système métrique aussi
+
+Actuellement, malgré les bonnes pratiques prônées, peu sont mises en application et beaucoup de fois je me retrouve a effectuer des copier coller avec une légère modification, alors que ma philosophie est que chaque copier coller devrait être une fonction réutilisable avec pour paramètre les variables amenées a changer ou être configurable. Cela me permet de standardiser l'ensemble de mon code et de le factoriser au plus simple.
+
+Interopérabilité instantanée inter-appareils, édition live multiutilisateur 
+
+
+
+
+
+
+
+#### Communication et Professionnalisme
+
+J'aimerai appliquer la dialectique à l'entreprise, avec des visioconférences 1:1
+
+On agit tous différemment dans le contexte professionnel. Effectuer un métier n'est pas compliqué, le réaliser avec des gens l'est plus. Il faut tellement de compétences managériales qu'il nous faut. Quand je suis dans le milieu professionnel, j'exerce une fonction, ou une liste de fonctions définies par le contrat de travail.
+
+On ne comprend l'essence des concepts qu'en généralisant et remontant au niveau du groupe social voulu. En discrétisant les information à la granularité voulue. Tolérance face à la différence entre réalité qu'on imagine et qu'on expérimente. Dans une entreprise nous somme tous concernés par rapport à un même produit. Norbert Ellias nous apprends que l'individu et la société ne sont pas deux choses séparés. On est tous responsable de nos actes quels qu'ils soient.
+
+transparence, adéquation clarté crédibilité, réactivité,  -  consistance, engagement, accessibilité, authenticité, proactivité, évaluation
+
+En communication comme en électronique, un signal fort peut perturber voire totalement stopper un système. C'est le cas dans l’épisode 22 de la série Baki dans lequel un combattant spécialisé en environnement fait taire toute une arène en criant extrêmement fort. Tout étudiant l'a déjà expérimenté, on a tous déjà été dans une situation ou un groupe bruyant se tait après qu'une autorité ai hausser la voix.
+
+La viralité est un facteur mathématiquement calculable. C'est la moyenne de transmissions faites par les personnes atteintes par une information. Une information est virale dès que son facteur dépasse 1, autrement dis dès que la moyenne des personnes en sa possession la retransmettent à plus d'une autre personne.
+
+
+
+Informations parasites. Quand je travaille sur une fonction je n’ai pas besoin de voir autre chose que ses dépendances. le divertissement n'est pas nécessaire non plus. L'informatique et l'algorithmique nous permettent de répliquer a l'infini une information ou un traitement logique de donnée. 
+
+croyances limitantes et mauvaise foi
+
+Désinformation 
+
+
+
+
+
+#### Metagame
 
 Lorsque des joueurs poussent assez l'analyse d'un jeu, ils arrivent à en comprendre assez bien le fonctionnement pour être capable d'utiliser et de profiter des règles. Ils sont capable d'en abstraire les principes, comprendre la logique qu'il y a derière, et peuvent alors avoir une approche stratégique leurs permettant de dépasser les limitations fixées ou espérées par les concepteurs du jeu. L'idée du meta-jeu est d'appliquer la science et la théorie des jeux de manière à trouver une technique dont les chances de victoires sont les plus hautes possibles. Même sur les jeux les plus simples comme Tetris, les joueurs ont trouvé des technique de frappe comme "l'hypertapping" ou le "rolling", permettant d'effectuer plus d'actions par secondes avec leurs manettes, si bien qu'ils ont ainsi pu aller au delà du niveau "maximum" à partir duquel la vitesse de chute des formes s'arrête d'accélérer.
 
@@ -1086,47 +1100,23 @@ La magie c'est de défaire et savoir refaire sans que le spectateur ne comprenne
 
 
 
-### Développement personnel
-
-#### Planifier et prendre son temps
-
-Les deux vont de pair, il ne sert à rien d'être dans la précipitation, on peut être rapide mais il ne faut pas oublier la rigueur ou tenter de faires plusieurs choses à la fois. Il vaut mieux prendre une pose ou faire quelque chose pendant une attente, que d'être happer et l'oublier. Et si on doit changer de tâche, alors il faut la noter et mieux, la planifier. Malgré la planification il faut aussi accepter que tout et n'importe quoi peut arriver à n'importe quel moment dans la vie de chacun et donc savoir être indépendant, c'est également pourquoi le partage de connaissance est important en entreprise. Lors de mon alternance chez SoeMan j'ai pu participer à des réunions d'on-boarding après quoi nous réalisions des comptes rendus. De Bussac Multimedia, nous avions en plus la chance de pouvoir partager initialement des petits posts de blogs, et plus tard de présenter des diaporama et démonstrations de ce que l'on voulait dans des sessions afterwork. Actuellement chez ABGX, nous avons même tout nos vendredis après midi de dédié à un projet interne annexe de notre choix. Pour autant on ne planifie que les tâches à faire, pas exactement quand, on définit un ordre, une pile des tâches à réaliser avec des priorités et urgences. Tout les workflow de travail que j'ai pu voir ont leurs avantages et leurs inconvénients, pour autant c'est chez ABGX que j'ai retrouver ce qui personnellement me convient le plus parmi toutes mes expériences, j'ai immensément apprécié être à plein temps sur la refonte graphique de SoEMan mais je n'avais plus l'impression d'être utile dans l'avancement du logiciel à cette période, chez De Bussac au contraire, j'avais la sensation d'être en symbiose avec mon emploi du temps qui régissait mon activité professionnelle avec malgré tout un certain confort. Ce même confort qui m'a appris à prendre mon temps chez ABGX, m'apportant malgré tout une sensation de décélération qui m'a parfois frustré. Pour autant, c'est celle qui m'a remis en phase avec le travail. Dans le travail comme en voiture, il faut adapter votre vitesse à votre environnement. Même sur une piste de course comme en formule 1, les meilleures temps sont réalisés en ayant la vitesse la plus optimale dans les conditions matérielles à ce moment.
-
-#### Rigueur et retravail
-
-Démarche itérative avec demande de feed-back à chaque changement, besoin de ne pas renvoyer la balle mais de demander conseil sur le moment si possible pour encore plus d'agilité. On m'a souvent reprocher mon manque de rigueur, mais dans le monde professionnel, la plupart du temps, personne ne fait les choses correctement en amont de mon travail de technicien. Les cahiers des charges sont incomplets, le cahier des charges technique est inexistant.
-
-Ce qui m'agace le plus dans la rédaction des tickets, au delà du manque d'information, c'est l'information incorrecte qui pousse à suivre le déroulement indiqué pour ne pas avoir la finalité problématique décrite. On se retrouve dans l'incapacité de reproduire le problème qui nous laisse penser qu'il n'y a potentiellement pas de problème.
-
-
-
-#### Amélioration continue
-
-Doute constant et remise en question en sont la clé.
-
-
-
-#### Standardisation & Universalité
-
-L’uniformisation à permi d'avoir un langage commun au même titre que la logique mathématique. Le système métrique aussi
-
-Actuellement, malgré les bonnes pratiques prônées, peu sont mises en application et beaucoup de fois je me retrouve a effectuer des copier coller avec une légère modification, alors que ma philosophie est que chaque copier coller devrait être une fonction réutilisable avec pour paramètre les variables amenées a changer ou être configurable. Cela me permet de standardiser l'ensemble de mon code et de le factoriser au plus simple.
-
-Interopérabilité instantanée inter-appareils, édition live multiutilisateur 
-
-
-
-#### Do it now
-
-J'ai souvent entendu dire "ce n'est pas ce qui est demandé ni prioritaire, on fera ça plus tard", et bien évidement, la plupart du temps cela fini par n'être jamais fait. Dans les projets informatique c'est ainsi que la dette technique s'immisce, des fonctionnalités qui s’accumulent, des développements qui s’enchaînent, et pallie aux problèmes qu'avec des corrections rapides, s’attaquant aux causes plutôt qu'aux conséquences.
-
-Dès que l'on constate un problème, il faut avoir le réflexe de réaliser la tâche dans la foulée, ou de la planifier pour ne pas que l'information se perde. 
 
 
 
 
 
-#### Développement informatique
+
+
+
+
+
+### Concepts et outils de programmation
+
+Entrées et sorties, Inputs et Outputs (IO), sont le couple de paramètres entrants et des valeurs sortantes d'une fonction. Avec elles seules on peut définir les fonctionnalités possibles à un certain contexte d'entrées et sorties attendues. On peut deviner ou comprendre la logique cachée derrière. C'est une sorte de double entonnoir, comme des portails, théoriquement bidirectionnels. On peut la mettre en relation avec la lecture et l'écriture, en C# .NET [`System.IO`](#https://learn.microsoft.com/en-us/dotnet/api/system.io?view=net-7.0) est ailleurs un espace de noms (namespace) permettant d'accéder à des fonctions algorithmiques standard de lire et écrire des fichiers et par conséquent des dossiers. Puisque oui, les dossiers sont des fichiers, contenant l'adresse mémoire de son contenu. En réalité, tout n'est que variables et fonction mathématiques. Les fichiers sont des variables, et les actions que l'on peut réaliser à l'aide de fichiers de code sont des fonctions, elles mêmes composées de variables. Les entrées et sorties peuvent être comparés aux sensations et aux réactions physiques. La boite noire qu'est le cerveau de l'acteur, avec son raisonnement propre est quand à elle comparable au code back end que l'on ne peut percevoir depuis l'interface client. Enfin, après avoir lu et analyser notre environnement et écrivons une réponse physique à travers nos expressions corporelles, faciales, et verbale. Il y'a toute sorte de comportements et de réactions contrôlées ou non que l'on répète. 
+
+
+
+L'industrie informatique est toujours régit par la Loi de Moore qui veux que l'on ai matériellement 2 fois plus de transistors par unité de surface. Il se peut que cette loi finisse par faire fasse à un mur, un palier, ou toute contrainte, qu'elle soit physique ou économique, bloque la progression et la capacité de l'industrie des semi-conducteurs à la source matérielle de l'informatique. Le volume de donnée est également passé au crible et il s'avère que notre capacité à stocker l'information générée par nos actions informatique sur internet est moindre.
 
 Collaboration et travail d'équipe : Dans de nombreux projets, plusieurs développeurs doivent collaborer et travailler ensemble sur le même code, ce qui peut entraîner des conflits de version, des problèmes d'intégration et de coordination.
 
@@ -1140,25 +1130,59 @@ Tout devrait être automatique, je suis ravi que le prélèvement à la source a
 
 
 
-Professionnalisme
+#### Quelqu'un à généralement la solution
 
-J'aimerai appliquer la dialectique à l'entreprise, avec des visioconférences 1:1
+Lorsqu'un développeur ne trouve pas intuitivement comment implémenter la logique de façon algorithmique, il se retrouve souvent sur des forums de discussion comme StackOverflow ou désormais sur des outils conversationnels de génération de texte comme ChatGPT. De manière générale, il ne sert à rien de réinventer la roue, si quelqu'un a la solution autant juste l'utiliser. C'est d'ailleurs pourquoi les cadriciels et outils logiciels en tout genre sont aujourd'hui indispensables. 
 
-On agit tous différemment dans le contexte professionnel. Effectuer un métier n'est pas compliqué, le réaliser avec des gens l'est plus. Il faut tellement de compétences managériales qu'il nous faut. Quand je suis dans le milieu professionnel, j'exerce une fonction, ou une liste de fonctions définies par le contrat de travail.
+En programmation objet, il existe des Patrons de conceptions qui trouvent leur racines dans l'architecture. L'architecte en bâtiment Christopher Alexander publie l'essai *A Pattern Language : Towns, Buildings, Construction* en **1977**. Cette œuvre à définit de manière casuistique, à la manière du [Code de Hammurabi](#Code-de-Hammurabi), les problèmes rencontrés en architecture et leurs solutions.
 
-On ne comprend l'essence des concepts qu'en généralisant et remontant au niveau du groupe social voulu. En discrétisant les information à la granularité voulue. Tolérance face à la différence entre réalité qu'on imagine et qu'on expérimente. Dans une entreprise nous somme tous concernés par rapport à un même produit. Norbert Ellias nous apprends que l'individu et la société ne sont pas deux choses séparés. On est tous responsable de nos actes quels qu'ils soient. 
-
-
+Cette notion à permit de catégoriser les patrons algorithmiques selon trois classes, les *créateurs* solutionnent des problèmes d'[instanciation](https://fr.wikipedia.org/wiki/Instanciation) et de configuration des classes et des objets, les *structuraux* indiquent comment organiser les classes d'un programme et leurs l'interfaces ; et les *comportementaux* définissent l'organisation des [objets](https://fr.wikipedia.org/wiki/Objet_(informatique)) pour que ceux-ci s'échangent des informations en fonction de leurs responsabilités.
 
 
 
+#### Principes SOLID
+
+Robert Cecil Martin aussi connu en tant que l'Oncle Bob est un ingénieur en informatique et écrivain ayant compléter les patrons de conception, et langages de modélisation en introduisant de multiples concepts de programmation, décrivant et argumentant des bonnes pratiques de cet art comme le fait de bien nommer les variables afin qu'elles explicitent leur utilité et les valeurs qu'elles stockent, de ne pas faire de copier coller que l'on modifie mais de plutôt faire des fonction réutilisables avec des paramètres pour faire varier un comportement. Dans la même logique de cohérence et d'uniformisation, il énonça les cinq principes fondamentaux de la programmation orientée objet.
+
+Simple responsabilité unique : une classe, une fonction ou une méthode doit avoir une et une seule responsabilité
+
+Ouvert / Fermé : tout élément d'une application, que ce soit une classe, une fonction ou autre, doit être fermée à la modification mais ouverte à l'extension. L'utilisateur doit pouvoir grâce à son API,  ses paramètres ou sa configuration, l'utiliser voire l'interconnecter à un autre logiciel.
+
+Liskov et sa substitution : Si une instance de véhicule doit pouvoir être remplacée par une instance de voiture, tel que voiture est un sous-type de véhicule, sans que cela ne modifie la cohérence du programme.
+
+Interfaces séparées : Il vaut mieux créer plusieurs interfaces spécifiques quitte à ce qu'elles n'ai qu'une seule méthode ou fonction, plutôt qu'une seule interface générale possédant plusieurs fonctions. Cela permet d'avoir une granularité plus fine et de pouvoir à l'aide de la composition, obtenir des interfaces composés uniquement des méthodes dont on a besoin.
+
+Dépendances inversés : Bien que les classes dépendent d'abstraction telles que les interfaces, il faut le plus souvent possible ne pas travailler avec mais utiliser les interfaces, cela permet notamment de respecter le principe de Liskov. On part du concept général pour traiter le plus de cas et aller vers le particulier au besoin.
+
+
+
+#### Debugger performances et Optimisations
+
+Lorsque l'on ne comprends pas du code qu'on a fait, on peut utiliser l'instruction `debugger;`.
+
+Une fois que l'on a le comportement voulu, on peut rencontrer des problèmes de performances et d'optimisation. Pour les règler il est possible de répartir la puissance de calcul entre plusieurs cœurs de processeurs à l'aide de sous processus (fils / threads) [^1]. On peut également la répartir entre plusieurs machines, c'est ce que l'on appelle le calcul distribué. De manière générale, lorsque l'on découpe une tâche en sous-tâches réalisables par plusieurs acteurs, on réduit la charge de travail entre les acteurs dans une logique de parallélisation.
+
+[^1]: https://www.iso.org/obp/ui/#iso:std:iso-iec:2382:ed-1:v2:fr
+
+La gestion permet donc d'optimiser les charges et temps de travails. Une fois que le projet est abouti, il faut le tester et s'assurer que la qualité du produit est conforme aux exigences et besoins utilisateurs. Dans une grande partie des lignes de production il a une équipe dédiée aux tests et à la vérification. Elle est chargée de s'assurer que le produit est conforme à leurs attentes ou à celles formulées dans un document dédié comme un cahier des charges idéalement technique. Dans le monde de la production logicielle, nous avons la chance de pouvoir l'automatiser à l'aide de pratiques DevOps, intégration et déploiement continus (CI / CD) permettent non seulement de vérifier le bon fonctionnement d'une liste de fonctionnalités mais également de les mettre automatiquement à disposition du public lorsqu'elles sont toutes valides.
+
+1. Commentaires et documentation
+
+   Chaque fonctionnalitée doit être documentée.
+
+   Chaque ligne devrait être commentée en langage naturel, un switch devrait permettre de basculer entre le code réel et commenté. Toute manquement déclancherai une notification sur la ligne en question.
+
+2. Gestionnaires de version 
+
+Git est un logiciel de gestion de versions décentralisé sous licence GNU GPL. C'est un logiciel libre et gratuit, initié en **2005** par Linus Torvalds le créateur de Linux lors de la création de son noyau. Linus ne voulait pas réaliser ce projet seul et a rapidement compris que la qualité d'un logiciel viendrai des débats houleux entre ses collaborateurs et l'implémentation de la meilleure idée à la fin. graphe d'historique de modifications de fichiers visualisable avec gource.
+
+5. Microservices
 
 
 
 
 
 
-### Concepts et outils de programmation
 
 #### Langage logique
 
@@ -1523,69 +1547,6 @@ async function AccountPlugin(fastify, options, next) {
 
 
 
-#### Quelqu'un à généralement la solution
-
-Lorsqu'un développeur ne trouve pas intuitivement comment implémenter la logique de façon algorithmique, il se retrouve souvent sur des forums de discussion comme StackOverflow ou désormais sur des outils conversationnels de génération de texte comme ChatGPT. De manière générale, il ne sert à rien de réinventer la roue, si quelqu'un a la solution autant juste l'utiliser. C'est d'ailleurs pourquoi les cadriciels et outils logiciels en tout genre sont aujourd'hui indispensables. 
-
-En programmation objet, il existe des Patrons de conceptions qui trouvent leur racines dans l'architecture. L'architecte en bâtiment Christopher Alexander publie l'essai *A Pattern Language : Towns, Buildings, Construction* en **1977**. Cette œuvre à définit de manière casuistique, à la manière du [Code de Hammurabi](#Code-de-Hammurabi), les problèmes rencontrés en architecture et leurs solutions.
-
-Cette notion à permit de catégoriser les patrons algorithmiques selon trois classes, les *créateurs* solutionnent des problèmes d'[instanciation](https://fr.wikipedia.org/wiki/Instanciation) et de configuration des classes et des objets, les *structuraux* indiquent comment organiser les classes d'un programme et leurs l'interfaces ; et les *comportementaux* définissent l'organisation des [objets](https://fr.wikipedia.org/wiki/Objet_(informatique)) pour que ceux-ci s'échangent des informations en fonction de leurs responsabilités.
-
-
-
-#### Principes SOLID
-
-Robert Cecil Martin aussi connu en tant que l'Oncle Bob est un ingénieur en informatique et écrivain ayant compléter les patrons de conception, et langages de modélisation en introduisant de multiples concepts de programmation, décrivant et argumentant des bonnes pratiques de cet art comme le fait de bien nommer les variables afin qu'elles explicitent leur utilité et les valeurs qu'elles stockent, de ne pas faire de copier coller que l'on modifie mais de plutôt faire des fonction réutilisables avec des paramètres pour faire varier un comportement. Dans la même logique de cohérence et d'uniformisation, il énonça les cinq principes fondamentaux de la programmation orientée objet.
-
-Simple responsabilité unique : une classe, une fonction ou une méthode doit avoir une et une seule responsabilité
-
-Ouvert / Fermé : tout élément d'une application, que ce soit une classe, une fonction ou autre, doit être fermée à la modification mais ouverte à l'extension. L'utilisateur doit pouvoir grâce à son API,  ses paramètres ou sa configuration, l'utiliser voire l'interconnecter à un autre logiciel.
-
-Liskov et sa substitution : Si une instance de véhicule doit pouvoir être remplacée par une instance de voiture, tel que voiture est un sous-type de véhicule, sans que cela ne modifie la cohérence du programme.
-
-Interfaces séparées : Il vaut mieux créer plusieurs interfaces spécifiques quitte à ce qu'elles n'ai qu'une seule méthode ou fonction, plutôt qu'une seule interface générale possédant plusieurs fonctions. Cela permet d'avoir une granularité plus fine et de pouvoir à l'aide de la composition, obtenir des interfaces composés uniquement des méthodes dont on a besoin.
-
-Dépendances inversés : Bien que les classes dépendent d'abstraction telles que les interfaces, il faut le plus souvent possible ne pas travailler avec mais utiliser les interfaces, cela permet notamment de respecter le principe de Liskov. On part du concept général pour traiter le plus de cas et aller vers le particulier au besoin.
-
-
-
-#### Debugger performances et Optimisations
-
-Lorsque l'on ne comprends pas du code qu'on a fait, on peut utiliser l'instruction `debugger;`.
-
-Une fois que l'on a le comportement voulu, on peut rencontrer des problèmes de performances et d'optimisation. Pour les règler il est possible de répartir la puissance de calcul entre plusieurs cœurs de processeurs à l'aide de sous processus (fils / threads) [^1]. On peut également la répartir entre plusieurs machines, c'est ce que l'on appelle le calcul distribué. De manière générale, lorsque l'on découpe une tâche en sous-tâches réalisables par plusieurs acteurs, on réduit la charge de travail entre les acteurs dans une logique de parallélisation.
-
-[^1]: https://www.iso.org/obp/ui/#iso:std:iso-iec:2382:ed-1:v2:fr
-
-La gestion permet donc d'optimiser les charges et temps de travails. Une fois que le projet est abouti, il faut le tester et s'assurer que la qualité du produit est conforme aux exigences et besoins utilisateurs. Dans une grande partie des lignes de production il a une équipe dédiée aux tests et à la vérification. Elle est chargée de s'assurer que le produit est conforme à leurs attentes ou à celles formulées dans un document dédié comme un cahier des charges idéalement technique. Dans le monde de la production logicielle, nous avons la chance de pouvoir l'automatiser à l'aide de pratiques DevOps, intégration et déploiement continus (CI / CD) permettent non seulement de vérifier le bon fonctionnement d'une liste de fonctionnalités mais également de les mettre automatiquement à disposition du public lorsqu'elles sont toutes valides.
-
-1. Commentaires et documentation
-
-   Chaque fonctionnalitée doit être documentée.
-
-   Chaque ligne devrait être commentée en langage naturel, un switch devrait permettre de basculer entre le code réel et commenté. Toute manquement déclancherai une notification sur la ligne en question.
-
-2. Gestionnaires de version 
-
-Git est un logiciel de gestion de versions décentralisé sous licence GNU GPL. C'est un logiciel libre et gratuit, initié en **2005** par Linus Torvalds le créateur de Linux lors de la création de son noyau. Linus ne voulait pas réaliser ce projet seul et a rapidement compris que la qualité d'un logiciel viendrai des débats houleux entre ses collaborateurs et l'implémentation de la meilleure idée à la fin. graphe d'historique de modifications de fichiers visualisable avec gource.
-
-5. Microservices
-
-
-
-#### VSCode
-
-Suite à Atom publié par GitHub le 26 février 2014, bien avant son rachat en 2018 par Microsoft, qui l'a refait en mieux, en sortant le 29 avril **2015** l'IDE le plus utilisé à ce jour Visual Studio Code.
-
-
-
-#### Intelligence artificielle
-
-- Deep Blue beats Gary Kasparov  in **1997**
-- Imagenet **2009**
-- Watson gagne Joepardy **2011**
-- Alphago **2015**
-
 
 
 
@@ -1594,7 +1555,7 @@ Suite à Atom publié par GitHub le 26 février 2014, bien avant son rachat en 2
 
 ## EditIDE ou "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?"
 
-La programmation est une pratique récente dont les prérequis techniques ont pris longtemps à se mettre en place et évolue depuis à une vitesse exponentielle. Là où les mathématiques ont permis de quantifier le monde, l'informatique étend les mathématiques et les logifie, en plus d'en permettre la représentation au travers d'une simulation informationnelle. De la même manière que j'avais recoder un moteur de jeu par dessus l'outil Monogame, j'ai lors de mon développement d'EditIDE, eu besoin créer un programme qui puisse lire ses propres fichiers de code et les représenter de manière abstraite. En tant qu'ouvriers du code, remplir ces objectifs, reviens à fournir une interface textuelle, visuelle, et sonore, dans le cadre d'un jeux vidéo, même si celui ci ne consiste qu'a être témoin d'une scène. Les créateurs et/ou inventeurs des différentes interfaces hommes-machines (IHM) se sont efforcer de réaliser de telles scènes, usant de l'informatique pour imitant la nature, notre environnement ou notre histoire, jusqu'à nous permettre une immersion totale. Permise par la réalité virtuelle (VR) qui se démocratise lentement à raison de 85 millions d'utilisateurs en 2022 (virtuelle et augmentée confondue - Source : Statistica[^1]) . La réalité, qu'elle soit réelle, virtuelle, augmentée, ou mixte, se trouve être des outil industriel intuitifs et naturels aussi intéressant commercialement que pédagogiquement. Mais ce genre de matériel est encore un luxe trop peu répendu pour espérer avoir une adhésion facile et à un large public d'utilisateurs. C'est pourquoi je vais me baser sur mes compétences en technologies web actuelles. Que j'aimerai approfondir en Rust après mes études à l'Ecole Hexagone et l'obtention d'un prototype accessible sur internet. La première étape sera d'y faire un simple site web. Et c'est ce que je vais vous présenter dans la suite de cette ultime expliquant les fondations de ce projet que j'ai rapidement introduit [en préface de ce livre](#Préface).
+La programmation est une pratique récente dont les prérequis techniques ont pris longtemps à se mettre en place et évolue depuis à une vitesse exponentielle. Là où les mathématiques ont permis de quantifier le monde, l'informatique étend les mathématiques et les logifie, en plus d'en permettre la représentation au travers d'une simulation informationnelle. De la même manière que j'avais recoder un moteur de jeu par dessus l'outil Monogame, j'ai lors de mon développement d'EditIDE, eu besoin créer un programme qui puisse lire ses propres fichiers de code et les représenter de manière abstraite. En tant qu'ouvriers du code, remplir ces objectifs, reviens à fournir une interface textuelle, visuelle, et sonore, dans le cadre d'un jeux vidéo, même si celui ci ne consiste qu'a être témoin d'une scène. Les créateurs et/ou inventeurs des différentes interfaces hommes-machines (IHM) s'efforcent de réaliser de telles scènes, usant de l'informatique pour imiter la nature, notre environnement ou notre histoire, jusqu'à nous permettre une immersion totale. Permise par la réalité virtuelle (VR) qui se démocratise lentement à raison de 85 millions d'utilisateurs en 2022 (virtuelle et augmentée confondue - Source : Statistica[^1]) . La réalité, qu'elle soit réelle, virtuelle, augmentée, ou mixte, se trouve être des outil industriel intuitifs et naturels aussi intéressant commercialement que pédagogiquement. Mais ce genre de matériel est encore un luxe trop peu rependu pour espérer avoir une adhésion facile et à un large public d'utilisateurs. C'est pourquoi je me suis basé sur mes compétences en technologies web actuelles. Compétances que j'aimerai approfondir à terme en réécrivant mon projet existant en Rust, après mes études à l'Ecole Hexagone et l'obtention d'un prototype accessible sur internet. Pour l'instant, je vais me contenter de la première étape qui sera de réaliser un simple site web. Et c'est ce que je vais vous présenter dans la suite de cette ultime partie expliquant les fondations de ce projet que j'ai rapidement introduit [en préface de ce livre](#Préface).
 
 [^1]:https://fr.statista.com/infographie/28462/estimation-et-prevision-nombre-utilisateurs-casques-realite-virtuelle-augmentee-dans-le-monde/
 
@@ -1632,6 +1593,8 @@ Il y a un manque d’experts, de personnes compétentes et qualifiées, accompag
 
 Les erreurs fatales viennent généralement de problème mémoire ou de langages non compilés, qui n'ont donc pas de programme obligeant l’absence d'erreur avant usage. Et en tant que développeur, je peut vous dire que si le processus ne force pas les utilisateurs d'un outil à faire les chose correctement et corriger tout les potentiels problèmes, ils vont juste s'accumuler et former ce que l'on appelle de la dette technique.
 
+La donnée est la matière première d'un système d'information, sa collecte, son stockage à un emplacement géographique. Elle peut être à l'origine de bugs, si on attends une donnée numérique et que l'on a une donnée textuelle à la place, il faut gérer le cas, autrement il y a fort à parier que cela provoquerai un plantage car on ne peut pas additionner un nombre avec une cacahuète. Il convient de tester la robustesse de ses fonctionnalités en passant toute sorte de données de différant types et longueur sans jamais que le programme ne plante. Dans la réalité, on ne teste souvent que les cas qui marchent et le jour ou le format de donnée change, on corrige le plantage avec un patch tel une rustine sur une chambre à air sans prendre en compte les autres usures de cette dernière.
+
 ### Comment l'interface permet et conditionne l'accès aux fonctionnalités ?
 
 L'interface relie un élément graphique à une fonctionnalité, toute interaction de l'utilisateur doit lui indiquer ce qu'il peut faire par la suite.
@@ -1642,15 +1605,9 @@ Un utilisateur averti sais qu'il a sur son clavier des touches de modification c
 
 
 
-### Comment faire un logiciel en tant que service ?
-
-Ce que j'ai fait, tout le monde peut le faire, et comme l'humain ne comprends quelque chose que lorsque qu'il arrive le réexpliquer plus simplement, à le factoriser, rendre une information usinée, et bien je vais présenter plusieurs cas d'études et vous présenter ce qu'est EditIDE
-
-
-
 ### Comment architecturer un système d'information ?
 
-Maintenant que l'infrastructure réseau nécessaire est en place, je vais expliquer la structure de fichiers et de dossiers que j'utilise. À la racine d'un projet logiciel, se trouve toute sortes d'outils, qu'il convient d'organiser et de séparer dans leurs dossiers respectifs. Pour EditIDE, j'ai fait le choix d'utiliser **Cypress** pour automatiser mes tests en ayant une interface WYSIWYG ne permettant malheureusement pas l'édition, bien que fournissant des outils de sélection des éléments du site web à tester. J'ai donc un dossier `cypress`contenant toutes les informations qu'il lui faut pour simuler le comportement d'un utilisateur final. J'ai également un dossier `docker` que j'ai implémenté pour m'assurer que si le système de la personne voulant installer le projet possède des incompatibilités, alors il peut l'exécuter dans un conteneur. Cela permet également de faciliter l'installation, le seul prérequis devenant alors Docker. EditIDE étant un projet JS, à sa racine se trouve logiquement le dossier `node_modules`. J'ai également les dossiers `documentation` et `usersData`, contenant respectivement les données que leurs nom indique. Comme sur tout mes périphériques de stockage, j'organise mon dossier `medias` en fonction du type de document, les quatre types principaux et donc sous-dossier étant **texte** (ou font / police d'écriture), **images**, **audio**, et **vidéo**. 
+Ce que j'ai fait, tout le monde peut le faire, et comme l'humain ne comprends quelque chose que lorsque qu'il arrive le réexpliquer plus simplement, à le factoriser, rendre une information usinée, et bien je vais présenter plusieurs cas d'études et vous présenter ce qu'est EditIDE. Maintenant que l'infrastructure réseau nécessaire est en place, je vais expliquer la structure de fichiers et de dossiers que j'utilise. À la racine d'un projet logiciel, se trouve toute sortes d'outils, qu'il convient d'organiser et de séparer dans leurs dossiers respectifs. Pour EditIDE, j'ai fait le choix d'utiliser **Cypress** pour automatiser mes tests en ayant une interface WYSIWYG ne permettant malheureusement pas l'édition, bien que fournissant des outils de sélection des éléments du site web à tester. J'ai donc un dossier `cypress`contenant toutes les informations qu'il lui faut pour simuler le comportement d'un utilisateur final. J'ai également un dossier `docker` que j'ai implémenté pour m'assurer que si le système de la personne voulant installer le projet possède des incompatibilités, alors il peut l'exécuter dans un conteneur. Cela permet également de faciliter l'installation, le seul prérequis devenant alors Docker. EditIDE étant un projet JS, à sa racine se trouve logiquement le dossier `node_modules`. J'ai également les dossiers `documentation` et `usersData`, contenant respectivement les données que leurs nom indique. Comme sur tout mes périphériques de stockage, j'organise mon dossier `medias` en fonction du type de document, les quatre types principaux et donc sous-dossier étant **texte** (ou font / police d'écriture), **images**, **audio**, et **vidéo**. 
 
 Enfin, le septième et dernier dossier a être situé à la racine est `code_source`, il est toujours explicite et contient le code du `model` de donnée constitué de classes et de schémas de validation JSON,  l'`admin_interface` décrivant la structure, le style et les interactions des pages webs. Comme j'utilise le cadriciel Fastify, je développe des plugins que je range dans le dossier `fastify-plugins` en attendant de les publier sur le gestionnaire de paquets NodeJS (npm) et pouvoir les installer comme dépendances. Pour finir, le dossier `server` représente le point d'entrée de mon application logicielle, les scripts qu'il contient permettent de lancer le serveur avec différents paramètres plugins, et configuration en fonction de l'environnement ou des tests automatisés.
 
@@ -1660,21 +1617,25 @@ Le découpage de mon application en plugin est cruciale, chacun contient son pro
 
 
 
-La donnée est la matière première d'un système d'information, sa collecte, son stockage à un emplacement géographique. Elle peut être à l'origine de bugs, si on attends une donnée numérique et que l'on a une donnée textuelle à la place, il faut gérer le cas, autrement il y a fort à parier que cela provoquerai un plantage car on ne peut pas additionner un nombre avec une cacahuète. Il convient de tester la robustesse de ses fonctionnalités en passant toute sorte de données de différant types et longueur sans jamais que le programme ne plante. Dans la réalité, on ne teste souvent que les cas qui marchent et le jour ou le format de donnée change, on corrige le plantage avec un patch tel une rustine sur une chambre à air sans prendre en compte les autres usures de cette dernière.
+### Fonctionnalités
+
+All in one. Plus un projet a d'intermédiaires, plus il y'a de risques d'erreurs. Dès le fondement de l'informatique, Charles Babbage l'avait déjà compris et sa machine faisait à la fois le calcul et l'impression car beaucoup d'erreur arrivait lors de l'impression.
+
+En informatique, beaucoup d'erreurs occurrent par manque d'information ou de clarté dans leur communication, le client exprime parfois mal son besoin, voire à un problème et ne sais pas ce dont il aurait besoin pour y palier. Les équipes faisant l'intermédiaire entre le client et l'équipe de production se retrouvent souvent entre deux eaux et doivent s'adapter et apprendre deux vocabulaires très différents.
+
+Idéalement ce genre de personnes devrait avoir été ou du moins être capable de se mettre à la place des deux partis dont il fait l'intermédiaire afin de mieux les comprendre et pouvoir efficacement communiquer dans le but de trouver la meilleure solution.
+
+Certains problèmes arrivent également lors de l'échange entre l'équipe design et l'équipe technique.
+
+Il arrive que des design soient validés alors qu'ils ne sont tout bonnement pas réalisable en terme de code, généralement due à des limitations CSS, ou des problèmes dues à des cas qui n'ont pas étés pensés, comme le changement de sens de lecture et d'écriture dans certains langages comme l'arabe ou le mandarin.
+
+Tout ses problèmes arrivent car rien n'est centralisé, à une heure ou la collaboration est mise en avant comme jamais. 
+
+Dans EditIDE, tout ce ferait sur le site lui même. Le design et l'intégration ne ferait désormais plus qu'un, les développeurs front ne seraient chargés que de dynamiser les design déjà intégrés avec les appels API du back qui seraient auto-générés. 
 
 
 
-
-
-### Quelle est la plus-value d'EditIDE ?
-
-Il existe déjà de multiples éditeurs de site web WYSIWYG en ligne. En tant que développeur spécialisé affichage (front end), je n'y trouve pas mon compte. Ils génèrent des sites adaptatifs et pas responsifs, c'est à dire qu'ils s'adaptent à l'appareil et la taille d'écran initiale mais ne gère pas dynamiquement les changement de taille d'écran comme les rotations d'écrans ou encore, comme c'est de plus en plus le cas, les appareils pliables. La structure et le code de la page n'est pas facilement récupérable et personnalisable après coup.  
-
-![JeanneLePeillet.fr](../assets/wixux.png)
-
-
-
-Un ludiciel doit être vivant, animé, utilisé, collaboratif, et surtout naturel. La notion de naturel est selon moi très lié à une logique auto-descriptive. Le code lui même suit une logique qui se décrit elle même. Mon objectif dans la conception d'EditIDE en tant que ludiciel est de faire en sorte que le code soit affiché avec des symboles auto-descriptif couplé à une explication textuelle dans la langue de l'utilisateur si nécessaire. Dans un premier temps, elle pourrait se faire avec l'usage de simples commentaires, forcés pour chaque instruction de manière à ce que quelqu'un qui ne sait pas encore coder puisse avoir une explication en langage **naturel** du code qu'il a sous les yeux. 
+Qu'elle est la plus value ? 
 
 Réalisation de projets WMD (WYSIWYG meta dogfood) à commencer par les articles markdown
 
@@ -1686,6 +1647,8 @@ Flux de travail d'EditIDE
 4. Sécurité et permissions.
 5. Mise en ligne
 6. Comment reproduire le problème ? => Cypress test
+
+
 
 
 
@@ -1707,26 +1670,6 @@ NO MORE CLI NO MORE BLOCNOTE
 
 ##### Accessibilité
 
-
-
-##### All in one
-
-Plus un projet a d'intermédiaires, plus il y'a de risques d'erreurs. Dès le fondement de l'informatique, Charles Babbage l'avait déjà compris et sa machine faisait à la fois le calcul et l'impression car beaucoup d'erreur arrivait lors de l'impression.
-
-En informatique, beaucoup d'erreurs occurrent par manque d'information ou de clarté dans leur communication, le client exprime parfois mal son besoin, voire à un problème et ne sais pas ce dont il aurait besoin pour y palier. Les équipes faisant l'intermédiaire entre le client et l'équipe de production se retrouvent souvent entre deux eaux et doivent s'adapter et apprendre deux vocabulaires très différents.
-
-Idéalement ce genre de personnes devrait avoir été ou du moins être capable de se mettre à la place des deux partis dont il fait l'intermédiaire afin de mieux les comprendre et pouvoir efficacement communiquer dans le but de trouver la meilleure solution.
-
-Certains problèmes arrivent également lors de l'échange entre l'équipe design et l'équipe technique.
-
-Il arrive que des design soient validés alors qu'ils ne sont tout bonnement pas réalisable en terme de code, généralement due à des limitations CSS, ou des problèmes dues à des cas qui n'ont pas étés pensés, comme le changement de sens de lecture et d'écriture dans certains langages comme l'arabe ou le mandarin.
-
-Tout ses problèmes arrivent car rien n'est centralisé, à une heure ou la collaboration est mise en avant comme jamais. 
-
-Dans EditIDE, tout ce ferait sur le site lui même. Le design et l'intégration ne ferait désormais plus qu'un, les développeurs front ne seraient chargés que de dynamiser les design déjà intégrés avec les appels API du back qui seraient auto-générés. 
-
-
-
 ##### Visualisation
 
 Les sucres syntaxiques devrait être des éléments d'interface graphique. Je pense la même chose de la documentation elle devrait toujours être relié au code, lui même explicite et faisant référence a un site externe si nécessaire. Le code lui même doit être visuellement explicite, on doit pouvoir facilement créer de nouvelles instructions sans devoir choisir dans une liste d'auto-complétions interminable remplie éléments impertinents. L'intelligence artificielle peut améliorer ce problème de pertinence mais le principal désagrément vient de l'agencement et l'affichage trop brut du texte. 
@@ -1743,8 +1686,6 @@ La documentation permet théoriquement de répondre à toute question que l'on p
 
 Les API étants une boite noire, il est essentiel de les documenter, pour ce faire, le meilleur outil est actuellement swagger, il permet de regrouper des ressources web (url) dans des groupes et d'indiquer quels sont les paramètres que l'on peut y passer, et la ou les réponse attendue possibles.
 
-
-
 Dans EditIDE, je souhaite qu'il n'y ai pas besoin de renseigner ces informations, que l'on a en théorie déjà lors de la conception et que l'on doit répéter dans swagger, généralement en utilisant un format qui plus est légèrement différant. De plus les documentations étant rarement mises à jours, elles seraient ainsi automatiquement toujours représentatives de la réalité car fortement liées. Pour EditIDE, malgré le fait que je travaille seul, je suis souvent reparti de zéro pour réexpérimenter ce que vivrai un nouveau collaborateur arrivant sur le projet, et ainsi indiquer tout les problèmes qui peuvent être recentrés et les solutions associées.  
 
 Le formulaire de création de fonction et son interface dédiées indiqueront les champs obligatoires ou recommandés non renseignés. Recommandations gérées par ESLint.
@@ -1757,7 +1698,7 @@ Gestion de projet informatique, des bugs et des incidents. Que ce soit une nouve
 
 >  For an individual, however, there can be no question that a few clear ideas are worth more than many confused ones.
 >
-> Charles S. Peirce - *How to make Ideas clear*
+>  Charles S. Peirce - *How to make Ideas clear*
 
 Dans le cas d'un problème dans l'application, je pense que l'idéal serait de demander à l'utilisateur qui rencontre le problème d'enregistrer la suite d'action et de la convertir en test d'interface automatisé (E2E). Je souhaite automatiser ce processus dans EditIDE pour pouvoir facilement recueillir et traiter les bugs en s'assurant que le comportement reste bon après résolution.
 
@@ -1765,9 +1706,15 @@ Dans le cas d'un problème dans l'application, je pense que l'idéal serait de d
 
 ##### Précision
 
-Vue macro, vu micro, questions individuelles précises, groupe permet d'avoir le consensus.
+Lorsque l'on fait face à un problème informationnel, il convient de définir son périmètre, pour analyser et gérer précisément la zone voulue. L'informatique nous permet désormais d'avoir une interface pour naviguer précisément dans une simulation réaliste et visualiser ses ordres de grandeur. [c4model](https://c4model.com/) Vue macro, vu micro, questions individuelles précises, groupe permet d'avoir le consensus. 
 
 
+
+### 
+
+### Jeu
+
+Un ludiciel doit être vivant, animé, utilisé, collaboratif, et surtout naturel. La notion de naturel est selon moi très lié à une logique auto-descriptive. Le code lui même suit une logique qui se décrit elle même. Mon objectif dans la conception d'EditIDE en tant que ludiciel est de faire en sorte que le code soit affiché avec des symboles auto-descriptif couplé à une explication textuelle dans la langue de l'utilisateur si nécessaire. Dans un premier temps, elle pourrait se faire avec l'usage de simples commentaires, forcés pour chaque instruction de manière à ce que quelqu'un qui ne sait pas encore coder puisse avoir une explication en langage **naturel** du code qu'il a sous les yeux. 
 
 ### Qu'elle sont les conditions de succès d'un logiciel ?
 
