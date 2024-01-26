@@ -12,7 +12,7 @@ Mémoire de fin d'étude pour la validation du diplôme résultant de mon parcou
 
 ## Bienvenue
 
-Ce document PDF a été généré avec du code Markdown édité en temps réel à l'aide du logiciel Typora. [Les textes en violet soulignés foncés sont des liens.](#Remerciements) La bibliographie sera indiquée avec des annotations préfixées par la lettre b, comme suit.[^b1]Pareil pour la webographie avec la lettre w.[^w1]Vidéographie avec la lettre v[^v1]. Code avec la lettre c[^c1]Et cetera.
+Ce document PDF a été généré avec du code Markdown édité en temps réel à l'aide du logiciel Typora. [Les textes en violet soulignés foncés sont des liens.](#Remerciements) La bibliographie sera indiquée avec des annotations préfixées par la lettre b, comme suit.[^b1]Pareil pour la webographie avec la lettre w.[^w1] Vidéographie avec la lettre v[^v1]. Code avec la lettre c[^c1]Et cetera.
 
 L'usage du pronom impersonnel "on" est proscrit, et je souhaite éviter l'usage d'annexes et de lexique / glossaire pour expliciter mon texte. Si vous êtes un(e) relecteur(ice), et que vous constatez quelque chose de tel ou ne comprenez pas une certaine partie, je vous remercierai de me l'indiquer afin que je puisse essayer retravailler le texte pour le rendre explicite et ainsi éviter aux futurs lecteurs de devoir aller chercher une définition, ou une page tierce afin de poursuivre sa lecture en ayant compris. Si un terme de vocabulaire vous pose problème ou vous à demandé l'usage d'un dictionnaire, j'adapterai   le texte pour l'expliciter si possible, autrement, je le rajouterai au lexique, ou l'expliquerai en note de bas de page. 
 
@@ -21,8 +21,6 @@ L'usage du pronom impersonnel "on" est proscrit, et je souhaite éviter l'usage 
 ## Résumé
 
 Dès la préhistoire, l'humanité avait déjà des méthodes de gestion de l'information. L'histoire de l'information est celle de ceux qui y ont contribué au travers de leurs actes, lectures, écrits, et dires. Cet ouvrage, conformément à son titre et aux recherches qu'il a nécessité, énonce donc le passé, le présent, et ma vision concernant le futur de la gestion de l'information. L'étude des connaissances existantes sur ce sujet vous replongera sûrement dans vos cours d'Histoire. Cet état de l'art mettra en situation le présent avec un abrégé allant de la préhistoire jusqu’à l'état actuel de la science de la gestion de l'information qu'est l'informatique. En tant que développeur, j'ai pu voir en quoi cette discipline récente permet désormais de solutionner et automatiser beaucoup de tâches pénibles, mais aussi que sa pratique en elle même reste fastidieuse. C'est pourquoi j'en ai fait le cœur de ma problématique, que j'analyse pour la repenser dans un essai philosophique, et que la dernière partie se nomme "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?". À l'aide des parties précédentes analysant son origine, la conclusion proposera ainsi une solution informatique innovante, combinant des technologies existantes pour se simplifier elle même en utilisant de la rétro-action, et de la méta-programmation à travers une interface graphique simple et agréable.
-
-
 
 <div style="page-break-after: always;"></div>
 
@@ -74,6 +72,8 @@ Demandez vous pour qui vous le faites, la réponse devrait toujours être  `∀ 
 
 [^sol]: Solution page X
 
+<div style="page-break-after: always;"></div>
+
 ## Introduction
 
 La transmission d'information s'est fiabilisée au fil des époques, avec l'usage d'outils physique ; notamment des tablettes, plaques permettant de dessiner, d'écrire, lire, compter ; et ce jusqu'à pouvoir automatiser son traitement et son stockage, à l'aide de l'informatique, dont l'histoire ne commence concrètement qu'à la fin du 19<sup>ème</sup> siècle.
@@ -94,7 +94,7 @@ L'ensemble de ces domaines, et l'information en général, prennent une place de
 
 Avec mon point de vue de développeur web, je dresserai ensuite un [bilan de l’état actuel de l'informatique](#Pratiques-actuelles), de son marché, ses opportunités, ainsi qu'une étude de sa pratique moderne ; et ce afin d'en [identifier les problèmes](#Comprendre-la-problématique) que l'on y rencontre pour en dégager de possibles solutions. Aboutissant ainsi ce mémoire avec la mise en place technique d'une solution informatique, résultant de ma vision en tant qu'acteur et éditeur de logiciels pour [le futur de cette discipline](#EditIDE-ou-"Comment-repenser-la-gestion-de-l'information-pour-moderniser-l'expérience-développeur-?"), plus particulièrement la pratique que je souhaite en avoir en tant que créateur de services et contenus web.
 
-
+<div style="page-break-after: always;"></div>
 
 ## Comprendre la problématique
 
@@ -106,17 +106,11 @@ Mais avant de parler des méthodes modernes et répondre à cette question, il m
 
 
 
-
-
-[Retour](#Introduction)
+<div style="page-break-after: always;"></div>
 
 ## Histoire
 
-La première manière pour un être vivant de marquer l'Histoire est universelle, c’est celle des fossiles et des dinosaures, celle d’avoir existé et laissé une trace, une information, stockée sur un support physique, sur notre Terre. La deuxième est l’art de sculpter des outils, actuellement estimé 3 millions d’années avant notre ère. La troisième est le dessin, au travers de la peinture ou de la gravure, dont les plus anciennes preuves sont rupestres, et âgées de 65 millénaires.
-
-Relativement aux dates précédentes, l’écriture ne vient que récemment, elle a été attestée en Mésopotamie il y a 5 millénaires. Pourtant, c'est elle qui nous permettra à nous, humains, d'écrire notre Histoire, de transmettre des volumes d'informations variées, véridiques comme les faits, ou de qualité comme des idées. Écrire permet de faire naître une information et potentiellement de la rendre éternelle. Les paroles s’envolent les écrits restent, c'est pourquoi la littérature est importante.
-
-D'un point de vue Historique, notre génération laissera toujours une trace. Que ce soit sur un disque dur quelque part dans un grenier, dans un datacenter ou une archive internet. Et même si tout les humains disparaissait, il y aurait une preuve immuable et indestructible à échelle de la Terre. Les isotopes lourds que nous avons créés avec l'apparition des industries nucléaire seraient, même dans le cas d'un retour à l'âge de pierre causant un rude hiver civilisationnel, la preuve de l'existence de la nôtre.
+La première manière pour un être vivant de marquer l'Histoire est universelle, c’est celle des fossiles et des dinosaures, celle d’avoir existé et laissé une trace, une information, stockée sur un support physique, sur notre Terre. La deuxième est l’art de sculpter des outils, actuellement estimé 3 millions d’années avant notre ère. La troisième est le dessin, au travers de la peinture ou de la gravure, dont les plus anciennes preuves sont rupestres, et âgées de 65 millénaires. Relativement aux dates précédentes, l’écriture ne vient que récemment, elle a été attestée en Mésopotamie il y a 5 millénaires. Pourtant, c'est elle qui nous permettra à nous, humains, d'écrire notre Histoire, de transmettre des volumes d'informations variées, véridiques comme les faits, ou de qualité comme des idées. Écrire permet de faire naître une information et potentiellement de la rendre éternelle. Les paroles s’envolent les écrits restent, c'est pourquoi la littérature est importante. D'un point de vue historique, notre génération laissera toujours une trace. Que ce soit sur un disque dur quelque part dans un grenier, dans un datacenter ou une archive internet. Et même si tout les humains disparaissait, il y aurait une preuve immuable et indestructible à échelle de la Terre. Les isotopes lourds que nous avons créés avec l'apparition des industries nucléaire seraient, même dans le cas d'un retour à l'âge de pierre causant un rude hiver civilisationnel, la preuve de l'existence de la nôtre.
 
 
 
@@ -126,15 +120,9 @@ Avant même la naissance de l'écriture qui marque la fin de la préhistoire, le
 
 Un **abaque** est un instrument facilitant le calcul. C'est un outil mnémonique de numération, c'est à dire qu'il permet d'enregistrer un nombre pour se libérer de la mémoire. Son étymologie est un mélange de grec et d'hébreu qui explique bien sa représentation et son usage. La poussière (de l'hébreu abaq), et la tablette (du grec akos), servaient de support pour l'écrit. Même sans dépôt de poussière naturelle, il est possible de volontairement recouvrir une tablette, et ainsi réécrire à volonté avec du sable, ou toute autre poudres.
 
-À la préhistoire, ce mot n'existait pas, les humain n'avait pas encore de tablettes, de nombres ni de textes leurs permettant de représenter une quantité. Le plus vieux système de quantification connu est le **bâton de comptage**, daté à **-40000**. C'est un système unaire, il permet de quantifier des unités, représentées par la répétition d'un symbole, généralement un trait, aussi appelé marque de dénombrement. Le plus ancien est l'Os de Lebombo. L'ensemble d'Os d'Ishango est cependant plus connu. Il serait hypothétiquement une des premières preuves de connaissance humaine des mathématiques et de l'arithmétique. Sur un des os, les 4 nombres premiers entre 10 et 20 sont présent, soit 11, 13, 17, et 19 ; un autre semble démontrer les additions et les multiplication, notamment la duplication, avec la juxtaposition des nombres 3 et 6 puis 4 et 8. Cette méthode unaire est longtemps restée, à l'époque, un berger pouvait s'assurer que l'intégralité de son troupeau était rentré en comparant deux comptages, à l'aide de cailloux par exemple, chacun représentant une bête. De nos jours elle à été mécanisée pour approximer par groupes de dix les manifestants à l'aide de compteurs manuels.
-
-J'ai également eu l'opportunité de visiter la grotte de Thaïs, où a été retrouvé un os de quelques centimètres aux multiples gravures. Daté en **-12 500**, il a été nommé **Os coché**. En 1991, l’archéologue américain Alexander Marschack, démontra qu’il ne s’agit pas comme les historiens le pensait alors, d’une représentation décorative, mais d’un système d’enregistrement du temps, possiblement un calendrier basé sur des observations astronomiques. Cette hypothèse est actuellement, en 2024, le sujet d'une étude européenne menée par un groupe de chercheur à l'université de Bordeaux.
-
-
+À la préhistoire, ce mot n'existait pas, les humain n'avait pas encore de tablettes, de nombres ni de textes leurs permettant de représenter une quantité. Le plus vieux système de quantification connu est le **bâton de comptage**, daté à **-40000**. C'est un système unaire, il permet de quantifier des unités, représentées par la répétition d'un symbole, généralement un trait, aussi appelé marque de dénombrement. Le plus ancien est l'Os de Lebombo. L'ensemble d'Os d'Ishango est cependant plus connu. Il serait hypothétiquement une des premières preuves de connaissance humaine des mathématiques et de l'arithmétique. Sur un des os, les 4 nombres premiers entre 10 et 20 sont présent, soit 11, 13, 17, et 19 ; un autre semble démontrer les additions et les multiplication, notamment la duplication, avec la juxtaposition des nombres 3 et 6 puis 4 et 8. Cette méthode unaire est longtemps restée, à l'époque, un berger pouvait s'assurer que l'intégralité de son troupeau était rentré en comparant deux comptages, à l'aide de cailloux par exemple, chacun représentant une bête. J'ai également eu l'opportunité de visiter la grotte de Thaïs, où a été retrouvé un os de quelques centimètres aux multiples gravures. Daté en **-12 500**, il a été nommé **Os coché**. En 1991, l’archéologue américain Alexander Marschack, démontra qu’il ne s’agit pas comme les historiens le pensait alors, d’une représentation décorative, mais d’un système d’enregistrement du temps, possiblement un calendrier basé sur des observations astronomiques. Cette hypothèse est actuellement, en 2024, le sujet d'une étude européenne menée par un groupe de chercheur à l'université de Bordeaux.
 
 L'homme préhistorique avait donc sûrement déjà des systèmes de comptage des unités et du temps, bien qu'il ne nous en reste que peu de traces, ne permettant donc pas d'affirmer cela avec certitude. A cette période, l'humain était un chasseur-cueilleur nomade, et contrairement à ce que l'on pourrait croire, il aurait rarement été hostile à ses congénères lorsqu'il les croise, ayant déjà bien assez de problèmes avec la nature. La **sédentarisation** prends place en **-9000**, l'**agriculture** apparaît à la même période dans le *croisant fertile* situé au Proche et Moyen Orient actuel, avec par conséquent un besoin de stockage grandissant auquel répondra la démocratisation de la vannerie, du tissage et surtout de la poterie. Jusqu'alors la terre cuite était principalement utilisée pour des figurines décoratives. À partir de **-7000** fleurirons alors **villes et cités** comme Urkesh, Ninive, ou Assur ; capitale Assyrienne, et Guzana capitale du royaume antagoniste Araméen. Suivis par Uruk et Lagash vers -5000, puis Ur vers -4000. Les **premières civilisation** apparaîtrons plus tard comme celle de Sumer vers **-3500**, ou celle de la vallée de l'Indus (à qui l'humanité doit entre autre les égouts) vers -2600, bien que son développement ai commencé à l'apparition des premières villes et cités. L'arrivé du stockage de biens a causé l’apparition des premiers conflits d'envergure. Avant cela, les scientifiques estiment que les humains avait une densité de population trop faible pour que cela n'arrive, le rapport gain / perte n'en valant que rarement le coût. L'humanité à donc du, suite à la sédentarisation, trouver des moyen de réguler son jeu de la vie humaine, et trouver des systèmes composés de règles, permettant de conserver l'ordre et éviter la discorde.
-
-
 
 C'est ici qu'intervient la **bulle enveloppe ∨ comptable**. Il y a presque 6000 ans de cela, en Mésopotamie, vers l'an **-3900**, étaient utilisées des sphères d'argile. Des calculs, du latin "calculus", signifiant petit cailloux, étaient stockés en son sein, pour en comptabiliser le contenu. La signature se faisait en déroulant un sceau-cylindre, orné de motifs représentant des dieux ou le pouvoir. Il servait à imprimer les motifs creusés dessus afin de pouvoir les imprimer sur de l'argile. Ce motif indiquait généralement le possesseur à la manière d'une signature. Certains étaient en matériaux plus ou moins précieux, et comportait parfois des écritures cunéiformes.
 
@@ -154,35 +142,21 @@ Les usages de la multiplication, sont également multiples, il y avait des méth
 
 [^syl]: (voir syllogisme pX)
 
-> https://fr.wikipedia.org/wiki/Papyrus_Rhind
->
-> https://fr.wikipedia.org/wiki/Alg%C3%A8bre_babylonienne
->
-> Otto Neugebauer, The Exact Sciences in Antiquity, Providence, Brown University Press, 1957 (réimpr. 1969), 240 p. (ISBN 0486223329)
->
-> Jens Høyrup, L'Algèbre au temps de Babylone, Vuibert/Adapt, coll. « Inflexions », août 2010, 162 p. (ISBN 9782356560162)
 
 
+Le **quipou** est un outil utilisé par les incas qui signifie "nœud", ou "compte" en quechua. Il est en effet possible de faire un nœud simple avec plusieurs boucles, permettant ainsi d'enregistrer un chiffre correspondant au nombre de boucle, et donc des nombres, en base 10. Le plus ancien connu à été retrouvé sur le site archéologique de Caral, au Pérou. Il est daté vers l'an **-2500**, le climat chaud et sec a contribué à sa bonne conservation. L'empire Inca ayant été constitué de plus de 12 millions d'individus, cet outil a été au cœur de son administration et a permis le stockage des informations nécessaires au recensement de la population et à la gestion de l'économie. Des experts du quipou comme Gary Urton[^gu], professeur d'Anthropologie américain spécialisé en civilisation pré-colombienne, se sont même rendus compte que plus d'un tiers comportaient des informations autres que des chiffres, aussi appelées informations qualitatives, en opposition aux informations quantitatives. Cet outil à donc également servi à transmettre des messages, composé d'un vocabulaire créé à partir de différentes couleurs, types de fils, de nœuds, ainsi que leurs positions et orientations. Notez qu'en mathématique il existe une branche très intéressante appelée une théorie des nœuds, elle fait partie de la sous branche de la topologie, c'est à dire l'étude de la déformation d'un objet sans arrachage ni recollage. Cet outil nous montre qu'à travers la manipulation des fils et des nœuds, certaines civilisations ont pu écrire et lire des informations, autrement qu'en inscrivant des symboles sur une surface. Le dernier abaque antique est le boulier, qui a été utilisé par de nombreux peuples séparés. Il voit le jour possiblement vers l'an **-2000**, et utilise le système de numération décimale (10), ou en base alternée (5, 2) pour certains modèles. C'est un outil physique composé de plusieurs rangées d'unités sphériques, où des perles empilées glissant autour de tiges, permettent un calcul rapide, même récemment. Bien utilisé, il arrive en tête de compétitions contre des opérateurs électroniques. Cet outil répandu à été démocratisé dans de multiples peuples. Romains, chinois, japonais, russes, mexicains, français, et bien d'autres, l'utilisent et l'enseignent.
 
-Le **quipou** est un outil utilisé par les incas qui signifie "nœud", ou "compte" en quechua. Il est en effet possible de faire un nœud simple avec plusieurs boucles, permettant ainsi d'enregistrer un chiffre correspondant au nombre de boucle, et donc des nombres, en base 10. Le plus ancien connu à été retrouvé sur le site archéologique de Caral, au Pérou. Il est daté vers l'an **-2500**, le climat chaud et sec a contribué à sa bonne conservation. L'empire Inca ayant été constitué de plus de 12 millions d'individus, cet outil a été au cœur de son administration et a permis le stockage des informations nécessaires au recensement de la population et à la gestion de l'économie. Des experts du quipou comme Gary Urton[^gu], professeur d'Anthropologie américain spécialisé en civilisation pré-colombienne, se sont même rendus compte que plus d'un tiers comportaient des informations autres que des chiffres, aussi appelées informations qualitatives, en opposition aux informations quantitatives. Cet outil à donc également servi à transmettre des messages, composé d'un vocabulaire créé à partir de différentes couleurs, types de fils, de nœuds, ainsi que leurs positions et orientations. Notez qu'en mathématique il existe une branche très intéressante appelée une théorie des nœuds, elle fait partie de la sous branche de la topologie, c'est à dire l'étude de la déformation d'un objet sans arrachage ni recollage. Cet outil nous montre qu'à travers la manipulation des fils et des nœuds, certaines civilisations ont pu écrire et lire des informations, autrement qu'en inscrivant des symboles sur une surface.
+Le Code de Hammurabi, un texte babylonien daté vers **-1750**, est à ce jour le texte de loi connu le plus complet de la Mésopotamie Antique. Il démontre l'existence de lois, notamment concernant les salaires, indiquant qu'il existait des corps de métiers bien définis ; mais inscrivant également le droit de la famille, de la propriété, le système judiciaire, et bien d'autres. Ces lois décrivent des situation problématique auxquelles elles proposent des solution, ont dit qu'elle sont *casuistique*. À l'époque où Hammurabi succède à son père, il possède un petit territoire comportant tout de même des grandes villes, mais il est entouré de puissants royaumes, qu'il finira par vaincre et annexer, pour finir par dominer la région et fonder le royaume babylonien tel qu'on le connaît en tant que puissance culte du Proche Orient. La politique rédigée à sa gloire à l'aide ce code à donc certainement eu un rôle dans le développement de la société babylonienne jusqu’à son apogée, lui donnant à l'époque l'image d'un roi guerrier de justice, manifestation d'un dieu soleil sur terre.
 
 [^gu]: Gary Urton, Signs of the Inka khipu : Binary coding in the Andean knotted-string records, Austin, University of Texas Press, 2003, 1re éd., 202 p. (ISBN 978-0-292-78539-7, Online Computer Library Center : [50323023](https://worldcat.org/fr/title/50323023))
 
-Le dernier abaque antique est le boulier, qui a été utilisé par de nombreux peuples séparés. Il voit le jour possiblement vers l'an **-2000**, et utilise le système de numération décimale (10), ou en base alternée (5, 2) pour certains modèles. C'est un outil physique composé de plusieurs rangées d'unités sphériques, où des perles empilées glissant autour de tiges, permettent un calcul rapide, même récemment. Bien utilisé, il arrive en tête de compétitions contre des opérateurs électroniques. Cet outil répandu à été démocratisé dans de multiples peuples. Romains, chinois, japonais, russes, mexicains, français, et bien d'autres, l'utilisent et l'enseignent.
 
-
-
-Le Code de Hammurabi, un texte babylonien daté vers **-1750**, est à ce jour le texte de loi connu le plus complet de la Mésopotamie Antique. Il démontre l'existence de lois, notamment concernant les salaires, indiquant qu'il existait des corps de métiers bien définis ; mais inscrivant également le droit de la famille, de la propriété, le système judiciaire, et bien d'autres. Ces lois décrivent des situation problématique auxquelles elles proposent des solution, ont dit qu'elle sont *casuistique*.
-
-À l'époque où Hammurabi succède à son père, il possède un petit territoire comportant tout de même des grandes villes, mais il est entouré de puissants royaumes, qu'il finira par vaincre et annexer, pour finir par dominer la région et fonder le royaume babylonien tel qu'on le connaît en tant que puissance culte du Proche Orient. La politique rédigée à sa gloire à l'aide ce code à donc certainement eu un rôle dans le développement de la société babylonienne jusqu’à son apogée, lui donnant à l'époque l'image d'un roi guerrier de justice, manifestation d'un dieu soleil sur terre.
 
 
 
 #### Grèce
 
-Les premiers écrits philosophique et scientifiques de référence occidentales viennent de la **Grèce antique**. Les bases de la physique ont été posées par Thalès, celles des mathématiques par Pythagore, de la géométrie par Euclide, et de la biologie par **Aristote**, qui est également à l'origine des raisonnements logiques appelés **syllogismes **, étymologiquement ensemble de discours logiques. Ce sont des raisonnements constitués d'au moins trois propositions cohérentes, la dernière étant une conclusion déduite, précédée de prémisses qui doivent s'avérer vraies pour que la conclusion le soit également. Soit (A ∧ B ⇒ C). Son exemple le plus connu est "*Tout les hommes sont mortels, or Socrate est un homme, donc Socrate est mortel*". (H⇔M ∧ S⇔H ⇒ S⇔M)
-
-Socrate est la première figure philosophique dont l'influence a marqué un avant et un après, il a été enrôlé en tant qu'hoplite lors de la guerre du Péloponnèse qui à opposé Spartes à Thèbes et Athènes. Dans le cadre de cet affrontement, les humains ont eu besoin de communiquer des messages à de longues distances, sans qu'ils ne se fassent intercepter, et encore moins décoder et lus, voire pire, compris. Le plus ancien système de **chiffrement** connu est ainsi la **scytale** spartiate, datée vers **-600**[^1]. Utilisée pour transmettre des messages chiffrés par transposition sur un bande, généralement une ceinture en cuir portée pendant le transport, que l'on enroule autour d'un bâton pour l'écriture et la lecture. Le diamètre du bâton étant ainsi la clé de chiffrement, deux bâtons de même diamètres pouvaient donc chiffrer et déchiffrer les mêmes messages. Les lettres correspondait encore à leur propre valeur, et leur ordre dans le mot était conservé, malgré la présence de lettres entre chacune d’entre elles. Ces dernières étaient simplement mélangées, et l'enroulage permettait de les réaligner afin d'en permettre la lecture. Quelques années avant Jésus Christ, Jules César encodait ses messages grâce à un procédé similaire en utilisant un code éponyme. Ce chiffrement simple utilisait un décalage d'un certain nombre de lettres de l'alphabet. A vaut D, B vaut E, Z vaut C, etc... On remarque que le chiffrement était dès le début utilisé pour transmettre des informations sensibles, notamment liés à la guerre. Cet outil a d'ailleurs été considéré comme arme de guerre jusqu’à récemment, où la plupart des techniques de cryptographies issues du domaine militaire sont devenues publiques. Malgré cela, encore aujourd'hui, les gouvernements appellent à retirer l'anonymat sur internet ou à avoir des portes dérobées dans les chiffrements afin d'en permette la lecture par une autorité certifiée en cas de besoin.
+Les premiers écrits philosophique et scientifiques de référence occidentales viennent de la **Grèce antique**. Les bases de la physique ont été posées par Thalès, celles des mathématiques par Pythagore, de la géométrie par Euclide, et de la biologie par **Aristote**, qui est également à l'origine des raisonnements logiques appelés **syllogismes **, étymologiquement ensemble de discours logiques. Ce sont des raisonnements constitués d'au moins trois propositions cohérentes, la dernière étant une conclusion déduite, précédée de prémisses qui doivent s'avérer vraies pour que la conclusion le soit également. Soit (A ∧ B ⇒ C). Son exemple le plus connu est "*Tout les hommes sont mortels, or Socrate est un homme, donc Socrate est mortel*". (H⇔M ∧ S⇔H ⇒ S⇔M). Socrate est la première figure philosophique dont l'influence a marqué un avant et un après, il a été enrôlé en tant qu'hoplite lors de la guerre du Péloponnèse qui à opposé Spartes à Thèbes et Athènes. Dans le cadre de cet affrontement, les humains ont eu besoin de communiquer des messages à de longues distances, sans qu'ils ne se fassent intercepter, et encore moins décoder et lus, voire pire, compris. Le plus ancien système de **chiffrement** connu est ainsi la **scytale** spartiate, datée vers **-600**[^1]. Utilisée pour transmettre des messages chiffrés par transposition sur un bande, généralement une ceinture en cuir portée pendant le transport, que l'on enroule autour d'un bâton pour l'écriture et la lecture. Le diamètre du bâton étant ainsi la clé de chiffrement, deux bâtons de même diamètres pouvaient donc chiffrer et déchiffrer les mêmes messages. Les lettres correspondait encore à leur propre valeur, et leur ordre dans le mot était conservé, malgré la présence de lettres entre chacune d’entre elles. Ces dernières étaient simplement mélangées, et l'enroulage permettait de les réaligner afin d'en permettre la lecture. Quelques années avant Jésus Christ, Jules César encodait ses messages grâce à un procédé similaire en utilisant un code éponyme. Ce chiffrement simple utilisait un décalage d'un certain nombre de lettres de l'alphabet. A vaut D, B vaut E, Z vaut C, etc... On remarque que le chiffrement était dès le début utilisé pour transmettre des informations sensibles, notamment liés à la guerre. Cet outil a d'ailleurs été considéré comme arme de guerre jusqu’à récemment, où la plupart des techniques de cryptographies issues du domaine militaire sont devenues publiques. Malgré cela, encore aujourd'hui, les gouvernements appellent à retirer l'anonymat sur internet ou à avoir des portes dérobées dans les chiffrements afin d'en permette la lecture par une autorité certifiée en cas de besoin.
 
 [^1]: https://www.google.fr/books/edition/Les_vies_des_hommes_illustres/iYFZAAAAcAAJ?hl=fr&gbpv=1&pg=PA142&printsec=frontcover
 
@@ -243,14 +217,6 @@ Originaire d'Alexandrie, **Héron** serait né et aurait vécu pendant le **prem
 
 Pour clôturer cette partie sur l'Antiquité, je vous présente **Claude Ptolémée**, un astronome, astrologue, mathématicien, et géographe grec né vers l'an **100** qui a vécu à Alexandrie. Tout comme Aristote, il pensait que nous étions dans un système géocentrique, ou les planètes et le Soleil tournerait autour de la Terre. Malgré cela, son traité d'astronomie L'*Almageste* est le seul ouvrage complet de connu de l'Antiquité, il eu décliné cette œuvre en rédigeant "*les tables faciles*" très utilisés à l'époque, elle permettait de calculer la position des astres et les éclipses avec une précision alors suffisante. Il faudra par la suite attendre Copernic pour que ses travaux soient remis en question et ne fassent plus référence.
 
-
-
-
-
-
-
-[Retour](#Sommaire)
-
 ### Moyen-Âge
 
 Les civilisations antiques ont alors introduit le calcul et la gestion de l'information à travers l'écrit de multiples textes, certains se perdant au fil du temps, d'autres étant conservés grâce à des personnalités qui les ont repris et fait vivre en les appliquant voire les améliorant. Les différents penseurs de l'Antiquité ont donc défini, catégorisé et classifié les informations de la connaissance humaine en modules. Ce concept omniprésent a permis une standardisation des idées et une base permettant d'avoir un langage commun. À l'aube du Moyen-Âge, les savants ont alors découvert et transmis les règles fondamentales des mathématiques, de la biologie et de la physique, permettant l'amélioration de l'agriculture par un meilleur approvisionnement en eau, ou encore la création d'automates et des machines de guerre.
@@ -284,10 +250,6 @@ D'un point de vue social et économique, l'humanité a connu une forte croissanc
 Concernant les outils informationnel, cette période à également eu son lot d'inventions, dans la continuité des claviers inventés par Ctésibios. En grec, *týpos* signifie frappe, coup ou pression et peut également indiquer la marque qui en résulte. La **typographie** est donc l’art d'écrire en appliquant des caractères mobiles, tampons munis d'un symbole appelé glyphe. Un ensemble de glyphes représentant un alphabet complet forme une fonte ou police de caractère. Avec ces derniers il est donc possible de créer des mots, des phrases, et de les imprimer. Cette technique a été détaillée vers **1440** par **Gutenberg**, qui n’a pas inventé l’imprimerie mais l'a popularisée avec l'ensemble des techniques mécaniques qui y sont liées. En effet, les caractères mobiles existait depuis leur invention en 1040 par un inventeur chinois nommé Bi Sheng ; et la xylographie permettait déjà l'impression à l'aide de gravures sur bois, malgré son usure après plusieurs utilisations. La popularisation de l'imprimerie a permis l'automatisation d'une transmission écrite qui était alors manuelle, réduisant les erreurs et les coûts tout en améliorant la vitesse de production et de diffusion des informations. La lecture qui était alors un privilège réservé aux plus riches devient alors accessible, la transmission orale ne prévaut plus et chacun peut avoir un libre examen des œuvres littéraires.
 
 La fin de cette époque à également été florissante pour les italiens, le polymathe **Leon Battista Alberti** est considéré par certains comme le père de la cryptographie occidentale, il a en effet étudié et inventé un système de chiffrement par substitution, le cadran chiffrant, et rédigé un texte prouvant que l'analyse de fréquence d'apparition des lettres dans les textes en permet le déchiffrement. Il finira donc logiquement par inventer le sur-chiffrement codique, l'innovation cryptographique la plus significative depuis la période de César. Cette méthode consiste à utiliser plusieurs alphabets désordonnés en alternant entre eux lors du chiffrement. Il aurait également imaginé le premier anémomètre permettant d'évaluer précisément la force du vent, et finira par décéder en 1472 à Rome. À la fin du 15<sup>ème</sup> siècle, un autre habitant de Rome nommé **Luca Pacioli**, vulgarise les mathématiques et reprends le concept de *nombre d'or* dans un livre qui participera au mythe qui lui est lié. Cette œuvre appelé "*De divina proportione*" sera illustrée par le peintre polymathe **Leonard de Vinci**, qui de son vivant réalisera plusieurs machines de théâtre comme de guerre, transmettant par la même occasion des prototypes de premières machines volantes à ses successeurs. L'avancée la plus significatrice que Luca Pacioli a apporté à l'humanité est cependant la comptabilité par partie double, que l'on utilise toujours aujourd'hui en entreprises. Il a également traduit *Éléments* d'Euclide en Latin, et publié un résumé d’arithmétique de proportion et de géométrie, à Venise en 1492. 
-
-
-
-[Retour](#Sommaire)
 
 ### Époque moderne
 
@@ -356,7 +318,7 @@ C'est la période actuelle, le début en est défini par la révolution industri
 
 #### De la mécaniques à électronique
 
-La dactylographie, est comme son étymologie grecque l'indique, écrire avec les doigts. En 1714, Henry Mill breveta la première machine à écrire mais les historien ne savent pas si elle a été construite et utilisée. Par la suite, en 1829 William Austin Burt créé The Typographer mais je n'ai trouvé que peu d'information là dessus, il faudra attendre **1837**, année à laquelle un italien nommé Guiseppe Rivezza réalise le **clavesin scribe**. Cette machine inspirée des pianos sera la plus complète jusqu'à l'apparition de la Remington. Entre temps Jean Claude Pingeron et François Pierre Foucault, ami de Louis Braille, vont respectivement en 1780 et 1839, inventer deux raphigraphes. Ce sont des machines permettant aux aveugles de taper des textes en braille avec leurs doigts. Cette technologie a facilité le dialogue entre les voyant et les non-voyants, permettant notamment aux aveugles de communiquer plus facilement avec des membres de leurs familles. *Les aventures de Tom Sawyer* de Mark Twain, sera la première œuvre littéraire à être écrite intégralement sur machine à écrire lors de sa publication en 1872. Par la suite, l'entreprise Remington Arms créée en 1816, fabriquait initialement, comme son nom l'indique, des armes à feu, puis du matériel agricole et des machines à coudre. En **1874** cette entreprise créera la **"type-writter" Remington**, elle nous à apporter les claviers QWERTYUIOP, et la suite alphabétique présente sur beaucoup de claviers, FGHJKL. Une vingtaine d'années plus tard, la pratique sera assez démocratisée pour que Georges Buisson alors sténographe à l'Assemblée Nationale, organise et réalise des concours de vitesse dactylographique.
+La dactylographie est, comme son étymologie grecque l'indique, écrire avec les doigts. En 1714, Henry Mill breveta la première machine à écrire mais les historien ne savent pas si elle a été construite et utilisée. Par la suite, William Austin Burt créé The Typographer en 1829, mais je n'ai trouvé que peu d'information là dessus. Il faudra attendre **1837**, année à laquelle un italien nommé Guiseppe Rivezza réalise le **clavesin scribe**. Cette machine inspirée des pianos sera la plus complète jusqu'à l'apparition de la Remington. Entre temps Jean Claude Pingeron et François Pierre Foucault, ami de Louis Braille, vont respectivement en 1780 et 1839, inventer deux raphigraphes. Ce sont des machines permettant aux aveugles de taper des textes en braille avec leurs doigts. Cette technologie a facilité le dialogue entre les voyant et les non-voyants, permettant notamment aux aveugles de communiquer plus facilement avec des membres de leurs familles. *Les aventures de Tom Sawyer* de Mark Twain, sera la première œuvre littéraire à être écrite intégralement sur machine à écrire lors de sa publication en 1872. Par la suite, l'entreprise Remington Arms créée en 1816, fabriquait initialement, comme son nom l'indique, des armes à feu, puis du matériel agricole et des machines à coudre. En **1874** cette entreprise créera la **"type-writter" Remington**, elle nous à apporté les claviers QWERTYUIOP, et la suite alphabétique présente sur beaucoup de claviers, FGHJKL. Une vingtaine d'années plus tard, la pratique sera assez démocratisée pour que Georges Buisson alors sténographe à l'Assemblée Nationale, organise et réalise des concours de vitesse dactylographique.
 
 ![](..\assets\clavecin_scribe.jpg)
 
@@ -364,19 +326,11 @@ La dactylographie, est comme son étymologie grecque l'indique, écrire avec les
 
 Depuis **1766**, l'Almanach nautique est édité chaque année, cette bible du marin est le premier projet de **table permanent**. Avant d'être automatisée, elle était calculée par deux personnes différentes et validée par un dernier qui comparait les résultats. Lorsque deux des auteurs principaux, les astronomes Malachy Hitchins et Nevil Maskelyne meurent respectivement en 1809 et 1811, l'ouvrage sombre pendant 20 ans, croulant sous les erreurs. 
 
-L'**Arithmomètre** développé par Thomas de Colmar en **1820**, sera la première machine à addition commercialisée. Elle n'a cependant jamais été produite en grande quantité car elle était réalisé à la main à raison d'un ou deux exemplaires par mois. De plus, le procédé de calcul était très lent, la plupart des utilisateur ni voyait pas de gain de temps lors de petit calculs, rendant son utilisation quasiment exclusive aux assurances et ingénieurs, qui utilisent des calculs mettant en œuvre des grands nombres, supérieur au million. Malgré son bas coût de 150$, la demande pour ce produit resta donc faible.
+L'**Arithmomètre** développé par Thomas de Colmar en **1820**, sera la première machine à addition commercialisée. Elle n'a cependant jamais été produite en grande quantité car elle était réalisé à la main à raison d'un ou deux exemplaires par mois. De plus, le procédé de calcul était très lent, la plupart des utilisateurs ni voyaient pas de gain de temps lors de petit calculs, rendant son utilisation quasiment exclusive aux assurances et ingénieurs, qui ont recours à des calculs mettant en œuvre des grands nombres, supérieur au million. Malgré son bas coût de 150$, la demande pour ce produit resta donc faible. Une vingtaine d'année plus tard apparait l'**Arithmaurel**, créé en **1842** par Timoleon Maurel, avec l'Arithmomètre et le cylindre de Leibneiz pour inspiration. Cette machine à calculer était utilisable en renseignant simplement les valeurs (opérandes) et les opérateurs. C'est une grande avancée en termes d'expérience utilisateur, malheureusement sa conception à grande échelle n'as pas été possible à cause des limitations techniques de l'époques. La division quand à elle restait fastidieuse car elle demande à l'utilisateur d'effectuer un ensemble de soustraction avec beaucoup d'attention. Plusieurs calculateurs analogiques très spécifiques feront également leur apparition comme des planétaires, ou la **machine à prévoir la marée** de Lord Kelvin créée en **1872**, qui a permis de réaliser des tables de marées de divers ports et ainsi éviter aux bateaux de s'échouer sur les rochers ou plages.  Dorr E. Felt dévoile le **comptomètre** en **1887** aux États-Unis, il l'a réalisé en reprenant l'idée du clavier à touches de l'arithmomètre. Le principe de l'addition reste aussi simple que celui de la Pascaline. Par contre, la soustraction est différente et procède par addition du complément à 9 qui est inscrit en minuscule sur chaque touche du clavier. Enfin, en **1889**, le mécanisme des **calculatrices à crosse** est breveté par le Français Louis Troncet, sous le nom d'Arithmographe. Ces machines à calculer encore primitives ont rapidement changées avec le développement de tout un champ de recherche qui nait dans l'époque contemporaine.
 
-70 ans avant apparait l'**Arithmaurel**, créé en **1842** par Timoleon Maurel, avec l'Arithmomètre et le cylindre de Leibneiz pour inspiration. Cette machine à calculer était utilisable en renseignant simplement les valeurs (opérandes) et les opérateurs. C'est une grande avancée en termes d'expérience utilisateur, malheureusement sa conception à grande échelle n'as pas été possible à cause des limitations techniques de l'époques. La division quand à elle restait fastidieuse car elle demande à l'utilisateur d'effectuer un ensemble de soustraction avec beaucoup d'attention. Plusieurs calculateurs analogiques très spécifiques feront également leur apparition comme des planétaires, ou la **machine à prévoir la marée** de Lord Kelvin créée en **1872**, qui a permis de réaliser des tables de marées de divers ports et ainsi éviter aux bateaux de s'échouer sur les rochers ou plages. 
+Depuis les penseurs grecs de l'Antiquité, l'humanité a connaissance de **l'électricité** statique que l'on peut obtenir en frottant de l'ambre. En effet *êlektron* signifie ambre jaune en grec ancien, et le mot magnétisme viendrai de la magnésie, pierre servant d'aimant naturel depuis la nuit des temps. En **1745**, juste avant l'époque contemporaine, **Pieter van Musschenbroek**, professeur de physique dans la ville de Leyde aux Pays-Bas, découvre que l'on peut stocker des charges électriques dans deux électrodes opposées par un isolant, créant ainsi un ancêtre du **condensateur** nommé **Bouteille de Leyde**, capable de renvoyer des décharges spectaculaires qui seront utilisées pour divertir les gens dans les foires, ou des centaines de courtisans de Louis XV et lui même à Versailles. Plusieurs appareils de mesure des charges électriques voient le jour comme l'électroscope puis l'électromètre. Charles Coulomb étudie à son tour les phénomènes électrostatiques, en 1785 il découvre la formule de l'intensité de la force électrique entre deux particules chargés, représenté par le produit de leurs charges et le segment entre elles, plus sa distance et courte plus la force sera grande. La découverte de la **pile électronique** de **Volta** en **1800** a quant à elle instantanément reçu une renommée internationale. L’intérêt pour ce domaine de recherche se développe alors à une vitesse folle. En 1820 Hans Chistian Orsted montre qu'un courant électrique peut dérégler une boussole, dont le principe est connu depuis le premier siècle et l'utilisation popularisée vers le 10 ème siècle. Onze ans plus tard, en 1831, **Michael Faraday** énonce une loi éponyme permettant de relier le courant électrique aux champs magnétiques, cette loi sera complétée par les travaux d'**André-Marie Ampère** qui proposera un théorème reliant le champ magnétique aux courants électriques, enfin en 1873 **James Clerk Maxwell** unifie définitivement les champs électriques et magnétique dans la **théorie de l'électromagnétisme**. Entre temps, apparaissent des applications concrètes comme la roue de Barlow, premier moteur électrique créé en 1822, le premier électroaimant en 1825, l'induction en 1831, et l'année suivante, le premier alternateur nommé machine de Pixii. Ces technologies seront améliorés à force d'itérations, ouvrant nombres de possibilités comme la suppléance des machines à vapeur par des machine dynamoélectrique.
 
-Dorr E. Felt dévoile le **comptomètre** en **1887** aux États-Unis, il l'a réalisé en reprenant l'idée du clavier à touches de l'arithmomètre. Le principe de l'addition reste aussi simple que celui de la Pascaline. Par contre, la soustraction est différente et procède par addition du complément à 9 qui est inscrit en minuscule sur chaque touche du clavier. Enfin, en **1889**, le mécanisme des **calculatrices à crosse** est breveté par le Français Louis Troncet, sous le nom d'Arithmographe. Ces machines à calculer encore primitives ont rapidement changées avec le développement de tout un champ de recherche qui nait dans l'époque contemporaine.
-
-
-
-Depuis les penseurs grecs de l'Antiquité, l'humanité a connaissance de **l'électricité** statique que l'on peut obtenir en frottant de l'ambre. En effet *êlektron* signifie ambre jaune en grec ancien, et le mot magnétisme viendrai de la magnésie, pierre servant d'aimant naturel depuis la nuit des temps. En **1745**, juste avant l'époque contemporaine, **Pieter van Musschenbroek**, professeur de physique dans la ville de Leyde aux Pays-Bas, découvre que l'on peut stocker des charges électriques dans deux électrodes opposées par un isolant, créant ainsi un ancêtre du **condensateur** nommé **Bouteille de Leyde**, capable de renvoyer des décharges spectaculaires qui seront utilisées pour divertir les gens dans les foires, ou des centaines de courtisans de Louis XV et lui même à Versailles. Plusieurs appareils de mesure des charges électriques voient le jour comme l'électroscope puis l'électromètre. Charles Coulomb étudie à son tour les phénomènes électrostatiques, en 1785 il découvre la formule de l'intensité de la force électrique entre deux particules chargés, représenté par le produit de leurs charges et le segment entre elles, plus sa distance et courte plus la force sera grande. La découverte de la **pile électronique** de **Volta** en **1800** a quant à elle instantanément reçu une renommée internationale. L’intérêt pour ce domaine de recherche se développe alors à une vitesse folle. En 1820 Hans Chistian Orsted montre qu'un courant électrique peut dérégler une boussole, dont le principe est connu depuis le premier siècle et l'utilisation popularisée vers le 10 ème siècle. Onze ans plus tard, en 1831, **Michael Faraday** énonce une loi éponyme permettant de relier le courant électrique aux champs magnétiques, cette loi sera complétée par les travaux d'**André-Marie Ampère** qui proposera un théorème reliant le champ magnétique aux courants électriques, enfin en 1873 **James Clerk Maxwell** unifie définitivement les champs électriques et magnétique dans la **théorie de l'électromagnétisme**.
-
-Entre temps, apparaissent des applications concrètes comme la roue de Barlow, premier moteur électrique créé en 1822, le premier électroaimant en 1825, l'induction en 1831, et l'année suivante, le premier alternateur nommé machine de Pixii. Ces technologies seront améliorés à force d'itérations, ouvrant nombres de possibilités comme la suppléance des machines à vapeur par des machine dynamoélectrique.
-
-Edison récupère en 1879 le brevet pour la lampe à filament, qu'il n'a pas inventé mais démocratisé et amélioré, devenant malgré ceci le pionnier dans les lampes électriques. Il était donc essentiellement un homme d'affaire, considéré comme l'inventeur le plus prolifique. Il est également à l'origine des premiers bureaux de recherches industriels, ainsi que des films vidéos. Nikola Tesla a travaillé avec lui, il finit pourtant par finir son aventure en indépendant. Il a inventé le moteur asynchrone comme l'alimentation polyphasée[^1], et ainsi travaillé sur le réseau de distribution d’électricité basé sur cette même technologie alternative. Après quoi il s'est fortement intéressé à la très haute fréquence et à la technologie sans fil, espérant un jour pouvoir transmettre de l'électricité à travers l'océan Atlantique. Il s'est brièvement intéressé aux rayons X, faisant de lui un des pionniers de l'imagerie radio, peut être même le premier. Mais après avoir appris que Wilhelm Röntgen avait découvert les rayons X quelques mois après lui, et que les dangers de ce type de rayonnements se fasse sentir chez lui et son assistant, il décide alors de s'orienter dans les automates radio-contrôlés, qui feront de lui le premier concepteur de robot télécommandé. Lucien Gaulard viendra par la suite améliorer les travaux de Tesla sur l'alimentation polyphasée en inventant le transformateur, capable d'augmenter la tension d'un alternateur pour faciliter le transport de l'énergie dans des lignes à hautes tensions. Enfin, **Albert Einstein** naquis l'année où Edison déposa son brevet pour la lampe. Il popularisera son concept de la **relativité générale** et tentera d'unifier les interactions gravitationnelles et électromagnétiques. Malheureusement il décéda avant d'y arriver, mais cette approche fait encore l'objet de recherches car elle aurait pu initier une théorie du tout factorisant et simplifiant les formules et calculs physiques en plus de permettre de concevoir plus simplement le monde.
+**Thomas Edison** récupère le brevet pour la lampe à filament en 1879, qu'il n'a donc pas inventé mais démocratisé et amélioré, devenant malgré ceci le pionnier dans les lampes électriques. Il était donc essentiellement un homme d'affaire, considéré comme l'inventeur le plus prolifique. Il est également à l'origine des premiers bureaux de recherches industriels, ainsi que des films vidéos. **Nikola Tesla** a travaillé avec lui, il finit pourtant par finir son aventure en indépendant. Il a inventé le moteur asynchrone comme l'**alimentation polyphasée**[^1], et ainsi travaillé sur le **réseau de distribution d’électricité** basé sur cette même technologie alternative. Après quoi il s'est fortement intéressé à la très haute fréquence et à la **technologie sans fil**, espérant un jour pouvoir transmettre de l'électricité à travers l'océan Atlantique. Il s'est brièvement intéressé aux **rayons X**, faisant de lui un des pionniers de l'**imagerie radio**, peut être même le premier. Mais après avoir appris que **Wilhelm Röntgen** avait découvert les rayons X quelques mois après lui, et que les dangers de ce type de rayonnement se fasse sentir chez lui et son assistant, il décide alors de s'orienter dans les automates radio-contrôlés, qui feront de lui le premier concepteur de robot télécommandé. **Lucien Gaulard** viendra par la suite améliorer les travaux de Tesla sur l'alimentation polyphasée en inventant le **transformateur**, capable d'augmenter la tension d'un alternateur pour faciliter le transport de l'énergie dans des lignes à hautes tensions. Enfin, **Albert Einstein** naquis l'année où Edison déposa son brevet pour la lampe. Il popularisera son concept de la **relativité générale** et tentera d'unifier les interactions gravitationnelles et électromagnétiques. Malheureusement il décéda avant d'y arriver, mais cette approche fait encore l'objet de recherches car elle aurait pu initier une théorie du tout factorisant et simplifiant les formules et calculs physiques en plus de permettre de concevoir plus simplement le monde.
 
 [^1]: https://patents.google.com/patent/US359748
 
@@ -386,7 +340,7 @@ De la même manière que pour l’électricité, l'humain à depuis longtemps eu
 
 Bien après Robert Hooke, qui inventa le **téléphone** à ficelle en 1665 ; le physicien **Antonio Meucci**, originaire d'Italie, débarque en Amérique lors de l'année 1850 dans le but de promouvoir ses inventions, dont le *Telettrofono* qu'il aurait utilisé pour parler avec sa femme immobilisée par l'arthrite. En 1871 il fonde même une entreprise et tente de protéger ses inventions bien qu'il n'ai pas assez de fond financiers pour s'offrir un réel brevet. L'homme que l'on connait comme l'inventeur du téléphone en aurait donc subtilisé l'idée lors d'une visite aux bureaux de Western Union Telegraph, où Meucci aurait entreposé son Télettrophone. C'est ainsi qu'**Alexander Graham Bell**, professeur de diction à l'université de Boston, mari et fils de femmes sourdes, dépose à son tour un brevet[^1]. Quelques heures avant, Elisha Gray a voulu déposer un brevet similaire et pour lequel l'invention du téléphone à été refusée. Dans la même année, il inventa un télégraphe musical, ancêtre du synthétiseur.
 
-[ ^1]: https://patents.google.com/patent/US174465A/en?inventor=Alexander+Graham+Bell&sort=old - https://patents.google.com/patent/US178399A/en?inventor=Alexander+Graham+Bell&sort=old
+[^1]: https://patents.google.com/patent/US174465A/en?inventor=Alexander+Graham+Bell&sort=old - https://patents.google.com/patent/US178399A/en?inventor=Alexander+Graham+Bell&sort=old
 
 
 
@@ -394,11 +348,7 @@ L'époque contemporaine est également celle des **prémices de l'affichage num�
 
 Entre temps, **Louis Lumière** invente les plaques photographiques sèches instantanées prêtes à l'emploi, aussi appelées *Étiquettes bleues*, dévoilés en l'an 1881. Trois ans après, **Georges Eastman Kodak** inventa le premier **appareil photo**. S'en suivra, **Georges Demenÿ** qui en 1895 invente une **caméra** de prise de vues animées nommée biographe, puis viendra le Kinétographe d'Edison en 1890, et enfin, en 1895, le Cinématographe des frères lumières avec l'aide de Jules Carpentier.
 
-https://www.victorian-cinema.net/machines
-
-Pour faire la transition entre l'affichage numérique et les composants électroniques, je vous présente André Blondel, ingénieur polytechnique français et inventeur de l'oscillographe bifilaire en **1893**. C'est une machine électromécanique permettant d'étudier des courants alternatifs à l'aide de graphiques, et plus largement toute évolution d'un signal électronique dans le temps. Il inventera de nombreux autres dispositifs de mesures électriques comme un hystérésimètre et un wattmètre, il est également, avec l'aide de deux autres ingénieurs, à l'origine du barrage de Génissiat à la frontière Franco-Suisse. Par la suite, l'outil se perfectionnera avec l'ajout d'un écran cathodique, puis sa numérisation par LeCroy, Phillips et Tektronix.
-
-
+Pour faire la transition entre l'affichage numérique et les composants électroniques, je vous présente **André Blondel**, ingénieur polytechnique français et inventeur de l'**oscillographe bifilaire** en **1893**. C'est une machine électromécanique permettant d'étudier des courants alternatifs à l'aide de graphiques, et plus largement toute évolution d'un signal électronique dans le temps. Il inventera de nombreux autres dispositifs de mesures électriques comme un hystérésimètre et un wattmètre, il est également, avec l'aide de deux autres ingénieurs, à l'origine du barrage de Génissiat à la frontière Franco-Suisse. Par la suite, l'outil se perfectionnera avec l'ajout d'un écran cathodique, puis sa numérisation par LeCroy, Phillips et Tektronix.
 
 Au début du 20ème siècle, c'est en **1904** que **John Ambrose Fleming** (à ne pas confondre avec les biologistes Walther Flemming et Alexander Fleming qui ont respectivement découverts la mitose et la pénicilline à la même période) se base sur des travaux de Thomas Edison datant de 1883 et de Frederick Guthrie en 1873, pour appliquer leurs technologie dans le but de remplacer les détecteurs magnétique des radio et permettre d'amplifier leurs signaux. Il invente ainsi le *kénotron*, premier **tube à vide, ancêtre des diodes et semi-conducteurs**.
 
@@ -412,11 +362,11 @@ Maintenant que la base matérielle est en place, je vais introduire la partie th
 
 Entre **1844** et **1854**, **George Boole**, invente un algèbre binaire éponyme. Basé sur vrai et faux, 1 et 0, l'**algèbre booléen** formule les variables, opérations et fonctions logiques. Il a ainsi posé les bases de la logique moderne, qui sera reprise par les personnalités suivant ce paragraphe. Un peu plus d'une dizaine d'années après la naissance de l'algèbre de Boole, **Charles Sanders Peirce**, influencé par Bolzano, en enseignera et répandra les concepts aux États-Unis à partir de 1867. Peirce a introduit le pragmatisme comme philosophie mais aussi méthode scientifique, partant d'axiomes intuitifs pour en dégager un raisonnement logique, sa philosophie pragmatique influença à son tour John Dewey et bien d'autres. Dans ce cadre, il a élaboré une catégorisation en trois niveaux de clarté, la priméité qui est de l'ordre de la sensation permettant d'avoir une vague idée de la chose perçue. Vient ensuite la secondéité, en tant qu'idée singulière reliée ou corrélée à une autre. Et enfin la tiercéité, qui est l'interprétation ou la représentation du concept en lui même comme quelque chose d'habituel.  Philosophe mais surtout scientifique et logicien, il a contribué à la notation logique et il est le premier a avoir réalisé une table de vérité.[^1] Aujourd'hui encore, sa notation dite flèche de Peirce (A↓B) est utilisée pour induire une porte NOR (ni A ni B) entre deux proposition logiques.
 
-Gottlob Frege, plus jeune d'une dizaine d'année, a fait correspondre plusieurs principes mathématiques à la logique et l'arithmétique, dont celui du philosophe David Hume. A cet effet, il a développé la pensée selon laquelle les principes mathématiques ont un équivalent en logique et même que la logique serait un domaine incluant les mathématiques en son sein, ce mouvement de pensée a été nommé logicisme. Il a également repris la caractéristique universelle de Leibniz et développé une notation logique qu'il a décrit dans un ouvrage nommé *Idéographie* (*Begriffsschrift* en allemand) publié en 1879. Il y fait correspondre des notations mathématiques à ses notations logique. C'est alors que Bertrand Russel lui envoie un paradoxe empêchant d'aboutir son œuvre, paradoxe qu'il solutionnera lui même par la suite. Frege, se basant potentiellement sur *How To Make Ideas Clear* de Peirce, et avec l'aide Bertrand Russel, fonda également le mouvement de la philosophie analytique dans le but de clarifier les pensées. Russel à par la suite co-publié une œuvre de 1910 qui est au fondement de la logique mathématique. Elle est nommée *Principia Mathematica* et à été réalisée avec l'aide d'Alfred North Whitehead qui sera quant à lui le fondateur de la philosophie des processus. Par la suite, les travaux des logiciens cités précédemment seront repris et aboutit par le mathématicien et professeur d'université Ernst Schröder dans son *Vorlesungen über die Algebra der Logik* , puis par le philosophe Ludwig Wittgenstein dans *Tractatus Logico-Philosophicus*. Enfin, des suites d'un groupe de travail de Xerox voulant standardiser les charactères de code, la norme Unicode a petit à petit posé les bases des charactères logiques. De nos jours, nous pouvons donc écrire des propositions et des tables de vérités avec les principaux caractères logiques suivants : 
+**Gottlob Frege**, plus jeune d'une dizaine d'année, a fait correspondre plusieurs principes mathématiques à la logique et l'arithmétique, dont celui du philosophe David Hume. A cet effet, il a développé la pensée selon laquelle les principes mathématiques ont un équivalent en logique et même que la logique serait un domaine incluant les mathématiques en son sein, ce mouvement de pensée a été nommé **logicisme**. Il a également repris la caractéristique universelle de Leibniz et développé une **notation logique** qu'il a décrit dans un ouvrage nommé *Idéographie* (*Begriffsschrift* en allemand) publié en 1879. Il y fait correspondre des notations mathématiques à ses notations logique. C'est alors que **Bertrand Russel** lui envoie un paradoxe empêchant d'aboutir son œuvre, paradoxe qu'il solutionnera lui même par la suite. Frege, se basant potentiellement sur *How To Make Ideas Clear* de Peirce, et avec l'aide Bertrand Russel, fonda également le mouvement de la philosophie analytique dans le but de clarifier les pensées. Russel à par la suite co-publié une œuvre de 1910 qui est au fondement de la logique mathématique. Elle est nommée *Principia Mathematica* et à été réalisée avec l'aide d'**Alfred North Whitehead** qui sera quant à lui le fondateur de la philosophie des **processus**. Par la suite, les travaux des logiciens cités précédemment seront repris et aboutit par le mathématicien et professeur d'université **Ernst Schröder** dans son *Vorlesungen über die Algebra der Logik* , puis par le philosophe Ludwig Wittgenstein dans *Tractatus Logico-Philosophicus*. Enfin, des suites d'un groupe de travail de **Xerox** voulant standardiser les charactères de code, la norme **Unicode** a petit à petit posé les bases des charactères logiques. De nos jours, nous pouvons donc écrire des propositions et des tables de vérités avec les principaux caractères logiques suivants : 
 
-| Caractères :    |    A ⇒ B     |   A ⇔ B    |       **¬** A       | A ∧ B  | A ∨ B  |     A ⊻ B     |   A ↓ B   |                     ∀A : B                     |     A ⊢ B      |
-| :-------------- | :----------: | :--------: | :-----------------: | :----: | :----: | :-----------: | :-------: | :--------------------------------------------: | :------------: |
-| Signification : | Implique que | Equivaut à | Négation ou inverse | A et B | A ou B | Soit A soit B | Ni A ni B | Pout tout éléments de A, on réalise l'action B | A prouve que B |
+|    A ⇒ B     |   A ⇔ B    |       **¬** A       | A ∧ B  | A ∨ B  |     A ⊻ B     |   A ↓ B   |                       ∀A : B                        |     A ⊢ B      |
+| :----------: | :--------: | :-----------------: | :----: | :----: | :-----------: | :-------: | :-------------------------------------------------: | :------------: |
+| Implique que | Equivaut à | Négation ou inverse | A et B | A ou B | Soit A soit B | Ni A ni B | Pout tout éléments de A,<br />on réalise l'action B | A prouve que B |
 
 [^1]: Irving H. Annelis, « Peirce's Truth-functional Analysis and the Origin of the Truth Table »
 [^2]: https://courses.media.mit.edu/2004spring/mas966/Peirce%201878%20Make%20Ideas%20Clear.pdf
@@ -432,17 +382,15 @@ Gottlob Frege, plus jeune d'une dizaine d'année, a fait correspondre plusieurs 
 
 https://www.youtube.com/watch?v=RQYuyHNLPTQ
 
-Dans la section "[Premières machines à calculer](#Premières-machines-à-calculer)" du chapitre "époque moderne", j'ai introduis Basile Bouchon, Jean-Baptiste Falcon, et Vaucanson qui ont prototype le métier à tisser automatisé. Pour finir de tisser cette partie de l'histoire, **Joseph Marie** Jacquard invente en **1800** le **métier à tisser Jacquard**, complètement automatisé. Cette machine inspirera **Charles Babbage**, la première personne à avoir automatiser l'édition de tables de calcul. Il a initialement travaillé avec des calculateurs humains, "computers" en anglais, sa langue natale. La conception de telles tables étaient fastidieuses à superviser et encore plus à calculer et réaliser. Il a œuvré à développer une machine basée sur les méthodes de calcul de l'époque, réalisées par des gens qui étaient coiffeurs, ayant perdu leur travail suite à la révolution française, période après laquelle la coiffure étant vue comme symbole de l'aristocratie, a été délaissée. Ils effectuaient essentiellement des additions et des soustraction, sous la supervision de mathématiciens qui leurs prépareraient les formules d'après la méthode des différences finies. D'où le nom de la machine qu'il a inventé en **1834**, "la machine à différences". Ayant l'expérience du milieu, il voulait réaliser un système fiable, résilient a l'erreur. Cette dernière pouvait provenir du calcul, mais arrive le plus souvent lors de l'impression, il à donc fait en sorte, dès la phase de design, que sa machine prépare directement le texte en résultant pour l'impression. C'est une approche très intéressante, qui réduit les intermédiaires et automatise toute la chaine de création. La machine est un outil qui peut guider et réduire les erreurs, ce qui à l'époque était crucial, notamment en mer, où une erreur de calcul ou d'impression sur l'almanach du navigateur pouvait mener à la perte de tout un navire et de son équipage. De 1820 à 1830 il a visité beaucoup d'usines européennes dans le but de chercher des idées pour sa machine à différences. Il ne parvint pas à son objectif initial mais devint un économiste des machines industrielles de son époque. À peine eu t'il conçu la machine à différence, qu'il eu oublié la finalité de base : réaliser des tables de calcul, et il embrassa alors l'idée d'une machine capable de calculer tout ce qu'un humain pourrait lui demander, la Machine Analytique. De son vivant, seul le concept existait, elle ne vu le jour que grâce à son fils, qui après une tentative infructueuse en 1888, revint à la charge en 1906 et réalisa une machine fonctionnelle qu'il eu présenté devant l'académie royale anglaise d'astronomie, après quoi il en fit don au musée des sciences de Londres en 1910.
+Dans la section "[Premières machines à calculer](#Premières-machines-à-calculer)" du chapitre "époque moderne", j'ai introduis Basile Bouchon, Jean-Baptiste Falcon, et Vaucanson qui ont prototype le métier à tisser automatisé. Pour finir de tisser cette partie de l'histoire, **Joseph Marie** Jacquard invente en **1800** le **métier à tisser Jacquard**, complètement automatisé. Cette machine inspirera **Charles Babbage**, la première personne à avoir automatiser l'édition de tables de calcul. Il a initialement travaillé avec des calculateurs humains, pour lesquels la conception de telles tables étaient fastidieuses à superviser et encore plus à calculer et réaliser. Il a œuvré à développer une machine basée sur les méthodes de calcul de l'époque. Ils effectuaient essentiellement des additions et des soustraction, sous la supervision de mathématiciens qui leurs prépareraient les formules d'après la méthode des différences finies. D'où le nom de la machine qu'il a inventé en **1834**, "la **machine à différences**". Ayant l'expérience du milieu, il voulait réaliser un système fiable, résilient a l'erreur. Cette dernière pouvait provenir du calcul, mais arrive le plus souvent lors de l'impression, il à donc fait en sorte, dès la phase de design, que sa machine prépare directement le texte en résultant pour l'impression. C'est une approche très intéressante, qui réduit les intermédiaires et automatise toute la chaine de création. La machine est un outil qui peut guider et réduire les erreurs, ce qui à l'époque était crucial, notamment en mer, où une erreur de calcul ou d'impression sur l'almanach du navigateur pouvait mener à la perte de tout un navire et de son équipage. De 1820 à 1830 il a visité beaucoup d'usines européennes dans le but de chercher des idées pour sa machine à différences. Il ne parvint pas à son objectif initial mais devint un économiste des machines industrielles de son époque. À peine eu t'il conçu la machine à différence, qu'il eu oublié la finalité de base : réaliser des tables de calcul, et il embrassa alors l'idée d'**une machine capable de calculer tout ce qu'un humain pourrait lui demander, la Machine Analytique**. De son vivant, seul le concept existait, elle ne vu le jour que grâce à son fils, qui après une tentative infructueuse en 1888, revint à la charge en 1906 et réalisa une machine fonctionnelle qu'il eu présenté devant l'académie royale anglaise d'astronomie, après quoi il en fit don au musée des sciences de Londres en 1910.
 
-Le métier Jacquard et les travaux de Charles Babbage sont donc à l'origine de la programmation. Un programme est une prévision écrite, c'est ce qui permet de répondre à la question "Quoi faire quand ?". Le tout **premier programme** informatique à été imaginé pour cette fameuse Machine Analytique par **Ada Lovelace** en **1842**, à 27 ans. 10 ans auparavant, elle rencontre Charles Babbage, avec qui elle travailla, notamment sur la machine analytique, pour laquelle elle conçu ce dit programme. Héritant de toutes les technologies et concepts énoncés précédemment dans cette section, **Hermann Hollerit**h inventera la **mécanographie** 50 ans après qu'Ada ai écrit le premier programme informatique. Cet ingénieur américain a été recruté en tant que statisticien au Bureau de **recensement** des États Unis.
+Le métier Jacquard et les travaux de Charles Babbage sont donc à l'origine de la programmation. Un programme est une prévision écrite, c'est ce qui permet de répondre à la question "Quoi faire quand ?". Le tout **premier programme** informatique à été imaginé pour cette fameuse Machine Analytique par **Ada Lovelace** en **1842**, à 27 ans. 10 ans auparavant, elle rencontre Charles Babbage, avec qui elle travailla, notamment sur la machine analytique, pour laquelle elle conçu ce dit programme. Héritant de toutes les technologies et concepts énoncés précédemment dans cette section, **Hermann Hollerith** inventera la **mécanographie** 50 ans après qu'Ada ai écrit le premier programme informatique. Cet ingénieur américain a été recruté en tant que statisticien au Bureau de **recensement** des États Unis.
 
-Dans la fin du 18<sup>ème</sup> siècle, en 1790, le premier recensement estimait la population des États-Unis à 3.9 millions d'individus. En 1840, 28 greffiers ont travaillés à la réalisation d'une estimation de 17.1 millions. Enfin, le recensement de 1880 a nécessité 1495 greffiers qui devait scrupuleusement pointer avec une couleur d'encre particulière pour chaque statistique effectuée. Avec la méthode automatisée par cartes perforées d'Hermann Hollerith dévoilée l'an **1890**, la création d'un tableau statistique à été accélérée de 10 fois par rapport à ses concurrents, remplaçant bon nombre de greffiers. Il a construit une machine à statistiques à cartes perforées qui exploite des cartes 12x6cm regroupant les 210 cases nécessaires pour recevoir toutes les informations nécessaires. Son invention a permis d'effectuer le recensement auparavant manuel en seulement six ans. Par la suite, sur une idée de l'un de ses collègues, il a amélioré le fonctionnement de cette machine en utilisant un métier à tisser Jacquard pour mécaniser la lecture des fiches de recensement et améliorer son efficacité. Enfin, il finit par quitter l'administration et fonde la Tabulating Machine Company en 1896 qui fusionnera en 1911 avec 3 autres entreprise pour fonder la Computing-Tabulating-Recording Company (CTR). 
-
-
+Dans la fin du 18<sup>ème</sup> siècle, en 1790, le premier recensement estimait la population des États-Unis à 3.9 millions d'individus. En 1840, 28 greffiers ont travaillés à la réalisation d'une estimation de 17.1 millions. Enfin, le recensement de 1880 a nécessité 1495 greffiers qui devait scrupuleusement pointer avec une couleur d'encre particulière pour chaque statistique effectuée. Avec la méthode automatisée par cartes perforées d'Hermann Hollerith dévoilée l'an **1890**, la création d'un tableau statistique à été accélérée de **10 fois par rapport à ses concurrents**, remplaçant bon nombre de greffiers. Il a construit une **machine statistique à cartes perforées** qui exploite des cartes 12x6cm regroupant les 210 cases nécessaires pour recevoir toutes les informations nécessaires. Son invention a permis d'effectuer le recensement auparavant manuel en seulement six ans. Par la suite, sur une idée de l'un de ses collègues, il a amélioré le fonctionnement de cette machine en utilisant un métier à tisser Jacquard pour mécaniser la lecture des fiches de recensement et améliorer son efficacité. Enfin, il finit par quitter l'administration et fonde la Tabulating Machine Company en 1896 qui fusionnera en 1911 avec 3 autres entreprise pour fonder la Computing-Tabulating-Recording Company (CTR). 
 
 
 
-[Retour](#Sommaire)
+
 
 ### Guerres mondiales
 
@@ -450,13 +398,11 @@ Des suites de la [philosophie contemporaine](#Philosophie-contemporaine), la rel
 
 
 
-#### Efforts de guerre informationnels
+#### Guerre informationnelle et Anticipation
 
-Le conflit qui débute officiellement en 1914 est la première guerre à impliquer simultanément tout les pays, les machines de bureau deviennent électromécaniques, l'humain peut désormais rapidement transmettre des messages sur de longues distances à ses congénères à l'aide des télégraphes. Cette naissante industrie de l'information qu'est l'informatique cherchera à vendre des machine mécanographiques dans le monde entier. Elles serviront les gouvernement les plus puissant mais aussi les pires de cette époque, pendant laquelle une entreprise en particulier se démarquera des autres. Sa genèse en est marquée par la nouvelle technologie qu'est la mécanographie, et c'est Thomas Watson, qui après avoir travaillé à la récente et bien portante Nationnal Cash Register company (NCR), est embauché en 1914 pour diriger la regroupement d'entreprise de la CTR, et finira par fonder l'International Business Machines Corporation (IBM) après la guerre, en 1924.
+Le conflit qui débute officiellement en 1914 est la première guerre à impliquer simultanément tout les pays, les machines de bureau deviennent électromécaniques, l'humain peut désormais rapidement transmettre des messages sur de longues distances à ses congénères à l'aide des télégraphes. Cette naissante industrie de l'information qu'est l'informatique cherchera à vendre des machine mécanographiques dans le monde entier. Elles serviront les gouvernement les plus puissant mais aussi les pires de cette époque, pendant laquelle une entreprise en particulier se démarquera des autres. Sa genèse en est marquée par la nouvelle technologie qu'est la mécanographie, et c'est **Thomas Watson**, qui après avoir travaillé à la récente et bien portante Nationnal Cash Register company (NCR), est embauché en 1914 pour diriger la regroupement d'entreprise de la CTR, et finira par fonder l'International Business Machines Corporation (**IBM**) après la guerre, en **1924**.
 
-Dans les atelier de mécanographie, de multiples stations d'outils étaient présentes, parmi ces outils, les perforatrices chargées de créer et vérifier les données en perforant des cartes, les trieuses responsables de créer les différents lots de cartes, les inter-classeurs capables de réunir deux lots de cartes avec des informations différentes en une seule grâce à une colonne de donnée commune aux deux, et les reproductrices permettant de copier des cartes perforées en une seule perforation. Jusque là, ces premier outils mécanographique étaient appelés machines à statistiques. Les opérateurs devaient à chaque fois reprogrammer la tabulatrice à l'aide du tableau de connexion. Ce dernier représente le programme à l'aide de câbles qui permettent d'envoyer les données d'entrés dans les différents modules de calcul, puis de l'exécuter et récupérer le résultat affiché sur des roues totalisatrices gravées, pour enfin le recopier à la main et produire de nouveaux programmes en cartes perforés à partir de ces résultats.  Ce processus était aussi long que mes phrases, c'est pourquoi en l'an **1920**, **Hollerith** présente la première machine avec module d'impression et tableaux de connexion amovibles interchangeable, permettant ainsi de rapidement changer le programme d'une machine, qui sera désormais appelée **tabulatrice**. 11 ans plus tard, en 1931, IBM sort le modèle 601, ce calculateur électromécanique est la première machine d'IBM capable de multiplier deux nombre provenant de cartes en entrée et de perforer la valeur en résultant. Elle est d'ailleurs surnommée la Multiplying Punch.
-
-Les téléscripteurs auparavant utilisés par les opérateurs télégraphiques ont étés rendus obsolètes par le téléphone. Ils seront cependant réutilisés pour encoder des caractères qui seront convertis en binaire dans le but de travailler et perforer des cartes à distance. En 1935 né le réseau Telegraph Exchange ou TELEX qui permettra à deux téléscripteurs ou plus de communiquer par ondes radios, une technologie au cœur des avancés de l'entre deux guerres.
+Dans les **ateliers de mécanographie**, de multiples stations d'outils étaient présentes, parmi ces outils, les *perforatrices* chargées de créer et vérifier les données en perforant des cartes, les *trieuses* responsables de créer les différents lots de cartes, les *inter-classeurs* capables de réunir deux lots de cartes avec des informations différentes en une seule grâce à une colonne de donnée commune aux deux, et les reproductrices permettant de copier des cartes perforées en une seule perforation. Jusque là, ces premier outils mécanographique étaient appelés machines à statistiques. Les opérateurs devaient à chaque fois reprogrammer la tabulatrice à l'aide du tableau de connexion. Ce dernier représente le programme à l'aide de câbles qui permettent d'envoyer les données d'entrés dans les différents modules de calcul, puis de l'exécuter et récupérer le résultat affiché sur des roues totalisatrices gravées, pour enfin le recopier à la main et produire de nouveaux programmes en cartes perforés à partir de ces résultats.  Ce processus était aussi long que mes phrases, c'est pourquoi en l'an **1920**, **Hollerith** présente la première machine avec module d'impression et tableaux de connexion amovibles interchangeable, permettant ainsi de rapidement changer le programme d'une machine, qui sera désormais appelée **tabulatrice**. 11 ans plus tard, en 1931, IBM sort le modèle 601, ce calculateur électromécanique est la première machine d'IBM capable de multiplier deux nombre provenant de cartes en entrée et de perforer la valeur en résultant. Elle est d'ailleurs surnommée la Multiplying Punch. Les **téléscripteurs** auparavant utilisés par les opérateurs télégraphiques ont étés rendus obsolètes par le téléphone. Ils seront cependant réutilisés pour encoder des caractères qui seront convertis en binaire dans le but de travailler et **perforer des cartes à distance**. En 1935 né le réseau Telegraph Exchange ou **TELEX** qui permettra à deux téléscripteurs ou plus de communiquer par **ondes radios**, une technologie au cœur des avancés de l'entre deux guerres.
 
 Le radar est un outil de détection et d'estimation de la distance utilisant les ondes radio (RAdio Detection And Ranging). Sa création découle des travaux de James Clerk Maxwell et Heinrich Rudolf Hertz utilisés par Albert Hull, l'inventeur du magnétron, machine capable de convertir l'énergie cinétique des électrons en ondes électromagnétiques à l'aide de tubes à vide. En **1934**, la Compagnie générale de télégraphie Sans Fil française (CSF) étudie le magnétron et développe les premiers radars décimétriques[^1]. Dans le début des années 1900 le sonar était déjà bien étudié et mis en application, et pour cause, il utilise le son audible par l'oreille humaine, comme onde permettant le calcul de distances. Rudolf Kühnhold était spécialiste du domaine mais décida en 1931 de se consacrer aux ondes électromagnétiques. C'est ainsi que la même année que le dépôt de brevet de la CSF, il abouti simultanément et indépendamment de cette dernière, la création d'un système de télémètre radio.
 
@@ -468,30 +414,26 @@ C'est l'année suivante, en **1935** que **Robert Watson-Watt**, que l'on retien
 
 En **1936** Alan Turing invente une expérience de pensée présentant une machine nommée d'après son nom. Cette **machine de Turing** est à la base de l'informatique théorique, c'est une métaphore du fonctionnement de tout appareil de calcul, elle à posé les bases de la complexité algorithmique et de la calculabilité. Imaginez un **ruban infini** composé de cases numérotées, toutes ces cases possèdent initialement un zéro. Sur ce ruban est situé un **agent** capable de lire et écrire les symboles sur le ruban, ainsi que de se déplacer sur la case précédente ou suivante. Un **registre** viendra mémoriser la suite d'**états** allant de celui initial, jusqu'à actuel, le nombre d'état est limité et fini. Enfin, cet état permet grâce à une **table d'action** d'indiquer à la machine quel action réaliser, que ce soit un déplacement, une lecture ou une écriture, ainsi que le nouvel état après réalisation de l'action. Si aucune action ne correspond à l'état actuel et au symbole qui bien d'être lu alors la machine s'arrête.
 
-Avec ses quatre simples composant, il est possible, tout comme Alan l'indique dans sa publication, de créer une Machine de Turing universelle, capable de simuler le comportement de n'importe quelle autre machine de Turing, Un tel système est Turing-complet. C'est ainsi la raison pour laquelle on peut utiliser un ordinateur pour simuler une machine virtuelle, ou utiliser des jeux Turing-complete comme Minecraft[^1] Terraria[^2]  ou Factorio[^3] pour reproduire une processeur, un affichage graphique, et ainsi une version simplifié du jeu à l'intérieur de son propre monde virtuel. Il existe également un ludiciel du même nom qui guide le joueur et l'élève, on peut y apprendre l’électronique pas à pas, dans un logiciel qui simule sa logique, et permet de reproduire des circuits complexes et comprendre le fonctionnement des langages assembleurs, qui naîtrons 13 ans après l'expérience de pensée de Turing.[^4]
+Avec ses quatre simples composant, il est possible, tout comme Alan l'indique dans sa publication, de créer une Machine de Turing universelle, capable de simuler le comportement de n'importe quelle autre machine de Turing, Un tel système est **Turing-complet**. C'est ainsi la raison pour laquelle on peut utiliser un ordinateur pour simuler une machine virtuelle, ou utiliser des jeux Turing-complete comme Minecraft[^1], Terraria[^2], ou Factorio[^3] pour reproduire une processeur, un affichage graphique, et ainsi une version simplifié du jeu à l'intérieur de son propre monde virtuel. Il existe également un ludiciel du même nom qui guide le joueur et l'élève, on peut y apprendre l’électronique pas à pas, dans un logiciel qui simule sa logique, et permet de reproduire des circuits complexes et comprendre le fonctionnement des langages assembleurs, qui naîtrons 13 ans après l'expérience de pensée de Turing.[^4]
 
 [^1]: https://www.youtube.com/watch?v=-BP7DhHTU-I
 [^2]: https://www.youtube.com/watch?v=7lVAFcDX4eM
 [^3]: https://youtube.com/watch?v=zXPiqk0-zDY 
 [^4]: https://store.steampowered.com/app/1444480/Turing_Complete/
 
-Pionnier de l'intelligence artificielle il proposera également le Test de Turing permettant de tester la faculté d'une machine à imiter une conversation humaine. Il la décrivit dans sa publication *Computing Machinery and Intelligence* comme un *jeu d'imitation* qui donnera le titre du film récent abordant une partie de sa vie.
+Pionnier de l'intelligence artificielle il proposera également le **Test de Turing** permettant de tester la faculté d'une machine à imiter une conversation humaine. Il la décrivit dans sa publication *Computing Machinery and Intelligence* comme un *jeu d'imitation* qui donnera le titre du film récent abordant une partie de sa vie. Enfin, alors que la série de machines Allemandes **Enigma**, dont le brevet à été déposé à la fin de la première guerre mondiale, chiffre des messages de guerre depuis des dizaines d'années en utilisant le chiffrement par substitution poly-alphabétique de Vigenère, et dont une énième version sert en cette période de seconde guerre mondiale. Alan Turing s'est consacré à son déchiffrement en se basant sur les travaux du cryptologue polonais **Marian Rejewski**, qui a étudié un **exemplaire d'un manuel** d'Enigma montrant le chiffrement d'un texte en clair à l'aide d'une clé et de son résultat chiffré. Pour arriver à ses objectifs, il conçut une **Bombe cryptologique électromécanique** qui utilise la **force brute**, de l'anglais brute-force, c'est à dire qu'elle vérifie toutes les combinaisons. Cette machine sera capable de casser les codes d'Enigma utilisé pendant la période de seconde guerre mondiale évoquée dans cette section. Il est estimé que le déchiffrement d'Enigma à réduit d'au moins deux ans la durée de la guerre.
 
-Enfin, alors que la série de machines Allemandes Enigma, dont le brevet à été déposé à la fin de la première guerre mondiale, chiffre des messages de guerre depuis des dizaines d'années en utilisant le chiffrement par substitution poly-alphabétique de Vigenère, et dont une énième version sert en cette période de seconde guerre mondiale. Alan Turing s'est consacré à son déchiffrement en se basant sur les travaux du cryptologue polonais Marian Rejewski, qui a étudié un exemplaire d'un manuel d'Enigma montrant le chiffrement d'un texte en clair à l'aide d'une clé et de son résultat chiffré. Pour arriver à ses objectifs, il conçut une Bombe cryptologique électromécanique qui utilise la force brute, de l'anglais brute-force, c'est à dire qu'elle vérifie toutes les combinaisons. Cette machine sera capable de casser les codes d'Enigma utilisé pendant la période de seconde guerre mondiale évoquée dans cette section. Il est estimé que le déchiffrement d'Enigma à réduit d'au moins deux ans la durée de la guerre.
+Dans l'autre camp, l'ingénieur allemand **Zuse Konrad** commença à travailler sur une série de quatre calculateurs éponymes nommés Zuse la même année que l'invention de la Machine de Turing. La première version, le Z1, était un calculateur mécanique qui sera abouti en **1938** bien que peu fiable, certaines pièces ayant étés réalisés manuellement à la scie, dans la chambre de ses parents qui l'ont soutenu financièrement. La deuxième version en sera une version améliorée sortie en 1940, réutilisant la mémoire mécanique qui était elle très fiable, mais remplaçant l'unité arithmétique en utilisant des relais électriques. Le **Z3**, achevé en **1941**, est un calculateur électromécanique qui sera considéré comme le **premier ordinateur numérique**, il était entièrement automatique et programmable, utilisant le calcul binaire et à virgule flottante. Cette troisième version s'avèrera être théoriquement Turing-complet, mais ne fut pas considéré pleinement comme tel car ne possédant pas de branchement conditionnel permettant de ne pas aller à l'adresse mémoire suivante, mais vers une adresse spécifique en fonction de la satisfaction ou non d'une condition. La quatrième et dernière version en **1953**, sera la **premier ordinateur commercial au monde**, avant même le Ferranti Mark I et l'UNIVAC 1. Konrad sera ailleurs plus considéré comme un scientifique de production et d'affaire qu'un chercheur, contrairement à Alan Turing ou Von Neumann qui conceptualisaient et publiaient avant de passer aux applications. Cela ne l'empêcha pas d'être un pionnier de l'informatique qui conçut également, de 1942 à 1946, le **premier langage de programmation** haut niveau théorique nommé **Plankalkül**, bien qu'il fut oublié de son temps et repris qu'en 1975 puis compilé en 2000 cinq ans après sa mort.
 
-Dans l'autre camp, l'ingénieur allemand **Zuse Konrad** commença à travailler sur une série de quatre calculateurs éponymes nommés Zuse la même année que l'invention de la Machine de Turing. La première version, le Z1, était un calculateur mécanique qui sera abouti en **1938** bien que peu fiable, certaines pièces ayant étés réalisés manuellement à la scie, dans la chambre de ses parents qui l'ont soutenu financièrement. La deuxième version en sera une version améliorée sortie en 1940, réutilisant la mémoire mécanique qui était elle très fiable, mais remplaçant l'unité arithmétique en utilisant des relais électriques. Le Z3, achevé en 1941, est un calculateur électromécanique qui sera considéré comme le premier ordinateur numérique, il était entièrement automatique et programmable, utilisant le calcul binaire et à virgule flottante. Cette troisième version s'avèrera être théoriquement Turing-complet, mais ne fut pas considéré pleinement comme tel car ne possédant pas de branchement conditionnel permettant de ne pas aller à l'adresse mémoire suivante, mais vers une adresse spécifique en fonction de la satisfaction ou non d'une condition. La quatrième et dernière version en 1953, sera la premier ordinateur commercial au monde, avant même le Ferranti Mark I et l'UNIVAC 1. Konrad sera ailleurs plus considéré comme un scientifique de production et d'affaire qu'un chercheur, contrairement à Alan Turing ou Von Neumann qui conceptualisaient et publiaient avant de passer aux applications. Cela ne l'empêcha pas d'être un pionnier de l'informatique qui conçut également, de 1942 à 1946, le premier langage de haut niveau nommé Plankalkül, bien qu'il fut oublié de son temps et repris qu'en 1975 puis compilé en 2000 cinq ans après sa mort. Son histoire nous montre qu'avec de la motivation et le soutien de nos proches, on peut devenir un pionnier, voire le premier à développer une technologie donnée, quitte à n'être que peu connu, même perdre des travaux, et que d'autres ne soient redécouverts et exploités que plus tard.
+Les moyens de détection, de communication et de calculs se sont donc améliorés, de même que le stockage de l'information. En effet, lors de l'Exposition universelle de Paris qui a eu lieu en 1900, **Valdemar Poulsen** présente son invention d'un système d'**enregistrement magnétique sur fil** nommé télégraphone. Inspiré par ces travaux **Fritz Pfleumer** invente la **bande magnétique** en 1928 dans le but d'enregistrer du son comme ça sera le cas la même année avec le **magnétophone** de **Karl Stille** lui même inspiré du télégraphone. Quelques années après sera perfectionné la bande magnétique en acier, et une dizaine années plus tard, vers 1940, naîtra la première bande magnétique en plastique. En temps, c'est en 1932 que l'ingénieur **Gustav Tauschek**, invente une nouvelle méthode de mémoire vive magnétique possédant un temps de lecture de seulement quelques millisecondes contre plusieurs centaines auparavant. Cette technologie dite **mémoire tambour** sera utilisé dans la conception de plusieurs machines dont le Manchester Mark I, l'ENIAC, l'IBM 650, l'IBM 701, et l'UNIVAC 1103 (version scientifique).
 
-Les moyens de détection, de communication et de calculs se sont donc améliorés, de même que le stockage de l'information. En effet, lors de l'Exposition universelle de Paris qui a eu lieu en 1900, Valdemar Poulsen présente son invention d'un système d'enregistrement magnétique sur fil nommé télégraphone. Inspiré par ces travaux Fritz Pfleumer invente la bande magnétique en 1928 dans le but d'enregistrer du son comme ça sera le cas la même année avec le magnétophone de Karl Stille lui même inspiré du télégraphone. Quelques années après sera perfectionné la bande magnétique en acier, et une dizaine années plus tard, vers 1940, naîtra la première bande magnétique en plastique. En temps, c'est en 1932 que l'ingénieur Gustav Tauschek, invente une nouvelle méthode de mémoire vive magnétique possédant un temps de lecture de seulement quelques millisecondes contre plusieurs centaines auparavant. Cette technologie dite mémoire tambour sera utilisé dans la conception de plusieurs machines dont le Manchester Mark I, l'ENIAC, l'IBM 650, l'IBM 701, et l'UNIVAC 1103 (version scientifique).
+Plusieurs calculateurs seront également construit pour l'effort de guerre, que se soit pour effectuer différents calculs balistiques ou pour la cryptanalyse. Le Colossus Mark 1 sera par exemple utilisé pour **déchiffrer** les messages produits par les **machines de Lorenz**, utilisés par l'Allemagne nazie pour faire communiquer les haut dirigeants de Berlin et ceux des différents corps d'armée en utilisant un chiffrement de flux en continue. La version 2 du Colossus sera quand à elle utilisé pour le débarquement de Normandie.
 
-Plusieurs calculateurs seront également construit pour l'effort de guerre, que se soit pour effectuer différents calculs balistiques ou pour la cryptanalyse. Le Colossus Mark 1 sera par exemple utilisé pour déchiffrer les messages produits par les machines de Lorenz, utilisés par l'Allemagne nazie pour faire communiquer les haut dirigeants de Berlin et ceux des différents corps d'armée en utilisant un chiffrement de flux en continue. La version 2 du Colossus sera quand à elle utilisé pour le débarquement de Normandie.
-
-L'IBM Automatic Sequence Controlled Calculator (ASCC) datant de **1944** est le premier calculateur entièrement automatique, il est aussi connu sous le nom de Harvard Mark I. Une fois lancé, il calculait pendant des heures en suivant le programme qui lui était donné à l'aide de cartes perforées. Ces avancés lui ont valu une couverture médiatique dans la presse, voyant cette machine comme un robot intelligent pouvant trouver toutes les réponses mathématiques. Cette machine ne possédait pourtant pas encore de branchement conditionnel alors que la machine analytique de Babbage, bien que jamais construite, stipulait déjà cette fonctionnalité. Les programmes était alors très long et ils possédaient des Relay Switches qui pouvaient casser. L'ASCC a permis la réalisation de tables et la réalisations de premières expérimentations notamment par Grace Hopper.
+L'IBM Automatic Sequence Controlled Calculator (**ASCC**) datant de **1944** est le **premier calculateur entièrement automatique**, il est aussi connu sous le nom de **Harvard Mark I**. Une fois lancé, il calculait pendant des heures en suivant le programme qui lui était donné à l'aide de cartes perforées. Ces avancés lui ont valu une couverture médiatique dans la presse, voyant cette machine comme un robot intelligent pouvant trouver toutes les réponses mathématiques. Cette machine ne possédait pourtant pas encore de branchement conditionnel alors que la machine analytique de Babbage, bien que jamais construite, stipulait déjà cette fonctionnalité. Les programmes était alors très long et ils possédaient des Relay Switches qui pouvaient casser. L'ASCC a permis la réalisation de tables et la réalisations de premières expérimentations notamment par Grace Hopper.
 
 https://www.youtube.com/watch?v=MOUg25dJM4c
 
 
-
-#### Anticipation
 
 La théorie des jeux, comme son nom l'indique, étudie les jeux et plus notamment le comportement des joueurs et leurs décisions. Elle se base sur l'hypothèse qu'ils effectuent toujours un choix rationnel en fonction des connaissances à leur disposition, et ce dans le but de maximiser leurs gains et à minimiser leurs pertes. La plus ancienne démonstration de la sorte que je connaisse est le Pari de Blaise Pascal, déclarant que si Dieu n'existe pas, alors y croire comme le renier n'as pas d'importance, mais dans l'hypothèse où il existe, alors il vaut mieux y croire pour ne pas finir en enfer. Le choix rationnel permettant les gains potentiels maximum serait ainsi de croire en Dieu. Avant même les deux guerres mondiales, Ernst Zermelo, un assistant de Max Planck, a jeté les bases de la formalisation mathématique des jeux à somme nulle avec un article "*Sur une application de la théorie des ensembles à la théorie du jeu d'échecs*" publié en 1913. Émile Borel, pionnier de la théorie des mesure, des probabilités, et des jeux, publiera un article sur ce dernier domaine dans les *Comptes rendus hebdomadaires des séances de l'Académie des sciences* du 1er juillet 1921[^1]. Puis en 1940 il publia également un guide de "*Théorie mathématique du bridge à la portée de tous*" coécrit avec l'aide d'André Chéron.
 
@@ -499,7 +441,7 @@ La théorie des jeux, comme son nom l'indique, étudie les jeux et plus notammen
 
 Ces théories seront également appliqués au jeux économiques, Antoine Augustin Cournot fut pionnier en 1838 dans ses "*Recherches sur les principes mathématiques de la théorie des richesses*" dans lesquelles il analysa un duopole et vint a être l'un des premier à déclarer qu'il existe un équilibre entre l'offre et la demande. Il faudra attendre 1944 pour qu'Oskar Morgenstern et John von Neumann formalisent ce domaine de recherche dans leur ouvrage "*Théorie des jeux et du comportement économique*". Enfin, John Forbes Nash, aboutira les travaux de Cournot et inventera lui aussi un équilibre a son nom, le fameux équilibre de Nash. De la même manière que le radar à permis d'anticiper la venue d'ennemis, la théorie des jeux permet d'analyser et de prédire les actions qui sont les plus intéressantes ou probables d'arriver.
 
-Je vais désormais vous présenter une personnalité qui a anticipé l'avenir de l'informatique. **Vannevar Bush** était un chercheur en électrotechnique au MIT, co-créateur de l'analyseur différentiel résolvant des équations différentielles à l'aide de machines analogiques composées d'engrenages ; puis créateur du Comparator et du Rapid Selector en 1940, destinés au traitement automatique des microfilms de stockage analogique. Titulaire d’une chaire à l’ancêtre de la NASA alors nommé NACA, il sera également conseiller scientifique de Roosevelt et parmi les chercheurs du projet Manhattan de 1945, pour lesquelles il assistera aux premier essais de la bombe nucléaire. C'est d'ailleurs un mois avant les bombardements atomiques d'Hiroshima et Nagasaki, alors que la seconde guerre mondiale se termine, en **juillet 1945**, qu'il publia *As we may think* dans le mensuel The Atlantic.
+Je vais désormais vous présenter une personnalité qui a anticipé l'avenir de l'informatique. **Vannevar Bush** était un chercheur en électrotechnique au MIT, co-créateur de l'analyseur différentiel résolvant des équations différentielles à l'aide de machines analogiques composées d'engrenages ; puis créateur du Comparator et du Rapid Selector en 1940, destinés au traitement automatique des microfilms de stockage analogique. Titulaire d’une chaire à l’ancêtre de la NASA alors nommé NACA, il sera également conseiller scientifique de Roosevelt et parmi les chercheurs du projet Manhattan de 1945, pour lesquelles il assistera aux premier essais de la bombe nucléaire. C'est d'ailleurs un mois avant les bombardements atomiques d'Hiroshima et Nagasaki, alors que la seconde guerre mondiale se termine, en **juillet 1945**, qu'il publia *As we may think*[^vb] dans le mensuel The Atlantic.
 
 Cet article est un appel aux scientifiques, qui ont alors mis leurs savoirs au service de la guerre, semblant à juste titre arriver à sa fin ; de désormais partager la connaissance, trouver des moyens d'inscrire une information de manière quasi permanente, et de la retrouver plus facilement, déplorant que les travaux de certaines personnes comme le concept des lois de la génétique de Mendel, aient été perdus pendant toute une génération du fait que sa publication n'ai à l'époque pas atteint un public capable de reprendre ses travaux. Il indique que contrairement à Babbage et Leibniz, la situation technologique et économique nous permet désormais de stocker et gérer l'information scientifique afin qu'elle soit conservée, transmise et surtout consultée, à l'aide de machines de moins en moins chères et de plus en plus fiables, dont ils sont tout deux pionniers.
 
@@ -509,17 +451,9 @@ D'un point de vue de l'information, il énoncera plusieurs concept dont la séle
 
 Ces concepts seront sources d'inspiration pour la construction du world wide web avec l'hypertexte, les sélecteurs HTML, et même Wikipédia dont l'usage du memex décrit en réalité parfaitement le fonctionnement, formant comme il l'indique "une nouvelle forme d'encyclopédie formée de chemins associatifs interconnectés".
 
-https://www.w3.org/History/1945/vbush/vbush.txt
-
-
+[^vb]: https://www.w3.org/History/1945/vbush/vbush.txt
 
 Dans le sous-chapitre précédent, j'ai brièvement parlé de calculateurs capables d'effectuer des calculs balistiques, l'anticipation du résultat d'un tir à longtemps été la préoccupation des militaires. Il est tout aussi important de toucher sa cible que d'éviter une balle perdue qui pourrait toucher des civils. Je vais donc brièvement développer sur l'automatisation du calcul balistique avec la présentation de la Moore School, un établissement universitaire de Pennsylvanie dédié à la formation d'ingénieur en électronique, qui voit le jour en 1923. À la même période apparaît le Ballistic Research Laboratory, qui comme son nom l'indique, est un établissement de recherche en balistique. Ces deux établissement auront une importance cruciale dans le développement de l'informatique. En **1937**, un professeur de mathématiques et de physique nommé **John Vincent Atanasoff** entreprends, avec l'aide de **Clifford Berry** un de ses étudiants diplômé, la création d'une machine à calculer électronique. Deux ans plus tard, en 1939 une machine rudimentaire est alors existante mais incomplète, elle sera nommée **Atanasoff Berry Computer** (ABC). Pendant son développement, ils ont apporté des idées pionnières et innovantes comme l'arithmétique binaire, l'utilisation d'éléments de commutation électronique, ou encore la parallélisation. La construction de cette machine est d'ailleurs la première à intégrer des tubes à vides et elle sera considérée comme la première unité arithmétique logique qui compose aujourd'hui les processeurs. En 1940 Atanasoff et Berry présentent leur machine à **John William Mauchly**, qui a voulu apporter une solution à la réalisation de tables de tir, permettant de régler correctement une arme balistique pour atteindre sa cible avec si possible un seul réglage plutôt que de devoir faire un essai approximatif et réajuster en fonction de la trajectoire observée comme c'était le cas jusque là. En 1942 la machine est testé avec succès et sera utilisée pour trouver des solutions à des équations linéaires. Par la suite, Mauchly s'allie à **John Adam Presper Eckert** et ils travaillent sur la réalisation de l'**ENIAC** à la Moore School à partir de juin 1943, afin de pouvoir calculer des trajectoires balistiques. Il sera quant à lui le premier ordinateur électronique Turing Complet. Même si il a été pensé par 2 hommes, l'ENIAC à été programmé par 6 femmes, qui ont documenté, codé et branché des millions de câbles. Des suites de la réalisation de l'ENIAC, Mauchly et Eckert formeront la Eckert-Mauchly Computer Corporation en 1946. Malheureusement, la mort de leur investisseur principal lors d'un trajet en avion les poussera à revendre leur entreprise à Remington par la suite. Elle sera ensuite racheté par Sperry Corporation après fusion avec la Burroughs Corporation en 1986, et deviendra Unisys, 100 ans après sa création en 1886.
-
-
-
-
-
-[Retour](#Sommaire)
 
 ### Guerre froide
 
@@ -527,9 +461,7 @@ La seconde guerre mondiale prends fin et c'est officiellement l'époque contempo
 
 
 
-
-
-#### Genèse de l'informatique
+#### Genèse de l'informatique modernep
 
 Beaucoup d'ordinateurs ont été réalisés en **1945**, au crépuscule des deux guerres mondiales. Parmi eux, l'EDVAC, l'ENIAC, le SSEC succédant au ASCC, et le Z4. John Von Neumann lors de ses travaux sur l'EDVAC, à décrit une architecture qui a permis au stockage de posséder les instructions du programme ainsi que la donnée à traiter sur le même support, permettant également aux instructions du programme d'être traités comme de la donnée, et donc de pouvoir être lu et réécrite. Cette architecture dite de Von Neumann sera réutilisée par Alan Turing et tout les ordinateurs à partir de cette date. Mauchly et Eckert modifieront également l'ENIAC avec l'aide de Von Newmann lui même pour implémenter son concept. 
 
@@ -548,8 +480,6 @@ Le premier ordinateur commercial  sorti en **1951** s'appelle Universal Automati
 En **1957**, **John Backus** ingénieur d'IBM, invente le Formula Translator ou **FORTRAN**, un langage de programmation haut niveau de troisième génération qui produira des programmes binaires aussi performants que ceux des programmeurs expérimentés. Il a initialement conçu ce langage comme une solution à un problème, suite à la constatation que plus de la moitié des coûts des centres informatiques était dus aux salaires des développeurs, qui passent jusqu’à la moitié de leurs temps à tester et debugger plutôt qu'a produire du code. À cela s'ajoute le fait que le coût des machine devenant de moins en moins cher, ce pourcentage ne ferait alors qu'augmenter si rien n'était fait. C'est en présentant cette logique à son supérieur qu'il obtint l'autorisation de travailler sur ce projet qui n'a eu à son début que peu de reconnaissance, considéré comme un projet de recherche tentant de réaliser l'impossible, et n'ayant aucune garantie de résultats.
 
 Lorsque Backus et son équipe ont présenté le projet à des développeurs, ils étaient tous sceptique. Leurs attentes étaient hautes et le FORTRAN encore approximatif et inabouti. Cela faisait en effet plusieurs années que les salariés d'IBM entendaient parler de "programmation automatique", ce concept permet d'automatiser la programmation bas niveau en utilisant un langage de plus haut niveau d'abstraction pour ainsi factoriser les instructions à la manière de programmes comme les assembleurs, interpréteurs, compilateurs et générateurs de programmes. Ce type de programme s’exécutant sur d'autre programmes voire dans certains cas sur eux même sont du domaine de la méta-programmation. La réalisation comme la popularité du FORTRAN ont donc pris du temps à se mettre en place. Son développement et son adoption ont été accéléré par l’édition de manuels simplifies comme le *Programmer's Primer* de Grace E. Mitch.
-
-
 
 Par la suite, le **Lisp** sera inventé en **1958** par **John Mc Carthy**, et **Grace Hopper** inventera le **COBOL**, un langage haut niveau qui verra le jour en **1959**. Dans ce langage, les instructions étaient moins technique et plus lisible, donnant l'illusion aux décisionnaires que n'importe qui pourrait comprendre les programmes qui en découlent, pour preuve, celle pour calculer le salaire net d'un employé à partir de son salaire brut était ainsi :
 
@@ -571,8 +501,6 @@ George Valley, professeur de physique au MIT, alors membre du conseil scientifiq
 
 Ce système en temps réel donnera lieu, dans les années suivantes, au projet SABRE de réservation aériennes, jusqu'alors manuel et fastidieux, qui sera lui même généralisé à bien d'autres système comme le bancaire avec l'apparition des cartes de crédits, distributeurs automatiques, codes barres, et plus tard paiements en ligne. Plus récemment, les usa ont déclarer que les ovnis sont un problème de sécurité nationale, cela laisse penser que se système est surement encore dans les tuyaux.
 
-
-
 Perry Crawford avait prédit que le temps réel ne permettrait pas seulement la simulation d'un avion, mais la visualisation en temps réel de tout le trafic aérien, comme c'est le cas aujourd'hui en source ouverte. Les circuits imprimés, écrans cathodiques et mémoire à tores seront grâce à ce projet, et aux intervenant comme IBM, Burroughs, ou Bell ; rapidement démocratisés et vendus aux particulier dans les années 1960. Le développement des écran causera également la naissance de nouvelles interfaces bien plus pratiques.
 
 
@@ -589,41 +517,15 @@ Le Ferranti Mark 1, aussi connu comme le Manchester Electronic Computer, est le 
 
 L'UNIVAC I a fait grandement peur à IBM qui craignant de perdre une partie importante du marché civil, bien que cela ne fut pas le cas. Leur réponse à été de confier la réalisation d'un ordinateur à Nathaniel Rochester, qui a travaillé sur la technologie Radar, les éléments arithmétiques du projet Whirlwind I, les prémices de l'intelligence lors de travaux d'études sur la reconnaissance de schémas et la théorie de l'information qu'il a dirigé à IBM.
 
-IBM dévoila ainsi le modèle IBM 701 en **1952**, premier ordinateur scientifique produit en masse, aussi connu sous le nom de Defense Calculator. Il possédait une mémoire tambour, utilisant le premier langage assembleur, conçu par Rochester.
+IBM dévoila ainsi le modèle IBM 701 en **1952**, premier ordinateur scientifique produit en masse, aussi connu sous le nom de Defense Calculator. Il possédait une mémoire tambour, utilisant le premier langage assembleur, conçu par Rochester. L'année d'après en **1953**, John Backus, alors ingénieur d'IBM, créé le Speedcoding, un interpréteur qui a été le premier langage de programmation de haut niveau créé pour un ordinateur IBM. Bien qu'il s'appelle Speedcoding, et qu'il ai facilité le développement en fournissant des instructions pour les fonctions mathématiques, le fait que ce soit un interpréteur le rendait particulièrement lent, 10 à 20 fois plus que du code machine, de plus, il prenait 30% de la mémoire à lui seul. Malgré cela, il a permis la prise en charge des nombres à virgule flottante sur les ordinateurs IBM 701. L'IBM 702 lui succédera la même année, il est le premier ordinateur muni de dérouleur de bandes magnétiques, il était moins puissant que le 701 ou le ERA 1103 mais avait contrairement à eux, les civils pour cible commerciale. Contrairement à l'UNIVAC, sa mémoire n'était pas constituée de ligne à retard analogiques, mais elle était électrostatique en utilisant des tubes de William, deux fois plus rapide et plus fiable. De plus, contrairement au monolithe qu'était l'UNIVAC, son design étant modulaire et composé de boites reliées entre elles, l'ordinateur pouvait être transporté dans la majorité des ascenseurs. Après son annonce, IBM arrive à réaliser 50 commandes en 10 mois. Toujours en **1953**, est développée la mémoire à tores magnétique qui a révolutionné pendant une vingtaine d'année la mémoire vive. Constitué d'anneaux de ferrite polarisés, correspondant à un bit de 0 ou 1 en fonction du sens du champ magnétique, tous traversés par des fils conducteurs. Se basant sur l'hystérésis, faire passer un courant dans un fil permettait de lire, ou d'écrire si le courant est assez élevé, la valeur des tores. Cette technologie à poussé IBM a rééditer ses modèles 701 et 702 avec ce type de mémoire, en plus de la création de nouveau modèles l'utilisant comme le 650, 704 et 705 EDPM. L'année suivante, sortira l'IBM 650 de **1954**, modèle le plus populaire des années 50, et pour cause, il coûtait seulement un quart du prix d'un 701, et a été vendu à de nombreuses universités, créant toute une génération de programmeur. Faisant de lui le premier ordinateur produit en masse dans le monde et la première machine d'IBM à réaliser un profit significatif.
 
-L'année d'après en **1953**, John Backus, alors ingénieur d'IBM, créé le Speedcoding, un interpréteur qui a été le premier langage de programmation de haut niveau créé pour un ordinateur IBM. Bien qu'il s'appelle Speedcoding, et qu'il ai facilité le développement en fournissant des instructions pour les fonctions mathématiques, le fait que ce soit un interpréteur le rendait particulièrement lent, 10 à 20 fois plus que du code machine, de plus, il prenait 30% de la mémoire à lui seul. Malgré cela, il a permis la prise en charge des nombres à virgule flottante sur les ordinateurs IBM 701.
-
-L'IBM 702 lui succédera la même année, il est le premier ordinateur muni de dérouleur de bandes magnétiques, il était moins puissant que le 701 ou le ERA 1103 mais avait contrairement à eux, les civils pour cible commerciale. Contrairement à l'UNIVAC, sa mémoire n'était pas constituée de ligne à retard analogiques, mais elle était électrostatique en utilisant des tubes de William, deux fois plus rapide et plus fiable. De plus, contrairement au monolithe qu'était l'UNIVAC, son design étant modulaire et composé de boites reliées entre elles, l'ordinateur pouvait être transporté dans la majorité des ascenseurs. Après son annonce, IBM arrive à réaliser 50 commandes en 10 mois.
-
-Toujours en **1953**, est développée la mémoire à tores magnétique qui a révolutionné pendant une vingtaine d'année la mémoire vive. Constitué d'anneaux de ferrite polarisés, correspondant à un bit de 0 ou 1 en fonction du sens du champ magnétique, tous traversés par des fils conducteurs.
-
-Se basant sur l'hystérésis, faire passer un courant dans un fil permettait de lire, ou d'écrire si le courant est assez élevé, la valeur des tores.
-
-Cette technologie à poussé IBM a rééditer ses modèles 701 et 702 avec ce type de mémoire, en plus de la création de nouveau modèles l'utilisant comme le 650, 704 et 705 EDPM.
-
-
-
-L'année suivante, en **1954** sortira l'IBM 650, modèle le plus populaire des années 50, et pour cause, il coûtait seulement un quart du prix d'un 701, et a été vendu à de nombreuses universités, créant toute une génération de programmeur. Faisant de lui le premier ordinateur produit en masse dans le monde et la première machine d'IBM à réaliser un profit significatif.
-
-Créé aux États-Unis en **1955**, le TRAnsistor DIgital Computer sera quand à lui premier ordinateur à transistors.
-
-IBM 1401 Fabriqué entre **1959** et 1965, il a été l'ordinateur à transistor le plus vendu, notamment grâce à la politique marketing d'IBM qui a adopté une vision globale, dans l'objectif de prendre en compte le maximum d'utilisateurs et donc clients potentiels. Cette politique avait déjà fait ses preuves avec le modèle 650. IBM à ainsi créer plus qu'un ordinateur, un système complet, avec une imprimante pouvant imprimer 600 lignes par minutes, principale raison d'achat ayant fait son succès. En plus de cela, avec ses transistors flambants neufs et bien plus fiables que les tubes à vide, il a rendu obsolète les ordinateurs en étant munis en même temps que les machines électromécaniques qui était encore utilisées par soucis monétaires.
+Créé aux États-Unis en **1955**, le TRAnsistor DIgital Computer des laboratoires Bell sera le premier ordinateur à transistors. Le grand public retiendra quant à lui l'IBM 1401, fabriqué entre **1959** et 1965. Il a été l'ordinateur à transistor le plus vendu, notamment grâce à la politique marketing d'IBM qui a adopté une vision globale, dans l'objectif de prendre en compte le maximum d'utilisateurs et donc clients potentiels. Cette politique avait déjà fait ses preuves avec le modèle 650. IBM à ainsi créer plus qu'un ordinateur, un système complet, avec une imprimante pouvant imprimer 600 lignes par minutes, principale raison d'achat ayant fait son succès. En plus de cela, avec ses transistors flambants neufs et bien plus fiables que les tubes à vide, il a rendu obsolète les ordinateurs en étant munis en même temps que les machines électromécaniques qui était encore utilisées par soucis monétaires.
 
 Par la même occasion, IBM invente le Report Program Generator (RPG), un langage de programmation haut niveau facile à comprendre, permettant aux comptables et techniciens de tabulatrices de se "reconvertir", en utilisant des concepts qu'ils connaissent et utilisaient déjà sur les panneaux de contrôles, où ils branchaient des câbles pour implémenter les entrées, calculs, et sorties. Ils pouvaient ainsi programmer sans apprendre toutes les arcanes de l'assembleur, du COBOL, ou encore du FORTRAN. Malgré cela, beaucoup de client préféraient demander les logiciels directement à IBM, qui avait un monopole si important qu'ils pouvaient se permettre de les livrer "gratuitement" avec les machines qu'ils louaient.
 
+Alors que Control Data Corporation (CDC) s'attaque au marché scientifique, fournissant des ordinateurs avec un meilleur rapport performance / prix, les plaçant 3<sup>ème</sup> derrière UNIVAC et le leader IBM ; General Electric annoncent 3 ordinateurs, un bas, un moyen et un haut de gamme ; la Radio Corporation of America (RCA) et Honeywell décident quant à eux de réaliser un ordinateur compatible avec le 1401 et d'autres machines IBM ; cette dernière se rends compte que ses concurrents ont déceler une opportunité et qu'ils doivent réagir à cette menace mettant en danger leur domination sur la marché. IBM lance alors une gamme d'ordinateurs compatibles entre eux, ayant la même architecture, et capable d’exécuter les mêmes logiciels ; ce qui n'était à ce moment pas le cas, posant problème autant à ses clients qu'à IBM même. Ces machines alors très spécialisées n'offrait pas une grande interopérabilité ou possibilité de changements de logiciel comme de matériel et périphériques, voire chaîne de production, nécessitant des experts de la machine en question. Contrairement aux machine à cartes perforées, les ordinateurs n'avait donc à ce moment pas de normes et standards, nécessitant parfois de recoder un même programme sur N machines différentes, un processus très onéreux. IBM décide alors de concevoir le **System/360** en **1962**, il n'a pas été économe pour autant, 5 billion de dollars, c'est plus que le budget du projet Manhattan. Cela a provoqué des différent monumentaux dans leurs équipes, au point où les dirigeants ont été obligés d'isoler celle en charge du 360.
 
-
-IBM System 360 : Alors que Control Data Corporation (CDC) s'attaque au marché scientifique, fournissant des ordinateurs avec un meilleur rapport performance / prix, les plaçant 3 ème derrière UNIVAC et le leader IBM ; que General Electric annonce 3 ordinateurs bas, moyen et haut de gamme ; que la Radio Corporation of America (RCA) et Honeywell décident de réaliser un ordinateur compatible avec le 1401 et d'autres machines IBM ; cette dernière se rends compte que ses concurrents ont déceler une opportunité et qu'ils doivent réagir à cette menace mettant en danger leur domination sur la marché.
-
-IBM lance alors une gamme d'ordinateurs compatibles entre eux, ayant la même architecture, et capable d’exécuter les mêmes logiciels ; ce qui n'était à ce moment pas le cas, posant problème autant à ses clients qu'à IBM même, ces machines alors très spécialisées n'offrait pas une grande interopérabilité ou possibilité de changements de logiciel comme de matériel et périphériques, voire chaîne de production, nécessitant des experts de la machine en question.
-
-Contrairement aux machine à cartes perforées, les ordinateurs n'avait donc à ce moment pas de normes et standards, nécessitant parfois de recoder un même programme sur X machines différentes, un processus très onéreux.
-
-IBM décide alors de concevoir le System/360 en 1962, il n'a pas été économe pour autant, 5 billion de dollars, c'est plus que le budget du projet Manhattan. Cela a provoqué des différent monumentaux dans leurs équipes, ils ont été obligés d'isoler celle en charge du 360.
-
-Niveau marketing ils aurait pu tout anoncer d'un coup mais ont décider d'anoncer machine par machine permettant une adoption progressive comme cela avait été le cas pour le passage des machines electromécaniques aux ordinateurs dans les années 50.
-
-Alors qu'Honeywell lance en 1963 le modèle 200 compatible IBM 1401, qu'IBM décida de rendre progressivement obsolète, et lance en **1964** la communication du System/360 dans 63 villes des États Unis et 14 pays étrangers, 6 ordinateurs et 44 périphériques. S'en suit plus de 5 billions de chiffre d'affaire, 30 ans de croissance, "l'ordinateur a été fait par IBM et a fait IBM". Cet ordinateur avait pourtant bien des défauts, il ne supportait pas le temps partagé, permettant d'être utilisé par plusieurs utilisateurs en même temps.
+Niveau marketing ils aurait pu tout annoncer d'un coup mais ont décidé d'annoncer machine par machine, de manière à avoir une adoption progressive comme cela avait été le cas pour le passage des machines électromécaniques aux ordinateurs dans les années 50. En 1963 Honeywell lance le modèle 200 compatible IBM 1401, qu'IBM décida de rendre progressivement obsolète, et lance en **1964** la communication du System/360 dans 63 villes des États Unis et 14 pays étrangers, 6 ordinateurs et 44 périphériques. S'en suit plus de 5 billions de chiffre d'affaire, 30 ans de croissance, "l'ordinateur a été fait par IBM et a fait IBM". Cet ordinateur avait pourtant bien des défauts, il ne supportait pas le temps partagé, permettant d'être utilisé par plusieurs utilisateurs en même temps. Mais la stratégie et le marketing à su palier au côté technique suffisant.
 
 
 
@@ -655,11 +557,7 @@ Le microprocesseur est un circuit intégré, tout deux sont également des circu
 
 En 1958, Jack Kilby ingénieur chez Texas Instruments, réalise le premier circuit intégré, qui sera plus tard connu sous le nom de puce électronique, en reliant manuellement deux transistors grâce à du germanium. Bien qu'il fut longtemps oublié, Kilby finira par obtenir le prix Nobel de physique en 2000. La même année, toujours en 1958, Robert Norton Noyce travaille alors à Fairchild Semiconductor qu'il a cofondé un an avant, il y réalise indépendamment la même découverte et popularise les circuits intégrés en silicium à la base de l’électronique encore utilisée aujourd'hui, éclipsant ainsi Kilby. Suite à un désaccord au sein des dirigeants de Fairchild, il décide avec Gordon Earle Moore, également cofondateur, de quitter cette entreprise pour fonder Intel. De la même manière que Backus avait constaté que le matériel devenait de plus en plus fiable et de moins en moins cher pour de meilleures performances, Moore inventa en 1965 une loi éponyme postulant que les semi-conducteurs aurait une progression linéaire de leur performances, qui doublerai ainsi tout les deux ans. Entre temps, des améliorations comme les trous traversants plaqués initialement brevetés en 1961 par la Hazeltine Corporation ont permis des cartes plus fiables et complexes. Aujourd'hui, les cartes électroniques peuvent avoir une centaines de couches de circuits imprimés.
 
-
-
 Pour réaliser des processeurs, il faut des transistors. Le principe de ses derniers est connus depuis un brevet datant de l'année 1925[^3], soumis par un doctorant dont la thèse à été tutorée par Max Planck, j'ai nommé Julius Edgar Lilienfeld. Il y décrit la méthode et un appareil capable de contrôler la tension, c'est à dire le voltage, d'un courant électrique. Cependant, la réalisation effective du transistor se fera en 1947 par des chercheurs américains du Laboratoire Bell. Un an après des français réalisent indépendamment un composant similaire nommé transistron. La presse spécialisée leur donnait l'avantage technique d'être plus stable et résistant, mais le gouvernement français était alors focalisé sur les recherches nucléaires. [^4]
-
-
 
 Avant les années 70, les composants des processeurs était trop volumineux pour tenir sur les circuits imprimés fraichement créés une dizaine d'année avant. Mais en **1969** Federico Faggin et Marcian Hoff, respectivement ingénieur et physicien d'Intel, réalisent cet exploit et inventent le microprocesseur.
 
@@ -668,95 +566,29 @@ Avant les années 70, les composants des processeurs était trop volumineux pour
 
 
 
-
-
 #### Course à l'espace
 
 Spoutnik 1 à été lancé et mis en orbite par les russes en **1957**. C'est le premier satellite d'origine humaine et il n'a pas eu d'autres rôle que celui d'envoyer un signal sonore par ondes radio, un simple "bip-bip", l'espace de seulement 3 mois. Pourtant, dans le contexte de la guerre froide, cette prouesse russe à marquée les esprits, notamment américains, qui y voyaient la menace d'une attaque nucléaire par voie spatiale. D'autant plus qu'en 1961, les russes enchériront avec la mission Vostok 1, fesant de Youri Gagarine le premier homme à aller dans l'espace. L'Amérique et ses services spatiaux se sont alors mis pour objectif d'être le premier peuple humain à aller sur la lune. Dix ans après la mise en orbite de Spoutnik 1, suite à un incendie lors des tests censés précéder son lancement, la mission **Apollo 1** de **1967** est malheureusement un échec et la lune parait de nouveau inaccessible aux américains. Deux ans après, sous la direction de Charles Stark Draper ; Margaret Hamilton, qui a travaillé sur le projet SAGE, réalise avec l'équipe qu'elle supervise, le programme qui sera utilisé par le premier ordinateur à circuit intégré, le Apollo Guidance Computer (AGC), ce programme écrit en Assembleur a été numérisé et rendu disponible sur [GitHub](https://github.com/chrislgarry/Apollo-11). C'est notamment grâce à ce logiciel et aux calculs de trajectoires et de fenêtres de lancement réalisés et vérifiés par Katherine Johnson, que le 21 juillet 1969, Apollo 11 fut finalement une réussite. Le bien connu Niels Armstrong deviendra ainsi le premier homme à marcher sur la lune et les États-Unis ont rattraper leur retard dans la course à l'espace jusqu'alors menée par l'URSS.
 
+### Bilan passé
+
+J'ai pu remarquer à travers l'Histoire que les inventions de savants et créateurs ne sortent que rarement de nulle part. Leurs origines proviennent souvent de (re)découvertes des principes existants, qu'ils compilent et les réutilisent à leur manières, améliorant les idées de leurs prédécesseur et réalisant de meilleurs outils à force d'itérations innovantes. Des inventions comme le Radar ou la pile de Volta trouvent leur inspiration dans des observations de la nature, notamment des animaux avec les chauves souris qui se guident à l'aide de l'écholocalisation, ou les anguilles électriques capable de produire des courants allant jusqu'à 860V et 2A. Les personnes pionnières dans leur domaine sont généralement suivies par foule de passionnés car les idées naissent d'une combinaison d'autres déjà existantes dans le contexte mondial à un moment donné. Il est en effet impossible de savoir qui à eu l'idée d'une chose pour la première fois, on ne retiendra naturellement que la première personne à avoir populariser le terme ou l'idée, parfois à travers la commercialisation d'un produit, d'autre fois grâce à une publication scientifique ou au dépôt d'un brevet. Certaines informations plus ésotériques ne se transmettrons que par la parole, conservant ainsi un secret relatif.
+
+Bien que les prémices de la gestion de l'information automatisée viennent du 17<sup>ème</sup> siècle lors de l'Époque moderne, période avec un besoin grandissant de calcul ; l'informatique naquit après la révolution industrielle, au 19<sup>ème</sup> siècle lors de l'Époque contemporaine, et ne commence à réellement émerger qu'après la seconde guerre mondiale qui marque le début d'une nouvelle ère de progrès technologiques, accompagnée d'une forte augmentation de la démographie mondiale causée par le baby boom. Les machines à calculer ne datent pas d'aujourd'hui, le premier programme quand à lui à été imaginé en 1842, pour autant, il a fallu attendre 1950 pour voir apparaître l'assembleur et les premiers langages de haut niveau. 
 
 
 
+## Pratiques actuelles
 
+Jusqu'alors, l'informatique est essentiellement réservé aux domaines privés comme le militaire, le spatial et l'administration des États. À partir des années 70, l'informatique va commencer à arriver dans le quotidien des particulier les plus aisés et finir par être dans une grande majorité des foyers. Internet commence à se développer petit à petit. On assiste alors à la popularisation et la mondialisation de l'information et de ses systèmes gestion.
 
-
-[Retour](#Sommaire)
-
-### Popularisation et Mondialisation
-
-Jusqu'alors, l'informatique était essentiellement réservé aux domaines privés comme le militaire, le spatial et l'administration des États. À partir des années 70, l'informatique va commencer à arriver dans le quotidien des particulier les plus aisés et finir par être dans une grande majorité des foyers. Internet commence à se développer petit à petit.
-
-
-
-#### Genèse d'internet
+### Genèse d'internet
 
 Un an après le lancement russe de Spoutnik, c'est en 1958 que le président américain de l'époque, Dwight David Eiseinhower, déclare le lancement d'un projet initialement nommé Advanced Research Projects Agency, soit ARPA ou DARPA après que le nom du projet ai été préfixé par le mot Defense. Le premier projet de cette agence fut de faire face aux besoins d'amélioration de la couverture et de la précision des réseaux de détection terrestres comme le radar, et de permettre à des sous-marins de la marine américaine de se géo-localiser précisément pour ainsi mieux calculer leurs tirs. La solution technique de ce projet du début des années 60 est un système de navigation par satellite nommé Transit, précurseur du projet NAVSTAR lancé en 1973 et opérationnel une vingtaine d'année plus tard, qui donnera finalement le système GPS, popularisé grâce à l'autorisation de libre diffusion de ses signaux par Bill Clinton en 2000, permettant un usage civil avec une précision à 10m près. Mais revenons en **1969**, année où le premier réseau informatique nommé ARPANET fit son apparition, notamment grâce à l'aide de scientifiques ayant travaillés sur le projet SAGE comme Joseph Licklider. Leur expérience sur le projet SAGE a apporté des connaissances en temps réel et partagé, ainsi qu'en interconnexions d'ordinateurs en réseau, permettant de mener à bien la réalisation de ce qui deviendra internet.
 
 Alors qu'elle travaille à l'institut de recherche de Stanford, Elisabeth Jocelyn Feinler ou "Jake" est recrutée par Douglas Engelbart pour travailler un guide des ressources d'Arpanet en vue d'une conférence. En 1974, elle sera la principale instigatrice du Network Information Center (NIC), organisme de gestion du réseau informatique ARPANET. Le NIC sera à l'origine du système de nom de domaine (DNS), permettant de ne retenir qu'un mot comme `google.fr` qui sera traduit en adresse IP (`172.253.122.94`) ; ou encore du *WHOIS*, l'annuaire permettant de savoir à qui appartient un nom de domaine. Toujours en 1974 et pour les besoins d'ARPANET, Bob Kahn et Vinton Cerfs inventent le protocole TCP/IP pour palier au manque de gestion d'erreur du Network Control Protocol matériellement restreint aux premiers routeurs, les Interface Message Processor ou IMP. 
 
 Petit retour en 1971, le français Louis Pouzin, qui travaille alors à l'Institut Nationnal de Recherche en Informatique et en Automatique (INRIA), recrute Hubert Zimmermann pour développer le concept de paquet de données transmises sur un réseau, plus connu sous le nom de datagramme. Ce concept technologique a fortement contribuée au développement d'ARPANET. L'année d'après, en 1972 Louis Pouzin va commencer le développement de Cyclades, le premier réseau informatique Français. Quelques années après, l'ARPANET français sera abandonné au profit de Transpac, sorti en 1978. Année durant laquelle sera présenté le Minitel dont le réseau Télétel fera usage de Transpac, et qui verra également la finalisation du standard représentant les niveaux de communication réseau, j'ai nommé le modèle OSI de Charles Bachman, à qui on doit également les Systèmes de Gestion de Bases de Données (SGBD). Enfin, depuis sa création en 1980, la version 4 du protocole IP est le protocole standard, et ce malgré le fait que le nombre d'adresse IPv4 soit récemment arrivé à ses limites, auxquelles IPv6 pallie désormais grâce à une cohabitation des deux versions sur le réseau.
-
-
-
-
-
-#### Interfaces graphiques et périphériques de pointage
-
-Inspiré par le memex décrit par Vannevar Bush, Ivan Sutherland invente un logiciel d'édition d'images vectorielles pour la présentation de sa thèse de doctorat au MIT en 1963. L'écran affichait directement les formes dessinées par l'utilisateur à l'aide d'un crayon optique. Pour l'époque, le fait d'avoir une interface graphique et de pouvoir dessiner directement dessus en ayant le rendu en temps réel était une prouesse technique révolutionnaire. Il appellera son œuvre Sketchpad et obtiendra à cet effet bien des honneurs et récompenses, dont un Turing Award en 1988. Cela inspirera à Douglas Engelbart la réalisation du oN-Line System (NLS), le premier système d'exploitation multi-utilisateur à utiliser la souris qu'il a lui même inventé en 1963, mais également les liens hypertextes, écrans à balayage, les interfaces graphiques et leurs fenêtres. Ce projet sera présenté vers la fin de l'année 1968 lors d'une conférence de 90 minutes que l'on retiendra comme la "Mère de toutes les démonstration" (Mother of all demos), mais il sera rapidement abandonné à cause de sa difficulté d'apprentissage, beaucoup de personnes ayant travaillé sur le projet décident alors d'aller travailler pour Xerox, qui en 1970, met en place le Palo Alto Research Center, plus connu sous le nom de Xerox Parc.
-
-Ce laboratoire d'études travailla sur les premières interfaces graphiques et éditeurs permettant de modifier un document directement depuis son rendu visuel, on appelle ceci la technologie "What You See Is What You Get" ou WYSYWYG. Le premier logiciel à implémenter cette technologie et permettre le repositionnement du curseur et la sélection de texte à l'aide d'une souris est l'éditeur de documents Xerox Bravo sorti en 1974, peu après l'ordinateur Xerox Alto, qui a été révélé le 1er Mars 1973. Cet ordinateur est le premier à fournir une interface graphique, et ainsi ne plus être dépendant de la ligne de commande. Il introduira également les métaphores de bureau, documents, classeurs, et corbeille, familiers à tout employé de bureau. L'ensemble interface graphique et pointeur favorisa grandement l'adoption et la démocratisation des ordinateurs, cela deviendra un standard omniprésent dans nos interactions avec machine.
-
-Alan Kay à dirigé le développement de Smalltalk, créé en 1972 au Xerox Parc, c'est un langage de programmation objet et surtout le premier à avoir un environnement de développement complétement graphique indépendant de la ligne de commande ou d'un éditeur de texte. Il fut intégré au Xerox DoRADO, héritié du Xerox Alto, avec pour objectif d'être un système bien plus performant. Plus tard, en 1996, Smalltalk deviendra Squeak encore disponible et utilisé aujourd'hui. Squeak est inspiré de Logo, qui est à la fois une famille de langages de programmation et une philosophie de l'éducation. C'est le résultats de travaux sur le cognitivisme promu par Marvin Minsky et les travaux sur l'éducation de Jean Piaget promus par Seymour Pagert. Son succésseur est Pharo, il est utilisé par des universités pour apprendre la programmation orientée objet, sa syntaxe est simple et efficace.
-
-https://pharo.org/web/
-
-
-
-
-
-#### Ordinateurs personnels et jeux
-
-L'usage des ordinateurs devenant plus accessible au grand public, le marché à commencer à produire des ordinateurs dédiés au grand public, parmi eux, le Programma 101 de 1965, l'Amstrad en 1968, Altair 8800 en 1975, le Commodore PET en 1977, l'Apple II paru la même année ; le Minitel, dont j'ai parlé précédemment, l'Osborne 1, l'IBM PC 5150 et le et le Xerox Star[^1], tous disponibles aux tout début des années 1980. Ou encore le Macintoch 128K sorti quelques années après en **1984**, avec des icônes en skeuomorphisme, imitant des objets réels que l'ordinateur à remplacer en abstrayant leur fonctions, telle la disquette qui représenter une sauvegarde, ou la corbeille indiquant l'endroit où se retrouvent les fichiers qui vont être détruits. A cette même période apparait la mémoire flash et le stockage optique sur disque dans les années 1980.
-
-[^1]: http://toastytech.com/guis/star.html
-
-L'informatique devenant plus accessible et fun, des jeux vidéos ont fait leur apparition à la même période, les premiers furent essentiellement jeux simples comme le morpion, implémenté par le premier jeu vidéo connu datant de 1950, Bertie the Brain, permettant aux joueurs d'affronter "l'intelligence artificielle" pour la première fois. Il est rapidement suivi d'une implémentation du jeu de Nim qui consiste à partir de 20 unités pour que deux joueurs en retirent chacun leurs tours une, deux ou trois, jusqu'à ce que le joueur qui doive retirer la dernière unité ne perde. Suite à cela les deux premiers jeu vidéos multijoueur, Tennis for Two de 1958 qui inspirera par la suite Pong, et *Spacewar!* qui fut inventé en **1962** avant même les interfaces graphiques ou que l'ordinateur ne devienne grand public, et dont influence a également été retentissante.
-
-En 1970, John Horton Conway, célèbre mathématicien ayant travaillé sur la théorie des jeux, et des noeux[^noeud], invente un jeu pas comme les autres qu'il appella "jeu de la vie". C'est en réalité un automate cellulaire dont les règles sont très simples, il y a une grille constituée de cases blanches, et noires, si une case blanche à 3 cases noires voisines, elle deviendra elle même noire au tout d'après, si une case noire n'as pas 3 ou 4 cases noires voisines, elle meurt et devient blanche au tout d'après. Ces règles permettent des patterns inattendus qui n'étaient pas prévus initialement par son créateur. Mais comme Leonard de Vinci l'aurai déclaré : "La simplicité est l'ultime sophistication". À force de tests et d'itérations, on peut ainsi observer des structures stables, d'autres qui se déplacent, et bien d'autres. Les utilisateurs ont fini les utiliser pour recréer une machine de Turing à l'intérieur de ce jeu[^hoho], et même réimplémenter le jeu de la vie, dans le jeu de la vie.[^haha]
-
-[^hoho]: http://rendell-attic.org/gol/utm/index.htm
-[^haha]: https://oimo.io/works/life/
-[^noeud]: https://www.youtube.com/watch?v=8DBhTXM_Br4
-
-Enfin les bien connus Atari Pong en 1972, Pac man en 1980, ou Tetris en 1984 ont fait leur apparition aux prémices de l'industrie du jeu vidéo.
-
-
-
-
-
-#### Logiciel libre, open source, et cadriciels 
-
-1976 homebrew computer club exhibits
-
-Richard Stallman annonce le projet GNU le 27 Septembre **1983**, en 1985 il fonde le FSF, la Free Software Foundation. Où Free ne signifie pas (seulement) gratuit dans le sens de prix mais (également) dans le sens de liberté. Le langage C est alors grandement utilisé. Il invente également en 1989 la licence GNU General Public Licence, plus connu sous le nom de GPL.
-
-En 1987 Andrew S. Tanenbaum invente Minix un système d'exploitation UNIX avec une architecture 16 bit. Inspiré par Minix, Linus à donc créer **Linux en 1991**, avec un nouveau Kernel, lineage, sous licence GPL. Leur coopération donnera GNU/Linux qui est une suite embarquée d'éditeurs comme bash, emac, la GNU C Library et le compilateur GCC, et pleins d'autres.
-
-Aujourd'hui la grande majorité des entreprises utilisent du code Open Source dans leur business, certains utilisent même à tord des logiciels GPL sans savoir que cette licence est contaminante et peut faire que leur logiciel devrait légalement être libre de facto. D'autres licences permettent aux entreprises d'utiliser des librairies pour un usage commercial. Certains projets Open Sources comme Symfony ont donné naissances à multitudes de Business à commencer par le leur, SensioLabs, qui fournissent des conférences et formations payantes, et sponsorise certaines entreprises experts dans cette technologie.
-
-L'open source permet à tout le monde de vérifier que le code ne comporte pas de faille et éventuellement de le remonter aux développeurs si c'est le cas, voire de contribuer directement et proposer des solutions ou améliorations en tout genre. Cela permet également, sous réserve de respecter les licences, de modifier le logiciel pour en faire sa propre version.
-
-Le logiciel libre, quand à lui est un pied de nez aux logiciels propriétaires
-
-CSS a permi de diversifier l'apparence des sites webs, les frameworks et themes comme Foundation ou bootstrap ont regénéraliser et harmoniser l'affichage des sites, réduisant la créativité au profit de l'accessibilitée. Tout cadre vient limiter la liberté, généralement pour le bien commun.
-
-Symfony, un outil logiciel facilitant la réalisation d'application webs, ne permet pas de surcharger l'attribut "name" d'un champ de formulaire, le retrait de requêtes expires ne marche pas... L'installation d'un de leurs plugin React m'a récemment causer defaut. J'ai eu, par la force des choses, à contacter la personne chargée de la documentation de Symphony. Un certain [Ryan](https://github.com/weaverryan), qui est "Symfony docs lead, writer at SymfonyCasts". Ce fût une expérience riche ou j'ai découvert un environnement qui m'est familier, bien que je n'ai pas souvent réaliser de l'open source avant. Une pipeline qui sors des erreurs à des lignes qui n'existent pas sur ma version, et qui malgré ça permet d'assurer la qualité de la documentation rédigée en RST ou DOCtor-RST, à l'aide de tests de compilation.
-
-
-
-
-
-#### World Wide Web
 
 https://fr.wikipedia.org/wiki/ENQUIRE (**1990** Tim Berners Lee) web semantique Rose Dieng Kuntz
 
@@ -770,16 +602,53 @@ Ward Cunningam créa le premier wiki en 1995 il est encore disponible tel quel[^
 
 
 
-#### Intelligence artificielle
-
-- Deep Blue beats Gary Kasparov  in **1997**
-- Imagenet **2009**
-- Watson gagne Joepardy **2011**
-- Alphago **2015**
 
 
+### Interfaces graphiques et périphériques de pointage
 
-#### Environnements de développement
+Inspiré par le memex décrit par Vannevar Bush, Ivan Sutherland invente un logiciel d'édition d'images vectorielles pour la présentation de sa thèse de doctorat au MIT en 1963. L'écran affichait directement les formes dessinées par l'utilisateur à l'aide d'un crayon optique. Pour l'époque, le fait d'avoir une interface graphique et de pouvoir dessiner directement dessus en ayant le rendu en temps réel était une prouesse technique révolutionnaire. Il appellera son œuvre Sketchpad et obtiendra à cet effet bien des honneurs et récompenses, dont un Turing Award en 1988. Cela inspirera à Douglas Engelbart la réalisation du oN-Line System (NLS), le premier système d'exploitation multi-utilisateur à utiliser la souris qu'il a lui même inventé en 1963, mais également les liens hypertextes, écrans à balayage, les interfaces graphiques et leurs fenêtres. Ce projet sera présenté vers la fin de l'année 1968 lors d'une conférence de 90 minutes que l'on retiendra comme la "Mère de toutes les démonstration" (Mother of all demos), mais il sera rapidement abandonné à cause de sa difficulté d'apprentissage, beaucoup de personnes ayant travaillé sur le projet décident alors d'aller travailler pour Xerox, qui en 1970, met en place le Palo Alto Research Center, plus connu sous le nom de Xerox Parc.
+
+Ce laboratoire d'études travailla sur les premières interfaces graphiques et éditeurs permettant de modifier un document directement depuis son rendu visuel, on appelle ceci la technologie "What You See Is What You Get" ou WYSYWYG. Le premier logiciel à implémenter cette technologie et permettre le repositionnement du curseur et la sélection de texte à l'aide d'une souris est l'éditeur de documents Xerox Bravo sorti en 1974, peu après l'ordinateur Xerox Alto, qui a été révélé le 1er Mars 1973. Cet ordinateur est le premier à fournir une interface graphique, et ainsi ne plus être dépendant de la ligne de commande. Il introduira également les métaphores de bureau, documents, classeurs, et corbeille, familiers à tout employé de bureau. L'ensemble interface graphique et pointeur favorisa grandement l'adoption et la démocratisation des ordinateurs, cela deviendra un standard omniprésent dans nos interactions avec machine.
+
+Alan Kay à dirigé le développement de Smalltalk, créé en 1972 au Xerox Parc, c'est un langage de programmation objet et surtout le premier à avoir un environnement de développement complétement graphique indépendant de la ligne de commande ou d'un éditeur de texte. Il fut intégré au Xerox DoRADO, héritié du Xerox Alto, avec pour objectif d'être un système bien plus performant. Plus tard, en 1996, Smalltalk deviendra Squeak encore disponible et utilisé aujourd'hui. Squeak est inspiré de Logo, qui est à la fois une famille de langages de programmation et une philosophie de l'éducation. C'est le résultats de travaux sur le cognitivisme promu par Marvin Minsky et les travaux sur l'éducation de Jean Piaget promus par Seymour Pagert. Son succésseur est Pharo, il est utilisé par des universités pour apprendre la programmation orientée objet, sa syntaxe est simple et efficace.
+
+https://pharo.org/web/
+
+
+
+
+
+### Ordinateurs personnels et jeux
+
+L'usage des ordinateurs devenant plus accessible au grand public, le marché a commencé à produire des ordinateurs dédiés au grand public, parmi eux, le Programma 101 de 1965, l'Amstrad en 1968, Altair 8800 en 1975, le Commodore PET en 1977, l'Apple II paru la même année ; le Minitel, dont j'ai parlé précédemment, l'Osborne 1, l'IBM PC 5150 et le et le Xerox Star[^1], tous disponibles aux tout début des années 1980. Ou encore le Macintoch 128K sorti quelques années après en **1984**, avec des icônes en skeuomorphisme, imitant des objets réels que l'ordinateur à remplacer en abstrayant leur fonctions, telle la disquette qui représenter une sauvegarde, ou la corbeille indiquant l'endroit où se retrouvent les fichiers qui vont être détruits. A cette même période apparait la mémoire flash et le stockage optique sur disque dans les années 1980.
+
+[^1]: http://toastytech.com/guis/star.html
+
+L'informatique devenant plus accessible et fun, des jeux vidéos ont fait leur apparition à la même période, les premiers furent essentiellement jeux simples comme le morpion, implémenté par le premier jeu vidéo connu datant de 1950, Bertie the Brain, permettant aux joueurs d'affronter "l'intelligence artificielle" pour la première fois. Il est rapidement suivi d'une implémentation du jeu de Nim qui consiste à partir de 20 unités pour que deux joueurs en retirent chacun leurs tours une, deux ou trois, jusqu'à ce que le joueur qui doive retirer la dernière unité ne perde. Suite à cela les deux premiers jeu vidéos multijoueur, Tennis for Two de 1958 qui inspirera par la suite Pong, et *Spacewar!* qui fut inventé en **1962** avant même les interfaces graphiques ou que l'ordinateur ne devienne grand public, et dont influence a également été retentissante.
+
+En 1970, John Horton Conway, célèbre mathématicien ayant travaillé sur la théorie des jeux, et des nœuds[^nœud], invente un jeu pas comme les autres qu'il appella "jeu de la vie". C'est en réalité un automate cellulaire dont les règles sont très simples, il y a une grille constituée de cases blanches, et noires, si une case blanche à 3 cases noires voisines, elle deviendra elle même noire au tout d'après, si une case noire n'as pas 3 ou 4 cases noires voisines, elle meurt et devient blanche au tout d'après. Ces règles permettent des patterns inattendus qui n'étaient pas prévus initialement par son créateur. Mais comme Leonard de Vinci l'aurai déclaré : "La simplicité est l'ultime sophistication". À force de tests et d'itérations, on peut ainsi observer des structures stables, d'autres qui se déplacent, et bien d'autres. Les utilisateurs ont fini les utiliser pour recréer une machine de Turing à l'intérieur de ce jeu[^hoho], et même réimplémenter le jeu de la vie, dans le jeu de la vie.[^haha] Enfin, les bien connus Atari Pong en 1972, Pac man en 1980, ou Tetris en 1984 ont fait leur apparition aux prémices de l'industrie du jeu vidéo.
+
+[^hoho]: http://rendell-attic.org/gol/utm/index.htm
+[^haha]: https://oimo.io/works/life/
+[^nœud]: https://www.youtube.com/watch?v=8DBhTXM_Br4
+
+
+
+### Logiciel libre, open source, et cadriciels 
+
+A partir de 1975, des amateurs d'électroniques et d'informatique se rejoignent et forment le Homebrew Computer Club. Ils éditent des newsletter et organisent des présentations ou expositions de nouveautés matérielles comme logicielles. Parmi eux, les fameux Steve Wozniak et Jobs, cofondateurs d'Apple, mais aussi Richard Stallman, qui annonce le projet GNU le 27 Septembre **1983**. En 1985 il fonde le FSF, la Free Software Foundation. Où Free ne signifie pas (seulement) gratuit dans le sens de prix mais (également) dans le sens de liberté. Le langage C est alors grandement utilisé. Il invente également en 1989 la licence GNU General Public Licence, plus connu sous le nom de GPL.
+
+Entre temps Andrew S. Tanenbaum invente Minix, un système d'exploitation UNIX avec une architecture 16 bit. Inspiré par le Minix de 1987, Linus à par la suite créer **Linux en 1991**, avec un nouveau noyau ou kernel nommé lineage, sous licence GPL. Leur coopération donnera GNU/Linux qui est une suite embarquée d'éditeurs comme bash, emac, la GNU C Library et le compilateur GCC, et pleins d'autres.
+
+Aujourd'hui la grande majorité des entreprises utilisent du code Open Source dans leur business, certains utilisent même à tord des logiciels GPL sans savoir que cette licence est contaminante et peut faire que leur logiciel devrait légalement être libre de facto. D'autres licences permettent aux entreprises d'utiliser des librairies pour un usage commercial. Certains projets Open Sources comme Symfony ont donné naissances à multitudes de Business à commencer par le leur. SensioLabs, l'entreprise derrière Symfony, organise des conférences et formations payantes, en plus de sponsoriser certaines entreprises experts dans cette technologie, dont eux même.
+
+Symfony est un outil logiciel facilitant la réalisation d'application webs. En l'utilisant je me suis rendu compte qu'il ne permet pas de surcharger l'attribut "name" d'un champ de formulaire, ou que le retrait de requêtes expires ne marche pas. L'installation d'un de leurs plugin React m'a récemment causer défaut. J'ai eu, par la force des choses, à contacter la personne chargée de la documentation de Symphony. Un certain [Ryan](https://github.com/weaverryan), qui est "Symfony docs lead, writer at SymfonyCasts". Ce fût une expérience riche ou j'ai découvert un environnement qui m'est familier, bien que je n'ai pas souvent réalisé de l'open source avant. Une pipeline qui sors des erreurs à des lignes qui n'existent pas sur ma version, et qui malgré cela permet d'assurer la qualité de la documentation rédigée en RST ou DOCtor-RST, à l'aide de tests de compilation.
+
+L'open source permet à tout le monde de bénéficier d'outils logiciels standardisés dont ils peuvent vérifier le code afin de s'assurer qu'il ne comporte pas de faille et éventuellement de remonter tout problèmes aux développeurs, voire de contribuer directement à les résoudre en proposant des solutions ou améliorations en tout genre. Cela permet également, sous réserve de respecter les licences, de modifier le logiciel pour en faire sa propre version. Le logiciel libre, quand à lui est un pied de nez aux logiciels propriétaires.
+
+Grâce à la standardisation et à l'ouverture du code source des logiciels, les développeurs avons vu apparaitre de multiples langages et cadriciels de ces derniers. Par exemple le langage CSS a permit de diversifier l'apparence des sites webs, et les frameworks ou thèmes comme Foundation ou bootstrap ont regénéraliser et harmoniser l'affichage des sites, réduisant la créativité au profit de accessibilité. Tout cadre vient limiter la liberté, généralement pour le bien commun.
+
+Environnements de développement
 
 Vim, Emacs,
 
@@ -787,29 +656,24 @@ Suite à Atom publié par GitHub le 26 février 2014, bien avant son rachat en 2
 
 Wix, squarespace, etc....
 
-### Bilan passé
 
-J'ai pu remarquer à travers l'Histoire que les inventions de savants et créateurs ne sortent que rarement de nulle part. Leurs origines proviennent souvent de (re)découvertes des principes existants, qu'ils compilent et les réutilisent à leur manières, améliorant les idées de leurs prédécesseur et réalisant de meilleurs outils à force d'itérations innovantes. Des inventions comme le Radar ou la pile de Volta trouvent leur inspiration dans des observations de la nature, notamment des animaux avec les chauves souris qui se guident à l'aide de l'écholocalisation, ou les anguilles électriques capable de produire des courants allant jusqu'à 860V et 2A. Les personnes pionnières dans leur domaine sont généralement suivies par foule de passionnés car les idées naissent d'une combinaison d'autres déjà existantes dans le contexte mondial à un moment donné. Il est en effet impossible de savoir qui à eu l'idée d'une chose pour la première fois, on ne retiendra naturellement que la première personne à avoir populariser le terme ou l'idée, parfois à travers la commercialisation d'un produit, d'autre fois grâce à une publication scientifique ou au dépôt d'un brevet. Certaines informations plus ésotériques ne se transmettrons que par la parole, conservant ainsi un secret relatif.
-
-Les découvertes ne sont pas toujours l'œuvre de savants ou de personnes renommés. En 2023, de simples utilisateurs d'application mobile découvriront ce que les mathématiciens recherchent depuis des siècles. Ça a été le cas du problème einstein essayant de trouver une forme géométrique unique dite d'*ein stein* (une tuile en allemand), que les chercheurs ne pensaient pas possible jusque là. En réalité elle est très simple et peut se construire en découpant trois hexagones liés en suivant les médiatrice de leurs côtés. Cette dernière ressemble à un t-shirt ou un chapeau et permet de réaliser un pavage apériodique à tuile unique c'est à dire de recouvrir une surface plane par un emboîtement de copies de cette forme, sans qu'elle ne se répète à l'identique comme les carreaux d'une grille. Pour ce faire il faut parfois avoir recours à une tuile inversé, problème qui a été réglé avec la découverte d'une autre forme, le spectre.
-
-***Illustration de ces formes***
-
-Bien que les prémices de la gestion de l'information automatisée viennent du 17<sup>ème</sup> siècle lors de l'Époque moderne, période avec un besoin grandissant de calcul ; l'informatique naquit après la révolution industrielle, au 19&nbsp;ème siècle lors de l'Époque contemporaine, et ne commence à réellement émerger qu'après la seconde guerre mondiale qui marque le début d'une nouvelle ère de progrès technologiques, accompagnée d'une forte augmentation de la démographie mondiale causée par le baby boom. Les machines à calculer ne datent pas d'aujourd'hui, le premier programme quand à lui à été imaginé en 1842, pour autant, il faudra attendre 1950 pour voir apparaître l'assembleur et les premiers langages de haut niveau. 
 
 L'informatique moderne comme toutes les technologies, a d'abord exploré les possibilités en créant de multiples outils et techniques, puis sa démocratisation a nécessiter une standardisation. Des consensus se sont alors formés, ils ont établit des normes, simplifier et harmoniser les outils et techniques en les rendant universels. C'est le cas du web avec le W3C et HTML, CSS et JS, ou des protocoles réseaux comme TCP/IP, HTTP, et j'en passe. Tous établissent des bases communes à suivre pour établir des systèmes de communications sécurisés.
 
+- Deep Blue beats Gary Kasparov in **1997**
+- Imagenet **2009**
+- Watson gagne Joepardy **2011**
+- Alphago **2015**
+
 Les recherches et compréhension récentes dans le domaine de la bio-informatique ou de la physique quantique ont permis, sur les idées respectives de Richard Feynman et Rolf Landauer, de mettre en œuvre de nouvelles manière de stocker de l'information que ce soit dans de l'ADN, ou dans des bits quantiques appelés qubits. La théorie des nœuds dont j'aurais aimé plus parler a trouvé des applications dans l'étude des protéines et plus généralement des molécules. Grâce à ces études, les scientifiques ont été capable d'inventer de nouvelles structures moléculaires plus solide que le kevlar. Ces nouvelles technologies ouvrent de nouveaux horizons, repoussant les limites du possible en solutionnant de multiples problèmes, nous permettant par la suite d'en trouver de nouveaux. Les systèmes de communication sont rapidement passés du télégraphe à l'appel téléphonique, jusqu'à l’avènement d'internet à la fin du siècle dernier. Cette mondialisation de l'information et son instantanéité nous permettent aujourd'hui de collaborer n'importe quand avec n'importe qui, où que l'on soit, d'avoir accès à des connaissances et de trouver réponse à nos questions.
 
-[Retour](#Introduction)
+Enfin l'humain est de plus en plus capable de comprendre ou restituer des faits **a posteriori**. Il est même en mesure de restaurer des informations que les experts pensaient perdue. Les technologies comme les rayons X, le Lidar sont très utilisés en archéologie afin de ne pas avoir a abimer des œuvres scellées. Plus récemment, il s'est avéré que les techniques de peinture des grand maîtres ont étés transmises par Léonard de Vinci qui expérimentait de nouvelles techniques de peintures comme l'application d'une première couche à base de plomb nommée Plombonacrite. Les intelligence artificielles ont également permis de déchiffrer des parties d'un manuscrit calciné lors du vesuvius challenge https://scrollprize.org/
+
+https://www.journaldugeek.com/2023/10/16/un-accelerateur-de-particules-revele-un-nouveau-secret-de-la-joconde/?utm_source=pocket-newtab-fr-fr
+
+https://pubs.acs.org/doi/10.1021/jacs.3c07000
 
 
-
-
-
-
-
-## Pratiques actuelles
 
 L'informatique est désormais omniprésente, la terre est entourée de satellites en orbites, les continents sont interconnectés avec des câbles sous marins, 7 personnes sur 10 possèdent un smartphone, les demandes d'informations et démarches administratives se numérisent rapidement. La programmation est facilitée par l’apparition de langages haut niveau à la syntaxe simple avec des compilateurs plus explicites. Depuis 1950, bien que les interfaces graphiques aient permis de faciliter l'utilisation des ordinateurs, la programmation n'a plus été révolutionnée depuis les premiers langages haut niveau. Seul l'apparition du langage Rust, dont l'adoption dans les entreprises sera encore longue, à permis d'avoir un nouveau candidat avec des performances équivalentes au C et une expérience de développement plus agréable que les autres, et ce juste grâce à ses nouveaux concepts de gestion de la mémoire, évitant ainsi 70% des bugs selon Microsoft.[^1] Pour le reste, la majorité des langages ont leur propres qualités notamment grâce à leur communautés et aux outils qu'elles ont développés, pour exemple, le Python est toujours une référence pour le traitement de la donnée, et le JavaScript a standardisé la gestion des interactions utilisateurs et la dynamisation des interfaces graphiques.
 
@@ -821,7 +685,7 @@ Le matériel quand à lui, a beaucoup évolué, les ordinateurs se sont petits �
 
 ### Décisions et gestion de projet
 
-Toute entreprise ou groupe d'humain travaillant sur un même projet doit en avoir une gestion planifiée. Cela ce met en place avec divers outils mais repose sur une bonne veille et sur des décisions adaptés, permettant in fine de découper le projet en tâches simples que l'on délègue à des techniciens pour leurs réalisation. Il convient de préparer suffisamment le travail pour qu'il soit réalisable facilement, plus l'information sera claire et précise, moins l'équipe aura besoin d'aller-retours entre les pôles. On ne veux pas éviter ses allers-retour pour autant, il faut travailler main dans la main et communiquer efficacement pour se répartir les tâches en fonction des responsabilités de chacun.
+Toute entreprise ou groupe d'humain travaillant sur un même projet doit en avoir une gestion planifiée. Cela ce met en place avec divers outils mais repose sur une bonne veille et sur des décisions adaptés, permettant finalement de découper le projet en tâches simples que l'on délègue à des techniciens pour leurs réalisation. Il convient de préparer suffisamment le travail pour qu'il soit réalisable facilement, plus l'information sera claire et précise, moins l'équipe aura besoin d'aller-retours entre les pôles. On ne veux pas éviter ses allers-retour pour autant, il faut travailler main dans la main et communiquer efficacement pour se répartir les tâches en fonction des responsabilités de chacun.
 
 Quand Charles Babbage a visité des maison d'échanges bancaires, et autres établissement de gestion, comme le bureau du cadastre qui du réaliser des cartes à jour pour établir une taxation, il était fasciné par la division mentale du travail qui s'y opérait. La personne en charge du cadastre était le Baron Gaspard De Prony qui a également réalisé les *Grandes tables de logarithme* en seulement deux ans grâce à ses lectures des travaux d'Adam Smith, notamment de son œuvre "*Recherches sur la nature et les causes de la richesse des nations*". Ce dernier à été le premier à décrire le principe de division du travail. Ce principe est utilisé depuis la nuit des temps pour optimiser les temps de formations du personnel et de réalisation d'un produit. 
 
@@ -858,111 +722,61 @@ De mon expérience, j'ai pu constater la différance entre prestation de service
 
 
 
-Il convient de planifier et prendre son temps. Les deux vont de pair, il ne sert à rien d'être dans la précipitation. Un travailleur peut être rapide mais il ne lui faut pas oublier la rigueur, ou tenter de faires plusieurs choses à la fois. Il vaut mieux prendre une pause, que d'être happer par la réalisation d'une autre tâche et oublier de finaliser celle initiale. Et si on doit changer de tâche, alors il convient de la noter et mieux, la (re)planifier. Malgré la planification il faut aussi accepter que tout et n'importe quoi peut arriver à n'importe quel moment dans la vie de chacun et donc savoir être indépendant, c'est également pourquoi le partage de connaissance est important en entreprise. Lors de mon alternance chez SoeMan j'ai pu participer à des réunions d'on-boarding après quoi nous réalisions des comptes rendus. De Bussac Multimedia, nous avions en plus la chance de pouvoir partager initialement des petits posts de blogs, et plus tard de présenter des diaporama et démonstrations de ce que l'on voulait dans des sessions afterwork. Actuellement chez ABGX, nous avons même tout nos vendredis après midi de dédié à un projet interne annexe de notre choix. Pour autant on ne planifie que les tâches à faire, pas exactement quand, on définit un ordre, une pile des tâches à réaliser avec des priorités et urgences. Tout les workflow de travail que j'ai pu voir ont leurs avantages et leurs inconvénients, pour autant c'est chez ABGX que j'ai personnellement retrouvé ce qui me convient le plus parmi toutes mes expériences. J'ai immensément apprécié être à plein temps sur la refonte graphique de SoEMan mais je n'avais plus l'impression d'être utile dans l'avancement du logiciel durant cette période. Chez De Bussac au contraire, j'avais la sensation d'être en symbiose avec mon emploi du temps qui régissait mon activité professionnelle avec malgré tout un certain confort. Ce même confort qui m'a appris à prendre mon temps chez ABGX, m'apportant malgré tout une sensation de décélération qui m'a parfois frustré. Pour autant, c'est celle qui m'a remis en phase avec le travail. Dans le travail comme en voiture, il faut adapter votre vitesse à votre environnement. Même sur une piste de course comme en formule 1, les meilleures temps sont réalisés en ayant la vitesse la plus optimale dans les conditions matérielles à ce moment. J'ai souvent entendu dire "ce n'est pas ce qui est demandé ni prioritaire, on fera ça plus tard", et bien évidement, la plupart du temps cela fini par n'être jamais fait. Dans les projets informatique c'est ainsi que la dette technique s'immisce, des fonctionnalités qui s’accumulent, des développements qui s’enchaînent, et pallie aux problèmes qu'avec des corrections rapides, s’attaquant aux causes plutôt qu'aux conséquences. Dès que l'on constate un problème, il faut avoir le réflexe de réaliser la tâche dans la foulée, ou de la planifier pour ne pas que l'information se perde.
+Il convient de planifier et prendre son temps. Les deux vont de pair, il ne sert à rien d'être dans la précipitation, elle même à l'erreur. Un travailleur peut être rapide mais il ne lui faut pas oublier la rigueur, ou tenter de faire plusieurs choses à la fois. Il vaut mieux prendre une pause, que d'être happer par la réalisation d'une autre tâche et oublier de finaliser celle initiale. Et si on doit changer de tâche, alors il convient de la noter et mieux, la (re)planifier. Malgré la planification il faut aussi accepter que tout et n'importe quoi peut arriver à n'importe quel moment dans la vie de chacun et donc savoir être indépendant, c'est également pourquoi le partage de connaissance est important en entreprise. Lors de mon alternance chez SoeMan j'ai pu participer à des réunions d'on-boarding après quoi nous réalisions des comptes rendus. De Bussac Multimedia, nous avions en plus la chance de pouvoir partager initialement des petits posts de blogs, et plus tard de présenter des diaporama et démonstrations de ce que l'on voulait dans des sessions afterwork. Actuellement chez ABGX, nous avons même tout nos vendredis après midi de dédié à un projet interne et annexe de notre choix. Pour autant on ne planifie que les tâches à faire, pas exactement quand, on définit un ordre, une pile des tâches à réaliser avec des priorités et urgences. Tout les workflow de travail que j'ai pu voir ont leurs avantages et leurs inconvénients, pour autant c'est chez ABGX que j'ai personnellement retrouvé ce qui me convient le plus parmi toutes mes expériences. J'ai immensément apprécié être à plein temps sur la refonte graphique de SoEMan mais je n'avais plus l'impression d'être utile dans l'avancement du logiciel durant cette période. Chez De Bussac au contraire, j'avais la sensation d'être en symbiose avec mon emploi du temps qui régissait mon activité professionnelle avec malgré tout un certain confort. Ce même confort qui m'a appris à prendre mon temps chez ABGX, m'apportant malgré tout une sensation de décélération qui m'a parfois frustré. Pour autant, c'est celle qui m'a remis en phase avec le travail. Dans le travail comme en voiture, il faut adapter votre vitesse à votre environnement. Même sur une piste de course comme en formule 1, les meilleures temps sont réalisés en ayant la vitesse la plus optimale dans les conditions matérielles à ce moment. J'ai souvent entendu dire "ce n'est pas ce qui est demandé ni prioritaire, on fera ça plus tard", et bien évidement, la plupart du temps cela fini par n'être jamais fait. Dans les projets informatique c'est ainsi que la dette technique s'immisce, des fonctionnalités qui s’accumulent, des développements qui s’enchaînent, et pallie aux problèmes qu'avec des corrections rapides, s’attaquant aux causes plutôt qu'aux conséquences. Dès que l'on constate un problème, il faut avoir le réflexe de réaliser la tâche dans la foulée, ou de la planifier pour ne pas que l'information se perde.
 
-La réalisation d'un projet est donc un travail de groupe, mais aussi individuel, c'est pourquoi la formation du personnel est importante et que cette dernière passe par l'apprentissage personnel. Il convient, quel que soit votre métier, d'effectuer une veille stratégique pour vous même avoir une démarche d'amélioration continue, et ce en dehors de toute formation organisée par votre établissement. Être autodidacte vous permet d'être maître de vos connaissances et de votre travail. Cela ne signifie pas pour autant qu'il faut tout faire seul et soit même car il y'a généralement besoin d'un mentor pour apprendre, ou d'être capable de faire entendre et valoir ses opinions à autrui pour pouvoir mettre pleinement en application ses compétences.
+La réalisation d'un projet est donc un travail de groupe, mais aussi individuel, c'est pourquoi la formation du personnel est importante et que cette dernière passe par l'apprentissage personnel. Il convient, quel que soit votre métier, d'effectuer une veille stratégique pour vous même avoir une démarche d'amélioration continue, et ce en dehors de toute formation organisée par votre établissement. Être autodidacte vous permet d'être maître de vos connaissances et de votre travail. Cela ne signifie pas pour autant qu'il faut tout faire seul et soi-même car il y'a généralement besoin d'un mentor pour apprendre, ou d'être capable de faire entendre et valoir ses opinions à autrui pour pouvoir mettre pleinement en application ses compétences.
 
 
 
-### Développement personnel
+### Apprentissage et développement personnel
 
-L'apprentissage commence généralement avec de la mémorisation, s'ensuit une compréhension qui permet la résolutions de problèmes, enfin s'y ajoute la créativité que l'on débloque lorsque l'on à le savoir et le savoir faire. La mémorisation étant le terreau du savoir, il est important de comprendre que les scientifiques ont aujourd'hui prouvés que les humains ont, tout comme les machines, une mémoire de travail et une mémoire à long terme. Ses deux mémoires sont comparables à la RAM et aux stockages de masse. Le cerveau possède même un mécanisme d'encodage de l'information vers la mémoire à long terme et de récupération vers la mémoire de travail, les informations les plus importantes possèdent plus d'amorces, permettant de les retrouver et s'en souvenir plus facilement, avec bien sur certaines informations dont le signal se perd, dans l'oubli, nécessaire à trier et jeter ou archiver ce qui l'est moins, dans le cas de la mémoire à long terme, cela se produit en perdant des amorces au fur et a mesure du temps.
+L'apprentissage commence généralement avec de la mémorisation, s'ensuit une compréhension qui permet la résolutions de problèmes, enfin s'y ajoute la créativité que l'on débloque lorsque l'on a le savoir et le savoir faire. La mémorisation étant le terreau du savoir, il est important de comprendre que les scientifiques ont aujourd'hui prouvés que les humains ont, tout comme les machines, une mémoire de travail et une mémoire à long terme. Ses deux mémoires sont comparables à la RAM et aux stockages de masse. Le cerveau possède même un mécanisme d'encodage de l'information vers la mémoire à long terme et de récupération vers la mémoire de travail, les informations les plus importantes possèdent plus d'amorces, permettant de les retrouver et s'en souvenir plus facilement, avec bien sur certaines informations dont le signal se perd, dans l'oubli, nécessaire à trier et jeter ou archiver ce qui n'est pas jugé important. Dans le cas de la mémoire à long terme, cet oubli se produit en perdant des amorces au fur et a mesure du temps.
 
-A l'aide de schémas mentaux, nous associons un ensemble de concepts ou d'idées liées, permettant de formuler facilement des phrases compréhensibles et retransmissibles. L'humain à la chance d'être multimodal et d'avoir plusieurs "périphériques" biologiques. Une fois qu'il a capté une information grâce à un d'entre eux, il doit la revoir ou se la répéter à intervalles réguliers et assez courts afin de la mémoriser. D'après ce que l'on a vu précédemment cela fait sens, la répétition de la perception de cette information par l'esprit va lui permettre de créer plus d'amorces et constituer des schémas mentaux. La reformulation sous forme de questions que l'on peut se poser pour tester ses connaissance permet un apprentissage plus rapide. Reformuler dans le but de réexpliquer permet également de diversifier son apprentissage [^1]
+À l'aide de schémas mentaux, nous associons un ensemble de concepts ou d'idées liées, permettant de formuler facilement des phrases compréhensibles et retransmissibles. L'humain à la chance d'être multimodal et d'avoir plusieurs "périphériques" biologiques. Une fois qu'il a capté une information grâce à un d'entre eux, il doit la revoir ou se la répéter à intervalles réguliers et assez courts afin de la mémoriser. D'après ce que l'on a vu précédemment cela fait sens, la répétition de la perception de cette information par l'esprit va lui permettre de créer plus d'amorces et constituer des schémas mentaux. La reformulation sous forme de questions que l'on peut se poser pour tester ses connaissance permet un apprentissage plus rapide. Reformuler dans le but de réexpliquer permet également de diversifier son apprentissage [^1]
 
 [^1]:  https://www.youtube.com/watch?v=RVB3PBPxMWg
 
 
 
-Bien que les compétences numérique, sociales et civiques, ainsi qu'apprendre à apprendre, fasse partie du socle commun des connaissances et des compétences, je pense qu'elles sont négligées et que l'on devrais enseigner des choses plus concrètes comme le suggérait John Dewey dans *School and Society*. J'ai du attendre l'enseignement supérieur pour avoir un cours unique de quelques heures sur la mémorisation et l'auto-formation, et je regrette que l'on ne nous indique pas quels sont les droits et aides disponibles, que l'on soit en situation précaire ou chef d'entreprise en devenir. Actuellement, l'éducation n'apprends pas aux gens à bien vivre. Imposer un programme est nécessaire pour avoir une base commune, mais les gens ont une vie à côté qui les impact positivement ou négativement dans le scolaire. Certaines compétences générales qui devraient être universelles, comme la gestion d'un budget, d'un planning, la cuisine, l'entretien d'un foyer, ou les démarches administratives élémentaires comme les déclarations d'impôts ou les demandes d'aides, ne sont transmises que par les parents ou les enseignements supérieurs spécialisés.
+Bien que les compétences numérique, sociales et civiques, ainsi qu'apprendre à apprendre, fasse partie du socle commun des connaissances et des compétences, je pense qu'elles sont négligées et que l'on devrais enseigner des choses plus concrètes comme le suggérait John Dewey dans *School and Society*. J'ai du attendre l'enseignement supérieur pour avoir un cours unique de quelques heures sur la mémorisation et l'auto-formation, et je regrette que l'on ne nous indique pas systématiquement quels sont les droits et aides disponibles, et ce que l'on soit en situation précaire ou chef d'entreprise en devenir. Actuellement, l'éducation n'apprends pas aux gens à bien vivre dans leur environnement. Imposer un programme est nécessaire pour avoir une base commune, mais les gens ont une vie à côté qui les impact positivement ou négativement dans le scolaire. Certaines compétences générales qui devraient être universelles, comme la gestion d'un budget, d'un planning, la cuisine, l'entretien d'un foyer, ou les démarches administratives élémentaires comme les déclarations d'impôts ou les demandes d'aides, ne sont transmises que par les parents ou les enseignements supérieurs spécialisés.
 
 Or selon moi le rôle de l'éducation devrait être de faire en sorte que toute personne ayant un objectif soit capable d'elle même trouver les pré-requis nécessaires et les appliquer. De plus nous avons de formidables références nationales comme https://legifrance.gouv.fr/,  https://www.service-public.fr/ ou https://gallica.bnf.fr/ ou internationales comme https://fr.wikipedia.org et elle ne sont que peu consultées. Nul n'est censé ignoré la loi mais seuls les professionnels la lise et la connaissent. L'éducation ne doit pas fournir tout les outils existants, mais apprendre à l'élève comment trouver les outils et informations dont il aura besoin en plus de lui apprendre à apprendre, et ainsi lui indiquer comment il peut s'autoformer. L'école et l'éducation nationale n'ont pas le monopole du savoir. Elle permet malgré tout d'avoir des bases informationnelles testés et certifiées dans un périmètre définit par le programme qu'elles proposent.
 
-Je n'ai pas encore parlé de la didactique, elle s’intéresse plus aux contenus des cours, contrairement à la pédagogie qui est la manière de les amener et de les transmettre d'un mentor à un apprenant, les deux sont complémentaires. La pédagogie possède le biais de l'Effet Dr. Fox, qui dit qu'un cours sera apprécié plus en fonction de la personnalité du professeur que du contenu du cours. Or je pense que son dernier et son architecture sont fondamentales et différents en fonction du mode de pensée et d'apprentissage des élèves, d'où l'intervention de la pédagogie pour diriger l'élève vers des exercices ou conversations adaptés à son raisonnement et lui permettant de comprendre les concepts.
+Je n'ai pas encore parlé de la didactique, elle s’intéresse plus aux contenus des cours, contrairement à la pédagogie qui est la manière de les amener et de les transmettre d'un mentor à un apprenant, les deux sont complémentaires. La pédagogie possède le biais de l'Effet Dr. Fox, qui dit qu'un cours sera apprécié plus en fonction de la personnalité du professeur que du contenu du cours. Or je pense que ce dernier et son architecture sont fondamentales et différents en fonction du mode de pensée et d'apprentissage des élèves, d'où l'intervention de la pédagogie pour diriger l'élève vers des exercices ou conversations adaptés à son raisonnement et lui permettant de comprendre les concepts.
 
-L'apprentissage se fait souvent par l’erreur, sans elle rien ne serais possible. Le succès ne s’obtient qu’en résolvant des micro problèmes. N'apprenez pas par cœur, comprenez et retenez la logique derrière. Malgré le fait que l'erreur est bénéfique, des études montrent désormais que l'apprentissage se fait mieux par la récompense que la punition.[^1] Il est plus productif d'encourager un bon comportement que d'en réprimander un mauvais, bien que cela soit parfois nécessaire, il vaut toujours mieux orienter sa pédagogie de manière positive.  Je pense que la pédagogie active et mutuelle des pédagogues contemporains est une belle utopie inspirée de Rousseau. En réalité un bon apprentissage est avant tout du ressort de l'apprenant. C'est d'ailleurs pourquoi il est au cœur de ces techniques d'apprentissages. Depuis Montaigne, l'adage "L'enfant n'est pas un vase que l'on remplit, mais un feu que l'on allume" est couramment repris. En effet, la plus forte source de motivation est intrinsèque, c'est celle qui émane de la pensée telle la conscience. Celle qui est infinie comme l'imagination. Celle dont né une volonté et satiété de savoir intarissable. La pédagogie active et plus généralement l'autodidaxie permettent à l'élève d'être acteur de son apprentissage, il choisit ce qu’il désire apprendre, quand, et comment ; bien que cela se passe souvent par le jeu dirigé puis libre. La motivation de l'étudiant devient intrinsèque au fur et à mesure qu'on lui donne de la liberté, ce qui favorise l'autonomie, la retenue, la prise de décision, et la gestion des conflits. L'adulte ou le mentor doit n'être qu'un médiateur entre l'élève et le savoir, un guide d'apprentissage. Il doit selon moi lui faire part de ce qu'il sait vrai, le justifier, et admettre qu'il peut avoir tord. Le vrai respect ne s'obtient pas par l'autorité mais par le partage, tout en respectant la barrière sensible nécessaire à toute relation professionnelle. Il n'est pas grave de la franchir pour autant, la proximité permet une meilleur compréhension d'autrui, mais il faut savoir repartir de l'autre côté à n'importe quel moment.
+L'apprentissage se fait souvent par l’erreur, sans elle rien ne serais possible. Le succès ne s’obtient qu’en résolvant des micro problèmes. Malgré le fait que l'erreur est bénéfique, des études montrent désormais que l'apprentissage se fait mieux par la récompense que la punition.[^1] Il est plus productif d'encourager un bon comportement que d'en réprimander un mauvais, bien que cela soit parfois nécessaire, il vaut toujours mieux orienter sa pédagogie de manière positive.  Je pense que la pédagogie active et mutuelle des pédagogues contemporains est une belle utopie inspirée de Rousseau. En réalité un bon apprentissage est avant tout du ressort de l'apprenant. C'est d'ailleurs pourquoi il est au cœur de ces techniques d'apprentissages. Depuis Montaigne, l'adage "L'enfant n'est pas un vase que l'on remplit, mais un feu que l'on allume" est couramment repris. En effet, la plus forte source de motivation est intrinsèque, c'est celle qui émane de la pensée telle la conscience. Celle qui est infinie comme l'imagination. Celle dont né une volonté et satiété de savoir intarissable. La pédagogie active et plus généralement l'autodidaxie permettent à l'élève d'être acteur de son apprentissage, il choisit ce qu’il désire apprendre, quand, et comment ; bien que cela se passe souvent par le jeu dirigé puis libre. La motivation de l'étudiant devient intrinsèque au fur et à mesure qu'on lui donne de la liberté, ce qui favorise l'autonomie, la retenue, la prise de décision, et la gestion des conflits. L'adulte ou le mentor doit n'être qu'un médiateur entre l'élève et le savoir, un guide d'apprentissage. Il doit selon moi lui faire part de ce qu'il sait vrai, le justifier, et admettre qu'il peut avoir tord. Le vrai respect ne s'obtient pas par l'autorité mais par le partage, tout en respectant la barrière sensible nécessaire à toute relation professionnelle. Il n'est pas grave de la franchir pour autant, la proximité permet une meilleur compréhension d'autrui, mais il faut savoir repartir de l'autre côté à n'importe quel moment.
 
 [^1]: https://www.inshs.cnrs.fr/fr/cnrsinfo/apprentissage-par-recompense-ou-par-punition-quelles-differences
 
-Les logiciels éducatifs sont également un médium guidant l'apprentissage. Comme j'ai pu le dire précédemment, j'ai appris à lire à 2 ans et demi et sauté deux classes grâce à "Reader Rabbit, Learn to read with phonics"[^2]. Je n'en suis pas un génie pour autant, et ce n'est pas pour faire preuve humilité. J'ai juste expérimenté un programme, réalisé par des développeurs qui avait une conscience de l'expérience utilisateurs, et qui pour se mettre dans la tête de leurs joueurs, ont inventé un scénario où un ordinateur, propose un vœux à une petite souris qui ne sait pas lire, et retire alors l'intégralité des charactères écrits de sa ville. Le joueur doit alors retrouver les lettres de l'alphabet et écouter le son qu'elles produisent, les mots qu'elles permettent de former. Ce procédé guide l'élève pour qu'il construise au fur et à mesure, à travers le jeu vidéo, des associations entre les caractères visuels, les sons et les formes qu'elles représentent dans le sens d'idées. Permettant ainsi la lecture textuelle et la compréhension qui en découle.
+Les logiciels éducatifs sont également un médium guidant l'apprentissage. Comme j'ai pu le dire précédemment, j'ai appris à lire à 2 ans et demi et sauté deux classes grâce à "Reader Rabbit, Learn to read with phonics"[^2]. Je n'en suis pas un génie pour autant, et ce n'est pas pour faire preuve humilité. J'ai juste expérimenté un programme, réalisé par une équipe logicielle qui avait une conscience de l'expérience utilisateur, et qui se sont mis à la place de leurs joueurs. Ils ont alors inventé un scénario où un ordinateur propose un vœux à une petite souris qui ne sait pas lire, et retire alors l'intégralité des charactères écrits de sa ville. Le joueur doit alors retrouver les lettres de l'alphabet et écouter le son qu'elles produisent, les mots qu'elles permettent de former. Ce procédé guide l'élève pour qu'il construise au fur et à mesure, à travers le jeu vidéo, des associations entre les caractères visuels, les sons, et les formes qu'elles représentent dans le sens d'idées. Permettant ainsi la lecture textuelle et la compréhension qui en découle.
 
 [^2]: https://www.youtube.com/watch?v=Vl_S21D7j9w
 
-De manière générale, le jeu développe les compétences sociales et cognitives de l'apprenti, qui n'est plus passif face à un cours qui lui est dispensé par une autorité qui sanctionne et récompense, mais découvre et s'approprie la connaissance par lui même. Bien que le jeu libre ai bien des avantages, le jeu dirigé permet de structurer l'apprentissage à l'aide d'un mentor favorisant l'acquisition de compétences, que le pédagogue transmet à ses disciples. Ce cadre réside dans l'analyse des difficultés et problèmes de l'étudiant, par la recherche des notions manquantes pour y palier, et l'élaboration d'un plan classique permettant d'y arriver, composé de cours, d'exercices, et enfin d'un examen, nécessaire à la validation individuelle de la théorie. Cette notion d'apprentissage actif "Learning by doing" se retrouve pour les langages de programmation comme avec le logiciel Rustlings ou Rust by example. Il existe d'autres langages et jeux en lignes utilisant le jeu pour faciliter l'apprentissage, parmis eux je pense notamment à Scratch, FlexboxFroggy, CodingGame, Logo.
+De manière générale, le jeu développe les compétences sociales et cognitives de l'apprenti, qui n'est plus passif face à un cours qui lui est dispensé par une autorité qui sanctionne et récompense, mais découvre et s'approprie la connaissance par lui même. Bien que le jeu libre ai bien des avantages, le jeu dirigé permet de structurer l'apprentissage à l'aide d'un mentor favorisant l'acquisition de compétences, que le pédagogue transmet à ses disciples. Ce cadre réside dans l'analyse des difficultés et problèmes de l'étudiant, par la recherche des notions manquantes pour y palier, et l'élaboration d'un plan classique permettant d'y arriver, composé de cours, d'exercices, et enfin d'un examen, nécessaire à la validation individuelle de la théorie. Cette notion d'apprentissage actif "Learning by doing" se retrouve pour les langages de programmation comme avec le logiciel *Rustlings* ou *Rust by example*. Il existe d'autres langages et jeux en lignes utilisant le jeu pour faciliter l'apprentissage, parmis eux je pense notamment à Scratch, FlexboxFroggy, CodingGame, Logo.
 
-La tablette pourrait remplacer les manuels scolaires, les cahiers, réduire les couts et le poids des cartables. Malgré le fait que certains pays l'ayant essayé ai fait marche arrière comme la Suède, je pense qu'avec un ludiciel adapté couvrant l'ensemble des matières de tout niveau à l'aide d'un arbre de compétence et gérant les communications entre les familles et les écoles, il serait possible d'harmoniser les enseignements et d'appliquer les programmes tout en réduisant le temps apprentissage. Quand j'ai appris à lire, les périphériques tactiles n'étaient pas encore démocratisés, j'avais alors un gros retard sur cette compétence. Il existe aujourd'hui multitude d'application mobiles pour apprendre à écrire. Sur une tablette possédant un stylet, un enfant peut en toute autonomie jouer pour acquérir cette habilité. Le problème et la crainte réelle des enseignants et des parent sont essentiellement la casse et le prix du renouvellement d'un tel appareil électronique, accompagné des dérives liés aux possibilités illimitées d'un ordinateur pouvant distraire l'élève et le détourner de ses objectifs éducatifs. Je leur répondrais que leur rôle est d'enseigner la précaution et la discipline, l'élève pourra ainsi se charger lui même du reste. Enfin je terminerai cette partie sur l'apprentissage avec une citation de jeu vidéo, Maitre Yi dans League Of Legends dit "*Un vrai maître est un éternel étudiant*".
+La tablette pourrait remplacer les manuels scolaires, les cahiers, réduire les couts et le poids des cartables. Malgré le fait que certains pays l'ayant essayé ai fait marche arrière comme la Suède, je pense qu'avec un ludiciel adapté couvrant l'ensemble des matières de tout niveau à l'aide d'un arbre de compétence et gérant les communications entre les familles et les écoles, il serait possible d'harmoniser les enseignements et d'appliquer les programmes tout en réduisant le temps apprentissage. Quand j'ai appris à lire, les périphériques tactiles n'étaient pas encore démocratisés, j'avais alors un gros retard sur cette compétence. Il existe aujourd'hui multitude d'application mobiles pour apprendre à écrire. Sur une tablette possédant un stylet, un enfant peut en toute autonomie jouer pour acquérir cette habilité. Le problème et la crainte réelle des enseignants et des parent sont essentiellement la casse et le prix du renouvellement d'un tel appareil électronique, accompagné des dérives liés aux possibilités illimitées d'un ordinateur pouvant distraire l'élève et le détourner de ses objectifs éducatifs. Je leur répondrais que leur rôle est d'enseigner la précaution et la discipline, l'élève pourra ainsi se charger lui même du reste. Enfin je terminerai cette partie sur l'apprentissage avec une citation de jeu vidéo, Maitre Yi dans League Of Legends dit "*Un vrai maître est un éternel étudiant*", et je rajouterai même un conseil personnel que j'applique depuis toujours : "N'apprenez pas par cœur, comprenez et retenez la logique qui produit le résultat".
 
 
 
-Pour continuer sur mon développement personnel, j'ai très tôt appris à cuisiner, et je continue aujourd'hui de le pratiquer afin d'améliorer ma propre expérience culinaire ainsi que mes connaissances annexes à cette discipline. La cuisine est selon moi une science combinatoire et une philosophie à part entière regroupant les mathématiques, la biologie, la physique-chimie, et plein d'autres sciences y compris sociales ou neurologique. C'est un grand tout, depuis l'antiquité, les recettes sont des formulations logiques, les ingrédients sont biologiques, leurs modifications par leurs préparations, formes, mélanges, et leurs méthodes de cuissons, sont physiques, les proportions quant à elles sont mathématiques. On sait aujourd'hui scientifiquement que notre alimentation conditionne notre santé, et que notre santé peut conditionner notre alimentation. En effet, le système humain et animal à besoin d'une entrée d'énergie constante pour contrebalancer son activité physique et neuronale. Sans cela ou avec une mauvaise alimentation, il parait logique d'avoir un système défaillant. C'est la source même de la vie. Pour autant, bien que ce soit un facteur pouvant influer sur les comportements, je pense qu'en dehors de scénario très précis, les décision peuvent, si la volonté est suffisante pour cela, transcender un pseudo-déterminisme alimentaire. La cuisine a quelque chose d'universel, tout peuple de la Terre à inventé indépendamment des autres ses propres recettes, cultures, élevages, croisement d'espèces volontaire ou non. La mondialisation est venue optimiser les agriculture et permettre des échanges de nourriture et des pratiques de cultures culinaires à l'échelle de la Terre. Les scientifiques nous ont fait savoir que les bactéries qui nous aident à digérer les aliments représentent une partie non négligeable de notre poids, nous vivons en symbiose avec eux à travers notre alimentation. En Informatique, et notamment en intelligence artificielle, les résultats dépendent également beaucoup des information avec lesquelles on alimente le système. Le résultat d'un algorithme, dépends des variables passées en entrée.
+Pour continuer sur mon développement personnel, j'ai très tôt appris à cuisiner, et je continue aujourd'hui de le pratiquer afin d'améliorer ma propre expérience culinaire ainsi que mes connaissances annexes à cette discipline. L'adage que j'ai introduit à la fin du paragraphe précédent s'applique parfaitement à la cuisine, dont les recettes sont vouées à ne pas être suivies à la lettre. On peut les modifier et les adapter en fonction des goûts ou ingrédients de chacun, à condition d'avoir une observation attentive et une compréhension pluridisciplinaire. En effet la cuisine est une science combinatoire et une philosophie à part entière regroupant les mathématiques, la biologie, la physique-chimie, et plein d'autres sciences y compris sociales ou neurologique. C'est un grand tout, depuis l'antiquité, les recettes sont des formulations logiques, les ingrédients sont biologiques, leurs modifications par leurs préparations, formes, mélanges, et leurs méthodes de cuissons, sont physiques, les proportions quant à elles sont mathématiques. On sait aujourd'hui scientifiquement que notre alimentation conditionne notre santé, et que notre santé peut conditionner notre alimentation. En effet, le système humain et animal à besoin d'une entrée d'énergie constante pour contrebalancer son activité physique et neuronale. Sans cela ou avec une mauvaise alimentation, il parait logique d'avoir un système défaillant. C'est la source même de la vie. Pour autant, bien que ce soit un facteur pouvant influer sur les comportements, je pense qu'en dehors de scénario très précis, les décision peuvent, si la volonté est suffisante pour cela, transcender un pseudo-déterminisme alimentaire. La cuisine a quelque chose d'universel, tout peuple de la Terre à inventé indépendamment des autres ses propres recettes, cultures, élevages, croisement d'espèces volontaire ou non. La mondialisation est venue optimiser les agriculture et permettre des échanges de nourriture et des pratiques de cultures culinaires à l'échelle de la Terre. Les scientifiques nous ont fait savoir que les bactéries, qui nous aident à digérer les aliments, représentent une partie non négligeable de notre poids, nous vivons en symbiose avec eux à travers notre alimentation. En Informatique, et notamment en intelligence artificielle, les résultats dépendent également beaucoup des information avec lesquelles on alimente le système. Le résultat d'un algorithme, dépends des variables passées en entrée.
 
-Concernant une croyance, selon moi la vraie question à se poser face à une information douteuse serait "Est ce que c'est scientifiquement démontrable ?" Celle a se poser vis à vis d'une croyance serait quant à elle : "What if ?" autrement dit : "Que se passerai t'il si je me mettais à croire ça ?".
 
-> "It was there noticed that the action of thought is excited by the irritation of doubt, and ceases when belief is attained; so that the production of belief is the sole function of thought."
+
+Je n'ai pu aborder pleinement la philosophie mais afin de parler succinctement de la pensée, je vais reprendre une citation d'un fameux logicien que j'ai introduit précédemment, il déclare que l'action même de penser est stimulée par irritation du doute et ne s'arrête que lorsqu'elle arrive à conclure son raisonnement avec la production d'une croyance. Ainsi, la principale fonction de la pensée.
+
+>"It was there noticed that the action of thought is excited by the irritation of doubt, and ceases when belief is attained; so that the production of belief is the sole function of thought."
 >
-> Charles S. Peirce - *How to make Ideas clear*
+>Charles S. Peirce - *How to make Ideas clear*
 
-Ce rapport a la croyance permet **l'anticipation**. L'imagination nous permet de se projeter dans les différents scénarios possibles, si on commence a croire qu'une chose va se passer, on se demande alors : 'Qu'est ce qui arriverai probablement si cela se produit ?"
+Selon moi la vraie question à se poser face à une information douteuse serait "Est ce que c'est scientifiquement démontrable ?" Celle a se poser vis à vis d'une croyance serait quant à elle : "What if ?" autrement dit : "Que se passerai t'il si je me mettais à croire ça ?". Vos croyances ont une influence sur votre vie, j'ai longtemps été contre l'idée d'une pensée positive, et je la voit parfois encore comme une tentative de s'auto détourner cognitivement (gaslight). Pour autant, il a été prouvé scientifiquement que les croyances positives ont une influence positive, et que les croyances négatives ont une influence négative. C'est ce que l'on appelle respectivement l'effet Pygmalion et l'effet Golem. Finalement, je pense qu'il faut faire preuve d'un réalisme optimiste, envisageant le mal comme le bien, de manière à éviter les problèmes, et améliorer ce que l'on peut. Ce rapport a la croyance permet **l'anticipation**. L'imagination nous permet de se projeter dans les différents scénarios possibles, si on commence a croire qu'une chose va se passer, on se demande alors : "Si cela arrive, que ce passera t'il ?"
 
-example avec la compiltion rust qui empeche les top 10 des erreurs
-
-extrm prog
-
-Planning poker, reu tech, mais pas d'analyse commune -> rework et pair programming.
+Dans le cadre du logiciel, l'anticipation se produit notamment avec la compilation, par exemple cette dernière permet au langage Rust d'empêcher les 10 erreurs les plus fréquentes dans l'industrie du logiciel. Elle peut également se manifester grâce à la gestion de projet mais surtout en travaillant en binôme comme le recommande l'*Extreme Programming* de Kent Beck. Coder en binôme permet de tester ses idées face à autrui de manière dialectique, c'est à dire communiquer en tête à tête de manière à partager des connaissances et savoir-faires. Cette communication doit idéalement se faire de manière claire, honnête, consistante, réactive, et adaptée à l'interlocuteur. En communication comme en électronique, un ensemble de signaux faibles peuvent s'entre-interférer et créer du bruit. Un signal fort peut quand à lui perturber voire totalement stopper un système, et c'est parfois l'effet escompté. Tout étudiant l'as déjà expérimenté, nous avons tous déjà été dans une situation ou un groupe bruyant se tait après qu'une autorité, généralement le professeur, ai hausser la voix ou siffler. Si un professeur doit user de son autorité avec des signaux forts, c'est que les bavardages sont des informations parasites à son cours. De la même manière que tout les élèves d'une classe devraient être attentifs aux cours. Dans une entreprise nous devrions tous être concernés par ce que l'on produit. Norbert Ellias à déclaré que l'individu et la société ne sont pas deux choses séparés, et je pense que l'on est tous responsable de nos actes quels qu'ils soient, y compris l'acte de rester passif et ne rien faire ou dire.
 
 
 
 
 
-L'humain est de plus en plus capable de comprendre ou restituer des faits **a posteriori**. Il est même en mesure de restaurer des informations que les experts pensaient perdue. Les technologies comme les rayons X, le Lidar sont très utilisés en archéologie afin de ne pas avoir a profaner des œuvres scellées. Plus récemment, il s'est avéré que les techniques de peinture des grand maîtres ont étés transmises par Léonard de Vinci qui expérimentait de nouvelles techniques de peintures comme l'application d'une première couche à base de plomb nommée Plombonacrite. Les intelligence artificielles ont également permis de déchiffrer des parties d'un manuscrit calciné lors du vesuvius challenge https://scrollprize.org/
-
-https://www.journaldugeek.com/2023/10/16/un-accelerateur-de-particules-revele-un-nouveau-secret-de-la-joconde/?utm_source=pocket-newtab-fr-fr
-
-https://pubs.acs.org/doi/10.1021/jacs.3c07000
-
-
-
-#### Standardisation & Universalité
-
-L’uniformisation à permi d'avoir un langage commun au même titre que la logique mathématique. Le système métrique aussi
-
-Actuellement, malgré les bonnes pratiques prônées, peu sont mises en application et beaucoup de fois je me retrouve a effectuer des copier coller avec une légère modification, alors que ma philosophie est que chaque copier coller devrait être une fonction réutilisable avec pour paramètre les variables amenées a changer ou être configurable. Cela me permet de standardiser l'ensemble de mon code et de le factoriser au plus simple.
-
-Interopérabilité instantanée inter-appareils, édition live multiutilisateur 
-
-
-
-
-
-
-
-#### Communication et Professionnalisme
-
-J'aimerai appliquer la dialectique à l'entreprise, avec des visioconférences 1:1
-
-On agit tous différemment dans le contexte professionnel. Effectuer un métier n'est pas compliqué, le réaliser avec des gens l'est plus. Il faut tellement de compétences managériales qu'il nous faut. Quand je suis dans le milieu professionnel, j'exerce une fonction, ou une liste de fonctions définies par le contrat de travail.
-
-On ne comprend l'essence des concepts qu'en généralisant et remontant au niveau du groupe social voulu. En discrétisant les information à la granularité voulue. Tolérance face à la différence entre réalité qu'on imagine et qu'on expérimente. Dans une entreprise nous somme tous concernés par rapport à un même produit. Norbert Ellias nous apprends que l'individu et la société ne sont pas deux choses séparés. On est tous responsable de nos actes quels qu'ils soient.
-
-transparence, adéquation clarté crédibilité, réactivité,  -  consistance, engagement, accessibilité, authenticité, proactivité, évaluation
-
-En communication comme en électronique, un signal fort peut perturber voire totalement stopper un système. C'est le cas dans l’épisode 22 de la série Baki dans lequel un combattant spécialisé en environnement fait taire toute une arène en criant extrêmement fort. Tout étudiant l'a déjà expérimenté, on a tous déjà été dans une situation ou un groupe bruyant se tait après qu'une autorité ai hausser la voix.
-
-La viralité est un facteur mathématiquement calculable. C'est la moyenne de transmissions faites par les personnes atteintes par une information. Une information est virale dès que son facteur dépasse 1, autrement dis dès que la moyenne des personnes en sa possession la retransmettent à plus d'une autre personne.
-
-
-
-Informations parasites. Quand je travaille sur une fonction je n’ai pas besoin de voir autre chose que ses dépendances. le divertissement n'est pas nécessaire non plus. L'informatique et l'algorithmique nous permettent de répliquer a l'infini une information ou un traitement logique de donnée. 
-
-croyances limitantes et mauvaise foi
-
-Désinformation 
-
-
-
-
-
-#### Metagame
+### Metagame
 
 Lorsque des joueurs poussent assez l'analyse d'un jeu, ils arrivent à en comprendre assez bien le fonctionnement pour être capable d'utiliser et de profiter des règles. Ils sont capable d'en abstraire les principes, comprendre la logique qu'il y a derière, et peuvent alors avoir une approche stratégique leurs permettant de dépasser les limitations fixées ou espérées par les concepteurs du jeu. L'idée du meta-jeu est d'appliquer la science et la théorie des jeux de manière à trouver une technique dont les chances de victoires sont les plus hautes possibles. Même sur les jeux les plus simples comme Tetris, les joueurs ont trouvé des technique de frappe comme "l'hypertapping" ou le "rolling", permettant d'effectuer plus d'actions par secondes avec leurs manettes, si bien qu'ils ont ainsi pu aller au delà du niveau "maximum" à partir duquel la vitesse de chute des formes s'arrête d'accélérer.
 
@@ -970,17 +784,15 @@ Toute forme de vie réponds à une logique très simple. Comment réussir sans m
 
 Dans le cas des jeux d'argents, des paris et casinos, la formule de Kelly peut permettre une bonne approximation de la mise à prier, généralement celle ci avoisine les un tiers. Elle permet à un joueur d'éviter un excès d'enthousiasme ou de pessimisme et ainsi raisonner scientifiquement son jeu pour l'équilibrer. Malgré tout le biais peut aider, car si on a été biaisé alors d'autres ont pu l'être aussi et cela peut contribuer à l'intérêt donné à une valeur financière. Cette formule est paradoxalement trop mathématique pour représenter précisément le monde humain multifactoriel et imparfait. Quand on voit le pouvoir de la croyance, on a tout intérêt à croire en soi et les siens, ainsi qu'en nos choix, mais il faut le faire rationnellement, en testant ses croyances, et si elles en deviennent négatives, il faut les changer voire tester l'inverse. Toujours en restant tempéré et raisonné. Il n'y a aucune formule miracle, il faut juste tester et voir ce qui marche et ce qui ne marche pas, tout en gardant une approche logique itérative. 
 
-La métacognition et la rétroaction permettent de se comprendre soi même et d'adapter ses comportements et habitudes, il faut perpétuellement s'efforcer d'être le plus conscient possible de sa situation, des possibilités et opportunités qui se présentent à nous et faire le bon choix, qu'un joueur dise oui ou non, des portes s'ouvrent autant que se ferment à lui. Tout investissement profitable induit généralement une contrepartie, qui est rarement équilibrée et idéalement faite de manière humaine, pour donner à ceux qui en ont le plus besoin. Mais dans la réalité, les personnes qui gagnent le plus sont celles qui ont beaucoup et peuvent se permettre d'investir qu'un poucentage faible de leur éparge tout en leur donnant un avantage conséquant dans le jeu financier en place sur la durée où le joueur mise son argent.
+La vie est un jeu, on peut donc y appliquer les mêmes notions. Jouez au jeu, et s'il le faut, suivez le pacte d’Ulysse. La métacognition et la rétroaction permettent de se comprendre soi même et d'adapter ses comportements et habitudes, il faut perpétuellement s'efforcer d'être le plus conscient possible de sa situation, des possibilités et opportunités qui se présentent à nous et faire le bon choix, qu'un joueur dise oui ou non, des portes s'ouvrent autant que se ferment à lui. Tout investissement profitable induit généralement une contrepartie, qui est rarement équilibrée et idéalement faite de manière humaine, pour donner à ceux qui en ont le plus besoin. Mais dans la réalité, les personnes qui gagnent le plus sont celles qui ont beaucoup et peuvent se permettre d'investir qu'un pourcentage faible de leur épargne tout en leur donnant un avantage conséquent dans le jeu financier en place sur la durée où le joueur mise son argent.
+
+
 
 https://ayowel.github.io/trust/
 
-La vie est un jeu, on peut donc y appliquer les mêmes notions. Jouez au jeu, et s'il le faut, suivez le pacte d’Ulysse.
+Les découvertes ne sont pas toujours l'œuvre de savants ou de personnes renommés. En 2023, de simples utilisateurs de jeux mobile découvriront ce que les mathématiciens recherchent depuis des siècles. Ça a été le cas du problème einstein essayant de trouver une forme géométrique unique dite d'*ein stein* (une tuile en allemand), que les chercheurs ne pensaient pas possible jusque là. En réalité elle est très simple et peut se construire en découpant trois hexagones liés en suivant les médiatrice de leurs côtés. Cette dernière ressemble à un t-shirt ou un chapeau et permet de réaliser un pavage apériodique à tuile unique c'est à dire de recouvrir une surface plane par un emboîtement de copies de cette forme, sans qu'elle ne se répète à l'identique comme les carreaux d'une grille. Pour ce faire il faut parfois avoir recours à une tuile inversé, problème qui a été réglé avec la découverte d'une autre forme, le spectre.
 
-La magie c'est de défaire et savoir refaire sans que le spectateur ne comprenne la logique qui à lieu derrière la scène.
-
-
-
-
+***Illustration de ces formes***
 
 
 
@@ -992,75 +804,144 @@ La magie c'est de défaire et savoir refaire sans que le spectateur ne comprenne
 
 ### Concepts et outils de programmation
 
-Entrées et sorties, Inputs et Outputs (IO), sont le couple de paramètres entrants et des valeurs sortantes d'une fonction. Avec elles seules on peut définir les fonctionnalités possibles à un certain contexte d'entrées et sorties attendues. On peut deviner ou comprendre la logique cachée derrière. C'est une sorte de double entonnoir, comme des portails, théoriquement bidirectionnels. On peut la mettre en relation avec la lecture et l'écriture, en C# .NET [`System.IO`](#https://learn.microsoft.com/en-us/dotnet/api/system.io?view=net-7.0) est ailleurs un espace de noms (namespace) permettant d'accéder à des fonctions algorithmiques standard de lire et écrire des fichiers et par conséquent des dossiers. Puisque oui, les dossiers sont des fichiers, contenant l'adresse mémoire de son contenu. En réalité, tout n'est que variables et fonction mathématiques. Les fichiers sont des variables, et les actions que l'on peut réaliser à l'aide de fichiers de code sont des fonctions, elles mêmes composées de variables. Les entrées et sorties peuvent être comparés aux sensations et aux réactions physiques. La boite noire qu'est le cerveau de l'acteur, avec son raisonnement propre est quand à elle comparable au code back end que l'on ne peut percevoir depuis l'interface client. Enfin, après avoir lu et analyser notre environnement et écrivons une réponse physique à travers nos expressions corporelles, faciales, et verbale. Il y'a toute sorte de comportements et de réactions contrôlées ou non que l'on répète. 
+Imaginons que vous vouliez réaliser un logiciel et qu'il soit accessible en ligne, en réalité il vous suffit d'une connexion internet de trois fichier, d'un logiciel de serveur, et enfin d'un nom de domaine pour y accéder sans avoir à mémoriser une adresse IP. C'est basiquement ce que j'ai fait, tout le monde peut le faire, et comme l'humain ne comprends quelque chose que lorsque qu'il arrive le réexpliquer plus simplement, à le factoriser, rendre une information usinée, c'est pourquoi je vais présenter plusieurs cas d'études et vous présenter ce qu'est EditIDE.
 
 
 
-L'industrie informatique est toujours régit par la Loi de Moore qui veux que l'on ai matériellement 2 fois plus de transistors par unité de surface. Il se peut que cette loi finisse par faire fasse à un mur, un palier, ou toute contrainte, qu'elle soit physique ou économique, bloque la progression et la capacité de l'industrie des semi-conducteurs à la source matérielle de l'informatique. Le volume de donnée est également passé au crible et il s'avère que notre capacité à stocker l'information générée par nos actions informatique sur internet est moindre.
+#### Site web
 
-Collaboration et travail d'équipe : Dans de nombreux projets, plusieurs développeurs doivent collaborer et travailler ensemble sur le même code, ce qui peut entraîner des conflits de version, des problèmes d'intégration et de coordination.
-
-En tant que chef d'entreprise, je me fiche du langage que tu utilise, fait le en patate ou en carotte si tu veux, mais réalise les fonctionnalités demandés, interconnecte les et fait en sorte que ça marche de manière pérenne, je me fiche du temps que ça prends, quand tu aura fini ta tâche, documentée elle sera, par n'importe qui elle pourra être reprise, et optimisée tu l'aura.
+Pour un utilisateur avertit, la démarche peut ne prendre que quelques minutes. Après toute cette rédaction textuelle, une petite démonstration technique s'impose.
 
 
 
-Tout devrait être automatique, je suis ravi que le prélèvement à la source ai permis d'automatiser les impôts, mais ça devrait également être le cas pour les aides, les assurances, mutuelles, et tout recours aux droits qui nous sont conférés, les loi devrait être des algorithmes, le système devrait être juste et positif, pour tous, réguler les ordres de grandeurs, réduire les inégalités, être réalisé pour le bien commun et non l'avarice, l'excentricité et la démesure. Pour autant ce système devrait être vérifié et potentiellement validé par l'humain.
+##### Etape 1 : Réaliser un site web
+
+Il suffit pour cela de trois composantes reparties dans trois fichiers, ou centralisé en un seul dans le cas de ce prototype. Cette étape est donc logiquement séparée en trois étapes, qui correspondent aux 3 parties d'un site web, le contenu structuré, l'habillage, et la réaction que doit avoir le site aux entrées utilisateur. Pour l'exemple je vais réaliser un site très simple, un mot, centré au milieu de l'écran, qui change lorsque l'on clique dessus.
+
+```html
+<html>
+    <head>
+        <!-- Script de récuperation d'une police recupérée sur https://fonts.google.com/specimen/Alice -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Alice&display=swap" rel="stylesheet">
+        
+        <!-- Script d'habillage CSS -->
+        <style>
+            * {
+                box-sizing: border-box;
+                transition: all 0.5s ease-in-out;
+            }
+
+            body {
+                height: 100vh;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                background-color: #FEFEFE;
+            }
+
+            body.inverted {
+                background-color: #333;
+            }
+            
+            h1 {
+                font-family: 'Alice', serif;
+                font-size: min(15vw, 75vh);
+                transition: all 0.5 ease-in-out;
+                color: #333;
+                cursor: pointer;
+            }
+
+            .inverted h1{
+                color: #FEFEFE;
+            }
+        </style>
+        <!-- Notez que j'aurais pu l'importer depuis un fichier avec un link ayant un href="/style.css" -->
+    </head>
+    <body>
+        <h1 id="text" onclick="invert()">Bonjour</h1>
+        <script>
+            function invert() {
+                const { body } = document;
+                body.classList.toggle("inverted")
+            }
+        </script>
+    </body>
+</html>
+```
 
 
 
+##### Etape 2 : ouvrir les ports
 
+Allez dans le panneau de configuration de votre box et vous ouvrez le port qui permettent d'emmètre un site web et d'écouter les requêtes des clients en https avec le numéro 443 et en http avec le numéro complémentaire 80. 
 
-#### Quelqu'un à généralement la solution
+![](..\assets\freebox.png)
 
-Lorsqu'un développeur ne trouve pas intuitivement comment implémenter la logique de façon algorithmique, il se retrouve souvent sur des forums de discussion comme StackOverflow ou désormais sur des outils conversationnels de génération de texte comme ChatGPT. De manière générale, il ne sert à rien de réinventer la roue, si quelqu'un a la solution autant juste l'utiliser. C'est d'ailleurs pourquoi les cadriciels et outils logiciels en tout genre sont aujourd'hui indispensables. 
+##### Étape 3 : Configurer un nom de domaine
 
-En programmation objet, il existe des Patrons de conceptions qui trouvent leur racines dans l'architecture. L'architecte en bâtiment Christopher Alexander publie l'essai *A Pattern Language : Towns, Buildings, Construction* en **1977**. Cette œuvre à définit de manière casuistique, à la manière du [Code de Hammurabi](#Code-de-Hammurabi), les problèmes rencontrés en architecture et leurs solutions.
+Un nom de domaine permet de relier une adresse IP à un alias textuel plus simple. Ainsi, pour arriver sur un site internet, on ne retiens jamais son adresse IP mais son nom de domaine comme `google.fr`. Pour faire cette liaison entre l'adresse IP et son surnom. Pour ce faire, le plus simple est que votre box internet possède une IP fixe ou une option pour qu'elle le soit. Si c'est le cas alors il suffit d'aller sur le site où vous avez réservé votre nom de domaine et ajouter une entrée DNS de type A si vous avez une adresse IPv4, ou AAAA si votre adresse IP est en version 6. 
 
-Cette notion à permit de catégoriser les patrons algorithmiques selon trois classes, les *créateurs* solutionnent des problèmes d'[instanciation](https://fr.wikipedia.org/wiki/Instanciation) et de configuration des classes et des objets, les *structuraux* indiquent comment organiser les classes d'un programme et leurs l'interfaces ; et les *comportementaux* définissent l'organisation des [objets](https://fr.wikipedia.org/wiki/Objet_(informatique)) pour que ceux-ci s'échangent des informations en fonction de leurs responsabilités.
+![](../assets/DNS_record.png)
 
-
-
-#### Principes SOLID
-
-Robert Cecil Martin aussi connu en tant que l'Oncle Bob est un ingénieur en informatique et écrivain ayant compléter les patrons de conception, et langages de modélisation en introduisant de multiples concepts de programmation, décrivant et argumentant des bonnes pratiques de cet art comme le fait de bien nommer les variables afin qu'elles explicitent leur utilité et les valeurs qu'elles stockent, de ne pas faire de copier coller que l'on modifie mais de plutôt faire des fonction réutilisables avec des paramètres pour faire varier un comportement. Dans la même logique de cohérence et d'uniformisation, il énonça les cinq principes fondamentaux de la programmation orientée objet.
-
-Simple responsabilité unique : une classe, une fonction ou une méthode doit avoir une et une seule responsabilité
-
-Ouvert / Fermé : tout élément d'une application, que ce soit une classe, une fonction ou autre, doit être fermée à la modification mais ouverte à l'extension. L'utilisateur doit pouvoir grâce à son API,  ses paramètres ou sa configuration, l'utiliser voire l'interconnecter à un autre logiciel.
-
-Liskov et sa substitution : Si une instance de véhicule doit pouvoir être remplacée par une instance de voiture, tel que voiture est un sous-type de véhicule, sans que cela ne modifie la cohérence du programme.
-
-Interfaces séparées : Il vaut mieux créer plusieurs interfaces spécifiques quitte à ce qu'elles n'ai qu'une seule méthode ou fonction, plutôt qu'une seule interface générale possédant plusieurs fonctions. Cela permet d'avoir une granularité plus fine et de pouvoir à l'aide de la composition, obtenir des interfaces composés uniquement des méthodes dont on a besoin.
-
-Dépendances inversés : Bien que les classes dépendent d'abstraction telles que les interfaces, il faut le plus souvent possible ne pas travailler avec mais utiliser les interfaces, cela permet notamment de respecter le principe de Liskov. On part du concept général pour traiter le plus de cas et aller vers le particulier au besoin.
+Si votre IP est susceptible de changer, les hébergeurs proposent généralement des solutions de DNS dynamique, le concept est simple, lorsque votre adresse IP change, votre serveur doit contacter le service DNS et lui communiquer sa nouvelle adresse IP. Avant de pouvoir obtenir une IP statique par le biais de mon fournisseur d'accès internet, j'ai eu recours à ce genre de méthode en utilisant l'API d'Infomaniak. Vous pouvez retrouver mon code sur  https://github.com/hedocode/nodeInfomaniakDynamicDNS
 
 
 
-#### Debugger performances et Optimisations
+##### Etape 4 : mettre un serveur HTTPS en service
 
-Lorsque l'on ne comprends pas du code qu'on a fait, on peut utiliser l'instruction `debugger;`.
+Téléchargez NGINX👉https://nginx.org/en/download.html
 
-Une fois que l'on a le comportement voulu, on peut rencontrer des problèmes de performances et d'optimisation. Pour les règler il est possible de répartir la puissance de calcul entre plusieurs cœurs de processeurs à l'aide de sous processus (fils / threads) [^1]. On peut également la répartir entre plusieurs machines, c'est ce que l'on appelle le calcul distribué. De manière générale, lorsque l'on découpe une tâche en sous-tâches réalisables par plusieurs acteurs, on réduit la charge de travail entre les acteurs dans une logique de parallélisation.
+Téléchargez Certbot et suivre les instruction, dans mon cas pour NGINX et Windows : https://certbot.eff.org/instructions?ws=nginx&os=windows
 
-[^1]: https://www.iso.org/obp/ui/#iso:std:iso-iec:2382:ed-1:v2:fr
+Une fois installé, je m'assure que mon serveur NGINX est à l'arrêt dans le gestionnaire des tâches (`CTRL + Shift + échap`) et je créer un certificat avec la commande `certbot certonly --standalone`, il ne me reste alors plus qu'à importer le certificat et la clé privée dans un bloc `server` de ma configuration NGINX et définir l'emplacement de ma page web à l'aide de la directive `root`.
 
-La gestion permet donc d'optimiser les charges et temps de travails. Une fois que le projet est abouti, il faut le tester et s'assurer que la qualité du produit est conforme aux exigences et besoins utilisateurs. Dans une grande partie des lignes de production il a une équipe dédiée aux tests et à la vérification. Elle est chargée de s'assurer que le produit est conforme à leurs attentes ou à celles formulées dans un document dédié comme un cahier des charges idéalement technique. Dans le monde de la production logicielle, nous avons la chance de pouvoir l'automatiser à l'aide de pratiques DevOps, intégration et déploiement continus (CI / CD) permettent non seulement de vérifier le bon fonctionnement d'une liste de fonctionnalités mais également de les mettre automatiquement à disposition du public lorsqu'elles sont toutes valides.
+```nginx
+worker_processes  1;
 
-1. Commentaires et documentation
+events {
+    worker_connections  1024;
+}
 
-   Chaque fonctionnalitée doit être documentée.
+http {
+    include       mime.types;
+    default_type  application/octet-stream;
+    sendfile        on;
+    keepalive_timeout  65;
+    server_names_hash_bucket_size  64;
+    
+    server {
+        listen       443 ssl;
+        server_name  bonjour.blanchardorian.fr;
 
-   Chaque ligne devrait être commentée en langage naturel, un switch devrait permettre de basculer entre le code réel et commenté. Toute manquement déclancherai une notification sur la ligne en question.
+        ssl_certificate C:/Certbot/live/blanchardorian.fr/fullchain.pem;
+        ssl_certificate_key   C:/Certbot/live/blanchardorian.fr/privkey.pem;
 
-2. Gestionnaires de version 
+        root    C:/Users/admin/Desktop/bonjour;
 
-Git est un logiciel de gestion de versions décentralisé sous licence GNU GPL. C'est un logiciel libre et gratuit, initié en **2005** par Linus Torvalds le créateur de Linux lors de la création de son noyau. Linus ne voulait pas réaliser ce projet seul et a rapidement compris que la qualité d'un logiciel viendrai des débats houleux entre ses collaborateurs et l'implémentation de la meilleure idée à la fin. graphe d'historique de modifications de fichiers visualisable avec gource.
+        location / {
+            index index.html;
+        }
+    }
+}
+```
 
-5. Microservices
+L'utilisation de NGINX comme serveur me permet de l'utiliser comme reverse-proxy, c'est à dire que je peut rajouter autant de serveur que je veut sur une même machine et y accéder avec des noms de domaines différent. Pour cela il me suffit de copier coller un block `server` et de le configurer en fonction de mes besoins,   
 
 
 
+#### Lancement du site au démarrage
 
+Sur Windows il suffit de trouver le dossier Démarrage ou Startup, il est situé dans le dossier utilisateur, quelque part dans le fameux `AppData\Roaming` mais la solution la plus facile pour y accéder est de faire `Windows + R` de taper `shell:startup` et de valider. Vous pouvez ensuite épingler le dossier au menu d'accès rapide pour le retrouver plus facilement. Tout raccourci que vous mettez dedans sera exécuté au démarrage. Dans mon cas je lance automatiquement nginx et attends 90 secondes avant de lancer le script de démarrage de mon serveur node dans la fenêtre numéro 1. 
+
+![](../assets/startup.png)
+
+
+
+#### Bureau à distance
+
+Je suis l'heureux détenteur d'un ordinateur portable Asus Zenbook, il est très compact mais à l'inconvénient de beaucoup chauffer. À mon arrivée à Hexagone j'ai donc décidé d'acheter un mini PC et l'utiliser à distance. Pour cela, j'ai activer le bureau à distance de Windows, cela se fait très simplement dans les paramètres. Ensuite il suffit d'activer le port 3389 comme indiqué ci-dessus. Si vous le faites il faut cependant avoir un mot de passe avec assez d'entropie, pour cela il doit être assez long et contenir assez de caractères différents, incluant des minuscules, majuscules, chiffres, et caractères spéciaux. Malgré cette disposition, des botnet peuvent tenter de réaliser de multiples tentatives de connexion ou trouver une faille de sécurité dans le protocole et interférer avec votre système. Il convient donc de ne pas ouvrir le port 3389 et d'installer un VPN pour accéder au réseau local de manière sécurisée. L'avantage du Bureau à distance est que je peut à tout moment retrouver ma session telle que je l'avais laisser sur plusieurs périphériques différents, et couper cette même session à tout moment sans affecter le travail qui est en cours dessus. 
 
 
 
@@ -1204,7 +1085,7 @@ C'est ainsi qu'en **1996**, Grady Booch, James Rumbaugh et Ivar Jacobson, trois 
 
 
 
-Bien que ce schéma représente le code que l'on à écrit plus haut, il fait cependant abstraction de toute la syntaxe textuelle du code, et n'offre ainsi pas une interface d'édition en direct. Ce que je propose dans EditIDE, c'est de représenter visuellement les fichiers de code en conservant l'ordre des instruction mais en facilitant sa visualisation.
+Bien que ce schéma représente le code que l'on à écrit plus haut, il fait cependant abstraction de toute la syntaxe textuelle du code, et n'offre ainsi pas une interface d'édition en direct. Ce que je propose dans EditIDE en tant que réponse à la problématique, c'est de représenter visuellement les fichiers de code en conservant l'ordre des instruction tout en facilitant sa visualisation.
 
 ***GRPHIQUE / FIGMA***
 
@@ -1212,226 +1093,7 @@ https://hal.science/hal-02970135/document
 
 
 
-Imaginons que vous vouliez réaliser un logiciel et qu'il soit accessible en ligne, en réalité il vous suffit d'une connexion internet de trois fichier, d'un logiciel de serveur, et enfin d'un nom de domaine pour y accéder sans avoir à mémoriser une adresse IP.
 
-Ce que j'ai fait, tout le monde peut le faire, et comme l'humain ne comprends quelque chose que lorsque qu'il arrive le réexpliquer plus simplement, à le factoriser, rendre une information usinée, et bien je vais présenter plusieurs cas d'études et vous présenter ce qu'est EditIDE
-
-
-
-#### Site web
-
-Pour un utilisateur avertit, la démarche peut ne prendre que quelques minutes, allez, petite démonstration :
-
-
-
-##### Etape 1 : Réaliser un site web
-
-Il suffit pour cela de trois composantes reparties dans trois fichiers, ou centralisé en un seul dans le cas de ce prototype. Cette étape est donc logiquement séparée en trois étapes, qui correspondent aux 3 parties d'un site web, le contenu structuré, l'habillage, et la réaction que doit avoir le site aux entrées utilisateur. Pour l'exemple je vais réaliser un site très simple, un mot, centré au milieu de l'écran, qui change lorsque l'on clique dessus.
-
-```html
-<html>
-    <head>
-        <!-- Script de récuperation d'une police recupérée sur https://fonts.google.com/specimen/Alice -->
-        <link rel="preconnect" href="https://fonts.googleapis.com">
-        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-        <link href="https://fonts.googleapis.com/css2?family=Alice&display=swap" rel="stylesheet">
-        
-        <!-- Script d'habillage CSS -->
-        <style>
-            * {
-                box-sizing: border-box;
-                transition: all 0.5s ease-in-out;
-            }
-
-            body {
-                height: 100vh;
-                display: flex;
-                justify-content: center;
-                align-items: center;
-                background-color: #FEFEFE;
-            }
-
-            body.inverted {
-                background-color: #333;
-            }
-            
-            h1 {
-                font-family: 'Alice', serif;
-                font-size: min(15vw, 75vh);
-                transition: all 0.5 ease-in-out;
-                color: #333;
-                cursor: pointer;
-            }
-
-            .inverted h1{
-                color: #FEFEFE;
-            }
-        </style>
-        <!-- Notez que j'aurais pu l'importer depuis un fichier avec un link ayant un href="/style.css" -->
-    </head>
-    <body>
-        <h1 id="text" onclick="invert()">Bonjour</h1>
-        <script>
-            function invert() {
-                const { body } = document;
-                body.classList.toggle("inverted")
-            }
-        </script>
-    </body>
-</html>
-```
-
-
-
-##### Etape 2 : ouvrir les ports
-
-Allez dans le panneau de configuration de votre box et vous ouvrez le port qui permettent d'emmètre un site web et d'écouter les requêtes des clients en https avec le numéro 443 et en http avec le numéro complémentaire 80. 
-
-![](..\assets\freebox.png)
-
-##### Etape 3 : mettre un serveur HTTPS en service
-
-Téléchargez NGINX👉https://nginx.org/en/download.html
-
-Téléchargez Certbot et suivre les instruction, dans mon cas pour NGINX et Windows : https://certbot.eff.org/instructions?ws=nginx&os=windows
-
-Une fois installé, je m'assure que mon serveur NGINX est à l'arrêt et je créer un certificat avec la commande `certbot certonly --standalone`, il ne me reste alors plus qu'a importer le certificat et la clé privée dans un bloc `server` de ma configuration NGINX et définir l'emplacement de ma page web à l'aide de la directive `root`.
-
-```nginx
-worker_processes  1;
-
-events {
-    worker_connections  1024;
-}
-
-http {
-    include       mime.types;
-    default_type  application/octet-stream;
-    sendfile        on;
-    keepalive_timeout  65;
-    
-    server {
-        listen       443 ssl;
-        server_name  blanchardorian.fr;
-
-        ssl_certificate C:/Certbot/live/blanchardorian.fr/fullchain.pem;
-        ssl_certificate_key   C:/Certbot/live/blanchardorian.fr/privkey.pem;
-
-        root    C:/Users/admin/Desktop/bonjour;
-
-        location / {
-            index 
-                p;
-        }
-    }
-}
-```
-
-
-
-##### Étape 4 : Configurer un nom de domaine
-
-Première possibilité, votre box possède une IP fixe ou une option pour qu'elle le soit. Si c'est le cas alors il suffit d'aller sur le site où vous avez réservé votre nom de domaine et ajouter une entrée DNS de type A si vous avez une adresse IPv4 ou AAAA si votre adresse IP est en version 6. 
-
-![](../assets/DNS_record.png)
-
-Si votre IP est susceptible de changer, les hébergeurs proposent généralement des solution de DNS dynamique, le concept est simple, lorsque votre adresse IP change, votre serveur doit contacter le service DNS et lui communiquer sa nouvelle adresse IP, avant d'avoir une IP statique j'ai eu recours à ce genre de méthode en utilisant l'API d'Infomaniak. Vous pouvez retrouver mon code sur  https://github.com/hedocode/nodeInfomaniakDynamicDNS
-
-
-
-#### Lancement du site au démarrage
-
-Sur Windows il suffit de trouver le dossier Démarrage ou Startup, il est situé dans le dossier utilisateur, quelque part dans le fameux `AppData\Roaming` mais la solution la plus facile pour y accéder est de faire `Windows + R` de taper `shell:startup` et de valider. Vous pouvez ensuite épingler le dossier au menu d'accès rapide pour le retrouver plus facilement. Tout raccourci que vous mettez dedans sera exécuté au démarrage. Dans mon cas je lance automatiquement nginx et attends 90 secondes avant de lancer le script de démarrage de mon serveur node dans la fenêtre numéro 1. 
-
-![](../assets/startup.png)
-
-
-
-#### Bureau à distance
-
-Je suis l'heureux détenteur d'un ordinateur portable Asus Zenbook, il est très compact mais à l'inconvénient de beaucoup chauffer. À mon arrivée à Hexagone j'ai donc décidé d'acheter un mini PC et l'utiliser à distance. Pour cela, j'ai activer le bureau à distance de Windows, cela se fait très simplement dans les paramètres. Ensuite il suffit d'activer le port 3389 comme indiqué ci-dessus. Si vous le faites il faut cependant avoir un mot de passe avec assez d'entropie, pour cela il doit être assez long et contenir assez de caractères différents, incluant des minuscules, majuscules, chiffres, et caractères spéciaux. Malgré cette disposition, des botnet peuvent tenter de réaliser de multiples tentatives de connexion ou trouver une faille de sécurité dans le protocole et interférer avec votre système. Il convient donc de ne pas ouvrir le port 3389 et d'installer un VPN pour accéder au réseau local de manière sécurisée. L'avantage du Bureau à distance est que je peut à tout moment retrouver ma session telle que je l'avais laisser sur plusieurs périphériques différents, et couper cette même session à tout moment sans affecter le travail qui est en cours dessus. 
-
-
-
-Maintenant que notre serveur distribue notre site vitrine sur internet, nous pouvons attaquer le développement des fonctionnalités d'un logiciel en tant que service. Pour gérer un grand nombre d'utilisateurs d'un logiciel, il convient d'implémenter de l'authentification, ainsi que la gestion des rôle et des permissions. Dans EditIDE ma gestion est très simple, j'utilise des paquets permettant de gérer l'authentification et j'ai uniquement des entités Utilisateurs. Qui possèdent des attributs pouvant être utilisés par mes autres plugins dont ceux d'authentification.
-
-```js
-const validate = require("a-json-validation");
-const userSchema = require("./User.schema.js");
-
-class User {
-    constructor({
-        id,
-        username,
-        loginUserAttr = "username",
-        password,
-        roles,
-        email,
-        additionnalAttributes = {},
-    }) {
-        this._id = id;
-        this.username = username;
-        this.loginUserAttr = loginUserAttr;
-        this.password = password;
-        this.roles = roles;
-        this.email = email;
-        
-        Object.entries(additionnalAttributes).forEach(
-            ([key, value]) => {
-                this[key] = value;
-            }
-        );
-        
-        validate(
-            "User : " + this.id,
-            this,
-            userSchema
-        );
-    }
-}
-
-module.exports = User;
-```
-
-```js
-const securePassword = require("secure-password");
-
-async function AccountPlugin(fastify, options, next) {
-
-    fastify.register(require("./jwt"));
-    fastify.register(require("@fastify/cookie"));
-
-    fastify.decorateRequest(
-        "userHasRole",
-        function(role) {
-            return userHasRole(this, role);
-        }
-    );
-
-    fastify.decorateRequest(
-        "isUserConnected",
-        function () {
-            return isUserConnected(this);
-        }
-    );
-    
-    function signup(user) {
-        const hashedPassword = await securePassword().hash(
-            Buffer.from(user.password)
-        );
-    }
-}
-```
-
-
-
-
-
-
-
-
-
-[Retour](#Introduction)
 
 ## EditIDE ou "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?"
 
@@ -1449,13 +1111,7 @@ Derrière la question fondamentale de ma problématique résident plusieurs ques
 
 Soyons franc, pas tout le monde n'a besoin de savoir coder. La meilleur qualité d'un codeur n'est d'ailleurs pas savoir coder, c'est sa capacité à proposer une solution logique à un problème de donnée. C'est pourquoi je vais répondre à cette question avec quelques informations statistiques.
 
-En 2013, 1 personne sur 623 était développeur professionnel, soit 0,16 % de la population mondiale. Et 1 personne sur 387 savait alors coder, soit 0.26%. En novembre 2022, la population a dépassé les 8 milliards d'habitants, celle des développeurs représente alors 27.7 millions, soit 0.35%. La même année, 40 % des recruteurs prévoyaient d’embaucher 50 développeurs ou plus. L’étude liée à cette information note également que le pourcentage de ceux qui recrutent de 201 à 500 personnes a doublé par rapport à 2021. Le problème le plus notable est dans le web où il y'a 60 postes disponible pour 38 développeur en demande d'emploi.
-
-- 70 % des développeurs plébiscitent le travail à distance - complet ou partiel.
-- 57 % des recruteurs se déclarent prêts à se passer du CV du processus de recrutement. 
-- Le pourcentage de recruteurs qui recrutent des développeurs sans bagage académique a presque doublé (de 23% en 2021 à 39% en 2022). 
-- 42 % des recruteurs souhaitent utiliser des solutions d'évaluation basées sur les compétences pour améliorer la diversité. 
-- L'expérience candidat est la première priorité dans laquelle les recruteurs prévoient d'investir pour 2022. [^1]
+En 2013, 1 personne sur 623 était développeur professionnel, soit 0,16 % de la population mondiale. Et 1 personne sur 387 savait alors coder, soit 0.26%. En novembre 2022, la population a dépassé les 8 milliards d'habitants, celle des développeurs représente alors 27.7 millions, soit 0.35%. La même année, 40 % des recruteurs prévoyaient d’embaucher 50 développeurs ou plus. L’étude liée à cette information note également que le pourcentage de ceux qui recrutent de 201 à 500 personnes a doublé par rapport à 2021. Le problème le plus notable est dans le web où il y'a 60 postes disponible pour 38 développeur en demande d'emploi. 70 % des développeurs plébiscitent le travail à distance - complet ou partiel. 57 % des recruteurs se déclarent prêts à se passer du CV du processus de recrutement. Le pourcentage de recruteurs qui recrutent des développeurs sans bagage académique a presque doublé (de 23% en 2021 à 39% en 2022). 42 % des recruteurs souhaitent utiliser des solutions d'évaluation basées sur les compétences pour améliorer la diversité. L'expérience candidat est la première priorité dans laquelle les recruteurs prévoient d'investir pour 2022. [^1]
 
 [^1]: https://www.codingame.com/work/fr/codingame-coderpad-tech-hiring-survey-2022/
 
@@ -1493,25 +1149,27 @@ Enfin, le septième et dernier dossier a être situé à la racine est `code_sou
 
 
 
-Le découpage de mon application en plugin est cruciale, chacun contient son propre `model`, ses `services` et ses "handlers" ou "contrôleurs" qui définissent comment une requête  définis dans le fichier `plugin.js` à leur racine. 
+Le découpage de mon application en plugin est cruciale, chacun contient son propre `model`, ses `services` et ses "handlers" ou "contrôleurs" qui définissent comment une requête  définis dans le fichier `plugin.js` à leur racine. Chaque plugin corresponds à une famille de fonctionnalités que je vais désormais présenter.
 
 
 
 ### Fonctionnalités
 
-All in one. Plus un projet a d'intermédiaires, plus il y'a de risques d'erreurs. Dès le fondement de l'informatique, Charles Babbage l'avait déjà compris et sa machine faisait à la fois le calcul et l'impression car beaucoup d'erreur arrivait lors de l'impression.
+Je vais vous parler des fonctionnalités à priori, c'est à dire celles que j'ai actuellement implémentées et triées par modules. On retrouve naturellement les utilitaires de gestion de tout serveur d'application web : comptes (authentification et permissions), compilateurs (gestions de langages comme pug ou scss), configuration, documentation, gestion de fichiers, composants graphiques, javascript, medias, base de donnée JSON (Mongo), pages, projets, routage, schemas (validation de donnée),  shells (accès en ligne de commande), boutique e-commerce, style et thèmes, testing, et websockets (communication temps réel pour jeux, chats et autres). Avec ces modules j'ai pu réaliser différents projets d'interfaces graphiques et par conséquent d'applications. Je vais essentiellement vous présenter ceux qui répondent à la problématique, à savoir ceux qui facilitent déjà mon développement.
 
-En informatique, beaucoup d'erreurs occurrent par manque d'information ou de clarté dans leur communication, le client exprime parfois mal son besoin, voire à un problème et ne sais pas ce dont il aurait besoin pour y palier. Les équipes faisant l'intermédiaire entre le client et l'équipe de production se retrouvent souvent entre deux eaux et doivent s'adapter et apprendre deux vocabulaires très différents.
+La documentation permet théoriquement de répondre à toute question que l'on pourrait se poser concernant un domaine, ou dans le cas de la programmation informatique, d'un projet logiciel. Elle doit couvrir toutes les actions que doivent accomplir le développeur, de l'installation du logiciel, à son lancement, son usage, ses fonctionnalités, son code, ainsi que comment contribuer et collaborer. Malgré le fait que je travaille seul, je suis souvent reparti de zéro pour réexpérimenter ce que vivrai un nouveau collaborateur arrivant sur le projet. Cela m'as permit de rédiger des instructions claires et de me rendre compte de tout les problèmes qui peuvent être rencontrés, pour y proposer les solutions associées. Le respect de cette documentation autant dans sa rédaction que dans sa lecture permet une amélioration de la qualité et de la sécurité de l'application.
 
-Idéalement ce genre de personnes devrait avoir été ou du moins être capable de se mettre à la place des deux partis dont il fait l'intermédiaire afin de mieux les comprendre et pouvoir efficacement communiquer dans le but de trouver la meilleure solution.
+Sur un serveur web, les fonctionnalités sont disponible au travers des APIs, étant donné que ce sont des sortes de boites noire, il est essentiel de les documenter. Pour ce faire, le meilleur outil est actuellement swagger. Il permet de regrouper des ressources web (url) dans des groupes et d'indiquer quels sont les paramètres que l'on peut y passer, et la ou les réponse attendue possibles. Dans ma solution, je souhaite qu'il n'y ai pas besoin de renseigner ces informations, car je les ai en théorie déjà lors de la conception du modèle de donnée. Or pour utiliser swagger il faut répéter ses informations, généralement en utilisant un format qui plus est légèrement différant. De plus les documentations sont rarement mises à jours, avec mon système, elles seraient ainsi automatiquement toujours représentatives de la réalité car fortement liées. Ci-dessous, vous pouvez voir la comparaison entre les deux interfaces. Swagger s'apparente plus à une immense liste tandis que mon gestionnaire d'API est plus proche du gestionnaire de fichier, avec une recherche qui fonctionne telle une ligne de commande.
 
-Certains problèmes arrivent également lors de l'échange entre l'équipe design et l'équipe technique.
 
-Il arrive que des design soient validés alors qu'ils ne sont tout bonnement pas réalisable en terme de code, généralement due à des limitations CSS, ou des problèmes dues à des cas qui n'ont pas étés pensés, comme le changement de sens de lecture et d'écriture dans certains langages comme l'arabe ou le mandarin.
 
-Tout ses problèmes arrivent car rien n'est centralisé, à une heure ou la collaboration est mise en avant comme jamais. 
+***Illustration Comparaison swagger ApiViewer***
 
-Dans EditIDE, tout ce ferait sur le site lui même. Le design et l'intégration ne ferait désormais plus qu'un, les développeurs front ne seraient chargés que de dynamiser les design déjà intégrés avec les appels API du back qui seraient auto-générés. 
+
+
+Comme vous pouvez le voir dans l'illustration ci-dessus, mon gestionnaire d'API permet à la manière de swagger de tester directement l'API, à la différence que le  
+
+Informations parasites. Quand je travaille sur une fonction je n’ai pas besoin de voir autre chose que ses dépendances. le divertissement n'est pas nécessaire non plus. L'informatique et l'algorithmique nous permettent de répliquer a l'infini une information ou un traitement logique de donnée. Mais ce qui doit être unique c'est le code. Dupliquer du code revient à avoir deux 
 
 
 
@@ -1558,17 +1216,9 @@ Quand j'arrive dans un fichier de code, je veux savoir directement le nom des va
 
 Doit on avoir moins de fonctionnalité sur mobile ? Non, c'est l'interface qui doit changer et s'adapter à l'utilisateur.
 
+##### Précision
 
-
-##### Documentation
-
-La documentation permet théoriquement de répondre à toute question que l'on pourrait se poser concernant un domaine, ou dans le cas de la programmation informatique, d'un projet logiciel. Elle doit couvrir toutes les actions que doivent accomplir le développeur, de l'installation du logiciel, a son lancement, son usage, ses fonctionnalités, son code, comment contribuer et collaborer. Git permet même théoriquement, si on l'utilisait mieux, de décrire chaque action réalisée. Les instructions doivent être claires, simples, et utiliser des diagrammes au besoin. Le respect de cette documentation autant dans sa rédaction que dans sa lecture permet une amélioration de la qualité et de la sécurité de l'application.
-
-Les API étants une boite noire, il est essentiel de les documenter, pour ce faire, le meilleur outil est actuellement swagger, il permet de regrouper des ressources web (url) dans des groupes et d'indiquer quels sont les paramètres que l'on peut y passer, et la ou les réponse attendue possibles.
-
-Dans EditIDE, je souhaite qu'il n'y ai pas besoin de renseigner ces informations, que l'on a en théorie déjà lors de la conception et que l'on doit répéter dans swagger, généralement en utilisant un format qui plus est légèrement différant. De plus les documentations étant rarement mises à jours, elles seraient ainsi automatiquement toujours représentatives de la réalité car fortement liées. Pour EditIDE, malgré le fait que je travaille seul, je suis souvent reparti de zéro pour réexpérimenter ce que vivrai un nouveau collaborateur arrivant sur le projet, et ainsi indiquer tout les problèmes qui peuvent être recentrés et les solutions associées.  
-
-Le formulaire de création de fonction et son interface dédiées indiqueront les champs obligatoires ou recommandés non renseignés. Recommandations gérées par ESLint.
+Lorsque l'on fait face à un problème informationnel, il convient de définir son périmètre, pour analyser et gérer précisément la zone voulue. L'informatique nous permet désormais d'avoir une interface pour naviguer précisément dans une simulation réaliste et visualiser ses ordres de grandeur. [c4model](https://c4model.com/) Vue macro, vu micro, questions individuelles précises, groupe permet d'avoir le consensus. 
 
 
 
@@ -1584,13 +1234,93 @@ Dans le cas d'un problème dans l'application, je pense que l'idéal serait de d
 
 
 
-##### Précision
-
-Lorsque l'on fait face à un problème informationnel, il convient de définir son périmètre, pour analyser et gérer précisément la zone voulue. L'informatique nous permet désormais d'avoir une interface pour naviguer précisément dans une simulation réaliste et visualiser ses ordres de grandeur. [c4model](https://c4model.com/) Vue macro, vu micro, questions individuelles précises, groupe permet d'avoir le consensus. 
 
 
 
-### 
+
+### A postériori
+
+Entrées et sorties, Inputs et Outputs (IO), sont le couple de paramètres entrants et des valeurs sortantes d'une fonction. Avec elles seules on peut définir les fonctionnalités possibles à un certain contexte d'entrées et sorties attendues. On peut deviner ou comprendre la logique cachée derrière. C'est une sorte de double entonnoir, comme des portails, théoriquement bidirectionnels. On peut la mettre en relation avec la lecture et l'écriture, en C# .NET [`System.IO`](#https://learn.microsoft.com/en-us/dotnet/api/system.io?view=net-7.0) est ailleurs un espace de noms (namespace) permettant d'accéder à des fonctions algorithmiques standard de lire et écrire des fichiers et par conséquent des dossiers. Puisque oui, les dossiers sont des fichiers, contenant l'adresse mémoire de son contenu. En réalité, tout n'est que variables et fonction mathématiques. Les fichiers sont des variables, et les actions que l'on peut réaliser à l'aide de fichiers de code sont des fonctions, elles mêmes composées de variables. Les entrées et sorties peuvent être comparés aux sensations et aux réactions physiques. La boite noire qu'est le cerveau de l'acteur, avec son raisonnement propre est quand à elle comparable au code back end que l'on ne peut percevoir depuis l'interface client.
+
+
+
+All in one. Plus un projet a d'intermédiaires, plus il y'a de risques d'erreurs. Dès le fondement de l'informatique, Charles Babbage l'avait déjà compris et sa machine faisait à la fois le calcul et l'impression car beaucoup d'erreur arrivait lors de l'impression. En informatique, beaucoup d'erreurs occurrent par manque d'information ou de clarté dans leur communication, le client exprime parfois mal son besoin, voire à un problème et ne sais pas ce dont il aurait besoin pour y palier. Les équipes faisant l'intermédiaire entre le client et l'équipe de production se retrouvent souvent entre deux eaux et doivent s'adapter et apprendre deux vocabulaires très différents. Idéalement ce genre de personnes devrait avoir été ou du moins être capable de se mettre à la place des deux partis dont il fait l'intermédiaire afin de mieux les comprendre et pouvoir efficacement communiquer dans le but de trouver la meilleure solution.
+
+Certains problèmes arrivent également lors de l'échange entre l'équipe design et l'équipe technique.
+
+Il arrive que des design soient validés alors qu'ils ne sont tout bonnement pas réalisable en terme de code, généralement due à des limitations CSS, ou des problèmes dues à des cas qui n'ont pas étés pensés, comme le changement de sens de lecture et d'écriture dans certains langages comme l'arabe ou le mandarin. Tout ses problèmes arrivent car rien n'est centralisé, à une heure ou la collaboration est mise en avant comme jamais. Dans EditIDE, tout ce ferait sur le site lui même. Le design et l'intégration ne ferait désormais plus qu'un, les développeurs front ne seraient chargés que de dynamiser les design déjà intégrés avec les appels API du back qui seraient auto-générés. 
+
+Collaboration et travail d'équipe : Dans de nombreux projets, plusieurs développeurs doivent collaborer et travailler ensemble sur le même code, ce qui peut entraîner des conflits de version, des problèmes d'intégration et de coordination.
+
+En tant que chef d'entreprise, je me fiche du langage que tu utilise, fait le en patate ou en carotte si tu veux, mais réalise les fonctionnalités demandés, interconnecte les et fait en sorte que ça marche de manière pérenne, je me fiche du temps que ça prends, quand tu aura fini ta tâche, documentée elle sera, par n'importe qui elle pourra être reprise, et optimisée tu l'aura. Enfin, testé sera l'application, du point de vue de l'utilisateur.
+
+
+
+#### Quelqu'un à généralement la solution
+
+Lorsqu'un développeur ne trouve pas intuitivement comment implémenter la logique de façon algorithmique, il se retrouve souvent sur des forums de discussion comme StackOverflow ou désormais sur des outils conversationnels de génération de texte comme ChatGPT. De manière générale, il ne sert à rien de réinventer la roue, si quelqu'un a la solution autant juste l'utiliser. C'est d'ailleurs pourquoi les cadriciels et outils logiciels en tout genre sont aujourd'hui indispensables. 
+
+En programmation objet, il existe des Patrons de conceptions qui trouvent leur racines dans l'architecture. L'architecte en bâtiment Christopher Alexander publie l'essai *A Pattern Language : Towns, Buildings, Construction* en **1977**. Cette œuvre à définit de manière casuistique, à la manière du [Code de Hammurabi](#Code-de-Hammurabi), les problèmes rencontrés en architecture et leurs solutions.
+
+Cette notion à permit de catégoriser les patrons algorithmiques selon trois classes, les *créateurs* solutionnent des problèmes d'[instanciation](https://fr.wikipedia.org/wiki/Instanciation) et de configuration des classes et des objets, les *structuraux* indiquent comment organiser les classes d'un programme et leurs l'interfaces ; et les *comportementaux* définissent l'organisation des [objets](https://fr.wikipedia.org/wiki/Objet_(informatique)) pour que ceux-ci s'échangent des informations en fonction de leurs responsabilités.
+
+
+
+#### Standardisation & Universalité
+
+L’uniformisation à permi d'avoir un langage commun au même titre que la logique mathématique. Le système métrique aussi
+
+Actuellement, malgré les bonnes pratiques prônées, peu sont mises en application et beaucoup de fois je me retrouve a effectuer des copier coller avec une légère modification, alors que ma philosophie est que chaque copier coller devrait être une fonction réutilisable avec pour paramètre les variables amenées a changer ou être configurable. Cela me permet de standardiser l'ensemble de mon code et de le factoriser au plus simple.
+
+Interopérabilité instantanée inter-appareils, édition live multiutilisateur 
+
+
+
+#### Principes SOLID
+
+Robert Cecil Martin aussi connu en tant que l'Oncle Bob est un ingénieur en informatique et écrivain ayant compléter les patrons de conception, et langages de modélisation en introduisant de multiples concepts de programmation, décrivant et argumentant des bonnes pratiques de cet art comme le fait de bien nommer les variables afin qu'elles explicitent leur utilité et les valeurs qu'elles stockent, de ne pas faire de copier coller que l'on modifie mais de plutôt faire des fonction réutilisables avec des paramètres pour faire varier un comportement. Dans la même logique de cohérence et d'uniformisation, il énonça les cinq principes fondamentaux de la programmation orientée objet.
+
+Simple responsabilité unique : une classe, une fonction ou une méthode doit avoir une et une seule responsabilité
+
+Ouvert / Fermé : tout élément d'une application, que ce soit une classe, une fonction ou autre, doit être fermée à la modification mais ouverte à l'extension. L'utilisateur doit pouvoir grâce à son API,  ses paramètres ou sa configuration, l'utiliser voire l'interconnecter à un autre logiciel.
+
+Liskov et sa substitution : Si une instance de véhicule doit pouvoir être remplacée par une instance de voiture, tel que voiture est un sous-type de véhicule, sans que cela ne modifie la cohérence du programme.
+
+Interfaces séparées : Il vaut mieux créer plusieurs interfaces spécifiques quitte à ce qu'elles n'ai qu'une seule méthode ou fonction, plutôt qu'une seule interface générale possédant plusieurs fonctions. Cela permet d'avoir une granularité plus fine et de pouvoir à l'aide de la composition, obtenir des interfaces composés uniquement des méthodes dont on a besoin.
+
+Dépendances inversés : Bien que les classes dépendent d'abstraction telles que les interfaces, il faut le plus souvent possible ne pas travailler avec mais utiliser les interfaces, cela permet notamment de respecter le principe de Liskov. On part du concept général pour traiter le plus de cas et aller vers le particulier au besoin.
+
+
+
+#### Debugger performances et Optimisations
+
+Lorsque l'on ne comprends pas du code qu'on a fait, on peut utiliser l'instruction `debugger;`.
+
+Une fois que l'on a le comportement voulu, on peut rencontrer des problèmes de performances et d'optimisation. Pour les règler il est possible de répartir la puissance de calcul entre plusieurs cœurs de processeurs à l'aide de sous processus (fils / threads) [^1]. On peut également la répartir entre plusieurs machines, c'est ce que l'on appelle le calcul distribué. De manière générale, lorsque l'on découpe une tâche en sous-tâches réalisables par plusieurs acteurs, on réduit la charge de travail entre les acteurs dans une logique de parallélisation.
+
+[^1]: https://www.iso.org/obp/ui/#iso:std:iso-iec:2382:ed-1:v2:fr
+
+La gestion permet donc d'optimiser les charges et temps de travails. Une fois que le projet est abouti, il faut le tester et s'assurer que la qualité du produit est conforme aux exigences et besoins utilisateurs. Dans une grande partie des lignes de production il a une équipe dédiée aux tests et à la vérification. Elle est chargée de s'assurer que le produit est conforme à leurs attentes ou à celles formulées dans un document dédié comme un cahier des charges idéalement technique. Dans le monde de la production logicielle, nous avons la chance de pouvoir l'automatiser à l'aide de pratiques DevOps, intégration et déploiement continus (CI / CD) permettent non seulement de vérifier le bon fonctionnement d'une liste de fonctionnalités mais également de les mettre automatiquement à disposition du public lorsqu'elles sont toutes valides.
+
+
+
+#### Documentation
+
+Le formulaire de création de fonction et son interface dédiées indiqueront les champs obligatoires ou recommandés non renseignés. Recommandations gérées par ESLint.
+
+Chaque fonctionnalitée doit être documentée.
+
+Chaque ligne devrait être commentée en langage naturel, un switch devrait permettre de basculer entre le code réel et commenté. Toute manquement déclancherai une notification sur la ligne en question.
+
+
+
+#### Gestionnaires de version 
+
+Git est un logiciel de gestion de versions décentralisé sous licence GNU GPL. C'est un logiciel libre et gratuit, initié en **2005** par Linus Torvalds le créateur de Linux lors de la création de son noyau. Linus ne voulait pas réaliser ce projet seul et a rapidement compris que la qualité d'un logiciel viendrai des débats houleux entre ses collaborateurs et l'implémentation de la meilleure idée à la fin. graphe d'historique de modifications de fichiers visualisable avec gource.
+
+5. Microservices
+
+
 
 ### Jeu
 
@@ -1600,66 +1330,15 @@ Un ludiciel doit être vivant, animé, utilisé, collaboratif, et surtout nature
 
 facilité d'utilisation, utilité, satisfaction, l'utilisation de l'application doit dépasser les désirs, attentes et promesses faites en amont. Le logiciel doit fournir à l'utilisateurs toutes les informations nécessaire à son auto-formation. Ce dernier doit pouvoir suivre son évolution et être récompensé pour sa progression.
 
+La viralité est un facteur mathématiquement calculable. C'est la moyenne de transmissions faites par les personnes atteintes par une information. Une information est virale dès que son facteur dépasse 1, autrement dis dès que la moyenne des personnes en sa possession la retransmettent à plus d'une autre personne.
+
 
 
 ### Futur
 
-Je ne dais pas encore de quoi sera fait le futur. Je pense que je vais devoir l'ecrire apres le present moment qui acheve ce livre. Je n'aurais nullement la pretention de dire qu'EditIDE est le futur, car pour cela il faudrai que le logiciel existe deja de maniere utilisable et utilisé.
+Je ne dais pas encore de quoi sera fait le futur. Je pense que je vais devoir l'ecrire apres le present moment qui acheve ce livre. Je n'aurais nullement la pretention de dire qu'EditIDE est le futur, car pour cela il faudrai que le logiciel existe déjà de manière utilisable et utilisé.
 
 Encore merci de m'avoir lu.
-
-___
-
-### FOUTOIR
-
-La pratique c'est faire, la théorie c'est subir.
-
-J'aspire à apprendre jusqu'à ce que plus rien ne me paraisse magique et que nul Dieuseries ne m'échappent.
-
-La philosophie a de divin que comme tout les arts et sciences elle nait d'une **pensée logique combinatoire** dont les concepts valent autant au niveau de l'infiniment petit que de l'infiniment grand. 
-
-#### 12 24 36 48 361248 2520=9x8x7x5
-
-En toute humilité je sais que je peut paraître orgueilleux ou insolent, désolé si certains se sentent humiliés, j’en suis désolé, je m’en excuse.
-
-Ma motivation est intrinsèque mais toute gratification supplémentaire est la bienvenue.
-
-je ne me défini que par mon système de pensée, non pas par mon apparence corporelle qui me dégoute ni par mon expérience ou mes groupes sociaux
-
-
-A la manière de Platon, je n'ai rien inventé, les idées sont immuables et universelles, elles n'appartiennent à personne. Singe savant : https://libraryofbabel.info/bookmark.cgi?tdiscdstxldvqljko49
-
-
-
-Les gens suivent l'autorité, la loi, mais la loi est parfois fausse, la seule loi qui doit être suivie est la science, la raison pure pouvant être prouvée.
-
-En tant qu'animal humain on ne s'en porte pourtant que mieux de juste suivre les instructions et juste faire ce que l'on doit ou a envie de faire.
-
-
-
-https://fr.wikipedia.org/wiki/Utilisabilit%C3%A9
-
-https://en.wikipedia.org/wiki/High_availability
-
-
-
-#### Philosophie
-
-https://fr.wikipedia.org/wiki/Philosophie_de_l%27information
-
-Philip Kindred Dick :
-
->  "La réalité, c'est ce qui continue d'exister lorsque l'on cesse d'y croire"
-
-Openheimer: 
-
->  "Peut on le faire et doit on le faire ? On peut dire oui on peut dire non, mais pour moi. C'est mauvais de ne pas connaître si on peut connaître, c'est mauvais de ne pas savoir ce que l'on peut savoir, Ce veut dire qu'il faut préparer tout les engins toutes les techniques ou pratiques que la science permette."
-
-C'est très difficile pour le chercheur qui fait la découverte, de savoir et de peser immédiatement, les possibilités ultérieures.
-
-C'est le cas dans le jeu de la vie 
-
-
 
 
 
@@ -1738,7 +1417,9 @@ Je me suis retenu de partager des posts LinkedIn tels que celui-ci. https://www.
 
 ### http://toastytech.com/guis
 
+![](D:\Textes\EditIDE\Histoire-et-Philosophie-de-la-Programmation\assets\connaissance.drawio.png)
 
+La magie quant à elle est l'art de savoir défaire et refaire sans que le spectateur ne comprenne la logique qui à lieu derrière la scène qu'il voit.
 
 ## Annexes
 
@@ -1777,6 +1458,8 @@ http://serge.mehl.free.fr/
 https://groups.csail.mit.edu/medg/people/psz/Licklider.html
 
 https://monoskop.org/images/b/b0/Floridi_Luciano_Philosophy_and_Computing_An_Introduction_1999.pdf
+
+https://www.victorian-cinema.net/machines
 
 
 

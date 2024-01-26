@@ -56,17 +56,15 @@
 }
 
 /* 11pt pour les textes */
-html {
-	font-size: 11px;
-}
 
 html, body {
+	font-size: 11pt;
 	margin: auto;
 	background: #fefefe;
 	-webkit-font-smoothing: antialiased;
 }
 body {
-	font-family: "Vollkorn", Palatino, Times;
+	font-family: Times;
 	color: #1e1e1e;
 	line-height: 1.4;
 	text-align: justify;
@@ -97,12 +95,12 @@ h3 {
 
 /* 14pt pour les gros titres */
 h2, h3 {
-	font-size: 14px;
+	font-size: 14pt;
 }
 
 /* 13pt pour les sous-titres */
 h4, h5, h6 {
-	font-size: 13px;
+	font-size: 13pt;
 }
 
 h4 {
@@ -148,7 +146,7 @@ TODO :
 */
 
 p {
-	margin-bottom: 6px;
+	margin-bottom: 6pt;
 }
 
 p,
