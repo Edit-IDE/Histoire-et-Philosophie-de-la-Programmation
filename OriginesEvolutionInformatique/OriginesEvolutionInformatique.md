@@ -18,70 +18,71 @@ L'usage du pronom impersonnel "on" est proscrit, et je souhaite éviter l'usage 
 
 <div style="page-break-after: always;"></div>
 
-
 ## Sommaire
 
-- [Origines et Évolution de l'Informatique](#origines-et-évolution-de-linformatique)
-  - [Bienvenue](#bienvenue)
-  - [Sommaire](#sommaire)
-  - [Résumé](#résumé)
-  - [Préface](#préface)
-  - [Remerciements](#remerciements)
-  - [Introduction](#introduction)
-  - [Comprendre la problématique](#comprendre-la-problématique)
-  - [Histoire](#histoire)
-    - [Préhistoire](#préhistoire)
-    - [Antiquité](#antiquité)
-      - [Mésopotamie](#mésopotamie)
-      - [Grèce](#grèce)
-      - [Égypte](#égypte)
-    - [Moyen-Âge](#moyen-âge)
-    - [Époque moderne](#époque-moderne)
-      - [Révolutions informationnelles](#révolutions-informationnelles)
-    - [Époque contemporaine](#époque-contemporaine)
-      - [De la mécaniques à électronique](#de-la-mécaniques-à-électronique)
-      - [Genèse de la programmation](#genèse-de-la-programmation)
-    - [Guerres mondiales](#guerres-mondiales)
-      - [Guerre informationnelle et Anticipation](#guerre-informationnelle-et-anticipation)
-    - [Guerre froide](#guerre-froide)
-      - [Genèse de l'informatique moderne](#genèse-de-linformatique-moderne)
-      - [Temps réel](#temps-réel)
-      - [Âge d'or d'IBM](#âge-dor-dibm)
-      - [Émergence de l'Intelligence Artificielle](#émergence-de-lintelligence-artificielle)
-      - [Du circuit électronique au microprocesseur](#du-circuit-électronique-au-microprocesseur)
-      - [Course à l'espace](#course-à-lespace)
-    - [Bilan passé](#bilan-passé)
-  - [Pratiques actuelles](#pratiques-actuelles)
-    - [Genèse d'internet](#genèse-dinternet)
-    - [Interfaces graphiques et périphériques de pointage](#interfaces-graphiques-et-périphériques-de-pointage)
-    - [Ordinateurs personnels et jeux](#ordinateurs-personnels-et-jeux)
-    - [Logiciel libre, open source, et cadriciels](#logiciel-libre-open-source-et-cadriciels)
-    - [Décisions et gestion de projet](#décisions-et-gestion-de-projet)
-    - [Apprentissage et développement personnel](#apprentissage-et-développement-personnel)
-    - [Metagame](#metagame)
-    - [Bilan actuel](#bilan-actuel)
-    - [Concepts et outils de programmation](#concepts-et-outils-de-programmation)
-      - [Site web](#site-web)
-      - [Langage logique](#langage-logique)
-      - [Principes SOLID](#principes-solid)
-      - [Problèmes et solutions](#problèmes-et-solutions)
-      - [UML](#uml)
-  - [EditIDE ou "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?"](#editide-ou-comment-repenser-la-gestion-de-linformation-pour-moderniser-lexpérience-développeur-)
-    - [A priori](#a-priori)
-    - [A postériori](#a-postériori)
-    - [Qu'elle sont les conditions de succès d'un logiciel ?](#quelle-sont-les-conditions-de-succès-dun-logiciel-)
-  - [Postface : Rétrospective et métacognition](#postface--rétrospective-et-métacognition)
-  - [Annexes](#annexes)
-      - [Bibliographie](#bibliographie)
-      - [Webographie](#webographie)
-      - [Code](#code)
-      - [Lexique](#lexique)
-      - [Table des illustrations](#table-des-illustrations-1)
+| Sous-titre                                                   | Page |
+| ------------------------------------------------------------ | :--: |
+| 0.1 -  [Bienvenue](#bienvenue)                               |  1   |
+| 0.2 - [Sommaire](#sommaire)                                  |  2   |
+| 0.3 - [Résumé](#résumé)                                      |  4   |
+| 0.4 - [Préface](#préface)                                    |  5   |
+| 0.5 - [Remerciements](#remerciements)                        |  8   |
+| 0.6 - [Introduction](#introduction)                          |  8   |
+| 0.7 - [Comprendre la problématique](#comprendre-la-problématique) |  10  |
+| 1.0 - [Histoire](#histoire)                                  |  12  |
+| &nbsp;&nbsp;&nbsp;&nbsp;1.1 - [Préhistoire](#préhistoire)    |  12  |
+| &nbsp;&nbsp;&nbsp;&nbsp;1.2 - [Antiquité](#antiquité)        |  14  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1 - [Mésopotamie](#mésopotamie) |  14  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.2 - [Grèce](#grèce) |  16  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.3 - [Égypte](#égypte) |  18  |
+| &nbsp;&nbsp;&nbsp;&nbsp;1.3 - [Moyen-Âge](#moyen-âge)        |  20  |
+| &nbsp;&nbsp;&nbsp;&nbsp;1.4 - [Époque moderne](#époque-moderne) |  25  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.4.1 - [Révolutions informationnelles](#révolutions-informationnelles) |  26  |
+| &nbsp;&nbsp;&nbsp;&nbsp;1.5 - [Époque contemporaine](#époque-contemporaine) |  30  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.1 - [De la mécaniques à électronique](#de-la-mécaniques-à-électronique) |  30  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.2 - [Genèse de la programmation](#genèse-de-la-programmation) |  35  |
+| &nbsp;&nbsp;&nbsp;&nbsp;1.6 -  [Guerres mondiales](#guerres-mondiales) |  38  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.6.1 - [Guerre informationnelle et Anticipation](#guerre-informationnelle-et-anticipation) |  38  |
+| &nbsp;&nbsp;&nbsp;&nbsp;1.7 - [Guerre froide](#guerre-froide) |  45  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.7.1 -  [Genèse de l'informatique moderne](#genèse-de-linformatique-moderne) |  45  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.7.2 - [Temps réel](#temps-réel) |  48  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.7.3 - [Âge d'or d'IBM](#âge-dor-dibm) |  49  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.7.4 - [Émergence de l'Intelligence Artificielle](#émergence-de-lintelligence-artificielle) |  51  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.7.5 - [Du circuit électronique au microprocesseur](#du-circuit-électronique-au-microprocesseur) |  53  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.7.6 - [Course à l'espace](#course-à-lespace) |  54  |
+| &nbsp;&nbsp;&nbsp;&nbsp;1.8 - [Bilan passé](#bilan-passé)    |  55  |
+| 2.0 - [Pratiques actuelles](#pratiques-actuelles)            |  56  |
+| &nbsp;&nbsp;&nbsp;&nbsp;2.1 - [Genèse d'internet](#genèse-dinternet) |  56  |
+| &nbsp;&nbsp;&nbsp;&nbsp;2.2 - [Interfaces graphiques et périphériques de pointage](#interfaces-graphiques-et-périphériques-de-pointage) |  57  |
+| &nbsp;&nbsp;&nbsp;&nbsp;2.3 - [Ordinateurs personnels et jeux](#ordinateurs-personnels-et-jeux) |  58  |
+| &nbsp;&nbsp;&nbsp;&nbsp;2.4 - [Logiciel libre, open source, et cadriciels](#logiciel-libre-open-source-et-cadriciels) |  59  |
+| &nbsp;&nbsp;&nbsp;&nbsp;2.5 - [Décisions et gestion de projet](#décisions-et-gestion-de-projet) |  61  |
+| &nbsp;&nbsp;&nbsp;&nbsp;2.6 - [Apprentissage et développement personnel](#apprentissage-et-développement-personnel) |  66  |
+| &nbsp;&nbsp;&nbsp;&nbsp;2.7 - [Metagame](#metagame)          |  70  |
+| &nbsp;&nbsp;&nbsp;&nbsp;2.8 - [Bilan actuel](#bilan-actuel)  |  72  |
+| &nbsp;&nbsp;&nbsp;&nbsp;2.9 - [Concepts et outils de programmation](#concepts-et-outils-de-programmation) |  74  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.9.1 - [Site web](#site-web) |  74  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.9.2- [Langage logique](#langage-logique) |  79  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.9.3 - [Principes SOLID](#principes-solid) |  82  |
+| 2.9.4 - [Problèmes et solutions](#problèmes-et-solutions)    |  83  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.9.5 - [UML](#uml) |  84  |
+| 3.0 - [EditIDE ou "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?"](#editide-ou-comment-repenser-la-gestion-de-linformation-pour-moderniser-lexpérience-développeur-) |  85  |
+| &nbsp;&nbsp;&nbsp;&nbsp;3.1 - [A priori](#a-priori)          |  88  |
+| &nbsp;&nbsp;&nbsp;&nbsp;3.2 - [A posteriori](#a-postériori)  |  92  |
+| &nbsp;&nbsp;&nbsp;&nbsp;3.3 - [Quelles sont les conditions de succès d'un logiciel ?](#quelle-sont-les-conditions-de-succès-dun-logiciel-) |  95  |
+| 4.0 - [Postface : Rétrospective et métacognition](#postface--rétrospective-et-métacognition) |  96  |
+| 5.0 - [Annexes](#annexes)                                    | 100  |
+| &nbsp;&nbsp;&nbsp;&nbsp;5.1 - [Bibliographie](#bibliographie) | 101  |
+| &nbsp;&nbsp;&nbsp;&nbsp;5.2 - [Webographie](#webographie)    | 104  |
+| &nbsp;&nbsp;&nbsp;&nbsp;5.3 - [Code](#code) [Lexique](#lexique) | 105  |
+| &nbsp;&nbsp;&nbsp;&nbsp;5.4 - [Table des illustrations](#table-des-illustrations) | 105  |
 
 
 ## Résumé
 
 Dès la préhistoire, l'humanité avait déjà des méthodes de gestion de l'information. L'histoire de l'information est celle de ceux qui y ont contribué au travers de leurs actes, lectures, écrits, et dires. Cet ouvrage, conformément à son titre et aux recherches qu'il a nécessité, énonce donc le passé, le présent, et ma vision concernant le futur de la gestion de l'information. L'étude des connaissances existantes sur ce sujet vous replongera sûrement dans vos cours d'Histoire. Cet état de l'art mettra en situation le présent avec un abrégé allant de la préhistoire jusqu’à l'état actuel de la science de la gestion de l'information qu'est l'informatique. En tant que développeur, j'ai pu voir en quoi cette discipline récente permet désormais de solutionner et automatiser beaucoup de tâches pénibles, mais aussi que sa pratique en elle même reste fastidieuse. C'est pourquoi j'en ai fait le cœur de ma problématique, et que la dernière partie se nomme "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?". À l'aide des parties précédentes analysant son origine, la conclusion proposera ainsi une solution informatique innovante, combinant des technologies existantes pour se simplifier elle même en utilisant de la rétro-action, et de la méta-programmation à travers une interface graphique simple et agréable.
+
+
 
 ## Préface
 
@@ -92,6 +93,8 @@ Pour pouvoir contextualiser cette œuvre qui se questionne sur l'évolution de l
 Après l'obtention de mon Baccalauréat scientifique en 2016, débarquant alors en DUT informatique, je n'avais programmé qu'en BASIC sur une calculatrice Texas Instrument. À cette époque je n'étais qu'un gamin ayant sauté la grande section et le cours primaire pour avoir su lire à 2 ans et demi grâce au logiciel éducatif Lapin malin. Je débarque donc à Clermont-Ferrand du haut de mes de 17 ans, découvrant l'indépendance dans un 9m² fibré du CROUS pendant 2 ans, durant pendant laquelle j'ai utilisé un réseau privé virtuel (VPN) pour contourner les limitations du réseau RENATER, et pouvoir ainsi jouer à League Of Legends avec 5 millisecondes de latence. Je n'avais alors jamais vraiment travaillé de ma vie, je ne faisais pas mes devoirs, et malgré cela j'obtenais toujours la moyenne tant bien que mal, voyant cette dernière chuter année après année. Je n'étais évidement pas prêt à la complexité et la rigueur du C ou de Bash. Jusque là, mon apprentissage de cette discipline sur ma calculatrice était purement empirique. Lors de la première année de DUT, l'enseignement de la programmation nous a été introduit sur papier, en commençant donc par la théorie que les étudiants n'avaient pour la majorité jamais pratiquée et donc du mal à conceptualiser. Comme je n'avais pas encore l'habitude de travailler régulièrement, j'ai logiquement été noyé par la quantité d'information et ne les comprenais souvent qu'après les contrôles, lors de la correction, me rendant compte de mes erreurs et réajustant ma version de ce qui était correct en fonction. J'étais tellement largué en contrôle que lorsque j'ai réalisé mon premier projet d'études en langage C, comprenant alors pleinement la théorie en me l'appropriant par la pratique, réalisant 80% du logiciel par moi même. Le professeur en question m'a attribué une note bien moindre qu'au camarade ayant réalisé les 20% restants, donnant malgré tout la moyenne au dernier de notre trinôme. Malgré tout à raison car mon niveau au moment du partiel théorique était relativement faible.
 
 [Ce projet est toujours disponible sur mon GitHub](https://github.com/hedocode/StudentResidenceManager), il s'agit d'un gestionnaire de résidence étudiante. Moi qui haïssait alors la ligne de commande toute moche et très peu conviviale ou facile à utiliser, étais alors le seul étudiant de la promotion à avoir eu la fantaisie de réaliser les affichages en changeant la couleur de fond et du texte. J'ai ainsi simuler une interface graphique plus agréable, à l'instar des premiers BIOS et des interfaces console interactives que nous avons encore aujourd'hui comme `dpkg-reconfigure` sur Linux, qui est soit dit en passant car j'ai eu le cas récemment : le meilleur moyen de changer la langue de son clavier pour passer de QWERTY à AZERTY de façon permanente en utilisant la ligne de commande.
+
+<a name="dpkg-keyboard-configuration-vs-residence-manager"></a>
 
 ![](../assets/dpkg-reconfigure.png)
 
@@ -135,6 +138,8 @@ L'ensemble de ces domaines, et l'information en général, prennent une place de
 L'informatique, étymologiquement "automatisation de la gestion de l'information", est un domaine récent et complexe, qui soulève beaucoup d'avancés technologiques mais également de craintes et de questionnements. En 2022, la programmation à l'origine des logiciels qui nous permettent d'utiliser le matériel informatique, n'était pratiquée que par 0.35% de la population. Elle requiert une rigueur suffisante pour dans un premier temps passer la compilation si elle a lieu, puis l'exécution du programme en résultant, et enfin les tests du comportement voulu dont le but est de vérifier que nous avons correctement implémenté la solution à notre problème informationnel. Une fois que tout cela est satisfait, il faut rendre le programme robuste afin d'assurer sa pérennité tout au long du développement des nouvelles fonctionnalités qui s'accumuleront inexorablement, et ce afin que toutes les existantes restent fonctionnelles. C'est ce que l'intégration et le développement continu solutionne, en assurant la qualité d'un logiciel au fil de son développement. Dans la deuxième partie de ce mémoire, je montrerai ainsi les avantages et inconvénients des outils de développement actuels et les biais introduits dans leurs pratiques, constituée des étapes décrites précédemment, avec des solutions. Actuellement, l'apprentissage de ces étapes et les coût de formation d'un nouvel employé en informatique sont importants. Simplifier la prise en main d'un projet informatique me semble être une opportunité technologique intéressante, qui permettrait à l'industrie informatique de se concentrer sur la création et l'innovation. Dans cette dernière, la matière première est la pensée du développeur, c'est l'acteur principal à l'origine des algorithmes qui régissent la gestion de l'information.
 
 Nous réalisons des logiciels pour de multiples industries et sommes pourtant les cordonniers les plus mal chaussés. Nous parlons souvent d'expérience utilisateur, mais l'expérience développeur reste à désirer, voire archaïque. Nous sommes encore temporellement proche de la genèse du logiciel et des interfaces utilisateurs. La question fondamentale à laquelle je répondrait dans le troisième chapitre sera donc "*Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?*". Avant d'y apporter une solution technique, il est important de comprendre l'évolution de la pensée, des outils, des machines et de la technologie, pour savoir comment l'humanité en est arrivée là et comment elle calculait, automatisait des actions, et gérait l'information avant l'invention des ordinateurs ?
+
+<a name="dx-meme"></a>
 
 <img src="../assets/UXBUTNOTDX.PNG" style="zoom:50%;" />
 
@@ -255,6 +260,8 @@ La base de l'informatique repose également sur un chiffrement de la donnée. Le
 
 Le terme "computer" à été écrit pour la première fois par le poète Richard Brathwaite dans le livre The Yong Mans Gleanings en **1613**, sauf que le terme ne faisait pas référence à une machine, vous devriez pouvoir à ce stade de la lecture, constater que les ordinateurs d'antan étaient des gens, qui calculaient et rédigeai des tables de calcul (logarithmiques, trigonométriques, etc...), et ce à fin de pouvoir avoir la réponse à un calcul de manière directe (avec une complexité en O^1). Les premières machines à calculer sont apparues au courant du 17<sup>ème</sup> siècle, mais avant cela apparaissent de nouveaux outil de calcul non-mécanisé. C'est ainsi en **1617** que John Napier, un mathématicien écossais qui à donné son nom au *logarithme népérien*, invente un abaque du même nom nommé **Bâtons de Napier**. Il facilite le calcul des produits, quotients, puissances et racines. Cet outil permet, à l'aide d'un **tableau**, ayant pour lignes les chiffres de 1 à 9, et pour colonnes les chiffres du nombre sur lequel on désire faire une opération, d'obtenir une liste de cases donnant le résultat de l'opération. Son affichage se matérialise par des cases séparant les dizaines, situées en haut à gauche, des unités, placées en bas à droite et toutes deux séparées par un trait. L'utilisateur obtenait ainsi le résultat de l'opération avant application des retenues, et il suffisait alors d'additionner les nombres situés dans les mêmes diagonales pour finir le calcul. Sur la figure ci-dessous, je multiple 46 785 399 par 7 et obtient ainsi 327 497 793.
 
+<a name="batons-de-napier"></a>
+
 ![CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=644864](../assets/Napier-example-1.png)
 
 | Bâtons de Napier |
@@ -310,6 +317,8 @@ Entre **1844** et **1854**, **George Boole**, invente un algèbre binaire épony
 
 **Gottlob Frege**, plus jeune d'une dizaine d'année, fit correspondre plusieurs principes mathématiques à la logique et l'arithmétique, dont celui du philosophe David Hume. À cet effet, il a développé la pensée selon laquelle les principes mathématiques ont un équivalent en logique et même que la logique serait un domaine incluant les mathématiques en son sein, ce mouvement de pensée a été nommé **logicisme**. Il eu également repris la caractéristique universelle de Leibniz et développé une **notation logique** qu'il a décrit dans un ouvrage nommé *Idéographie* (*Begriffsschrift* en allemand) publié en 1879. Il y fait correspondre des notations mathématiques à ses notations logique. C'est alors que **Bertrand Russel** lui envoie un paradoxe empêchant d'aboutir son œuvre, paradoxe qu'il solutionnera lui même par la suite. Frege, se basant potentiellement sur *How To Make Ideas Clear*[^b11] de Peirce, et avec l'aide Bertrand Russel, fonda également le mouvement de la philosophie analytique dans le but de clarifier les pensées. Russel à par la suite co-publié une œuvre de 1910 qui est au fondement de la logique mathématique. Elle est nommée *Principia Mathematica* et à été réalisée avec l'aide d'**Alfred North Whitehead** qui sera quant à lui le fondateur de la philosophie des **processus**. Par la suite, les travaux des logiciens cités précédemment seront repris et aboutit par le mathématicien et professeur d'université **Ernst Schröder** dans son *Vorlesungen über die Algebra der Logik* , puis par le philosophe Ludwig Wittgenstein dans *Tractatus Logico-Philosophicus*. Enfin, des suites d'un groupe de travail de **Xerox** voulant standardiser les charactères de code, la norme **Unicode** a petit à petit posé les bases des charactères logiques. De nos jours, nous pouvons donc écrire des propositions et des tables de vérités avec les principaux caractères logiques suivants : 
 
+<a name="definition-syntaxe-logique"></a>
+
 |    A ⇒ B     |   A ⇔ B    |       **¬** A       | A ∧ B  | A ∨ B  |     A ⊻ B     |   A ↓ B   |                       ∀A : B                        |     A ⊢ B      |
 | :----------: | :--------: | :-----------------: | :----: | :----: | :-----------: | :-------: | :-------------------------------------------------: | :------------: |
 | Implique que | Equivaut à | Négation ou inverse | A et B | A ou B | Soit A soit B | Ni A ni B | Pout tout éléments de A,<br />on réalise l'action B | A prouve que B |
@@ -319,6 +328,8 @@ Entre **1844** et **1854**, **George Boole**, invente un algèbre binaire épony
 
 [^b10]: Irving H. Annelis, « Peirce's Truth-functional Analysis and the Origin of the Truth Table »
 [^b11]: https://courses.media.mit.edu/2004spring/mas966/Peirce%201878%20Make%20Ideas%20Clear.pdf
+
+<a name="table-de-verite"></a>
 
 | *A*  |  B   | A ∧ B | ¬ (A ∧ B) | ¬ A  | ¬ B  | (¬ A) ∨ (¬ B) |
 | :--: | :--: | :---: | :-------: | :--: | :--: | :-----------: |
@@ -553,6 +564,8 @@ Aujourd'hui le logiciel vient suppléer ces techniques de management. Le recueil
 
 De mon expérience, j'ai pu constater la différence entre prestation de service informatique et édition de logiciel. Le modèle économique d'une entreprise influence énormément les comportement de ses salariés. Les contraintes de temps et de budget ne sont pas les mêmes, les projets s'organisent différemment. Les prestataires vendent du temps, et ont donc naturellement tendance à avoir des délais plus courts et par conséquent plus de pression. Cela nécessite également une équipe commerciale solide capable de décrocher assez de projet pour faire travailler l'entreprise pendant les prochaines années. En contrepartie, ce n'est pas un logiciel ou site maintenable qui est demandé, mais il faut qu'il soit assez bien réalisé et fonctionnel pour être livré le plus rapidement possible afin d'en dégager une marge. Les éditeurs logiciels quant à eux le louent généralement en tant que service ou le vendent en tant que bien, le nerf de la guerre réside alors dans la maintenabilité du logiciel auquel doit être ajouté des fonctionnalités au fil du temps. Plus le logiciel grossit, plus il est compliqué de maîtriser les effets de bord ainsi que de comprendre l'intégralité du logiciel et de son historique. Ils ont cependant la chance d'avoir conçu une sorte de distributeur automatique qui n'a pas besoin d'action humaine pour fonctionner. Pour conclure, quelle que soit le modèle d'entreprise, le développeur n'est que rarement en contact direct avec le client. Les chefs de projets sont en première ligne pour échanger avec eux. Les UX/UI peuvent également faire intermédiaires en consultant le client, mais ils doivent également en informer les chefs de projets.
 
+<a name="matrice-raci"></a>
+
 | Personne       | Réalisateur                                | Approbateurs    | Consultés      | Informés       |
 | -------------- | ------------------------------------------ | --------------- | -------------- | -------------- |
 | Client         | Besoin                                     | Chefs de projet | UX/UI          | Développeur    |
@@ -700,7 +713,9 @@ Pour un utilisateur avertit, la démarche peut ne prendre que quelques minutes. 
 </html>
 ```
 
-La deuxième étape est d'ouvrir les ports. Allez dans le panneau de configuration de votre box internet et ouvrez les ports qui permettent d'emmètre un site web et d'écouter les requêtes des clients en https avec le numéro 443 et en http avec le numéro complémentaire 80. 
+La deuxième étape est d'ouvrir les ports. Allez dans le panneau de configuration de votre box internet et ouvrez les ports qui permettent d'emmètre un site web et d'écouter les requêtes des clients en https avec le numéro 443 et en http avec le numéro complémentaire 80.
+
+<a name="ports-freebox-os"></a>
 
 ![](..\assets\freebox.png)
 
@@ -709,7 +724,7 @@ La deuxième étape est d'ouvrir les ports. Allez dans le panneau de configurati
 
 Pour l'étape trois je vais configurer un nom de domaine, cela permet de relier une [adresse IP](#Genèse-d'internet) à un alias textuel plus simple. Pour arriver sur un site internet, nous ne retenons jamais son adresse IP mais son nom de domaine comme `google.fr`. Pour faire cette liaison entre l'adresse IP et son surnom, le plus simple serait que votre box internet possède une IP fixe ou une option pour qu'elle le soit. Si c'est le cas alors il suffit d'aller sur le site où vous avez réservé votre nom de domaine et ajouter une entrée DNS de type A si vous avez une adresse IPv4, ou AAAA si votre adresse IP est en version 6. 
 
-![](../assets/DNS_record.png)
+<a name="dns-interface-infomaniak"></a>![](../assets/DNS_record.png)
 
 | Interface de configuration DNS d'Infomaniak |
 | :-----------------------------------------: |
@@ -752,7 +767,7 @@ L'utilisation de NGINX comme serveur me permet de l'utiliser comme reverse-proxy
 
 Pour finir cette démonstration je vais vous présenter deux autres mécanismes que j'utilise. Premièrement le **lancement du site au démarrage** de mon serveur. Pour un Linux, j'aurais fait un service ou daemon. Sur Windows il suffit de trouver le dossier Démarrage ou Startup, il est situé dans le dossier utilisateur, quelque part dans le fameux `AppData\Roaming` mais la solution la plus facile pour y accéder est de faire `Windows + R` de taper `shell:startup` et de valider. Vous pouvez ensuite épingler le dossier au menu d'accès rapide pour le retrouver plus facilement. Tout raccourcis que vous mettez dedans sera exécuté au démarrage. Dans mon cas je lance automatiquement NGINX et attends 90 secondes avant de lancer le script de démarrage de mon serveur NodeJS dans la fenêtre numéro 1. 
 
-![](../assets/startup.png)
+<a name="script-windows-startup"></a>![](../assets/startup.png)
 
 | Contenu d'un script situé dans le dossier de démarrage Windows |
 | :----------------------------------------------------------: |
@@ -901,7 +916,7 @@ La gestion permet donc d'optimiser les charges et temps de travails. Une fois qu
 
 Les flowcharts, qui se traduisent en français par arbres de décisions, diagramme de processus, logigramme ou encore organigramme de programmation (et non pas par diagrammes de flux), ont initialement été développés dans l'ingénierie industrielle vers 1920. Ils ont rapidement été repris par l'industrie informatique alors naissante vers 1950. La réalisation de schémas ont depuis les début de l'informatique, permit de formuler la logique la constituant pour modéliser les programmes qui en résulterait et les présenter à toute personne sans avoir à écrire ou lire du code.
 
-C'est ainsi qu'en **1996**, Grady Booch, James Rumbaugh et Ivar Jacobson, trois ingénieurs travaillant sur des langages de modélisation objets différents, décident de s'unir pour co-créer un Langage de Modélisation Unifié qui avec l'inversion anglaise donne l'acronyme UML. Reprenons notre véhicule qu'est la voiture et qui ne peut actuellement qu'accélérer, nous pouvons la modéliser ainsi en UML.
+C'est ainsi qu'en **1996**, Grady Booch, James Rumbaugh et Ivar Jacobson, trois ingénieurs travaillant sur des langages de modélisation objets différents, décident de s'unir pour co-créer un Langage de Modélisation Unifié qui avec l'inversion anglaise donne l'acronyme UML. Reprenons notre véhicule qu'est la voiture et qui ne peut actuellement qu'accélérer, nous pouvons la modéliser ainsi en UML. <a name="UML-voiture-vehicule"></a>
 
 ![](../assets/VehiculeVoiture.png)
 
@@ -942,9 +957,7 @@ Je vais en priorité vous parler des fonctionnalités à priori, c'est à dire c
 
 La documentation permet théoriquement de répondre à toute question qu'un individu pourrait se poser concernant un domaine, ou dans le cas de la programmation informatique, d'un projet logiciel. Elle doit couvrir toutes les actions que doit accomplir le développeur, de l'installation du logiciel, à son lancement, son usage, ses fonctionnalités, son code, ainsi que comment contribuer et collaborer. Malgré le fait que je travaille seul, je suis souvent reparti de zéro pour réexpérimenter ce que vivrai un nouveau collaborateur arrivant sur le projet. Cela m'as permit de rédiger des instructions claires et de me rendre compte de tout les problèmes qui peuvent être rencontrés pour y proposer les solutions associées. Le respect de cette documentation autant dans sa rédaction que dans sa lecture permet une amélioration de la qualité et de la sécurité de l'application.
 
-Sur un serveur web, les fonctionnalités sont disponibles au travers des APIs, étant donné que ce sont des sortes de boites noire, il est essentiel de les documenter. Pour ce faire, un des outils les plus utilisé est actuellement swagger. Il permet de regrouper des ressources web identifiables par un verbe HTTP et une URL. En dépliant une section, j'obtiens un formulaire permettant d'indiquer quels sont les paramètres que je peut y passer, et la ou les réponses attendues possibles. Dans ma solution, je souhaite qu'il n'y ai pas besoin de renseigner ces informations, car je les ai en théorie déjà lors de la conception du modèle de donnée. Or pour utiliser swagger il faut répéter ses informations, généralement en utilisant un format qui plus est légèrement différant. De plus les documentations sont rarement mises à jours, je propose ainsi d'automatiquement les générer en fonction du code, pour qu'elle soient toujours représentatives de la réalité car fortement liées. Ci-dessous, vous pouvez voir la comparaison entre les deux interfaces. Swagger s'apparente plus à une immense liste tandis que mon gestionnaire d'API est plus proche du gestionnaire de fichier, avec une recherche qui fonctionne telle une ligne de commande, et une interface ne présentant que la ressource nécessaire autant en termes d'URL, de fonctionnalités ou de donnée. Lorsqu'on fait face à un problème informationnel, il convient de définir son périmètre, pour analyser et gérer précisément la zone voulue. L'informatique nous permet désormais d'avoir une interface pour naviguer précisément dans une simulation réaliste et visualiser ses ordres de grandeur. C'est pourquoi j'applique les grands principes de la modélisation contexte, conteneurs, composants, code, également appelé [c4model](https://c4model.com/), qui propose une cartographie d'un projet logiciel à l'aide de graphiques permettant une vue macro, micro, et précise à la granularité voulue.
-
-
+Sur un serveur web, les fonctionnalités sont disponibles au travers des APIs, étant donné que ce sont des sortes de boites noire, il est essentiel de les documenter. Pour ce faire, un des outils les plus utilisé est actuellement swagger. Il permet de regrouper des ressources web identifiables par un verbe HTTP et une URL. En dépliant une section, j'obtiens un formulaire permettant d'indiquer quels sont les paramètres que je peut y passer, et la ou les réponses attendues possibles. Dans ma solution, je souhaite qu'il n'y ai pas besoin de renseigner ces informations, car je les ai en théorie déjà lors de la conception du modèle de donnée. Or pour utiliser swagger il faut répéter ses informations, généralement en utilisant un format qui plus est légèrement différant. De plus les documentations sont rarement mises à jours, je propose ainsi d'automatiquement les générer en fonction du code, pour qu'elle soient toujours représentatives de la réalité car fortement liées. Ci-dessous, vous pouvez voir la comparaison entre les deux interfaces. Swagger s'apparente plus à une immense liste tandis que mon gestionnaire d'API est plus proche du gestionnaire de fichier, avec une recherche qui fonctionne telle une ligne de commande, et une interface ne présentant que la ressource nécessaire autant en termes d'URL, de fonctionnalités ou de donnée. Lorsqu'on fait face à un problème informationnel, il convient de définir son périmètre, pour analyser et gérer précisément la zone voulue. L'informatique nous permet désormais d'avoir une interface pour naviguer précisément dans une simulation réaliste et visualiser ses ordres de grandeur. C'est pourquoi j'applique les grands principes de la modélisation contexte, conteneurs, composants, code, également appelé [c4model](https://c4model.com/), qui propose une cartographie d'un projet logiciel à l'aide de graphiques permettant une vue macro, micro, et précise à la granularité voulue. <a name="swagger-vs-api-viewer"></a>
 
 ![](..\assets\editide_swagger.png)
 
@@ -955,11 +968,14 @@ Sur un serveur web, les fonctionnalités sont disponibles au travers des APIs, �
 
 Comme vous pouvez le voir dans l'illustration ci-dessus, mon gestionnaire d'API permet de tester les fonctionnalités comme sur swagger. Dans les deux outils, l'utilisateur peut renseigner ses informations dans un formulaire pour utiliser les fonctionnalités du site. La différence est que celui d'EditIDE est autogénéré en fonction du code JavaScript, et que le développeur pourra ultérieurement le paramétrer sans utiliser de code, directement depuis l'interface. L'autre différence notable dans la version actuelle d'EditIDE est que l'affichage du retour envoyé par le serveur n'est pas représenté sous forme de texte, mais sous celle d'un explorateur semblable à un gestionnaire de fichier. Une API renvoie souvent un format correspondant à un objet, dans notre cas, du JSON. Des outils de visualisation du JSON existent mais il ne me conviennent pas. Ils se contentent de l'afficher tel quel en temps que long texte brut incompréhensible. Dans mon affichage, je ne souhaite n'afficher que les clés et valeurs du chemin où je suis actuellement, à commencer par la racine. De la même manière, quand je travaille sur une fonction je n’ai pas besoin de voir autre chose que ses dépendances. Tout le reste n'est qu'une information parasite. C'est pourquoi j'ai appliquer la même logique d'arborescence pour visualiser les fichiers de code, et je la garderai dans tout le fonctionnement d'EditIDE de la même manière que les fils d'arianes (Acceuil > Page > Article > ...) sont devenus universels sur la plupart des sites webs et applications. 
 
-J'ai donc eu, lors de mon développement de cette solution, besoin de créer un programme qui puisse lire ses propres fichiers de code et les représenter de manière abstraite. De la même manière que j'ai refait plusieurs fois le processus d'installation de mon logiciel pour le documenter, j'ai refait plusieurs fois cette fonctionnalité. C'est la première que j'ai implémenté lors de KIDE, ma preuve de concept (**P**roof **O**f **C**oncept) réalisée en 2019 dont j'ai parlé en préface. J'ai nommé ce composant d'interface graphique le `js-viewer`, il affiche un fichier de code Javascript comme si j'avais replié toutes ses fonctions dans mon éditeur de texte. Cela permet d'avoir une bonne visualisation de l'ensemble des imports, variables, et fonctions du fichier. Dans mon POC de 2019, je lisais moi même le fichier pour générer un Object JSON qui le représente. Je me suis rendu compte par la suite que les outils comme Babel, qui permettent également de compiler du TypeScript en JavaScript, font exactement cela en créant ce qui s'appelle un Abstract Syntaxic Tree ou AST, ***que l'on peut partiellement voir en haut à droite de la figure suivante, sous forme de JSON.***
+J'ai donc eu, lors de mon développement de cette solution, besoin de créer un programme qui puisse lire ses propres fichiers de code et les représenter de manière abstraite. De la même manière que j'ai refait plusieurs fois le processus d'installation de mon logiciel pour le documenter, j'ai refait plusieurs fois cette fonctionnalité. C'est la première que j'ai implémenté lors de KIDE, ma preuve de concept (**P**roof **O**f **C**oncept) réalisée en 2019 dont j'ai parlé en préface. J'ai nommé ce composant d'interface graphique le `js-viewer`, il affiche un fichier de code Javascript comme si j'avais replié toutes ses fonctions dans mon éditeur de texte. Cela permet d'avoir une bonne visualisation de l'ensemble des imports, variables, et fonctions du fichier. Dans mon POC de 2019, je lisais moi même le fichier pour générer un Object JSON qui le représente. Je me suis rendu compte par la suite que les outils comme Babel, qui permettent également de compiler du TypeScript en JavaScript, font exactement cela en créant ce qui s'appelle un Abstract Syntaxic Tree ou AST, ***que l'on peut partiellement voir en haut à droite de la figure suivante, sous forme de JSON.***<a name="editide-vs-code"></a>
 
 ![](..\assets\editide_js_file_AST_viewer.png)
 
-Comme vu précédemment et comme l'acronyme AST l'indique, un fichier JSON est un arbre, ou un graphe, qu'il est possible de parcourir. C'est pourquoi je l'affiche tel une arborescence de fichier, en réutilisant mon composant React ObjectViewer. Il me permet de visualiser et de modifier des objets JSON. Dans le but de faciliter mon travail sur de tels projets d'interface annexes, j'ai également développer une interface permettant de gérer les données venant de mon plugin `files`. Cette interface inclut le `js-viewer` et le `object-manager` pour pouvoir afficher les fichiers correspondants à leurs types pris en charge. Lorsque je suis dans un `package.json`, je peut ainsi exécuter les scripts qu'il contient, recompiler mes projets voire même en extraire les fichiers en un seul clic et ultérieurement de manière automatique. Je ne vais pas présenter tout les projets, mais face au grand nombre d'entre eux que je dois gérer et maintenir à jour, je me suis créer un `project-viewer`. Connecté à Gitlab à l'aide d'un token me permettant accéder à son API, je peut afficher la liste de mes projets à l'aide à l'aide de mon `object-viewer` que j'ai configuré pour qu'il récupère un projet lorsque je clique dessus. Je prévoit également d'ajouter une sélection et/ou d'ajouter un bouton pour récupérer tout les projets qui ne sont pas encore téléchargés. Gitlab n'affiche pas d'arborescence des projets, par défaut elle affiche tout les projets par ordre alphabétique, et propose de voir les groupes et sous groupes dans une page à part. J'ai de même commencé à implémenter les issues Gitlab, pour avoir un système de gestion de ticket déjà populaire et gratuit, qui me permet d'avoir le stricte nécessaire en terme de gestion de projet.
+| Comparaison VSCode vs EditIDE |
+| :---------------------------: |
+
+Comme vu précédemment et comme l'acronyme AST l'indique, un fichier JSON est un arbre, ou un graphe, qu'il est possible de parcourir. C'est pourquoi je l'affiche tel une arborescence de fichier, en réutilisant mon composant React ObjectViewer. Il me permet de visualiser et de modifier des objets JSON. Dans le but de faciliter mon travail sur de tels projets d'interface annexes, j'ai également développer une interface permettant de gérer les données venant de mon plugin `files`. Cette interface inclut le `js-viewer` et le `object-manager` pour pouvoir afficher les fichiers correspondants à leurs types pris en charge. Lorsque je suis dans un `package.json`, je peut ainsi exécuter les scripts qu'il contient, recompiler mes projets voire même en extraire les fichiers en un seul clic et ultérieurement de manière automatique. Je ne vais pas présenter tout les projets, mais face au grand nombre d'entre eux que je dois gérer et maintenir à jour, je me suis créer un `project-viewer`. Connecté à Gitlab à l'aide d'un token me permettant accéder à son API, je peut afficher la liste de mes projets à l'aide à l'aide de mon `object-viewer` que j'ai configuré pour qu'il récupère un projet lorsque je clique dessus. Je prévoit également d'ajouter une sélection et/ou d'ajouter un bouton pour récupérer tout les projets qui ne sont pas encore téléchargés. Gitlab n'affiche pas d'arborescence des projets, par défaut elle affiche tout les projets par ordre alphabétique, et propose de voir les groupes et sous groupes dans une page à part. J'ai de même commencé à implémenter les issues Gitlab, pour avoir un système de gestion de ticket déjà populaire et gratuit, qui me permet d'avoir le stricte nécessaire en terme de gestion de projet.<a name="prototype-project-manager"></a>
 
 ![](..\assets\editide_gitlab_projects.png)
 
@@ -970,7 +986,7 @@ Git est un logiciel de gestion de versions décentralisé sous licence GNU GPL. 
 
 
 
-### A postériori
+### A posteriori
 
 Plus un projet a d'intermédiaires, plus il y'a de risques d'erreurs. Dès le fondement de l'informatique, Charles Babbage l'avait déjà compris et sa machine faisait à la fois le calcul et l'impression car beaucoup d'erreurs arrivaient lors de l'impression. En informatique, beaucoup d'erreurs occurrent par manque d'information ou de clarté dans leur communication, le client exprime parfois mal son besoin, voire à un problème et ne sais pas ce dont il aurait besoin pour y palier. Les équipes faisant l'intermédiaire entre le client et l'équipe de production se retrouvent souvent entre deux eaux et doivent s'adapter en apprenant deux jargons au vocabulaire très différent. Idéalement ce genre de personnes devraient avoir été, ou du moins être capable de se mettre à la place des deux partis dont il fait l'intermédiaire, dans le but de mieux les comprendre et pouvoir efficacement communiquer avec eux afin de trouver la meilleure solution. Concernant la gestion de projet informatique, des bugs et des incidents, que ce soit une nouvelle fonctionnalité ou un problème rencontré dans le logiciel, il convient d'énoncer clairement le problème afin que toute personne profane puisse le comprendre et le réexpliquer. 
 
@@ -986,7 +1002,7 @@ L'informatique et l'algorithmique nous permettent de répliquer à l'infini une 
 
 En conclusion, ce que je souhaite réaliser, c'est un outil qui me permette de mieux visualiser mon code et gérer mes projets, de manière direct live, à l'intersection entre Elementor, Typora et un Notebook Python. Plus besoin d'alterner entre plusieurs applications ou onglets pour travailler, de nos jours les technologies web sont prédominantes et accessible. C'est comme les normes, autant les utiliser et les suivre ! Plus de ligne de commande ou de bloc-notes remplis de texte bruts. Interfaçons nos outils logiciels !
 
-### Qu'elle sont les conditions de succès d'un logiciel ?
+### Quelles sont les conditions de succès d'un logiciel ?
 
 Un ludiciel doit être vivant, animé, utilisé, collaboratif, et surtout naturel. La notion de naturel est selon moi très lié à une logique auto-descriptive. Le code lui même suit une logique qui se décrit elle même. Mon objectif dans la conception d'EditIDE en tant que ludiciel est de faire en sorte que le code soit affiché avec des symboles auto-descriptif couplé à une explication textuelle dans la langue de l'utilisateur si nécessaire. L'accessibilité, la facilité d'utilisation, l'utilité, doivent apporter une satisfaction. L'utilisation de l'application doit dépasser les désirs, attentes et promesses faites en amont. Le logiciel doit fournir à l'utilisateurs toutes les informations nécessaire à son auto-formation. Ce dernier doit pouvoir suivre son évolution et être récompensé pour sa progression. Son succès ne sera fait que si les gens adhère au jeu et le partage. La viralité est un facteur mathématiquement calculable. C'est la moyenne de transmissions faites par les personnes atteintes par une information. Une information est virale dès que son facteur dépasse 1, autrement dis dès que la moyenne des personnes en sa possession la retransmettent à plus d'une autre personne. Je ne sais pas encore de quoi sera fait le futur. Je pense que je vais devoir l'écrire après le présent moment qui achève ce livre. Je n'aurais nullement la prétention de dire qu'EditIDE est le futur, car pour cela il faudrait que le logiciel existe déjà de manière utilisable et utilisé. Si vous voulez participer à son succès, partager ce livre avec quelqu'un que vous pensez pouvoir y être sensible. Encore merci de m'avoir lu. 
 
@@ -998,21 +1014,21 @@ J'ai écrit ce mémoire avec le même état d'esprit qu'EditIDE depuis maintenan
 
 J'ai parfois rencontré des problèmes pour retrouver des informations, pour Raymond Lulle par exemple, j'ai dû récupérer la page en catalan pour mieux comprendre le lien entre Lulle et la logique combinatoire et computationnelle qui a inspiré Leibniz, puis croiser avec le livre *Histoire de l'informatique illustrée*. En effet, certains concepts comme l'*automatic programming*, ne possède pas de page Wikipédia ni de définition en français. J'ai donc très souvent croiser les versions anglaises et françaises des pages Wikipédia que je consultaient ainsi que leurs bibliographie pour être sur de la source et de la véracité des informations. Cela m'as permis de découvrir et lire des textes historiques fantastiques comme *School and Society* de John Dewey, *How to Make Our Ideas Clear* de Charles S. Peirce ou le texte *As we may think* de Vannevar Bush, prouvant encore une fois que beaucoup d'inventions et informations qui n'étaient pas encore connues du grand public, étaient déjà accessible aux plus curieux. Je n'ai pas pu tout garder, et j'ai du parler de personnes qui ont dis, écrit, ou fait des choses regrettable, j'ai pourtant parler de Joseph Lancaster qui dans lors de son enseignement a brutalisé des enfants, ou de Rousseau qui disait que "*Toute l'éducation des femmes doit être relative aux hommes, leur plaire, leur être utile, se faire aimer, honorer d'eux, les élever jeunes, les soigner grands, les consoler, leur rendre la vie agréable et douce. Voilà les devoir d'une femme dans tous les temps et ce qu'on doit leur apprendre dès leur enfance*". Personnellement je pense que ce genre d'injonction ne devrait pas être genré au féminin, au risque même d'en priver les Hommes dans le sens de l'humanité. De la même manière, Nicole-Claude Mathieu à déclarer que la féminité est "*imposée aux femmes, et de la masculinité, apprise aux hommes*", et je souhaite à tout le monde d'apprendre sans jamais ne se laisser imposer quoi que ce soit, n'hésitez pas à fuir, ça s’apprend également au même titre que le courage, qui n'est rappelons le, pas l'absence de peurs, mais sa capacité à les gérer.
 
-La pratique du Big Data repose sur cinq piliers qui correspondent aux 5V de l'information, soit : volume, vitesse, variété, véracité, valeur. Pour la rédaction de ce mémoire le volume devait être contenu entre 80 et 85 pages d'entre 25 et 30 lignes, la progression du discours devait avoir une vitesse adaptée pour que le lecteur puisse suivre, les informations doivent être assez variées pour éviter la redondance, la véracité a aussi été au cœur de mes préoccupations lors de mes relectures de sources, et enfin chaque information doit ajouter de la valeur au texte. Comme mon mémoire a été rédigé en Markdown, son code est lisible et possède la même structure que le document en résultant. J'ai donc ainsi pu le traiter comme de la donnée pour avoir les 50 mots les plus utilisés à l'aide d'un programme Python[^c1]
+La pratique du Big Data repose sur cinq piliers qui correspondent aux 5V de l'information, soit : volume, vitesse, variété, véracité, valeur. Pour la rédaction de ce mémoire le volume devait être contenu entre 80 et 85 pages d'entre 25 et 30 lignes, la progression du discours devait avoir une vitesse adaptée pour que le lecteur puisse suivre, les informations doivent être assez variées pour éviter la redondance, la véracité a aussi été au cœur de mes préoccupations lors de mes relectures de sources, et enfin chaque information doit ajouter de la valeur au texte. Comme mon mémoire a été rédigé en Markdown, son code est lisible et possède la même structure que le document en résultant. J'ai donc ainsi pu le traiter comme de la donnée pour avoir les 50 mots les plus utilisés à l'aide d'un programme Python[^c1] <a name="top-42-mots-memoire"></a>
 
 ![](../assets/occurances_mots_memoire.png)
 
 | Top 42 des mots de 5 lettres les plus utilisés dans ce mémoire |
 | :----------------------------------------------------------: |
 
-Cette première analyse m'as permis d'être sûr que les mots les plus utilisés soient bien en rapport avec le titre, ou le sous-titre, c'est à dire le sujet. Ensuite, je me suis amusé à compter le nombre de mots de chaque parties pour m'assurer d'avoir un entonnoir allant du général vers le particulier. Et je suis personnellement satisfait de cette répartition qui m'a permis de traiter chacune des parties avec le stricte nécessaire pour la compréhension et la résolution de la problématique. 
+Cette première analyse m'as permis d'être sûr que les mots les plus utilisés soient bien en rapport avec le titre, ou le sous-titre, c'est à dire le sujet. Ensuite, je me suis amusé à compter le nombre de mots de chaque parties pour m'assurer d'avoir un entonnoir allant du général vers le particulier. Et je suis personnellement satisfait de cette répartition qui m'a permis de traiter chacune des parties avec le stricte nécessaire pour la compréhension et la résolution de la problématique. <a name="nb-mots-par-chapitre-memoire"></a>
 
-![](D:\Textes\EditIDE\Histoire-et-Philosophie-de-la-Programmation\assets\nb_mots_par_chapitres.png)
+![](..\assets\nb_mots_par_chapitres.png)
 
-| Top 42 des mots de plus de 5 lettres les plus utilisés dans ce mémoire |
-| :----------------------------------------------------------: |
+| Nombre de mots par chapitre de ce mémoire |
+| :---------------------------------------: |
 
-Oui, j'ai utilisé Wikipédia et ChatGPT pour écrire cet ouvrage, mais aucun texte n'en est extrait. Pourquoi ? Je tenais à rédiger moi même, comme je vous l'aurais expliqué à l'oral. De plus les Intelligences Artificielles pourraient ne pas avoir le droit d'auteur ainsi que d'exploitation commerciale et je me prévaux de l'utiliser comme source sûre, au même titre que toutes les autres. Le passage sur Richard Stallman à néanmoins vu le jour grâce au modèle de génération de texte qu'est ChatGPT. Voici le dialogue qui en est à l'origine :
+Oui, j'ai utilisé Wikipédia et ChatGPT pour écrire cet ouvrage, mais aucun texte n'en est extrait. Pourquoi ? Je tenais à rédiger moi même, comme je vous l'aurais expliqué à l'oral. De plus les Intelligences Artificielles pourraient ne pas avoir le droit d'auteur ainsi que d'exploitation commerciale et je me prévaux de l'utiliser comme source sûre, au même titre que toutes les autres. Le passage sur Richard Stallman à néanmoins vu le jour grâce au modèle de génération de texte qu'est ChatGPT. Voici le dialogue qui en est à l'origine :<a name="chat-gpt-usage"></a>
 
 ![](../assets/ChatGPTRichardStallman.png)
 
@@ -1026,13 +1042,14 @@ Cela m'as prit du temps de reprendre et aboutir mes études, d'autant que ca m'e
 > Dans la pratique, on ne se lasse jamais d’imprimer et les adultes se laissent prendre eux aussi à la minutie d’une technique qui permet la transcription en une forme magnifiée et définitive des textes auxquels on veut donner vie et harmonie. L’enfant qui compose un texte le sent naître sous sa main ; il lui donne une nouvelle vie, il le fait sien. Il n’y a désormais plus d’intermédiaire dans le processus qui conduit de la pensée ébauchée, puis exprimée, au journal qu’ils postent pour les correspondants : tous les échelons y sont : écriture, mise au point collective, composition, illustration, disposition sur la presse, encrage, tirage, groupage, agrafage. C’est justement cette continuité artisanale qui constitue l’essentiel de la portée pédagogique de l’imprimerie à l’école. Elle corrige ce qu’a d’irrationnel en éducation cette croyance que d’autres peuvent créer pour nous notre propre culture.
 > *Célestin Freinet, Le journal scolaire, 1967*
 
-
-
-![](D:\Textes\EditIDE\Histoire-et-Philosophie-de-la-Programmation\assets\connaissance.drawio.png)
-
 ## Annexes
 
-Mon œuvre peut être vendue avec mon accord mais elle est libre et sera toujours accessible comme c'est le cas actuellement sur GitHub ! :) Si vous voulez lire cela sur un livre rien ne vous empêche d'en payer un ou concevoir un vous même.
+Mon œuvre peut être vendue avec mon accord mais elle est libre et sera toujours accessible comme c'est le cas actuellement sur GitHub ! :) Si vous voulez lire cela sur un livre rien ne vous empêche d'en payer un ou concevoir un vous même. Je vous laisse également un schéma résultant du sujet initial de mon mémoire qui abordait plus en détail la philosophie et l'information de manière globale. Cela sera peut être le sujet d'un autre ouvrage, qui sait !? <a name="venn-information-diagram"></a>
+
+![](..\assets\connaissance.drawio.png)
+
+| Diagramme de venn pour classifier une information |
+| :-----------------------------------------------: |
 
 
 
@@ -1046,9 +1063,11 @@ Mon œuvre peut être vendue avec mon accord mais elle est libre et sera toujour
 
 *Transmettre* - Christophe André, Céline Alvarez, Catherine Gueguen, Matthieu Ricard, Frédéric Lenoir, Ilios Kotsou, Caroline Lesire
 
-Arpanet, le monde en réseau - Tristan Gaston-Breton
+*Lean Startup* - Eric Ries
 
-Lean Startup
+*Le livre des décisions* - Mikael Krogerus & Roman Tschäppeler
+
+*Arpanet, le monde en réseau* - Tristan Gaston-Breton
 
 
 
@@ -1152,9 +1171,7 @@ https://www.youtube.com/watch?v=RQYuyHNLPTQ
 
 
 
-https://www.amazon.fr/Building-Blocks-Teaching-Preschoolers-Special/dp/1557669678
-
-
+<div style="page-break-after: always;"></div>
 
 #### Code
 
@@ -1217,23 +1234,26 @@ displaySerie(values_more_than_5_letters)
 
 concomitant
 
+
+
 #### Table des illustrations
 
 | Titre                                                        | Page |
-| ------------------------------------------------------------ | ---- |
-| Comparaison dpkg keyboard-configuration VS residence-manager | 5    |
-| meme sur l'expérience développeur                            | 10   |
-| Bâtons de Napier                                             | 27   |
-| Définitions de la syntaxe logique                            | 35   |
-| Table de vérité                                              | 35   |
-| Matrice RACI d'après mes 5 ans d'expérience dans l'industrie informatique | 62   |
-| Accès à la gestion des ports dans l'interface freebox OS 4.7 | 74   |
-| Interface de configuration DNS d'infomaniak                  | 74   |
-| Contenu d'un script situé dans le dossier de démarrage Windows | 76   |
-| Graphique UML discrétisé d'une voiture en tant que véhicule  | 82   |
-| Comparaison d'interfaces entre celle de Swagger et ma proposition de système | 87   |
-| Comparaison VSCode vs EditIDE                                | 88   |
-| Prototype project-manager utilisant l'API de Gitlab          | 89   |
-| Top 42 des mots de plus de 5 lettres les plus utilisés dans ce mémoire | 94   |
-| Identification d'un orateur présent dans le reportage "*Révoltes et révolutions technologiques*" d'ARTE | 95   |
-
+| ------------------------------------------------------------ | :--: |
+| [Comparaison dpkg keyboard-configuration VS residence-manager](#dpkg-keyboard-configuration-vs-residence-manager) |  5   |
+| [meme sur l'expérience développeur](#dx-meme)                |  10  |
+| [Bâtons de Napier](#batons-de-napier)                        |  27  |
+| [Définitions de la syntaxe logique](#definition-syntaxe-logique) |  35  |
+| [Table de vérité](#table-de-verite)                          |  35  |
+| [Matrice RACI d'après mes 5 ans d'expérience dans l'industrie informatique](#matrice-raci) |  62  |
+| [Accès à la gestion des ports dans l'interface freebox OS 4.7](#ports-freebox-os) |  74  |
+| [Interface de configuration DNS d'infomaniak](#dns-interface-infomaniak) |  74  |
+| [Contenu d'un script situé dans le dossier de démarrage Windows](#script-windows-startup) |  76  |
+| [Graphique UML discrétisé d'une voiture en tant que véhicule](#UML-voiture-vehicule) |  82  |
+| [Comparaison d'interfaces entre celle de Swagger et ma proposition de système](#swagger-vs-api-viewer) |  87  |
+| [Comparaison VSCode vs EditIDE](#editide-vs-code)            |  88  |
+| [Prototype project-manager utilisant l'API de Gitlab](#prototype-project-manager) |  89  |
+| [Top 42 des mots de plus de 5 lettres les plus utilisés dans ce mémoire](#top-42-mots-memoire) |  94  |
+| [Nombre de mots par chapitre de ce mémoire](#nb-mots-par-chapitre-memoire) |  95  |
+| [Identification d'un orateur présent dans le reportage "*Révoltes et révolutions technologiques*" d'ARTE](#chat-gpt-usage) |  95  |
+| [Diagramme de venn pour classifier une information](#venn-information-diagram) |  98  |
