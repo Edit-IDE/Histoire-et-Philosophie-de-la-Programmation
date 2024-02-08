@@ -1,6 +1,5 @@
 
 
-
 #write {
 	max-width: 960px;
 	margin: 0 auto;
@@ -176,6 +175,10 @@ blockquote {
 	border-left: 1px solid #ddd;
 }
 
+figure {
+	margin: 0.3em 0em;
+}
+
 .md-fences,
 code,
 tt {
@@ -241,26 +244,25 @@ table {
 table th,
 table td {
 	padding: 8px;
-	line-height: 1.333333rem;
-	vertical-align: top;
-	border-top: 1px solid #ddd
+	font-size: 0.8rem;
+	line-height: 1;
+	vertical-align: middle;
+	border: 1px solid #ddd;
 }
 table th {
-	font-weight: bold
+	font-weight: bold;
 }
 table thead th {
-	vertical-align: bottom
+	vertical-align: bottom;
+	text-wrap: nowrap;
 }
-table caption+thead tr:first-child th,
-table caption+thead tr:first-child td,
-table colgroup+thead tr:first-child th,
-table colgroup+thead tr:first-child td,
-table thead:first-child tr:first-child th,
-table thead:first-child tr:first-child td {
-	border-top: 0
-}
+
 table tbody+tbody {
-	border-top: 2px solid #ddd
+	border-top: 2px solid #ddd;
+}
+
+thead:not(:has(+ tbody tr)) tr th {
+    border: 0!important;
 }
 
 .task-list{

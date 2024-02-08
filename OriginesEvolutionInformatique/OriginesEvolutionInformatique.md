@@ -25,14 +25,14 @@ L'usage du pronom impersonnel "on" est proscrit, et je souhaite éviter l'usage 
 | 0.1 -  [Bienvenue](#bienvenue)                               |  1   |
 | 0.2 - [Sommaire](#sommaire)                                  |  2   |
 | 0.3 - [Résumé](#résumé)                                      |  4   |
-| 0.4 - [Préface](#préface)                                    |  5   |
-| 0.5 - [Remerciements](#remerciements)                        |  8   |
+| 0.4 - [Préface](#préface)                                    |  4   |
+| 0.5 - [Remerciements](#remerciements)                        |  7   |
 | 0.6 - [Introduction](#introduction)                          |  8   |
-| 0.7 - [Comprendre la problématique](#comprendre-la-problématique) |  10  |
+| 0.7 - [Comprendre la problématique](#comprendre-la-problématique) |  9   |
 | 1.0 - [Histoire](#histoire)                                  |  12  |
 | &nbsp;&nbsp;&nbsp;&nbsp;1.1 - [Préhistoire](#préhistoire)    |  12  |
-| &nbsp;&nbsp;&nbsp;&nbsp;1.2 - [Antiquité](#antiquité)        |  14  |
-| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1 - [Mésopotamie](#mésopotamie) |  14  |
+| &nbsp;&nbsp;&nbsp;&nbsp;1.2 - [Antiquité](#antiquité)        |  13  |
+| &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.1 - [Mésopotamie](#mésopotamie) |  15  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.2 - [Grèce](#grèce) |  16  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.3 - [Égypte](#égypte) |  18  |
 | &nbsp;&nbsp;&nbsp;&nbsp;1.3 - [Moyen-Âge](#moyen-âge)        |  20  |
@@ -67,20 +67,21 @@ L'usage du pronom impersonnel "on" est proscrit, et je souhaite éviter l'usage 
 | 2.9.4 - [Problèmes et solutions](#problèmes-et-solutions)    |  83  |
 | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.9.5 - [UML](#uml) |  84  |
 | 3.0 - [EditIDE ou "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?"](#editide-ou-comment-repenser-la-gestion-de-linformation-pour-moderniser-lexpérience-développeur-) |  85  |
-| &nbsp;&nbsp;&nbsp;&nbsp;3.1 - [A priori](#a-priori)          |  88  |
-| &nbsp;&nbsp;&nbsp;&nbsp;3.2 - [A posteriori](#a-postériori)  |  92  |
-| &nbsp;&nbsp;&nbsp;&nbsp;3.3 - [Quelles sont les conditions de succès d'un logiciel ?](#quelle-sont-les-conditions-de-succès-dun-logiciel-) |  95  |
-| 4.0 - [Postface : Rétrospective et métacognition](#postface--rétrospective-et-métacognition) |  96  |
-| 5.0 - [Annexes](#annexes)                                    | 100  |
-| &nbsp;&nbsp;&nbsp;&nbsp;5.1 - [Bibliographie](#bibliographie) | 101  |
-| &nbsp;&nbsp;&nbsp;&nbsp;5.2 - [Webographie](#webographie)    | 104  |
-| &nbsp;&nbsp;&nbsp;&nbsp;5.3 - [Code](#code) [Lexique](#lexique) | 105  |
-| &nbsp;&nbsp;&nbsp;&nbsp;5.4 - [Table des illustrations](#table-des-illustrations) | 105  |
+| &nbsp;&nbsp;&nbsp;&nbsp;3.1 - [A priori](#a-priori)          |  86  |
+| &nbsp;&nbsp;&nbsp;&nbsp;3.2 - [A posteriori](#a-postériori)  |  90  |
+| &nbsp;&nbsp;&nbsp;&nbsp;3.3 - [Quelles sont les conditions de succès d'un logiciel ?](#quelle-sont-les-conditions-de-succès-dun-logiciel-) |  93  |
+| 4.0 - [Postface : Rétrospective et métacognition](#postface--rétrospective-et-métacognition) |  94  |
+| 5.0 - [Annexes](#annexes)                                    |  98  |
+| &nbsp;&nbsp;&nbsp;&nbsp;5.1 - [Bibliographie](#bibliographie) |  98  |
+| &nbsp;&nbsp;&nbsp;&nbsp;5.2 - [Webographie](#webographie)    |  99  |
+| &nbsp;&nbsp;&nbsp;&nbsp;5.3 - [Code](#code)                  | 101  |
+| &nbsp;&nbsp;&nbsp;&nbsp;5.4 -  [Lexique](#lexique)           | 102  |
+| &nbsp;&nbsp;&nbsp;&nbsp;5.4 - [Table des illustrations](#table-des-illustrations) | 102  |
 
 
 ## Résumé
 
-Dès la préhistoire, l'humanité avait déjà des méthodes de gestion de l'information. L'histoire de l'information est celle de ceux qui y ont contribué au travers de leurs actes, lectures, écrits, et dires. Cet ouvrage, conformément à son titre et aux recherches qu'il a nécessité, énonce donc le passé, le présent, et ma vision concernant le futur de la gestion de l'information. L'étude des connaissances existantes sur ce sujet vous replongera sûrement dans vos cours d'Histoire. Cet état de l'art mettra en situation le présent avec un abrégé allant de la préhistoire jusqu’à l'état actuel de la science de la gestion de l'information qu'est l'informatique. En tant que développeur, j'ai pu voir en quoi cette discipline récente permet désormais de solutionner et automatiser beaucoup de tâches pénibles, mais aussi que sa pratique en elle même reste fastidieuse. C'est pourquoi j'en ai fait le cœur de ma problématique, et que la dernière partie se nomme "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?". À l'aide des parties précédentes analysant son origine, la conclusion proposera ainsi une solution informatique innovante, combinant des technologies existantes pour se simplifier elle même en utilisant de la rétro-action, et de la méta-programmation à travers une interface graphique simple et agréable.
+Dès la préhistoire, l'humanité avait déjà des méthodes de gestion de l'information. L'histoire de l'information est celle de l'ensemble des individus de notre espèce, qui y contribuent durant leurs vie au travers de leurs actes, lectures, écrits, et dires. Cet ouvrage, conformément à son titre et aux recherches qu'il a nécessité, énonce donc le passé, le présent, et mon anticipation concernant le futur de la gestion de l'information. L'étude des connaissances existantes sur ce sujet vous replongera sûrement dans vos cours d'Histoire. Cet état de l'art mettra en situation le présent avec un abrégé allant de la préhistoire jusqu’à l'état actuel de la science de la gestion de l'information qu'est l'informatique. En tant que développeur, j'ai pu voir en quoi cette discipline récente permet désormais de solutionner et automatiser beaucoup de tâches pénibles, mais aussi que sa pratique en elle même reste fastidieuse. C'est pourquoi j'en ai fait le cœur de ma problématique, et que la dernière partie se nomme "Comment repenser la gestion de l'information pour moderniser l'expérience développeur ?". À l'aide des parties précédentes analysant son origine, la conclusion proposera ainsi une solution informatique innovante, combinant des technologies existantes pour se simplifier elle même en utilisant de la rétro-action, et de la méta-programmation à travers une interface graphique simple et agréable.
 
 
 
@@ -164,7 +165,7 @@ C'est ici qu'intervient la **bulle enveloppe ∨ comptable**. Il y a presque 600
 
 #### Mésopotamie
 
-Marquée par l'invention la plus importante de notre histoire, en **-3250** dans la région de la **Mésopotamie** ; la naissance de **l'écriture** a permis une transmission d'informations complexes sur un support théoriquement permanent. Des lois, qu'elles soient juridiques, mathématiques, ou autres, ont alors pu être rédigées et transmises de manière plus fiable que par la transmission orale, pratiquée jusque là en plus du dessin. Malgré cela, beaucoup de penseurs ont continués à transmettre leurs savoirs exclusivement à l'oral, n'ayant donc jamais rien écrit de leurs vivant. Bien que des gens l'ont fait pour eux, comment être sûrs que les informations de leurs discours n'ont pas été déformés, par des siècles de copies et réécriture, de ragots et légendes. Pour autant, ce qu'il en reste est une facette de la réalité, c'est ce qui a persisté jusque là grâce à ce que les auteurs ont jugés important de transmettre aux générations futures et Historien(ne)s Archéologues.
+Marquée par l'invention la plus importante de notre histoire, la naissance de **l'écriture** datée vers l'an **-3250** a permis une transmission d'informations complexes sur un support théoriquement permanent. Des lois, qu'elles soient juridiques, mathématiques, ou autres, ont alors pu être rédigées et transmises de manière plus fiable que par la transmission orale, pratiquée jusque là en plus du dessin. Malgré cela, beaucoup de penseurs ont continués à transmettre leurs savoirs exclusivement à l'oral, n'ayant donc jamais rien écrit de leurs vivant. Bien que des gens l'ont fait pour eux, comment être sûrs que les informations de leurs discours n'ont pas été déformés, par des siècles de copies et réécriture, de ragots et légendes. Pour autant, ce qu'il en reste est une facette de la réalité, c'est ce qui a persisté jusque là grâce à ce que les auteurs ont jugés important de transmettre aux générations futures et Historien(ne)s Archéologues.
 
 Dès l’Antiquité, les égyptiens et les babyloniens avaient déjà rédigé des textes comportant des problèmes, et des manières mathématiques pour les solutionner, tels que le Papyrus Rhind, qui explicite notamment des opérations comme la division, la multiplication, et bien d'autres. **L'algèbre babylonienne** datée vers **-3000**, précède le Papyrus Rhind d'un siècle et utilisait un système sexagésimal. Ce système potentiellement emprunté aux sumériens, était de base 10, fondation du système décimal ; et 60, encore utilisée de nos jours pour le temps, ou les angles. Cet algèbre possédait plus de distinctions d'opérations logiques que les simples additions, multiplications et divisions, certains concepts peuvent aujourd'hui se retrouver en programmation. Ils avaient deux manières d'additionner : L'empilement qui donne un troisième nombre à partir de deux autres : `a = b + c`, et l'ajout par fusion d'un autre nombre, à un premier : `a += b`, qui équivaut à l'empilement `a = a + b`. Idem pour la soustraction : `a = b - c`,  `a -= b` qui équivaut à `a = a - b`. Avec de surcroît la notion de comparaison et d'équation : si après la soustraction `a - b` il reste `c` , alors `a > b` car `a = b + c`[^page13].
 
