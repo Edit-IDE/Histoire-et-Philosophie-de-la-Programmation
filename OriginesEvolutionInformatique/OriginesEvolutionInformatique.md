@@ -97,7 +97,7 @@ Après l'obtention de mon Baccalauréat scientifique en 2015, débarquant alors 
 
 ![](../assets/dpkg-reconfigure.png)
 
-| Comparaison dpkg keyboard-configuration VS residence-manager |
+| F1 : Comparaison dpkg keyboard-configuration VS residence-manager |
 | :----------------------------------------------------------: |
 
 J'ai rapidement découvert les compilateurs, qui indiquent les erreurs tant bien que mal, qui ont parfois eux même des erreurs ou manques de précisions, nécessitant de comprendre pleinement son fonctionnement et son propre code pour arriver à trouver et corriger le problème. Cela peut être décourageant pour beaucoup, et c'est d'ailleurs certainement une des raisons pour lesquelles une bonne partie des élèves abandonnent en première année.
@@ -142,8 +142,8 @@ Nous réalisons des logiciels pour de multiples industries et sommes pourtant le
 
 <img src="../assets/UXBUTNOTDX.PNG"/>
 
-| meme sur l'expérience développeur |
-| :-------------------------------: |
+| F2 : meme sur l'expérience développeur |
+| :------------------------------------: |
 
 <div style="page-break-after: always;"></div>
 
@@ -271,8 +271,8 @@ Il suffit alors d'additionner les nombres situés dans les mêmes diagonales pou
 
 ![](../assets/Batons-Napier.png)
 
-| Bâtons de Napier |
-| :--------------: |
+| F3 : Bâtons de Napier |
+| :-------------------: |
 
 Pour clôturer la présentation d'abaques, c'est en **1621** que **William Oughtred**, qui est a l'origine de la notation de π et "x" pour la multiplication, se base sur les travaux de Napier et invente une **règle coulissante** destinée à calculer des multiplications, divisions et également des exponentielles, racines, puissances et calculs trigonométriques, laissant l'addition et la soustraction à de plus simples abaques. Aujourd'hui obsolètes, elles ont pendant longtemps été, à la manière des tables de calcul, une solution suffisamment précise, abordable et facile à créer.
 
@@ -288,7 +288,7 @@ Pour faire la transition avec l'époque suivante, je vais brièvement parler du 
 
 ### Époque contemporaine
 
-C'est la période actuelle, le début en est défini par la révolution industrielle qui a commencée en **1760** au Royaume-Unis, le besoin de calcul, de gestion et d'automatisation est alors grandissant. La France aboli la monarchie en 1792, les États deviennent pour la plupart des républiques, l'ancien régime et les empires coloniaux prennent fin, l'esclavage est aboli, et les deux guerres mondiales prendront lieu par la suite. Depuis la fin de l'[époque moderne](#époque-moderne) et pendant tout le 19<sup>ème</sup> siècle s'est développé l'éducation nouvelle et la **pédagogie**, avec ses variantes laïques, gratuites, actives et mutuelles. Je ne pourrais pas détailler ses principaux acteurs que sont Charles Démia, Jean Jacques Rousseau, Johann Heinrich Pestalozzi, Grégoire Girard, Andrew Bell, Joseph Lancaster, Francisco Ferrer, Adolphe Ferrière, Maria Montessori, Nicolas de Condorcet, Louis-Joseph Charlier et bien évidement Jules Ferry. Je tiens juste à les mentionner pour que vous puissiez vous y (ré)intéresser. Ceux qui m'ont le plus marqué sont Celestin Freinet avec la correspondance et son journal, ainsi que John Dewey auteur de *The School and Society*[^b9], qui à été imprégné par la théorie de l'évolution de Charles Darwin, et le pragmatisme du logicien [Charles Sanders Peirce](#Guerre-informationnelle-et-Anticipation) dont je parlerai dans ce chapitre.
+C'est la période actuelle, le début en est défini par la révolution industrielle qui a commencée en **1760** au Royaume-Unis, le besoin de calcul, de gestion et d'automatisation est alors grandissant. La France aboli la monarchie en 1792, les États deviennent pour la plupart des républiques, l'ancien régime et les empires coloniaux prennent fin, l'esclavage est aboli, et les deux guerres mondiales prendront lieu par la suite. Depuis la fin de l'[époque moderne](#époque-moderne) et pendant tout le 19<sup>ème</sup> siècle s'est développé l'éducation nouvelle et la **pédagogie**, avec ses variantes laïques, gratuites, actives et mutuelles. Je ne pourrais pas détailler ses principaux acteurs que sont Charles Démia, Jean Jacques Rousseau, Johann Heinrich Pestalozzi, Grégoire Girard, Andrew Bell, Joseph Lancaster, Francisco Ferrer, Adolphe Ferrière, Maria Montessori, Nicolas de Condorcet, Louis-Joseph Charlier et bien évidement Jules Ferry. Je tiens juste à les mentionner pour que vous puissiez vous y (ré)intéresser. Ceux qui m'ont le plus marqué sont Célestin Freinet avec la correspondance et son journal, ainsi que John Dewey auteur de *The School and Society*[^b9], qui à été imprégné par la théorie de l'évolution de Charles Darwin, et le pragmatisme du logicien [Charles Sanders Peirce](#Guerre-informationnelle-et-Anticipation) dont je parlerai dans ce chapitre.
 
 [^b9]: https://archive.org/details/schoolsociety00deweiala/page/n8/mode/1up
 
@@ -334,8 +334,8 @@ Entre **1844** et **1854**, **George Boole**, invente un algèbre binaire épony
 | :----------: | :--------: | :-----------------: | :----: | :----: | :-----------: | :-------: | :-------------------------------------------------: | :------------: |
 | Implique que | Equivaut à | Négation ou inverse | A et B | A ou B | Soit A soit B | Ni A ni B | Pout tous éléments de A,<br />on réalise l'action B | A prouve que B |
 
-| Définitions de la syntaxe logique |
-| :-------------------------------: |
+| F4 : Définitions de la syntaxe logique |
+| :------------------------------------: |
 
 [^b10]: Irving H. Annelis, « Peirce's Truth-functional Analysis and the Origin of the Truth Table »
 [^b11]: https://courses.media.mit.edu/2004spring/mas966/Peirce%201878%20Make%20Ideas%20Clear.pdf
@@ -349,8 +349,8 @@ Entre **1844** et **1854**, **George Boole**, invente un algèbre binaire épony
 | Faux | Vrai | Faux  |   Vrai    | Vrai | Faux |     Vrai      |
 | Faux | Faux | Faux  |   Vrai    | Vrai | Vrai |     Vrai      |
 
-| Table de vérité |
-| :-------------: |
+| F5 : Table de vérité |
+| :------------------: |
 
 Dans la section "[Premières machines à calculer](#Premières-machines-à-calculer)" du chapitre "époque moderne", j'ai introduis Basile Bouchon, Jean-Baptiste Falcon, et Vaucanson qui ont prototypé le métier à tisser automatisé. Pour finir de tisser cette partie de l'histoire, **Joseph Marie** Jacquard invente en **1800** le **métier à tisser Jacquard**, complètement automatisé. Cette machine inspirera **Charles Babbage**, la première personne à avoir automatiser l'édition de tables de calcul. Il a initialement travaillé avec des calculateurs humains, pour lesquels la conception de telles tables étaient fastidieuses à superviser et encore plus à calculer et réaliser. C'est pourquoi il a œuvré à développer une machine basée sur les méthodes de calcul de l'époque. Les calculateurs humains effectuaient alors essentiellement des additions et des soustraction, sous la supervision de mathématiciens qui leurs prépareraient les formules, d'après la méthode des différences finies. D'où le nom de la machine que Babbage a inventé en **1834**, "la **machine à différences**". Ayant l'expérience du milieu, il voulait réaliser un système fiable, résilient à l'erreur. Cette dernière pouvait provenir du calcul, mais arrivait le plus souvent lors de l'impression. Il a donc fait en sorte, dès la phase de design, que sa machine prépare directement le texte en résultant pour l'impression. C'est une approche très intéressante, qui réduit les intermédiaires et automatise toute la chaine de création. La machine est un outil qui peut guider et réduire les erreurs, ce qui à l'époque était crucial, notamment en mer, où une erreur de calcul ou d'impression sur [l'almanach du navigateur](#De-la-mécaniques-à-électronique) pouvait mener à la perte de tout un navire et de son équipage. De 1820 à 1830 il a visité beaucoup d'usines européennes dans le but de chercher des idées pour sa machine à différences. Il ne parvint pas à son objectif initial mais devint un économiste des machines industrielles de son époque. À peine eu t'il conçu la machine à différence, qu'il eu oublié la finalité de base : réaliser des tables de calcul, et il embrassa alors l'idée d'**une machine capable de calculer tout ce qu'un humain pourrait lui demander, la Machine Analytique**. De son vivant, seul le concept existait, elle ne vu le jour que grâce à son fils, qui après une tentative infructueuse en 1888, revint à la charge en 1906 et réalisa une machine fonctionnelle qu'il eu présenté devant l'académie royale anglaise d'astronomie, après quoi il en fit don au musée des sciences de Londres en 1910.
 
@@ -576,7 +576,7 @@ De mon expérience, j'ai pu constater la différence entre prestation de service
 | UX/UI          | Spécifications visuelles et ergonomiques   | Client         | Développeur    | Chef de projet |
 | Développeur    | Code source                                | Chef de projet | Chef de projet | Chef de projet |
 
-| Matrice RACI d'après mes 5 ans d'expérience dans l'industrie informatique |
+| F6 : Matrice RACI d'après mes 5 ans d'expérience dans l'industrie informatique |
 | :----------------------------------------------------------: |
 
 Il convient de planifier et prendre son temps. Les deux vont de pair, il ne sert à rien d'être dans la précipitation, elle même à l'erreur. Un travailleur peut être rapide mais il ne lui faut pas oublier la rigueur, ou tenter de faire plusieurs choses à la fois. Il vaut mieux prendre une pause, que d'être happé par la réalisation d'une autre tâche et oublier de finaliser celle initiale. Et si je doit changer de tâche, alors il convient de la noter et mieux, la (re)planifier. Malgré la planification il faut aussi accepter que tout et n'importe quoi peut arriver à n'importe quel moment de la vie de chacun et donc savoir être flexible. C'est également pourquoi le partage de connaissance est important en entreprise. Lors de mon alternance chez SoeMan j'ai pu participer à des réunions d'on-boarding après quoi nous réalisions des comptes rendus. À De Bussac Multimedia, nous pouvions partager initialement des articles de blogs, et plus tard présenter des diaporamas et démonstrations de sujets techniques dans des sessions afterwork. Actuellement chez ABGX, nous avons même tous nos vendredis après midi de dédié à un projet interne et annexe de notre choix. Pour autant nous ne planifions que les tâches à faire, pas exactement quand, nous définissons un ordre, une pile des tâches à réaliser avec des priorités et urgences. Tous les workflows de travail que j'ai pu voir ont leurs avantages et leurs inconvénients, pour autant c'est chez ABGX que j'ai personnellement retrouvé ce qui me convient le plus parmi toutes mes expériences. J'ai immensément apprécié être à plein temps sur la refonte graphique de SoEMan mais je n'avais plus l'impression d'être utile dans l'avancement du logiciel durant cette période. Chez De Bussac au contraire, j'avais la sensation d'être en symbiose avec mon emploi du temps qui régissait mon activité professionnelle avec malgré tout un certain confort. Ce même confort m'a appris à prendre mon temps lors de mon travail à ABGX, m'apportant cependant une sensation de décélération qui m'a parfois frustré. Pour autant, c'est celle qui m'a remis en phase avec le travail. Dans le travail comme en voiture, il faut adapter sa vitesse à son environnement. Même sur une piste de course comme en formule&nbsp;1, les meilleures temps sont réalisés en ayant la vitesse la plus optimale selon les conditions matérielles au moment donné. J'ai souvent entendu dire "ce n'est pas ce qui est demandé ni prioritaire, on fera ça plus tard", et bien évidement, la plupart du temps cela fini par n'être jamais fait. Dans les projets informatiques c'est ainsi que la dette technique s'immisce : les fonctionnalités s’accumulent, les développements s’enchaînent, et l'équipe technique ne pallie aux problèmes qu'avec des corrections rapides, s’attaquant aux causes plutôt qu'aux conséquences. Dès que je constate un problème, je doit avoir le réflexe de réaliser la tâche dans la foulée, ou de la planifier pour que l'information ne se perde pas.
@@ -709,15 +709,15 @@ La deuxième étape est d'ouvrir les ports. Allez dans le panneau de configurati
 
 ![](..\assets\freebox.png)
 
-| Accès à la gestion des ports dans l'interface freebox OS 4.7 |
+| F7 : Accès à la gestion des ports dans l'interface freebox OS 4.7 |
 | :----------------------------------------------------------: |
 
 Pour l'étape trois je vais configurer un nom de domaine, cela permet de relier une [adresse IP](#Genèse-d'internet) à un alias textuel plus simple. Pour arriver sur un site internet, nous ne retenons jamais son adresse IP mais son nom de domaine comme `google.fr`. Pour faire cette liaison entre l'adresse IP et son surnom, le plus simple serait que votre box internet possède une IP fixe ou une option pour qu'elle le soit. Si c'est le cas alors il suffit d'aller sur le site où vous avez réservé votre nom de domaine et ajouter une entrée DNS de type A si vous avez une adresse IPv4, ou AAAA si votre adresse IP est en version 6. 
 
 <a name="dns-interface-infomaniak"></a>![](../assets/DNS_record.png)
 
-| Interface de configuration DNS d'Infomaniak |
-| :-----------------------------------------: |
+| F8 : Interface de configuration DNS d'Infomaniak |
+| :----------------------------------------------: |
 
 Si votre IP est susceptible de changer, les hébergeurs proposent généralement des solutions de DNS dynamique, le concept est simple, lorsque votre adresse IP change, votre serveur doit contacter le service DNS et lui communiquer sa nouvelle adresse IP. Avant de pouvoir obtenir une IP statique par le biais de mon fournisseur d'accès internet, j'ai eu recours à ce genre de méthode en utilisant l'API d'Infomaniak. Vous pouvez retrouver mon code sur : https://github.com/hedocode/nodeInfomaniakDynamicDNS
 
@@ -759,7 +759,7 @@ Pour finir cette démonstration je vais vous présenter deux autres mécanismes 
 
 <a name="script-windows-startup"></a>![](../assets/startup.png)
 
-| Contenu d'un script situé dans le dossier de démarrage Windows |
+| F10 : Contenu d'un script situé dans le dossier de démarrage Windows |
 | :----------------------------------------------------------: |
 
 La dernière astuce est celle que j'utilise le plus. Je suis l'heureux détenteur d'un ordinateur portable Asus Zenbook, il est très compact mais a l'inconvénient de beaucoup chauffer. À mon arrivée à Hexagone j'ai donc décidé d'acheter un mini PC et l'utiliser à distance. Pour cela, j'ai activer le bureau à distance de Windows, cela se fait très simplement dans les paramètres. Ensuite il suffit d'activer le port 3389 comme indiqué plus tôt. Si vous le faites il faut cependant avoir un mot de passe avec assez d'entropie, pour cela il doit être assez long et contenir assez de caractères différents, incluant des minuscules, majuscules, chiffres, et caractères spéciaux. Malgré cette disposition, des botnets peuvent tenter de réaliser de multiples tentatives de connexion ou trouver une faille de sécurité dans le protocole et interférer avec votre système. Il convient donc de ne pas ouvrir le port 3389 et d'installer un VPN pour accéder au réseau local de manière sécurisée. L'avantage du **Bureau à distance** est que je peut à tout moment retrouver ma session telle que je l'avais laissée, sans affecter le travail qui est en cours dessus, et ce sur plusieurs périphériques différents. 
@@ -962,7 +962,7 @@ Sur un serveur web, les fonctionnalités sont disponibles au travers des APIs, �
 
 <img src="..\assets\editide_swagger.png" />
 
-| Comparaison d'interfaces entre celle de Swagger et ma proposition de système |
+| F11 : Comparaison d'interfaces entre celle de Swagger et ma proposition de système |
 | :----------------------------------------------------------: |
 
 Comme vous pouvez le voir dans l'illustration ci-dessus, mon gestionnaire d'API permet de tester les fonctionnalités comme sur swagger. Dans les deux outils, l'utilisateur peut renseigner ses informations dans un formulaire pour utiliser les fonctionnalités du site. La différence est que celui d'EditIDE est autogénéré en fonction du code JavaScript, et que le développeur pourra ultérieurement le paramétrer sans utiliser de code, directement depuis l'interface. L'autre différence notable dans la version actuelle d'EditIDE est que l'affichage du retour envoyé par le serveur n'est pas représenté sous forme de texte, mais sous celle d'un explorateur semblable à un gestionnaire de fichier. Une API renvoie souvent un format correspondant à un objet, dans notre cas, du JSON. Des outils de visualisation du JSON existent mais il ne me conviennent pas. Ils se contentent de l'afficher tel quel en temps que long texte brut incompréhensible. Dans mon affichage, je ne souhaite n'afficher que les clés et valeurs du chemin où je suis actuellement, à commencer par la racine. De la même manière, quand je travaille sur une fonction je n’ai pas besoin de voir autre chose que ses dépendances. Tout le reste n'est qu'une information parasite. C'est pourquoi j'ai appliquer la même logique d'arborescence pour visualiser les fichiers de code, et je la garderai dans tout le fonctionnement d'EditIDE de la même manière que les fils d'arianes (Acceuil > Page > Article > ...) sont devenus universels sur la plupart des sites webs et applications. 
@@ -971,8 +971,8 @@ J'ai donc eu, lors de mon développement de cette solution, besoin de créer un 
 
 ![](..\assets\editide_js_file_AST_viewer.png)
 
-| Comparaison VSCode vs EditIDE |
-| :---------------------------: |
+| F12 : Comparaison VSCode vs EditIDE |
+| :---------------------------------: |
 
 Je ne vais pas présenter tous les projets, mais face au grand nombre d'entre eux que je dois gérer et maintenir à jour, je me suis créer un `project-viewer`. Connecté à Gitlab à l'aide d'un token me permettant accéder à son API, je peut afficher la liste de mes projets à l'aide à l'aide de mon `object-viewer` que j'ai configuré pour qu'il récupère un projet lorsque je clique dessus. Je prévoit également d'ajouter une sélection et/ou d'ajouter un bouton pour récupérer tout les projets qui ne sont pas encore téléchargés. Gitlab n'affiche pas d'arborescence des projets. Par défaut elle affiche tous les projets par ordre alphabétique, et propose de voir les groupes et sous groupes dans une page à part. J'ai de même commencé à implémenter les issues Gitlab, pour avoir un système de gestion de ticket déjà populaire et gratuit, qui me permet d'avoir le stricte nécessaire en terme de gestion de projet.
 
@@ -984,8 +984,8 @@ Je ne vais pas présenter tous les projets, mais face au grand nombre d'entre eu
 
 ![](..\assets\editide_gitlab_projects.png)
 
-| Prototype project-manager utilisant l'API de Gitlab |
-| :-------------------------------------------------: |
+| F13 : Prototype project-manager utilisant l'API de Gitlab |
+| :-------------------------------------------------------: |
 
 Git est un logiciel de gestion de versions décentralisé sous licence GNU GPL. C'est un logiciel libre et gratuit, initié en **2005** par Linus Torvalds le créateur de Linux, lors de la création de son noyau. Linus ne voulait pas réaliser ce projet seul et a rapidement compris que la qualité d'un logiciel viendrai des débats houleux entre ses collaborateurs et l'implémentation de la meilleure idée à la fin. J'ai commencé à implémenter une gestion graphique de cet outil notamment pour récupérer la dernière version à jour. À terme je la couplerai aux tests automatisés pour proposer à l'utilisateur de "sauvegarder" son code en faisant des commit dès ses modifications passent les tests. Je vais désormais vous présenter les fonctionnalités que je n'ai pas encore implémenté.
 
@@ -1033,7 +1033,7 @@ La pratique du Big Data repose sur cinq piliers qui correspondent aux 5V de l'in
 
 ![](../assets/occurances_mots_memoire.png)
 
-| Top 44 des mots de 5 lettres les plus utilisés dans ce mémoire |
+| F14 : Top 44 des mots de plus de 5 lettres les plus utilisés dans ce mémoire |
 | :----------------------------------------------------------: |
 
 <div style="page-break-after: always;"></div>
@@ -1042,22 +1042,22 @@ Cette première analyse m'as permis d'être sûr que les mots les plus utilisés
 
 ![](..\assets\nb_mots_par_chapitres.png)
 
-| Nombre de mots par chapitre de ce mémoire |
-| :---------------------------------------: |
+| F16 : Nombre de mots par chapitre de ce mémoire |
+| :---------------------------------------------: |
 
 Oui, j'ai utilisé Wikipédia et ChatGPT pour écrire cet ouvrage, mais aucun texte n'en est extrait. Pourquoi ? Je tenais à rédiger moi même, comme je vous l'aurais expliqué à l'oral. De plus les Intelligences Artificielles pourraient ne pas avoir le droit d'auteur ainsi que d'exploitation commerciale et je me prévaux de l'utiliser comme source sûre, au même titre que toutes les autres. Le passage sur Richard Stallman à néanmoins vu le jour grâce au modèle de génération de texte qu'est ChatGPT. Voici le dialogue qui en est à l'origine :<a name="chat-gpt-usage"></a>
 
 ![](../assets/ChatGPTRichardStallman.png)
 
-| Identification d'un orateur présent dans le reportage "*Révoltes et révolutions technologiques*" d'ARTE |
+| F17 : Identification d'un orateur présent dans le reportage "*Révoltes et révolutions technologiques*" d'ARTE |
 | :----------------------------------------------------------: |
 
 J'ai donc découvert que OpenAI n'aurais évidement pas été racheté par Microsoft s'il avait été sous licence GNU, et que le homebrew club a été autant fier que déçu qu'IBM lance un ordinateur commercial utilisant leur code.
 
-Cela m'as prit du temps de reprendre et aboutir mes études, d'autant que ca m'en a pris de relire des faits historique et scientifiques. L'histoire est avant tout ce que l'humanité fait dans le ***temps*** que ce grand tout lui a accordé jusque qu'à présent. J'ai écrit ce mémoire assez naturellement, en le commençant en 4<sup>ème</sup> année, avec l'idée globale de ce qu'un mémoire devait comporter, recueillie auprès d'élèves de 5<sup>ème</sup> année lors des séances de sports, un an avant d'avoir eu l'ensemble des consignes données par M. Pachon. Je tiens d'ailleurs à remercier ce dernier pour ses consignes qui m'ont permis de mieux structurer mon document et de le valider auprès de lui. Je fais désormais plus attentions à mes actes et à mes dires, la communication passe par la transparence, l'adéquation, la clarté, la crédibilité, et la réactivité. Je m'engage désormais à y faire attention, en tant que futur président d'une SASU. Politesse, Respect et Bienveillance seront les maîtres mots de ma philosophie d'entreprise. Veiller à bien faire et bien communiquer, bien travailler, bien apprendre et retransmettre. Par dessus tout, essayer tous les jours, malgré les hauts et les bas, de devenir un peu meilleur que la veille, tout en célébrant les victoires et en prenant le temps de bien se reposer. Comme dis au début de cette postface, hormis les relectures qui ont commencé mi-janvier 2024, 2 mois avant la date de rendu finale, j'ai été seul acteur de la relecture et de la rédaction de cette œuvre. Et s'il y'a bien quelque chose que nous ne pouvons comprendre qu'en étant seul, c'est bien que devenir adulte concomite avec faire tous les jours un peu plus attention au soi de demain. Tout réside dans la préparation et dans l'attention accordée à son soi-futur. Tout adulte a déjà été enfant, et ne le devient que quand il arrive à être à la fois son propre parent et enfant, mentor et apprenant. Puisque j'ai beaucoup travaillé sur l'écriture de ce mémoire qui m'a tant appris, je finirai sur une citation de Célestin Freinet parlant de l'imprimerie et plus généralement de l'écriture en tant qu'exercice pédagogique : 
+Cela m'as prit du temps de reprendre et aboutir mes études, d'autant que ca m'en a pris de relire des faits historique et scientifiques. L'histoire est avant tout ce que l'humanité fait dans le ***temps*** que ce grand tout lui a accordé jusque qu'à présent. J'ai écrit ce mémoire assez naturellement, en le commençant en 4<sup>ème</sup> année, avec l'idée globale de ce qu'un mémoire devait comporter, recueillie auprès d'élèves de 5<sup>ème</sup> année lors des séances de sports, un an avant d'avoir eu l'ensemble des consignes données par M. Pachon. Je tiens d'ailleurs à remercier ce dernier pour ses consignes qui m'ont permis de mieux structurer mon document et de le valider auprès de lui. Je fais désormais plus attentions à mes actes et à mes dires, la communication passe par la transparence, l'adéquation, la clarté, la crédibilité, et la réactivité. Je m'engage désormais à y faire attention, en tant que futur président d'une SASU. Politesse, Respect et Bienveillance seront les maîtres mots de ma philosophie d'entreprise. Veiller à bien faire et bien communiquer, bien travailler, bien apprendre et retransmettre. Par dessus tout, essayer tous les jours, malgré les hauts et les bas, de devenir un peu meilleur que la veille, tout en célébrant les victoires et en prenant le temps de bien se reposer. Comme dis au début de cette postface, hormis les relectures qui ont commencé mi-janvier 2024, 2 mois avant la date de rendu finale, j'ai été seul acteur de la relecture et de la rédaction de cette œuvre. Et s'il y'a bien quelque chose que nous ne pouvons comprendre qu'en étant seul, c'est bien que devenir adulte concomite avec faire tous les jours un peu plus attention au soi de demain. Tout réside dans la préparation et dans l'attention accordée à son soi-futur. Tout adulte a déjà été enfant, et ne le devient que quand il arrive à être à la fois son propre parent et enfant, mentor et apprenant. Puisque j'ai beaucoup travaillé sur l'écriture de ce mémoire qui m'a tant appris, je finirai sur une citation de [Célestin Freinet](#Époque-contemporaine) parlant de l'imprimerie et plus généralement de l'écriture en tant qu'exercice pédagogique : 
 
 > Dans la pratique, on ne se lasse jamais d’imprimer et les adultes se laissent prendre eux aussi à la minutie d’une technique qui permet la transcription en une forme magnifiée et définitive des textes auxquels on veut donner vie et harmonie. L’enfant qui compose un texte le sent naître sous sa main ; il lui donne une nouvelle vie, il le fait sien. Il n’y a désormais plus d’intermédiaire dans le processus qui conduit de la pensée ébauchée, puis exprimée, au journal qu’ils postent pour les correspondants : tous les échelons y sont : écriture, mise au point collective, composition, illustration, disposition sur la presse, encrage, tirage, groupage, agrafage. C’est justement cette continuité artisanale qui constitue l’essentiel de la portée pédagogique de l’imprimerie à l’école. Elle corrige ce qu’a d’irrationnel en éducation cette croyance que d’autres peuvent créer pour nous notre propre culture.
-> *Célestin Freinet, Le journal scolaire, 1967*
+> *[Célestin Freinet](#Époque-contemporaine), Le journal scolaire, 1967*
 
 ## Annexes
 
@@ -1065,8 +1065,8 @@ Mon œuvre peut être vendue avec mon accord mais elle est libre et sera toujour
 
 ![](..\assets\connaissance.drawio.png)
 
-| Diagramme de venn pour classifier une information |
-| :-----------------------------------------------: |
+| F18 : Diagramme de venn pour classifier une information |
+| :-----------------------------------------------------: |
 
 
 
@@ -1270,22 +1270,22 @@ displaySerie(values_more_than_5_letters)
 
 #### Table des illustrations
 
-| Titre                                                        | Page |
-| ------------------------------------------------------------ | :--: |
-| [Comparaison dpkg keyboard-configuration VS residence-manager](#dpkg-keyboard-configuration-vs-residence-manager) |  5   |
-| [meme sur l'expérience développeur](#dx-meme)                |  10  |
-| [Bâtons de Napier](#batons-de-napier)                        |  27  |
-| [Définitions de la syntaxe logique](#definition-syntaxe-logique) |  35  |
-| [Table de vérité](#table-de-verite)                          |  35  |
-| [Matrice RACI d'après mes 5 ans d'expérience dans l'industrie informatique](#matrice-raci) |  62  |
-| [Accès à la gestion des ports dans l'interface freebox OS 4.7](#ports-freebox-os) |  74  |
-| [Interface de configuration DNS d'infomaniak](#dns-interface-infomaniak) |  74  |
-| [Contenu d'un script situé dans le dossier de démarrage Windows](#script-windows-startup) |  76  |
-| [Graphique UML discrétisé d'une voiture en tant que véhicule](#UML-voiture-vehicule) |  82  |
-| [Comparaison d'interfaces entre celle de Swagger et ma proposition de système](#swagger-vs-api-viewer) |  87  |
-| [Comparaison VSCode vs EditIDE](#editide-vs-code)            |  88  |
-| [Prototype project-manager utilisant l'API de Gitlab](#prototype-project-manager) |  89  |
-| [Top 44 des mots de plus de 5 lettres les plus utilisés dans ce mémoire](#top-44-mots-memoire) |  94  |
-| [Nombre de mots par chapitre de ce mémoire](#nb-mots-par-chapitre-memoire) |  95  |
-| [Identification d'un orateur présent dans le reportage "*Révoltes et révolutions technologiques*" d'ARTE](#chat-gpt-usage) |  95  |
-| [Diagramme de venn pour classifier une information](#venn-information-diagram) |  98  |
+|  Id  | Titre                                                        | Page |
+| :--: | ------------------------------------------------------------ | :--: |
+|  F1  | [Comparaison dpkg keyboard-configuration VS residence-manager](#dpkg-keyboard-configuration-vs-residence-manager) |  5   |
+|  F2  | [meme sur l'expérience développeur](#dx-meme)                |  10  |
+|  F3  | [Bâtons de Napier](#batons-de-napier)                        |  27  |
+|  F4  | [Définitions de la syntaxe logique](#definition-syntaxe-logique) | 35F  |
+|  F5  | [Table de vérité](#table-de-verite)                          |  35  |
+|  F6  | [Matrice RACI d'après mes 5 ans d'expérience dans l'industrie informatique](#matrice-raci) |  62  |
+|  F7  | [Accès à la gestion des ports dans l'interface freebox OS 4.7](#ports-freebox-os) |  74  |
+|  F8  | [Interface de configuration DNS d'infomaniak](#dns-interface-infomaniak) |  74  |
+|  F9  | [Contenu d'un script situé dans le dossier de démarrage Windows](#script-windows-startup) |  76  |
+| F10  | [Graphique UML discrétisé d'une voiture en tant que véhicule](#UML-voiture-vehicule) |  82  |
+| F11  | [Comparaison d'interfaces entre celle de Swagger et ma proposition de système](#swagger-vs-api-viewer) |  87  |
+| F12  | [Comparaison VSCode vs EditIDE](#editide-vs-code)            |  88  |
+| F13  | [Prototype project-manager utilisant l'API de Gitlab](#prototype-project-manager) |  89  |
+| F14  | [Top 44 des mots de plus de 5 lettres les plus utilisés dans ce mémoire](#top-44-mots-memoire) |  94  |
+| F16  | [Nombre de mots par chapitre de ce mémoire](#nb-mots-par-chapitre-memoire) |  95  |
+| F17  | [Identification d'un orateur présent dans le reportage "*Révoltes et révolutions technologiques*" d'ARTE](#chat-gpt-usage) |  95  |
+| F18  | [Diagramme de venn pour classifier une information](#venn-information-diagram) |  98  |
